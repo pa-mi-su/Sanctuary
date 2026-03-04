@@ -1,0 +1,48 @@
+{
+  "id": "04-13_saint_martin_i_pope_and_martyr_optional_memorial",
+  "name": "Saint Martin I, Pope and Martyr—Optional Memorial",
+  "mmdd": "04-13",
+  "feast": "The Thirteenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calendar_of_saints"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-13_saint_martin_i_pope_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "004c44ae7e96f5b3d2bc751d33723bade93e2ea175344623e1e559ad2ce7d005",
+        "langs": {
+          "es": {
+            "translatedHash": "960ef5532f29402c90a98c150bda27a1c8bca72ad1ce44139debc726790cabbf",
+            "updatedAt": "2026-02-24T23:09:14.403Z"
+          },
+          "pl": {
+            "translatedHash": "71cd7eb4fc28bf05776e946bc5a32049e4605442e74e58b9927161eaff53c8f0",
+            "updatedAt": "2026-02-24T23:09:15.151Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9bff7eda5a6555e3642539ece7081ee3f624ded5274a9902cde87dc8845c1b28",
+        "langs": {
+          "es": {
+            "translatedHash": "14519280903958e6966101c6d64340374b87597fcf8b8f4dc0fd14a75707b37d",
+            "updatedAt": "2026-02-24T23:09:16.338Z"
+          },
+          "pl": {
+            "translatedHash": "c38981dc8fbba7c9e48a47ad8137da2806dd42fc17fa152c1c8fa83ec88928c4",
+            "updatedAt": "2026-02-24T23:09:16.879Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Martín I, Papa y Mártir—Memoria Opcional",
+  "name_pl": "Święty Marcin I, papież i męczennik — wspomnienie dowolne",
+  "feast_es": "El Decimotercer Día de Abril",
+  "feast_pl": "Trzynasty dzień kwietnia"
+}

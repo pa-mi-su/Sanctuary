@@ -1,0 +1,48 @@
+{
+  "id": "03-09_saint_frances_of_rome_religious_optional_memorial",
+  "name": "Saint Frances of Rome, Religious—Optional Memorial",
+  "mmdd": "03-09",
+  "feast": "The Ninth day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernadette_Soubirous"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-09_saint_frances_of_rome_religious_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bc38db1d5fa7c9df2e4e69eee5a1dc2162d139034038c15aa422e11bafe92d15",
+        "langs": {
+          "es": {
+            "translatedHash": "ac865a4a9150c483fa5614cdfc0f69659a881cf7ba572cd49fa2e21312036d89",
+            "updatedAt": "2026-02-24T22:51:06.265Z"
+          },
+          "pl": {
+            "translatedHash": "1267eff9c26e763fa9f4407fc6894acda002c689439633b2fb4ddbd3ae05d6f1",
+            "updatedAt": "2026-02-24T22:51:07.057Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ddddf16c795380c9e932615da6403d2859475efce11d2ff2b1f7f2d537b1b13",
+        "langs": {
+          "es": {
+            "translatedHash": "a09e0dad487066a82956ce319c17c9aaf1c44a36ddd1066dccadcd383234ce69",
+            "updatedAt": "2026-02-24T22:51:07.563Z"
+          },
+          "pl": {
+            "translatedHash": "54545ca63a8276d2edea39ebe841b67261b1c2c5870a4247217f433bb282eabc",
+            "updatedAt": "2026-02-24T22:51:08.130Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Francisca Romana, Religiosa—Memoria Opcional",
+  "name_pl": "Święta Franciszka Rzymska, zakonnica — wspomnienie dowolne",
+  "feast_es": "El noveno día de marzo",
+  "feast_pl": "Dziewiąty dzień marca"
+}

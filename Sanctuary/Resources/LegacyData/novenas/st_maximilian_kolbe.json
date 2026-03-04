@@ -1,0 +1,284 @@
+{
+  "id": "st_maximilian_kolbe",
+  "title": "St. Maximilian Kolbe Novena",
+  "description": "St Maximilian Kolbe was Polish Franciscan friar, martyr, and saint who gave his life for a fellow prisoner in Auschwitz during World War II. Pray this novena for drug addicts, prisoners, families, and the pro-life movement.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Maximilian Kolbe"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 5
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-maximilian-kolbe-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: no hay mayor amor que dar la vida por los amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos nos concedas nuestras peticiones: (mencionar la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś raczył udzielić nam naszych próśb: (wymień tutaj prośbę…) O Łaskę, aby kochać Naszą Panią i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Rycerstwa Niepokalanej, który założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Matki Bożej na cały świat. Oddał życie za zupełnie obcą osobę i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zainspirowanej prawdziwym oddaniem Maryi. Prosimy Cię, Panie Jezu, spraw, abyśmy i my mogli całkowicie i bez zastrzeżeń oddać się miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźnim na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: mayor amor que este nadie tiene, que uno ponga su vida por sus amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos nos concedas nuestras peticiones: (mencione la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concede, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś raczył nam udzielić naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Najświętszą Maryję Pannę i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Rycerstwa Niepokalanej, które założył Maksymilian, rozprzestrzenił gorliwą pobożność do Najświętszej Maryi Panny na cały świat. Oddał życie za zupełnie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zrodzonej z prawdziwej pobożności do Maryi. Udziel, Panie Jezu, abyśmy i my całkowicie i bez zastrzeżeń oddali się miłości i służbie naszej Niebieskiej Królowej, abyśmy lepiej kochali i służyli bliźnim na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: no hay mayor amor que dar la vida por los amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos que nos concedas nuestras peticiones: (mencione la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Él entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, pokornie Cię prosimy, abyś udzielił nam naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Naszą Panią i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Rycerstwa Niepokalanej, które założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Matki Bożej na cały świat. Oddał życie za całkowicie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zrodzonej z prawdziwego oddania Maryi. Prosimy Cię, Panie Jezu, abyśmy i my mogli całkowicie, bez zastrzeżeń, oddać się miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźnim na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: mayor amor que este nadie tiene, que uno ponga su vida por sus amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos nos concedas nuestras peticiones: (mencione aquí la petición…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś udzielił nam naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Najświętszą Maryję Pannę i bliźniego tak hojnie, jak czynił to św. Maksymilian: Przez ruch Rycerstwa Niepokalanej, które założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Najświętszej Maryi Panny na cały świat. Oddał życie za zupełnie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zrodzonej z prawdziwego oddania Maryi. Prosimy Cię, Panie Jezu, abyśmy i my mogli całkowicie, bez zastrzeżeń, oddać się miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźnim na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: no hay mayor amor que dar la vida por los amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos que nos concedas nuestras peticiones: (mencione la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado por la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś raczył wysłuchać naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Naszą Panią i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Rycerstwa Niepokalanej, które założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Matki Bożej na cały świat. Oddał życie za zupełnie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zrodzonej z prawdziwego nabożeństwa do Maryi. Prosimy Cię, Panie Jezu, abyśmy i my mogli oddać się całkowicie, bez zastrzeżeń, miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźnim na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: mayor amor que este nadie tiene, que uno ponga su vida por sus amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos nos concedas nuestras peticiones: (mencionar la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś udzielił nam naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Naszą Panią i bliźniego tak hojnie, jak czynił to św. Kolbe: Poprzez ruch Milicji Niepokalanej, który założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Matki Bożej na cały świat. Oddał życie za całkowicie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zainspirowanej prawdziwym oddaniem Maryi. Prosimy Cię, Panie Jezu, abyśmy i my mogli całkowicie, bez zastrzeżeń, oddać się miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźniemu na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: no hay mayor amor que dar la vida por los amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos que nos concedas nuestras peticiones: (mencione la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Él entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para así amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś wysłuchał naszych próśb: (wymień tutaj prośbę…) O łaskę, by kochać Najświętszą Maryję Pannę i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Rycerstwa Niepokalanej, który założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Matki Bożej na cały świat. Oddał życie za całkowicie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zainspirowanej prawdziwym oddaniem Maryi. Prosimy Cię, Panie Jezu, abyśmy i my mogli całkowicie i bez zastrzeżeń oddać się miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźniemu na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: mayor amor que este nadie tiene, que uno ponga su vida por sus amigos, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos nos concedas nuestras peticiones: (mencione aquí la petición…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado en la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, pokornie Cię prosimy, abyś raczył wysłuchać naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Najświętszą Maryję Pannę i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Rycerstwa Niepokalanej, które założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Najświętszej Maryi Panny na cały świat. Oddał życie za zupełnie obcego człowieka i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zrodzonej z prawdziwego oddania Maryi. Prosimy Cię, Panie Jezu, abyśmy i my całkowicie i bez zastrzeżeń oddali się miłości i służbie naszej Niebieskiej Królowej, abyśmy lepiej kochali i służyli bliźnim na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nLord Jesus Christ, who said, greater love than this no man has that a man lay down his life for his friends, through the intercession of St. Maximilian Kolbe whose life illustrated such love, we beseech you to grant us our petitions: (mention request here…) For the Grace to Love Our Lady and Fellow Man as Generously as St. Kolbe Did: Through the Militia Immaculata movement, which Maximilian founded, he spread a fervent devotion to Our Lady throughout the world. He gave up his life for a total stranger and loved his persecutors, giving us an example of unselfish love for all men, a love that was inspired by true devotion to Mary. Grant, O Lord Jesus, that we too may give ourselves entirely without reserve to the love and service of our Heavenly Queen in order to better love and serve our fellowman in imitation of your humble servant, Maximilian. Amen.\n\nOur Father Hail Mary x3 Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSeñor Jesucristo, que dijiste: “Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos”, por la intercesión de San Maximiliano Kolbe, cuya vida ilustró tal amor, te suplicamos que nos concedas nuestras peticiones: (mencione la petición aquí…) Por la Gracia de Amar a Nuestra Señora y al Prójimo tan Generosamente como lo Hizo San Kolbe: A través del movimiento Milicia de la Inmaculada, que Maximiliano fundó, difundió una ferviente devoción a Nuestra Señora por todo el mundo. Él entregó su vida por un completo desconocido y amó a sus perseguidores, dándonos un ejemplo de amor desinteresado por todos los hombres, un amor inspirado por la verdadera devoción a María. Concédenos, oh Señor Jesús, que también nosotros nos entreguemos por completo y sin reservas al amor y servicio de nuestra Reina Celestial para amar y servir mejor a nuestro prójimo, imitando a tu humilde siervo, Maximiliano. Amén.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nPanie Jezu Chryste, który powiedziałeś, że większej miłości nikt nie ma nad tę, gdy ktoś życie swoje oddaje za przyjaciół swoich, przez wstawiennictwo św. Maksymiliana Kolbego, którego życie ukazało taką miłość, błagamy Cię, abyś udzielił nam naszych próśb: (wymień tutaj prośbę…) O Łaskę, by kochać Naszą Panią i bliźniego tak hojnie, jak czynił to św. Maksymilian: Poprzez ruch Milicji Niepokalanej, który założył Maksymilian, rozprzestrzenił gorliwe nabożeństwo do Matki Bożej na cały świat. Oddał życie za zupełnie obcą osobę i kochał swoich prześladowców, dając nam przykład bezinteresownej miłości do wszystkich ludzi, miłości zainspirowanej prawdziwym oddaniem Maryi. Prosimy Cię, Panie Jezu, abyśmy i my mogli całkowicie i bez zastrzeżeń oddać się miłości i służbie naszej Niebieskiej Królowej, aby lepiej kochać i służyć bliźniemu na wzór Twojego pokornego sługi, Maksymiliana. Amen.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "August 5Feastday:August 14Birth:1894Death:1941Patron saint of the pro-life movement, political prisoners, amateur-radio operators, drug addicts, and families. 📱",
+    "feast": "August 14Birth:1894Death:1941Patron saint of the pro-life movement, political prisoners, amateur-radio operators, drug addicts, and families. 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_maximilian_kolbe.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "c35543ce4f9df179fdfa1c540b8cdf036714b57328949a1ce49c0800833d83cb",
+        "langs": {
+          "es": {
+            "translatedHash": "798c0b007501a33f618a6f98a930d6805f277a12090b58a4048de73ab850751a",
+            "updatedAt": "2026-02-25T16:27:53.297Z"
+          },
+          "pl": {
+            "translatedHash": "e12eb8e0d3f33ec85fd9b8c3ad9c8f8423dea09c4e2df01ff5bd6918a476a299",
+            "updatedAt": "2026-02-25T16:27:53.990Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "861c4a1e1b429ee7f1b60f86b28658dd3d0f2c763ce3c1ca7ab66a2cb1412cb2",
+        "langs": {
+          "es": {
+            "translatedHash": "324bb73a8e4edad065ddb8b2e3fcd47d9907c28cc0dfcde6f8f228fddc5273eb",
+            "updatedAt": "2026-02-25T16:27:55.306Z"
+          },
+          "pl": {
+            "translatedHash": "a33beb2fe63d654680ea1bf480db0f0985aa1aae5a8054b07287234020803646",
+            "updatedAt": "2026-02-25T16:27:56.830Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "83253141001e3af261cdd7ecf22c430c3612892ee31f18de0bddcbce370ab8be",
+        "langs": {
+          "es": {
+            "translatedHash": "06dd6b64e8803675e69c3078835b3f4239d136df09dca8f6bca00c0581823f70",
+            "updatedAt": "2026-02-25T16:28:00.643Z"
+          },
+          "pl": {
+            "translatedHash": "f8f4bbdff2da739e694d5f67cd01bf9a04adfda7397c06f5c9f44de19312eaff",
+            "updatedAt": "2026-02-25T16:28:06.089Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "4688b7b9fda59728a35dbb2c5017869b3cb71e57dd7911ab2e1e506b73f37fba",
+        "langs": {
+          "es": {
+            "translatedHash": "60294b63ff7d984f88ffb519c7de3a94d8111bbfc2bb65d7489e33ff36d9d38a",
+            "updatedAt": "2026-02-25T16:28:08.859Z"
+          },
+          "pl": {
+            "translatedHash": "ab9693b6a0f886aeb9fb5e34e719892630c5825c2ba7da89fe0516fec9a441e7",
+            "updatedAt": "2026-02-25T16:28:14.297Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "5dcdacdccf1268807f5ce8c2c4963a58c050d68432e1d234da96dad02079ca66",
+        "langs": {
+          "es": {
+            "translatedHash": "67364f25222d842ae0efe4f8add9acaeb00e1b7129c916e05d4b420859362bcd",
+            "updatedAt": "2026-02-25T16:28:17.790Z"
+          },
+          "pl": {
+            "translatedHash": "b811b364bb8ff5a711f44d77c375324fe1ca0e84eb2cab73717ff6ff90bcd6da",
+            "updatedAt": "2026-02-25T16:28:23.565Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "4fdff6055856a01d4ca203e12cf342d89f7b2b2e4106216c87df862c42f6c576",
+        "langs": {
+          "es": {
+            "translatedHash": "674a541fa7fee86179dc9225140659e7c532deb4e3f688d21300aa1e26c556a6",
+            "updatedAt": "2026-02-25T16:28:27.748Z"
+          },
+          "pl": {
+            "translatedHash": "c1951d73ae50004a29854cda514425488e02d48f899c68a91a36d93ede3bec6f",
+            "updatedAt": "2026-02-25T16:28:32.774Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "0bce466390ac2732881463d6989ec246d8f23fce29f09fc621432dfa2cbb1fcc",
+        "langs": {
+          "es": {
+            "translatedHash": "7df467f3353960f5ecfbd2501100382e9b49814b4eb4768329948e6414750de8",
+            "updatedAt": "2026-02-25T16:28:36.096Z"
+          },
+          "pl": {
+            "translatedHash": "3fcf12263c1d7851b46b41c257e3dc086bc45517979c08aca99451ee0e7cb510",
+            "updatedAt": "2026-02-25T16:28:40.619Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "65367d8ebafd500b8a6122cf1bf302bb91f32d465c5f6e87caf18a417b6df765",
+        "langs": {
+          "es": {
+            "translatedHash": "3afb0d2931249f8c7aa90cfc209b266e10a38bba5e1ec38225be39ad17d0b7f7",
+            "updatedAt": "2026-02-25T16:28:44.357Z"
+          },
+          "pl": {
+            "translatedHash": "e600e81954f3e4d98aefa45e23c17c01ed015beeaa56f492a10a92afe3e0814a",
+            "updatedAt": "2026-02-25T16:28:48.979Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "4e7c51c9a7fe667cdfd65d909f3f7b0963282c58c56cca67fa4615d218eb7880",
+        "langs": {
+          "es": {
+            "translatedHash": "011248ca5463a23da8e93b7e0f1c3827a76aba09b427069e23cc8751521c4254",
+            "updatedAt": "2026-02-25T16:28:59.791Z"
+          },
+          "pl": {
+            "translatedHash": "39997e30afe3604482606d8a6435c44c30173474463af005d23c8cbe196f8c7d",
+            "updatedAt": "2026-02-25T16:29:05.384Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "94c1ddc4e7d0c922955366a24c723e5440ac75227b330bd8ea1845038cdb7a07",
+        "langs": {
+          "es": {
+            "translatedHash": "674a541fa7fee86179dc9225140659e7c532deb4e3f688d21300aa1e26c556a6",
+            "updatedAt": "2026-02-25T16:29:09.200Z"
+          },
+          "pl": {
+            "translatedHash": "c9b4bdfa05d467177cc6b8cc203e2d636d6345cc798815af049ce38d08064f8b",
+            "updatedAt": "2026-02-25T16:29:15.541Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "44aa0fc48ae27ea60bc0573b0bb631d6c45b8a46246659dd2817829d4a098d50",
+        "langs": {
+          "es": {
+            "translatedHash": "f7d00b6f4c4422a515910150f59944c445d5d63966da9e610b0e393a5f2c8450",
+            "updatedAt": "2026-02-25T16:29:22.211Z"
+          },
+          "pl": {
+            "translatedHash": "cb598a924ba250da238b044b5942cc9f365bf84e86bd3e58c6ab3777c0eb3827",
+            "updatedAt": "2026-02-25T16:29:26.345Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Maximiliano Kolbe",
+  "title_pl": "Nowenna do św. Maksymiliana Kolbego",
+  "description_es": "San Maximiliano Kolbe fue un fraile franciscano polaco, mártir y santo que dio su vida por un compañero prisionero en Auschwitz durante la Segunda Guerra Mundial. Reza esta novena por los drogadictos, los presos, las familias y el movimiento provida.",
+  "description_pl": "Św. Maksymilian Kolbe był polskim franciszkańskim zakonnikiem, męczennikiem i świętym, który oddał swoje życie za współwięźnia w Auschwitz podczas II wojny światowej. Módl się tę nowennę za osoby uzależnione, więźniów, rodziny oraz ruch pro-life.",
+  "intentions": [
+    "drug_addicts",
+    "prisoners",
+    "families",
+    "the_pro_life_movement"
+  ],
+  "intentions_es": [
+    "drogadictos",
+    "prisioneros",
+    "familias",
+    "el_movimiento_pro_vida"
+  ],
+  "intentions_pl": [
+    "narkomani",
+    "więźniowie",
+    "rodziny",
+    "ruch_pro_life"
+  ]
+}

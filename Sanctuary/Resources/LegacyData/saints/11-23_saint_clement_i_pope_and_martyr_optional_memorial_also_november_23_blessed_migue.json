@@ -1,0 +1,48 @@
+{
+  "id": "11-23_saint_clement_i_pope_and_martyr_optional_memorial_also_november_23_blessed_migue",
+  "name": "Saint Clement I, Pope and Martyr—Optional Memorial Also: November 23: Blessed Miguel Agustín Pro, Priest and Martyr—USA Optional Memorial Also: November 23: Saint Columban, Abbot—Optional Memorial",
+  "mmdd": "11-23",
+  "feast": "The Twenty-Third Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Cl%C3%A9ment-Centre.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-23_saint_clement_i_pope_and_martyr_optional_memorial_also_november_23_blessed_migue.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "514b9bd8df97d0f3dac3a10664c592bf794f727826aa969ba54bc76db5617cc1",
+        "langs": {
+          "es": {
+            "translatedHash": "7f9c1936ec24c65b6941e949e2fb6fb4b81941b184daa7118df75f6ecbfafa73",
+            "updatedAt": "2026-02-25T01:13:24.656Z"
+          },
+          "pl": {
+            "translatedHash": "7c191f9baa029016a03eb48cf98010659f63c68feb48ba00c83679610853b160",
+            "updatedAt": "2026-02-25T01:13:27.320Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c33a06249b0654b57df6b61e79b10e662e1fb41e2ee309ffb835f628b807df70",
+        "langs": {
+          "es": {
+            "translatedHash": "2596ce8118bd4805d54a53f66f0bb1a589ea54e59f7cd5555e96775b28008921",
+            "updatedAt": "2026-02-25T01:13:28.119Z"
+          },
+          "pl": {
+            "translatedHash": "bdf4b1c16250f18bf8e6f92b1cfe3f68d4773fc951cd82bd771335c1d6bbdec3",
+            "updatedAt": "2026-02-25T01:13:28.782Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Clemente I, Papa y Mártir—Memoria Opcional  \nTambién: 23 de noviembre: Beato Miguel Agustín Pro, Sacerdote y Mártir—Memoria Opcional en EE. UU.  \nTambién: 23 de noviembre: San Columbano, Abad—Memoria Opcional",
+  "name_pl": "Święty Klemens I, Papież i Męczennik — Wspomnienie dowolne  \nRównież: 23 listopada: Błogosławiony Miguel Agustín Pro, Kapłan i Męczennik — Wspomnienie dowolne w USA  \nRównież: 23 listopada: Święty Kolumban, Opatem — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Tercer Día de Noviembre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Listopada"
+}

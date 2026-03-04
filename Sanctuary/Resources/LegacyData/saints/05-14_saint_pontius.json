@@ -1,0 +1,78 @@
+{
+  "id": "05-14_saint_pontius",
+  "name": "Saint Pontius",
+  "mmdd": "05-14",
+  "feast": "The Fourteenth Day of May",
+  "summary": "Saint Pontius may refer to a number of Catholic saints:Pontius of Carthage, Christian saint and Latin author from Carthage\nPontius of Cimiez, Roman saint\nEbontius, also known as Pontius, Bishop of Barbastro, Spain\n",
+  "biography": "Pontius of Carthage (mid-third century), Christian saint and Latin author from Carthage\nPontius of Cimiez (died 257), Roman saint\nEbontius (died 1104), also known as Pontius, Bishop of Barbastro, Spain",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pontius"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-14_saint_pontius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d24cab2a0303c13915714e00aca3e35d6cf5f1eec783d3df1ac6abac85c92420",
+        "langs": {
+          "es": {
+            "translatedHash": "0792c8589f7896d5e1a1763c5a0ea4689e090518a9ef82133415385a9306bea9",
+            "updatedAt": "2026-02-24T23:25:18.574Z"
+          },
+          "pl": {
+            "translatedHash": "cdb23b7d74bea38865ce66dab4714494599319aa5364d0c84d286839f40f4a9e",
+            "updatedAt": "2026-02-24T23:25:19.263Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4403a12d5ced2d2672858f4a7708d1c3ab9a66903b4304e72dbd69886cea7526",
+        "langs": {
+          "es": {
+            "translatedHash": "04fa5db9d508b06cd15a49a043cc23787282bb7f6786af31d99c28d36491584a",
+            "updatedAt": "2026-02-24T23:25:19.895Z"
+          },
+          "pl": {
+            "translatedHash": "8178238fb3b9eadda2a6f3a16b0486fa3e88f870937466d903895435929491fe",
+            "updatedAt": "2026-02-24T23:25:20.765Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d2023e23c290e5c8b236fb3797e4f7d90e5e8139b1ee523f354cd94fc1a4337d",
+        "langs": {
+          "es": {
+            "translatedHash": "bb3dd97c7ad57ea366f60819678852e183bdfb3d7147cce67ebc535171a0efd9",
+            "updatedAt": "2026-02-24T23:25:21.840Z"
+          },
+          "pl": {
+            "translatedHash": "0a3c99915133fece0c7695c18f7f9a2a13008f4f7ea40ab78fe9fb93cf6e8cbd",
+            "updatedAt": "2026-02-24T23:25:23.995Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9bccc9b0eb38210db1957b874afd55122abbf0434b26fef08f4f67a6634bb373",
+        "langs": {
+          "es": {
+            "translatedHash": "989b52542f98114c4efa08657b92e34fc04d9a093741f5cb8d0a4bc07a7b4c7a",
+            "updatedAt": "2026-02-24T23:25:26.111Z"
+          },
+          "pl": {
+            "translatedHash": "79fb02f514265123dfd21379cb44fc80e87e64f6d86b455d201ede2441690386",
+            "updatedAt": "2026-02-24T23:25:28.219Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pontio",
+  "name_pl": "Święty Pontiusz",
+  "feast_es": "El día catorce de mayo",
+  "feast_pl": "Czternasty Dzień Maja",
+  "summary_es": "San Pontio puede referirse a varios santos católicos:  \nPontio de Cartago, santo cristiano y autor latino de Cartago  \nPontio de Cimiez, santo romano  \nEbontio, también conocido como Pontio, obispo de Barbastro, España",
+  "summary_pl": "Święty Pontius może odnosić się do kilku katolickich świętych:  \nPontius z Kartaginy, święty chrześcijański i autor łaciński z Kartaginy  \nPontius z Cimiez, święty rzymski  \nEbontius, znany również jako Pontius, biskup Barbastro w Hiszpanii",
+  "biography_es": "Ponciano de Cartago (mediados del siglo III), santo cristiano y autor latino de Cartago  \nPonciano de Cimiez (fallecido en 257), santo romano  \nEbontio (fallecido en 1104), también conocido como Ponciano, obispo de Barbastro, España",
+  "biography_pl": "Pontius z Kartaginy (połowa III wieku), święty chrześcijański i autor łaciński z Kartaginy  \nPontius z Cimiez (zm. 257), święty rzymski  \nEbontius (zm. 1104), znany również jako Pontius, biskup Barbastro w Hiszpanii"
+}

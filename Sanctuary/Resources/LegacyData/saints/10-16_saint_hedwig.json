@@ -1,0 +1,79 @@
+{
+  "id": "10-16_saint_hedwig",
+  "name": "Saint Hedwig",
+  "mmdd": "10-16",
+  "feast": "The Sixteenth Day of October",
+  "summary": "Hedwig of Silesia, a member of the Bavarian comital House of Andechs, was Duchess of Silesia from 1201 and of Greater Poland from 1231 as well as High Duchess consort of Poland from 1232 until 1238. She was canonized by the Catholic Church in 1267 by Pope Clement IV.",
+  "biography": "Hedwig of Silesia (also Hedwig of Andechs, German: Heilige Hedwig von Andechs, Silesian: Śwjynto Hyjdla, Latin: Hedvigis; 1174 – 15 October 1243), a member of the Bavarian comital House of Andechs, was Duchess of Silesia from 1201 and of Greater Poland from 1231 as well as High Duchess consort of Poland from 1232 until 1238. She was canonized by the Catholic Church in 1267 by Pope Clement IV. Life The daughter of Count Berthold IV of Andechs, margrave of Carniola and Istria and his second wife Agnes of Wettin, she was born at Andechs Castle in the Duchy of Bavaria. Her elder sister, Agnes, married King Philip II of France (annulled in 1200) and her sister Gertrude (killed in 1213) married King Andrew II of Hungary, while the youngest Matilda, (Mechtild) became abbess at the Benedictine Abbey of Kitzingen in Franconia, where Hedwig also received her education. Hedwig's brother was Bishop Ekbert of Bamberg, Count of Andechs-Meranien. Another brother was Berthold, Archbishop of Kalocsa and Patriarch of Aquileia, while her brother Henry, Margrave of Istria was the first lord of Carniola. Through her sister Gertrude, she was the aunt of Elizabeth of Hungary. Duchess consort...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hedwig_of_Silesia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-16_saint_hedwig.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "270fefce68e5b152e22428721cc7f9f16275f0abf8506b66c8001bf2286789cc",
+        "langs": {
+          "es": {
+            "translatedHash": "ca90c1d4fb2c51966f202c2ae8fa215b5f3ea323e89a0e544b0c6faa9de02589",
+            "updatedAt": "2026-02-25T00:50:38.703Z"
+          },
+          "pl": {
+            "translatedHash": "671a8bc256181363cbc9362f34ad3be627fcacb2a8ce201405b924388d710684",
+            "updatedAt": "2026-02-25T00:50:39.289Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f1f2e6c74e1d4d49166d56cc6cf60c22e59730cc8709d39408b9ebd8fdbba02c",
+        "langs": {
+          "es": {
+            "translatedHash": "08c08c3d25dc8da887481b37a824062cadbc0621367654ed8c327032a87021f3",
+            "updatedAt": "2026-02-25T00:50:40.011Z"
+          },
+          "pl": {
+            "translatedHash": "781d874e48353834b12046742bb646d4153c046f5be7a109b10d70ee5ae388ea",
+            "updatedAt": "2026-02-25T00:50:40.543Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "cac5e920b9dd321a2e7469cd7bed564d6a8be925d239288e6c8dc4f0a8f4c66a",
+        "langs": {
+          "es": {
+            "translatedHash": "c90e79ac414d180da0b0a503b7e54e47504e9fe06cc49006d29d5f9301bc3763",
+            "updatedAt": "2026-02-25T00:50:41.957Z"
+          },
+          "pl": {
+            "translatedHash": "ddcb7f064ec5d942a14ba9e753b601faef8ea6aefb9b5203b38c520936b8b222",
+            "updatedAt": "2026-02-25T00:50:44.042Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7b4caa009d86b6bda7dafad2bcdb33960f87b9789fefd5085ec69ae18e4fe1b3",
+        "langs": {
+          "es": {
+            "translatedHash": "58eb163d7ecef3d6d0a599d29544714e0a651a065389bd4c1465e3532ac13559",
+            "updatedAt": "2026-02-25T00:50:49.244Z"
+          },
+          "pl": {
+            "translatedHash": "2cc19aca7dde8ede36325980dba07b596d442024b5c6c8aa2b5aef8c5eff13b6",
+            "updatedAt": "2026-02-25T00:50:57.154Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Eduviges",
+  "name_pl": "Święta Jadwiga",
+  "feast_es": "El Dieciséis de Octubre",
+  "feast_pl": "Szesnasty Dzień Października",
+  "summary_es": "Hedwig de Silesia, miembro de la casa condal bávara de Andechs, fue duquesa de Silesia desde 1201 y de la Gran Polonia desde 1231, así como alta duquesa consorte de Polonia desde 1232 hasta 1238. Fue canonizada por la Iglesia Católica en 1267 por el Papa Clemente IV.",
+  "summary_pl": "Jadwiga Śląska, członkini bawarskiego hrabiowskiego rodu Andechs, była księżną Śląska od 1201 roku oraz Wielkopolski od 1231 roku, a także księżną wysoką Polski jako małżonka od 1232 do 1238 roku. Została kanonizowana przez Kościół katolicki w 1267 roku przez papieża Klemensa IV.",
+  "biography_es": "Hedwig de Silesia (también Hedwig de Andechs, alemán: Heilige Hedwig von Andechs, silesio: Śwjynto Hyjdla, latín: Hedvigis; 1174 – 15 de octubre de 1243), miembro de la casa condal bávara de Andechs, fue duquesa de Silesia desde 1201 y de Gran Polonia desde 1231, así como alta duquesa consorte de Polonia desde 1232 hasta 1238. Fue canonizada por la Iglesia Católica en 1267 por el Papa Clemente IV.\n\nVida\n\nHija del conde Berthold IV de Andechs, margrave de Carniola e Istria, y de su segunda esposa Agnes de Wettin, nació en el castillo de Andechs en el ducado de Baviera. Su hermana mayor, Agnes, se casó con el rey Felipe II de Francia (anulado en 1200) y su hermana Gertrudis (asesinada en 1213) se casó con el rey Andrés II de Hungría, mientras que la más joven, Matilda (Mechtild), se convirtió en abadesa de la abadía benedictina de Kitzingen en Franconia, donde Hedwig también recibió su educación.\n\nEl hermano de Hedwig fue el obispo Ekbert de Bamberg, conde de Andechs-Meranien. Otro hermano fue Berthold, arzobispo de Kalocsa y patriarca de Aquilea, mientras que su hermano Enrique, margrave de Istria, fue el primer señor de Carniola. A través de su hermana Gertrudis, fue tía de Isabel de Hungría.\n\nDuquesa consorte...",
+  "biography_pl": "Hedwiga Śląska (także Hedwiga z Andechs, niemiecki: Heilige Hedwig von Andechs, śląski: Śwjynto Hyjdla, łacina: Hedvigis; 1174 – 15 października 1243), członkini bawarskiego hrabiowskiego rodu Andechs, była księżną Śląska od 1201 oraz Wielkopolski od 1231, a także księżną wysoką Polski od 1232 do 1238. Została kanonizowana przez Kościół katolicki w 1267 roku przez papieża Klemensa IV.\n\nŻycie  \nCórka hrabiego Bertholda IV z Andechs, margrabiego Karyntii i Istrii, oraz jego drugiej żony Agnieszki z Wettin, urodziła się na zamku Andechs w księstwie Bawarii. Jej starsza siostra, Agnieszka, wyszła za króla Filipa II Francuskiego (małżeństwo anulowane w 1200), a siostra Gertruda (zamordowana w 1213) poślubiła króla Andrzeja II Węgierskiego, natomiast najmłodsza Matylda (Mechtild) została opatką w benedyktyńskim opactwie w Kitzingen w Frankonii, gdzie również Hedwiga otrzymała wykształcenie. Bratem Hedwigi był biskup Ekbert z Bambergu, hrabia Andechs-Meranien. Inny brat, Berthold, był arcybiskupem Kalocsy i patriarchą Aquilei, natomiast jej brat Henryk, margrabia Istrii, był pierwszym panem Karyntii. Przez siostrę Gertrudę była ciotką św. Elżbiety Węgierskiej.\n\nKsiężna małżonka..."
+}

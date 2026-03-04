@@ -1,0 +1,79 @@
+{
+  "id": "05-29_saint_paul_vi",
+  "name": "Saint Paul VI",
+  "mmdd": "05-29",
+  "feast": "The Twenty-Nineth Day of May",
+  "summary": "Pope Paul VI was head of the Catholic Church and sovereign of Vatican City from 21 June 1963 until his death on 6 August 1978. Succeeding John XXIII, he continued the Second Vatican Council, which he closed in 1965, implementing its numerous reforms. He fostered improved ecumenical relations with Eastern Orthodox and Protestant churches, which resulted in many historic meetings and agreements. In January 1964, he flew to Jordan, the first time a reigning pontiff had left Italy in more than a century.",
+  "biography": "Pope Paul VI (born Giovanni Battista Enrico Antonio Maria Montini; 26 September 1897 – 6 August 1978) was head of the Catholic Church and sovereign of Vatican City from 21 June 1963 until his death on 6 August 1978. Succeeding John XXIII, he continued the Second Vatican Council, which he closed in 1965, implementing its numerous reforms. He fostered improved ecumenical relations with Eastern Orthodox and Protestant churches, which resulted in many historic meetings and agreements. In January 1964, he flew to Jordan, the first time a reigning pontiff had left Italy in more than a century. Montini served in the Holy See's Secretariat of State from 1922 to 1954, and along with Domenico Tardini was considered the closest and most influential advisor of Pope Pius XII. In 1954, Pius named Montini Archbishop of Milan, the largest Italian diocese. Montini later became the Secretary of the Italian Bishops' Conference. John XXIII elevated Montini to the College of Cardinals in 1958, and after his death, Montini was, with little to no opposition, elected his successor, taking the name Paul VI. He reconvened the Second Vatican Council, which had been suspended during the interregnum. After its...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Paul_VI",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-29_saint_paul_vi.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a85f50024bc10c259134128873da7574bec7220a8144d6a0a79617f35d52289f",
+        "langs": {
+          "es": {
+            "translatedHash": "2a19e02d2be31777a94f66179f55802828feddbe8cdfb8ff0df43504f20256cd",
+            "updatedAt": "2026-02-24T23:33:14.729Z"
+          },
+          "pl": {
+            "translatedHash": "9e72be6a052d4fc0710c13a5ace6854685bce50dd045bea993ffc3aa2b23ad24",
+            "updatedAt": "2026-02-24T23:33:15.823Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cd1153c8ab5618a3a54f8a9049cb12fded468dd15acad980ba3992ac475e85c9",
+        "langs": {
+          "es": {
+            "translatedHash": "29b051bd05095ca47fb8371b19d8b77d99a3a9bf5f78fdabba9ab751a8b67016",
+            "updatedAt": "2026-02-24T23:33:16.455Z"
+          },
+          "pl": {
+            "translatedHash": "7da8ba609fb54e40738f2087a1db3241faa389a7b48525dd875fe2478d40cde9",
+            "updatedAt": "2026-02-24T23:33:17.117Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e4cbd2a8f35d49988f524250e69e96d6842eb6b5705f5be7ab71cd816f67f59a",
+        "langs": {
+          "es": {
+            "translatedHash": "89f7b1fb4774fa75a7446113799932394ac68bb8f5b4c659d3e24808dd951796",
+            "updatedAt": "2026-02-24T23:33:19.874Z"
+          },
+          "pl": {
+            "translatedHash": "0407171d8e0238dd07a8a055a62476055d35f91651c8150e1df7e3e9bd03256b",
+            "updatedAt": "2026-02-24T23:33:24.013Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "40c3276b215c0faf0004008dde0458856555ee280a2d3d400eaaf491f2d4220c",
+        "langs": {
+          "es": {
+            "translatedHash": "a024487677cf2644d00d7ca75b5aa5e62e64d363f8a65a3330a2d682deb42b4c",
+            "updatedAt": "2026-02-24T23:33:29.563Z"
+          },
+          "pl": {
+            "translatedHash": "6233b15b5a114afaeb3344e0f6d849d73902ad6c53506f55e27b1efc349cd0fa",
+            "updatedAt": "2026-02-24T23:33:36.242Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pablo VI",
+  "name_pl": "Święty Paweł VI",
+  "feast_es": "El Vigésimo Noveno Día de Mayo",
+  "feast_pl": "Dwudziesty dziewiąty dzień maja",
+  "summary_es": "El Papa Pablo VI fue jefe de la Iglesia Católica y soberano de la Ciudad del Vaticano desde el 21 de junio de 1963 hasta su muerte el 6 de agosto de 1978. Sucedió a Juan XXIII y continuó el Concilio Vaticano II, que clausuró en 1965, implementando sus numerosas reformas. Fomentó mejores relaciones ecuménicas con las iglesias ortodoxas orientales y protestantes, lo que resultó en muchos encuentros y acuerdos históricos. En enero de 1964, voló a Jordania, siendo la primera vez en más de un siglo que un pontífice reinante salía de Italia.",
+  "summary_pl": "Papież Paweł VI był głową Kościoła katolickiego i suwerenem Państwa Watykańskiego od 21 czerwca 1963 roku aż do swojej śmierci 6 sierpnia 1978 roku. Następując po Janie XXIII, kontynuował Sobór Watykański II, który zamknął w 1965 roku, wprowadzając w życie jego liczne reformy. Sprzyjał poprawie stosunków ekumenicznych z Kościołami prawosławnymi i protestanckimi, co zaowocowało wieloma historycznymi spotkaniami i porozumieniami. W styczniu 1964 roku udał się do Jordanii, co było pierwszym przypadkiem od ponad wieku, gdy panujący papież opuścił Włochy.",
+  "biography_es": "El Papa Pablo VI (nacido Giovanni Battista Enrico Antonio Maria Montini; 26 de septiembre de 1897 – 6 de agosto de 1978) fue jefe de la Iglesia Católica y soberano de la Ciudad del Vaticano desde el 21 de junio de 1963 hasta su muerte el 6 de agosto de 1978. Sucedió a Juan XXIII y continuó el Concilio Vaticano II, que clausuró en 1965, implementando sus numerosas reformas. Fomentó mejores relaciones ecuménicas con las iglesias ortodoxas orientales y protestantes, lo que resultó en muchos encuentros y acuerdos históricos. En enero de 1964, voló a Jordania, siendo la primera vez en más de un siglo que un pontífice reinante salía de Italia. Montini sirvió en la Secretaría de Estado de la Santa Sede desde 1922 hasta 1954, y junto con Domenico Tardini fue considerado el asesor más cercano e influyente del Papa Pío XII. En 1954, Pío nombró a Montini Arzobispo de Milán, la diócesis italiana más grande. Montini luego se convirtió en Secretario de la Conferencia Episcopal Italiana. Juan XXIII elevó a Montini al Colegio de Cardenales en 1958, y tras su muerte, Montini fue elegido su sucesor con poca o ninguna oposición, tomando el nombre de Pablo VI. Reanudó el Concilio Vaticano II, que había sido suspendido durante el interregno. Después de su...",
+  "biography_pl": "Papież Paweł VI (urodzony jako Giovanni Battista Enrico Antonio Maria Montini; 26 września 1897 – 6 sierpnia 1978) był głową Kościoła katolickiego i suwerenem Państwa Watykańskiego od 21 czerwca 1963 aż do swojej śmierci 6 sierpnia 1978. Następując po Janie XXIII, kontynuował Sobór Watykański II, który zamknął w 1965 roku, wprowadzając w życie jego liczne reformy. Sprzyjał poprawie stosunków ekumenicznych z Kościołami prawosławnymi i protestanckimi, co zaowocowało wieloma historycznymi spotkaniami i porozumieniami. W styczniu 1964 roku udał się do Jordanii, co było pierwszą od ponad wieku podróżą panującego papieża poza Włochy. Montini służył w Sekretariacie Stanu Stolicy Apostolskiej od 1922 do 1954 roku i wraz z Domenico Tardinim był uważany za najbliższego i najbardziej wpływowego doradcę papieża Piusa XII. W 1954 roku Pius mianował Montiniego arcybiskupem Mediolanu, największej diecezji włoskiej. Montini później został sekretarzem Konferencji Episkopatu Włoch. Jan XXIII wyniósł Montiniego do Kolegium Kardynałów w 1958 roku, a po jego śmierci Montini został, przy niewielkim lub żadnym sprzeciwie, wybrany jego następcą, przyjmując imię Paweł VI. Ponownie zwołał Sobór Watykański II, który był zawieszony podczas okresu sede vacante. Po jego..."
+}

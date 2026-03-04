@@ -1,0 +1,79 @@
+{
+  "id": "07-03_saint_tryphon",
+  "name": "Saint Tryphon",
+  "mmdd": "07-03",
+  "feast": "The Third Day of July",
+  "summary": "Saint Tryphon of Campsada was a 3rd-century Christian saint. He is venerated by the Roman Catholic and Eastern Orthodox churches as a great martyr and holy unmercenary.",
+  "biography": "Tryphon of Constantinople was a 10th-century Ecumenical Patriarch of Constantinople. He is venerated as a saint in the Eastern Orthodox Church.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tryphon%2C_Respicius%2C_and_Nympha",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-03_saint_tryphon.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9fe93b4215ae36f8ac09075a9ef8a6ad8b3a6e23ee8e5d7664b4e95fdfc1574e",
+        "langs": {
+          "es": {
+            "translatedHash": "07cdeb313919f68439a21a892c6835073f080abf2713298eea1e876c544104e5",
+            "updatedAt": "2026-02-24T23:52:24.932Z"
+          },
+          "pl": {
+            "translatedHash": "7eb7995fbeb71d8069a7f55821944b6c67cf8cdc623c75ad3166ea69d128dd59",
+            "updatedAt": "2026-02-24T23:52:25.540Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "46fda93527599ec07fa2aa7639fd54c4115936d1390d58f57958ba8cb429c8be",
+        "langs": {
+          "es": {
+            "translatedHash": "5783c10778f9d55acd0e6cd83724539f3cf3ad2eb541ba9d33ab33ac02b5861e",
+            "updatedAt": "2026-02-24T23:52:26.126Z"
+          },
+          "pl": {
+            "translatedHash": "7290a55f629d27656b67c5e314afa14f8607c76597c28b3b10c414c381aa97a2",
+            "updatedAt": "2026-02-24T23:52:26.835Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "16feecfe7cb4697e1080eb4bd2321a43cb9f08b5e785e4de74eed2b6a6cc5695",
+        "langs": {
+          "es": {
+            "translatedHash": "8fd740adf92c6f070d87f0b7882c9352c6b0c650cdd2ce196995406d0e6b0f12",
+            "updatedAt": "2026-02-24T23:52:27.799Z"
+          },
+          "pl": {
+            "translatedHash": "40e4bfbcb0dab2d9cee93d2c3a88bab06b33902b6287fe5a31a16ab3f9c75030",
+            "updatedAt": "2026-02-24T23:52:29.238Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4d52b0c66bffc489c0e755e7d30242b8db228660ed17e02b80660946874064ec",
+        "langs": {
+          "es": {
+            "translatedHash": "3943e71bc2980bca5ca14118ef54f854b00eb1a57135a26c6631a1e3149b3a7b",
+            "updatedAt": "2026-02-24T23:52:30.564Z"
+          },
+          "pl": {
+            "translatedHash": "ee8afb621e45b65f1cfbb768279c7eda412438376d5dbbfe67416f806b04ce86",
+            "updatedAt": "2026-02-24T23:52:31.801Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Trifón",
+  "name_pl": "Święty Tryfon",
+  "feast_es": "El Tercer Día de Julio",
+  "feast_pl": "Trzeci dzień lipca",
+  "summary_es": "San Trifón de Campsada fue un santo cristiano del siglo III. Es venerado por las iglesias católica romana y ortodoxa oriental como un gran mártir y santo sin dinero.",
+  "summary_pl": "Święty Tryfon z Kampsady był chrześcijańskim świętym III wieku. Jest czczony przez Kościół rzymskokatolicki oraz Kościoły wschodnie jako wielki męczennik i święty bezinteresowny uzdrowiciel.",
+  "biography_es": "Trifón de Constantinopla fue un Patriarca Ecuménico de Constantinopla del siglo X. Es venerado como santo en la Iglesia Ortodoxa Oriental.",
+  "biography_pl": "Tryfon Konstantynopolski był ekumenicznym patriarchą Konstantynopola w X wieku. Jest czczony jako święty w Kościele prawosławnym."
+}

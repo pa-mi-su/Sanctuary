@@ -1,0 +1,64 @@
+{
+  "id": "01-27_saint_angela_merici_virgin_optional_memorial",
+  "name": "Saint Angela Merici, Virgin—Optional Memorial",
+  "mmdd": "01-27",
+  "feast": "The Twenty-Seventh Day of January",
+  "summary": "Angela Merici was an Italian Catholic religious educator who founded the Company of St. Ursula in 1535 in Brescia, in which women dedicated their lives to the service of the church through the education of girls.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Angela_Merici",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-27_saint_angela_merici_virgin_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d24d2ea6b1eb2e5120efc241108110f3f3129b281180d1da799eb285c40fb056",
+        "langs": {
+          "es": {
+            "translatedHash": "acc8c899dc9579d501289125e1fa55fb53c060504187169d91f8885ddc7586d0",
+            "updatedAt": "2026-02-24T22:23:21.266Z"
+          },
+          "pl": {
+            "translatedHash": "966734375cb1aea5b6c59c5a962d962e6ea5df79421b4ab150d693b5a81f5e40",
+            "updatedAt": "2026-02-24T22:23:22.099Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a788cb96ed0bc04f289f7ed42c191da3486e8edd8f9ac2dd85563e80bfdc9485",
+        "langs": {
+          "es": {
+            "translatedHash": "85444ad760a83d4d3fa5db3ed5c207cb84678bce326d1471c49da4d96b21239b",
+            "updatedAt": "2026-02-24T22:23:22.701Z"
+          },
+          "pl": {
+            "translatedHash": "0a1b83b115ba2cb5973c9083f6929f9043538010b6cff96c3db20824482be5b9",
+            "updatedAt": "2026-02-24T22:23:23.426Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "58cac3a11bab39703cf7e42e3f8bb40d6d8576eee6a2130969cd7c8ae431083e",
+        "langs": {
+          "es": {
+            "translatedHash": "3a71e32da73e71b77d33747adeea11f3f0afdd37e87b0b0b41edc442956755d6",
+            "updatedAt": "2026-02-24T22:23:24.613Z"
+          },
+          "pl": {
+            "translatedHash": "cc3cfc93251c90e6088f345320bbcbc1a44b385bd71ffa8c35da214cba378487",
+            "updatedAt": "2026-02-24T22:23:27.072Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Ángela de Mérici, Virgen—Memoria Opcional",
+  "name_pl": "Święta Angela Merici, Dziewica — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Séptimo Día de Enero",
+  "feast_pl": "Dwudziesty siódmy dzień stycznia",
+  "summary_es": "Ángela de Mérici fue una educadora religiosa católica italiana que fundó la Compañía de Santa Úrsula en 1535 en Brescia, en la cual las mujeres dedicaban sus vidas al servicio de la iglesia a través de la educación de las niñas.",
+  "summary_pl": "Angela Merici była włoską katolicką wychowawczynią religijną, która założyła Towarzystwo św. Urszuli w 1535 roku w Brescii, w którym kobiety poświęcały swoje życie służbie Kościołowi poprzez wychowanie dziewcząt."
+}

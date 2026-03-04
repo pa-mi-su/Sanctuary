@@ -1,0 +1,275 @@
+{
+  "id": "st_gertrude_prayer",
+  "title": "St. Gertrude the Great Prayers for the Souls in Purgatory Novena",
+  "description": "St. Gertrude the Great was a Benedictine nun and mystic who was given visions from our Lord and powerful prayers to release souls from Purgatory.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Gertrude Prayer"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 16
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-gertrude-the-great-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se dicen hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores en todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencione aquí la petición…)\n\nAcepta, oh compasivo Jesús, esta mi oración con ese amor tan grande con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de esas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą niezwykłą miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa Bogu Ojcu w dniu Twojego Wniebowstąpienia; i przez głębię tych Ran, które zacięły Twoje Ciało i przebiły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se dicen hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores de todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y los de mi familia. Amén. (mencionar la petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con ese amor infinito con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de esas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą nadzwyczajną miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych ran, które zacięły Twoje Ciało i przebiły Twoje Dłonie, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se dicen hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores de todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencionar la petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con aquel amor tan grande con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de aquellas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą wielką miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa Bogu Ojcu w dniu Twojego Wniebowstąpienia; i przez głębię tych Ran, które zacięły Twoje Ciało i przebiły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se celebran hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores de todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencionar la petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con ese amor inmenso con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de esas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą ogromną miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Ludzkiej Natury Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych Ran, które zacięły Twoje Ciało i przebiły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se celebran hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores de todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencionar la petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con aquel amor tan grande con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de aquellas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dziś na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą ogromną miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Ludzkiej Natury Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych Ran, które zacięły Twoje Ciało i przebiły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se dicen hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores de todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencionar petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con ese amor inmenso con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu santísima Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de esas heridas que marcaron tu Carne y atravesaron tus Manos, Pies y Corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień tutaj prośbę…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą nadzwyczajną miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją, wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa, Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych Ran, które zacięły Twoje Ciało i przebiły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se celebran hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores en todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencionar la petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con aquel amor tan grande con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de aquellas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą nadzwyczajną miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych Ran, które okaleczyły Twoje Ciało i przebiły Twoje Dłonie, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se dicen hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores de todas partes, por los pecadores de la Iglesia universal, por los de mi propia casa y dentro de mi familia. Amén. (mencionar la petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con aquel amor tan grande con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu sagrada Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de aquellas heridas que marcaron tu carne y atravesaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą nadzwyczajną miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją, wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa, Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych Ran, które zacięły Twoje Ciało i przeszyły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nEternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in Purgatory, for sinners everywhere, for sinners in the universal Church, those in my own home and within my family. Amen. (mention request here…)\n\nAccept, O compassionate Jesus, this my prayer with that exceeding love wherewith Thou didst endure a bitter Death, and didst offer it, together with all the fruit of Thy most sacred Humanity, to God the Father on the day of Thine Ascension; and by the depth of those Wounds which scarred Thy Flesh and pierced Thy Hands and Feet and Heart, I beseech Thee, raise me up, who am steeped and sunk in sin, and render me well-pleasing to Thee in all things. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre eterno, te ofrezco la Preciosísima Sangre de tu Divino Hijo, Jesús, en unión con las Misas que se dicen hoy en todo el mundo, por todas las almas santas del Purgatorio, por los pecadores en todas partes, por los pecadores de la Iglesia universal, los de mi propia casa y los de mi familia. Amén. (mencionar petición aquí…)\n\nAcepta, oh compasivo Jesús, esta mi oración con ese amor tan grande con que soportaste una amarga muerte, y la ofreciste, junto con todo el fruto de tu santísima Humanidad, a Dios Padre el día de tu Ascensión; y por la profundidad de aquellas heridas que marcaron tu carne y traspasaron tus manos, pies y corazón, te suplico, levántame, que estoy sumergido y hundido en el pecado, y hazme agradable a Ti en todas las cosas. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWieczny Ojcze, ofiaruję Ci Najdroższą Krew Twojego Boskiego Syna, Jezusa, w jedności z Mszami świętymi odprawianymi dzisiaj na całym świecie, za wszystkie święte dusze w Czyśćcu, za grzeszników wszędzie, za grzeszników w Kościele powszechnym, tych w moim własnym domu i w mojej rodzinie. Amen. (wymień prośbę tutaj…)\n\nPrzyjmij, o miłosierny Jezu, tę moją modlitwę z tą niezwykłą miłością, z jaką znosiłeś gorzką Śmierć i ofiarowałeś ją wraz ze wszystkimi owocami Twojej najświętszej Człowieczeństwa Bogu Ojcu w dniu Twojego Wniebowstąpienia; a przez głębię tych Ran, które zacięły Twoje Ciało i przebiły Twoje Ręce, Stopy i Serce, błagam Cię, podnieś mnie, który jestem pogrążony i zatopiony w grzechu, i spraw, abym był Ci miły we wszystkim. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "November 7Feastday:November 16Birth:January 6th, 1256Death:November 16th, 1301Patron saint of the West Indies 📱",
+    "feast": "November 16Birth:January 6th, 1256Death:November 16th, 1301Patron saint of the West Indies 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_gertrude_prayer.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "04d7936b6ee77cfecefbfd73fc9b87e469d2ec566f2da690be76083652869652",
+        "langs": {
+          "es": {
+            "translatedHash": "63d91309bc04ad5c78ac5b35335206dcdef9468e9e12e5930bb7f60c6ad15e75",
+            "updatedAt": "2026-02-25T14:12:12.804Z"
+          },
+          "pl": {
+            "translatedHash": "26deb03348f191736a5c86836253ec5c7719515dc7f70e044c48aa2fb9c83270",
+            "updatedAt": "2026-02-25T14:12:13.954Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "6ae3467979e969d5f1f7f6addbcc8e5d82b4cfaf191ea59705a8a7af354a7e71",
+        "langs": {
+          "es": {
+            "translatedHash": "91281e782e0c86c44bcad980f065fe0c21faa083bf5f4e1c215b7b892fd96b66",
+            "updatedAt": "2026-02-25T14:12:15.441Z"
+          },
+          "pl": {
+            "translatedHash": "fd7ca919ad6a9f756a320ae1951260ed053937763382dec518a67c2a6301d09e",
+            "updatedAt": "2026-02-25T14:12:16.729Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "f1f8f36c7a3dd515966b1f19cacfe40cc2065d37a4e086dbbc99505d245eec6d",
+        "langs": {
+          "es": {
+            "translatedHash": "3d24552c8b5ce8a91809ae5a6f76941aa523ec1636dacd102e66f4022794e4ce",
+            "updatedAt": "2026-02-25T14:12:20.957Z"
+          },
+          "pl": {
+            "translatedHash": "749568f3f86abd947be98168e52f5f0c58611b629f840801bafb41dd15259486",
+            "updatedAt": "2026-02-25T14:12:26.363Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "4f60697b66630381edd4b978a2466bfe61630c315518c3ce75676ec1faf5ea42",
+        "langs": {
+          "es": {
+            "translatedHash": "0b2943f28856fb59fee483f4284d85f400e50d74ab6699e7a83c5b80a3fe06f4",
+            "updatedAt": "2026-02-25T14:12:31.251Z"
+          },
+          "pl": {
+            "translatedHash": "d6a511f7f09178628ea2fbdc77d4421ecb3bfcbb12a7ce372979b15e251a772e",
+            "updatedAt": "2026-02-25T14:12:36.668Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "4a9b6d5f600ab2d6fa1dbd5c6f77cc69137b93ae0e4b7504b3c31a2717e2c8b0",
+        "langs": {
+          "es": {
+            "translatedHash": "b77696dab757a62b2e999ace41110cd80525602e4f91fba638d3ee120447720f",
+            "updatedAt": "2026-02-25T14:12:41.179Z"
+          },
+          "pl": {
+            "translatedHash": "778619df112a86c2bf7a5ef2bcee92f8bf236d0921d6ed0380fb39bc0acf9c4b",
+            "updatedAt": "2026-02-25T14:12:46.942Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "cc1733ce46f1c2b3a7b230d4ca2b3680d651149ec49d059d894c1947c055ce1c",
+        "langs": {
+          "es": {
+            "translatedHash": "b939feb8cdda2012b45049f1f3c86d53041e7b63a6e99e791692e54acd63092e",
+            "updatedAt": "2026-02-25T14:12:52.115Z"
+          },
+          "pl": {
+            "translatedHash": "5adf1570f0362f3bbe95a1933f295fda3d6d8ff555f647cd370266c7c26599c1",
+            "updatedAt": "2026-02-25T14:12:57.714Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "1c803d75aed6bb14972bdf873c8ce10e50582283b2031b3606b5bad383aec05b",
+        "langs": {
+          "es": {
+            "translatedHash": "aafeedefd7e3f4bb61e21ddb5fef1d1139a48aea2573e8d8000f179d73ca7226",
+            "updatedAt": "2026-02-25T14:13:01.491Z"
+          },
+          "pl": {
+            "translatedHash": "f4061fdac170eb87486476c220e2ea1502ca919e75aa8137f15161071a2d5853",
+            "updatedAt": "2026-02-25T14:13:07.525Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "f7ad281ca9bf349eb6c9dfe42367788a23572d6c128d80cf109a4bf0f8ea3e3a",
+        "langs": {
+          "es": {
+            "translatedHash": "0766a1e12b9fa57be021bef717d96200fce20585c2951b8b5b353d06bb8b25b8",
+            "updatedAt": "2026-02-25T14:13:15.943Z"
+          },
+          "pl": {
+            "translatedHash": "c73a0e7fce860c598ebfda34ebf80bff417c55f5ec5ddd24821e716e2f4ca494",
+            "updatedAt": "2026-02-25T14:13:21.791Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "f557a3bd45200c750043c7abb789a3fc16090d1eeaccd8772c582055e9e705bb",
+        "langs": {
+          "es": {
+            "translatedHash": "70779e4af9b9ab9d51b915b54c3d28435393431feb72c5293e7677858ba25476",
+            "updatedAt": "2026-02-25T14:13:25.613Z"
+          },
+          "pl": {
+            "translatedHash": "01024b36b9a542e14352c68f5f82e6d486db950e6c4b07dcc9c202b3fbc85980",
+            "updatedAt": "2026-02-25T14:13:31.286Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "084d16340c7e684a22863239f012bc3f8bca8a9e093c05017bf3981e7bc35a4a",
+        "langs": {
+          "es": {
+            "translatedHash": "b77696dab757a62b2e999ace41110cd80525602e4f91fba638d3ee120447720f",
+            "updatedAt": "2026-02-25T14:13:38.253Z"
+          },
+          "pl": {
+            "translatedHash": "9537de089fd5561aaa24b061b0e697cc3ad85723adc9b7bbd04cc711b2a52d75",
+            "updatedAt": "2026-02-25T14:13:43.321Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "a2b43040e47ae421f6cf0dad6ae8bcf81c7c28ab7c0c3410a303303cbd81ffac",
+        "langs": {
+          "es": {
+            "translatedHash": "c1dda5d8bb016f4c290b908ab51a712068ad591fb40cf96a85b0a92506f35b52",
+            "updatedAt": "2026-02-25T14:13:47.853Z"
+          },
+          "pl": {
+            "translatedHash": "615ef14841ff3e34541118e413e44c6e4badd45e4c3b9afcacabbf382102539e",
+            "updatedAt": "2026-02-25T14:13:52.458Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de Oraciones de Santa Gertrudis la Grande por las Almas del Purgatorio",
+  "title_pl": "Nowenna św. Gertrudy Wielkiej za Dusze w Czyśćcu",
+  "description_es": "Santa Gertrudis la Grande fue una monja benedictina y mística que recibió visiones de nuestro Señor y poderosas oraciones para liberar almas del Purgatorio.",
+  "description_pl": "Św. Gertruda Wielka była benedyktyńską zakonnicą i mistyczką, która otrzymała wizje od naszego Pana oraz potężne modlitwy uwalniające dusze z Czyśćca.",
+  "intentions": [
+    "the_west_indies"
+  ],
+  "intentions_es": [
+    "las_indias_occidentales"
+  ],
+  "intentions_pl": [
+    "zachodnie_indie"
+  ]
+}

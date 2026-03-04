@@ -1,0 +1,79 @@
+{
+  "id": "02-10_saint_scholastica",
+  "name": "Saint Scholastica",
+  "mmdd": "02-10",
+  "feast": "The Tenth Day of February",
+  "summary": "Scholastica was an Italian Christian consecrated virgin and the sister of Benedict of Nursia. She is traditionally regarded as the foundress of the Benedictine nuns. Scholastica is honored as a saint of the Catholic Church, Eastern Orthodox Church and Anglican Communion. She was born in Italy, and a ninth-century tradition makes her the twin sister of Benedict. Her feast day is 10 February.",
+  "biography": "Scholastica (; c. 480 – 10 February 543) was an Italian Christian consecrated virgin and the sister of Benedict of Nursia. She is traditionally regarded as the foundress of the Benedictine nuns. Scholastica is honored as a saint of the Catholic Church, Eastern Orthodox Church and Anglican Communion. She was born in Italy, and a ninth-century tradition makes her the twin sister of Benedict. Her feast day is 10 February. Life According to the 6th-century Dialogues of Gregory the Great, Scholastica was born c. 480 in Nursia, Umbria, of wealthy parents (Anicius Eupropius and his wife Claudia Abondantia Reguardati). While Gregory only states that Scholastica was Benedict's sister, a later tradition says she was his twin (whether this is meant biologically, spiritually, or both is unclear). Gregory also says she was dedicated to God from a young age. She and her brother Benedict were raised together until he left to pursue studies in Rome. A young Roman woman of Scholastica's class and time would likely have remained in her father's house until marriage or entry into consecrated life. On occasion, several consecrated virgins would live together in a household and form a community. Benedictine...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scholastica",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-10_saint_scholastica.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f54f29fdfdf8e1f774dbd07500756540c6463ea455c48b4a8112c4968e19b586",
+        "langs": {
+          "es": {
+            "translatedHash": "efc3abe229b353994e66fc2273cda3ff13ba5492eb4e0bd9f3d0a9bdedf0324e",
+            "updatedAt": "2026-02-24T22:32:19.829Z"
+          },
+          "pl": {
+            "translatedHash": "9a037bc54b9dbdc5d5ecec688a83eae35f4e2a69afdfa501f813f4ee5515b870",
+            "updatedAt": "2026-02-24T22:32:20.543Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f3f6eb5f21e9fecea161e2970e668d2f6233b415613cac2eec04912d84ccded6",
+        "langs": {
+          "es": {
+            "translatedHash": "bbd96d44574ad6412a47ea5c70074516b58b374e748bb2a3709acfe1f8a6db5a",
+            "updatedAt": "2026-02-24T22:32:21.227Z"
+          },
+          "pl": {
+            "translatedHash": "1c05acf189067056d659dd382d9e504db20286d60460c52b3addccac1ba70849",
+            "updatedAt": "2026-02-24T22:32:21.721Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "28d40534be3bf62e73586347c6a8296560e1c9420f89270da5753f935c84652e",
+        "langs": {
+          "es": {
+            "translatedHash": "79bd0d14a73bb6c4a28fb9da00affa577297931defa4accff981c7e875464e9b",
+            "updatedAt": "2026-02-24T22:32:23.084Z"
+          },
+          "pl": {
+            "translatedHash": "581a2dc95035d8f252610d677f0c704513c713b2a0938fe9b684e34c8587cd48",
+            "updatedAt": "2026-02-24T22:32:24.947Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6d9efacbe410d1240b8e52d5bbde76159800635e6216b946d16b8e709e8313a8",
+        "langs": {
+          "es": {
+            "translatedHash": "08fa2270b59a7fcc0a91443e51375cf887f10dbdc8adcb16c8e011f36039b74e",
+            "updatedAt": "2026-02-24T22:32:31.383Z"
+          },
+          "pl": {
+            "translatedHash": "304413c4480024f4305719add697ae6a0547a27e48a04671eeba17729175d7b8",
+            "updatedAt": "2026-02-24T22:32:37.923Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Escolástica",
+  "name_pl": "Święta Scholastyka",
+  "feast_es": "El Día Diez de Febrero",
+  "feast_pl": "Dziesiąty dzień lutego",
+  "summary_es": "Escolástica fue una virgen consagrada cristiana italiana y hermana de Benito de Nursia. Tradicionalmente se la considera la fundadora de las monjas benedictinas. Escolástica es venerada como santa por la Iglesia Católica, la Iglesia Ortodoxa Oriental y la Comunión Anglicana. Nació en Italia, y una tradición del siglo IX la presenta como la hermana gemela de Benito. Su fiesta se celebra el 10 de febrero.",
+  "summary_pl": "Scholastyka była włoską chrześcijańską dziewicą konsekrowaną i siostrą Benedykta z Nursji. Tradycyjnie uważana jest za założycielkę benedyktynek. Scholastyka jest czczona jako święta Kościoła katolickiego, Kościoła prawosławnego oraz Wspólnoty anglikańskiej. Urodziła się we Włoszech, a tradycja z IX wieku przedstawia ją jako bliźniaczą siostrę Benedykta. Jej wspomnienie liturgiczne obchodzone jest 10 lutego.",
+  "biography_es": "Escolástica (; c. 480 – 10 de febrero de 543) fue una virgen consagrada cristiana italiana y hermana de Benito de Nursia. Tradicionalmente se la considera la fundadora de las monjas benedictinas. Escolástica es venerada como santa por la Iglesia Católica, la Iglesia Ortodoxa Oriental y la Comunión Anglicana. Nació en Italia, y una tradición del siglo IX la presenta como la hermana gemela de Benito. Su fiesta se celebra el 10 de febrero.\n\nVida\n\nSegún los Diálogos de Gregorio Magno del siglo VI, Escolástica nació alrededor del año 480 en Nursia, Umbría, de padres acomodados (Anicio Eupropio y su esposa Claudia Abondantia Reguardati). Mientras que Gregorio solo afirma que Escolástica era hermana de Benito, una tradición posterior dice que era su gemela (no está claro si esto se entiende en sentido biológico, espiritual o ambos). Gregorio también dice que ella fue consagrada a Dios desde joven. Ella y su hermano Benito crecieron juntos hasta que él se fue a estudiar a Roma. Una joven romana de la clase y época de Escolástica probablemente habría permanecido en la casa de su padre hasta el matrimonio o la entrada en la vida consagrada. En ocasiones, varias vírgenes consagradas vivían juntas en un hogar y formaban una comunidad. Benedictinas...",
+  "biography_pl": "Scholastyka (; ok. 480 – 10 lutego 543) była włoską chrześcijańską dziewicą konsekrowaną i siostrą Benedykta z Nursji. Tradycyjnie uważana jest za założycielkę benedyktynek. Scholastyka jest czczona jako święta Kościoła katolickiego, Kościoła prawosławnego i wspólnoty anglikańskiej. Urodziła się we Włoszech, a tradycja z IX wieku przedstawia ją jako bliźniaczą siostrę Benedykta. Jej dzień wspomnienia przypada na 10 lutego.\n\nŻycie  \nWedług VI-wiecznych Dialogów Grzegorza Wielkiego, Scholastyka urodziła się około 480 roku w Nursji w Umbrii, w zamożnej rodzinie (Anicjusz Eupropius i jego żona Klaudia Abondantia Reguardati). Podczas gdy Grzegorz podaje jedynie, że Scholastyka była siostrą Benedykta, późniejsza tradycja mówi, że była jego bliźniaczką (czy chodzi tu o bliźniaczeństwo biologiczne, duchowe, czy oba, nie jest jasne). Grzegorz również wspomina, że od młodości była poświęcona Bogu. Ona i jej brat Benedykt wychowywali się razem, aż do momentu, gdy on wyjechał do Rzymu na studia. Młoda rzymska kobieta z klasy i epoki Scholastyki prawdopodobnie pozostałaby w domu ojca aż do zawarcia małżeństwa lub wstąpienia do życia konsekrowanego. Od czasu do czasu kilka dziewic konsekrowanych mieszkało razem w jednym domu i tworzyło wspólnotę. Benedyktyńskie..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-11_saint_barnabas",
+  "name": "Saint Barnabas",
+  "mmdd": "06-11",
+  "feast": "The Eleventh Day of June",
+  "summary": "Barnabas, born Joseph (Ἰωσήφ) or Joses (Ἰωσής), was a prominent Christian disciple, identified as an apostle in Acts 14:14. According to Acts 4:36, he was a Cypriot Levite. He undertook missionary journeys as a companion of Paul the Apostle, evangelizing among the \"God-fearing\" Gentiles who attended synagogues in some of the Hellenized cities of Anatolia. He participated in the Council of Jerusalem.",
+  "biography": "Barnabas (; Ancient Greek: Βαρναβᾶς; Syriac: ܒܪܢܒܐ), born Joseph (Ἰωσήφ) or Joses (Ἰωσής), was a prominent Christian disciple, identified as an apostle in Acts 14:14. According to Acts 4:36, he was a Cypriot Levite. He undertook missionary journeys as a companion of Paul the Apostle, evangelizing among the \"God-fearing\" Gentiles who attended synagogues in some of the Hellenized cities of Anatolia. He participated in the Council of Jerusalem (c. 49 AD). Barnabas' story appears in the Acts of the Apostles, and Paul mentions him in some of his epistles. Tertullian named him as the author of the Epistle to the Hebrews, but this and other attributions are conjecture. The Epistle of Barnabas was ascribed to him by Clement of Alexandria and others in the early church and the epistle is included under his name in Codex Sinaiticus, the earliest extant manuscript of the complete New Testament. A minority of modern scholars concur with this traditional attribution Christian tradition holds that Barnabas was martyred at Salamis, Cyprus, but this is historically unverifiable. He is traditionally identified as the founder of the Cypriot Orthodox Church. The feast day of Barnabas is celebrated on...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barnabas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-11_saint_barnabas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1b48ce1111c5defeca39ea29f635d75a9a36be95d92e3d7d744360e3a57fd286",
+        "langs": {
+          "es": {
+            "translatedHash": "ecaa06a1ffcc212af7e66c2cb86f6c525bff7235993db595311236c3ca662c65",
+            "updatedAt": "2026-02-24T23:41:03.985Z"
+          },
+          "pl": {
+            "translatedHash": "1c0616277617272e755a25658f69e47b17da34e30e49ca058efc850732fd3f9d",
+            "updatedAt": "2026-02-24T23:41:04.492Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "819968c27e2bd6257400f08a0fb55f7390c32dc98956d7dd1c83a0f9789aa220",
+        "langs": {
+          "es": {
+            "translatedHash": "4dd904ddc7e214f6d8fb8e196c6855b3f89e9cf49d9fbd2026902609765f0bd7",
+            "updatedAt": "2026-02-24T23:41:05.244Z"
+          },
+          "pl": {
+            "translatedHash": "6e138a52c50fdc5dad76906fdf0c002cb36bd1b05ee167c8f87b29609c8e2bd3",
+            "updatedAt": "2026-02-24T23:41:05.818Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "02b38615b611c0167400b7294d2e353380d9b36e52439110c68bfc1b59f437e4",
+        "langs": {
+          "es": {
+            "translatedHash": "8b545180c8d85fbd7a4b104ed2812a8fca4fb43906001b26dfc7822cdb5ad5f1",
+            "updatedAt": "2026-02-24T23:41:09.468Z"
+          },
+          "pl": {
+            "translatedHash": "5117a78ae75467e22fbde099ce6d20f4d024f2190b4558a5966552995ba67efb",
+            "updatedAt": "2026-02-24T23:41:11.818Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "817304259bb917480058203742a10393338f1454b719cc4fcc801ff88fdee014",
+        "langs": {
+          "es": {
+            "translatedHash": "1c024ba555162021e134aa64b153c359c080fd3f730f85b98af9a54582cbe09c",
+            "updatedAt": "2026-02-24T23:41:20.226Z"
+          },
+          "pl": {
+            "translatedHash": "f77b30e2f6927a3afd84e912314b8c2f8d784333331c116cd9cd246b044ad6f3",
+            "updatedAt": "2026-02-24T23:41:25.863Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bernabé",
+  "name_pl": "Święty Barnaba",
+  "feast_es": "El día once de junio",
+  "feast_pl": "Jedenasty dzień czerwca",
+  "summary_es": "Bernabé, nacido José (Ἰωσήφ) o Josés (Ἰωσής), fue un destacado discípulo cristiano, identificado como apóstol en Hechos 14:14. Según Hechos 4:36, era un levita chipriota. Realizó viajes misioneros como compañero del apóstol Pablo, evangelizando entre los gentiles \"temerosos de Dios\" que asistían a las sinagogas en algunas de las ciudades helenizadas de Anatolia. Participó en el Concilio de Jerusalén.",
+  "summary_pl": "Barnaba, urodzony jako Józef (Ἰωσήφ) lub Jozes (Ἰωσής), był wybitnym chrześcijańskim uczniem, wymienionym jako apostoł w Dziejach Apostolskich 14,14. Według Dziejów 4,36 był Cypryjskim Lewitą. Podejmował podróże misyjne jako towarzysz apostoła Pawła, ewangelizując wśród „bojaźliwych Boga” pogan, którzy uczęszczali do synagog w niektórych zhellenizowanych miast Anatolii. Brał udział w Soborze Jerozolimskim.",
+  "biography_es": "Bernabé (; griego antiguo: Βαρναβᾶς; siríaco: ܒܪܢܒܐ), nacido José (Ἰωσήφ) o Josés (Ἰωσής), fue un destacado discípulo cristiano, identificado como apóstol en Hechos 14:14. Según Hechos 4:36, era un levita chipriota. Emprendió viajes misioneros como compañero del apóstol Pablo, evangelizando entre los gentiles \"temerosos de Dios\" que asistían a las sinagogas en algunas de las ciudades helenizadas de Anatolia. Participó en el Concilio de Jerusalén (c. 49 d.C.). La historia de Bernabé aparece en los Hechos de los Apóstoles, y Pablo lo menciona en algunas de sus epístolas. Tertuliano lo nombró como autor de la Epístola a los Hebreos, pero esta y otras atribuciones son conjeturas. La Epístola de Bernabé fue atribuida a él por Clemente de Alejandría y otros en la iglesia primitiva, y la epístola está incluida bajo su nombre en el Códice Sinaítico, el manuscrito más antiguo existente del Nuevo Testamento completo. Una minoría de eruditos modernos concuerda con esta atribución tradicional. La tradición cristiana sostiene que Bernabé fue martirizado en Salamina, Chipre, pero esto no es históricamente verificable. Tradicionalmente se le identifica como el fundador de la Iglesia Ortodoxa Chipriota. La fiesta de Bernabé se celebra el...",
+  "biography_pl": "Barnaba (; starogrecki: Βαρναβᾶς; syryjski: ܒܪܢܒܐ), urodzony jako Józef (Ἰωσήφ) lub Józes (Ἰωσής), był wybitnym chrześcijańskim uczniem, uznawanym za apostoła w Dziejach Apostolskich 14,14. Według Dziejów Apostolskich 4,36 był Cypryjskim Lewitą. Podejmował podróże misyjne jako towarzysz apostoła Pawła, ewangelizując wśród „bojaźliwych Boga” pogan, którzy uczęszczali do synagog w niektórych zhellenizowanych miast Anatolii. Brał udział w Soborze Jerozolimskim (ok. 49 r. n.e.). Historia Barnaby pojawia się w Dziejach Apostolskich, a Paweł wspomina go w niektórych swoich listach. Tertulian wskazał go jako autora Listu do Hebrajczyków, ale to i inne przypisania są przypuszczeniami. List Barnaby był przypisywany mu przez Klemensa Aleksandryjskiego i innych wczesnego Kościoła, a list ten jest zawarty pod jego imieniem w Kodeksie Synajskim, najstarszym zachowanym rękopisie całego Nowego Testamentu. Mniejszość współczesnych uczonych zgadza się z tym tradycyjnym przypisaniem. Tradycja chrześcijańska głosi, że Barnaba poniósł męczeńską śmierć w Salaminy na Cyprze, ale nie jest to historycznie potwierdzone. Tradycyjnie jest uważany za założyciela Cypryjskiego Kościoła Prawosławnego. Dzień wspomnienia Barnaby obchodzony jest..."
+}

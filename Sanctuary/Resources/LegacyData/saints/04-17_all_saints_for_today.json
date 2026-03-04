@@ -1,0 +1,46 @@
+{
+  "id": "04-17_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-17",
+  "feast": "The Seventeenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:10:49.124Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:10:51.188Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "037cb2aa401c6f5fd570d2bc97c9b834f1aced2c4b19e328716a8268e4847fe0",
+        "langs": {
+          "es": {
+            "translatedHash": "475b89f4caf00b46238bf11e437f57fca681eb669570b844a2261c6368eb57e7",
+            "updatedAt": "2026-02-24T23:10:51.811Z"
+          },
+          "pl": {
+            "translatedHash": "b904764979406c47f73eb5ff58fb9cf5b7d3cff64edf3397b6a28156dbeff1c7",
+            "updatedAt": "2026-02-24T23:10:55.824Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día diecisiete de abril",
+  "feast_pl": "Siedemnasty Dzień Kwietnia"
+}

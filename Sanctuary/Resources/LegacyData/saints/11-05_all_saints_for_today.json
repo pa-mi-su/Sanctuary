@@ -1,0 +1,46 @@
+{
+  "id": "11-05_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-05",
+  "feast": "The Fifth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:02:13.442Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:02:14.057Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "820f8562cf34cf3c84757c6a3597a772bc025773bfac506f5bd7b11d6e3913c2",
+        "langs": {
+          "es": {
+            "translatedHash": "4c0765a36d78a58561fb40ef00bce09eaaf6cec0ebe86789c6ba24c4fbc9de2c",
+            "updatedAt": "2026-02-25T01:02:14.919Z"
+          },
+          "pl": {
+            "translatedHash": "16cce0da3ba4614130441376e2f9e6031ac015ef0280eca85a8886c0a57048e5",
+            "updatedAt": "2026-02-25T01:02:15.517Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Quinto Día de Noviembre",
+  "feast_pl": "Piąty dzień listopada"
+}

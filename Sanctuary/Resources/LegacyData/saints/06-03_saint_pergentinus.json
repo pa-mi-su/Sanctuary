@@ -1,0 +1,79 @@
+{
+  "id": "06-03_saint_pergentinus",
+  "name": "Saint Pergentinus",
+  "mmdd": "06-03",
+  "feast": "The Third Day of June",
+  "summary": "A list of people, who died during the 3rd century, who have received recognition as Saints from the Catholic Church:",
+  "biography": "A list of people, who died during the 3rd century, who have received recognition as Saints from the Catholic Church:",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chronological_list_of_saints_in_the_3rd_century",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-03_saint_pergentinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2bd2544c46cfb4412ab63816e474855f07733c8c229b0823460b04c02f4dd700",
+        "langs": {
+          "es": {
+            "translatedHash": "f04925a32cf64407a63dcef63ed0c21b15ccca36a758dbaf1834d78176ca637d",
+            "updatedAt": "2026-02-24T23:36:22.963Z"
+          },
+          "pl": {
+            "translatedHash": "2d2a3c4b3c710ee477aa042b631d85849332cafb8630272247316f72f512ca6b",
+            "updatedAt": "2026-02-24T23:36:24.068Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ba382215e801dbc01ed86240b8a1ad8b0b4d357cee2500bb883d842ac294521d",
+        "langs": {
+          "es": {
+            "translatedHash": "d0ca3f80f9bf5c0454136a4c5160470bfd9db50e0a2227fbb5a197e4c2cc91ab",
+            "updatedAt": "2026-02-24T23:36:24.586Z"
+          },
+          "pl": {
+            "translatedHash": "72478f1241ea99a06440cbefbe8099038555369ab460df44ef316e09e175ae96",
+            "updatedAt": "2026-02-24T23:36:25.172Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3b7a8db41d809970a7286ae31f1e6c8c0607d601dc20f6861d1db7fb2455b159",
+        "langs": {
+          "es": {
+            "translatedHash": "f014aac4893e81339c569b656e8737f0a6629a45953144dc971dff537b7b8f22",
+            "updatedAt": "2026-02-24T23:36:26.081Z"
+          },
+          "pl": {
+            "translatedHash": "519286f526ac85baf60ee3effe6873ec12d2ca46fed0c73281c3dc0bbdc0ba67",
+            "updatedAt": "2026-02-24T23:36:27.101Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3b7a8db41d809970a7286ae31f1e6c8c0607d601dc20f6861d1db7fb2455b159",
+        "langs": {
+          "es": {
+            "translatedHash": "f014aac4893e81339c569b656e8737f0a6629a45953144dc971dff537b7b8f22",
+            "updatedAt": "2026-02-24T23:36:27.945Z"
+          },
+          "pl": {
+            "translatedHash": "684e8b10bc205b4e1cb2e7445d3d5f3575c8892d44b64b19a46bc75364ba61e9",
+            "updatedAt": "2026-02-24T23:36:28.657Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pergentino",
+  "name_pl": "Święty Pergentinus",
+  "feast_es": "El Tercer Día de Junio",
+  "feast_pl": "Trzeci dzień czerwca",
+  "summary_es": "Una lista de personas, que murieron durante el siglo III, que han recibido reconocimiento como Santos por la Iglesia Católica:",
+  "summary_pl": "Lista osób, które zmarły w III wieku i które otrzymały uznanie jako Święci przez Kościół Katolicki:",
+  "biography_es": "Una lista de personas, que murieron durante el siglo III, que han recibido reconocimiento como Santos por la Iglesia Católica:",
+  "biography_pl": "Lista osób, które zmarły w III wieku i zostały uznane za Świętych przez Kościół Katolicki:"
+}

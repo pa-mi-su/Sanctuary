@@ -1,0 +1,48 @@
+{
+  "id": "04-04_saint_isidore_bishop_and_doctor_of_the_church_optional_memorial",
+  "name": "Saint Isidore, Bishop and Doctor of the Church—Optional Memorial",
+  "mmdd": "04-04",
+  "feast": "The Fourth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/First_Martyrs_of_the_Church_of_Rome"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-04_saint_isidore_bishop_and_doctor_of_the_church_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9719c482dd049177e74ba36ce313f0a438949d83d9b31fd476ff1759a9c94802",
+        "langs": {
+          "es": {
+            "translatedHash": "33288fa71b2cf8e648b9d6678d3db92d8e300e731b85000558710877f96ff941",
+            "updatedAt": "2026-02-24T23:03:52.683Z"
+          },
+          "pl": {
+            "translatedHash": "889a327f1e8f9e5b690a500e02734b6cf2f2a0ecd4422b7ec68b52ec9da01619",
+            "updatedAt": "2026-02-24T23:03:53.918Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4049a731d1a30652c95e3e4c00b328ab7596a703bea310c82512aa0f130fb787",
+        "langs": {
+          "es": {
+            "translatedHash": "0ec4657fce6d3e5bed3fa17ca0a41166a089b8bcc440a3358a8aa1d04a303f1c",
+            "updatedAt": "2026-02-24T23:03:54.509Z"
+          },
+          "pl": {
+            "translatedHash": "9163c9926d2bc9e7eac6503573ff7b9a0c20fddfd2a20e32151db693f94a74a2",
+            "updatedAt": "2026-02-24T23:03:55.277Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Isidro, Obispo y Doctor de la Iglesia—Memoria Opcional",
+  "name_pl": "Święty Izydor, biskup i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El Cuarto Día de Abril",
+  "feast_pl": "Czwarty dzień kwietnia"
+}

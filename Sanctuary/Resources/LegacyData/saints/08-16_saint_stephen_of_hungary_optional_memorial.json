@@ -1,0 +1,48 @@
+{
+  "id": "08-16_saint_stephen_of_hungary_optional_memorial",
+  "name": "Saint Stephen of Hungary—Optional Memorial",
+  "mmdd": "08-16",
+  "feast": "The Sixteenth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-16_saint_stephen_of_hungary_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b76bcae3a83eb24304b34e4a55257a006df472ddc40fbafa8bd92cf754907143",
+        "langs": {
+          "es": {
+            "translatedHash": "011f550f0598a28412dc395739a3b2f17625b2a8acc3564230f3f5235d922fb2",
+            "updatedAt": "2026-02-25T00:16:25.884Z"
+          },
+          "pl": {
+            "translatedHash": "00f5df4db8539542b75e9d6914b52dac021cf73a4b2c3a59847dcd5c9d2a6e15",
+            "updatedAt": "2026-02-25T00:16:26.578Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a1b0062b871a99a880e522a533cbd524eb6013d96e56d9d114c0b39fa73b8118",
+        "langs": {
+          "es": {
+            "translatedHash": "510ac5263889b97edcf528e892eb5d97af87e3941d87f67762019105f8621efa",
+            "updatedAt": "2026-02-25T00:16:27.045Z"
+          },
+          "pl": {
+            "translatedHash": "a368be79b664946f474c6bd2f9d2ca1ae5dec5ab1e7785a047502cc64f688421",
+            "updatedAt": "2026-02-25T00:16:27.957Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Esteban de Hungría—Memoria Opcional",
+  "name_pl": "Święty Stefan Węgier — Wspomnienie dowolne",
+  "feast_es": "El Dieciséis de Agosto",
+  "feast_pl": "Szesnasty dzień sierpnia"
+}

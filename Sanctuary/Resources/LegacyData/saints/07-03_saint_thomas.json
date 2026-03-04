@@ -1,0 +1,79 @@
+{
+  "id": "07-03_saint_thomas",
+  "name": "Saint Thomas",
+  "mmdd": "07-03",
+  "feast": "The Third Day of July",
+  "summary": "Thomas Aquinas was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.",
+  "biography": "Thomas Aquinas was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-03_saint_thomas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c86f7fa2b0724849de82c48655a1049ce545375a129d868ecce0a886a5bfa1a4",
+        "langs": {
+          "es": {
+            "translatedHash": "f5bc1fdc3d327789f64a43175eba998cf4c7cb99454b4280c8d4389bec2ceba5",
+            "updatedAt": "2026-02-24T23:52:15.281Z"
+          },
+          "pl": {
+            "translatedHash": "e24241afc20acabc73c02d15496a523eb7eb0afc9e1e0933df4864ff3d23c01e",
+            "updatedAt": "2026-02-24T23:52:15.881Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "46fda93527599ec07fa2aa7639fd54c4115936d1390d58f57958ba8cb429c8be",
+        "langs": {
+          "es": {
+            "translatedHash": "5783c10778f9d55acd0e6cd83724539f3cf3ad2eb541ba9d33ab33ac02b5861e",
+            "updatedAt": "2026-02-24T23:52:16.480Z"
+          },
+          "pl": {
+            "translatedHash": "7290a55f629d27656b67c5e314afa14f8607c76597c28b3b10c414c381aa97a2",
+            "updatedAt": "2026-02-24T23:52:17.038Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9366d4810acfd4ba0bc35ee1f26d1b36bff05e940cee2d0d3a1db1c436d29987",
+        "langs": {
+          "es": {
+            "translatedHash": "901fcf9378513a8347b0cadb6630168f32bbc14c87e0f4be4d1123a126f993d2",
+            "updatedAt": "2026-02-24T23:52:18.035Z"
+          },
+          "pl": {
+            "translatedHash": "349573f341722904a60599d37f5ca833051f451b61c039aa6fa22d5fdf6e867f",
+            "updatedAt": "2026-02-24T23:52:19.499Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9366d4810acfd4ba0bc35ee1f26d1b36bff05e940cee2d0d3a1db1c436d29987",
+        "langs": {
+          "es": {
+            "translatedHash": "ac66dc294a07648182f5b2bcfc5fc79ddf6bcc49be688830742ac2c2d0ca3350",
+            "updatedAt": "2026-02-24T23:52:20.596Z"
+          },
+          "pl": {
+            "translatedHash": "349573f341722904a60599d37f5ca833051f451b61c039aa6fa22d5fdf6e867f",
+            "updatedAt": "2026-02-24T23:52:22.212Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás",
+  "name_pl": "Święty Tomasz",
+  "feast_es": "El Tercer Día de Julio",
+  "feast_pl": "Trzeci dzień lipca",
+  "summary_es": "Tomás de Aquino fue un fraile y sacerdote dominico italiano, teólogo y filósofo. Es considerado uno de los pensadores más influyentes en la historia de la teología católica y la filosofía occidental.",
+  "summary_pl": "Tomasz z Akwinu był włoskim dominikańskim zakonnikiem i kapłanem, teologiem oraz filozofem. Uważany jest za jednego z najbardziej wpływowych myślicieli w historii teologii katolickiej i filozofii zachodniej.",
+  "biography_es": "Tomás de Aquino fue un fraile dominico y sacerdote italiano, teólogo y filósofo. Es considerado uno de los pensadores más influyentes en la historia de la teología católica y la filosofía occidental.",
+  "biography_pl": "Tomasz z Akwinu był włoskim dominikańskim zakonnikiem i kapłanem, teologiem oraz filozofem. Uważany jest za jednego z najbardziej wpływowych myślicieli w historii teologii katolickiej i filozofii zachodniej."
+}

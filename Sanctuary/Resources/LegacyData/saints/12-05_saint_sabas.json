@@ -1,0 +1,79 @@
+{
+  "id": "12-05_saint_sabas",
+  "name": "Saint Sabas",
+  "mmdd": "12-05",
+  "feast": "The Fifth Day of December",
+  "summary": "The War of Saint Sabas (1256–1270) was a conflict between the rival Italian maritime republics of Genoa and Venice over control of Acre, in the Kingdom of Jerusalem.",
+  "biography": "The War of Saint Sabas (1256–1270) was a conflict between the rival Italian maritime republics of Genoa and Venice over control of Acre, in the Kingdom of Jerusalem.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/War_of_Saint_Sabas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-05_saint_sabas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9250098428cf3c7f387d25532b57887742d9bfdf898a0829316d4af72f71bb74",
+        "langs": {
+          "es": {
+            "translatedHash": "280e8e01877653d6d1a2e861c66ce0436fb209ac82ddbdd1fb3fdc33f559c2a9",
+            "updatedAt": "2026-02-25T01:20:27.263Z"
+          },
+          "pl": {
+            "translatedHash": "f5198a3fdc39a0678865448756615f987574c7b9a7c994a537e7d0f9ab9e6dba",
+            "updatedAt": "2026-02-25T01:20:28.062Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c4678d434819c3bdee295ed8dde100d61bf3234166008e5f5d4b9f8f4e01c891",
+        "langs": {
+          "es": {
+            "translatedHash": "c5fdc851122809a8a4721829d871bcece2e8138dd7ef82c75a4becc6c6040687",
+            "updatedAt": "2026-02-25T01:20:28.998Z"
+          },
+          "pl": {
+            "translatedHash": "587956808014ea613f5be64e221e6bd5fe432e11a6be98f7ec47a2e0a42d4101",
+            "updatedAt": "2026-02-25T01:20:29.710Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "578090b5817cd86009f1b4cfe5353066440ab3b165e813aa9a059ef4f74c5505",
+        "langs": {
+          "es": {
+            "translatedHash": "12d298d7dccbf88365872dad3dbb5e9d19821994493065411e8f1d7362c74fc7",
+            "updatedAt": "2026-02-25T01:20:30.741Z"
+          },
+          "pl": {
+            "translatedHash": "cc7112bbbed371c7981bce0065e6dbd7b51ae0426fc4ad21c0a3169380e6a144",
+            "updatedAt": "2026-02-25T01:20:32.240Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "578090b5817cd86009f1b4cfe5353066440ab3b165e813aa9a059ef4f74c5505",
+        "langs": {
+          "es": {
+            "translatedHash": "12d298d7dccbf88365872dad3dbb5e9d19821994493065411e8f1d7362c74fc7",
+            "updatedAt": "2026-02-25T01:20:33.875Z"
+          },
+          "pl": {
+            "translatedHash": "f3f8dc5a8b3e740633af3f37c2a368ad412d88ae651d0329fff9626b7aa50136",
+            "updatedAt": "2026-02-25T01:20:35.173Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Sabas",
+  "name_pl": "Święty Sabas",
+  "feast_es": "El Quinto Día de Diciembre",
+  "feast_pl": "Piąty dzień grudnia",
+  "summary_es": "La Guerra de San Sabas (1256–1270) fue un conflicto entre las rivales repúblicas marítimas italianas de Génova y Venecia por el control de Acre, en el Reino de Jerusalén.",
+  "summary_pl": "Wojna św. Sabasa (1256–1270) była konfliktem między rywalizującymi włoskimi republikami morskimi Genui i Wenecji o kontrolę nad Akko, w Królestwie Jerozolimskim.",
+  "biography_es": "La Guerra de San Sabas (1256–1270) fue un conflicto entre las rivales repúblicas marítimas italianas de Génova y Venecia por el control de Acre, en el Reino de Jerusalén.",
+  "biography_pl": "Wojna św. Sabasa (1256–1270) była konfliktem między rywalizującymi włoskimi republikami morskimi Genuą i Wenecją o kontrolę nad Akko, w Królestwie Jerozolimskim."
+}

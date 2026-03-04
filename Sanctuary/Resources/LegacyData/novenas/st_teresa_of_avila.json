@@ -1,0 +1,281 @@
+{
+  "id": "st_teresa_of_avila",
+  "title": "St. Teresa of Avila Novena",
+  "description": "St. Teresa was a Spanish Carmelite nun who reformed the Order and experienced mystical grace through prayer",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Teresa of Avila"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 6
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-teresa-of-avila-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most amiable Lord Jesus Christ! We thank Thee for the great gift of faith and of devotion to the Holy Sacrament, which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits and by those of Thy faithful spouse, to grant us the gift of a lively faith, and of a fervent devotion toward the most Holy Sacrament of the altar; where Thou, O infinite Majesty! hast obliged Thyself to abide with us even to the end of the world, and wherein Thou didst so lovingly give Thy whole Self to us.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh amabilísimo Señor Jesucristo! Te damos gracias por el gran don de la fe y de la devoción al Santísimo Sacramento, que concediste a Tu amada Teresa; te suplicamos, por Tus méritos y por los de Tu fiel esposa, que nos concedas el don de una fe viva y de una ferviente devoción hacia el Santísimo Sacramento del altar; donde Tú, ¡oh Majestad infinita!, te has obligado a permanecer con nosotros hasta el fin del mundo, y en el cual nos diste tan amorosamente todo Tu Ser.\n\nReza un Padre Nuestro, un Ave María y un Gloria. V. Santa Teresa, ruega por nosotros: R. Para que seamos dignos de las promesas de Jesucristo. Oremos: Escúchanos con gracia, oh Dios de nuestra salvación, para que así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, así también nos alimentemos de su doctrina celestial, y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, Tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencione aquí la petición…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najłaskawszy Panie Jezu Chryste! Dziękujemy Ci za wielki dar wiary i nabożeństwa do Najświętszego Sakramentu, który udzieliłeś swojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i zasługi Twojej wiernej oblubienicy, udziel nam daru żywej wiary i gorącego nabożeństwa do Najświętszego Sakramentu ołtarza; gdzie Ty, o nieskończona Majestacie! zobowiązałeś się pozostać z nami aż do końca świata, i w którym tak miłościwie dałeś nam całego Siebie.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Chrystusa Jezusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się wspomnieniem błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali z niej żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg, na wieki wieków. (wymień prośbę tutaj…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most merciful Lord Jesus Christ! we thank Thee for the great gift of hope which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits, and by those of Thy holy spouse, to give us a great confidence in Thy goodness, by reason of Thy Precious Blood, which Thou hast shed to its last drop for our salvation.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh Señor Jesucristo, muy misericordioso! Te damos gracias por el gran don de la esperanza que concediste a Tu amada Teresa; Te suplicamos, por Tus méritos y por los de Tu santa esposa, que nos concedas una gran confianza en Tu bondad, por razón de Tu Preciosísima Sangre, que derramaste hasta la última gota por nuestra salvación.\n\nReza un Padre Nuestro, un Ave María y un Gloria. V. Santa Teresa, ruega por nosotros: R. Para que seamos dignos de las promesas de Jesucristo. Oremos: Escúchanos con gracia, oh Dios de nuestra salvación, para que así como nos regocijamos en la conmemoración de la bienaventurada virgen Teresa, así también nos alimentemos de su doctrina celestial y saquemos de ella el fervor de una tierna devoción; por nuestro Señor Jesucristo, Tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najmiłosierniejszy Panie Jezu Chryste! dziękujemy Ci za wielki dar nadziei, który udzieliłeś Twojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i zasługi Twojej świętej oblubienicy, daj nam wielką ufność w Twoją dobroć, z powodu Twojej Przenajdroższej Krwi, którą wylałeś aż do ostatniej kropli dla naszego zbawienia.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Chrystusa Jezusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się wspomnieniem błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali stąd żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Boga, na wieki wieków. (wymień tu prośbę…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most loving Lord Jesus Christ! we thank Thee for the great gift of love which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits, and by those of Thy most loving spouse, to give us the great, the crowning gift of Thy perfect love.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh amantísimo Señor Jesucristo! te damos gracias por el gran don del amor que concediste a tu amada Teresa; te suplicamos, por tus méritos y por los de tu más amoroso esposo, que nos concedas el gran don supremo de tu amor perfecto.\n\nReza un Padre Nuestro, un Ave María y un Gloria. V. Santa Teresa, ruega por nosotros: R. Para que seamos dignos de las promesas de Jesucristo. Oremos: Escúchanos benignamente, oh Dios de nuestra salvación, para que así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, así también seamos alimentados por su doctrina celestial, y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najukochańszy Panie Jezu Chryste! Dziękujemy Ci za wielki dar miłości, który udzieliłeś swojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i przez zasługi Twojej najukochańszej Oblubienicy, abyś dał nam wielki, koronny dar Twojej doskonałej miłości.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Chrystusa Jezusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! Abyśmy, radując się z obchodów błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali stąd żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Boga na wieki wieków. (wymień prośbę tutaj…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most sweet Lord Jesus Christ! we thank Thee for the gift of great desire and resolution which Thou didst grant to Thy beloved Teresa, that she might love Thee perfectly; we pray Thee, by Thy merits, and by those of Thy most generous spouse, to give us a true desire, and a true resolution of pleasing Thee the utmost of our power. Amen.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh dulcísimo Señor Jesucristo! te damos gracias por el don del gran deseo y resolución que concediste a tu amada Teresa, para que pudiera amarte perfectamente; te suplicamos, por tus méritos y por los de tu más generosa esposa, que nos concedas un deseo verdadero y una resolución sincera de agradarte en todo lo que esté a nuestro alcance. Amén.\n\nReza un Padre Nuestro, un Ave María y un Gloria. V. Santa Teresa, ruega por nosotros: R. Para que seamos dignos de las promesas de Jesucristo. Oremos: Escúchanos con gracia, oh Dios de nuestra salvación, para que, así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, así también seamos alimentados por su doctrina celestial y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najsłodszy Panie Jezu Chryste! dziękujemy Ci za dar wielkiego pragnienia i postanowienia, który udzieliłeś Twojej umiłowanej Teresie, aby mogła Cię kochać doskonale; prosimy Cię, przez Twoje zasługi i przez zasługi Twojej najhojniejszej oblubienicy, daj nam prawdziwe pragnienie i prawdziwe postanowienie, aby Cię z całej naszej mocy zadowolić. Amen.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Jezusa Chrystusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się wspomnieniem błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali stąd żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Boga na wieki wieków. (wymień prośbę tutaj…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most kind Lord Jesus Christ! we thank Thee for the great gift of humility which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits, and by those of Thy most humble spouse, to grant us the grace of a true humility, which may make us ever find our joy in humiliation, and prefer contempt before every honor.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh, Señor Jesucristo, muy amable! Te damos gracias por el gran don de la humildad que concediste a Tu amada Teresa; te suplicamos, por Tus méritos y por los de Tu esposa más humilde, que nos concedas la gracia de una verdadera humildad, que nos haga siempre hallar nuestra alegría en la humillación, y preferir el desprecio antes que todo honor.\n\nReza un Padre Nuestro, un Ave María y un Gloria. V. Santa Teresa, ruega por nosotros: R. Para que seamos dignos de las promesas de Jesucristo. Oremos: Escúchanos con gracia, oh Dios de nuestra salvación, para que así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, así también nos alimentemos con su doctrina celestial, y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, Tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najłaskawszy Panie Jezu Chryste! dziękujemy Ci za wielki dar pokory, który udzieliłeś swojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i zasługi Twojej najpokorniejszej oblubienicy, udziel nam łaski prawdziwej pokory, która sprawi, że zawsze będziemy znajdować radość w poniżeniu i woleć pogardę ponad wszelką cześć.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Chrystusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się z obchodów błogosławionej dziewicy Teresy, mogli być karmieni jej niebiańską nauką i czerpać stamtąd żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most bountiful Lord Jesus Christ! we thank Thee for the gift of devotion towards Thy sweet mother, Mary and her holy spouse, Joseph, which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits, and by those of Thy most dear spouse, to give us the grace of a special and tender devotion towards Thy most holy mother, Mary, and towards Thy beloved foster-father, Joseph. Amen.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh Señor Jesucristo, sumamente generoso! Te damos gracias por el don de la devoción hacia Tu dulce madre, María, y su santo esposo, José, que concediste a Tu amada Teresa; Te rogamos, por Tus méritos y por los de Tu muy amado esposo, que nos concedas la gracia de una devoción especial y tierna hacia Tu santísima madre, María, y hacia Tu amado padre adoptivo, José. Amén.\n\nReza un Padre Nuestro, un Ave María y un Gloria.\nV. Santa Teresa, ruega por nosotros:\nR. Para que seamos dignos de las promesas de Jesucristo.\n\nOremos:\n¡Escúchanos con gracia, oh Dios de nuestra salvación! para que, así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, seamos alimentados por su doctrina celestial y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, Tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najłaskawszy Panie Jezu Chryste! Dziękujemy Ci za dar nabożeństwa do Twojej słodkiej Matki, Maryi, i jej świętego małżonka, Józefa, który udzieliłeś Twojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i zasługi Twojego najdroższego małżonka, udziel nam łaski szczególnego i czułego nabożeństwa do Twojej najświętszej Matki, Maryi, i do Twojego umiłowanego ojca opiekuna, Józefa. Amen.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Chrystusa Jezusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się z obchodów błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali z niej żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twojego, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień tutaj prośbę…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most loving Lord Jesus Christ! we thank Thee for the wonderful gift of the wound in the heart which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits, and by those of Thy seraphic spouse, to grant us also a like wound of love, that, henceforth, we may love Thee and give our mind to the love of nothing but Thee. Amen.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh amantísimo Señor Jesucristo! te damos gracias por el maravilloso don de la herida en el corazón que concediste a tu amada Teresa; te suplicamos, por tus méritos y por los de tu esposa seráfica, que nos concedas también a nosotros una herida semejante de amor, para que, desde ahora, te amemos y entreguemos nuestra mente al amor de nada más que de Ti. Amén.\n\nReza un Padre Nuestro, un Ave María y un Gloria. V. Santa Teresa, ruega por nosotros: R. Para que seamos dignos de las promesas de Jesucristo. Oremos: ¡Escúchanos con gracia, oh Dios de nuestra salvación! para que, así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, así también nos alimentemos de su doctrina celestial y saquemos de ella el fervor de una tierna devoción; por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najłaskawszy Panie Jezu Chryste! dziękujemy Ci za cudowny dar rany w sercu, którą udzieliłeś swojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i zasługi Twojej serafickiej oblubienicy, udziel nam również podobnej rany miłości, abyśmy odtąd mogli Cię miłować i oddać nasz umysł miłości jedynie Tobie. Amen.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Chrystusa Jezusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się wspomnieniem błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali z niej żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień tutaj prośbę…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nO most beloved Lord Jesus Christ! we thank Thee for the eminent gift of the desire for a happy death in God’s sanctifying grace which Thou didst grant to Thy beloved Teresa; we pray Thee, by Thy merits, and by those of Thy most constant spouse, to grant us the grace of desiring such a happy death, in order to go and possess Thee eternally in the country of the blessed. Amen.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\n¡Oh, amantísimo Señor Jesucristo! te damos gracias por el eminente don del deseo de una muerte feliz en la gracia santificante de Dios que concediste a tu amada Teresa; te suplicamos, por tus méritos y por los de tu esposa más constante, que nos concedas la gracia de desear tal muerte feliz, para ir a poseerte eternamente en la patria de los bienaventurados. Amén.\n\nReza un Padre Nuestro, un Ave María y un Gloria.\nV. Santa Teresa, ruega por nosotros:\nR. Para que seamos dignos de las promesas de Jesucristo.\n\nOremos:\n¡Escúchanos benignamente, oh Dios de nuestra salvación! para que, así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, así también nos alimentemos con su doctrina celestial, y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencione aquí la petición…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nO najukochańszy Panie Jezu Chryste! dziękujemy Ci za wybitny dar pragnienia szczęśliwej śmierci w uświęcającej łasce Bożej, który udzieliłeś Twojej umiłowanej Teresie; prosimy Cię, przez Twoje zasługi i zasługi Twojej najwierniejszej oblubienicy, udziel nam łaski pragnienia tak szczęśliwej śmierci, abyśmy mogli iść i posiadać Cię na wieki w kraju błogosławionych. Amen.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Jezusa Chrystusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się wspomnieniem błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali stamtąd żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Boga na wieki wieków. (wymień prośbę tutaj…) Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\n(This novena was written by St. Alphonsus Liguori)\n\nLastly, O dearest Lord Jesus Christ! we thank Thee for the gift of the precious death which Thou didst grant to Thy beloved Teresa, making her sweetly to die of love; we pray Thee, by Thy merits, and by those of Thy most affectionate spouse, to grant us a good death; and if we do not die of love, yet, that we may at least die burning of love for Thee, that so dying, we may be able to go and love Thee for evermore with a more perfect love in heaven. Amen.\n\nSay one Our Father, Hail Mary and Glory be. V. St. Teresa, pray for us: R. That we may become worthy of the promises of Jesus Christ. Let us pray: Graciously hear us, O God of our salvation! that as we rejoice in the commemoration of the blessed virgin Teresa, so we may be nourished by her heavenly doctrine, and draw from thence the fervour of a tender devotion; through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God for ever and ever. (mention request here…) Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n(Esta novena fue escrita por San Alfonso María de Ligorio)\n\nPor último, ¡oh amadísimo Señor Jesucristo! te damos gracias por el don de la preciosa muerte que concediste a tu amada Teresa, haciéndola morir dulcemente de amor; te suplicamos, por tus méritos y por los de tu más afectuosa esposa, que nos concedas una buena muerte; y si no morimos de amor, al menos que muramos ardiendo en amor por Ti, para que así muriendo, podamos ir a amarte para siempre con un amor más perfecto en el cielo. Amén.\n\nReza un Padre Nuestro, un Ave María y un Gloria.\nV. Santa Teresa, ruega por nosotros:\nR. Para que seamos dignos de las promesas de Jesucristo.\n\nOremos:\n¡Escúchanos con gracia, oh Dios de nuestra salvación! para que, así como nos alegramos en la conmemoración de la bienaventurada virgen Teresa, seamos alimentados por su doctrina celestial, y de ella saquemos el fervor de una tierna devoción; por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nMás sobre Santa Teresa\n\nSan Alfonso María de Ligorio se volvió devoto de Santa Teresa y escribió esta novena en su diario.\n\nTanto San Alfonso como Santa Teresa enfatizaron mucho la necesidad de la Oración Mental, y ellos mismos practicaron esta forma de oración.\n\nElla fue testigo del conflicto entre sus padres sobre cuán estrictos debían ser con la práctica de su Fe Católica, y como joven luchó entre la elección de ser una dama a la moda en la sociedad o entrar en un convento y hacerse monja.\n\nTeresa y sus padres finalmente decidieron que ella iría al convento, pero incluso allí descubrió tal laxitud en la observancia religiosa — muchas de las monjas se entregaban a toda clase de vanidades y actuaban como si no fueran monjas en absoluto — y como Teresa era ella misma tan amable y atractiva para los demás, enfrentó aún más tentaciones de vanidad y pereza.\n\nPor la gracia de Dios, a través de una grave enfermedad y una posterior recuperación prolongada, experimentó una profunda conversión de corazón, especialmente mediante la práctica de la Oración Mental. (Nota de Devin Rose: ¿Conoces la Oración Mental? Es el segundo nivel de oración después de la Oración Vocal, y todos los santos se hicieron santos a través de ella. Aprende más buscando Lionheart Catholic.)\n\nFundó un nuevo convento, uno que realmente seguiría la regla y las observancias tradicionales de los carmelitas. Enfrentó una tremenda oposición al hacerlo, tanto de las monjas de su convento original, como del pueblo donde vivían y de otros dentro de la Iglesia.\n\nPero no se rindió, estableciendo un convento reformado que se convirtió en una nueva Orden reconocida por la Iglesia: las Carmelitas Descalzas. Esto coincidió con el movimiento más amplio en la Iglesia para reformarse internamente en respuesta a la Reforma Protestante.\n\nSan Juan de la Cruz se convirtió en su hermano espiritual menor y fue clave en la reforma de las Carmelitas Descalzas para la parte masculina de la Orden.\n\nEnvíame Oraciones Respondidas\n\nEnvíame tus oraciones respondidas de la Novena a Santa Teresa de Ávila\n\n⏰ Registro para Recordatorios\n\nHaz clic aquí para obtener el Ebook de Novenas Católicas GRATIS, así como recordatorios de cuándo comienzan las novenas\n\nNovena Relacionada\n\nNovena al Niño de Praga",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n(Ta nowenna została napisana przez św. Alfonsa Liguoriego)\n\nNa koniec, o najdroższy Panie Jezu Chryste! dziękujemy Ci za dar cennej śmierci, którą udzieliłeś swojej ukochanej Teresie, sprawiając, że słodko umarła z miłości; prosimy Cię, przez Twoje zasługi i zasługi Twojej najczulszej Oblubienicy, udziel nam dobrej śmierci; a jeśli nie umrzemy z miłości, to przynajmniej niech umrzemy płonąc miłością do Ciebie, aby umierając, mogliśmy iść i kochać Cię na wieki z doskonalszą miłością w niebie. Amen.\n\nOdmów jedno Ojcze nasz, Zdrowaś Maryjo i Chwała Ojcu. V. Święta Tereso, módl się za nami: R. Abyśmy stali się godni obietnic Jezusa Chrystusa. Módlmy się: Łaskawie wysłuchaj nas, Boże naszego zbawienia! abyśmy, radując się wspomnieniem błogosławionej dziewicy Teresy, byli karmieni jej niebiańską nauką i czerpali z niej żarliwe nabożeństwo; przez Pana naszego Jezusa Chrystusa, Syna Twego, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień tutaj swoją prośbę…) Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWięcej o św. Teresie\n\nŚw. Alfons Liguori stał się oddany św. Teresie i spisał tę nowennę w swoim dzienniku.\n\nZarówno św. Alfons, jak i św. Teresa mocno podkreślali potrzebę Modlitwy Mentalnej, którą sami praktykowali.\n\nByła świadkiem konfliktów między swoimi rodzicami dotyczących tego, jak surowo należy praktykować katolicką wiarę, a jako młoda kobieta zmagała się z wyborem między byciem modną damą w społeczeństwie a wstąpieniem do klasztoru i zostaniem zakonnicą.\n\nOstatecznie Teresa i jej rodzice zdecydowali, że pójdzie do klasztoru, ale nawet tam odkryła taką luźność w przestrzeganiu religijnych zasad – wiele zakonnic oddawało się wszelkim próżnościom i zachowywało się, jakby wcale nie były zakonnicami – a ponieważ Teresa sama była tak sympatyczna i atrakcyjna dla innych, napotykała jeszcze więcej pokus próżności i lenistwa.\n\nDzięki łasce Bożej, przez ciężką chorobę i długotrwałe leczenie, doświadczyła głębokiej przemiany serca, zwłaszcza przez praktykę Modlitwy Mentalnej. (Uwaga od Devina Rose’a: Czy znasz Modlitwę Mentalną? To drugi poziom modlitwy po Modlitwie Głosowej, a wszyscy święci zostali świętymi dzięki niej. Dowiedz się więcej, szukając Lionheart Catholic.)\n\nZałożyła nowy klasztor, który rzeczywiście miał przestrzegać tradycyjnej reguły i obserwancji karmelitańskiej. Napotkała ogromny opór ze strony zakonnic z pierwotnego klasztoru, mieszkańców miasta oraz innych osób w Kościele.\n\nAle się nie poddała, zakładając zakon reformowany, który stał się nowym Zakonem uznanym przez Kościół: Karmelitów Bosych. Zbiegło się to z szerszym ruchem reformy wewnętrznej Kościoła w odpowiedzi na reformację protestancką.\n\nŚw. Jan od Krzyża stał się jej duchowym młodszym bratem i sam odegrał kluczową rolę w reformie Karmelitów Bosych dla męskiej części Zakonu.\n\nWyślij mi swoje wysłuchane modlitwy\n\nPrześlij mi swoje wysłuchane modlitwy z Nowenny do św. Teresy z Avila\n\n⏰ Zapisz się na przypomnienia\n\nKliknij tutaj, aby otrzymać katolickiego ebooka z nowennami ZA DARMO oraz przypomnienia o rozpoczęciu nowenn\n\nPowiązana nowenna\n\nNowenna do Dzieciątka Praskiego"
+    }
+  ],
+  "sourceFacts": {
+    "starts": "October 6Feastday:October 15Birth:March 28, 1515Death:October 4, 1582Patron saint of Spain, sick people, people in religious orders, chess, people ridiculed for their piety, lacemakers, Požega, Croatia, Talisay City, Cebu, Philippines, Malalag, Davao del Sur, Philippines 📱",
+    "feast": "October 15Birth:March 28, 1515Death:October 4, 1582Patron saint of Spain, sick people, people in religious orders, chess, people ridiculed for their piety, lacemakers, Požega, Croatia, Talisay City, Cebu, Philippines, Malalag, Davao del Sur, Philippines 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_teresa_of_avila.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "d5f01cd98b3a2208aacd35a373311a6b29279ffcdc78472284d5f0b864164022",
+        "langs": {
+          "es": {
+            "translatedHash": "fcbb3060e224295def86e4ada8f02112256334c8db2b2d0e2b3edeef395e7ff8",
+            "updatedAt": "2026-02-25T18:08:56.803Z"
+          },
+          "pl": {
+            "translatedHash": "105e95c33819d92c22ae97e6ede054ca5b356d5a5c2e38df24b635391c9bedec",
+            "updatedAt": "2026-02-25T18:08:57.475Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "1268e50d0ee9def341adf33f47b3f8670af709c2fc7ebd721b1c8f0b4f8b0e3e",
+        "langs": {
+          "es": {
+            "translatedHash": "7058b5baad05af35472f6a1c14a020b9f580f4fa78d544b05c358a67105858b9",
+            "updatedAt": "2026-02-25T18:08:58.385Z"
+          },
+          "pl": {
+            "translatedHash": "82ef33fb99301b2c79b802eec75205f208f07a252af9b9edbb7d36c619f884b2",
+            "updatedAt": "2026-02-25T18:08:59.378Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "d3bcdc311a6991d4154f42356dd2024141862ff5beda9d237c8c0b9dea8fca51",
+        "langs": {
+          "es": {
+            "translatedHash": "ee6cc90ca0c054e8efc02174f4caa562b733498472f428c89bce1cc516dae158",
+            "updatedAt": "2026-02-25T18:09:04.201Z"
+          },
+          "pl": {
+            "translatedHash": "145eb7037c22231c4c9c2b515cd3a41180c37fc5b24762e7e00550d97f457e75",
+            "updatedAt": "2026-02-25T18:09:09.396Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "3670d57afc7e78d9205f01917c1c2bb310c3364c65d0e43920e56a247fef9824",
+        "langs": {
+          "es": {
+            "translatedHash": "af811dd3783c918fc8b898720b85370edde64c820d3f88bc07232e09ec97abd1",
+            "updatedAt": "2026-02-25T18:09:14.108Z"
+          },
+          "pl": {
+            "translatedHash": "dc15e5c3508025015ba9544f9f1dd8eb9dfe86f5fb09a77b2bfca065f0562e24",
+            "updatedAt": "2026-02-25T18:09:19.659Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "c110c11dfea9c7c64877211335ceb91103dfee0d04c114260291d447fde97864",
+        "langs": {
+          "es": {
+            "translatedHash": "37f9f8ea5f037c287a40ccda26341cd3f9b0bb30b1651220c2a699da24c59db8",
+            "updatedAt": "2026-02-25T18:09:23.329Z"
+          },
+          "pl": {
+            "translatedHash": "ea6e9efbc6b6b0cc122f7910570c73c88a4f2ddf7831d109229ce0588b969e29",
+            "updatedAt": "2026-02-25T18:09:28.124Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "9b014799059fac167b7420b554232361b0cf5034dfe84b8f7a34fae47d9896ff",
+        "langs": {
+          "es": {
+            "translatedHash": "ea7ae656e6fda77ced210529c10d808b36d582d2916241d731dbdd37a47073d1",
+            "updatedAt": "2026-02-25T18:09:32.187Z"
+          },
+          "pl": {
+            "translatedHash": "8c1efc68d3cbebdea79c2554b9f451ef3877143bc838c63a7e1b336d07a5819e",
+            "updatedAt": "2026-02-25T18:09:38.111Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "6de1dedf4e83923913d96f9b20531be0c36060a6a2721f3e2cdc09d31a5c520f",
+        "langs": {
+          "es": {
+            "translatedHash": "6469faed947657f9b6cd4f37794e18337470aa58627a1c88391ce71942b2a45b",
+            "updatedAt": "2026-02-25T18:09:43.512Z"
+          },
+          "pl": {
+            "translatedHash": "df3b925b77773c19ebe6baa3337db4bf892284e7ca08bf84f4db979ec09bddc8",
+            "updatedAt": "2026-02-25T18:09:49.498Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "c191fb864c042400a1d58b308b46394b6070a45286a1faeffa39b11085d64968",
+        "langs": {
+          "es": {
+            "translatedHash": "af5c7b7d22546d8a29729ae9fc1e22966dd53d5da571845ed9c5905486b7c602",
+            "updatedAt": "2026-02-25T18:09:55.239Z"
+          },
+          "pl": {
+            "translatedHash": "21e0add955797da21d65c8f841aedd986c70da770ed80882392cf4354afeb292",
+            "updatedAt": "2026-02-25T18:10:04.063Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "356ecd76c99a8fe48ce03089a647feb6881254435136c472503e0db84eac648a",
+        "langs": {
+          "es": {
+            "translatedHash": "1947af60c9131a22a373d97b5aa8a0ac40ab026651f7e132f8279e639d41200f",
+            "updatedAt": "2026-02-25T18:10:08.786Z"
+          },
+          "pl": {
+            "translatedHash": "aa011f43e4ce206a09e197a94a5107678c59515914a99026498adba1a65a1610",
+            "updatedAt": "2026-02-25T18:10:13.577Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "507eaf1fa3f6acaa69ccb7b597fddfd510d81114f67bb641c01f80a6e3ce6ed2",
+        "langs": {
+          "es": {
+            "translatedHash": "83a424840ba0120d7154d45fcdaed7665cfa4203b683de7b97313e0c84d47bda",
+            "updatedAt": "2026-02-25T18:10:18.081Z"
+          },
+          "pl": {
+            "translatedHash": "89449c845babd11e78f38c25d36c245c2e2a84b2e821fcf6f0fd5840b40fcae9",
+            "updatedAt": "2026-02-25T18:10:24.593Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "014d7c88b3a4521b6076991079e518deefdcef2ed068ce8d6f7bc82687e45f23",
+        "langs": {
+          "es": {
+            "translatedHash": "e61a41214feb14acbade156d207c50819a0bc812874f80ebf7e5801f14c6ce27",
+            "updatedAt": "2026-02-25T18:10:40.653Z"
+          },
+          "pl": {
+            "translatedHash": "3b1f92719a06c9fe317372f753d0d87130b65fa2e5fe1d8165a0571ad27395ce",
+            "updatedAt": "2026-02-25T18:10:58.586Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Teresa de Ávila",
+  "title_pl": "Nowenna do św. Teresy z Avili",
+  "description_es": "Santa Teresa fue una monja carmelita española que reformó la Orden y experimentó la gracia mística a través de la oración",
+  "description_pl": "Św. Teresa była hiszpańską karmelitanką, która zreformowała Zakon i doświadczyła mistycznej łaski przez modlitwę.",
+  "intentions": [
+    "spain",
+    "people_in_religious_orders",
+    "headache_sufferers"
+  ],
+  "intentions_es": [
+    "españa",
+    "personas_en_órdenes_religiosas",
+    "quienes_sufren_de_dolor_de_cabeza"
+  ],
+  "intentions_pl": [
+    "hiszpania",
+    "ludzie_w_zakonach",
+    "cierpiących_na_ból_głowy"
+  ]
+}

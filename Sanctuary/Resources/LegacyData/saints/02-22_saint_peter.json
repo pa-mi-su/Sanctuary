@@ -1,0 +1,81 @@
+{
+  "id": "02-22_saint_peter",
+  "name": "Saint Peter",
+  "mmdd": "02-22",
+  "feast": "The Twenty-Second Day of February",
+  "summary": "The Chair of Saint Peter, also known as the Throne of Saint Peter, is a relic conserved in St. Peter's Basilica in Vatican City, the sovereign enclave of the Pope inside Rome, Italy. The relic is a wooden throne that tradition claims belonged to the Apostle Saint Peter, the leader of the Early Christians in Rome and first Pope, and which he used as Bishop of Rome. The relic is enclosed in a sculpted gilt bronze casing designed by Gian Lorenzo Bernini and constructed between 1647 and 1653. In 2012, Pope Benedict XVI described the chair as \"a symbol of the special mission of Peter and his Successors to tend Christ's flock, keeping it united in faith and in charity.\"",
+  "biography": "The Chair of Saint Peter (Latin: Cathedra Petri), also known as the Throne of Saint Peter, is a relic conserved in St. Peter's Basilica in Vatican City, the sovereign enclave of the Pope inside Rome, Italy. The relic is a wooden throne that tradition claims belonged to the Apostle Saint Peter, the leader of the Early Christians in Rome and first Pope, and which he used as Bishop of Rome. The relic is enclosed in a sculpted gilt bronze casing designed by Gian Lorenzo Bernini and constructed between 1647 and 1653. In 2012, Pope Benedict XVI described the chair as \"a symbol of the special mission of Peter and his Successors to tend Christ's flock, keeping it united in faith and in charity.\"\nThe wooden throne was a gift from Emperor of the Romans Charles the Bald to Pope John VIII in 875. It has been studied many times over the years, most recently between 1968 and 1974. The study concluded that it was not a double, but a single chair, with a covering, and that the oldest parts are from the 6th century. The Chair of Saint Peter is the second altar within the church, with the first one being the one under St. Peter's Baldachin. It stands to remind visitors of the Catholic Church's authority...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chair_of_Saint_Peter",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-22_saint_peter.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "235eea79c2febcd6b622f45cab810a163276de20ecc7ed48d460088c03aaaafd",
+        "langs": {
+          "es": {
+            "translatedHash": "c930a1881cbeba213ac0187ca84b090e63a3b7a2fb413c223f22930ef1de268a",
+            "updatedAt": "2026-02-24T22:40:02.317Z"
+          },
+          "pl": {
+            "translatedHash": "20127b1e0f81262b22f1c756f15dc7094e41384097f42bad07ee33b90d852a9c",
+            "updatedAt": "2026-02-24T22:40:03.038Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e71335a07289b1a667cad95ac4c766c24d1afb3669dfa3e9c3ab887c910825a1",
+        "langs": {
+          "es": {
+            "translatedHash": "3b83e3363f3b6b893f0b4f3319f12a43a517a7497dadbf609597e85e550fb7ed",
+            "updatedAt": "2026-02-24T22:40:03.668Z"
+          },
+          "pl": {
+            "translatedHash": "4f45f6f742d44917b8276e31e812bc2193e9c96d5b3510ede60decbf60033007",
+            "updatedAt": "2026-02-24T22:40:04.215Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8ffc8a344cd56725f0a8ca18f7da82e4ec6a9851d9391958277a66095c397299",
+        "langs": {
+          "es": {
+            "translatedHash": "a5a55c3d08504e638881fc84f6483b57dbc11226d42a73b64e966cf1ddd26d47",
+            "updatedAt": "2026-02-24T22:40:07.332Z"
+          },
+          "pl": {
+            "translatedHash": "db7692e4fb1c73ba904595f99b9d0099d901c4a1a64e5227c687b27aa3dee3e6",
+            "updatedAt": "2026-02-24T22:40:11.798Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "0b33b508c0b3010dde8c9f6ab14a4a561de7d1637b00a030af401998e130f6dd",
+        "langs": {
+          "es": {
+            "translatedHash": "c560146147d66a9c8c756f6e9b54b31910e042b94c5ca3fb9722d1cd2a74fb04",
+            "updatedAt": "2026-02-24T22:40:16.731Z"
+          },
+          "pl": {
+            "translatedHash": "780bf75dfa5009bbd835bbb06ef100d63086cab7246ec7817f1cbc2dd33672cd",
+            "updatedAt": "2026-02-24T22:40:25.317Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro",
+  "name_pl": "Święty Piotr",
+  "feast_es": "El Veintidós de Febrero",
+  "feast_pl": "Dwudziesty drugi dzień lutego",
+  "summary_es": "La Silla de San Pedro, también conocida como el Trono de San Pedro, es una reliquia conservada en la Basílica de San Pedro en la Ciudad del Vaticano, el enclave soberano del Papa dentro de Roma, Italia. La reliquia es un trono de madera que la tradición afirma perteneció al Apóstol San Pedro, el líder de los primeros cristianos en Roma y primer Papa, y que él usó como Obispo de Roma. La reliquia está encerrada en una caja de bronce dorado esculpida, diseñada por Gian Lorenzo Bernini y construida entre 1647 y 1653. En 2012, el Papa Benedicto XVI describió la silla como \"un símbolo de la misión especial de Pedro y sus Sucesores para cuidar el rebaño de Cristo, manteniéndolo unido en la fe y en la caridad.\"",
+  "summary_pl": "Krzesło Świętego Piotra, znane również jako Tron Świętego Piotra, jest relikwią przechowywaną w Bazylice Świętego Piotra w Watykanie, suwerennej enklawie papieża w Rzymie, Włochy. Relikwia to drewniany tron, który według tradycji należał do Apostoła Świętego Piotra, przywódcy wczesnych chrześcijan w Rzymie i pierwszego papieża, i którego używał jako biskup Rzymu. Relikwia jest zamknięta w rzeźbionej, pozłacanej obudowie z brązu, zaprojektowanej przez Gian Lorenzo Berniniego i wykonanej w latach 1647–1653. W 2012 roku papież Benedykt XVI opisał krzesło jako „symbol szczególnej misji Piotra i jego Następców, by pielęgnować owczarnię Chrystusa, utrzymując ją w jedności wiary i miłości.”",
+  "biography_es": "La Silla de San Pedro (latín: Cathedra Petri), también conocida como el Trono de San Pedro, es una reliquia conservada en la Basílica de San Pedro en la Ciudad del Vaticano, el enclave soberano del Papa dentro de Roma, Italia. La reliquia es un trono de madera que la tradición atribuye al Apóstol San Pedro, el líder de los primeros cristianos en Roma y primer Papa, y que él usó como Obispo de Roma. La reliquia está encerrada en una caja de bronce dorado esculpida, diseñada por Gian Lorenzo Bernini y construida entre 1647 y 1653. En 2012, el Papa Benedicto XVI describió la silla como \"un símbolo de la misión especial de Pedro y sus sucesores para cuidar el rebaño de Cristo, manteniéndolo unido en la fe y en la caridad.\"\n\nEl trono de madera fue un regalo del Emperador de los Romanos Carlos el Calvo al Papa Juan VIII en 875. Ha sido estudiado muchas veces a lo largo de los años, más recientemente entre 1968 y 1974. El estudio concluyó que no era un doble, sino una sola silla, con una cubierta, y que las partes más antiguas datan del siglo VI. La Silla de San Pedro es el segundo altar dentro de la iglesia, siendo el primero el que está bajo el Baldaquino de San Pedro. Está allí para recordar a los visitantes la autoridad de la Iglesia Católica...",
+  "biography_pl": "Krzesło Świętego Piotra (łac. Cathedra Petri), znane również jako Tron Świętego Piotra, jest relikwią przechowywaną w Bazylice św. Piotra w Watykanie, suwerennej enklawie papieża w Rzymie, we Włoszech. Relikwia ta to drewniany tron, który według tradycji należał do Apostoła Świętego Piotra, przywódcy wczesnych chrześcijan w Rzymie i pierwszego papieża, i którego używał jako biskup Rzymu. Relikwia jest zamknięta w rzeźbionej, pozłacanej obudowie z brązu, zaprojektowanej przez Gian Lorenzo Berniniego i wykonanej w latach 1647–1653. W 2012 roku papież Benedykt XVI opisał krzesło jako „symbol szczególnej misji Piotra i jego Następców, by troszczyć się o owczarnię Chrystusa, utrzymując ją w jedności wiary i miłości.”\n\nDrewniany tron był darem cesarza rzymskiego Karola Łysego dla papieża Jana VIII w 875 roku. Był wielokrotnie badany na przestrzeni lat, ostatnio w latach 1968–1974. Badania wykazały, że nie jest to podwójne krzesło, lecz pojedyncze, z nakryciem, a najstarsze jego części pochodzą z VI wieku. Krzesło Świętego Piotra jest drugim ołtarzem w kościele, pierwszym jest ołtarz pod baldachimem św. Piotra. Ma przypominać odwiedzającym o autorytecie Kościoła katolickiego..."
+}

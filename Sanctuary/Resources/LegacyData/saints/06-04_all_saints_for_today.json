@@ -1,0 +1,46 @@
+{
+  "id": "06-04_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "06-04",
+  "feast": "The Fourth Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:36:49.680Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:36:50.881Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ddbac6a0c81d9f4dd97db9039164867139266ca95cc3cf8760171c6a8f6a089",
+        "langs": {
+          "es": {
+            "translatedHash": "b91fb7f9a83c69e6e581c23ca2357fd83df80e57f7e2dec3aeeb4761a07d60e2",
+            "updatedAt": "2026-02-24T23:36:51.498Z"
+          },
+          "pl": {
+            "translatedHash": "f8dac5f5c4ff9a5f03a16e7412cb27b707ee30ee6ff284c1237acbff91c461ca",
+            "updatedAt": "2026-02-24T23:36:52.103Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Cuarto Día de Junio",
+  "feast_pl": "Czwarty dzień czerwca"
+}

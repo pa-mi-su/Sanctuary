@@ -1,0 +1,48 @@
+{
+  "id": "11-13_saint_frances_xavier_cabrini_virgin_usa_memorial",
+  "name": "Saint Frances Xavier Cabrini, Virgin—USA Memorial",
+  "mmdd": "11-13",
+  "feast": "The Thirteenth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dorothy_Day"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-13_saint_frances_xavier_cabrini_virgin_usa_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a8e49e27a3a276bd40982416c98c2fd996c37cb351bbab8fa333b95ca2f5f36c",
+        "langs": {
+          "es": {
+            "translatedHash": "62b78b0efb899447964f82137e6e53716e0568a85e98f01f5d0152079645fc56",
+            "updatedAt": "2026-02-25T01:07:05.770Z"
+          },
+          "pl": {
+            "translatedHash": "d1930911bbd610fd6d40e760678eee9d761276800803dea838528af48281ee8e",
+            "updatedAt": "2026-02-25T01:07:06.782Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54861fc5f0610f947c96f1f5fcf481a218eaab57dc53d7886c5778226bf0891a",
+        "langs": {
+          "es": {
+            "translatedHash": "64640f2bd18da0e551900f85dd94a99e4fa120a8a45ca9155c61f573741c8fbd",
+            "updatedAt": "2026-02-25T01:07:07.406Z"
+          },
+          "pl": {
+            "translatedHash": "9509626f6ab2388b814a2de0cdee9fdaf25fceba83dd82c3876b359213a0f08c",
+            "updatedAt": "2026-02-25T01:07:07.964Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Francisca Javier Cabrini, Virgen—Memoria de los Estados Unidos",
+  "name_pl": "Święta Franciszka Ksawera Cabrini, Dziewica — Wspomnienie w USA",
+  "feast_es": "El Decimotercer Día de Noviembre",
+  "feast_pl": "Trzynasty dzień listopada"
+}

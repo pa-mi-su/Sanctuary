@@ -1,0 +1,48 @@
+{
+  "id": "10-19_saints_jean_de_brebeuf_isaac_jogues_priests_and_martyrs_and_their_companions_mar",
+  "name": "Saints Jean de Brébeuf, Isaac Jogues, Priests and Martyrs; and their Companions, Martyrs—USA: Memorial",
+  "mmdd": "10-19",
+  "feast": "The Nineteenth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canadian_Martyrs"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-19_saints_jean_de_brebeuf_isaac_jogues_priests_and_martyrs_and_their_companions_mar.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5899c661299731fcc1468172d34399d3f0b94ae1cd6f48fc393b44ce287f377b",
+        "langs": {
+          "es": {
+            "translatedHash": "b467af64c4321ba515d6af4348fc607b3be82314723ac3bf26e4d91f13edce02",
+            "updatedAt": "2026-02-25T00:52:43.866Z"
+          },
+          "pl": {
+            "translatedHash": "995c47c71c4f67b581417e85b41d4de2a05c0928a113c8eba150c225020a74a5",
+            "updatedAt": "2026-02-25T00:52:45.282Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "86a76aa27de04935898f89a5611b96a67bb33dab2fb116b200aa6bdb1626d97d",
+        "langs": {
+          "es": {
+            "translatedHash": "10bafa45d2b6d326a5a281fd9d9d825e42f07fa4840aaeff6451322f909c319a",
+            "updatedAt": "2026-02-25T00:52:45.885Z"
+          },
+          "pl": {
+            "translatedHash": "b146ed56fad0b16b84d176b50b32b8fd33be3f062212312da83c90cb175cccf4",
+            "updatedAt": "2026-02-25T00:52:46.654Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Juan de Brébeuf, Isaac Jogues, Sacerdotes y Mártires; y sus Compañeros, Mártires—EE. UU.: Memoria",
+  "name_pl": "Święci Jan de Brébeuf, Izaak Jogues, Kapłani i Męczennicy; oraz ich Towarzysze, Męczennicy — USA: Wspomnienie",
+  "feast_es": "El Diecinueve de Octubre",
+  "feast_pl": "Dziewiętnasty Dzień Października"
+}

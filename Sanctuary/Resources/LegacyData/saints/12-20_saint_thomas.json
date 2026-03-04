@@ -1,0 +1,79 @@
+{
+  "id": "12-20_saint_thomas",
+  "name": "Saint Thomas",
+  "mmdd": "12-20",
+  "feast": "The Twentieth Day of December",
+  "summary": "Thomas Aquinas was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.",
+  "biography": "Thomas Aquinas ( ə-KWY-nəs; Italian: Tommaso d'Aquino, lit. 'Thomas of Aquino'; c. 1225 – 7 March 1274) was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy. Thomas was a proponent of natural theology and the father of a school of thought (encompassing both theology and philosophy) known as Thomism. He argued that God is the source of the light of natural reason and the light of faith. He embraced several ideas put forward by Aristotle and attempted to synthesize Aristotelian philosophy with the principles of Christianity. He has been described as \"the most influential thinker of the medieval period\" and \"the greatest of the medieval philosopher-theologians\". Thomas Aquinas's philosophy influenced modern virtue ethics, aesthetics, and cognitive theory. He has been criticized, notably by Bertrand Russell, for seeking to justify conclusions already dictated by faith rather than follow reason independently. Thomas's best-known works are the unfinished Summa Theologica, or Summa Theologiae (1265–1274), the Disputed Questions on Truth (1256–1259) and the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-20_saint_thomas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c86f7fa2b0724849de82c48655a1049ce545375a129d868ecce0a886a5bfa1a4",
+        "langs": {
+          "es": {
+            "translatedHash": "f5bc1fdc3d327789f64a43175eba998cf4c7cb99454b4280c8d4389bec2ceba5",
+            "updatedAt": "2026-02-25T01:29:56.127Z"
+          },
+          "pl": {
+            "translatedHash": "e24241afc20acabc73c02d15496a523eb7eb0afc9e1e0933df4864ff3d23c01e",
+            "updatedAt": "2026-02-25T01:29:56.569Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "501295a61c387877b840945f38eb91121400e46debd0ff6d6b11a792906294f1",
+        "langs": {
+          "es": {
+            "translatedHash": "09ab28285d30b0ad578e69cc3b39e817403f2c96ad57a4f1bd0883672fe640b4",
+            "updatedAt": "2026-02-25T01:29:58.421Z"
+          },
+          "pl": {
+            "translatedHash": "3af01699e328c5462b6b265cca3b315c0c5ebbf280798e9cd5f4c947cd4d773c",
+            "updatedAt": "2026-02-25T01:29:59.037Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9366d4810acfd4ba0bc35ee1f26d1b36bff05e940cee2d0d3a1db1c436d29987",
+        "langs": {
+          "es": {
+            "translatedHash": "ac66dc294a07648182f5b2bcfc5fc79ddf6bcc49be688830742ac2c2d0ca3350",
+            "updatedAt": "2026-02-25T01:30:00.410Z"
+          },
+          "pl": {
+            "translatedHash": "349573f341722904a60599d37f5ca833051f451b61c039aa6fa22d5fdf6e867f",
+            "updatedAt": "2026-02-25T01:30:01.822Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "5e96485c4b9a4cb3f781f459032b980d124cd5e3a0d88b8657afc0b4a76d7c8c",
+        "langs": {
+          "es": {
+            "translatedHash": "73fa8f891855b6e587e0033aacb23a119a7da5847345094ce9abc725e5a0ce32",
+            "updatedAt": "2026-02-25T01:30:06.728Z"
+          },
+          "pl": {
+            "translatedHash": "577cb2304601aca07308b8e00faee34760c59130628030239d3c6a7d656ed067",
+            "updatedAt": "2026-02-25T01:30:12.472Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás",
+  "name_pl": "Święty Tomasz",
+  "feast_es": "El Vigésimo Día de Diciembre",
+  "feast_pl": "Dwudziesty dzień grudnia",
+  "summary_es": "Tomás de Aquino fue un fraile dominico y sacerdote italiano, teólogo y filósofo. Es considerado uno de los pensadores más influyentes en la historia de la teología católica y la filosofía occidental.",
+  "summary_pl": "Tomasz z Akwinu był włoskim dominikańskim zakonnikiem i kapłanem, teologiem oraz filozofem. Uważany jest za jednego z najbardziej wpływowych myślicieli w historii teologii katolickiej i filozofii zachodniej.",
+  "biography_es": "Tomás de Aquino (ə-KWY-nəs; italiano: Tommaso d'Aquino, literalmente 'Tomás de Aquino'; c. 1225 – 7 de marzo de 1274) fue un fraile dominico y sacerdote italiano, teólogo y filósofo. Es considerado uno de los pensadores más influyentes en la historia de la teología católica y la filosofía occidental. Tomás fue un defensor de la teología natural y el padre de una escuela de pensamiento (que abarca tanto la teología como la filosofía) conocida como tomismo. Argumentó que Dios es la fuente de la luz de la razón natural y la luz de la fe. Adoptó varias ideas propuestas por Aristóteles e intentó sintetizar la filosofía aristotélica con los principios del cristianismo. Ha sido descrito como \"el pensador más influyente del período medieval\" y \"el más grande de los filósofos-teólogos medievales\". La filosofía de Tomás de Aquino influyó en la ética de la virtud moderna, la estética y la teoría cognitiva. Ha sido criticado, notablemente por Bertrand Russell, por buscar justificar conclusiones ya dictadas por la fe en lugar de seguir la razón de manera independiente. Las obras más conocidas de Tomás son la inacabada Summa Theologica, o Summa Theologiae (1265–1274), las Cuestiones Disputadas sobre la Verdad (1256–1259) y la...",
+  "biography_pl": "Tomasz z Akwinu (ə-KWY-nəs; włoski: Tommaso d'Aquino, dosł. „Tomasz z Akwinu”; ok. 1225 – 7 marca 1274) był włoskim dominikańskim zakonnikiem i kapłanem, teologiem oraz filozofem. Uważany jest za jednego z najbardziej wpływowych myślicieli w historii teologii katolickiej i filozofii zachodniej. Tomasz był zwolennikiem teologii naturalnej oraz ojcem szkoły myślenia (obejmującej zarówno teologię, jak i filozofię) znanej jako tomizm. Twierdził, że Bóg jest źródłem światła rozumu naturalnego oraz światła wiary. Przyjął kilka idei zaproponowanych przez Arystotelesa i próbował zsyntetyzować filozofię arystotelesowską z zasadami chrześcijaństwa. Opisywano go jako „najbardziej wpływowego myśliciela okresu średniowiecza” oraz „największego z filozofów-teologów średniowiecza”. Filozofia Tomasza z Akwinu wpłynęła na nowożytną etykę cnót, estetykę oraz teorię poznania. Był krytykowany, zwłaszcza przez Bertranda Russella, za dążenie do uzasadnienia wniosków już narzuconych przez wiarę, zamiast niezależnego podążania za rozumem. Najbardziej znanymi dziełami Tomasza są niedokończona Summa Theologica, czyli Summa Theologiae (1265–1274), Dysputy o prawdzie (1256–1259) oraz..."
+}

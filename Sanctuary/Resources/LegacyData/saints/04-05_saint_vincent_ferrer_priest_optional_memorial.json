@@ -1,0 +1,48 @@
+{
+  "id": "04-05_saint_vincent_ferrer_priest_optional_memorial",
+  "name": "Saint Vincent Ferrer, Priest—Optional Memorial",
+  "mmdd": "04-05",
+  "feast": "The Fifth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Henry_Newman"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-05_saint_vincent_ferrer_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ff6aef357d5e044b45d2df309e80528096eb9ad5745f386d53f704519c241b73",
+        "langs": {
+          "es": {
+            "translatedHash": "5df77a2b2ba04cece069e521f8361250c9f9a052cb76188076cce174ae90827d",
+            "updatedAt": "2026-02-24T23:04:40.265Z"
+          },
+          "pl": {
+            "translatedHash": "5298e021f6a99e1fe8ff804fa63292041730aef17f40a39b8118d72fe2226653",
+            "updatedAt": "2026-02-24T23:04:41.144Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ffc0f3ccabeb8e07c1a565aa0199e091d9dec4226eb48e126433d149e32694df",
+        "langs": {
+          "es": {
+            "translatedHash": "1576458e20fefa1a237b30af313a6455e115b250823aa6dc750ab13be17a1228",
+            "updatedAt": "2026-02-24T23:04:41.791Z"
+          },
+          "pl": {
+            "translatedHash": "899ad2a5d9d3075a8d74cebcee1fea196c0cb776977f4b42543b8aa7bb3cc67f",
+            "updatedAt": "2026-02-24T23:04:42.439Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vicente Ferrer, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Wincenty Ferreriusz, prezbiter — wspomnienie dowolne",
+  "feast_es": "El Quinto Día de Abril",
+  "feast_pl": "Piąty dzień kwietnia"
+}

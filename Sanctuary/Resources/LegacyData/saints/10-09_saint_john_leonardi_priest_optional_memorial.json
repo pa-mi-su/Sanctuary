@@ -1,0 +1,48 @@
+{
+  "id": "10-09_saint_john_leonardi_priest_optional_memorial",
+  "name": "Saint John Leonardi, Priest—Optional Memorial",
+  "mmdd": "10-09",
+  "feast": "The Ninth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-09_saint_john_leonardi_priest_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2d701b9d5c7eb3ab240802629d034421843b77236b31c8a29573cabb94254725",
+        "langs": {
+          "es": {
+            "translatedHash": "1fd8eae5987c2e9a3a6a2cb0aecd5d58112dfd33154dc9f8f79efe2b9d6241ef",
+            "updatedAt": "2026-02-25T00:46:47.035Z"
+          },
+          "pl": {
+            "translatedHash": "ded81afc575b6af87894ac02c5164a73753be8a62b707631d8ff3c8727494ecb",
+            "updatedAt": "2026-02-25T00:46:47.776Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "042b1250b4a0cabea3ecf8d42afd5324eefed7dd979ac2eb20c54735944eb097",
+        "langs": {
+          "es": {
+            "translatedHash": "84fc8e414a07edef4731fa06428de56cabc416f2b12c02fff319d5db6f5bc564",
+            "updatedAt": "2026-02-25T00:46:48.375Z"
+          },
+          "pl": {
+            "translatedHash": "531655b431945d5ef7208c3ac07e5233721b7c7ebad2e08ccd86fdc33b05c689",
+            "updatedAt": "2026-02-25T00:46:49.105Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Leonardi, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Jan Leonardi, kapłan — wspomnienie dowolne",
+  "feast_es": "El Noveno Día de Octubre",
+  "feast_pl": "Dziewiąty dzień października"
+}

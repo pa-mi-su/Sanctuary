@@ -1,0 +1,79 @@
+{
+  "id": "06-05_saint_boniface",
+  "name": "Saint Boniface",
+  "mmdd": "06-05",
+  "feast": "The Fifth Day of June",
+  "summary": "Boniface was an English Benedictine monk and leading figure in the Anglo-Saxon mission to the Germanic parts of Francia during the eighth century. He organised significant foundations of the church in Germany and was made Archbishop of Mainz by Pope Gregory III. He was martyred in Frisia in 754, along with 52 others, and his remains were returned to Fulda, where they rest in a sarcophagus which remains a site of Christian pilgrimage.",
+  "biography": "Boniface (born Wynfreth; c. 675 – 5 June 754) was an English Benedictine monk and leading figure in the Anglo-Saxon mission to the Germanic parts of Francia during the eighth century. He organised significant foundations of the church in Germany and was made Archbishop of Mainz by Pope Gregory III. He was martyred in Frisia in 754, along with 52 others, and his remains were returned to Fulda, where they rest in a sarcophagus which remains a site of Christian pilgrimage. Boniface's life and death as well as his work became widely known, there being a wealth of material available – a number of vitae, especially the near-contemporary Vita Bonifatii auctore Willibaldi, legal documents, possibly some sermons, and above all his correspondence. He is venerated as a saint in the Christian church and became the patron saint of Germania, known as the \"Apostle to the Germans\". Norman Cantor notes the three roles Boniface played that made him \"one of the truly outstanding creators of the first Europe, as the apostle of Germania, the reformer of the Frankish Church, and the chief fomentor of the alliance between the papacy and the Carolingian family.\" Through his efforts to reorganize and regulate...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Boniface",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-05_saint_boniface.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b27e4f1bc1f65a64f5b7bb8d350f998c98dfdd3e14a23e9b75164ecd9cae5872",
+        "langs": {
+          "es": {
+            "translatedHash": "2fc681641a8e4fe5966eee274dd8c0d0cb712d432fe1ee3376e9f7385ff7a6d6",
+            "updatedAt": "2026-02-24T23:37:14.121Z"
+          },
+          "pl": {
+            "translatedHash": "105c17f6e1a083ebfd9aee820d8398efb83e8553c0d11a249fbe2687b4125bc0",
+            "updatedAt": "2026-02-24T23:37:14.561Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "10b1fec9037c8988c29c3e891504ba051147db49fe26402754557a0e7b54142a",
+        "langs": {
+          "es": {
+            "translatedHash": "fc08d0386320013092f2b8de893bd39390bc19988dfbde0eabb158c7184c0fa1",
+            "updatedAt": "2026-02-24T23:37:15.134Z"
+          },
+          "pl": {
+            "translatedHash": "56e716dcfe0a4b81f6304cb4b68eda65c446b3f0de99dda03e599cad3e154fa2",
+            "updatedAt": "2026-02-24T23:37:15.750Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ab0fccb3aeb51051cfd8d8d5b6e87b532904a730c4fb0a43d2cc5a94235e9a29",
+        "langs": {
+          "es": {
+            "translatedHash": "c7a2f680b6e781a99538b577373aebba8c9c3c252d9f9b32a64d6f065b280539",
+            "updatedAt": "2026-02-24T23:37:17.505Z"
+          },
+          "pl": {
+            "translatedHash": "eab8dc0951b2487fc10025c6b07abc4eae75be1bf62f331d071140081269842d",
+            "updatedAt": "2026-02-24T23:37:20.813Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e4466891f7a8469fd9e304710c30b20b64e7ed1972ced8e3e3e5599264c18e8e",
+        "langs": {
+          "es": {
+            "translatedHash": "6d3f75f2a7f2e7e24d6fd08d64763d0e6b5803f9f8d7bb15c64a5ec1f761ea4a",
+            "updatedAt": "2026-02-24T23:37:29.332Z"
+          },
+          "pl": {
+            "translatedHash": "d9960ad3d838173dadcf9552569e8b6a589528c168b7de1680c1b5ce9af338a7",
+            "updatedAt": "2026-02-24T23:37:35.314Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bonifacio",
+  "name_pl": "Święty Bonifacy",
+  "feast_es": "El Quinto Día de Junio",
+  "feast_pl": "Piąty dzień czerwca",
+  "summary_es": "Bonifacio fue un monje benedictino inglés y una figura destacada en la misión anglosajona a las partes germánicas de la Francia durante el siglo VIII. Organizó fundaciones significativas de la iglesia en Alemania y fue nombrado arzobispo de Maguncia por el Papa Gregorio III. Fue martirizado en Frisia en 754, junto con otros 52, y sus restos fueron trasladados a Fulda, donde reposan en un sarcófago que sigue siendo un lugar de peregrinación cristiana.",
+  "summary_pl": "Bonifacy był angielskim benedyktyńskim mnichem i czołową postacią misji anglosaskiej w germańskich częściach Frankonii w VIII wieku. Zorganizował znaczące fundacje kościoła w Niemczech i został mianowany arcybiskupem Moguncji przez papieża Grzegorza III. Zginął męczeńską śmiercią w Fryzji w 754 roku wraz z 52 innymi osobami, a jego szczątki zostały przewiezione do Fuld, gdzie spoczywają w sarkofagu, który pozostaje miejscem chrześcijańskich pielgrzymek.",
+  "biography_es": "Bonifacio (nacido Wynfreth; c. 675 – 5 de junio de 754) fue un monje benedictino inglés y una figura principal en la misión anglosajona a las partes germánicas de la Francia durante el siglo VIII. Organizó fundaciones significativas de la iglesia en Alemania y fue nombrado arzobispo de Maguncia por el Papa Gregorio III. Fue martirizado en Frisia en 754, junto con otros 52, y sus restos fueron trasladados a Fulda, donde reposan en un sarcófago que sigue siendo un lugar de peregrinación cristiana. La vida y muerte de Bonifacio, así como su obra, se hicieron ampliamente conocidas, existiendo una gran cantidad de material disponible: varias vitae, especialmente la casi contemporánea Vita Bonifatii auctore Willibaldi, documentos legales, posiblemente algunos sermones y, sobre todo, su correspondencia. Es venerado como santo en la iglesia cristiana y se convirtió en el santo patrón de Germania, conocido como el \"Apóstol de los germanos\". Norman Cantor señala los tres roles que Bonifacio desempeñó y que lo convirtieron en \"uno de los verdaderamente destacados creadores de la primera Europa, como apóstol de Germania, reformador de la Iglesia franca y principal impulsor de la alianza entre el papado y la familia carolingia.\" A través de sus esfuerzos por reorganizar y regular...",
+  "biography_pl": "Bonifacy (urodzony jako Wynfreth; ok. 675 – 5 czerwca 754) był angielskim benedyktyńskim mnichem i czołową postacią misji anglosaskiej do germańskich części Frankonii w VIII wieku. Zorganizował znaczące fundacje kościelne w Niemczech i został mianowany arcybiskupem Moguncji przez papieża Grzegorza III. Zginął męczeńską śmiercią w Fryzji w 754 roku wraz z 52 innymi osobami, a jego szczątki zostały przewiezione do Fuld, gdzie spoczywają w sarkofagu, który pozostaje miejscem chrześcijańskich pielgrzymek. Życie i śmierć Bonifacego oraz jego dzieło stały się szeroko znane, istnieje bowiem bogactwo materiałów – liczne vitae, zwłaszcza niemal współczesna Vita Bonifatii auctore Willibaldi, dokumenty prawne, być może niektóre kazania, a przede wszystkim jego korespondencja. Jest czczony jako święty w Kościele chrześcijańskim i został patronem Germanii, znanym jako „Apostoł Niemców”. Norman Cantor zauważa trzy role, które odegrał Bonifacy, czyniąc go „jednym z naprawdę wybitnych twórców pierwszej Europy, jako apostoł Germanii, reformator Kościoła frankijskiego oraz główny inicjator sojuszu między papiestwem a rodziną Karolingów.” Dzięki jego wysiłkom na rzecz reorganizacji i regulacji..."
+}

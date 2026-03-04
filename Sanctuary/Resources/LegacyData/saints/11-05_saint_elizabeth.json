@@ -1,0 +1,79 @@
+{
+  "id": "11-05_saint_elizabeth",
+  "name": "Saint Elizabeth",
+  "mmdd": "11-05",
+  "feast": "The Fifth Day of November",
+  "summary": "Saint Elizabeth or Saint Elisabeth may refer to",
+  "biography": "Elizabeth of Portugal, also known as Elizabeth of Aragon, was Queen of Portugal from 1282 to 1325 as the wife of King Denis. She is venerated as a saint in the Catholic Church, under the name Saint Elizabeth of Portugal or Queen Saint Elizabeth.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Elizabeth",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_elizabeth.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b4a849a1f07c8b92cfcc965457750349f63890291a966f90eea9d6bc1d523737",
+        "langs": {
+          "es": {
+            "translatedHash": "068ea51f595e4a5a704b0dc255cec89bac8200b4e9eae77b46a768327eb25354",
+            "updatedAt": "2026-02-25T01:02:35.800Z"
+          },
+          "pl": {
+            "translatedHash": "daa6314025a600f2aa5ceff49853ed4b6d4f5bb201c6c24186ef3fa9c7a9a77e",
+            "updatedAt": "2026-02-25T01:02:36.384Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "820f8562cf34cf3c84757c6a3597a772bc025773bfac506f5bd7b11d6e3913c2",
+        "langs": {
+          "es": {
+            "translatedHash": "4c0765a36d78a58561fb40ef00bce09eaaf6cec0ebe86789c6ba24c4fbc9de2c",
+            "updatedAt": "2026-02-25T01:02:37.011Z"
+          },
+          "pl": {
+            "translatedHash": "16cce0da3ba4614130441376e2f9e6031ac015ef0280eca85a8886c0a57048e5",
+            "updatedAt": "2026-02-25T01:02:37.560Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6b4ffee8958f1fd511b1db7c6156f58669dbf7bfd9dac690bf50912a6ffb3d35",
+        "langs": {
+          "es": {
+            "translatedHash": "6ddef83885a532dabf4c70b1da6f299887845288271a907902682dad73db54fb",
+            "updatedAt": "2026-02-25T01:02:38.294Z"
+          },
+          "pl": {
+            "translatedHash": "e291d7e8647e44a5d0673fd0e20cc3b8fd70a8f375389435d9c0fdb970bd3d42",
+            "updatedAt": "2026-02-25T01:02:39.139Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "24b510d5fe384db86c8ba19a04aca0e489253cbd95eca849b624aa5a201a9979",
+        "langs": {
+          "es": {
+            "translatedHash": "0eec8b5815c3511a11c5386d65414b6fa01d6d228f4ecb86705b624c5d23896e",
+            "updatedAt": "2026-02-25T01:02:40.504Z"
+          },
+          "pl": {
+            "translatedHash": "665eaf0a01f218dd6e980051f77abc5926fc7cd54ad766d5690d03e1c42dd9e7",
+            "updatedAt": "2026-02-25T01:02:42.359Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Isabel",
+  "name_pl": "Święta Elżbieta",
+  "feast_es": "El Quinto Día de Noviembre",
+  "feast_pl": "Piąty dzień listopada",
+  "summary_es": "Santa Isabel o Santa Elisabeth puede referirse a",
+  "summary_pl": "Święta Elżbieta lub Święta Elżbieta może odnosić się do",
+  "biography_es": "Isabel de Portugal, también conocida como Isabel de Aragón, fue reina de Portugal desde 1282 hasta 1325 como esposa del rey Denis. Es venerada como santa en la Iglesia Católica, bajo el nombre de Santa Isabel de Portugal o Reina Santa Isabel.",
+  "biography_pl": "Elżbieta Portugalska, znana również jako Elżbieta Aragońska, była królową Portugalii od 1282 do 1325 roku jako żona króla Dinisza. Jest czczona jako święta w Kościele katolickim pod imieniem święta Elżbieta Portugalska lub królowa święta Elżbieta."
+}

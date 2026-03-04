@@ -1,0 +1,48 @@
+{
+  "id": "07-23_saint_bridget_of_sweden_religious_optional_memorial",
+  "name": "Saint Bridget of Sweden, Religious—Optional Memorial",
+  "mmdd": "07-23",
+  "feast": "The Twenty-Third Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-23_saint_bridget_of_sweden_religious_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "42db19794d2056c736836646d2636b68ac3d2434cf8f3796f96a3c5dd3c2dfff",
+        "langs": {
+          "es": {
+            "translatedHash": "b2f9d58dde8eb5d4724a38eea7d7ab0f034786d4f2772ac356adace1b64b8a7d",
+            "updatedAt": "2026-02-25T00:02:32.216Z"
+          },
+          "pl": {
+            "translatedHash": "abab642e5a8778b798e5d463be4a6b8ccf13d504c7aafd249bd907c0c796abf7",
+            "updatedAt": "2026-02-25T00:02:32.964Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6cbcf30b0fc35577947490bf1e43b1aa2cdc9c4f9ab5a24ba63c5af128df5f80",
+        "langs": {
+          "es": {
+            "translatedHash": "d27ff4714989c8bdb4b899ba493e78f210d002808f65442372c1feab47010c7e",
+            "updatedAt": "2026-02-25T00:02:33.562Z"
+          },
+          "pl": {
+            "translatedHash": "50e74ef271b69918e3b89bb87995a75c44a69745743669bdfb614a11036b40fd",
+            "updatedAt": "2026-02-25T00:02:34.353Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Brígida de Suecia, Religiosa—Memoria Opcional",
+  "name_pl": "Święta Brygida ze Szwecji, zakonnica — wspomnienie dowolne",
+  "feast_es": "El Vigésimo Tercer Día de Julio",
+  "feast_pl": "Dwudziesty Trzeci Dzień Lipca"
+}

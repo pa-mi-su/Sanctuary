@@ -1,0 +1,48 @@
+{
+  "id": "03-23_saint_turibius_of_mogrovejo_bishop_optional_memorial",
+  "name": "Saint Turibius of Mogrovejo, Bishop—Optional Memorial",
+  "mmdd": "03-23",
+  "feast": "The Twenty-Third Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Turibius_of_Mogrovejo"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-23_saint_turibius_of_mogrovejo_bishop_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b50545209e2df842e3f7a2b70d8a71a10e2061e7aeddf11b1fa64ba40816598c",
+        "langs": {
+          "es": {
+            "translatedHash": "6f69a3a1c1c0aed3168b9de31f45ecc898a379e8de7b9c4518ff0325c232a7e9",
+            "updatedAt": "2026-02-24T22:57:55.367Z"
+          },
+          "pl": {
+            "translatedHash": "baa5e9fca82f0d78ea231864ea91e870db5e55dd5f7e72908424c824c3041561",
+            "updatedAt": "2026-02-24T22:57:56.107Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d896c1971ffc1b86374e8a8a03a700942330fcd2e6e667c4a3308daca5add171",
+        "langs": {
+          "es": {
+            "translatedHash": "8cb443df2dc9a51da90711d5fc8e9fba28dcb2f3c57285032e24892fd86db3b4",
+            "updatedAt": "2026-02-24T22:57:56.582Z"
+          },
+          "pl": {
+            "translatedHash": "54c07f8eaf9f138c7c5e5984eb3c69d24fb886761dbc27cceb4b01a552f8fb2e",
+            "updatedAt": "2026-02-24T22:57:57.560Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Toribio de Mogrovejo, Obispo—Memoria Opcional",
+  "name_pl": "Święty Turbiliusz z Mogrovejo, biskup — wspomnienie dowolne",
+  "feast_es": "El vigésimo tercer día de marzo",
+  "feast_pl": "Dwudziesty Trzeci Dzień Marca"
+}

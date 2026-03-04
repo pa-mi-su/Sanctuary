@@ -1,0 +1,79 @@
+{
+  "id": "10-12_saint_wilfrid",
+  "name": "Saint Wilfrid",
+  "mmdd": "10-12",
+  "feast": "The Twelfth Day of October",
+  "summary": "Wilfrid was an English bishop and saint. Born a Northumbrian noble, he entered religious life as a teenager and studied at Lindisfarne, at Canterbury, in Francia, and at Rome; he returned to Northumbria in about 660, and became the abbot of a newly founded monastery at Ripon. In 664 Wilfrid acted as spokesman for the Roman position at the Synod of Whitby, and became famous for his speech advocating that the Roman method for calculating the date of Easter should be adopted. His success prompted the king's son, Alhfrith, to appoint him Bishop of Northumbria. Wilfrid chose to be consecrated in Gaul because of the lack of what he considered to be validly consecrated bishops in England at that time. During Wilfrid's absence Alhfrith seems to have led an unsuccessful revolt against his father, Oswiu, leaving a question mark over Wilfrid's appointment as bishop. Before Wilfrid's return Oswiu had appointed Ceadda in his place, resulting in Wilfrid's retirement to Ripon for a few years following his arrival back in Northumbria.",
+  "biography": "Wilfrid (c. 633 – 709 or 710) was an English bishop and saint. Born a Northumbrian noble, he entered religious life as a teenager and studied at Lindisfarne, at Canterbury, in Francia, and at Rome; he returned to Northumbria in about 660, and became the abbot of a newly founded monastery at Ripon. In 664 Wilfrid acted as spokesman for the Roman position at the Synod of Whitby, and became famous for his speech advocating that the Roman method for calculating the date of Easter should be adopted. His success prompted the king's son, Alhfrith, to appoint him Bishop of Northumbria. Wilfrid chose to be consecrated in Gaul because of the lack of what he considered to be validly consecrated bishops in England at that time. During Wilfrid's absence Alhfrith seems to have led an unsuccessful revolt against his father, Oswiu, leaving a question mark over Wilfrid's appointment as bishop. Before Wilfrid's return Oswiu had appointed Ceadda in his place, resulting in Wilfrid's retirement to Ripon for a few years following his arrival back in Northumbria. After becoming Archbishop of Canterbury in 668, Theodore of Tarsus resolved the situation by deposing Ceadda and restoring Wilfrid as the Bishop...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wilfrid",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-12_saint_wilfrid.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "08caa60a933b8a7ddee0678e899203b5aae9bb09eedad2aef0063c6c815d1135",
+        "langs": {
+          "es": {
+            "translatedHash": "6a0a7d3ff8dd7425e99504a6ab7308066e5a98fdd09083f41d76fd2514df9b73",
+            "updatedAt": "2026-02-25T00:48:31.772Z"
+          },
+          "pl": {
+            "translatedHash": "7b8a5af8c4927508f25aa9f5bbb7ddcb12d23ed76e9fdef93d93b3d61ad1642d",
+            "updatedAt": "2026-02-25T00:48:32.458Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6136094aa6fae54ed3e4ded671a89021f08ad3dc471ac3d2bc76e86b965aa906",
+        "langs": {
+          "es": {
+            "translatedHash": "ae8e2dddb2e48144bb6194de02ce7df77103c9ec98036db5cdfe58fe0fa5dfdc",
+            "updatedAt": "2026-02-25T00:48:34.231Z"
+          },
+          "pl": {
+            "translatedHash": "95d95ff7bb971a9f275459c76bc5d9677f301806c53157e907795e070b96e82c",
+            "updatedAt": "2026-02-25T00:48:35.406Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "99e2dae04db36b5e89b1cafb052dbc74d337daf16e5449bfd11b2e112d072316",
+        "langs": {
+          "es": {
+            "translatedHash": "b20132d64c84f94ba7f0fbfd7be7d18c2ea817a2a68cb9a7b1fbef280c81638a",
+            "updatedAt": "2026-02-25T00:48:38.739Z"
+          },
+          "pl": {
+            "translatedHash": "593639568209c503070462611961ff1abed564a391a6a25427e861003bda053e",
+            "updatedAt": "2026-02-25T00:48:44.093Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "dc2898064f325203fb37539bdcf84cd8731011a425f6b01127b8d0452fc4eff6",
+        "langs": {
+          "es": {
+            "translatedHash": "3e18d3d7954bc73a04569279c7dfa88fdcdcdd3775362367419fe8b7606a69cb",
+            "updatedAt": "2026-02-25T00:48:49.438Z"
+          },
+          "pl": {
+            "translatedHash": "39164f31e39dad7c703cef0cb8e64bc04c1ed5f4ff509b0d7bfd6ac64786d8d1",
+            "updatedAt": "2026-02-25T00:48:53.985Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Wilfrido",
+  "name_pl": "Święty Wilfryd",
+  "feast_es": "El Duodécimo Día de Octubre",
+  "feast_pl": "Dwunasty Dzień Października",
+  "summary_es": "Wilfrid fue un obispo y santo inglés. Nacido como noble de Northumbria, ingresó en la vida religiosa siendo adolescente y estudió en Lindisfarne, en Canterbury, en Francia y en Roma; regresó a Northumbria alrededor del año 660 y se convirtió en abad de un monasterio recién fundado en Ripon. En 664, Wilfrid actuó como portavoz de la posición romana en el Sínodo de Whitby, y se hizo famoso por su discurso en el que defendía que se adoptara el método romano para calcular la fecha de la Pascua. Su éxito llevó al hijo del rey, Alhfrith, a nombrarlo obispo de Northumbria. Wilfrid eligió ser consagrado en la Galia debido a la falta de lo que él consideraba obispos válidamente consagrados en Inglaterra en ese momento. Durante la ausencia de Wilfrid, Alhfrith parece haber liderado una revuelta fallida contra su padre, Oswiu, dejando una duda sobre el nombramiento de Wilfrid como obispo. Antes del regreso de Wilfrid, Oswiu había nombrado a Ceadda en su lugar, lo que provocó que Wilfrid se retirara a Ripon durante algunos años tras su llegada a Northumbria.",
+  "summary_pl": "Wilfrid był angielskim biskupem i świętym. Urodzony jako północnumbryjski szlachcic, wstąpił do życia zakonnego jako nastolatek i studiował w Lindisfarne, w Canterbury, we Francji oraz w Rzymie; około roku 660 powrócił do Northumbrii i został opatem nowo założonego klasztoru w Ripon. W 664 roku Wilfrid wystąpił jako rzecznik stanowiska rzymskiego na Synodzie w Whitby i zasłynął z przemówienia, w którym opowiadał się za przyjęciem rzymskiej metody obliczania daty Wielkanocy. Jego sukces skłonił syna króla, Alhfritha, do mianowania go biskupem Northumbrii. Wilfrid zdecydował się na konsekrację w Galii z powodu braku, jego zdaniem, prawidłowo konsekrowanych biskupów w Anglii w tamtym czasie. Podczas nieobecności Wilfrida Alhfrith najwyraźniej poprowadził nieudane powstanie przeciwko swojemu ojcu, Oswiu, co rzuciło cień na mianowanie Wilfrida na biskupa. Przed powrotem Wilfrida Oswiu mianował na jego miejsce Ceaddę, co spowodowało, że Wilfrid po powrocie do Northumbrii przez kilka lat wycofał się do Ripon.",
+  "biography_es": "Wilfrid (c. 633 – 709 o 710) fue un obispo y santo inglés. Nacido noble de Northumbria, ingresó en la vida religiosa siendo adolescente y estudió en Lindisfarne, en Canterbury, en Francia y en Roma; regresó a Northumbria alrededor del año 660 y se convirtió en abad de un monasterio recién fundado en Ripon. En 664, Wilfrid actuó como portavoz de la posición romana en el Sínodo de Whitby, y se hizo famoso por su discurso en el que defendía que se adoptara el método romano para calcular la fecha de la Pascua. Su éxito llevó al hijo del rey, Alhfrith, a nombrarlo obispo de Northumbria. Wilfrid eligió ser consagrado en la Galia debido a la falta de lo que él consideraba obispos válidamente consagrados en Inglaterra en ese momento. Durante la ausencia de Wilfrid, Alhfrith parece haber liderado una revuelta fallida contra su padre, Oswiu, dejando una incógnita sobre el nombramiento de Wilfrid como obispo. Antes del regreso de Wilfrid, Oswiu había nombrado a Ceadda en su lugar, lo que provocó que Wilfrid se retirara a Ripon durante algunos años tras su llegada a Northumbria. Después de convertirse en arzobispo de Canterbury en 668, Teodoro de Tarso resolvió la situación depuesto a Ceadda y restaurando a Wilfrid como obispo...",
+  "biography_pl": "Wilfrid (ok. 633 – 709 lub 710) był angielskim biskupem i świętym. Urodzony jako północnoumbryjski szlachcic, wstąpił do życia zakonnego jako nastolatek i studiował na Lindisfarne, w Canterbury, we Francji oraz w Rzymie; około 660 roku powrócił do Northumbrii i został opatem nowo założonego klasztoru w Ripon. W 664 roku Wilfrid wystąpił jako rzecznik stanowiska rzymskiego na Synodzie w Whitby i zasłynął z przemówienia, w którym opowiadał się za przyjęciem rzymskiej metody obliczania daty Wielkanocy. Jego sukces skłonił syna króla, Alhfritha, do mianowania go biskupem Northumbrii. Wilfrid zdecydował się na konsekrację w Galii z powodu braku, jego zdaniem, prawidłowo konsekrowanych biskupów w Anglii w tamtym czasie. Podczas nieobecności Wilfrida Alhfrith najwyraźniej poprowadził nieudane powstanie przeciwko swojemu ojcu, Oswiu, co rzuciło cień na nominację Wilfrida na biskupa. Przed powrotem Wilfrida Oswiu mianował na jego miejsce Ceaddę, co spowodowało, że Wilfrid po powrocie do Northumbrii wycofał się na kilka lat do Ripon. Po objęciu w 668 roku arcybiskupstwa w Canterbury, Teodor z Tarsu rozwiązał sytuację, usuwając Ceaddę i przywracając Wilfrida na stanowisko biskupa..."
+}

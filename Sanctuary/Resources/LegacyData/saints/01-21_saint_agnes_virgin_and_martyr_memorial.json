@@ -1,0 +1,48 @@
+{
+  "id": "01-21_saint_agnes_virgin_and_martyr_memorial",
+  "name": "Saint Agnes, Virgin and Martyr—Memorial",
+  "mmdd": "01-21",
+  "feast": "The Twenty-First Day of January",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-21_saint_agnes_virgin_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "97b69bb790e56232bc17afb7e97fb2072e7fc8626dd9ba9f8337b4b6beca00b7",
+        "langs": {
+          "es": {
+            "translatedHash": "cd142fe4e1aea833aac3d02bde2cb9fde610daa4d2e111f41b8e1366c72ac8c2",
+            "updatedAt": "2026-02-24T22:19:34.229Z"
+          },
+          "pl": {
+            "translatedHash": "84b1c1fd2c000553c224591af5af97c59df15a5bd03c2d2a52c8eb8d5c1cb47e",
+            "updatedAt": "2026-02-24T22:19:35.161Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7a878fba4a3cc89575d5f3c6fdf077b8c14e5821550a1a8616309461e1a4a51f",
+        "langs": {
+          "es": {
+            "translatedHash": "c720fb0c6287550c13a2ceb7465e6575b935b0378b46bd3a5407f62ea644d8b8",
+            "updatedAt": "2026-02-24T22:19:36.351Z"
+          },
+          "pl": {
+            "translatedHash": "ba407481211466a41505de1d121a7103b9dbd8498a03af29b6f8f51ba8b5e88a",
+            "updatedAt": "2026-02-24T22:19:36.971Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Inés, Virgen y Mártir—Memoria",
+  "name_pl": "Święta Agnieszka, Dziewica i Męczennica — Wspomnienie",
+  "feast_es": "El vigésimo primer día de enero",
+  "feast_pl": "Dwudziesty pierwszy dzień stycznia"
+}

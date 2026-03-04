@@ -1,0 +1,48 @@
+{
+  "id": "12-06_saint_nicholas_bishop_optional_memorial",
+  "name": "Saint Nicholas, Bishop—Optional Memorial",
+  "mmdd": "12-06",
+  "feast": "The Sixth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-06_saint_nicholas_bishop_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8a2aba82db179f79e6e1386b9d74f925b7303e317c752a1f6cd54aa0c7577b78",
+        "langs": {
+          "es": {
+            "translatedHash": "20efb98dc5c76294f1124196b9158c8dc60f4511088887df688dc94bb614c246",
+            "updatedAt": "2026-02-25T01:20:57.921Z"
+          },
+          "pl": {
+            "translatedHash": "bd01d6f51fd6a9fcda10a673170cca5a5f2c0f714862c98850d08f3e39b8c017",
+            "updatedAt": "2026-02-25T01:20:58.765Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a1688672c2f39c27337302bb69b4f77346aeabe7ce47fbc2eee839a97a4c6742",
+        "langs": {
+          "es": {
+            "translatedHash": "a85f7768c346c8c2a39841372a22c7a359da6137141fa688fdd9162688a4d929",
+            "updatedAt": "2026-02-25T01:20:59.510Z"
+          },
+          "pl": {
+            "translatedHash": "31e9b8dfe5c5cc4f575801a387e2c19a843bf53e4b01baa468999e855ccbcde7",
+            "updatedAt": "2026-02-25T01:21:00.087Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Nicolás, Obispo—Memoria Opcional",
+  "name_pl": "Święty Mikołaj, biskup — wspomnienie dowolne",
+  "feast_es": "El Sexto Día de Diciembre",
+  "feast_pl": "Szósty dzień grudnia"
+}

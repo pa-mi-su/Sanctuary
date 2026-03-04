@@ -1,0 +1,48 @@
+{
+  "id": "11-10_saint_leo_the_great_pope_and_doctor_memorial",
+  "name": "Saint Leo the Great, Pope and Doctor—Memorial",
+  "mmdd": "11-10",
+  "feast": "The Tenth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Benedict_XVI"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-10_saint_leo_the_great_pope_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "df4f35c3745559d99078729803a5d3056648156f61f3c6ab4dd9159abb7d38c5",
+        "langs": {
+          "es": {
+            "translatedHash": "7a6e773044d6b7f7e0a09fa95ff9feb156c9014d0f5d73e619e1946d46c96977",
+            "updatedAt": "2026-02-25T01:05:33.684Z"
+          },
+          "pl": {
+            "translatedHash": "0d8f11084f1952aa5e227643d3bf624246eade87aab0b3212f7817618b4b8648",
+            "updatedAt": "2026-02-25T01:05:34.518Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1ed822011f82e7556001042214abbf0840261c5be5b6aa7ead1d1f7d4358bfb1",
+        "langs": {
+          "es": {
+            "translatedHash": "9b5d2d4ec19fc13cf2c41df97b0ddf5bd315e1f7fbfdddce32b6a23538e330d1",
+            "updatedAt": "2026-02-25T01:05:35.064Z"
+          },
+          "pl": {
+            "translatedHash": "65611f117cdc0e3d129154fdea0d8a6f8c54b247dae6dacb8e888fcf9c426973",
+            "updatedAt": "2026-02-25T01:05:35.632Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San León Magno, Papa y Doctor—Memoria",
+  "name_pl": "Święty Leon Wielki, papież i doktor Kościoła — wspomnienie",
+  "feast_es": "El Día Diez de Noviembre",
+  "feast_pl": "Dziesiąty dzień listopada"
+}

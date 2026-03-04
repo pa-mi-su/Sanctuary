@@ -1,0 +1,48 @@
+{
+  "id": "06-02_saints_marcellinus_and_peter_martyrs_optional_memorial",
+  "name": "Saints Marcellinus and Peter, Martyrs—Optional Memorial",
+  "mmdd": "06-02",
+  "feast": "The Second Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-02_saints_marcellinus_and_peter_martyrs_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1d3fa72428062da81a1f1a319e125007d5ae5bfe5ed3e6ba48cd8f98754fa4d9",
+        "langs": {
+          "es": {
+            "translatedHash": "1d8edd9c2d9a3754106b12e5b081864ffd1fa609803d6fc8af154496e3e57664",
+            "updatedAt": "2026-02-24T23:36:01.486Z"
+          },
+          "pl": {
+            "translatedHash": "89d794554f2e4a9b5e4e0217ecb12dc9884b8cfa96e261ccef62ede08ea503b4",
+            "updatedAt": "2026-02-24T23:36:03.085Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9829e5cbaf9c534d267257b30c4c8ecf00cfc30627ac203ce2909eeffde9bdaf",
+        "langs": {
+          "es": {
+            "translatedHash": "21e1aaa616630bb4d03ae9a5fc06cf1eb4b1577ce279b0ccbf3a2add0469a222",
+            "updatedAt": "2026-02-24T23:36:03.653Z"
+          },
+          "pl": {
+            "translatedHash": "1214525f3c3b288e6207023295a94d618f0b351b23a22d11e4227cad3e4a22ee",
+            "updatedAt": "2026-02-24T23:36:04.228Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Marcelino y Pedro, Mártires—Memoria Opcional",
+  "name_pl": "Święci Marcellin i Piotr, Męczennicy — Wspomnienie dowolne",
+  "feast_es": "El Segundo Día de Junio",
+  "feast_pl": "Drugi dzień czerwca"
+}

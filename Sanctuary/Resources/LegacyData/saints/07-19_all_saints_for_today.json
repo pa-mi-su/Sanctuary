@@ -1,0 +1,46 @@
+{
+  "id": "07-19_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "07-19",
+  "feast": "The Nineteenth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:59:57.849Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:59:58.541Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "760e210ee6275ba66d89f78920516e2e7464ecf3852dec78a1a78dcdec16407e",
+        "langs": {
+          "es": {
+            "translatedHash": "2b9da0a801b1f6b75ab0143bd3b052668d0268c0f1577c977d48c645fec74ca4",
+            "updatedAt": "2026-02-24T23:59:59.461Z"
+          },
+          "pl": {
+            "translatedHash": "a19e29245625802bbf237dd39b445a21bb3c222f14b1424aef8257fcd36eab9f",
+            "updatedAt": "2026-02-25T00:00:00.117Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día diecinueve de julio",
+  "feast_pl": "Dziewiętnasty dzień lipca"
+}

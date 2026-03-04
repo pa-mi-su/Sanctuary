@@ -1,0 +1,79 @@
+{
+  "id": "09-09_saint_peter",
+  "name": "Saint Peter",
+  "mmdd": "09-09",
+  "feast": "The Ninth Day of September",
+  "summary": "Peter Claver was a Spanish Jesuit priest and missionary born in Verdú, Catalonia, Spain, who, due to his life and work, became the patron saint of slaves, Colombia, and ministry to African Americans.",
+  "biography": "Early life\nClaver was born in 1580 into a devoutly Catholic and prosperous farming family in the Catalan village of Verdú, Urgell, located in Catalonia, Spain about 54 miles (87 km) from Barcelona. He was born 70 years after King Ferdinand of Spain set the colonial slavery culture into motion by authorizing the purchase of 250 African slaves in Lisbon for his territories in New Spain.\nLater, as a student at the University of Barcelona, Claver was noted...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Claver",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-09_saint_peter.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "235eea79c2febcd6b622f45cab810a163276de20ecc7ed48d460088c03aaaafd",
+        "langs": {
+          "es": {
+            "translatedHash": "c930a1881cbeba213ac0187ca84b090e63a3b7a2fb413c223f22930ef1de268a",
+            "updatedAt": "2026-02-25T00:27:47.237Z"
+          },
+          "pl": {
+            "translatedHash": "20127b1e0f81262b22f1c756f15dc7094e41384097f42bad07ee33b90d852a9c",
+            "updatedAt": "2026-02-25T00:27:47.855Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "93338339ab7a0a63479a936840ee1b289a12ed9bb36c260fdd4b6aa09ad33969",
+        "langs": {
+          "es": {
+            "translatedHash": "c9877d6da219728c43ef2e7fc51f2ffc087904f2e1767752cf338695cfc25a57",
+            "updatedAt": "2026-02-25T00:27:48.544Z"
+          },
+          "pl": {
+            "translatedHash": "bd108de7deaa3f2e51fbec1ea723ac01d5c7c6c13766df08f8644788892e869c",
+            "updatedAt": "2026-02-25T00:27:49.301Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7dea3e7c706cab733d4b801f7e1fe9d18750688e475d89350d7245f2ea152706",
+        "langs": {
+          "es": {
+            "translatedHash": "642edd569b39fca2dab3c6d438fe96981297879c2668fcdbef0a0bcda6affb5b",
+            "updatedAt": "2026-02-25T00:27:50.956Z"
+          },
+          "pl": {
+            "translatedHash": "c718a28a256d99b075bd301fd503126ce735eff40eff784ffff6c92c7eeb2f35",
+            "updatedAt": "2026-02-25T00:27:52.643Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "17a23ea00c81ba33f7ffde8fea41438d9a314f821676451b1baa87e1a1c5fb96",
+        "langs": {
+          "es": {
+            "translatedHash": "89174bc1c8017708f1c8385d8d55516892928978b470d0b84d0c2a3be08754ff",
+            "updatedAt": "2026-02-25T00:27:55.086Z"
+          },
+          "pl": {
+            "translatedHash": "24bbf4b5d7318ba84adaffedfc10751967861f978d867449721ec0cdc5a2f228",
+            "updatedAt": "2026-02-25T00:27:57.964Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro",
+  "name_pl": "Święty Piotr",
+  "feast_es": "El Noveno Día de Septiembre",
+  "feast_pl": "Dziewiąty dzień września",
+  "summary_es": "Pedro Claver fue un sacerdote jesuita español y misionero nacido en Verdú, Cataluña, España, quien, debido a su vida y obra, se convirtió en el santo patrón de los esclavos, Colombia y el ministerio a los afroamericanos.",
+  "summary_pl": "Piotr Claver był hiszpańskim jezuitą, księdzem i misjonarzem urodzonym w Verdú, w Katalonii, w Hiszpanii, który ze względu na swoje życie i pracę stał się patronem niewolników, Kolumbii oraz posługi wobec Afroamerykanów.",
+  "biography_es": "Vida temprana  \nClaver nació en 1580 en una familia campesina próspera y profundamente católica en el pueblo catalán de Verdú, Urgell, ubicado en Cataluña, España, a unos 54 millas (87 km) de Barcelona. Nació 70 años después de que el rey Fernando de España pusiera en marcha la cultura colonial de la esclavitud al autorizar la compra de 250 esclavos africanos en Lisboa para sus territorios en Nueva España.  \nMás tarde, como estudiante en la Universidad de Barcelona, Claver fue reconocido...",
+  "biography_pl": "Wczesne życie  \nClaver urodził się w 1580 roku w pobożnej katolickiej i zamożnej rodzinie rolniczej w katalońskiej wiosce Verdú, Urgell, położonej w Katalonii, Hiszpania, około 54 mil (87 km) od Barcelony. Urodził się 70 lat po tym, jak król Ferdynand Hiszpański zapoczątkował kulturę kolonialnego niewolnictwa, zezwalając na zakup 250 afrykańskich niewolników w Lizbonie dla swoich terytoriów w Nowej Hiszpanii.  \nPóźniej, jako student Uniwersytetu w Barcelonie, Claver był znany..."
+}

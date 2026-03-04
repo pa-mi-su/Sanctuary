@@ -1,0 +1,46 @@
+{
+  "id": "10-13_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-13",
+  "feast": "The Thirteenth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:48:54.940Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:48:56.222Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "917cd0a9180e320bf60e6a0cd69776e1f725558e16d62a69ed568645755af4ee",
+        "langs": {
+          "es": {
+            "translatedHash": "fa36a9a6a5b1dd523c940b6c5e78e4f6296dfbd02aef45dfcba23090b16a09fd",
+            "updatedAt": "2026-02-25T00:48:56.889Z"
+          },
+          "pl": {
+            "translatedHash": "d90c7f442b70a58f7862aedf9cc8a1aac5a58dc4c890d99271a6c2d8048bf592",
+            "updatedAt": "2026-02-25T00:48:57.427Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Decimotercer Día de Octubre",
+  "feast_pl": "Trzynasty dzień października"
+}

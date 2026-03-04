@@ -1,0 +1,48 @@
+{
+  "id": "09-30_saint_jerome_priest_and_doctor_memorial",
+  "name": "Saint Jerome, Priest and Doctor—Memorial",
+  "mmdd": "09-30",
+  "feast": "The Thirtieth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-30_saint_jerome_priest_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5c28d7c6fb9c4ece548eb06e720eb72e87c4624064e33a33e86c4be53c71c2a4",
+        "langs": {
+          "es": {
+            "translatedHash": "b249af45f4c7cd5b58789b243eb27f227a5ac3c03e1fee6aff275930e14e1d21",
+            "updatedAt": "2026-02-25T00:41:17.392Z"
+          },
+          "pl": {
+            "translatedHash": "1b40e078b818a83a35ac5796e4b7d754940f0f1858dea9b259b5b41e444057fe",
+            "updatedAt": "2026-02-25T00:41:18.054Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "696aed93d7ec14091ad6dcf3b12e4bfdf0dbbc64f709489ccc14e73416639aac",
+        "langs": {
+          "es": {
+            "translatedHash": "16c1a2f9729a8841ecf8c5089c1a5c5dc65c8b9baae1198cfe1a5286bb968516",
+            "updatedAt": "2026-02-25T00:41:18.580Z"
+          },
+          "pl": {
+            "translatedHash": "c4ed0e1bbc29d9fd10540c3423fa6e58b52b7302595d914cf1cc18b5c352a8f7",
+            "updatedAt": "2026-02-25T00:41:19.456Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jerónimo, Presbítero y Doctor—Memoria",
+  "name_pl": "Święty Hieronim, Kapłan i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Trigésimo Día de Septiembre",
+  "feast_pl": "Trzydziesty dzień września"
+}

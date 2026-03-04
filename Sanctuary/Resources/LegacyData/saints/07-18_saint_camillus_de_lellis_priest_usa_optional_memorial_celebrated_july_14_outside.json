@@ -1,0 +1,48 @@
+{
+  "id": "07-18_saint_camillus_de_lellis_priest_usa_optional_memorial_celebrated_july_14_outside",
+  "name": "Saint Camillus de Lellis, Priest—USA Optional Memorial (Celebrated July 14 outside the United States)",
+  "mmdd": "07-18",
+  "feast": "The Eighteenth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-18_saint_camillus_de_lellis_priest_usa_optional_memorial_celebrated_july_14_outside.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a50dd7da929095f2aead8becba28b3c851d791173cf0136ef16c160e9b549b8f",
+        "langs": {
+          "es": {
+            "translatedHash": "88cc513343043b00cdcd43ee6e09a84a3c128576cd4af12823fea20d55eb7ab1",
+            "updatedAt": "2026-02-24T23:59:54.869Z"
+          },
+          "pl": {
+            "translatedHash": "7a2f76369035c4770e8d0806cc6e56d970ae0e92006106be92c576acc4d0a8e8",
+            "updatedAt": "2026-02-24T23:59:55.997Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1330bcfacaa4930b6d5d4e7a9b872f9ddb152fd46a2e625270248f634d66d588",
+        "langs": {
+          "es": {
+            "translatedHash": "dd5ea02670a43e7e829e43ad6488c73408b980aa8a54fe674427690e21757036",
+            "updatedAt": "2026-02-24T23:59:56.685Z"
+          },
+          "pl": {
+            "translatedHash": "833163a175ab83a6b46cadf46a615d6be4e5a0bd1736a0d4b9b075fe6c0e605e",
+            "updatedAt": "2026-02-24T23:59:57.269Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Camilo de Lelis, Presbítero—Memoria Opcional en Estados Unidos (Se celebra el 14 de julio fuera de Estados Unidos)",
+  "name_pl": "Święty Kamil de Lellis, kapłan — wspomnienie dowolne w USA (obchodzone 14 lipca poza Stanami Zjednoczonymi)",
+  "feast_es": "El día dieciocho de julio",
+  "feast_pl": "Osiemnasty dzień lipca"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "08-30_saint_rose_of_st",
+  "name": "Saint Rose of Lima",
+  "mmdd": "08-30",
+  "feast": "The Thirtieth Day of August",
+  "summary": "Saint Rose of Lima was a Dominican tertiary from Peru and the first canonized saint of the Americas.",
+  "biography": "Saint Rose of Lima (1586-1617), born Isabel Flores de Oliva in Lima, Peru, dedicated her life to prayer, penance, and care for the poor. She lived a life of deep devotion while remaining in the world as a lay Dominican. Canonized in 1671, she is honored as patroness of the Americas and the Philippines.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rose_of_Lima",
+    "https://www.newadvent.org/cathen/13181b.htm"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_rose_of_lima.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b4cf0b4199f507c890465edf8e989703ca049ea64d7655d24d5c32e8cfaa96d2",
+        "langs": {
+          "es": {
+            "translatedHash": "5478c00be7da4c4d5e7a27a86bc0ef242e270b994959c3ab5b944ee16e816145",
+            "updatedAt": "2026-02-25T00:23:49.476Z"
+          },
+          "pl": {
+            "translatedHash": "78a8a2d66697c33c396f27f278c4ace5078f91bd17170d35511511d47bf49e9e",
+            "updatedAt": "2026-02-25T00:23:50.078Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "06e0b523729c71c162da4535bbbd75e4fd51f4189ceba394a0d3a3e9c0b573d0",
+        "langs": {
+          "es": {
+            "translatedHash": "370a3f4946143101e84d4062b23c81773e0da5808d0632fe4021053fad851cc1",
+            "updatedAt": "2026-02-25T00:23:50.620Z"
+          },
+          "pl": {
+            "translatedHash": "d015ed3f33ca36ba4525c86298436a9bfe45bc39f3ae9106f122347131f94335",
+            "updatedAt": "2026-02-25T00:23:51.196Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0e7df25c98fc793bc57d867c1c0c645d2fa6a9cfea35a6c6e18d5b3273cf69e9",
+        "langs": {
+          "es": {
+            "translatedHash": "4662a3af422ddb0f74c95cd3ea0b9bbc1d84899bd2d694074aee95243818c502",
+            "updatedAt": "2026-02-25T00:23:52.158Z"
+          },
+          "pl": {
+            "translatedHash": "823adda5c6419e4b1fae3ab2fd248f312757ced160114ba7a6ff6b51583f4f31",
+            "updatedAt": "2026-02-25T00:23:53.243Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3954bc7c98b63173db767d8df673ee7dfda1d7732ced8fe5c4491274e9753b64",
+        "langs": {
+          "es": {
+            "translatedHash": "5d7a5e95865f058b6e7e54be5d8c62fd02b9dc15bbdf58b7c0d6fb81f7874284",
+            "updatedAt": "2026-02-25T00:23:54.736Z"
+          },
+          "pl": {
+            "translatedHash": "8d35816c2b941cc33fbf3b93cc18fa86bf5d3dcfcb19ab3caed4908efda33210",
+            "updatedAt": "2026-02-25T00:23:56.652Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Rosa de Lima",
+  "name_pl": "Święta Róża z Limy",
+  "feast_es": "El Trigésimo Día de Agosto",
+  "feast_pl": "Trzydziesty dzień sierpnia",
+  "summary_es": "Santa Rosa de Lima fue una terciaria dominica de Perú y la primera santa canonizada de América.",
+  "summary_pl": "Święta Róża z Limy była tercjarką dominikańską z Peru i pierwszą kanonizowaną świętą Ameryk.",
+  "biography_es": "Santa Rosa de Lima (1586-1617), nacida Isabel Flores de Oliva en Lima, Perú, dedicó su vida a la oración, la penitencia y el cuidado de los pobres. Vivió una vida de profunda devoción mientras permanecía en el mundo como laica dominica. Canonizada en 1671, es honrada como patrona de las Américas y Filipinas.",
+  "biography_pl": "Święta Róża z Limy (1586-1617), urodzona jako Isabel Flores de Oliva w Limie w Peru, poświęciła swoje życie modlitwie, pokucie i opiece nad ubogimi. Prowadziła życie głębokiego oddania, pozostając jednocześnie w świecie jako świecka dominikanka. Kanonizowana w 1671 roku, jest czczona jako patronka Ameryk i Filipin."
+}

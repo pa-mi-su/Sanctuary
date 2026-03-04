@@ -1,0 +1,275 @@
+{
+  "id": "st_john_vianney",
+  "title": "St. John Vianney Novena",
+  "description": "St. John Vianney is the patron saint of parish priests.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. John Vianney"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 4
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-john-vianney-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nGod, you raised up humble St. John Vianney to show what one priest can do. Pour out your graces upon my parish priest, and all priests, that they follow the saint’s example.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste bondadoso y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame con tu poderosa intercesión en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que me obtengas las gracias de (mencionar la petición aquí…) Amén.\n\nDios, levantaste al humilde San Juan María Vianney para mostrar lo que un sacerdote puede hacer. Derrama tus gracias sobre mi párroco, y sobre todos los sacerdotes, para que sigan el ejemplo del santo.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚw. Jan Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia za swoje grzechy. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nBoże, powołałeś pokornego św. Jana Vianneya, aby pokazać, co może uczynić jeden kapłan. Wylej swoje łaski na mojego proboszcza i wszystkich kapłanów, aby naśladowali przykład tego świętego.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nJesus, St. John Vianney was a priest after your own priesthood. Give me the courage to proclaim and live the Gospel boldly, as he did.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Vianney, ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste amable y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame, por tu poderosa intercesión, en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que obtengas para mí las gracias de (mencionar la petición aquí…) Amén.\n\nJesús, San Juan Vianney fue un sacerdote según tu propio sacerdocio. Dame el valor para proclamar y vivir el Evangelio con valentía, como él lo hizo.\n\nPadre Nuestro Ave María Gloria al Padre\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nJezu, św. Jan Vianney był kapłanem według Twojego własnego kapłaństwa. Daj mi odwagę, by odważnie głosić i żyć Ewangelią, tak jak on.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nLord, St. John Vianney sat in the confessional for hours on end. Help me go to Confession frequently and make good confessions, so that I might overcome my faults and grow in holiness.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste amable y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame con tu poderosa intercesión en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que obtengas para mí las gracias de (mencionar la petición aquí…) Amén.\n\nSeñor, San Juan María Vianney se sentaba en el confesionario durante horas. Ayúdame a ir a la Confesión con frecuencia y a hacer buenas confesiones, para que pueda superar mis faltas y crecer en santidad.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nPanie, św. Jan Vianney spędzał godziny w konfesjonale. Pomóż mi często przystępować do spowiedzi i dobrze się spowiadać, abym mógł pokonać swoje wady i wzrastać w świętości.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nSt. John Vianney, you were gentle with sinners who came to you, seeking the forgiveness of God. Pray that I may be merciful to those who sin against me, and forgive them, remembering how much our Lord has forgiven me of.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste amable y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame con tu poderosa intercesión en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que me obtengas las gracias de (mencionar la petición aquí…) Amén.\n\nSan Juan María Vianney, fuiste dulce con los pecadores que acudían a ti buscando el perdón de Dios. Ruega para que yo sea misericordioso con aquellos que pecan contra mí, y los perdone, recordando cuánto me ha perdonado nuestro Señor.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nŚwięty Janie Vianney, byłeś łagodny dla grzeszników, którzy przychodzili do Ciebie, szukając przebaczenia Bożego. Módl się, abym i ja był miłosierny dla tych, którzy grzeszą przeciwko mnie, i przebaczał im, pamiętając, ile nasz Pan mi przebaczył.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nSt. John Vianney, you spent hours in prayer, in quiet contemplation, and so were molded into the shape of Jesus Christ. Help me to learn to pray better and spend time in silence with God.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, tú ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste bondadoso y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame, por tu poderosa intercesión, en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que obtengas para mí las gracias de (mencionar la petición aquí…) Amén.\n\nSan Juan María Vianney, pasaste horas en oración, en tranquila contemplación, y así fuiste moldeado a la imagen de Jesucristo. Ayúdame a aprender a orar mejor y a pasar tiempo en silencio con Dios.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚw. Jan Vianney, byłeś przykładem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę Cię, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nŚw. Jan Vianney, spędzałeś godziny na modlitwie, w cichym rozmyślaniu, i dzięki temu zostałeś ukształtowany na obraz Jezusa Chrystusa. Pomóż mi nauczyć się lepiej modlić i spędzać czas w ciszy z Bogiem.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nSt. John Vianney, you prized purity of heart highly and led others to purity. Obtain for me the graces I need to conquer all sins against holy purity and resist temptations against this great virtue.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, tú ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste amable y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame, por tu poderosa intercesión, en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que me obtengas las gracias de (mencionar la petición aquí…) Amén.\n\nSan Juan María Vianney, valoraste altamente la pureza de corazón y condujiste a otros a la pureza. Obtén para mí las gracias que necesito para vencer todos los pecados contra la santa pureza y resistir las tentaciones contra esta gran virtud.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nŚwięty Janie Vianney, wysoko ceniłeś czystość serca i prowadziłeś innych do czystości. Wyproś dla mnie łaski potrzebne do zwyciężenia wszelkich grzechów przeciw świętej czystości oraz do opierania się pokusom przeciw tej wielkiej cnocie.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nSt. John Vianney, you lived for Heaven and the Beatific Vision with the Holy Trinity, encouraging your flock to do the same. Pray for me, that I won’t be choked by the cares and worries of this world, but will keep my eyes firmly set on Heaven’s unending joy.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Vianney, ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste bondadoso y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame, por tu poderosa intercesión, en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que obtengas para mí las gracias de (mencionar la petición aquí…) Amén.\n\nSan Juan Vianney, viviste para el Cielo y la Visión Beatífica con la Santísima Trinidad, animando a tu rebaño a hacer lo mismo. Ruega por mí, para que no me ahoguen los cuidados y preocupaciones de este mundo, sino que mantenga mis ojos firmemente puestos en la alegría eterna del Cielo.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę Cię, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nŚwięty Janie Vianney, żyłeś dla Nieba i dla Błogosławionego Widzenia Trójcy Świętej, zachęcając swoje owce do tego samego. Módl się za mnie, abym nie został uduszony troskami i zmartwieniami tego świata, lecz abym miał oczy mocno zwrócone ku nieustającej radości Nieba.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nSt. John Vianney, you fervently received Jesus in the Eucharist at each Mass you celebrated. Pray that I am kept free from mortal sin and obtain for me a share in the devotion with which you received Jesus in the Sacrament.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, ejemplificaste lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste amable y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame, por tu poderosa intercesión, en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que me obtengas las gracias de (mencionar la petición aquí…) Amén.\n\nSan Juan María Vianney, recibiste fervientemente a Jesús en la Eucaristía en cada Misa que celebraste. Ruega para que me mantenga libre de pecado mortal y obtén para mí una participación en la devoción con la que tú recibiste a Jesús en el Sacramento.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nŚwięty Janie Vianney, gorliwie przyjmowałeś Jezusa w Eucharystii na każdej Mszy, którą sprawowałeś. Módl się, aby zachować mnie wolnym od grzechu śmiertelnego i wyproś dla mnie udział w tej pobożności, z jaką Ty przyjmowałeś Jezusa w Sakramencie.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. John Vianney, you exemplified what a holy priest of Christ should be. Your patience and fortitude in the confessional demonstrated the mercy of God to the penitents who sought forgiveness for their sins. Like Christ, you were gracious and merciful, yet also you called your flock to repentance and amendment of life. Help me through your powerful intercession along the path to sanctity that our Lord has prepared for me. In particular, I ask that you obtain for me the graces of (mention request here…) Amen.\n\nHoly priest of Ars, your coming to that town was like a spiritual avalanche in a time of great persecution and darkness. Pray for us that in our dark time, the light of Christ shines forth from us and shows the way to Heaven for all to see.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan María Vianney, fuiste el ejemplo de lo que debe ser un sacerdote santo de Cristo. Tu paciencia y fortaleza en el confesionario demostraron la misericordia de Dios a los penitentes que buscaban el perdón de sus pecados. Como Cristo, fuiste bondadoso y misericordioso, pero también llamaste a tu rebaño al arrepentimiento y a la enmienda de vida. Ayúdame, por tu poderosa intercesión, en el camino hacia la santidad que nuestro Señor ha preparado para mí. En particular, te pido que obtengas para mí las gracias de (mencionar la petición aquí…) Amén.\n\nSanto sacerdote de Ars, tu llegada a ese pueblo fue como una avalancha espiritual en un tiempo de gran persecución y oscuridad. Ruega por nosotros para que en nuestro tiempo de oscuridad, la luz de Cristo brille en nosotros y muestre el camino al Cielo para que todos lo vean.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Jan Vianney, byłeś wzorem tego, jaki powinien być święty kapłan Chrystusa. Twoja cierpliwość i wytrwałość w konfesjonale ukazywały miłosierdzie Boże penitentom, którzy szukali przebaczenia swoich grzechów. Podobnie jak Chrystus, byłeś łaskawy i miłosierny, a jednocześnie wzywałeś swoje owce do nawrócenia i poprawy życia. Pomóż mi swoją potężną wstawienniczą modlitwą na drodze do świętości, którą przygotował dla mnie nasz Pan. W szczególności proszę Cię, abyś wyprosił dla mnie łaski (wymień prośbę tutaj…) Amen.\n\nŚwięty kapłanie z Ars, Twoje przybycie do tego miasteczka było jak duchowa lawina w czasach wielkich prześladowań i ciemności. Módl się za nas, aby w naszych ciemnych czasach światło Chrystusa jaśniało przez nas i wskazywało wszystkim drogę do Nieba.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_john_vianney.jpg",
+  "sourceFacts": {
+    "starts": "July 26Feastday:August 4Birth:1786, Lyons, FranceDeath:1859Patron saint of Parish priests, confessors, Personal Apostolic Administration of Saint John Mary Vianney, Archdiocese of Dubuque, Archdiocese of Kansas City 📱",
+    "feast": "August 4Birth:1786, Lyons, FranceDeath:1859Patron saint of Parish priests, confessors, Personal Apostolic Administration of Saint John Mary Vianney, Archdiocese of Dubuque, Archdiocese of Kansas City 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "949aaa037bbddc56859cfa2344b29112f19346d44228071128945636f4787ca8",
+        "langs": {
+          "es": {
+            "translatedHash": "84dd2ccdefc6fd2093f6609c32be4e846f16a2ac9f2bdcaac24c1ece2264b65b",
+            "updatedAt": "2026-02-25T14:56:32.410Z"
+          },
+          "pl": {
+            "translatedHash": "038592995eee85c1d5ddbcbc44db0a13279f0a91ea8e9de72111a7679b3b06f6",
+            "updatedAt": "2026-02-25T14:56:33.133Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "5ee4fd65dc13ff089180373b743fd5cc92b5852362dfab10d132d49640c7aad9",
+        "langs": {
+          "es": {
+            "translatedHash": "3f4c5d3b585c0bdf867b106724ad3de095dd4adce4f10e0b6c9305b6f1c015df",
+            "updatedAt": "2026-02-25T14:56:33.956Z"
+          },
+          "pl": {
+            "translatedHash": "3c5965a47b9391496d8e865bcefe0c2c7c66884b6c60532368c644a185fa272f",
+            "updatedAt": "2026-02-25T14:56:34.646Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "b1db2b03ebae28b9855368667be5c381a489399ff84b42a4b267697dfa75989c",
+        "langs": {
+          "es": {
+            "translatedHash": "b622e6638978a52834f4970421ddbc60d597213bfc64fea65162d515c55085fd",
+            "updatedAt": "2026-02-25T14:56:39.369Z"
+          },
+          "pl": {
+            "translatedHash": "9c66f9464d480568b02387f73d62f37cdd4dabb80490ab6d7cf4426b50e262ee",
+            "updatedAt": "2026-02-25T14:56:43.408Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "60776320ec7c6c62b76cd53a007e4422c7daaff24e49ea24203b9da2b662ed18",
+        "langs": {
+          "es": {
+            "translatedHash": "63f3793e4b3a32be527658ab53aea4d954a9cf516a26cbb855bc688779e2ba39",
+            "updatedAt": "2026-02-25T14:56:46.832Z"
+          },
+          "pl": {
+            "translatedHash": "64cca6e21c3a14719f62e4b77f7e60776fb046bb69fbe8de9d2a74888a4f4e9c",
+            "updatedAt": "2026-02-25T14:56:52.456Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "84defee0a969d260e64f4c5ec46069d94fec3b2b8933c2e610cee12f81e17d71",
+        "langs": {
+          "es": {
+            "translatedHash": "0e311b9b61c71f8a992234ba6c7d87578bd6a77a4e30276dc13c6a58406280ad",
+            "updatedAt": "2026-02-25T14:56:55.869Z"
+          },
+          "pl": {
+            "translatedHash": "637904b4f5b08f42663305465e14495091dce7397359da7d51b440cc3bcd70ae",
+            "updatedAt": "2026-02-25T14:57:00.829Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "97b913ad238a51a85c7e9b8db035831acf7fc1526f838b7d5e6521443fa90f10",
+        "langs": {
+          "es": {
+            "translatedHash": "4bc9de609c75c6e6d70d347de348671e79d8334f541064c346cc0d7a76f83d51",
+            "updatedAt": "2026-02-25T14:57:03.821Z"
+          },
+          "pl": {
+            "translatedHash": "d992ffaf807a25a46c4f654f0a5705e9000c6ef8c576a409ae8387db12bf4edc",
+            "updatedAt": "2026-02-25T14:57:09.429Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "c4e230fecb060b2687a925ba9d7b61abeb9336122df0dee6e5febda7245e5a1d",
+        "langs": {
+          "es": {
+            "translatedHash": "1d39d26d4e3a4327f5be002ec8030b0295baa59ab79195e657da62b9ce104a34",
+            "updatedAt": "2026-02-25T14:57:13.397Z"
+          },
+          "pl": {
+            "translatedHash": "73ba72d89084a2b37689bbcb8a47df139bea79c066afdeca91e2645cb6f1e5e4",
+            "updatedAt": "2026-02-25T14:57:17.215Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "dd5e9559c91f9c1127d5cd8ac0b9dddfa2f1a60aebfd9bee378090fa9b109d3b",
+        "langs": {
+          "es": {
+            "translatedHash": "64a5d46649ddf9a39926535415da91591c7089acc5bb9f0f2c8536e290302a42",
+            "updatedAt": "2026-02-25T14:57:21.499Z"
+          },
+          "pl": {
+            "translatedHash": "72d617b2ac9a7a18c129bca7b0e5bbaaaf73a562579d92af879c35eeedcff142",
+            "updatedAt": "2026-02-25T14:57:25.858Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "9924bf55cdf9a90c0088f3113eaaa22d2d061ad7e522bd4da3953bbdc9992d7b",
+        "langs": {
+          "es": {
+            "translatedHash": "b76553c8c0e532d879f7b72439a027ac961ae5b9bc3c2944c43f404fca76db1d",
+            "updatedAt": "2026-02-25T14:57:30.189Z"
+          },
+          "pl": {
+            "translatedHash": "54294f7a8b40489fd6af8e736c611c00de00b418fd732e7655ab1ca8ce976bb8",
+            "updatedAt": "2026-02-25T14:57:34.883Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "b28b4e57b5f84a2d524d30926f1a097d9324260f99195d4c39f38f1050cc48c5",
+        "langs": {
+          "es": {
+            "translatedHash": "9dbec8d263be0438dcfbfea4bd5d7b4f9d144b176244f13439f4b3570fb58252",
+            "updatedAt": "2026-02-25T14:57:39.696Z"
+          },
+          "pl": {
+            "translatedHash": "f12692107510657ef1084b5d17145e57731cd055a43de8456aaaa7035d0a6a01",
+            "updatedAt": "2026-02-25T14:57:44.520Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "f853a0aabc1f942340d3856fa7f1083fceb49bd09fec623eed27bfcc5b442c29",
+        "langs": {
+          "es": {
+            "translatedHash": "7e4c53df53afa4593d8215949f2ae0c0c82ae1ee923236428b1064880085b0f9",
+            "updatedAt": "2026-02-25T14:57:48.430Z"
+          },
+          "pl": {
+            "translatedHash": "a3a08d91faa268476dc961f593113cb31dcec5659ffb59b4e61077b9339416db",
+            "updatedAt": "2026-02-25T14:57:53.686Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Juan María Vianney",
+  "title_pl": "Nowenna do św. Jana Vianneya",
+  "description_es": "San Juan María Vianney es el santo patrón de los sacerdotes parroquiales.",
+  "description_pl": "Św. Jan Vianney jest patronem księży parafialnych.",
+  "intentions": [
+    "parish_priests"
+  ],
+  "intentions_es": [
+    "párrocos"
+  ],
+  "intentions_pl": [
+    "księża_parafialni"
+  ]
+}

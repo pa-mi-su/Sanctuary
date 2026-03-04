@@ -1,0 +1,278 @@
+{
+  "id": "st_john_bosco",
+  "title": "St. John Bosco Novena",
+  "description": "St John Bosco was an Italian priest to whom Christ gave the mission to convert the youth of the country to God. Pray this novena for apprentices, editors and publishers, schoolchildren, magicians, and juvenile delinquents.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. John Bosco"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 22
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 31
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-john-bosco-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque necesito no solo gracias espirituales, sino también temporales, particularmente (mencione aquí la petición…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora te pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień tutaj prośbę…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Wiernych, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo a ti con confianza, porque necesito no solo gracias espirituales, sino también temporales, particularmente (mencione aquí la petición…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora te pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień prośbę tutaj…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Chrześcijan, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque requiero no solo gracias espirituales, sino también temporales, particularmente (mencione la petición aquí…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień prośbę tutaj…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Wiernych, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque requiero no solo gracias espirituales, sino también temporales, particularmente (mencione aquí la petición…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora te pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień prośbę tutaj…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Chrześcijan, i który zawsze miałeś współczucie dla cierpiących, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque requiero no solo gracias espirituales, sino también temporales, particularmente (mencione la petición aquí…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora te pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień tutaj prośbę…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Chrześcijan, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque requiero no solo gracias espirituales, sino también temporales, particularmente (mencione aquí la petición…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora te pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Jan Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień prośbę tutaj…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Wiernych, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque requiero no solo gracias espirituales, sino también temporales, particularmente (mencione la petición aquí…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora solicito, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień prośbę tutaj…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Wiernych, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo a ti con confianza, porque necesito no solo gracias espirituales, sino también temporales, particularmente (mencione aquí la petición…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora te pido, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień tutaj prośbę…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Chrześcijan, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint John Bosco, father and teacher of youth, in need of special help, I appeal with confidence to you, for I require not only spiritual graces, but also temporal ones, particularly (mention request here…) May you, who on earth had such great devotion to Jesus in the Blessed Sacrament and to Mary Help of Christians, and who always had compassion for those who were suffering, obtain from Jesus and His Heavenly Mother the grace I now request, and also a sincere resignation to the Will of God. Saint John Bosco, pray for us!\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nMy family had moved to a new country and we didn’t realise how the primary school examination system worked - or just how much preparation children undertake for these very competitive exams. With only a couple of months to go we threw ourselves into study - but we were trying to do in weeks what many children spend months or even years preparing for.\n\nThrough prayers addressed to St John Bosco and to Mary, though, I discovered peace in my heart and learned to place the exams in perspective - to see that what was important was our son’s growth in knowledge and wisdom towards manhood, not performance on a single test. And then, as a further blessing, he did very well, despite the lack of preparation on the part of his parents.\n\nSo - great gratitude to Dom Bosco and Our Lady. Answered prayers, in every way.\n\nfrom T.H.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Juan Bosco, padre y maestro de la juventud, en necesidad de ayuda especial, acudo con confianza a ti, porque requiero no solo gracias espirituales, sino también temporales, particularmente (mencione la petición aquí…) Que tú, que en la tierra tuviste tanta devoción a Jesús en el Santísimo Sacramento y a María Auxiliadora, y que siempre tuviste compasión por los que sufrían, obtengas de Jesús y de Su Madre Celestial la gracia que ahora solicito, y también una sincera resignación a la Voluntad de Dios. ¡San Juan Bosco, ruega por nosotros!\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOraciones Respondidas de Esta Novena\n\nMi familia se había mudado a un nuevo país y no nos dimos cuenta de cómo funcionaba el sistema de exámenes de la escuela primaria, ni de cuánto se preparan los niños para estos exámenes tan competitivos. Con solo un par de meses por delante, nos entregamos al estudio, pero estábamos tratando de hacer en semanas lo que muchos niños preparan durante meses o incluso años.\n\nSin embargo, a través de oraciones dirigidas a San Juan Bosco y a María, descubrí paz en mi corazón y aprendí a poner los exámenes en perspectiva: ver que lo importante era el crecimiento de nuestro hijo en conocimiento y sabiduría hacia la adultez, no el desempeño en un solo examen. Y luego, como una bendición adicional, le fue muy bien, a pesar de la falta de preparación por parte de sus padres.\n\nAsí que, gran gratitud a Don Bosco y a Nuestra Señora. Oraciones respondidas, en todos los sentidos.\n\nde T.H.\n\nEnvíame Oraciones Respondidas\n\nEnvíame tus oraciones respondidas de la Novena a San Juan Bosco\n\n⏰ Recordatorio de Inscripción\n\nHaz clic aquí para obtener el Ebook de Novenas Católicas GRATIS, así como recordatorios de cuándo comienzan las novenas\n\nMás Sobre San Juan Bosco\n\nLee más sobre el santo patrón de los aprendices, editores y publicadores, escolares, magos y delincuentes juveniles en la Página de San Juan Bosco.\n\nNovena Relacionada\n\nNovena a San Francisco de Sales",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Janie Bosko, ojcze i nauczycielu młodzieży, w potrzebie szczególnej pomocy, zwracam się do Ciebie z ufnością, gdyż potrzebuję nie tylko łask duchowych, ale także doczesnych, szczególnie (wymień tutaj prośbę…) Niech Ty, który na ziemi miałeś tak wielkie nabożeństwo do Jezusa w Najświętszym Sakramencie i do Maryi Wspomożycielki Wiernych, i który zawsze współczułeś cierpiącym, wyproś u Jezusa i Jego Niebieskiej Matki łaskę, o którą teraz proszę, a także szczerą rezygnację z Woli Bożej. Święty Janie Bosko, módl się za nami!\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_john_bosco.jpg",
+  "sourceFacts": {
+    "starts": "January 22Feastday:January 31Birth:1815Death:1888Patron saint of apprentices, editors and publishers, schoolchildren, magicians, and juvenile delinquents 📱",
+    "feast": "January 31Birth:1815Death:1888Patron saint of apprentices, editors and publishers, schoolchildren, magicians, and juvenile delinquents 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "385133f40c7f11437d2b7231345ff54c7c4b69d61f0326c86972dd23e24e7915",
+        "langs": {
+          "es": {
+            "translatedHash": "1b83cf5030835fe92aa931f995430becb2d5ef10782d09ad548fb4fbff479824",
+            "updatedAt": "2026-02-25T14:34:56.323Z"
+          },
+          "pl": {
+            "translatedHash": "5736270cb3d6bca599f70ae67b482c152961ea4a63a7f1158acffbf9f253a165",
+            "updatedAt": "2026-02-25T14:34:56.786Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "e56cacacb7046ac6b4dab9121a39690ad6d47f75f811712ee060c501bd835c0b",
+        "langs": {
+          "es": {
+            "translatedHash": "3d33eb90970b7051dd0c266d0879f39f9322ecc4c33fa9523156aa64f0182d66",
+            "updatedAt": "2026-02-25T14:34:57.913Z"
+          },
+          "pl": {
+            "translatedHash": "9ade12fd4ef04826c2645149f5431af756d35a3c3bbfaa3de4960a3e4b797ad9",
+            "updatedAt": "2026-02-25T14:34:59.940Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "3d7d68ba253aa483983cb0d2026b0aac2c9e6cbe7e14e039a8a2a8415fc7d633",
+        "langs": {
+          "es": {
+            "translatedHash": "86227eb2fe644dd58a0c71710419439b9a5fca85aedfedd4dd9e8c374df29e70",
+            "updatedAt": "2026-02-25T14:35:02.741Z"
+          },
+          "pl": {
+            "translatedHash": "6087c5cd84e3184bd63fe6047953df479fb171f0b534d8a3b00ee044889779a7",
+            "updatedAt": "2026-02-25T14:35:08.141Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "e9475cb23f2f6ca7ce1503eca17f1ce46d88ef5af1230885fd3759aa9b6b950a",
+        "langs": {
+          "es": {
+            "translatedHash": "8082a948385576cde76687bcc76334ff8edc426601301389f0609862bdda5554",
+            "updatedAt": "2026-02-25T14:35:10.608Z"
+          },
+          "pl": {
+            "translatedHash": "56754189403b7fa3ca674e11b6d830c0942166516733948d53cfac0a820cf8eb",
+            "updatedAt": "2026-02-25T14:35:14.140Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "b21159fc4ae270a495ab15ae2a9086b15bf4466ccba7eba465a85d91b6a40dc1",
+        "langs": {
+          "es": {
+            "translatedHash": "d28589a2087fce1ae6af91e9385781fe4471b89d86749dd5874f03e184a3e109",
+            "updatedAt": "2026-02-25T14:35:16.973Z"
+          },
+          "pl": {
+            "translatedHash": "828064359e02a88746279a91798ba6f63f1368933edcd6e4788900ab529e882f",
+            "updatedAt": "2026-02-25T14:35:21.217Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "44369648b62252a170056f810dba7d01f75ffdb02de4e9b27833723aebf3202b",
+        "langs": {
+          "es": {
+            "translatedHash": "c5ccf0c605f93c5d79dae7d623e2ebc3be40eb6b495fd68711b486d68f6e4d59",
+            "updatedAt": "2026-02-25T14:35:24.181Z"
+          },
+          "pl": {
+            "translatedHash": "a253f7f2186e32d6e5c452af262610969ec81b3bb2da4c6908c786f87304fbb8",
+            "updatedAt": "2026-02-25T14:35:27.941Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "50b40239cee077974baa83ce59bbb118fbb1d6de4e423d8926b0e258cbae3175",
+        "langs": {
+          "es": {
+            "translatedHash": "452b68729c98b194d5794143d07c54c8b0abae99bb65cd448cad0d1d605a4b9e",
+            "updatedAt": "2026-02-25T14:35:31.047Z"
+          },
+          "pl": {
+            "translatedHash": "8b7b37dde97aa6262a2999b1a3073385fdde564717cf230ca052786151d7b0dc",
+            "updatedAt": "2026-02-25T14:35:35.866Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "f81b107d32c0664e7ffbb15648733b2a7033081ffb866c77b6ea7573ec30152f",
+        "langs": {
+          "es": {
+            "translatedHash": "1f1d2b51914e23c34a41033ef3062a5fbf4839a881d07e4578394cefacc33601",
+            "updatedAt": "2026-02-25T14:35:38.421Z"
+          },
+          "pl": {
+            "translatedHash": "b7aca795fee99dae19fdb3dd1d9465266a44ef9090ec328213267115dda4d12d",
+            "updatedAt": "2026-02-25T14:35:42.731Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "33795dadc2dd89c544aa5ea4052054ab2ec405f99b109a4a9d10213fb58786b4",
+        "langs": {
+          "es": {
+            "translatedHash": "7e8a9ea75e318c57bf6c02898410a36a6e2ae6b0bcbfaefe45a763085e084a90",
+            "updatedAt": "2026-02-25T14:35:45.320Z"
+          },
+          "pl": {
+            "translatedHash": "7215a8798c37e529c11786488853bfbf261af983abfaadaa23bb0a31ef5a5eaf",
+            "updatedAt": "2026-02-25T14:35:49.861Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "f647e9cf39f396e66e6f945db170c9f36d171e2fe07977cb8512bd75060bd5bf",
+        "langs": {
+          "es": {
+            "translatedHash": "13be1693764b1f5530ea5611c7a45410d18f963e76e56f0565c7c52a965351d1",
+            "updatedAt": "2026-02-25T14:35:53.195Z"
+          },
+          "pl": {
+            "translatedHash": "60b7d7047d5fd90964f4b0135fe1ecaa799060271e0f2be501187645922b4894",
+            "updatedAt": "2026-02-25T14:35:57.419Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "0e3d4de36e2ac5fbc9a15db3eed9862bdd5348c2b2d6e6d47988eabce7af90f4",
+        "langs": {
+          "es": {
+            "translatedHash": "f78459672833c04670b1a1658cd10fb7c066369a1ab7fe6ee520d3bd964553e8",
+            "updatedAt": "2026-02-25T14:36:05.591Z"
+          },
+          "pl": {
+            "translatedHash": "6087c5cd84e3184bd63fe6047953df479fb171f0b534d8a3b00ee044889779a7",
+            "updatedAt": "2026-02-25T14:36:09.291Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Juan Bosco",
+  "title_pl": "Nowenna do św. Jana Bosko",
+  "description_es": "San Juan Bosco fue un sacerdote italiano a quien Cristo le dio la misión de convertir a la juventud del país a Dios. Reza esta novena por aprendices, editores y publicadores, escolares, magos y delincuentes juveniles.",
+  "description_pl": "Św. Jan Bosko był włoskim księdzem, któremu Chrystus powierzył misję nawracania młodzieży kraju na Boga. Módl się tę nowennę za uczniów zawodu, redaktorów i wydawców, uczniów szkolnych, magików oraz młodocianych przestępców.",
+  "intentions": [
+    "boys",
+    "young_editors"
+  ],
+  "intentions_es": [
+    "chicos",
+    "jóvenes_editores"
+  ],
+  "intentions_pl": [
+    "chłopcy",
+    "młodzi_redaktorzy"
+  ]
+}

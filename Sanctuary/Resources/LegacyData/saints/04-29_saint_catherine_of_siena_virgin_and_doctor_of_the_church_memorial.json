@@ -1,0 +1,48 @@
+{
+  "id": "04-29_saint_catherine_of_siena_virgin_and_doctor_of_the_church_memorial",
+  "name": "Saint Catherine of Siena, Virgin and Doctor of the Church—Memorial",
+  "mmdd": "04-29",
+  "feast": "The Twenty-Ninth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calendar_of_saints_(Anglican_Church_of_Canada)"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-29_saint_catherine_of_siena_virgin_and_doctor_of_the_church_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b3bcff8fbc5e42036f138955fa2fa9c14800e4b1621b08dbef69dd79a4dd33ef",
+        "langs": {
+          "es": {
+            "translatedHash": "a677552b0f6d1e39a6b132985dcd6f6184e210fe8fb1b30741c9436ffae65bf8",
+            "updatedAt": "2026-02-24T23:16:49.934Z"
+          },
+          "pl": {
+            "translatedHash": "8dd5a237ecbbd7697489eceed833aaf4771b8e80206f3dadd57205250829af7a",
+            "updatedAt": "2026-02-24T23:16:50.996Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "dd48e237ed618efadad3fe106c1f6d533be5de721e661afa48b7849e7ce63b86",
+        "langs": {
+          "es": {
+            "translatedHash": "43fddc416076cb7f6fa23e63b8aa361e84fa71586f5daa0fd0c1a53b87baf92c",
+            "updatedAt": "2026-02-24T23:16:51.870Z"
+          },
+          "pl": {
+            "translatedHash": "2b8a74fc7d4c5256deba55273e04fd2ee9156322cf5da1d73f4399b3812c9720",
+            "updatedAt": "2026-02-24T23:16:52.529Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Catalina de Siena, Virgen y Doctora de la Iglesia—Memoria",
+  "name_pl": "Święta Katarzyna ze Sieny, Dziewica i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Vigésimo Noveno Día de Abril",
+  "feast_pl": "Dwudziesty dziewiąty dzień kwietnia"
+}

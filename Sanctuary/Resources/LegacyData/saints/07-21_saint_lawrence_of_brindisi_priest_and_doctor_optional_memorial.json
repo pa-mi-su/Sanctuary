@@ -1,0 +1,48 @@
+{
+  "id": "07-21_saint_lawrence_of_brindisi_priest_and_doctor_optional_memorial",
+  "name": "Saint Lawrence of Brindisi, Priest and Doctor—Optional Memorial",
+  "mmdd": "07-21",
+  "feast": "The Twenty-First Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-21_saint_lawrence_of_brindisi_priest_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "db67300dc8e981dc0faff61b8fd6e464f6c5eb03e7b8658bad35243a82dd212b",
+        "langs": {
+          "es": {
+            "translatedHash": "0e7a2e661e5c6c4a02be786825f75f91fb0becd16769f11a6ec3886cc61d15ff",
+            "updatedAt": "2026-02-25T00:01:33.193Z"
+          },
+          "pl": {
+            "translatedHash": "1f1f62f089af46aa78a40454ed084a2d8e1f12cece3ecccf468c1ca0bae91a7b",
+            "updatedAt": "2026-02-25T00:01:34.194Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2f67dbe849bf0f9251e5b9164b2f178bcd15573a290d2dc5df21a5cf7521f581",
+        "langs": {
+          "es": {
+            "translatedHash": "ee3e7846d8af448c80b5abb881a3a3ca642fe8c9e7b7151205aac9a8c3378b86",
+            "updatedAt": "2026-02-25T00:01:34.820Z"
+          },
+          "pl": {
+            "translatedHash": "7f67f3f492afc0d3040b7b8190fa7543029296743990b4b8c0972420189442c2",
+            "updatedAt": "2026-02-25T00:01:35.551Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Lorenzo de Brindis, Presbítero y Doctor—Memoria Opcional",
+  "name_pl": "Święty Wawrzyniec z Brindisi, kapłan i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El Vigésimo Primer Día de Julio",
+  "feast_pl": "Dwudziesty pierwszy dzień lipca"
+}

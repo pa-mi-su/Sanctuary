@@ -1,0 +1,79 @@
+{
+  "id": "01-15_saint_paul_the_hermit",
+  "name": "Saint Paul the Hermit",
+  "mmdd": "01-15",
+  "feast": "The Fifteenth Day of January",
+  "summary": "Paul of Thebes, commonly known as Paul the First Hermit or Paul the Anchorite, was an Egyptian saint regarded as the first Christian hermit and grazer, who was claimed to have lived alone in the desert of Thebes in Roman Egypt from the age of 16 to the age of 113 years old. He was canonized in 491 by Pope Gelasius I, and is venerated as a saint by the Catholic Church, Eastern Orthodox Church, and Oriental Orthodox Churches.",
+  "biography": "Paul of Thebes (Coptic: Ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ; Koine Greek: Παῦλος ὁ Θηβαῖος, Paûlos ho Thēbaîos; Latin: Paulus Eremita; c. 227 – c. 341), commonly known as Paul the First Hermit or Paul the Anchorite, was an Egyptian saint regarded as the first Christian hermit and grazer, who was claimed to have lived alone in the desert of Thebes in Roman Egypt from the age of 16 to the age of 113 years old. He was canonized in 491 by Pope Gelasius I, and is venerated as a saint by the Catholic Church, Eastern Orthodox Church, and Oriental Orthodox Churches. Legend The Life of Saint Paul the First Hermit was written in Latin by Jerome, probably in 375–376. Paul of Thebes was born around 227 in the Thebaid of Egypt. Paul and his married sister lost their parents. In order to obtain Paul's inheritance, his brother-in-law sought to betray him to the persecutors. According to Jerome's Vitae Patrum (Vita Pauli primi eremitae), Paul fled to the Theban desert as a young man during the persecution of Decius and Valerianus around AD 250. He lived in the mountains of this desert in a cave near a clear spring and a palm tree, the leaves of which provided him with clothing and the fruit of which provided him with...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_of_Thebes",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-15_saint_paul_the_hermit.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bc54f9e559c45d9d7d3d5feea6978d371c548acfc07ea2bb9d5aa10b175efabc",
+        "langs": {
+          "es": {
+            "translatedHash": "1078d8236f3d1907645a59d3a60b0abd670821097635960d2453ea55b04fd9bb",
+            "updatedAt": "2026-02-24T22:14:54.122Z"
+          },
+          "pl": {
+            "translatedHash": "facc1f095c4ec520b343ef6c56c452b795ace76b2bbd869e8107b59d61c71a66",
+            "updatedAt": "2026-02-24T22:14:54.927Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6b8980d96878adcda107c67425b3e7eb0baddaf72f453788f289414331bdfd89",
+        "langs": {
+          "es": {
+            "translatedHash": "ef65ec1118cfdcf6383c9701399fe7d0f209fa00470c0ab13358a95c2e93fc19",
+            "updatedAt": "2026-02-24T22:14:56.248Z"
+          },
+          "pl": {
+            "translatedHash": "92f686f127086d8c150678c526187e6fd753a5ae0afa56888338334f1788303b",
+            "updatedAt": "2026-02-24T22:14:57.035Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "426725865c2dd17d7969eaeb320e29c6a7d05f7dd611801c68b8378d9c7bcb8d",
+        "langs": {
+          "es": {
+            "translatedHash": "e7eecbdbfdab1bfedbfb05f2c61b8cc7a2605c4eb3d8e959379cd63b0be1ee23",
+            "updatedAt": "2026-02-24T22:14:58.988Z"
+          },
+          "pl": {
+            "translatedHash": "88a513b5003b097f11f832a0d9885ef0de0254ec0d59fb11bed4d6468591e384",
+            "updatedAt": "2026-02-24T22:15:02.282Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "13c3c45ea3573ec45dcb484740de9c33cecd215b2b93f8f981a14ec225e377e0",
+        "langs": {
+          "es": {
+            "translatedHash": "05813df1d81f90d46af18c667dfcbf9a3d69d116706eff00d7fe9d755b6f26f8",
+            "updatedAt": "2026-02-24T22:15:08.157Z"
+          },
+          "pl": {
+            "translatedHash": "624b29b2deb8b5b4196a2e80609cfd5bad2780320664a33231261cf8134eed74",
+            "updatedAt": "2026-02-24T22:15:15.042Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pablo Ermitaño",
+  "name_pl": "Święty Paweł Pustelnik",
+  "feast_es": "El Quince de Enero",
+  "feast_pl": "Piętnasty Dzień Stycznia",
+  "summary_es": "Pablo de Tebas, comúnmente conocido como Pablo el Primer Ermitaño o Pablo el Anacoreta, fue un santo egipcio considerado el primer ermitaño cristiano y pastor, quien se dice que vivió solo en el desierto de Tebas en el Egipto romano desde los 16 años hasta los 113 años de edad. Fue canonizado en 491 por el Papa Gelasio I, y es venerado como santo por la Iglesia Católica, la Iglesia Ortodoxa Oriental y las Iglesias Ortodoxas Orientales.",
+  "summary_pl": "Paweł z Teb, powszechnie znany jako Paweł Pierwszy Pustelnik lub Paweł Anachoreta, był egipskim świętym uważanym za pierwszego chrześcijańskiego pustelnika i pasterza, który według tradycji żył samotnie na pustyni Teb w rzymskim Egipcie od 16. do 113. roku życia. Został kanonizowany w 491 roku przez papieża Gelazjusza I i jest czczony jako święty przez Kościół katolicki, Kościół prawosławny oraz Kościoły orientalne.",
+  "biography_es": "Pablo de Tebas (copto: Ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ; griego koiné: Παῦλος ὁ Θηβαῖος, Paûlos ho Thēbaîos; latín: Paulus Eremita; c. 227 – c. 341), comúnmente conocido como Pablo el Primer Ermitaño o Pablo el Anacoreta, fue un santo egipcio considerado el primer ermitaño cristiano y pastor, que se dice vivió solo en el desierto de Tebas en el Egipto romano desde los 16 hasta los 113 años de edad. Fue canonizado en 491 por el Papa Gelasio I, y es venerado como santo por la Iglesia Católica, la Iglesia Ortodoxa Oriental y las Iglesias Ortodoxas Orientales.\n\nLeyenda\n\nLa Vida de San Pablo el Primer Ermitaño fue escrita en latín por Jerónimo, probablemente entre 375 y 376. Pablo de Tebas nació alrededor del año 227 en la Tebaida de Egipto. Pablo y su hermana casada perdieron a sus padres. Para obtener la herencia de Pablo, su cuñado intentó traicionarlo ante los perseguidores. Según las Vitae Patrum de Jerónimo (Vita Pauli primi eremitae), Pablo huyó al desierto tebano siendo joven durante la persecución de Decio y Valeriano alrededor del año 250 d.C. Vivió en las montañas de este desierto, en una cueva cerca de un manantial claro y una palmera, cuyas hojas le proporcionaban vestimenta y cuyo fruto le proporcionaba...",
+  "biography_pl": "Paweł z Teb (koptyjski: Ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ; greka koiné: Παῦλος ὁ Θηβαῖος, Paûlos ho Thēbaîos; łacina: Paulus Eremita; ok. 227 – ok. 341), powszechnie znany jako Paweł Pierwszy Pustelnik lub Paweł Anachoreta, był egipskim świętym uważanym za pierwszego chrześcijańskiego pustelnika i pasterza, który miał żyć samotnie na pustyni Teb w rzymskim Egipcie od 16. roku życia aż do około 113 lat. Został kanonizowany w 491 roku przez papieża Gelazjusza I i jest czczony jako święty przez Kościół katolicki, Kościół prawosławny oraz Kościoły ortodoksyjne wschodnie.\n\nLegenda\n\nŻycie świętego Pawła Pierwszego Pustelnika zostało napisane po łacinie przez Hieronima, prawdopodobnie w latach 375–376. Paweł z Teb urodził się około 227 roku w Tebaidzie w Egipcie. Paweł i jego zamężna siostra stracili rodziców. Aby przejąć spadek Pawła, jego szwagier próbował wydać go prześladowcom. Według Vitae Patrum Hieronima (Vita Pauli primi eremitae), Paweł uciekł na pustynię tebajską jako młody człowiek podczas prześladowań Decjusza i Waleriana około 250 roku n.e. Mieszkał w górach tej pustyni w jaskini niedaleko czystego źródła i palmy, której liście służyły mu za odzież, a owoce zapewniały mu..."
+}

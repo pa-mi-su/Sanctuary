@@ -1,0 +1,79 @@
+{
+  "id": "07-15_saint_henry_i",
+  "name": "Saint Henry I",
+  "mmdd": "07-15",
+  "feast": "The Fifteenth Day of July",
+  "summary": "Henry II, also known as Saint Henry, Obl. S. B., was Holy Roman Emperor from 1014. He died without an heir in 1024 and was the last ruler of the Ottonian line. As Duke of Bavaria, appointed in 995, Henry became King of the Romans following the sudden death of his second cousin, Emperor Otto III in 1002, was made King of Italy in 1004, and crowned emperor by Pope Benedict VIII in 1014.",
+  "biography": "Henry II (German: Heinrich II; Italian: Enrico II; Latin: Henricus; 6 May 973 – 13 July 1024), also known as Saint Henry, Obl. S. B., was Holy Roman Emperor (Latin: Romanorum Imperator) from 1014. He died without an heir in 1024 and was the last ruler of the Ottonian line. As Duke of Bavaria, appointed in 995, Henry became King of the Romans (Latin: Rex Romanorum) following the sudden death of his second cousin, Emperor Otto III in 1002, was made King of Italy (Latin: Rex Italiae) in 1004, and crowned emperor by Pope Benedict VIII in 1014.\nThe son of Henry II, Duke of Bavaria, and his wife Gisela of Burgundy, Emperor Henry II was a great-grandson of German king Henry the Fowler and a member of the Bavarian branch of the Ottonian dynasty. Since his father had rebelled against two previous emperors, the younger Henry spent long periods of time in exile, where he turned to Christianity at an early age, first finding refuge with the Bishop of Freising and later during his education at the cathedral school in Hildesheim. He succeeded his father as Duke of Bavaria in 995 as Henry IV. As duke, he attempted to join his second-cousin, Emperor Otto III, in suppressing a revolt against imperial...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-15_saint_henry_i.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ab46bf4abf29c51bf1b53fc4075b1649147eba0365a9ee70c816212edf8930b7",
+        "langs": {
+          "es": {
+            "translatedHash": "fe2975c9cb5b7d6b94274f3b82d59f54d1119ab4f8429fd7897df85d2b8f3658",
+            "updatedAt": "2026-02-24T23:58:26.031Z"
+          },
+          "pl": {
+            "translatedHash": "1491264864a855f9055b24e95895ebb4b91b995e655b9feea04b51876bafbefa",
+            "updatedAt": "2026-02-24T23:58:26.633Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "56a2acf2338e454bfdc76bf5647e252adfacf3a8120a3608055e1fe7d974f0d3",
+        "langs": {
+          "es": {
+            "translatedHash": "44f37d9055716093c58a08d103ec2dfad1d3e2cf85e1cede804a1deb3c8968a9",
+            "updatedAt": "2026-02-24T23:58:27.697Z"
+          },
+          "pl": {
+            "translatedHash": "56f9a09b953d51bd2096ce0db4421e66492c25918f2b63b145ed6478b0e83283",
+            "updatedAt": "2026-02-24T23:58:28.385Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1a03454b48c45933b2714ed1d97055efe02a244e509927cc8279561066a3710b",
+        "langs": {
+          "es": {
+            "translatedHash": "6ca8907e8d23008269413026d823c10947a7f90f1a55b9f5d7c9e5629da610ec",
+            "updatedAt": "2026-02-24T23:58:30.552Z"
+          },
+          "pl": {
+            "translatedHash": "56f5e0bf7c8c4911a462ff88bcfffb8836d5f6bd2da03773c4b78b73ffc1c340",
+            "updatedAt": "2026-02-24T23:58:33.381Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3f9839b288fe16a7ac94d5d9087f13d92b9b33eab3bc42bdf3d364fb6d7c4453",
+        "langs": {
+          "es": {
+            "translatedHash": "bd5f1c8ab7f6e4a30b3a66285d1266f0738b5cab103461d269147ac8f14f25d7",
+            "updatedAt": "2026-02-24T23:58:38.013Z"
+          },
+          "pl": {
+            "translatedHash": "e2bc93245525a44e60b979ae9bb1c6710197186b26c77a3790f8ac03fa639be2",
+            "updatedAt": "2026-02-24T23:58:43.978Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Enrique I",
+  "name_pl": "Święty Henryk I",
+  "feast_es": "El Quince de Julio",
+  "feast_pl": "Piętnasty dzień lipca",
+  "summary_es": "Enrique II, también conocido como San Enrique, Obl. S. B., fue Emperador del Sacro Imperio Romano desde 1014. Murió sin heredero en 1024 y fue el último gobernante de la línea otoniana. Como Duque de Baviera, nombrado en 995, Enrique se convirtió en Rey de los Romanos tras la muerte súbita de su segundo primo, el Emperador Otón III en 1002, fue proclamado Rey de Italia en 1004 y coronado emperador por el Papa Benedicto VIII en 1014.",
+  "summary_pl": "Henryk II, znany również jako święty Henryk, Obl. S. B., był cesarzem Świętego Cesarstwa Rzymskiego od 1014 roku. Zmarł bez potomka w 1024 roku i był ostatnim władcą z linii ottońskiej. Jako książę Bawarii, mianowany w 995 roku, Henryk został królem Rzymian po nagłej śmierci swojego drugiego kuzyna, cesarza Ottona III w 1002 roku, został królem Italii w 1004 roku, a koronowany na cesarza przez papieża Benedykta VIII w 1014 roku.",
+  "biography_es": "Enrique II (alemán: Heinrich II; italiano: Enrico II; latín: Henricus; 6 de mayo de 973 – 13 de julio de 1024), también conocido como San Enrique, Obl. S. B., fue Emperador del Sacro Imperio Romano (latín: Romanorum Imperator) desde 1014. Murió sin heredero en 1024 y fue el último gobernante de la línea otoniana. Como duque de Baviera, nombrado en 995, Enrique se convirtió en Rey de los Romanos (latín: Rex Romanorum) tras la muerte súbita de su segundo primo, el emperador Otón III, en 1002, fue proclamado Rey de Italia (latín: Rex Italiae) en 1004, y coronado emperador por el Papa Benedicto VIII en 1014.\n\nHijo de Enrique II, duque de Baviera, y de su esposa Gisela de Borgoña, el emperador Enrique II fue bisnieto del rey alemán Enrique el Pajarero y miembro de la rama bávara de la dinastía otoniana. Dado que su padre se había rebelado contra dos emperadores anteriores, el joven Enrique pasó largos períodos en el exilio, donde se acercó al cristianismo a una edad temprana, encontrando primero refugio con el obispo de Freising y más tarde durante su educación en la escuela catedralicia de Hildesheim. Sucedió a su padre como duque de Baviera en 995 con el nombre de Enrique IV. Como duque, intentó unirse a su segundo primo, el emperador Otón III, para suprimir una revuelta contra el imperio...",
+  "biography_pl": "Henryk II (niem. Heinrich II; wł. Enrico II; łac. Henricus; 6 maja 973 – 13 lipca 1024), znany również jako św. Henryk, Obl. S. B., był cesarzem Świętego Cesarstwa Rzymskiego (łac. Romanorum Imperator) od 1014 roku. Zmarł bez potomka w 1024 roku i był ostatnim władcą z linii ottońskiej. Jako książę Bawarii, mianowany w 995 roku, Henryk został królem Rzymian (łac. Rex Romanorum) po nagłej śmierci swojego drugiego kuzyna, cesarza Ottona III w 1002 roku, został koronowany na króla Italii (łac. Rex Italiae) w 1004 roku, a cesarzem koronował go papież Benedykt VIII w 1014 roku.\n\nSyn Henryka II, księcia Bawarii, i jego żony Gizy z Burgundii, cesarz Henryk II był prawnukiem niemieckiego króla Henryka I Ptasznika oraz członkiem bawarskiej gałęzi dynastii ottońskiej. Ponieważ jego ojciec zbuntował się przeciw dwóm poprzednim cesarzom, młodszy Henryk spędził długie okresy na wygnaniu, gdzie wcześnie zwrócił się ku chrześcijaństwu, najpierw szukając schronienia u biskupa Freising, a później podczas nauki w szkole katedralnej w Hildesheim. W 995 roku objął po ojcu księstwo Bawarii jako Henryk IV. Jako książę próbował dołączyć do swojego drugiego kuzyna, cesarza Ottona III, w tłumieniu buntu przeciwko cesarskiemu..."
+}

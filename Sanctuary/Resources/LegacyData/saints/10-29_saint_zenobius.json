@@ -1,0 +1,78 @@
+{
+  "id": "10-29_saint_zenobius",
+  "name": "Saint Zenobius",
+  "mmdd": "10-29",
+  "feast": "The Twenty-Ninth Day of October",
+  "summary": "Saint Zenobius (337–417) who was the first bishop of Florence. Venerated in the Catholic Church, his feast day is celebrated on May 25.",
+  "biography": "Life\n\nBorn of a Florentine noble family, Zenobius was educated by his pagan parents.  He came under the influence early of the bishop Theodore, was baptized by him, and succeeded, after much opposition, in bringing his father and mother to Christianity. He embraced the clerical state, and rapidly rose to the position of archdeacon, when his virtues and notable powers as a preacher made him known to Saint Ambrose, at whose instance Pope Damasus I (r. 366–386) called him to Rome, and employed him in various important missions, including a legation to Constantinople. On the death of Damasus he returned to his native city, where he resumed his apostolic labours, and on the death of the bishop of that see, Zenobius, to the great joy of the people, was appointed to succeed him. His deacons are venerated as Saint Eugene and Saint Crescentius.  He evangelized Florence and its outskirts completely and combated Arianism. \nAccording to his biographer and successor in the See of Florence, Antonius, he died in his ninetieth year...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zenobius_of_Florence"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-29_saint_zenobius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3d759f6f37df2a53bfbca7e363aa4bcce2006439f61adb6f17d1c5275c1a0e3c",
+        "langs": {
+          "es": {
+            "translatedHash": "3100512c88ff93811e8aa354ef8c5d2d3d5bbe4719ae9f2d6d038c14b6bf6859",
+            "updatedAt": "2026-02-25T00:58:32.312Z"
+          },
+          "pl": {
+            "translatedHash": "b978f1f8125a2f6f0d29d4e4729e21c2d83036573424ef5f187fac2f025ed897",
+            "updatedAt": "2026-02-25T00:58:33.011Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c1f59a9496e78bb4f14c2714676e1ca66dded96cf54b9549f765ed710f5a0537",
+        "langs": {
+          "es": {
+            "translatedHash": "18b8e6868bf31ad67c4c6d89b1ea66093ac3e0f3afd98369f81dbbc8c2073e48",
+            "updatedAt": "2026-02-25T00:58:33.822Z"
+          },
+          "pl": {
+            "translatedHash": "05e953cba82b3cb0bc280c52e5c387532f4ea7f6901131904b02d441998d6cc6",
+            "updatedAt": "2026-02-25T00:58:34.525Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1ded030c3de61d789a5f4197b1fd3e8d558e4ab8475ffb6c03ba77e5e9ad66c7",
+        "langs": {
+          "es": {
+            "translatedHash": "3b31705d154c23a7f87c07555b770d49111d09d46311dae20d316621e464b7d1",
+            "updatedAt": "2026-02-25T00:58:35.739Z"
+          },
+          "pl": {
+            "translatedHash": "b4f8913ca1ebca4c6ad895597cbd520108dd0aff3b08fcb18dda46cc7cde4246",
+            "updatedAt": "2026-02-25T00:58:36.689Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "02d70fa7264ad762819ca16447fd3896ae3b33c99003d6943687f6a7196b2f74",
+        "langs": {
+          "es": {
+            "translatedHash": "c3f9034809452e405384d45b6173fd8783c5a403e5f868d2069d8f79f4d05544",
+            "updatedAt": "2026-02-25T00:58:41.558Z"
+          },
+          "pl": {
+            "translatedHash": "9e5b6604cd9e8c5ee910fceb7db4297aca9b3a2b71b4fa896e70ac21f0897a96",
+            "updatedAt": "2026-02-25T00:58:47.955Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Zenobio",
+  "name_pl": "Święty Zenobiusz",
+  "feast_es": "El vigésimo noveno día de octubre",
+  "feast_pl": "Dwudziesty dziewiąty dzień października",
+  "summary_es": "San Zenobio (337–417), quien fue el primer obispo de Florencia. Venerado en la Iglesia Católica, su fiesta se celebra el 25 de mayo.",
+  "summary_pl": "Święty Zenobiusz (337–417), który był pierwszym biskupem Florencji. Czczony w Kościele katolickim, jego wspomnienie obchodzone jest 25 maja.",
+  "biography_es": "Vida\n\nNacido en una familia noble florentina, Zenobio fue educado por sus padres paganos. Pronto estuvo bajo la influencia del obispo Teodoro, quien lo bautizó, y logró, tras mucha oposición, convertir a su padre y a su madre al cristianismo. Adoptó el estado clerical y ascendió rápidamente al cargo de archidiácono, cuando sus virtudes y notables dotes como predicador lo dieron a conocer a San Ambrosio, a instancias de quien el Papa Dámaso I (r. 366–386) lo llamó a Roma y lo empleó en diversas misiones importantes, incluida una legación a Constantinopla. A la muerte de Dámaso, regresó a su ciudad natal, donde reanudó sus labores apostólicas, y a la muerte del obispo de esa sede, Zenobio, para gran alegría del pueblo, fue nombrado para sucederlo. Sus diáconos son venerados como San Eugenio y San Crescentio. Evangelizó completamente Florencia y sus alrededores y combatió el arrianismo.  \nSegún su biógrafo y sucesor en la Sede de Florencia, Antonio, murió en su año nonagésimo...",
+  "biography_pl": "Życie\n\nUrodzony w florenckiej rodzinie szlacheckiej, Zenobiusz był wychowywany przez swoich pogańskich rodziców. Wcześnie znalazł się pod wpływem biskupa Teodora, który go ochrzcił, a po wielu przeciwnościach udało mu się nawrócić na chrześcijaństwo ojca i matkę. Przyjął stan duchowny i szybko awansował na archidiakona, gdy jego cnoty i znaczne zdolności kaznodziejskie zwróciły uwagę św. Ambrożego, który za jego namową papież Damasus I (panował w latach 366–386) wezwał go do Rzymu i powierzył mu różne ważne misje, w tym legację do Konstantynopola. Po śmierci Damasusa powrócił do rodzinnego miasta, gdzie wznowił swoje apostolskie dzieło, a po śmierci biskupa tej diecezji, ku wielkiej radości ludu, Zenobiusz został mianowany jego następcą. Jego diakoni, św. Eugeniusz i św. Krescencjusz, są czczeni jako święci. Ewangelizował Florencję i jej okolice całkowicie oraz zwalczał arianizm.  \nWedług jego biografa i następcy na stolicy florenckiej, Antoniego, zmarł w swoim dziewięćdziesiątym roku życia..."
+}

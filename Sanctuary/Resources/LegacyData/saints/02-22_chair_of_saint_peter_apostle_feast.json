@@ -1,0 +1,48 @@
+{
+  "id": "02-22_chair_of_saint_peter_apostle_feast",
+  "name": "Chair of Saint Peter, Apostle—Feast",
+  "mmdd": "02-22",
+  "feast": "The Twenty-Second Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chair_of_Saint_Peter"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-22_chair_of_saint_peter_apostle_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eeb98fdbdef8f4f5774aa4e541737aae96e068448b3aa8b03f44dc21a1110dec",
+        "langs": {
+          "es": {
+            "translatedHash": "613e635ff404250eecddd71265de359a26c0219acdd1873b1bc89c5a69d9b8df",
+            "updatedAt": "2026-02-24T22:39:59.751Z"
+          },
+          "pl": {
+            "translatedHash": "795bcc2efb9c9d6c23c76e4e8ad726abb5f10fd7257c2019c85149196a52fe15",
+            "updatedAt": "2026-02-24T22:40:00.559Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e71335a07289b1a667cad95ac4c766c24d1afb3669dfa3e9c3ab887c910825a1",
+        "langs": {
+          "es": {
+            "translatedHash": "3b83e3363f3b6b893f0b4f3319f12a43a517a7497dadbf609597e85e550fb7ed",
+            "updatedAt": "2026-02-24T22:40:01.158Z"
+          },
+          "pl": {
+            "translatedHash": "4f45f6f742d44917b8276e31e812bc2193e9c96d5b3510ede60decbf60033007",
+            "updatedAt": "2026-02-24T22:40:01.789Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Silla de San Pedro, Apóstol—Fiesta",
+  "name_pl": "Katedra Świętego Piotra, Apostoła — Uroczystość",
+  "feast_es": "El Veintidós de Febrero",
+  "feast_pl": "Dwudziesty drugi dzień lutego"
+}

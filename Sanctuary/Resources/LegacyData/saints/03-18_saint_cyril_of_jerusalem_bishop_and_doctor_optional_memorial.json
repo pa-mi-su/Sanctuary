@@ -1,0 +1,48 @@
+{
+  "id": "03-18_saint_cyril_of_jerusalem_bishop_and_doctor_optional_memorial",
+  "name": "Saint Cyril of Jerusalem, Bishop and Doctor—Optional Memorial",
+  "mmdd": "03-18",
+  "feast": "The Eighteenth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-18_saint_cyril_of_jerusalem_bishop_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4ed1abb38a6b53d7ab87545b8cdf725bf99e8b382599b05d7c0577116db27eac",
+        "langs": {
+          "es": {
+            "translatedHash": "85932022e9e4c44f8b9179769fc4a5b1f71a472dfa43315303e6598f0530f1e1",
+            "updatedAt": "2026-02-24T22:55:48.156Z"
+          },
+          "pl": {
+            "translatedHash": "4b02996c98d31d4fe26af1d795b4c9d9bcc84faba22bece9a3b6d3e21c90fee6",
+            "updatedAt": "2026-02-24T22:55:48.971Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9da965b6356ee3726dbdde8fa669e829a818116881ee13478a085f0f7e7e6a15",
+        "langs": {
+          "es": {
+            "translatedHash": "b17bae31873258eb22cb13750bcf3ab414f8cec63ab15d47ee51e428f00f8b7c",
+            "updatedAt": "2026-02-24T22:55:49.863Z"
+          },
+          "pl": {
+            "translatedHash": "9885f072a70ff1ded49fc576e4a7667ca7cf402cc2cea845da6e409ac91871ee",
+            "updatedAt": "2026-02-24T22:55:50.451Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cirilo de Jerusalén, Obispo y Doctor—Memoria Opcional",
+  "name_pl": "Święty Cyryl Jerozolimski, biskup i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El día dieciocho de marzo",
+  "feast_pl": "Osiemnasty dzień marca"
+}

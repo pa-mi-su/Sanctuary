@@ -1,0 +1,79 @@
+{
+  "id": "05-22_saint_faustinus",
+  "name": "Saint Faustinus",
+  "mmdd": "05-22",
+  "feast": "The Twenty-Second Day of May",
+  "summary": "Saint Faustinus may refer to:2nd-century martyr \nFaustinus of Brescia, 4th century\nSimplicius, Faustinus and Beatrix, 4th century",
+  "biography": "2nd-century martyr (see Faustinus and Jovita)\nFaustinus of Brescia, 4th century\nSimplicius, Faustinus and Beatrix, 4th century",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Faustinus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-22_saint_faustinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7b39b3c433ed5ed07ec01bd192ba52c7eeca2da7738f9998883abc9a8be6ca98",
+        "langs": {
+          "es": {
+            "translatedHash": "3027d3110fe5f3da93ce7b83d27587c5d2e02d330e73949cf5712769d8514b44",
+            "updatedAt": "2026-02-24T23:29:51.766Z"
+          },
+          "pl": {
+            "translatedHash": "1aad4d11148553ffb4901c1f6371def234375779b4026dbd984de3ff6cabf827",
+            "updatedAt": "2026-02-24T23:29:52.497Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d3cd321bdc31b18e061f77c4d0c290f02c1cc23346bf8217c50c5f52d92ff0ca",
+        "langs": {
+          "es": {
+            "translatedHash": "075d37bfe88f38a195892d81e1cc088117b3266361f2d578ea736243f30239d2",
+            "updatedAt": "2026-02-24T23:29:53.104Z"
+          },
+          "pl": {
+            "translatedHash": "75f6f63538e80ef402b42f2872b7e70d1d10e2b9fe94407770a7fc7b109176d2",
+            "updatedAt": "2026-02-24T23:29:54.441Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "94fa58cb7fc6d6e09f89d8491fac9e1ab5f242359d5a73a370c885378142bb3e",
+        "langs": {
+          "es": {
+            "translatedHash": "e93803d5ca6da62359392b196754a12c388bf6bddf1eb879a8729b98a2fbe8f6",
+            "updatedAt": "2026-02-24T23:29:55.552Z"
+          },
+          "pl": {
+            "translatedHash": "15f12628a9e372b67a9f848e916f905467ca1ce1089d4da937742daec3d57b77",
+            "updatedAt": "2026-02-24T23:29:56.904Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e5389f0e5bb9599061bd53a48afc5806432ec104aeaed9975efeae8b750c4cd9",
+        "langs": {
+          "es": {
+            "translatedHash": "4c12f165f6598bae45ee4ff6ac1a31a82fc56875d894869cfc0041108af7bb7b",
+            "updatedAt": "2026-02-24T23:29:58.985Z"
+          },
+          "pl": {
+            "translatedHash": "a89c8d8beb2d22fe8c46526450feb95dae667defbd380af10c8c9ea8cff36f50",
+            "updatedAt": "2026-02-24T23:30:00.474Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Faustino",
+  "name_pl": "Święty Faustyn",
+  "feast_es": "El Veintidós de Mayo",
+  "feast_pl": "Dwudziesty drugi dzień maja",
+  "summary_es": "San Faustino puede referirse a: mártir del siglo II  \nFaustinus de Brescia, siglo IV  \nSimplicio, Faustino y Beatriz, siglo IV",
+  "summary_pl": "Święty Faustyn może odnosić się do:  \nmęczennika z II wieku  \nFaustyna z Brescii, IV wiek  \nSimplicjusza, Faustyna i Beatrix, IV wiek",
+  "biography_es": "Mártir del siglo II (ver Faustinus y Jovita)  \nFaustinus de Brescia, siglo IV  \nSimplicio, Faustinus y Beatriz, siglo IV",
+  "biography_pl": "Męczennik II wieku (zobacz Faustinus i Jovita)  \nFaustin z Brescii, IV wiek  \nSimplicjusz, Faustin i Beatrix, IV wiek"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "03-16_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-16",
+  "feast": "The Sixteenth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:54:24.788Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:54:25.654Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "144b973b902ce4ceaf51f235eedc7049462ae7710f2692ba006d31c160797863",
+        "langs": {
+          "es": {
+            "translatedHash": "d3516cf7a273d9a035f999fadfe44565b1b5256df7306a1409f2e09d212e7da8",
+            "updatedAt": "2026-02-24T22:54:26.323Z"
+          },
+          "pl": {
+            "translatedHash": "eaffd8cc5f02b32f8dddd730ac0b5da637d890949d694f4c86c5718985cb736f",
+            "updatedAt": "2026-02-24T22:54:27.286Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día dieciséis de marzo",
+  "feast_pl": "Szesnasty Dzień Marca"
+}

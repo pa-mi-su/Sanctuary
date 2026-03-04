@@ -1,0 +1,48 @@
+{
+  "id": "11-02_all_souls_day_commemoration",
+  "name": "All Souls Day—Commemoration",
+  "mmdd": "11-02",
+  "feast": "The Second Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/All_Souls_Day_(film)"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-02_all_souls_day_commemoration.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "567d40bde83eaa4e6ef6568397695b5d9a330b648ac50fd4131eee9d93256086",
+        "langs": {
+          "es": {
+            "translatedHash": "fa0371faf71561e4206d7343b40fb58ab6cac5faa662e446614765fc774d096b",
+            "updatedAt": "2026-02-25T01:00:14.957Z"
+          },
+          "pl": {
+            "translatedHash": "9ddb9f2b67ab8edc17abd33ab8bd5a14f4cb0d4b5884460ea3d34482421eb8f4",
+            "updatedAt": "2026-02-25T01:00:15.762Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4792121755e45fc71a694d13f2a0f4b5cea4bb6dc0718b436da0b03ac81bc3ba",
+        "langs": {
+          "es": {
+            "translatedHash": "3f9812b21e6d6656cf5d1668c099bf06812bb59df56a87ca08007d64f3aa1d48",
+            "updatedAt": "2026-02-25T01:00:16.976Z"
+          },
+          "pl": {
+            "translatedHash": "fa982cf56e899a042fd3b35e148964e6e1f4ac51fa2b90c20d058f63c0f9b692",
+            "updatedAt": "2026-02-25T01:00:17.533Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Día de los Fieles Difuntos—Conmemoración",
+  "name_pl": "Dzień Zaduszny — Wspomnienie",
+  "feast_es": "El Segundo Día de Noviembre",
+  "feast_pl": "Drugi dzień listopada"
+}

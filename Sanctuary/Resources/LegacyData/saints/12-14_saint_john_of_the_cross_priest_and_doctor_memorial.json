@@ -1,0 +1,48 @@
+{
+  "id": "12-14_saint_john_of_the_cross_priest_and_doctor_memorial",
+  "name": "Saint John of the Cross, Priest and Doctor—Memorial",
+  "mmdd": "12-14",
+  "feast": "The Fourteenth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_the_Cross"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-14_saint_john_of_the_cross_priest_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7c96a179a8c93d2ea45067be6db653a1f90555d36c273899e5c2f860f8c6a9ec",
+        "langs": {
+          "es": {
+            "translatedHash": "a19d9022f1d4202d5e3d0be0886126010300158b040b969ab24b0b21e1425e5e",
+            "updatedAt": "2026-02-25T01:26:29.501Z"
+          },
+          "pl": {
+            "translatedHash": "e032a1a79bb9575cbb762886c72a657669627cc964171b0f598a1790b4087d6c",
+            "updatedAt": "2026-02-25T01:26:30.534Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b049a592c6fdcdde86e6d188a8d64a4a983949f7aad3d53e5d51359ac3638555",
+        "langs": {
+          "es": {
+            "translatedHash": "9bee1c6538124f427742c883ae2087d426fba2a07be0f1ef982ee96252fb26d7",
+            "updatedAt": "2026-02-25T01:26:31.360Z"
+          },
+          "pl": {
+            "translatedHash": "b00a6020b6dec762b6c7d0bc892ea7dcfa63d69b1f34fc17bd106db419d9f141",
+            "updatedAt": "2026-02-25T01:26:31.941Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de la Cruz, Presbítero y Doctor—Memoria",
+  "name_pl": "Święty Jan od Krzyża, Kapłan i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El día catorce de diciembre",
+  "feast_pl": "Czternasty dzień grudnia"
+}

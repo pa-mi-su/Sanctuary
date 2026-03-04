@@ -1,0 +1,46 @@
+{
+  "id": "09-06_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "09-06",
+  "feast": "The Sixth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:26:35.895Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-25T00:26:37.081Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ec35a3a74678d6a470c19944c6490d77100db28ac95ae4fda4f3f42902801cc",
+        "langs": {
+          "es": {
+            "translatedHash": "a8180df953eeee9a178643c02c1348feb320396d16b413997d5967a6401477e8",
+            "updatedAt": "2026-02-25T00:26:37.978Z"
+          },
+          "pl": {
+            "translatedHash": "309a577d5a2587cbe3cff6c978f5b0a7769ea72bbe8ca28fc7f920bc98695e32",
+            "updatedAt": "2026-02-25T00:26:38.650Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El Sexto Día de Septiembre",
+  "feast_pl": "Szósty dzień września"
+}

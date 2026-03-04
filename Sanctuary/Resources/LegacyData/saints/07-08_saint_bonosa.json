@@ -1,0 +1,79 @@
+{
+  "id": "07-08_saint_bonosa",
+  "name": "Saint Bonosa",
+  "mmdd": "07-08",
+  "feast": "The Eighth Day of July",
+  "summary": "Saint Bonosa is venerated in Christian tradition as an early martyr, with devotion especially preserved in Italian and local liturgical memory. Historical records are limited, but her cult reflects enduring reverence for witness under persecution.",
+  "biography": "The surviving documentation for Saint Bonosa is fragmentary and often comes from later martyrological compilations rather than contemporary records. In these sources she is honored as a martyr of the early Church, and her name appears in devotional calendars that preserve memory of lesser-documented saints. While historians cannot reconstruct a detailed biography with certainty, Bonosa's commemoration continues the Church's practice of remembering those whose faithfulness and sacrifice shaped Christian memory at the local level.",
+  "prayers": [],
+  "sources": [
+    "https://catholicsaints.info/roman-martyrology-july-8th/",
+    "https://en.wikipedia.org/wiki/Martyrology"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-08_saint_bonosa.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ed1eeb764763cac9f8c7448d363a24cb256abad5553dbe457c9c0dc730ba6f57",
+        "langs": {
+          "es": {
+            "translatedHash": "86805f133c9342f0ce4cc29dfa7ae55383eb4f9cff475c42354473e4bffa32be",
+            "updatedAt": "2026-02-24T23:54:36.880Z"
+          },
+          "pl": {
+            "translatedHash": "0c06dfd78e7cb44446dfcebef27ff7ae909a784c6a781f60992f145941eca574",
+            "updatedAt": "2026-02-24T23:54:37.432Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b8ef1b4b6196bafdeecd5d86dc5ab07e1215a9eec9ee430fe604b96c9510526e",
+        "langs": {
+          "es": {
+            "translatedHash": "805c7785ad014d21adf94d6168bf0d1d19fd32e1ec0adc04f410111dd67a3230",
+            "updatedAt": "2026-02-24T23:54:37.893Z"
+          },
+          "pl": {
+            "translatedHash": "45e1a76af8994a24a43eade240c7750946b2cb17e06a05bd85248f17a0c4ad8b",
+            "updatedAt": "2026-02-24T23:54:38.379Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4535419802bc7c69c7fa62d4b15266e1fadd4371dcabbfdbe85378a07287eeff",
+        "langs": {
+          "es": {
+            "translatedHash": "29ee97e5c50fea79270b726bf0b5b56ef49c8f80fb15105f9519ebf64b898e44",
+            "updatedAt": "2026-02-24T23:54:39.612Z"
+          },
+          "pl": {
+            "translatedHash": "4dd142c72e43551b7cb98b8453ee94702c89a4eb51bfc57488681c92aa27a19c",
+            "updatedAt": "2026-02-24T23:54:41.996Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "885d994744044e9217c66d9527226f4568863bb460d553f5a0005b81259c7bbb",
+        "langs": {
+          "es": {
+            "translatedHash": "41fb5c10ff128ec4cc1031346bb1302bec8c248f04b4e5cf59219f855c6e0dc6",
+            "updatedAt": "2026-02-24T23:54:44.041Z"
+          },
+          "pl": {
+            "translatedHash": "48935db7e96a41001206bdcc93c085434446cb9d64405787b9d5ee9da6600033",
+            "updatedAt": "2026-02-24T23:54:48.444Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Bonosa",
+  "name_pl": "Święta Bonosa",
+  "feast_es": "El octavo día de julio",
+  "feast_pl": "Ósmy dzień lipca",
+  "summary_es": "Santa Bonosa es venerada en la tradición cristiana como una mártir temprana, con una devoción especialmente preservada en la memoria litúrgica italiana y local. Los registros históricos son limitados, pero su culto refleja una reverencia perdurable por el testimonio bajo la persecución.",
+  "summary_pl": "Święta Bonosa jest czczona w tradycji chrześcijańskiej jako wczesna męczennica, z nabożeństwem szczególnie zachowanym we włoskiej i lokalnej pamięci liturgicznej. Zapisy historyczne są ograniczone, ale jej kult odzwierciedla trwały szacunek dla świadectwa pod prześladowaniem.",
+  "biography_es": "La documentación sobreviviente de Santa Bonosa es fragmentaria y a menudo proviene de compilaciones martirológicas posteriores en lugar de registros contemporáneos. En estas fuentes, ella es honrada como una mártir de la Iglesia primitiva, y su nombre aparece en calendarios devocionales que preservan la memoria de santos menos documentados. Aunque los historiadores no pueden reconstruir una biografía detallada con certeza, la conmemoración de Bonosa continúa la práctica de la Iglesia de recordar a aquellos cuya fidelidad y sacrificio moldearon la memoria cristiana a nivel local.",
+  "biography_pl": "Zachowana dokumentacja dotycząca świętej Bonozy jest fragmentaryczna i często pochodzi z późniejszych kompilacji martyrologicznych, a nie z ówczesnych zapisów. W tych źródłach jest czczona jako męczennica wczesnego Kościoła, a jej imię pojawia się w kalendarzach nabożeństw, które zachowują pamięć o mniej udokumentowanych świętych. Choć historycy nie są w stanie z pewnością odtworzyć szczegółowej biografii, wspomnienie Bonozy kontynuuje praktykę Kościoła polegającą na pamiętaniu tych, których wierność i poświęcenie ukształtowały chrześcijańską pamięć na poziomie lokalnym."
+}

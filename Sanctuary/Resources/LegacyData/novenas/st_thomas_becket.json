@@ -1,0 +1,266 @@
+{
+  "id": "st_thomas_becket",
+  "title": "St Thomas Becket Novena",
+  "description": "St Thomas Becket was an English Archbishop of Canterbury martyred in 1170. He is the patron saint of Exeter college, Oxford, Portsmouth, Arbroath Abbey, secular clergy, City of London, and Canterbury Cathedral.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Thomas Becket"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-thomas-becket-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir conforme a la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…). Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y existamos. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki święty Tomaszu, biskupie, kapłanie, męczenniku i ofiarna baranku za wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Jesteśmy pewni, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomaszu Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir según la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…) Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y tengamos nuestro ser. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki Święty Tomaszu, Biskupie, Kapłanie, Męczenniku i ofiarna Baranku za Wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, tak jak Ty byłeś. Niech zawsze szukamy Świętej Woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomasz Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir conforme a la luz que tu ejemplo da a nuestra conciencia. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…). Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y existamos. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki Święty Tomaszu, Biskupie, Kapłanie, Męczenniku i ofiarna Baranku za Wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, tak jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i trwać. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomasz Becket, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir según la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…) Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y tengamos nuestro ser. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki święty Tomaszu, biskupie, kapłanie, męczenniku i ofiarna baranku za wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomasz Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir conforme a la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…) Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y existamos. Amén.\n\nPadre Nuestro Ave María Gloria Sea Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki Święty Tomaszu, Biskupie, Kapłanie, Męczenniku i ofiarna Baranku za Wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomaszu Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir conforme a la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…) Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y tengamos nuestro ser. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki święty Tomaszu, biskupie, kapłanie, męczenniku i ofiarna baranku za Wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, tak jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomasz Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir conforme a la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para ser sanados tanto en vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí...) Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y existamos. Amén.\n\nPadre Nuestro Ave María Gloria Sea Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki Święty Tomaszu, Biskupie, Kapłanie, Męczenniku i ofiarna Baranku za Wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, żyjąc zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomaszu Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir según la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para sanación tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…) Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y tengamos nuestro ser. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki święty Tomaszu, biskupie, kapłanie, męczenniku i ofiarna baranku za wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, tak jak Ty byłeś. Niech zawsze szukamy świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i mieć istnienie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomasz Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGreat Saint Thomas, Bishop, Priest, Martyr, and sacrificial lamb for the Faith, pray for us. You who were a fearless Shepherd of the people of God, pray for us to have courage in all the circumstances of our lives, to living according to the light that your example gives to our consciences. May we be faithful unto death, as you were. May we always seek God’s Holy will in our lives. Saint Thomas, many were brought to you for healing both in your lifetime and especially after your martyrdom, please hear and accept my prayers for (mention request here…) We are confident that you who now stand before God’s Holy Throne will intercede for us and draw us closer to Christ. St Thomas pray for us that in Him, and with Him, we may live and move and have our being. Amen.\n\nOur Father Hail Mary Glory Be St Thomas Becket, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGran Santo Tomás, Obispo, Sacerdote, Mártir y cordero sacrificial por la Fe, ruega por nosotros. Tú que fuiste un Pastor valiente del pueblo de Dios, ruega por nosotros para que tengamos valor en todas las circunstancias de nuestra vida, para vivir según la luz que tu ejemplo da a nuestras conciencias. Que seamos fieles hasta la muerte, como tú lo fuiste. Que siempre busquemos la Santa voluntad de Dios en nuestras vidas. Santo Tomás, muchos acudieron a ti para sanación tanto en tu vida como especialmente después de tu martirio, por favor escucha y acepta mis oraciones por (mencionar la petición aquí…). Confiamos en que tú, que ahora estás ante el Santo Trono de Dios, intercederás por nosotros y nos acercarás más a Cristo. Santo Tomás, ruega por nosotros para que en Él, y con Él, vivamos, nos movamos y existamos. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santo Tomás Becket, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWielki święty Tomaszu, biskupie, kapłanie, męczenniku i ofiarna baranku za Wiarę, módl się za nami. Ty, który byłeś nieustraszonym Pasterzem ludu Bożego, módl się za nami, abyśmy mieli odwagę we wszystkich okolicznościach naszego życia, aby żyć zgodnie ze światłem, które Twój przykład daje naszym sumieniom. Niech będziemy wierni aż do śmierci, tak jak Ty byłeś. Niech zawsze szukamy Świętej woli Bożej w naszym życiu. Święty Tomaszu, wielu przychodziło do Ciebie po uzdrowienie zarówno za Twojego życia, jak i szczególnie po Twoim męczeństwie, proszę, wysłuchaj i przyjmij moje modlitwy o (wymień prośbę tutaj…) Ufamy, że Ty, który teraz stoisz przed Świętym Tronem Bożym, wstawisz się za nami i przybliżysz nas do Chrystusa. Święty Tomaszu, módl się za nami, abyśmy w Nim i z Nim mogli żyć, poruszać się i istnieć. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Tomaszu Becket, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_thomas_becket.jpg",
+  "sourceFacts": {
+    "starts": "December 20Feastday:December 29Birth:1119Death:1170Patron saint of Exeter college, Oxford, Portsmouth, Arbroath Abbey, secular clergy, City of London, and Canterbury Cathedral 📱",
+    "feast": "December 29Birth:1119Death:1170Patron saint of Exeter college, Oxford, Portsmouth, Arbroath Abbey, secular clergy, City of London, and Canterbury Cathedral 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "5ad3df2c9c49be3623ff45b6af056f050e08f4e504e801e54b8788ed1328a942",
+        "langs": {
+          "es": {
+            "translatedHash": "3043b024541bf7de8dbc0d5c20636e4f175291761ca63682d1ac839d125fe88e",
+            "updatedAt": "2026-02-25T18:18:18.887Z"
+          },
+          "pl": {
+            "translatedHash": "2f9b98a8185d57d0288826175790dfbb9ad3d8694e8504cf009db52586d3fb05",
+            "updatedAt": "2026-02-25T18:18:19.683Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "242c842f9290ff1ea9f2d1a0896873fe6bc1ee49f89d46c6e1d7753641b1a13f",
+        "langs": {
+          "es": {
+            "translatedHash": "a7f7cb347dff2b762f8f5df7e7e020ef4d933484d30e22066de1c6b9c4a118f5",
+            "updatedAt": "2026-02-25T18:18:21.094Z"
+          },
+          "pl": {
+            "translatedHash": "1e879ad6df623054ff1b781baec1fe2b1d2422dba7fe3bc5c34536b500295499",
+            "updatedAt": "2026-02-25T18:18:22.462Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "a92f8acfb36ae9414f82dff1b5dc2e9b35687e3a97a95dc805a3f0b796eb928e",
+        "langs": {
+          "es": {
+            "translatedHash": "483f5ce5cb993c87a46ab002034997828cb483749594c39617774e22df207e24",
+            "updatedAt": "2026-02-25T18:18:26.042Z"
+          },
+          "pl": {
+            "translatedHash": "207da8bfc4ffdabe54bb4fb6e5b08c30de58b7005e9990073b5cce2abee2d25f",
+            "updatedAt": "2026-02-25T18:18:30.693Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "94651f68426cce3e0e3ea5e4cecfba5ec072a0ebe57e537f0c548b44f277ba44",
+        "langs": {
+          "es": {
+            "translatedHash": "c59dd2f8a71170fdcc3d616325565f2a84ef65ebb287c718e7e0ad3914e51780",
+            "updatedAt": "2026-02-25T18:18:36.651Z"
+          },
+          "pl": {
+            "translatedHash": "8adcc89e79158a35ed63b850e61fb6354e0e0a8a6f643ef7d8963c51237454c9",
+            "updatedAt": "2026-02-25T18:18:41.977Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "99551249fae17605d1c0efad7722caa2bc330915ba0a2ac55acec68a04757588",
+        "langs": {
+          "es": {
+            "translatedHash": "b3ca2eaf3b491e20d027dbf8d3796ff95f0f30a8aa2d5122ca58e233ef24f107",
+            "updatedAt": "2026-02-25T18:18:45.855Z"
+          },
+          "pl": {
+            "translatedHash": "9ced06b74740ee1dde275f7d4a87758d16e95fb1be25347c97842a3de3e8a578",
+            "updatedAt": "2026-02-25T18:18:51.409Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "cd0f361acd545081cbde25cd190979db84693299a872de7828cf37c00bb7d165",
+        "langs": {
+          "es": {
+            "translatedHash": "c59dd2f8a71170fdcc3d616325565f2a84ef65ebb287c718e7e0ad3914e51780",
+            "updatedAt": "2026-02-25T18:18:55.125Z"
+          },
+          "pl": {
+            "translatedHash": "4d4ad0ef85cdc0224f7feb726d9fc5b33147eb26004104ae1e6982b041fce07d",
+            "updatedAt": "2026-02-25T18:19:01.209Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "5d744cb8b06a40680980b9d52fcd126c84254755bac5b94c95956082b041dbf4",
+        "langs": {
+          "es": {
+            "translatedHash": "07ba6a689024b3c569ae9178ae2622d48647c761e35be4233ccb161fb9394d7a",
+            "updatedAt": "2026-02-25T18:19:05.462Z"
+          },
+          "pl": {
+            "translatedHash": "22e02d5a64107f05cad1ceea0f5ade3816256e90865ee8c70f4551beb4d94fcd",
+            "updatedAt": "2026-02-25T18:19:10.312Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "f245f5468a6f5c5c2800a1d2dcccc96a564b6eca23e1756fa3b4e30d15520c20",
+        "langs": {
+          "es": {
+            "translatedHash": "7934e0079db05fd07ebeb018699d628fbca7d89a17b2720b4003fcb1e4d90260",
+            "updatedAt": "2026-02-25T18:19:16.057Z"
+          },
+          "pl": {
+            "translatedHash": "3c718f9947c8688b9733841cb49a22f94513821c563cd11821a8fde6fa7d49a3",
+            "updatedAt": "2026-02-25T18:19:20.238Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "530a6a78d144f2e7253fed4694e75306e4c30ab7f7dc5679f1c0022b24bcaf5b",
+        "langs": {
+          "es": {
+            "translatedHash": "2327b1bf525fbf5731843daebca3e9f63875b159092f29bcdbcf7994775f1f03",
+            "updatedAt": "2026-02-25T18:19:24.375Z"
+          },
+          "pl": {
+            "translatedHash": "ce9433a26c2fb92194317b7a495bdbba853cba8b99514cf90800c11f626f9a27",
+            "updatedAt": "2026-02-25T18:19:29.955Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "705495fe7c4e4b38d21bfd022954a58b5e5904d4aee8b2b74d99f5f6fb495664",
+        "langs": {
+          "es": {
+            "translatedHash": "b0b4e76b50009ad45ec307a524c211a315e0ccc55990fea90bd6ab73ff6d0b84",
+            "updatedAt": "2026-02-25T18:19:34.136Z"
+          },
+          "pl": {
+            "translatedHash": "2e4d975a4398aa248a7a9d481bb67a1fe1cd59ead3e16edfe5e84b65fe5eaef6",
+            "updatedAt": "2026-02-25T18:19:45.943Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "2e02d013f2fb5190768c2a33742e804ddb09786ecd48e1adba0f45d234eb4feb",
+        "langs": {
+          "es": {
+            "translatedHash": "8efd67700d00ae3aa88f91b0325ec75c429c1ee3e2dda552d4182c8e1a776978",
+            "updatedAt": "2026-02-25T18:19:49.642Z"
+          },
+          "pl": {
+            "translatedHash": "6014ce7e8c4c4266d6799404448a9cfa43c1179a94780f9a0111bbfae279d5c0",
+            "updatedAt": "2026-02-25T18:19:55.665Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santo Tomás Becket",
+  "title_pl": "Nowenna do św. Tomasza Becketa",
+  "description_es": "Santo Tomás Becket fue un arzobispo inglés de Canterbury martirizado en 1170. Es el santo patrón del Exeter College, Oxford, Portsmouth, la Abadía de Arbroath, el clero secular, la Ciudad de Londres y la Catedral de Canterbury.",
+  "description_pl": "Św. Tomasz Becket był angielskim arcybiskupem Canterbury, męczennikiem z 1170 roku. Jest patronem Exeter College w Oksfordzie, Portsmouth, opactwa Arbroath, duchowieństwa świeckiego, City of London oraz katedry w Canterbury."
+}

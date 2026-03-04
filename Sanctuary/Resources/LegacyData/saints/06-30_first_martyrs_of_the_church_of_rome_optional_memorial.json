@@ -1,0 +1,48 @@
+{
+  "id": "06-30_first_martyrs_of_the_church_of_rome_optional_memorial",
+  "name": "First Martyrs of the Church of Rome—Optional Memorial",
+  "mmdd": "06-30",
+  "feast": "The Thirtieth day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calendar_of_saints"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-30_first_martyrs_of_the_church_of_rome_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a92455985a2da3019579f1c8cc1a3f98fd8199578e906c9103d69833e133ac1f",
+        "langs": {
+          "es": {
+            "translatedHash": "6c1f92b23196e3f5a73a24f52f4561803192a856ccc42aab72919b803e0732f7",
+            "updatedAt": "2026-02-24T23:50:49.706Z"
+          },
+          "pl": {
+            "translatedHash": "e0a6496538504eb1acc2e3043a8b18152cb3ed5401024bd73dc3395af5766ffb",
+            "updatedAt": "2026-02-24T23:50:50.571Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d9cc13f40490602d62e3c18402567ed9926bd9495feb31763faf350038ad49cd",
+        "langs": {
+          "es": {
+            "translatedHash": "383f1b5f89711d7169dc1cbf03a8d99151d6a8843ae6c87873a094877cbeb6d3",
+            "updatedAt": "2026-02-24T23:50:51.057Z"
+          },
+          "pl": {
+            "translatedHash": "ed4e285abf8a4556e067386505f9c1bc05fc0596155c8536f41b6fe31cea4046",
+            "updatedAt": "2026-02-24T23:50:51.721Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Primeros Mártires de la Iglesia de Roma—Memoria Opcional",
+  "name_pl": "Pierwsi Męczennicy Kościoła Rzymskiego — Wspomnienie dowolne",
+  "feast_es": "El día treinta de junio",
+  "feast_pl": "Trzydziesty dzień czerwca"
+}

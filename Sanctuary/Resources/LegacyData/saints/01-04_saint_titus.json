@@ -1,0 +1,81 @@
+{
+  "id": "01-04_saint_titus",
+  "name": "Saint Titus",
+  "mmdd": "01-04",
+  "feast": "The Fourth Day of January",
+  "summary": "Titus was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.",
+  "biography": "Titus ( TY-təs; Ancient Greek: Τίτος, Títos) was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.\nTitus brought a fundraising letter from Paul to Corinth, to collect for the poor in Jerusalem. According to Jerome, Titus was the amanuensis of this epistle (2 Corinthians). Later, on Crete, Titus appointed presbyters (elders) in every city and remained there into his old age, dying in Gortyna.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Titus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-04_saint_titus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "11e5398f7330765f8f8d68f63f2f3c61c52234c83eb280b6c164c834d20feb25",
+        "langs": {
+          "es": {
+            "translatedHash": "7412ad64628c4de1dc17b9f92bfdd2de48855fdf656ce048f7561d2dd67b9cba",
+            "updatedAt": "2026-02-24T22:06:25.270Z"
+          },
+          "pl": {
+            "translatedHash": "52d8c01e2d3bc41ef23da5b015b65f985a66862716fd092df336f4de74b9f454",
+            "updatedAt": "2026-02-24T22:06:25.738Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "dbba3e9e2a887b9432f9a3efd99c3d5d055d1e50f703d7fb2929253ac1c3f513",
+        "langs": {
+          "es": {
+            "translatedHash": "371b1d472a843c5172341854d5bdb291c8b9c092e233ff974357b7277ef1811c",
+            "updatedAt": "2026-02-24T22:06:26.414Z"
+          },
+          "pl": {
+            "translatedHash": "1b249d65f6c1833cd9ea478c1d384d74acdfe33b284878b06c25d8cf7a7893d1",
+            "updatedAt": "2026-02-24T22:06:27.083Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8be7a58112f9ad9c72ce613ac729dd908243c4196c8eca220e344ef0ad8a06ac",
+        "langs": {
+          "es": {
+            "translatedHash": "2d4ee80bfa369354cf4e3e9b61408e686924af0b36d1257ebf1d0277078648a0",
+            "updatedAt": "2026-02-24T22:06:29.101Z"
+          },
+          "pl": {
+            "translatedHash": "1a2385419758b2f28e626e366dfa3485cda59d354a54f7a5019eb52aed19be04",
+            "updatedAt": "2026-02-24T22:06:31.248Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e6f0fa062c917f53512ca77bc3c4b588f9995926598368de19d728df40372442",
+        "langs": {
+          "es": {
+            "translatedHash": "cc3dfc694c1e0cefc365ddffa0395508fbedd7de1c98f4c8f75c611e5227ad93",
+            "updatedAt": "2026-02-24T22:06:34.266Z"
+          },
+          "pl": {
+            "translatedHash": "e98cef495fd2fb44411d6ec4af482e9f78687aa103b1a3d1d9b37bea00ec1e77",
+            "updatedAt": "2026-02-24T22:06:38.069Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Tito",
+  "name_pl": "Święty Tytus",
+  "feast_es": "El Cuarto Día de Enero",
+  "feast_pl": "Czwarty dzień stycznia",
+  "summary_es": "Tito fue un misionero cristiano temprano y líder de la iglesia, compañero y discípulo del apóstol Pablo, mencionado en varias de las epístolas paulinas, incluida la Epístola a Tito. Se cree que fue un gentil convertido al cristianismo por Pablo y, según la tradición, fue consagrado como obispo de la isla de Creta.",
+  "summary_pl": "Tytus był wczesnym chrześcijańskim misjonarzem i przywódcą kościelnym, towarzyszem i uczniem apostoła Pawła, wspomnianym w kilku listach Pawłowych, w tym w Liście do Tytusa. Uważa się, że był poganinem nawróconym na chrześcijaństwo przez Pawła i według tradycji został konsekrowany na biskupa wyspy Krety.",
+  "biography_es": "Tito (TI-tos; griego antiguo: Τίτος, Títos) fue un misionero cristiano temprano y líder de la iglesia, compañero y discípulo del apóstol Pablo, mencionado en varias de las epístolas paulinas, incluida la Epístola a Tito. Se cree que fue un gentil convertido al cristianismo por Pablo y, según la tradición, fue consagrado como obispo de la isla de Creta.  \nTito llevó una carta de recaudación de fondos de Pablo a Corinto, para recoger para los pobres en Jerusalén. Según Jerónimo, Tito fue el amanuense de esta epístola (2 Corintios). Más tarde, en Creta, Tito nombró presbíteros (ancianos) en cada ciudad y permaneció allí hasta su vejez, muriendo en Gortina.",
+  "biography_pl": "Tytus (TY-təs; starożytna greka: Τίτος, Títos) był wczesnym chrześcijańskim misjonarzem i przywódcą kościelnym, towarzyszem i uczniem apostoła Pawła, wspomnianym w kilku listach Pawłowych, w tym w Liście do Tytusa. Uważa się, że był poganinem nawróconym na chrześcijaństwo przez Pawła i według tradycji został konsekrowany na biskupa wyspy Krety.  \nTytus przyniósł z Pawłem list zbierający fundusze w Koryncie, aby zebrać na rzecz ubogich w Jerozolimie. Według Hieronima, Tytus był amanuensem tego listu (2 List do Koryntian). Później, na Krecie, Tytus mianował prezbiterów (starszych) w każdym mieście i pozostał tam aż do starości, umierając w Gortynie."
+}

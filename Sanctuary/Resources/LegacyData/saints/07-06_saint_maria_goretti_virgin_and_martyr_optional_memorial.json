@@ -1,0 +1,48 @@
+{
+  "id": "07-06_saint_maria_goretti_virgin_and_martyr_optional_memorial",
+  "name": "Saint Maria Goretti, Virgin and Martyr—Optional Memorial",
+  "mmdd": "07-06",
+  "feast": "The Sixth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-06_saint_maria_goretti_virgin_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "929233d9889aac7d10e21e22f7e4d4ba29cae4d9b0514ca1bc45cd60cafcfd6a",
+        "langs": {
+          "es": {
+            "translatedHash": "eeed11dbc4903ec5608aebc35de90787b690fc386ee7773fe87df4e44e498cf4",
+            "updatedAt": "2026-02-24T23:53:45.352Z"
+          },
+          "pl": {
+            "translatedHash": "5997dd96a5ecb0a6fe9059a201194150f17882093e531e9aaf3304385e51af92",
+            "updatedAt": "2026-02-24T23:53:46.275Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3e375dc34c6b792ffaf75fb278866cafa48ce3d1526146221f0c9c46f1062ed8",
+        "langs": {
+          "es": {
+            "translatedHash": "a9ece704af8d32a660aeaf96fb6fda1dd6352ab0fd8d7d640fc2f2e3271e59ce",
+            "updatedAt": "2026-02-24T23:53:46.896Z"
+          },
+          "pl": {
+            "translatedHash": "8053517278b8debd14928979428183d3f5ff0c5dfeb486946ceee9ff1ccd3e4d",
+            "updatedAt": "2026-02-24T23:53:47.637Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Goretti, Virgen y Mártir—Memoria Opcional",
+  "name_pl": "Święta Maria Goretti, Dziewica i Męczennica — Wspomnienie dowolne",
+  "feast_es": "El Sexto Día de Julio",
+  "feast_pl": "Szósty dzień lipca"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "02-15_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "02-15",
+  "feast": "The Fifteenth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:35:57.182Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:35:57.892Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "85c9dfab6cc48ae768d639a0c66f5bbd23912804a8d9f71d72d206dc9eb0678f",
+        "langs": {
+          "es": {
+            "translatedHash": "e0f04c0d3d77f71eb2b29e3ddacc3d135b236a86d0ee14d6cfaf9f7a7b325dff",
+            "updatedAt": "2026-02-24T22:35:58.547Z"
+          },
+          "pl": {
+            "translatedHash": "ac70c8c31c787b8fab7013d562c8075775b4dd9f99c63dfc77bb191c8e513382",
+            "updatedAt": "2026-02-24T22:35:59.072Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Quince de Febrero",
+  "feast_pl": "Piętnasty dzień lutego"
+}

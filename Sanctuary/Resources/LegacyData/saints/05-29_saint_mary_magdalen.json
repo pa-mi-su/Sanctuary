@@ -1,0 +1,79 @@
+{
+  "id": "05-29_saint_mary_magdalen",
+  "name": "Saint Mary Magdalen",
+  "mmdd": "05-29",
+  "feast": "The Twenty-Nineth Day of May",
+  "summary": "Magdalen College of the Liberal Arts was a private Catholic liberal arts college in Warner, New Hampshire, United States. The college opened in 1973. Enrollment never exceeded 90 students and it closed in May 2024.",
+  "biography": "History\n\n\nMagdalen College (1973–2010)\nCatholic laymen Francis Boucher, John...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Magdalen_College_of_the_Liberal_Arts",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-29_saint_mary_magdalen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "600448199d0b6230c15264ffe7132b69b228f9fdd27171ff7a450a20ff1ebabb",
+        "langs": {
+          "es": {
+            "translatedHash": "6c68814acff95de29fbb45cb0f70fe63f9fe6a04ba124c0ba901a1b0827c3094",
+            "updatedAt": "2026-02-24T23:33:07.671Z"
+          },
+          "pl": {
+            "translatedHash": "2b8d45d0a0ddfa4cb0d8465944f8c789dd0dbc13afa5c3b040e87a014e01e910",
+            "updatedAt": "2026-02-24T23:33:08.226Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cd1153c8ab5618a3a54f8a9049cb12fded468dd15acad980ba3992ac475e85c9",
+        "langs": {
+          "es": {
+            "translatedHash": "84cba35cde8a5300c44e6ce6bf995836f9ac0222a824c2d6ec68c808ae358ed9",
+            "updatedAt": "2026-02-24T23:33:08.983Z"
+          },
+          "pl": {
+            "translatedHash": "7da8ba609fb54e40738f2087a1db3241faa389a7b48525dd875fe2478d40cde9",
+            "updatedAt": "2026-02-24T23:33:09.479Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8177b43f59269053167af3aca7d7592460f499512d64cc932552151bfc6bade5",
+        "langs": {
+          "es": {
+            "translatedHash": "5a676f0cccdf53818f61191711f671c1f22ff6359c4894751e8877321f4fc5a5",
+            "updatedAt": "2026-02-24T23:33:10.596Z"
+          },
+          "pl": {
+            "translatedHash": "d6b7d91d6750fbecfc241f981998aaa30ab085e28c5a05fc10a21569882f71b1",
+            "updatedAt": "2026-02-24T23:33:12.196Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ead28488965b27572c8fb9fa9e7ed9b54318306ebeaf6d86f56ba55604ec545e",
+        "langs": {
+          "es": {
+            "translatedHash": "7b6dc5aacc8afd1731faad7da20f6fd4e2c72da54ca0ca948c40f1639c265835",
+            "updatedAt": "2026-02-24T23:33:13.032Z"
+          },
+          "pl": {
+            "translatedHash": "823c6e4236dfe6bfab2ba0c63cb4dd237ee8c426a3908bf04c53540d7f164db8",
+            "updatedAt": "2026-02-24T23:33:14.045Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Magdalena",
+  "name_pl": "Święta Maria Magdalena",
+  "feast_es": "El vigésimo noveno día de mayo",
+  "feast_pl": "Dwudziesty dziewiąty dzień maja",
+  "summary_es": "El Magdalen College of the Liberal Arts fue una universidad católica privada de artes liberales en Warner, New Hampshire, Estados Unidos. La universidad abrió en 1973. La matrícula nunca superó los 90 estudiantes y cerró en mayo de 2024.",
+  "summary_pl": "Magdalen College of the Liberal Arts było prywatnym katolickim kolegium sztuk wyzwolonych w Warner, New Hampshire, Stany Zjednoczone. Kolegium zostało otwarte w 1973 roku. Liczba studentów nigdy nie przekroczyła 90, a uczelnia została zamknięta w maju 2024 roku.",
+  "biography_es": "Historia\n\n\nMagdalen College (1973–2010)\nLaicos católicos Francis Boucher, John...",
+  "biography_pl": "Historia\n\n\nMagdalen College (1973–2010)\nKatoliccy świeccy Francis Boucher, John..."
+}

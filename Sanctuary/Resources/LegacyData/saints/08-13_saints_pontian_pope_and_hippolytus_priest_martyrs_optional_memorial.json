@@ -1,0 +1,48 @@
+{
+  "id": "08-13_saints_pontian_pope_and_hippolytus_priest_martyrs_optional_memorial",
+  "name": "Saints Pontian, Pope and Hippolytus, Priest, Martyrs—Optional Memorial",
+  "mmdd": "08-13",
+  "feast": "The Thirteenth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustina_Kowalska"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-13_saints_pontian_pope_and_hippolytus_priest_martyrs_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6b2b0c296ea46564e6e17288710b2297cbdc2fa7bbd77962961cc5c437ace71e",
+        "langs": {
+          "es": {
+            "translatedHash": "2388ffc8ebbbd97ff5bb1cd8fff533aff0633927b50b17bfb95fde221e5142f8",
+            "updatedAt": "2026-02-25T00:14:45.654Z"
+          },
+          "pl": {
+            "translatedHash": "d620684b3a2ab58034b31a557d17b793fe2f268dc09920bb6b88340ae9503181",
+            "updatedAt": "2026-02-25T00:14:46.627Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7e4c604ceaf5749149c09908d20923304885b4a985db21dfe23d743df50a7ce0",
+        "langs": {
+          "es": {
+            "translatedHash": "045678371bd9d76b493219e9b8d874451aad95e316dbbb0fbd3c5a379b0b3792",
+            "updatedAt": "2026-02-25T00:14:47.310Z"
+          },
+          "pl": {
+            "translatedHash": "d804b31befeecf35f16f4a1892b22c542624c7237d6be69296b0a64e80dcd004",
+            "updatedAt": "2026-02-25T00:14:47.887Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Pontiano, Papa, e Hipólito, Presbítero, Mártires—Memoria Opcional",
+  "name_pl": "Święci Pontian, papież, i Hipolit, prezbiter, męczennicy — wspomnienie dowolne",
+  "feast_es": "El Decimotercer Día de Agosto",
+  "feast_pl": "Trzynasty dzień sierpnia"
+}

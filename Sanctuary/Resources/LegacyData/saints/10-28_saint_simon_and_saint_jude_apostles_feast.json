@@ -1,0 +1,48 @@
+{
+  "id": "10-28_saint_simon_and_saint_jude_apostles_feast",
+  "name": "Saint Simon and Saint Jude, Apostles—Feast",
+  "mmdd": "10-28",
+  "feast": "The Twenty-Eighth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-28_saint_simon_and_saint_jude_apostles_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d7fd1b2ad98755e55f81ac6a65a43f9fdf3c6d2e2fc8174970b01cb9db60b6dd",
+        "langs": {
+          "es": {
+            "translatedHash": "ca65bab62aa0e8357f340e7efc8cccf2f453a789c4c05ac8b145034bf0a5a6d4",
+            "updatedAt": "2026-02-25T00:57:37.504Z"
+          },
+          "pl": {
+            "translatedHash": "58bfc133449f130c359d7e13e6f0717b13f24ae2dbabba2edc5539a1cf6cbc27",
+            "updatedAt": "2026-02-25T00:57:38.303Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5ac823fd4befab6bfdd4e990aeb7223db8904071d91648fa4da8aeddaff2f769",
+        "langs": {
+          "es": {
+            "translatedHash": "d678a5c749b77263c170e4cca950fc35864412d07d0c887cd6bb07079930db3d",
+            "updatedAt": "2026-02-25T00:57:39.099Z"
+          },
+          "pl": {
+            "translatedHash": "b304e7fe078a3ec0375d9fb03d82811b2965cb6642dc75bb5722e33962e9c0b3",
+            "updatedAt": "2026-02-25T00:57:39.924Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Simón y San Judas, Apóstoles—Fiesta",
+  "name_pl": "Święci Szymon i Juda, Apostołowie — Uroczystość",
+  "feast_es": "El Vigésimo Octavo Día de Octubre",
+  "feast_pl": "Dwudziesty ósmy dzień października"
+}

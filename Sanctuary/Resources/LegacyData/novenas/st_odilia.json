@@ -1,0 +1,266 @@
+{
+  "id": "st_odilia",
+  "title": "St Odilia Novena",
+  "description": "Saint Odilia is a virgin martyr from England from the 300s. Pray this novena for good eyesight.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Odilia"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 18
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-odilia-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te lo suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża oraz Patronkę oczu i cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy Cię także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…). Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech zostaniemy wysłuchani przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co jest najlepsze teraz i na wieki. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel, que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y por siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić nas z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech zostaniemy wysłuchani przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, i przez wstawiennictwo błogosławionej Dziewicy Maryi oraz Dziewicy Męczennicy św. Odilii. Daj nam to, co jest najlepsze teraz i na wieki. Ojcze Nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Opiekunkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowienia z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech nas wysłucha przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co najlepsze teraz i na wieki. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y para siempre. Padre Nuestro Ave María Gloria sea a Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech zostaniemy wysłuchani przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co najlepsze teraz i na wieki. Ojcze Nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencione la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża oraz Patronkę oczu i cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…). Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech zostaniemy wysłuchani przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co najlepsze teraz i na wieki. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y del pecado y ser curados de la ceguera de los ojos y de otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech zostaniemy wysłuchani przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co najlepsze teraz i na wieki. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, humildemente te lo suplicamos, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y para siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, któryś w swojej dobroci dał nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień prośbę tutaj…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech nas wysłucha przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co jest najlepsze teraz i na wieki. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, te suplicamos humildemente, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y del pecado y ser curados de la ceguera de los ojos y de otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y de la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień prośbę tutaj…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech zostaniemy wysłuchani przez zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz przez wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co jest najlepsze teraz i na wieki. Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu, św. Odilio, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO God, Who in Thy kindness did give us St. Odilia, Virgin and Martyr, as the Protectress of the Order of the Holy Cross and the Patroness of the eyes and afflicted, grant us, we humbly beseech Thee, to be protected, through her intercession, from the darkness of ignorance and sin and to be cured from the blindness of the eyes and other bodily infirmities. We also ask, in accordance with Thy will, for the grace of (mention request here…) Through Him, Who is the light and life of the world, Jesus Christ, Thy Son, Our Lord. Amen.\n\nHeavenly Father, we come to Thee trusting in Thy mercy. May we be heard through the merits of Thy Son, our Savior Jesus Christ, and through the intercession of the blessed Virgin Mary and the Virgin Martyr St. Odilia. Give us what is best now and forever. Our Father Hail Mary Glory Be St Odilia, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nI did novena of St. Odilia for my mother who was suffering from eye allergy for almost 3 months where her eyes would swelling up and would itch till the eyes turned red from scratching. After I completed the novena, it happened one more time but instead of getting disappointed I trusted in the Lord that He has healed my mother. Since then there is no swelling or itching in her eyes. Glory be to God and His servant St. Odilia.\n\nfrom S.B.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Dios, que en Tu bondad nos diste a Santa Odilia, Virgen y Mártir, como Protectora de la Orden de la Santa Cruz y Patrona de los ojos y de los afligidos, concédenos, te suplicamos humildemente, ser protegidos, por su intercesión, de la oscuridad de la ignorancia y el pecado y ser curados de la ceguera de los ojos y otras enfermedades corporales. También te pedimos, conforme a Tu voluntad, la gracia de (mencionar la petición aquí…) Por Aquel que es la luz y la vida del mundo, Jesucristo, Tu Hijo, Nuestro Señor. Amén.\n\nPadre Celestial, venimos a Ti confiando en Tu misericordia. Que seamos escuchados por los méritos de Tu Hijo, nuestro Salvador Jesucristo, y por la intercesión de la bienaventurada Virgen María y la Virgen Mártir Santa Odilia. Danos lo que es mejor ahora y siempre. Padre Nuestro Ave María Gloria al Padre Santa Odilia, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nBoże, który w swojej dobroci dałeś nam św. Odilię, Dziewicę i Męczennicę, jako Orędowniczkę Zakonu Świętego Krzyża i Patronkę oczu oraz cierpiących, racz nam, pokornie Cię błagamy, udzielić ochrony przez jej wstawiennictwo przed ciemnością niewiedzy i grzechu oraz uzdrowić z ślepoty oczu i innych dolegliwości ciała. Prosimy także, zgodnie z Twoją wolą, o łaskę (wymień tutaj prośbę…) Przez Tego, który jest światłością i życiem świata, Jezusa Chrystusa, Twojego Syna, Pana naszego. Amen.\n\nOjcze Niebieski, przychodzimy do Ciebie ufając w Twoje miłosierdzie. Niech nas wysłuchają zasługi Twojego Syna, naszego Zbawiciela Jezusa Chrystusa, oraz wstawiennictwo błogosławionej Dziewicy Maryi i Dziewicy Męczennicy św. Odilii. Daj nam to, co jest najlepsze teraz i na wieki. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Odilio, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "July 9Feastday:July 18Birth:270Death:300Patron saint of good eyesight 📱",
+    "feast": "July 18Birth:270Death:300Patron saint of good eyesight 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_odilia.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "11a86fbe3d6d5b43a98fd77649b3f56df718556ca70b7505ef3cd4b4732b48b5",
+        "langs": {
+          "es": {
+            "translatedHash": "2ca7b784dc270d2dd0517cd05665c89b05170f477e2e4652ad0dd011d60bc50b",
+            "updatedAt": "2026-02-25T17:20:35.092Z"
+          },
+          "pl": {
+            "translatedHash": "fbcd71e38882ee54a21e81767a00a682fead3c8e791cea3af0d3a9734ebd5e7c",
+            "updatedAt": "2026-02-25T17:20:35.708Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "c938937f10265692a1b3545d55bfeabf0ea2fb4d09aedfecfaa135aefcd3ce10",
+        "langs": {
+          "es": {
+            "translatedHash": "afdbac9f6f30a6120a9dd4384ee9b722b5f1b9357abdbe0a39a9c0e85266afca",
+            "updatedAt": "2026-02-25T17:20:36.511Z"
+          },
+          "pl": {
+            "translatedHash": "64e6913152687611b7ff92af48a2d81f26cd75ed18e0662c329fcf1e7d0d5768",
+            "updatedAt": "2026-02-25T17:20:38.380Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "531dd46aac484df88dbba1446c2f8d8628fbfafc0419de1a0b3d7061a8caa559",
+        "langs": {
+          "es": {
+            "translatedHash": "109aff6f7de3856b789441ced9b69275f43b65cf2590bb95700bb4dd4c08818e",
+            "updatedAt": "2026-02-25T17:20:43.663Z"
+          },
+          "pl": {
+            "translatedHash": "7ea08185215ac105cce50972e83deeaa1cee0053bc555c3248ab684c836c03bd",
+            "updatedAt": "2026-02-25T17:20:49.268Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "9cdf3875140123204487828b0a2b0fd9827311532bfadacd38873dee48f89242",
+        "langs": {
+          "es": {
+            "translatedHash": "be98d0727d6214ae93c8d8391396f33e5afb6baf0660595fb8365be1ff99f724",
+            "updatedAt": "2026-02-25T17:20:53.370Z"
+          },
+          "pl": {
+            "translatedHash": "4285f3f0ace5590636f3bb7c2b233b1955c18f24af2fe98ece7bbd560ea044bb",
+            "updatedAt": "2026-02-25T17:20:58.764Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "ff2193c81077fc536552d55ba71e5616f0c140b5fba2133027b9e9bda3d8d662",
+        "langs": {
+          "es": {
+            "translatedHash": "c098b1c7b38a48be4463cd681b6d8349c0e01537e35c81d483fbe68c4c419db3",
+            "updatedAt": "2026-02-25T17:21:02.751Z"
+          },
+          "pl": {
+            "translatedHash": "ce045840e2fc2ae0eaff7db25fbd2ff7bba609dfaa966bce60f4a1b8adbb04a2",
+            "updatedAt": "2026-02-25T17:21:08.338Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "bcc12f1490159a86df1bec39ad03f10773143c1596e5cc3dcb38009b10bf5304",
+        "langs": {
+          "es": {
+            "translatedHash": "baedf2aef23facfba946c0ac116a1a3b0349b2bc5b0452889250e0fad1e09073",
+            "updatedAt": "2026-02-25T17:21:13.891Z"
+          },
+          "pl": {
+            "translatedHash": "f8c5d4ea82259af54e7ce7863699e2a69d4f0232f9cf5548dc5745fde2ba014d",
+            "updatedAt": "2026-02-25T17:21:18.576Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "825d164e3361052190a3b92afe1234f7857bd677047280ac95f0d321d2c9a5c7",
+        "langs": {
+          "es": {
+            "translatedHash": "7a35bfe735745643f54f961050c33cc460fc3752d17880f962425c2af34b937d",
+            "updatedAt": "2026-02-25T17:21:25.451Z"
+          },
+          "pl": {
+            "translatedHash": "12d198a8334bc0ceaacd6569f8cf270ec15383bdd1226385c665a6e2787d3671",
+            "updatedAt": "2026-02-25T17:21:30.997Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "c996c658a2a4b73d6dd5d91ea1a635629b9d84173aac376a244cfba0b776673b",
+        "langs": {
+          "es": {
+            "translatedHash": "770d3bcc680745868f9595eece466bd1baefbd82d93dd35f5539c6a26b5357a8",
+            "updatedAt": "2026-02-25T17:21:36.783Z"
+          },
+          "pl": {
+            "translatedHash": "f8f420cacccf35538fe9e5610028a6e957e5c0b5575abd31c0858a801d3590b7",
+            "updatedAt": "2026-02-25T17:21:41.472Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "10ba75e7808ad993fd2a0413f9a005e408260bb908bac84e35ab94c23777f961",
+        "langs": {
+          "es": {
+            "translatedHash": "468c2e759fd9187654f5fde9def42cdb1cf1f383dc0bd4e0631d1c814092e054",
+            "updatedAt": "2026-02-25T17:21:45.365Z"
+          },
+          "pl": {
+            "translatedHash": "774aa60932a6ce4a01581413b13258e97dfdb5b87e0caf146a298fa6e45ff2f8",
+            "updatedAt": "2026-02-25T17:21:51.112Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "47a23c6b3ecc58ba4e783b799ecd010f5348214eb124e1a298b807e548b2bc12",
+        "langs": {
+          "es": {
+            "translatedHash": "db9a3a842b116e7b1caadc701e01ed991822cbf2d96e92bc0f94af62e3f8bda8",
+            "updatedAt": "2026-02-25T17:21:54.674Z"
+          },
+          "pl": {
+            "translatedHash": "16b4ae3c6623b4732f518ab0d94e6cd5935a22f209a0d56b198c6a3803cf3047",
+            "updatedAt": "2026-02-25T17:21:59.749Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "b4399b8183eacf689d5815d738e704567fcd2e2be945ecf5ae9fb2ffc2555f59",
+        "langs": {
+          "es": {
+            "translatedHash": "a9533ed7d4eb888b6e292b74a871f0ed2c20b96d71914943e2cf48e8450fb7b6",
+            "updatedAt": "2026-02-25T17:22:03.345Z"
+          },
+          "pl": {
+            "translatedHash": "259e9bcacf68030457dc55e2e74904628efbfc301e80406b2d610b734644e989",
+            "updatedAt": "2026-02-25T17:22:08.854Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Odilia",
+  "title_pl": "Nowenna do św. Odylii",
+  "description_es": "Santa Odilia es una virgen mártir de Inglaterra del siglo III. Reza esta novena por una buena vista.",
+  "description_pl": "Święta Odylia jest dziewicą i męczennicą z Anglii z III wieku. Módl się tę nowennę o dobry wzrok."
+}

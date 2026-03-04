@@ -1,0 +1,48 @@
+{
+  "id": "12-27_saint_john_the_apostle_and_evangelist_feast",
+  "name": "Saint John the Apostle and Evangelist—Feast",
+  "mmdd": "12-27",
+  "feast": "The Twenty-Seventh Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-27_saint_john_the_apostle_and_evangelist_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1b0b674704407fb1aaf727ce03fc714acebd5eef637bc8cdf1c8628f589b9830",
+        "langs": {
+          "es": {
+            "translatedHash": "44d1b6e6882c44350ac4845b17bcedefafb8dbda6a98164ed0b1b8e1fe40f5a2",
+            "updatedAt": "2026-02-25T01:33:49.717Z"
+          },
+          "pl": {
+            "translatedHash": "606b6ddb2c87bd399efb7a95cb27bc41e30f854b11efcd52fa338529c4604ffb",
+            "updatedAt": "2026-02-25T01:33:50.379Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c38a40dabc3979b26c88d06ef67c5426b39b563e4748d08d9017f21dfba3883d",
+        "langs": {
+          "es": {
+            "translatedHash": "7436cb54f700503b841b6e4a069c8b725761153221540a3aff6a39748ec2b915",
+            "updatedAt": "2026-02-25T01:33:51.121Z"
+          },
+          "pl": {
+            "translatedHash": "7a52465f385d69b07c36c66140d15ad0e492a60f1d2700bef0644ece79c4cdf9",
+            "updatedAt": "2026-02-25T01:33:51.791Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Apóstol y Evangelista—Fiesta",
+  "name_pl": "Święty Jan Apostoł i Ewangelista — Uroczystość",
+  "feast_es": "El Vigésimo Séptimo Día de Diciembre",
+  "feast_pl": "Dwudziesty siódmy dzień grudnia"
+}

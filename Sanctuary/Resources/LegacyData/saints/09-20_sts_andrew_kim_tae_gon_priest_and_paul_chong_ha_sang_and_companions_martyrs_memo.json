@@ -1,0 +1,46 @@
+{
+  "id": "09-20_sts_andrew_kim_tae_gon_priest_and_paul_chong_ha_sang_and_companions_martyrs_memo",
+  "name": "Sts. Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs—Memorial",
+  "mmdd": "09-20",
+  "feast": "The Twentieth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-20_saints_andrew_kim_taegon_paul_chong_hasang_and_companions.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e9c83217881dbb391b216b468acc189be81a6a491e243d8174791edb04cbfa9c",
+        "langs": {
+          "es": {
+            "translatedHash": "78ed084e8171817e3248c649a28df7c67ed0ccc1d7a667f8ae9879f75eca8666",
+            "updatedAt": "2026-02-25T00:34:59.271Z"
+          },
+          "pl": {
+            "translatedHash": "731e45d9351d0c3c3e7683810c2bc5a6d771064f456586a8c7aa28cb1790971d",
+            "updatedAt": "2026-02-25T00:35:00.571Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a4923c35cd840790234bd14f8df23e1bbe7a6b62e7c661678c6379da6569f7af",
+        "langs": {
+          "es": {
+            "translatedHash": "4638cb39a60853e8c3c7a7102c65fa26e0dfa03d16818aaf54df78e56ff270f3",
+            "updatedAt": "2026-02-25T00:35:01.472Z"
+          },
+          "pl": {
+            "translatedHash": "2a8c52b6f1f55662798723f76d429fb33035247955589e6bc9592370cc9de63e",
+            "updatedAt": "2026-02-25T00:35:03.051Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Andrés Kim Tae-gŏn, Presbítero, y Pablo Chŏng Ha-sang, y Compañeros, Mártires—Memoria",
+  "name_pl": "Święci Andrzej Kim Tae-gŏn, kapłan, oraz Paweł Czŏng Ha-sang i Towarzysze, Męczennicy — Wspomnienie",
+  "feast_es": "El Vigésimo Día de Septiembre",
+  "feast_pl": "Dwudziesty dzień września"
+}

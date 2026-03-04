@@ -1,0 +1,46 @@
+{
+  "id": "10-29_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-29",
+  "feast": "The Twenty-Ninth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:58:11.395Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:58:12.064Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c1f59a9496e78bb4f14c2714676e1ca66dded96cf54b9549f765ed710f5a0537",
+        "langs": {
+          "es": {
+            "translatedHash": "a4b7413825458d59c44f75ccbe379aea8414699622ad739768e96d6300c1158f",
+            "updatedAt": "2026-02-25T00:58:13.894Z"
+          },
+          "pl": {
+            "translatedHash": "05e953cba82b3cb0bc280c52e5c387532f4ea7f6901131904b02d441998d6cc6",
+            "updatedAt": "2026-02-25T00:58:14.593Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Vigésimo Noveno Día de Octubre",
+  "feast_pl": "Dwudziesty dziewiąty dzień października"
+}

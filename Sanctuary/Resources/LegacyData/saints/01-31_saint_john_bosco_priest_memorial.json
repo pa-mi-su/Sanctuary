@@ -1,0 +1,64 @@
+{
+  "id": "01-31_saint_john_bosco_priest_memorial",
+  "name": "Saint John Bosco, Priest—Memorial",
+  "mmdd": "01-31",
+  "feast": "The Thirty-First Day of January",
+  "summary": "John Melchior Bosco, SDB, popularly known as Don Bosco, was an Italian Catholic priest, educator and writer. While working in Turin, where the population suffered many of the ill effects of industrialization and urbanization, he dedicated his life to the betterment and education of street children, juvenile delinquents, and other disadvantaged youth. He developed teaching methods based on love rather than punishment, a method that became known as the Salesian Preventive System.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Bosco",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-31_saint_john_bosco_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5c668caf994f262722f403795f9c960006b3d30fb00ae1af2c9c349eb4f1ea53",
+        "langs": {
+          "es": {
+            "translatedHash": "939f9c65790e186e14439c6ff44ba1a1d5ad606b5c2b2a79da782c4a151afe39",
+            "updatedAt": "2026-02-24T22:26:24.640Z"
+          },
+          "pl": {
+            "translatedHash": "16a79e239c8e9834a6a523cfa524de575e3d3028071ff6fbff17a1a7f2db513e",
+            "updatedAt": "2026-02-24T22:26:25.405Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8b84cf42c88740fee77b58a5fa563e5fdc6d8ae431b626f9606eac80a364a480",
+        "langs": {
+          "es": {
+            "translatedHash": "fcb3b5f26143ac500d668329f4430175e9842436da3d7a45fd13662bf355f8cb",
+            "updatedAt": "2026-02-24T22:26:26.336Z"
+          },
+          "pl": {
+            "translatedHash": "d609216b1a9b8485dd0cfe197d892baf9ad1f4e8ed7f6a3ee9cc82a48d7d6227",
+            "updatedAt": "2026-02-24T22:26:27.072Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "70874af1938552aaeb743e2dffd8b52d7e8e6cd9df8ed6a63ac8b94b1d942d1a",
+        "langs": {
+          "es": {
+            "translatedHash": "d52fe66c9dd8d2ed47df86d93f7202f8fb5278a54bb7a25e6a95e6ca117f3d15",
+            "updatedAt": "2026-02-24T22:26:28.980Z"
+          },
+          "pl": {
+            "translatedHash": "05eefde035e612eed40a1b97441a7961ba7ac4510453d8be84629f7b7122f0a0",
+            "updatedAt": "2026-02-24T22:26:31.356Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bosco, Presbítero—Memorial",
+  "name_pl": "Święty Jan Bosko, Kapłan — Wspomnienie",
+  "feast_es": "El Trigésimo Primer Día de Enero",
+  "feast_pl": "Trzydziesty pierwszy dzień stycznia",
+  "summary_es": "Juan Melchor Bosco, SDB, conocido popularmente como Don Bosco, fue un sacerdote católico italiano, educador y escritor. Mientras trabajaba en Turín, donde la población sufría muchos de los efectos negativos de la industrialización y la urbanización, dedicó su vida a la mejora y educación de niños de la calle, delincuentes juveniles y otros jóvenes desfavorecidos. Desarrolló métodos de enseñanza basados en el amor en lugar del castigo, un método que llegó a conocerse como el Sistema Preventivo Salesiano.",
+  "summary_pl": "Jan Melchior Bosco, SDB, powszechnie znany jako Don Bosco, był włoskim księdzem katolickim, wychowawcą i pisarzem. Pracując w Turynie, gdzie ludność cierpiała z powodu wielu negatywnych skutków industrializacji i urbanizacji, poświęcił swoje życie poprawie losu i edukacji dzieci ulicy, młodocianych przestępców oraz innych młodych ludzi w trudnej sytuacji. Opracował metody nauczania oparte na miłości, a nie na karze, metoda ta stała się znana jako Salezjański System Prewencyjny."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "07-08_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "07-08",
+  "feast": "The Eighth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:54:32.737Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:54:33.464Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b8ef1b4b6196bafdeecd5d86dc5ab07e1215a9eec9ee430fe604b96c9510526e",
+        "langs": {
+          "es": {
+            "translatedHash": "f56db2d5132df2b218970c0208248891d09d80cbaa4be6871fcfb4a16b850a28",
+            "updatedAt": "2026-02-24T23:54:35.805Z"
+          },
+          "pl": {
+            "translatedHash": "45e1a76af8994a24a43eade240c7750946b2cb17e06a05bd85248f17a0c4ad8b",
+            "updatedAt": "2026-02-24T23:54:36.348Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Octavo Día de Julio",
+  "feast_pl": "Ósmy dzień lipca"
+}

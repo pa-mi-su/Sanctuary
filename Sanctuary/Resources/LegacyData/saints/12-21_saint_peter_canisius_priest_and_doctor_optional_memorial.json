@@ -1,0 +1,48 @@
+{
+  "id": "12-21_saint_peter_canisius_priest_and_doctor_optional_memorial",
+  "name": "Saint Peter Canisius, Priest and Doctor—Optional Memorial",
+  "mmdd": "12-21",
+  "feast": "The Twenty-first Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Henry_Newman"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-21_saint_peter_canisius_priest_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a1eebec627cccf721ed12ce7c61926f531efcedd0870364a914118b473048f35",
+        "langs": {
+          "es": {
+            "translatedHash": "d23b57be18d429dece9999f92cb4c3a5f1e2497be987e438dac6081725720d08",
+            "updatedAt": "2026-02-25T01:30:52.650Z"
+          },
+          "pl": {
+            "translatedHash": "9bed69a6b038bf34964d884a80058465b596ed615944e5bf2a871c9fc78b603a",
+            "updatedAt": "2026-02-25T01:30:53.656Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6853974ceba1fe3bc2a402ade5814e3037b27f0ab716990d7e86a8a9f2eb2d65",
+        "langs": {
+          "es": {
+            "translatedHash": "71a4b6652aed48c3aae34400e7ec8fe4272a7babf822ca041310b3525e0a10d3",
+            "updatedAt": "2026-02-25T01:30:54.200Z"
+          },
+          "pl": {
+            "translatedHash": "e7fe4d85e63a434ddfb6b30e6f8c27f01d6ed40240459cf19ff2306b160201fc",
+            "updatedAt": "2026-02-25T01:30:54.833Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Canisio, Presbítero y Doctor—Memoria Opcional",
+  "name_pl": "Święty Piotr Kanizjusz, kapłan i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El vigésimo primer día de diciembre",
+  "feast_pl": "Dwudziesty pierwszy dzień grudnia"
+}

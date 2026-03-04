@@ -1,0 +1,79 @@
+{
+  "id": "11-29_saint_andrew",
+  "name": "Saint Andrew",
+  "mmdd": "11-29",
+  "feast": "The Twenty-Ninth Day of November",
+  "summary": "Andrew the Apostle was an apostle of Jesus. According to the New Testament, he was a fisherman and one of the Twelve Apostles chosen by Jesus.",
+  "biography": "Andrew the Apostle was an apostle of Jesus. According to the New Testament, he was a fisherman and one of the Twelve Apostles chosen by Jesus.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-29_saint_andrew.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "64a8cb0e593a390bd47d4cd8fe54d6225f085688830806ee0b3200ffb7e18fcc",
+        "langs": {
+          "es": {
+            "translatedHash": "521ea5b627da270f09612a76b20a95b2879b026c7cb1b87e2ee33d4f6e25a1b1",
+            "updatedAt": "2026-02-25T01:16:29.455Z"
+          },
+          "pl": {
+            "translatedHash": "01629b05c5e41dee9ff7b01e55bf6edf0187c97bacb8f19615a68c1271464f5c",
+            "updatedAt": "2026-02-25T01:16:30.026Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "758e4ec7c44553c2192f946f1456eab05476e0b971c0af2b6e4740b9d708b0d6",
+        "langs": {
+          "es": {
+            "translatedHash": "302cec4c7b4e46977a04c642d23c5de057095783f46e9af8bbf014ec7948d666",
+            "updatedAt": "2026-02-25T01:16:30.985Z"
+          },
+          "pl": {
+            "translatedHash": "5f74cc12b90f9c6a915d4a98ac927299977cdc2e53cbdafeb06ef172af6b4523",
+            "updatedAt": "2026-02-25T01:16:31.822Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bf2bff339c667ae1d88701ce2028b9a52b23bf5096aedf3c4a1f1eee7bd21e45",
+        "langs": {
+          "es": {
+            "translatedHash": "e6c9c688cdc19c2048aaddff8d07e45de87c44e704e5b95ba27c1b2f43a5f633",
+            "updatedAt": "2026-02-25T01:16:32.869Z"
+          },
+          "pl": {
+            "translatedHash": "ad44a93272e57008dfd6340d8e77fccd96fb978fe228a1b576cfdc2bb2b2e132",
+            "updatedAt": "2026-02-25T01:16:33.587Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bf2bff339c667ae1d88701ce2028b9a52b23bf5096aedf3c4a1f1eee7bd21e45",
+        "langs": {
+          "es": {
+            "translatedHash": "c7c0baebe28867a10626188c0eaa36c4cdf0a214c9b81120b41471874a6fd90f",
+            "updatedAt": "2026-02-25T01:16:35.166Z"
+          },
+          "pl": {
+            "translatedHash": "ad44a93272e57008dfd6340d8e77fccd96fb978fe228a1b576cfdc2bb2b2e132",
+            "updatedAt": "2026-02-25T01:16:36.555Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Andrés",
+  "name_pl": "Święty Andrzej",
+  "feast_es": "El Vigésimo Noveno Día de Noviembre",
+  "feast_pl": "Dwudziesty dziewiąty dzień listopada",
+  "summary_es": "Andrés el Apóstol fue un apóstol de Jesús. Según el Nuevo Testamento, fue un pescador y uno de los Doce Apóstoles elegidos por Jesús.",
+  "summary_pl": "Andrzej Apostoł był apostołem Jezusa. Według Nowego Testamentu był rybakiem i jednym z Dwunastu Apostołów wybranych przez Jezusa.",
+  "biography_es": "Andrés el Apóstol fue un apóstol de Jesús. Según el Nuevo Testamento, fue pescador y uno de los Doce Apóstoles elegidos por Jesús.",
+  "biography_pl": "Andrzej Apostoł był apostołem Jezusa. Według Nowego Testamentu był rybakiem i jednym z Dwunastu Apostołów wybranych przez Jezusa."
+}

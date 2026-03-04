@@ -1,0 +1,79 @@
+{
+  "id": "07-22_saint_mary_magdalene",
+  "name": "Saint Mary Magdalene",
+  "mmdd": "07-22",
+  "feast": "The Twenty-Second Day of July",
+  "summary": "Mary Magdalene was a woman who, according to the four canonical gospels, travelled with Jesus as one of his followers and was a witness to his crucifixion and resurrection. In Gnostic writings, Mary Magdalene is depicted as Jesus's closest disciple who uniquely understood his teachings, causing tension with Peter, and is honoured as the \"apostle to the apostles\".",
+  "biography": "Mary Magdalene was a woman who, according to the four canonical gospels, travelled with Jesus as one of his followers and was a witness to his crucifixion and resurrection. In Gnostic writings, Mary Magdalene is depicted as Jesus's closest disciple who uniquely understood his teachings, causing tension with Peter, and is honoured as the \"apostle to the apostles\".",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mary_Magdalene",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-22_saint_mary_magdalene.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "76dc96dc79a5325c5690b4cb83b0b381a407aa2976808ddbc0361a6915c812d9",
+        "langs": {
+          "es": {
+            "translatedHash": "6c68814acff95de29fbb45cb0f70fe63f9fe6a04ba124c0ba901a1b0827c3094",
+            "updatedAt": "2026-02-25T00:02:01.582Z"
+          },
+          "pl": {
+            "translatedHash": "2b8d45d0a0ddfa4cb0d8465944f8c789dd0dbc13afa5c3b040e87a014e01e910",
+            "updatedAt": "2026-02-25T00:02:02.230Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a2f21501a7b698e835597fca75762348a5206c58ff7d39494e4f3be59798bb8f",
+        "langs": {
+          "es": {
+            "translatedHash": "8d189b4f1f7b0b21c3d56ec277a6232aa0e75507398a417faedf3e6d1257fdc7",
+            "updatedAt": "2026-02-25T00:02:03.056Z"
+          },
+          "pl": {
+            "translatedHash": "86126e3b5d8a21dc222a06d3921dd8326f7ab6ee5862cad35ef0768ff9763a02",
+            "updatedAt": "2026-02-25T00:02:03.712Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "acb5b90f7aa0f80009fdf31c9d64e631e85b85f36977baabd0090290c07f3a57",
+        "langs": {
+          "es": {
+            "translatedHash": "ba72b2166a5c420753b30d0bf5d98c9ab718389b2cf5c3c4350a9a57c09981b5",
+            "updatedAt": "2026-02-25T00:02:05.734Z"
+          },
+          "pl": {
+            "translatedHash": "ef0b5bf9be79c6c091d1d8bd1211eff61b7f27731068da6a7c1cc9b9cafece9c",
+            "updatedAt": "2026-02-25T00:02:08.104Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "acb5b90f7aa0f80009fdf31c9d64e631e85b85f36977baabd0090290c07f3a57",
+        "langs": {
+          "es": {
+            "translatedHash": "34dcff5e402af213191058cc2790a70064ddc3077639391d471805e491d4e84a",
+            "updatedAt": "2026-02-25T00:02:10.379Z"
+          },
+          "pl": {
+            "translatedHash": "cc261181a311bdbd2560f6e74de786994e6d054af8f76b5f425cdb6c0ee87a5c",
+            "updatedAt": "2026-02-25T00:02:12.596Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Magdalena",
+  "name_pl": "Święta Maria Magdalena",
+  "feast_es": "El Veintidós de Julio",
+  "feast_pl": "Dwudziesty drugi dzień lipca",
+  "summary_es": "María Magdalena fue una mujer que, según los cuatro evangelios canónicos, viajó con Jesús como una de sus seguidoras y fue testigo de su crucifixión y resurrección. En los escritos gnósticos, María Magdalena es presentada como la discípula más cercana a Jesús que comprendía de manera única sus enseñanzas, lo que causaba tensión con Pedro, y es honrada como la \"apóstol de los apóstoles\".",
+  "summary_pl": "Maria Magdalena była kobietą, która według czterech kanonicznych Ewangelii podróżowała z Jezusem jako jedna z jego naśladowczyń i była świadkiem jego ukrzyżowania oraz zmartwychwstania.  \nW pismach gnostyckich Maria Magdalena jest przedstawiana jako najbliższa uczennica Jezusa, która wyjątkowo rozumiała jego nauki, co powodowało napięcia z Piotrem, i jest czczona jako „apostołka apostołów”.",
+  "biography_es": "María Magdalena fue una mujer que, según los cuatro evangelios canónicos, viajó con Jesús como una de sus seguidoras y fue testigo de su crucifixión y resurrección. En los escritos gnósticos, María Magdalena es representada como la discípula más cercana de Jesús, quien comprendía de manera única sus enseñanzas, lo que causaba tensión con Pedro, y es honrada como la \"apóstol de los apóstoles\".",
+  "biography_pl": "Maria Magdalena była kobietą, która według czterech kanonicznych Ewangelii podróżowała z Jezusem jako jedna z jego naśladowczyń i była świadkiem jego ukrzyżowania oraz zmartwychwstania. W pismach gnostyckich Maria Magdalena jest przedstawiana jako najbliższa uczennica Jezusa, która wyjątkowo rozumiała jego nauki, co powodowało napięcia z Piotrem, i jest czczona jako „apostołka apostołów”."
+}

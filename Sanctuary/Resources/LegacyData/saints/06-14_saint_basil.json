@@ -1,0 +1,79 @@
+{
+  "id": "06-14_saint_basil",
+  "name": "Saint Basil",
+  "mmdd": "06-14",
+  "feast": "The Fourteenth Day of June",
+  "summary": "Basil of Caesarea, also called Saint Basil the Great, was an early Roman Christian prelate who served as Bishop of Caesarea Mazaca in Cappadocia from 370 until his death in 379. He was an influential theologian who supported the Nicene Creed and opposed heresies within the early Christian church such as Arianism and Apollinarianism.",
+  "biography": "Basil of Caesarea, also called Saint Basil the Great (330 – 1 or 2 January 379), was an early Roman Christian prelate who served as Bishop of Caesarea Mazaca in Cappadocia from 370 until his death in 379. He was an influential theologian who supported the Nicene Creed and opposed heresies within the early Christian church such as Arianism and Apollinarianism. In addition to his work as a theologian, Basil was known for his care of the poor and underprivileged. Basil established guidelines for monastic life which focus on community life, liturgical prayer, and manual labor. Together with Pachomius, he is remembered as a father of communal monasticism in Eastern Christianity. He is considered a saint by the traditions of both Eastern and Western Christianity. Basil, together with his brother Gregory of Nyssa and his friend Gregory of Nazianzus, are collectively referred to as the Cappadocian Fathers. The Eastern Orthodox Church and Eastern Catholic Churches have given him, together with Gregory of Nazianzus and John Chrysostom, the title of Great Hierarch. He is recognized as a Doctor of the Church in the Roman Catholic Church. He is sometimes referred to by the epithet Ouranophantor...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Caesarea",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-14_saint_basil.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "be377e8ec1c55f8ab43f4f97b4a41aff70fa3039a144c00b7c4b5576e51245ba",
+        "langs": {
+          "es": {
+            "translatedHash": "361ff718f6162f7c33eded346b73b20540628e9ecd9f0ef7adabd5bae05277a9",
+            "updatedAt": "2026-02-24T23:42:16.897Z"
+          },
+          "pl": {
+            "translatedHash": "4459c18c6120a2a164140dd4ff8fff83a1efb438b029fd30e60960517551f0ad",
+            "updatedAt": "2026-02-24T23:42:17.483Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f2b913b0e51cb8ee26a14c0e73794383c67ee425520c12a6cadb0e057ab2619e",
+        "langs": {
+          "es": {
+            "translatedHash": "c1449ef7ea3d8cc5d79d02e2111e85bca10981f9ee8842b8d5caf3bc7c1de3a1",
+            "updatedAt": "2026-02-24T23:42:18.060Z"
+          },
+          "pl": {
+            "translatedHash": "037efb5a8b5d3b27a94fb3167fab0ffe9fb89e9590013412c6ac7e33da9fc9d5",
+            "updatedAt": "2026-02-24T23:42:18.635Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4951d52c00adf39ebca9b64dd053046a20fd28490d053f6eb8c2bbdbd5ec6423",
+        "langs": {
+          "es": {
+            "translatedHash": "4cb9965c5ff29229a5be76f96e8752e79c02bb334745a5b45ac18fd1a652ec83",
+            "updatedAt": "2026-02-24T23:42:20.526Z"
+          },
+          "pl": {
+            "translatedHash": "345882719d6a5f2593478f5b5bd1930c5a07dd768f77b7ad3cec95debe5031c0",
+            "updatedAt": "2026-02-24T23:42:22.386Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bb6e7e519feb97fb0e4d7731ae07fd574db2530e05084ffef3f57014d457fb86",
+        "langs": {
+          "es": {
+            "translatedHash": "6d0ec4f2e94ea2b9f766224704c3a868fcf5b260c5e66b61e0cd10aecd203a87",
+            "updatedAt": "2026-02-24T23:42:27.797Z"
+          },
+          "pl": {
+            "translatedHash": "9ef92c6f3b5d47c81cce8b8885b0eac7873568777b076a025ec644d8beae14fd",
+            "updatedAt": "2026-02-24T23:42:33.850Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Basilio",
+  "name_pl": "Święty Bazyli",
+  "feast_es": "El día catorce de junio",
+  "feast_pl": "Czternasty dzień czerwca",
+  "summary_es": "Basilio de Cesarea, también llamado San Basilio el Grande, fue un prelado cristiano romano temprano que sirvió como Obispo de Cesarea de Mazaca en Capadocia desde el año 370 hasta su muerte en 379. Fue un teólogo influyente que apoyó el Credo Niceno y se opuso a las herejías dentro de la iglesia cristiana primitiva como el arrianismo y el apolinarismo.",
+  "summary_pl": "Bazyli z Cezarei, zwany także św. Bazylim Wielkim, był wczesnym rzymskim chrześcijańskim prelatem, który pełnił funkcję biskupa Cezarei Mazaki w Kapadocji od 370 roku aż do swojej śmierci w 379 roku. Był wpływowym teologiem, który popierał Credo nicejskie i sprzeciwiał się herezjom we wczesnym Kościele chrześcijańskim, takim jak arianizm i apollinaryzm.",
+  "biography_es": "Basilio de Cesarea, también llamado San Basilio el Grande (330 – 1 o 2 de enero de 379), fue un prelado cristiano romano temprano que sirvió como obispo de Cesarea de Mazaca en Capadocia desde 370 hasta su muerte en 379. Fue un teólogo influyente que apoyó el Credo Niceno y se opuso a herejías dentro de la iglesia cristiana primitiva como el arrianismo y el apolinarismo. \n\nAdemás de su trabajo como teólogo, Basilio fue conocido por su cuidado de los pobres y desfavorecidos. Basilio estableció directrices para la vida monástica que se centran en la vida comunitaria, la oración litúrgica y el trabajo manual. Junto con Pacomio, es recordado como un padre del monacato comunitario en el cristianismo oriental. \n\nEs considerado santo por las tradiciones tanto del cristianismo oriental como occidental. Basilio, junto con su hermano Gregorio de Nisa y su amigo Gregorio de Nazianzo, son colectivamente conocidos como los Padres Capadocios. La Iglesia Ortodoxa Oriental y las Iglesias Católicas Orientales le han otorgado, junto con Gregorio de Nazianzo y Juan Crisóstomo, el título de Gran Hierarca. Es reconocido como Doctor de la Iglesia en la Iglesia Católica Romana. A veces se le denomina con el epíteto Ouranophantor...",
+  "biography_pl": "Bazyli z Cezarei, zwany także św. Bazylim Wielkim (330 – 1 lub 2 stycznia 379), był wczesnym rzymskim chrześcijańskim dostojnikiem, który pełnił funkcję biskupa Cezarei Mazaki w Kapadocji od 370 roku aż do swojej śmierci w 379 roku. Był wpływowym teologiem, który popierał Credo nicejskie i sprzeciwiał się herezjom we wczesnym Kościele chrześcijańskim, takim jak arianizm i apollinaryzm. \n\nOprócz pracy teologicznej, Bazyli był znany z troski o ubogich i potrzebujących. Ustanowił zasady życia monastycznego, które skupiają się na życiu wspólnotowym, modlitwie liturgicznej oraz pracy fizycznej. Razem z Pachomiuszem jest pamiętany jako ojciec wspólnotowego monastycyzmu w chrześcijaństwie wschodnim. \n\nJest uważany za świętego zarówno w tradycji chrześcijaństwa wschodniego, jak i zachodniego. Bazyli, wraz ze swoim bratem Grzegorzem z Nyssy oraz przyjacielem Grzegorzem z Nazjanzu, są łącznie nazywani Ojcami Kapadockimi. Kościół prawosławny i Kościoły katolickie wschodnie nadały mu, wraz z Grzegorzem z Nazjanzu i Janem Chryzostomem, tytuł Wielkiego Hierarchy. W Kościele rzymskokatolickim jest uznawany za Doktora Kościoła. Czasami nazywany jest epitetem Ouranophantor..."
+}

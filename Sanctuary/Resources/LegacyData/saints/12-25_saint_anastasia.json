@@ -1,0 +1,79 @@
+{
+  "id": "12-25_saint_anastasia",
+  "name": "Saint Anastasia",
+  "mmdd": "12-25",
+  "feast": "The Twenty-Fifth Day of December",
+  "summary": "Saint Anastasia is a Christian saint and martyr who died at Sirmium in the Roman province of Pannonia Secunda. In the Eastern Orthodox Church, she is venerated as St. Anastasia the Pharmakolytria, i.e. \"Deliverer from Potions\". This epithet is also translated as \"One who Cures (Wounds)\" in Lampe's A Patristic Greek Lexicon.",
+  "biography": "Hagiography\nBefore the liturgical reforms of the twentieth century, this martyr enjoyed the distinction, unique in the Roman liturgy, of having a special commemoration in the second...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasia_of_Sirmium",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-25_saint_anastasia.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9d4147a83ca0213691bcb7fb5d92fbd74d52d94706f04538679d5dd336e0b12e",
+        "langs": {
+          "es": {
+            "translatedHash": "1849555d09a28ff825a379304b13c0caffa095e004373fd32b1b7671fc1ce893",
+            "updatedAt": "2026-02-25T01:32:46.559Z"
+          },
+          "pl": {
+            "translatedHash": "6de95223eac99a677dd8a3b90193f831bcc83fd49e4b54052acc88e41f8084bf",
+            "updatedAt": "2026-02-25T01:32:47.700Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54cf51e2e3878f53f611d723f222faa074541e34470af6f791a4227483cdb8fb",
+        "langs": {
+          "es": {
+            "translatedHash": "570f3a9bcbf310a16013b7ab365deb705a55bd573f53fade60b01474f133a686",
+            "updatedAt": "2026-02-25T01:32:48.280Z"
+          },
+          "pl": {
+            "translatedHash": "97a4d46e834d174cc5c2af5b9203898c6a8b6818df196b719e8deb1294f7c444",
+            "updatedAt": "2026-02-25T01:32:49.043Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ab29c08ec1d1fe19eed2c0572f7ba752ea58c2920e00399ffd42d4db44aff5ac",
+        "langs": {
+          "es": {
+            "translatedHash": "273bc81aae64910605431e602c84971de8dbf56faa404c2ae4d167c5058fc1c3",
+            "updatedAt": "2026-02-25T01:32:50.664Z"
+          },
+          "pl": {
+            "translatedHash": "13949533d96801c1030ed9c226fdb6d01e14d784c0c8b4c09be77bd3415defe0",
+            "updatedAt": "2026-02-25T01:32:53.802Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "54924d2a80e8424afe978d4306451e550b224530322f6ebc851cfb1c1c6e5cab",
+        "langs": {
+          "es": {
+            "translatedHash": "49cbc346e2aba1f1aa5b50a6f407bd9ca99b011973da36c6e54d5e7e0049f7cf",
+            "updatedAt": "2026-02-25T01:32:55.146Z"
+          },
+          "pl": {
+            "translatedHash": "96b1d143bdd79eb9ed377a59d29087795fdcd585fe43c1fe75d1aadc73e67f56",
+            "updatedAt": "2026-02-25T01:32:56.787Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Anastasia",
+  "name_pl": "Święta Anastazjo",
+  "feast_es": "El Vigésimo Quinto Día de Diciembre",
+  "feast_pl": "Dwudziesty piąty dzień grudnia",
+  "summary_es": "Santa Anastasia es una santa y mártir cristiana que murió en Sirmio, en la provincia romana de Panonia Segunda. En la Iglesia Ortodoxa Oriental, es venerada como Santa Anastasia la Pharmakolytria, es decir, \"Liberadora de Pociones\". Este epíteto también se traduce como \"La que Cura (Heridas)\" en el Léxico Griego Patrístico de Lampe.",
+  "summary_pl": "Święta Anastazja jest chrześcijańską świętą i męczennicą, która zmarła w Sirmium w rzymskiej prowincji Panonia Secunda. W Kościele Wschodnioprawosławnym czczona jest jako św. Anastazja Pharmakolytria, czyli „Wyzwolicielka od Mikstur”. Ten epitet jest również tłumaczony jako „Ta, która Leczy (Rany)” w słowniku Lampe'a A Patristic Greek Lexicon.",
+  "biography_es": "Hagiografía  \nAntes de las reformas litúrgicas del siglo XX, este mártir gozaba de la distinción, única en la liturgia romana, de tener una conmemoración especial en el segundo...",
+  "biography_pl": "Hagiografia  \nPrzed reformami liturgicznymi XX wieku, ten męczennik cieszył się wyróżnieniem, unikalnym w liturgii rzymskiej, posiadania specjalnej wspomnienia w drugim..."
+}

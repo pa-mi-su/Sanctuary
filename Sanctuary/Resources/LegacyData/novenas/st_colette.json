@@ -1,0 +1,266 @@
+{
+  "id": "st_colette",
+  "title": "St Colette Novena",
+  "description": "St. Colette (Saint Colette of Corbie), was a French abbess who founded the Colettine Poor Clares, a reform branch of the Order of Saint Clare. St Colette is the patron saint of women hoping to conceive, expectant mothers, and sick children.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Colette"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 25
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-colette-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me consagro a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, amado Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que le tuviste en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencionar la petición aquí…)\n\nPadre Nuestro\nAve María\nGloria\n\nSanta Coleta, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam cię przez płomienną miłość, która rozpaliła twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me consagro a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que tuviste hacia Él en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencione aquí la petición…)\n\nPadre Nuestro\nAve María\nGloria\nSanta Coleta, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej, jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam Cię przez płomienną miłość, która rozpaliła Twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi Cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez Twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me consagro a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que tuviste hacia Él en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencione aquí la petición…)\n\nPadre Nuestro\nAve María\nGloria\n\nSanta Coleta, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam Ci się w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam Cię przez płomienną miłość, która rozpaliła Twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi Cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez Twoją potężną wstawiennictwo. (wymień tutaj swoją prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me consagro a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que tuviste hacia Él en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencionar la petición aquí…)\n\nPadre Nuestro\nAve María\nGloria\nSanta Coleta, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej, jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam cię przez płomienną miłość, która rozpaliła twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me entrego a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que le tuviste en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencionar la petición aquí…)\n\nPadre Nuestro\nAve María\nGloria\n\nSanta Coleta, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Colette\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Colette\nO chwalebna św. Coletto, błagam Cię przez płomienną miłość, która rozpaliła Twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi Cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez Twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Coletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me entrego a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca trabaje de ahora en adelante sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que tuviste hacia Él en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencionar la petición aquí…)\n\nPadre Nuestro\nAve María\nGloria\nSanta Coleta, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam Cię przez płomienną miłość, która rozpaliła Twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi Cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez Twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me consagro a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que le tuviste en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencionar la petición aquí…)\n\nPadre Nuestro\nAve María\nGloria\n\nSanta Coleta, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam Ci siebie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam Cię przez płomienną miłość, która rozpaliła Twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi Cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez Twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me entrego a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, querido Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que le tuviste en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencione aquí la petición…)\n\nPadre Nuestro\nAve María\nGloria\nSanta Coleta, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koletto, błagam Cię przez płomienną miłość, która rozpaliła Twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi Cię obdarzył, i przez miłosierne współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez Twoją potężną wstawiennictwo. (wymień tutaj swoją prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koletto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nPrayer of St. Colette O blessed Jesus, I dedicate myself to Thee in health, in illness, in all my deeds, so that I may never work henceforth except for Thy glory, for the salvation of souls, and for that which Thou hast chosen for me. From this moment on, dearest Lord, there is nothing which I am not prepared to undertake for love of Thee. Amen. Prayer to St. Colette O glorious St. Colette, I beseech you through the burning love which inflamed your heart for Jesus in the Most Blessed Sacrament, through the marvelous graces with which He enriched you, and through the loving compassion you did bear to Him in His bitter sufferings, obtain from Him for me my requests which I hope to receive through your powerful intercession. (mention request here…)\n\nOur Father Hail Mary Glory Be St Colette, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOración de Santa Coleta\nOh bendito Jesús, me dedico a Ti en la salud, en la enfermedad, en todas mis acciones, para que nunca más trabaje sino para Tu gloria, para la salvación de las almas, y para aquello que Tú has elegido para mí. Desde este momento, amado Señor, no hay nada que no esté dispuesto a emprender por amor a Ti. Amén.\n\nOración a Santa Coleta\nOh gloriosa Santa Coleta, te suplico por el ardiente amor que inflamó tu corazón por Jesús en el Santísimo Sacramento, por las maravillosas gracias con que Él te enriqueció, y por la compasión amorosa que tuviste hacia Él en sus amargos sufrimientos, obtén de Él para mí las peticiones que espero recibir por tu poderosa intercesión. (mencione aquí la petición…)\n\nPadre Nuestro\nAve María\nGloria\n\nSanta Coleta, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nModlitwa św. Koletty\nO błogosławiony Jezu, poświęcam się Tobie w zdrowiu, w chorobie, we wszystkich moich czynach, aby odtąd nigdy nie działać inaczej jak tylko dla Twojej chwały, dla zbawienia dusz i dla tego, co Ty dla mnie wybrałeś. Od tej chwili, najdroższy Panie, nie ma niczego, czego nie byłabym gotowa podjąć z miłości do Ciebie. Amen.\n\nModlitwa do św. Koletty\nO chwalebna św. Koleto, błagam cię przez płomienną miłość, która rozpaliła twoje serce dla Jezusa w Najświętszym Sakramencie, przez cudowne łaski, którymi cię obdarzył, i przez pełne miłosierdzia współczucie, które okazywałaś Mu w Jego gorzkich cierpieniach, wyproś u Niego dla mnie moje prośby, które mam nadzieję otrzymać przez twoją potężną wstawiennictwo. (wymień tutaj prośbę…)\n\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nŚw. Koleto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "February 25Feastday:March 6Birth:1381Death:1447Patron saint of women hoping to conceive, expectant mothers, and sick children 📱",
+    "feast": "March 6Birth:1381Death:1447Patron saint of women hoping to conceive, expectant mothers, and sick children 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_colette.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "7a2561bb9dd30eeb5d18da495324fe8afd63e5c8ba39b42c59c9037809fefdee",
+        "langs": {
+          "es": {
+            "translatedHash": "4a0ee99b6d7be49b0404510f39a93964e08165e4af046c25a8f646eb331d2e74",
+            "updatedAt": "2026-02-25T13:02:44.843Z"
+          },
+          "pl": {
+            "translatedHash": "8432b7eefa390ff48d41238c4c8ed7f7e06259154676de8ea2e58b152dbed6bc",
+            "updatedAt": "2026-02-25T13:02:45.735Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "b1d621708640c8fd5c464674598fff6e2cd7ebaf9479d28bc04a5d442e1f5278",
+        "langs": {
+          "es": {
+            "translatedHash": "b887e11f475af30e2e3c493e5382f5846609d00d82c7c63fdfebf7661392c4c8",
+            "updatedAt": "2026-02-25T13:02:47.404Z"
+          },
+          "pl": {
+            "translatedHash": "5eb602a5035f59674af7c293ce47c0788a1f083328f05eb047715a07652628cf",
+            "updatedAt": "2026-02-25T13:02:49.213Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "cd47de864a7167bb51dff00d50853fffb1243917d9813a79bdcfae195804a199",
+        "langs": {
+          "es": {
+            "translatedHash": "584248df1bc756b70fbf74c7d7345f21b29e7dc5ef6e6b4e38f12d1cff498d17",
+            "updatedAt": "2026-02-25T13:02:54.469Z"
+          },
+          "pl": {
+            "translatedHash": "76c4802914e6a2dcb1d108245aaa2f3b63cd163b10bb89a9dc17847d3f39c5ca",
+            "updatedAt": "2026-02-25T13:03:04.064Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "faa7aa772c7447847aea08a5ad8d4906e5a5489f226093a75c58b4d7074e1863",
+        "langs": {
+          "es": {
+            "translatedHash": "aa1ff6e4fafb4e8f31f69e587c2cee4f8aae8bc1c1b908c7e221b52c26bfa865",
+            "updatedAt": "2026-02-25T13:03:08.064Z"
+          },
+          "pl": {
+            "translatedHash": "72cfba4a172a7ef9dadd7a836406bce139caa643abba6fd8c63b0e3e2e79a708",
+            "updatedAt": "2026-02-25T13:03:14.770Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "ba0251d1f552461a9f40455f6a150a1768726cc5fdf250ef43b4a632dac7c1c3",
+        "langs": {
+          "es": {
+            "translatedHash": "7d55347664916a4364ba669712ee4f05baa3aa51ab84b573399bf0ff6e9300d8",
+            "updatedAt": "2026-02-25T13:03:19.249Z"
+          },
+          "pl": {
+            "translatedHash": "620588aeb20b5bc72ed189a2493e7ca0d556a9e6155324856d5759b428253961",
+            "updatedAt": "2026-02-25T13:03:24.644Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "0e4daf71caff512d2a837f8d38b2a53e420f98afa26beaad16dfc66bf481515d",
+        "langs": {
+          "es": {
+            "translatedHash": "a8b12e7b97d55e5a4184d9899f3a102608dc16666b8bd4fd45d15b1a4dc4cd4f",
+            "updatedAt": "2026-02-25T13:03:31.394Z"
+          },
+          "pl": {
+            "translatedHash": "767f45f51fd21918d5f5b6b61b927784e16ecb4751d910c87970232b901f28e0",
+            "updatedAt": "2026-02-25T13:03:36.817Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "5db9bcc8e171821e046139ba347afb0a2b67b77de3904816b1284470a4453199",
+        "langs": {
+          "es": {
+            "translatedHash": "01b1657986dd7b6434c6318bf1f8bae800c0d56c90354ffe5291fdcd9ccf5cfa",
+            "updatedAt": "2026-02-25T13:03:42.045Z"
+          },
+          "pl": {
+            "translatedHash": "828d2bc3498808a1fe1635a66bab30897240ec0fab5822f12aabfc1ebf1c9f18",
+            "updatedAt": "2026-02-25T13:03:49.343Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "2570b546878ae250d3ca777d2dc9164bb0fd8386ce6a757f3f02109490fd3e05",
+        "langs": {
+          "es": {
+            "translatedHash": "5b485d3db95ad7c9fe11e4c0b19d701a572ea7dc6df0933cc65aebdf6fb10b79",
+            "updatedAt": "2026-02-25T13:03:55.395Z"
+          },
+          "pl": {
+            "translatedHash": "909641e41b4dce57383a4c0c05d2ac759e25db77fee93189de9d20e6f797df02",
+            "updatedAt": "2026-02-25T13:04:02.259Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "678560567b422d34d25207b180e28916ecd7ca212aaa27057243518f28a26706",
+        "langs": {
+          "es": {
+            "translatedHash": "f2eff3860e73e6baf5fea12bd3d59d44538012c8f26083ea0394d6f3ea542e1a",
+            "updatedAt": "2026-02-25T13:04:06.107Z"
+          },
+          "pl": {
+            "translatedHash": "5d6b37e005b5b6170ea642851a8a5e55bcd0d2c1dd5bbdcb0b6b5ac622fa8c2c",
+            "updatedAt": "2026-02-25T13:04:13.321Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "d88ca85cb267f0c40161dac0cfaf3c2b3076c6194ca7ab6b0ff722b1a8c873f3",
+        "langs": {
+          "es": {
+            "translatedHash": "fdbcdaa418172ab40d7a89f04ec3dbf2f1d69339b0c9f75735e50cbaa22d13bc",
+            "updatedAt": "2026-02-25T13:04:18.384Z"
+          },
+          "pl": {
+            "translatedHash": "82a469bba699e12ae954f3f88beec50f132af8a900b3e7e58f3f847e5694fc56",
+            "updatedAt": "2026-02-25T13:04:28.788Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "178106b88a72de0f156228d7a3cffdae085ce4fb1d56a551ee13b7e9857ac6f8",
+        "langs": {
+          "es": {
+            "translatedHash": "5e70443d8e80a59a7b0f2bb79f61076ee2c274686d25efe320e1b33bac8bce34",
+            "updatedAt": "2026-02-25T13:04:37.391Z"
+          },
+          "pl": {
+            "translatedHash": "214f225dec769b62b678ed6b8b85ddfc5c0ca3a092bd5c036de6d93d257d2998",
+            "updatedAt": "2026-02-25T13:04:42.375Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Coleta",
+  "title_pl": "Nowenna do św. Koletty",
+  "description_es": "Santa Coleta (Santa Coleta de Corbie), fue una abadesa francesa que fundó a las Clarisas Colettinas, una rama reformada de la Orden de Santa Clara. Santa Coleta es la patrona de las mujeres que esperan concebir, de las madres embarazadas y de los niños enfermos.",
+  "description_pl": "Św. Colette (Święta Colette z Corbie) była francuską opatką, która założyła koletyńskie ubogie klaryski, reformowaną gałąź Zakonu św. Klary. Św. Colette jest patronką kobiet pragnących począć dziecko, przyszłych matek oraz chorych dzieci."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "11-29_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-29",
+  "feast": "The Twenty-Ninth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:16:25.937Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:16:27.145Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "758e4ec7c44553c2192f946f1456eab05476e0b971c0af2b6e4740b9d708b0d6",
+        "langs": {
+          "es": {
+            "translatedHash": "302cec4c7b4e46977a04c642d23c5de057095783f46e9af8bbf014ec7948d666",
+            "updatedAt": "2026-02-25T01:16:27.816Z"
+          },
+          "pl": {
+            "translatedHash": "5f74cc12b90f9c6a915d4a98ac927299977cdc2e53cbdafeb06ef172af6b4523",
+            "updatedAt": "2026-02-25T01:16:28.842Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Vigésimo Noveno Día de Noviembre",
+  "feast_pl": "Dwudziesty dziewiąty dzień listopada"
+}

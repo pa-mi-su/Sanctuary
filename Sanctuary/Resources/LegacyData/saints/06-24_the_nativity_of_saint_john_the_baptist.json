@@ -1,0 +1,79 @@
+{
+  "id": "06-24_the_nativity_of_saint_john_the_baptist",
+  "name": "The Nativity of Saint John the Baptist",
+  "mmdd": "06-24",
+  "feast": "The Twenty-Fourth day of June",
+  "summary": "The Nativity of John the Baptist is a Christian feast day. It is observed annually on 24 June. The Nativity of John the Baptist is a high-ranking liturgical feast, kept in the Catholic Church, Eastern Orthodox Church, Anglicanism, and Lutheranism. The sole biblical account of the birth of John the Baptist comes from the Gospel of Luke.",
+  "biography": "The Nativity of John the Baptist (or Birth of John the Baptist, or Nativity of the Forerunner, or colloquially Johnmas or St. John's Day (in German) Johannistag) is a Christian feast day. It is observed annually on 24 June. The Nativity of John the Baptist is a high-ranking liturgical feast, kept in the Catholic Church, Eastern Orthodox Church, Anglicanism, and Lutheranism. The sole biblical account of the birth of John the Baptist comes from the Gospel of Luke. Significance Christians have long interpreted the life of John the Baptist as a preparation for the coming of Jesus Christ, and the circumstances of his birth, as recorded in the New Testament, are miraculous. John's pivotal place in the gospel is seen in the emphasis Luke gives to the announcement of his birth and the event itself, both set in parallel to the same occurrences in the life of Jesus. The sole biblical account of the birth of John the Baptist comes from the Gospel of Luke. John's parents, Zechariah or Zachary—a Jewish priest—and Elizabeth, were without children and both were beyond the age of child-bearing. During Zechariah's rotation to serve in the Temple in Jerusalem, he was chosen by lot to offer incense...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nativity_of_John_the_Baptist",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-24_the_nativity_of_saint_john_the_baptist.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "662519995c5106ece5c4299bb5cd43a2b14ff155051d99174439173ca890326e",
+        "langs": {
+          "es": {
+            "translatedHash": "aece9d5c072e2a95b12428a0689eebc3625783f97009710e4107cd703469637d",
+            "updatedAt": "2026-02-24T23:47:37.299Z"
+          },
+          "pl": {
+            "translatedHash": "d87d886897d4f38b98d181a11a1a22b2bccac975706384315df85655b60582d4",
+            "updatedAt": "2026-02-24T23:47:38.249Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e02971616d419826e4f6c51686798b47fbd33ac405216e0d61e26e514126b7ba",
+        "langs": {
+          "es": {
+            "translatedHash": "ca0bef2c070da659246b1c9c066bec0c92ceeac65189e77d9f5b09777aa36b82",
+            "updatedAt": "2026-02-24T23:47:38.773Z"
+          },
+          "pl": {
+            "translatedHash": "e3eb66593e62f8e73806bd1c31db29d298f32910ed39d63b7e72910358b84b14",
+            "updatedAt": "2026-02-24T23:47:39.458Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bdf19aba130c04a0e67623fc235a4147b30875e0a83c28f30118f28ce9b8cf98",
+        "langs": {
+          "es": {
+            "translatedHash": "78368dd3910e066f16784f6c3fa5db8086cb63f5622f3f4f611774468ed4d57c",
+            "updatedAt": "2026-02-24T23:47:40.776Z"
+          },
+          "pl": {
+            "translatedHash": "880f21e37e65c083d41b87df22792ee59c7334cb8773fa97265fab806b06f149",
+            "updatedAt": "2026-02-24T23:47:42.649Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e5f7fd34ac7642b02b6ecf3ca123b710fbfb304705b9e26782e7369a94718c0c",
+        "langs": {
+          "es": {
+            "translatedHash": "7d040b6b845bb2672cb313405e64a4873a9858e2316c36cf13c38cf897f864f7",
+            "updatedAt": "2026-02-24T23:47:48.277Z"
+          },
+          "pl": {
+            "translatedHash": "de68eb666045192b138f8b6a0751eff39c81f85ec08fe7012d14debfcbd4ca85",
+            "updatedAt": "2026-02-24T23:47:53.560Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "La Natividad de San Juan Bautista",
+  "name_pl": "Narodzenie św. Jana Chrzciciela",
+  "feast_es": "El vigésimo cuarto día de junio",
+  "feast_pl": "Dwudziesty czwarty dzień czerwca",
+  "summary_es": "La Natividad de San Juan Bautista es una fiesta cristiana. Se celebra anualmente el 24 de junio. La Natividad de San Juan Bautista es una fiesta litúrgica de alto rango, observada en la Iglesia Católica, la Iglesia Ortodoxa Oriental, el anglicanismo y el luteranismo. El único relato bíblico del nacimiento de San Juan Bautista proviene del Evangelio de Lucas.",
+  "summary_pl": "Narodzenie Jana Chrzciciela jest chrześcijańskim świętem. Obchodzone jest corocznie 24 czerwca. Narodzenie Jana Chrzciciela jest uroczystym świętem liturgicznym, obchodzonym w Kościele katolickim, Kościele prawosławnym, anglikanizmie oraz luteranizmie. Jedyny biblijny opis narodzin Jana Chrzciciela pochodzi z Ewangelii według św. Łukasza.",
+  "biography_es": "La Natividad de Juan el Bautista (o Nacimiento de Juan el Bautista, o Natividad del Precursor, o coloquialmente Juanmas o Día de San Juan (en alemán) Johannistag) es una fiesta cristiana. Se celebra anualmente el 24 de junio. La Natividad de Juan el Bautista es una fiesta litúrgica de alto rango, observada en la Iglesia Católica, la Iglesia Ortodoxa Oriental, el anglicanismo y el luteranismo. El único relato bíblico del nacimiento de Juan el Bautista proviene del Evangelio de Lucas.\n\nSignificado  \nLos cristianos han interpretado durante mucho tiempo la vida de Juan el Bautista como una preparación para la venida de Jesucristo, y las circunstancias de su nacimiento, tal como se registran en el Nuevo Testamento, son milagrosas. El lugar fundamental de Juan en el evangelio se ve en el énfasis que Lucas da al anuncio de su nacimiento y al evento mismo, ambos situados en paralelo con los mismos acontecimientos en la vida de Jesús.  \n\nEl único relato bíblico del nacimiento de Juan el Bautista proviene del Evangelio de Lucas. Los padres de Juan, Zacarías o Zacarías —un sacerdote judío— y Elisabet, no tenían hijos y ambos estaban más allá de la edad fértil. Durante la rotación de Zacarías para servir en el Templo de Jerusalén, fue elegido por sorteo para ofrecer incienso...",
+  "biography_pl": "Narodzenie św. Jana Chrzciciela (lub Urodziny Jana Chrzciciela, lub Narodzenie Prekursora, potocznie Janowe lub Dzień św. Jana (po niemiecku Johannistag)) jest chrześcijańskim świętem. Obchodzone jest corocznie 24 czerwca. Narodzenie św. Jana Chrzciciela jest uroczystością o wysokim znaczeniu liturgicznym, obchodzoną w Kościele katolickim, Kościele prawosławnym, anglikanizmie oraz luteranizmie.  \n\nJedyną biblijną relacją o narodzinach Jana Chrzciciela jest Ewangelia według św. Łukasza.  \n\nZnaczenie  \nChrześcijanie od dawna interpretują życie Jana Chrzciciela jako przygotowanie na przyjście Jezusa Chrystusa, a okoliczności jego narodzin, opisane w Nowym Testamencie, są cudowne. Kluczowe miejsce Jana w Ewangelii widać w podkreśleniu, jakie Łukasz nadaje zapowiedzi jego narodzin oraz samemu wydarzeniu, oba ukazane równolegle do podobnych zdarzeń w życiu Jezusa.  \n\nJedyną biblijną relacją o narodzinach Jana Chrzciciela jest Ewangelia według św. Łukasza. Rodzicami Jana byli Zachariasz — żydowski kapłan — i Elżbieta, którzy nie mieli dzieci i oboje byli już w wieku przekraczającym zdolność do poczęcia. Podczas służby Zachariasza w świątyni jerozolimskiej, został wybrany przez los, aby złożyć kadzidło..."
+}

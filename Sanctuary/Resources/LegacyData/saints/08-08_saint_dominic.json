@@ -1,0 +1,79 @@
+{
+  "id": "08-08_saint_dominic",
+  "name": "Saint Dominic",
+  "mmdd": "08-08",
+  "feast": "The Eighth Day of August",
+  "summary": "Dominic, Dominik or Dominick is a male given name common among Roman Catholics and other Latin-Romans. Originally from the late Roman-Italic name \"Dominicus\", its translation means \"Lordly\", \"Belonging to God\" or \"of the Master\".",
+  "biography": "Dominic, Dominik or Dominick is a male given name common among Roman Catholics and other Latin-Romans. Originally from the late Roman-Italic name \"Dominicus\", its translation means \"Lordly\", \"Belonging to God\" or \"of the Master\".",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dominic",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-08_saint_dominic.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a1e4923c4df5239ff7cc249e1d1780a333a0bb5cd46f0ca50109bd776cdfaf98",
+        "langs": {
+          "es": {
+            "translatedHash": "befcd153e384e3d77c2612121b1c88dc9c26ba44ad977d1c728ec63c8e2d1ab0",
+            "updatedAt": "2026-02-25T00:11:39.872Z"
+          },
+          "pl": {
+            "translatedHash": "2e9155e14b50d90cc53f140c989d0c3c307ac8bb3dc1935b7a494f1f5169d109",
+            "updatedAt": "2026-02-25T00:11:42.544Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "14155bf91e090caef53b0ea14c50d968be043686e6bd2071bbe634c466464892",
+        "langs": {
+          "es": {
+            "translatedHash": "33454ac7bf21cacb60c08b0888300aa2b6e8122ac0e6db2b7a0ba2859317c478",
+            "updatedAt": "2026-02-25T00:11:43.324Z"
+          },
+          "pl": {
+            "translatedHash": "11246b0c0def661b7e1382eca64288309aa6c337b8c5d2e3fad7f99c8eef2dd9",
+            "updatedAt": "2026-02-25T00:11:43.958Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "062e8bc598c9fd5bfa47138646b662fb3a487d743755adbeb837697e5ab2e3ce",
+        "langs": {
+          "es": {
+            "translatedHash": "01b842395a1d1c8ac45b1dd06563f85a277319a7bdece04d80dbfbcf3c5af81b",
+            "updatedAt": "2026-02-25T00:11:45.187Z"
+          },
+          "pl": {
+            "translatedHash": "df6f44038a048b6d9e53339749a5e2fe7d5c58bd640131a3d4cf72ea81f97250",
+            "updatedAt": "2026-02-25T00:11:47.153Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "062e8bc598c9fd5bfa47138646b662fb3a487d743755adbeb837697e5ab2e3ce",
+        "langs": {
+          "es": {
+            "translatedHash": "01b842395a1d1c8ac45b1dd06563f85a277319a7bdece04d80dbfbcf3c5af81b",
+            "updatedAt": "2026-02-25T00:11:48.338Z"
+          },
+          "pl": {
+            "translatedHash": "15f58313e1967860dcf0c4a20d1d74c6c3ea6814c809b61c6a4b78a7f765213b",
+            "updatedAt": "2026-02-25T00:11:49.750Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Domingo",
+  "name_pl": "Święty Dominik",
+  "feast_es": "El Octavo Día de Agosto",
+  "feast_pl": "Ósmy dzień sierpnia",
+  "summary_es": "Domingo, Dominik o Dominick es un nombre masculino común entre los católicos romanos y otros latinos-romanos. Originalmente proviene del nombre romano-itálico tardío \"Dominicus\", cuya traducción significa \"Señorial\", \"Perteneciente a Dios\" o \"del Maestro\".",
+  "summary_pl": "Dominic, Dominik lub Dominick to męskie imię powszechne wśród katolików rzymskich i innych Latynosów-Rzymian. Pochodzi pierwotnie od późnorzymsko-włoskiego imienia „Dominicus”, którego tłumaczenie oznacza „Panowski”, „Należący do Boga” lub „Mistrzowski”.",
+  "biography_es": "Domingo, Dominik o Dominick es un nombre masculino común entre los católicos romanos y otros latinos-romanos. Originalmente proviene del nombre romano-itálico tardío \"Dominicus\", cuya traducción significa \"Señorial\", \"Perteneciente a Dios\" o \"del Maestro\".",
+  "biography_pl": "Dominic, Dominik lub Dominick to męskie imię nadawane powszechnie wśród katolików rzymskich i innych Latynosów-Rzymian. Pochodzi pierwotnie od późnorzymsko-włoskiego imienia „Dominicus”, którego tłumaczenie oznacza „Panowski”, „Należący do Boga” lub „Mistrzowski”."
+}

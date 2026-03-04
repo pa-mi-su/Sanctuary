@@ -1,0 +1,48 @@
+{
+  "id": "10-23_saint_john_of_capistrano_priest_optional_memorial",
+  "name": "Saint John of Capistrano, Priest—Optional Memorial",
+  "mmdd": "10-23",
+  "feast": "The Twenty-Third Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coat_of_Arms_Saint_John_of_Capistrano_reconstruction.png"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-23_saint_john_of_capistrano_priest_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "de87f1639594367a16f85553a481018d34f23461530f33f8e45dc31c447b2c2b",
+        "langs": {
+          "es": {
+            "translatedHash": "3a2998799b3fe59821faeccc0857058a015f821e10aeb575a1820a1ed3ac2173",
+            "updatedAt": "2026-02-25T00:55:25.118Z"
+          },
+          "pl": {
+            "translatedHash": "c2402d6bd0cb6611487c25fb6e7ed5e16a5e7c6df19a7f878499f55df3181c35",
+            "updatedAt": "2026-02-25T00:55:25.828Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c895310fda5e1f9bf9428ad4507b0b48fc0c58562b094e91e027f81e9895e475",
+        "langs": {
+          "es": {
+            "translatedHash": "d98c62c41ec8c009f5b8766290511d63cacd27ed265edd1ab502d4601c52fb35",
+            "updatedAt": "2026-02-25T00:55:26.967Z"
+          },
+          "pl": {
+            "translatedHash": "81b520aa5cec0c425976579afecf4d6f40c82807fc48c98843383d1e92e58a85",
+            "updatedAt": "2026-02-25T00:55:27.728Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Capistrano, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Jan Kapistran, kapłan — wspomnienie dowolne",
+  "feast_es": "El vigésimo tercer día de octubre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Października"
+}

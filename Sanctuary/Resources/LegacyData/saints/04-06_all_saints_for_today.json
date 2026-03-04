@@ -1,0 +1,46 @@
+{
+  "id": "04-06_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-06",
+  "feast": "The Sixth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:04:43.131Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-24T23:04:43.619Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1f115532f3dd36aac25b3df0fd17709d8345c2e7cc1a875ab3d3ee1801e3dee4",
+        "langs": {
+          "es": {
+            "translatedHash": "49259635e8f1cb73a1aba4c7e11054ebd5016398ff79236001d4b8c3544b6d00",
+            "updatedAt": "2026-02-24T23:04:45.450Z"
+          },
+          "pl": {
+            "translatedHash": "6c3bbc54fe9caa90c3f6f78913fb214c5bcf7b9f17b4bfe66b0c8d35a1f9a068",
+            "updatedAt": "2026-02-24T23:04:46.107Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El Sexto Día de Abril",
+  "feast_pl": "Szósty dzień kwietnia"
+}

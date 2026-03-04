@@ -1,0 +1,79 @@
+{
+  "id": "05-17_saint_pascal",
+  "name": "Saint Pascal",
+  "mmdd": "05-17",
+  "feast": "The Seventeenth Day of May",
+  "summary": "Paschal Baylón was a Spanish Catholic religious brother in the Order of Friars Minor.",
+  "biography": "Saint-Pascal (French pronunciation: [sɛ̃ paskal]) is a city in Kamouraska Regional County Municipality in the Bas-Saint-Laurent region of Quebec. It has a population of 3,530. It is the second biggest city in the RCM, after La Pocatière. The city is crossed by the Kamouraska River. It's also the county seat of the Kamouraska RCM.\nSaint-Pascal was named in honour of Paschal Taché, seigneur of Kamouraska. The original spelling of the municipality, based on the Latin Paschalis, was given in honour of Étienne-Paschal Taché, a notary and militia lieutenant-colonel. In November 1813, he became co-seigneur of Kamouraska with his father, Paschal-Jacques. On his father's death, he assumed sole ownership of the seigneury.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paschal_Bayl%C3%B3n",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-17_saint_pascal.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7d5204fa25d4c88342839d6821b1551f76e33f390fdd47a0a437676bc331b85b",
+        "langs": {
+          "es": {
+            "translatedHash": "0f56204065ef205d94004042525bcdde3d5938710789a863a7e806fb5e1fda58",
+            "updatedAt": "2026-02-24T23:26:33.238Z"
+          },
+          "pl": {
+            "translatedHash": "8a440865479a2caf1ad4728c8a027619d77b49d5fed87458281a4a7c809fe502",
+            "updatedAt": "2026-02-24T23:26:33.800Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ffb1761f00a7adebe122eee0fe4532239c1331c9cb4f41c2d8d98ce3d97ed1be",
+        "langs": {
+          "es": {
+            "translatedHash": "40d7f941fdcf6f5d0a8e65f785d75ba1152f4c7ca82e6f1307e9f461644ddc3a",
+            "updatedAt": "2026-02-24T23:26:34.597Z"
+          },
+          "pl": {
+            "translatedHash": "7cbfa4c3e7bef7106d53287f702e743841a6bb3b8a351625dbdaf9c53bee0b91",
+            "updatedAt": "2026-02-24T23:26:35.172Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3c24c50cbacddea37425c41a066c76d9c88dabeb93d3f39e830bd7db0b5dcb5a",
+        "langs": {
+          "es": {
+            "translatedHash": "63ba55cc19408f5469b6833f4b3d0d8c9e750cce4f4840054c69ecb3e03be693",
+            "updatedAt": "2026-02-24T23:26:36.152Z"
+          },
+          "pl": {
+            "translatedHash": "d539c3a4a9ca55645d38dfdfe21e3edeb29c39073f28dbb2cd37bc3ac816f8be",
+            "updatedAt": "2026-02-24T23:26:37.014Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "224617eb90f3b456b6927ec5448f1f297c307705b27fa0668fb0abaa0ac59e77",
+        "langs": {
+          "es": {
+            "translatedHash": "c4cdfb2e8e8ba4f76cc2b78ffc0c82a726870c67594a420242bfa6286e99dd74",
+            "updatedAt": "2026-02-24T23:26:40.838Z"
+          },
+          "pl": {
+            "translatedHash": "8b648ad651d71b6fb922f1583be55bb49f3ac0ecc8d2bf2d51e2837338375a81",
+            "updatedAt": "2026-02-24T23:26:44.821Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pascual",
+  "name_pl": "Święty Pascal",
+  "feast_es": "El decimoséptimo día de mayo",
+  "feast_pl": "Siedemnasty Dzień Maja",
+  "summary_es": "Paschal Baylón fue un hermano religioso católico español de la Orden de los Frailes Menores.",
+  "summary_pl": "Paschal Baylón był hiszpańskim katolickim bratem zakonnym w Zakonie Braci Mniejszych.",
+  "biography_es": "San Pascual (pronunciación francesa: [sɛ̃ paskal]) es una ciudad en el Municipio Regional de Condado de Kamouraska en la región de Bas-Saint-Laurent de Quebec. Tiene una población de 3,530 habitantes. Es la segunda ciudad más grande del RCM, después de La Pocatière. La ciudad está atravesada por el río Kamouraska. También es la sede del condado del RCM de Kamouraska.  \nSan Pascual fue nombrada en honor a Paschal Taché, señor de Kamouraska. La ortografía original del municipio, basada en el latín Paschalis, fue dada en honor a Étienne-Paschal Taché, notario y teniente coronel de la milicia. En noviembre de 1813, se convirtió en co-señor de Kamouraska junto con su padre, Paschal-Jacques. A la muerte de su padre, asumió la propiedad única de la señoría.",
+  "biography_pl": "Saint-Pascal (wymowa francuska: [sɛ̃ paskal]) to miasto w gminie regionalnej Kamouraska w regionie Bas-Saint-Laurent w Quebecu. Liczy 3 530 mieszkańców. Jest drugim co do wielkości miastem w RCM, po La Pocatière. Przez miasto przepływa rzeka Kamouraska. Jest również siedzibą gminy Kamouraska RCM.\n\nSaint-Pascal zostało nazwane na cześć Paschala Taché, pana feudalnego Kamouraski. Oryginalna pisownia gminy, oparta na łacińskim Paschalis, została nadana na cześć Étienne-Paschala Taché, notariusza i podpułkownika milicji. W listopadzie 1813 roku został współpanem feudalnym Kamouraski wraz z ojcem, Paschalem-Jacquesem. Po śmierci ojca przejął wyłączne posiadanie panowania feudalnego."
+}

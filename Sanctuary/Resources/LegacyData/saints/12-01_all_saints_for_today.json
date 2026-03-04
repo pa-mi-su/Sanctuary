@@ -1,0 +1,46 @@
+{
+  "id": "12-01_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "12-01",
+  "feast": "The First Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:16:59.529Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:17:00.204Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4e7ec7c489dd1a3202eb874a9287117fd4f4a4fc0c1471168113ff823b91cd5a",
+        "langs": {
+          "es": {
+            "translatedHash": "98f1b85af49173070f218a95e37667ef2d63f8ff75953c793c310757b9bcd6e3",
+            "updatedAt": "2026-02-25T01:17:00.704Z"
+          },
+          "pl": {
+            "translatedHash": "f12a01c60bdff8949b868c6a282d43ddbaadb2b4aa99e4ccd064552ffb254045",
+            "updatedAt": "2026-02-25T01:17:01.310Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Primer Día de Diciembre",
+  "feast_pl": "Pierwszy dzień grudnia"
+}

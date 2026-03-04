@@ -1,0 +1,79 @@
+{
+  "id": "09-19_saint_eustace",
+  "name": "Saint Eustace",
+  "mmdd": "09-19",
+  "feast": "The Nineteenth Day of September",
+  "summary": "Saint Eustace is revered as a Christian martyr. According to legend, he was martyred in AD 118, at the command of emperor Hadrian. Eustace was a pagan Roman general, who converted to Christianity after he had a vision of the cross while hunting. He lost all his wealth, was separated from his wife and sons, and went into exile in Egypt. Called back to lead the Roman army by emperor Trajan, Eustace was happily reunited with his family and restored to high social standing, but after the death of Trajan, he and his family were martyred under Hadrian for refusing to sacrifice to pagan Roman gods.",
+  "biography": "Saint Eustace (Latinized Eustachius or Eustathius; Greek: Εὐστάθιος Πλακίδας Eustathios Plakidas) is revered as a Christian martyr. According to legend, he was martyred in AD 118, at the command of emperor Hadrian. Eustace was a pagan Roman general, who converted to Christianity after he had a vision of the cross while hunting. He lost all his wealth, was separated from his wife and sons, and went into exile in Egypt. Called back to lead the Roman army by emperor Trajan, Eustace was happily reunited with his family and restored to high social standing, but after the death of Trajan, he and his family were martyred under Hadrian for refusing to sacrifice to pagan Roman gods.\nEustace was venerated in the Byzantine Church from at least the 7th century. \nHis veneration is attested for the Latin Church for the 8th century, but his rise to popularity in Western Europe happened in the high medieval period, during the 12th to 13th centuries. There are many versions and adaptations of his legend, in prose, in verse, and in the form of plays, in Latin, French and other languages. The saint, and scenes from his legend, were also frequently depicted in the figurative arts.\nEustace is counted as...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eustace",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-19_saint_eustace.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5c0f613dfcd09fc188b85a2297e2d327f12ec42a3eb3cc76614b9ed4a4394b08",
+        "langs": {
+          "es": {
+            "translatedHash": "249fec28c6025f3a618a6b65411b1e0454d773d73944aac3b4ff605144227efa",
+            "updatedAt": "2026-02-25T00:33:24.554Z"
+          },
+          "pl": {
+            "translatedHash": "2a28139bf13bd1765c79d58ab36ac5c9f577cd0e51aca90832993b25482af9db",
+            "updatedAt": "2026-02-25T00:33:25.049Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "946cc47eee6ad99a5bfc06e8fe77a22bf2a91bbf3ffd07d2527a0d32676c5131",
+        "langs": {
+          "es": {
+            "translatedHash": "a89e0895c3bd6299d45dc62fec27b81bc47ea59ee0f9f73868857f16d616c72a",
+            "updatedAt": "2026-02-25T00:33:25.537Z"
+          },
+          "pl": {
+            "translatedHash": "9041f9fda5d51c938bf106541b2b0fa50ecc0bc178646047fd51b38da15e3b68",
+            "updatedAt": "2026-02-25T00:33:26.053Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e3eaf91b804bc6b1be991cf02c47847ba5d6deadd927b9e1eda2e61ec2dc9e9e",
+        "langs": {
+          "es": {
+            "translatedHash": "388e0ad75579895c0bc7cda8fb86097be68b1ff9923cc98fcc7ccb93cd942cdb",
+            "updatedAt": "2026-02-25T00:33:29.853Z"
+          },
+          "pl": {
+            "translatedHash": "0d53ce134a26c3771096baccbec50856b894804bb563a6a9b4d8dcec1240027d",
+            "updatedAt": "2026-02-25T00:33:34.116Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "926957bf2ae7d77db00e1e85bcfb29c9925d06204934fe27ce5e946cd1ef8ecf",
+        "langs": {
+          "es": {
+            "translatedHash": "4fc06636bea97857d5fe744ef853a77bd96d836c47936013a3c6790d427fa4db",
+            "updatedAt": "2026-02-25T00:33:39.511Z"
+          },
+          "pl": {
+            "translatedHash": "cb3304a387d37ff630dc001a7a707bb6fd97d550645b9709787c4d5a7af71f6e",
+            "updatedAt": "2026-02-25T00:33:46.249Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Eustaquio",
+  "name_pl": "Święty Eustachy",
+  "feast_es": "El Diecinueve de Septiembre",
+  "feast_pl": "Dziewiętnasty Dzień Września",
+  "summary_es": "San Eustaquio es venerado como un mártir cristiano. Según la leyenda, fue martirizado en el año 118 d.C., por orden del emperador Adriano. Eustaquio era un general romano pagano, que se convirtió al cristianismo después de tener una visión de la cruz mientras cazaba. Perdió toda su riqueza, fue separado de su esposa e hijos, y se exilió en Egipto. Llamado de nuevo para liderar el ejército romano por el emperador Trajano, Eustaquio se reunió felizmente con su familia y fue restaurado a un alto rango social, pero tras la muerte de Trajano, él y su familia fueron martirizados bajo Adriano por negarse a sacrificar a los dioses paganos romanos.",
+  "summary_pl": "Święty Eustachy jest czczony jako chrześcijański męczennik.  \nWedług legendy został zamęczony w 118 roku n.e. na rozkaz cesarza Hadriana.  \nEustachy był pogańskim rzymskim generałem, który nawrócił się na chrześcijaństwo po tym, jak podczas polowania miał wizję krzyża.  \nStracił cały swój majątek, został rozdzielony z żoną i synami, i udał się na wygnanie do Egiptu.  \n\nWezwany z powrotem do dowodzenia armią rzymską przez cesarza Trajana, Eustachy szczęśliwie zjednoczył się z rodziną i odzyskał wysoką pozycję społeczną,  \nale po śmierci Trajana on i jego rodzina zostali zamęczeni za odmowę składania ofiar pogańskim bogom rzymskim pod rządami Hadriana.",
+  "biography_es": "San Eustaquio (latinizado Eustachius o Eustathius; griego: Εὐστάθιος Πλακίδας Eustathios Plakidas) es venerado como un mártir cristiano. Según la leyenda, fue martirizado en el año 118 d.C., por orden del emperador Adriano. Eustaquio era un general romano pagano, que se convirtió al cristianismo después de tener una visión de la cruz mientras cazaba. Perdió toda su riqueza, fue separado de su esposa e hijos, y se exilió en Egipto. Llamado de nuevo para liderar el ejército romano por el emperador Trajano, Eustaquio se reunió felizmente con su familia y fue restaurado a un alto rango social, pero tras la muerte de Trajano, él y su familia fueron martirizados bajo Adriano por negarse a sacrificar a los dioses paganos romanos.\n\nEustaquio fue venerado en la Iglesia Bizantina desde al menos el siglo VII.  \nSu veneración está atestiguada en la Iglesia Latina desde el siglo VIII, pero su auge en popularidad en Europa Occidental ocurrió en la alta Edad Media, durante los siglos XII al XIII. Existen muchas versiones y adaptaciones de su leyenda, en prosa, en verso y en forma de obras teatrales, en latín, francés y otros idiomas. El santo, y escenas de su leyenda, también fueron frecuentemente representados en las artes figurativas.\n\nEustaquio es contado como...",
+  "biography_pl": "Święty Eustachy (łac. Eustachius lub Eustathius; gr. Εὐστάθιος Πλακίδας Eustathios Plakidas) jest czczony jako męczennik chrześcijański. Według legendy, został zamęczony w 118 roku n.e. na rozkaz cesarza Hadriana. Eustachy był pogańskim rzymskim generałem, który nawrócił się na chrześcijaństwo po tym, jak podczas polowania miał wizję krzyża. Stracił cały swój majątek, został rozdzielony z żoną i synami, i udał się na wygnanie do Egiptu. Wezwany przez cesarza Trajana do dowodzenia armią rzymską, Eustachy szczęśliwie zjednoczył się z rodziną i odzyskał wysoką pozycję społeczną, lecz po śmierci Trajana on i jego rodzina zostali zamęczeni za odmowę składania ofiar pogańskim bogom rzymskim pod rządami Hadriana.\n\nEustachy był czczony w Kościele bizantyjskim co najmniej od VII wieku.  \nJego kult jest potwierdzony w Kościele łacińskim od VIII wieku, jednak jego wzrost popularności w Europie Zachodniej nastąpił w okresie średniowiecza wysokiego, w XII i XIII wieku. Istnieje wiele wersji i adaptacji jego legendy, w prozie, wierszem oraz w formie sztuk teatralnych, w języku łacińskim, francuskim i innych. Święty oraz sceny z jego legendy były także często przedstawiane w sztukach plastycznych.\n\nEustachy jest zaliczany do..."
+}

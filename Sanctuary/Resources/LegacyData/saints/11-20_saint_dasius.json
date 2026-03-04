@@ -1,0 +1,78 @@
+{
+  "id": "11-20_saint_dasius",
+  "name": "Saint Dasius",
+  "mmdd": "11-20",
+  "feast": "The Twentieth Day of November",
+  "summary": "Dasius of Durostorum is a Christian martyr of the early 4th century AD. \nHe was a Roman soldier of Legio XI Claudiana at Durostorum, Moesia Inferior who was beheaded in the early 4th century after his refusal to take the part of \"king\" in the local Saturnalia celebrations.",
+  "biography": "Acta Dasii\n\nDasius was the first of twelve martyrs executed at Durostorum during the Diocletianic Persecution.\nA Greek Passion of St. Dasius survives, also known as the Acta Dasii, dated to between the late 4th and late 6th centuries. \nThis text was discovered in the 1890s by Franz Cumont in an 11th-century manuscript. Before Cumont's discovery, the saint had only been known from short entries in various medieval martyrologies.\nThe text of the Acta Dasii as it survives does not have an earlier date than the late 4th century, as Dasius is anachronistically depicted as professing the Neo-Nicene (Niceno–Constantinopolitan) creed as laid down in 381. Cumont himself dated the text to the 5th or 6th century, considering the possibility that this text was in turn based on an older, 4th-century Latin text, which would have been written within...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dasius_of_Durostorum"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-20_saint_dasius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8e9e3e0110e27046269198c318a66ee5ccf986085eee6bf708b64900ca55d2af",
+        "langs": {
+          "es": {
+            "translatedHash": "62c65e964af1b2c21df4b6e8d41cf3ebd4cddce77f9c202859f32a6ec434d36c",
+            "updatedAt": "2026-02-25T01:11:41.929Z"
+          },
+          "pl": {
+            "translatedHash": "77fe6c22c8bddc69ea4065d78769f19fc2b175c0d5947dc028af6216c65df27d",
+            "updatedAt": "2026-02-25T01:11:42.710Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "987dd4cc6913e54e5b23b596aebab11978e250e24a7e05350045b5a377faca08",
+        "langs": {
+          "es": {
+            "translatedHash": "98869f4fa98adf7110f51239cf2405259742d0092b3152fb8b7e2c609429e013",
+            "updatedAt": "2026-02-25T01:11:43.348Z"
+          },
+          "pl": {
+            "translatedHash": "a306d9416a73ebdf83c3c8f6a89fa7b7d2a9bb6b94a1699083f1f69e46f093cd",
+            "updatedAt": "2026-02-25T01:11:44.000Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "fc7f358daaed9fa8beb637f6f2099819173b1bc9cc3bce5ee6ed372bade320f0",
+        "langs": {
+          "es": {
+            "translatedHash": "a91cf1b1e8dcc64e2df85e7ce9d6c58a412266325437b93cdf19314c754d24fc",
+            "updatedAt": "2026-02-25T01:11:45.487Z"
+          },
+          "pl": {
+            "translatedHash": "90c140501c274bb450be8a55335b06b747a683839f0717dbf7306e298efa5d33",
+            "updatedAt": "2026-02-25T01:11:46.957Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4d49157d246ba0863a0b9bf613248168d1171cb94b4f02edc705c0a64a645791",
+        "langs": {
+          "es": {
+            "translatedHash": "55208158ce2d9a4bcc2093cd3f25328ae96228dfb965d1f5aecd8478fe910dcd",
+            "updatedAt": "2026-02-25T01:11:52.198Z"
+          },
+          "pl": {
+            "translatedHash": "ff4b747cd3e9e42fa8312b0c37d4458ed58618a3abbb7150a7042a0b723700aa",
+            "updatedAt": "2026-02-25T01:11:56.463Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Dacio",
+  "name_pl": "Święty Dazjusz",
+  "feast_es": "El Vigésimo Día de Noviembre",
+  "feast_pl": "Dwudziesty dzień listopada",
+  "summary_es": "Dacio de Durostoro es un mártir cristiano de principios del siglo IV d.C.  \nFue un soldado romano de la Legio XI Claudia en Durostoro, Mesia Inferior, que fue decapitado a principios del siglo IV tras negarse a tomar el papel de \"rey\" en las celebraciones locales de las Saturnales.",
+  "summary_pl": "Dazjusz z Durostorum jest chrześcijańskim męczennikiem z początku IV wieku n.e.  \nBył rzymskim żołnierzem Legii XI Claudiana w Durostorum, Moesia Inferior, który został ścięty na początku IV wieku po odmowie wzięcia udziału jako „król” w lokalnych obchodach Saturnalii.",
+  "biography_es": "Acta Dasii\n\nDacio fue el primero de doce mártires ejecutados en Durostorum durante la Persecución de Diocleciano.  \nSobrevive una Pasión griega de San Dacio, también conocida como Acta Dasii, fechada entre finales del siglo IV y finales del siglo VI.  \nEste texto fue descubierto en la década de 1890 por Franz Cumont en un manuscrito del siglo XI. Antes del descubrimiento de Cumont, el santo solo se conocía por breves entradas en varios martirologios medievales.  \nEl texto de las Acta Dasii tal como se conserva no tiene una fecha anterior a finales del siglo IV, ya que Dacio es representado anacrónicamente profesando el credo neo-niceno (niceno-constantinopolitano) establecido en 381. El propio Cumont fechó el texto en los siglos V o VI, considerando la posibilidad de que este texto estuviera a su vez basado en un texto latino más antiguo del siglo IV, que habría sido escrito dentro de...",
+  "biography_pl": "Acta Dasii\n\nDasius był pierwszym z dwunastu męczenników straconych w Durostorum podczas prześladowań Dioklecjana.  \nGrecka Pasja św. Dasjusza zachowała się, znana również jako Acta Dasii, datowana na okres między końcem IV a końcem VI wieku.  \nTekst ten został odkryty w latach 90. XIX wieku przez Franza Cumonta w rękopisie z XI wieku. Przed odkryciem Cumonta święty był znany jedynie z krótkich wpisów w różnych średniowiecznych martyrologiach.  \nTekst Acta Dasii w zachowanym stanie nie pochodzi z wcześniejszego okresu niż koniec IV wieku, ponieważ Dasius jest anachronicznie przedstawiony jako wyznający nowo-nicejskie (nicejsko-konstantynopolitańskie) wyznanie wiary ustanowione w 381 roku. Sam Cumont datował tekst na V lub VI wiek, rozważając możliwość, że tekst ten opiera się z kolei na starszym, IV-wiecznym tekście łacińskim, który miał zostać napisany w ciągu..."
+}

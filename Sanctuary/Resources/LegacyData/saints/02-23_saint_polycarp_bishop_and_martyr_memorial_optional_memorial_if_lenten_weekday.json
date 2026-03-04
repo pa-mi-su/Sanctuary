@@ -1,0 +1,48 @@
+{
+  "id": "02-23_saint_polycarp_bishop_and_martyr_memorial_optional_memorial_if_lenten_weekday",
+  "name": "Saint Polycarp, Bishop and Martyr—Memorial (Optional Memorial if Lenten weekday)",
+  "mmdd": "02-23",
+  "feast": "The Twenty-Third Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycarp"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-23_saint_polycarp_bishop_and_martyr_memorial_optional_memorial_if_lenten_weekday.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "20476df678d688a15bd651d5f43fc05d835a3d2619bc35ef646d8f76b4c6aaa8",
+        "langs": {
+          "es": {
+            "translatedHash": "9347a335def56f27128942114715e3eb65ee16ff0c6ce1f13ec0dd1c95df6a4b",
+            "updatedAt": "2026-02-24T22:41:41.010Z"
+          },
+          "pl": {
+            "translatedHash": "ef11a0e9d9c8ee07b5beee0d7627009144ce3bda2898891188fbbe5d5d5aefbe",
+            "updatedAt": "2026-02-24T22:41:42.274Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1242443854af535055c872a05c99934ea4df0e47fa59924e0e430abba63ef242",
+        "langs": {
+          "es": {
+            "translatedHash": "3902af4a3781ef3baad3d9bf8ed23642f14596c679075352a86ea868610e6a2a",
+            "updatedAt": "2026-02-24T22:41:42.905Z"
+          },
+          "pl": {
+            "translatedHash": "b173aabf9f70508a5dd822f6237269789578384be69381293dead5eedfab5c30",
+            "updatedAt": "2026-02-24T22:41:43.623Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Policarpo, Obispo y Mártir—Memorial (Memorial Opcional si es día laborable de Cuaresma)",
+  "name_pl": "Święty Polikarp, biskup i męczennik — Wspomnienie (Wspomnienie dowolne w dni powszednie Wielkiego Postu)",
+  "feast_es": "El Veintitrés de Febrero",
+  "feast_pl": "Dwudziesty Trzeci Dzień Lutego"
+}

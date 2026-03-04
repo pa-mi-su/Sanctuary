@@ -1,0 +1,48 @@
+{
+  "id": "10-02_guardian_angels_memorial",
+  "name": "Guardian Angels—Memorial",
+  "mmdd": "10-02",
+  "feast": "The Second Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guardian_Angels_Catholic_School.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-02_guardian_angels_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7de624e2883cf831b8ec512b4bb3a2c3b3c91e33ddd0d3ef9fbe795e20897184",
+        "langs": {
+          "es": {
+            "translatedHash": "11c10262db8e60cc3b7deab410b80868a39761698c242ea663d8ba1d96fe133a",
+            "updatedAt": "2026-02-25T00:42:08.313Z"
+          },
+          "pl": {
+            "translatedHash": "23f5db2c37eca7b0302d49ee60a559f317c41a7d21b35bfb5b886a192a668e36",
+            "updatedAt": "2026-02-25T00:42:08.916Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cccb92348ceeea65036a67544bf4ca9398a4fd96cceb84f5e458c7cdf6c20c14",
+        "langs": {
+          "es": {
+            "translatedHash": "226ef99722329396b8e28bcf9c964267f1cb4bdb20f13e288ed844164ddd4bae",
+            "updatedAt": "2026-02-25T00:42:09.504Z"
+          },
+          "pl": {
+            "translatedHash": "4269ecb738eecda468d9b51910179cbbdc3a56c1f8c6f8a642e3d3855443023e",
+            "updatedAt": "2026-02-25T00:42:10.188Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Ángeles Guardianes—Memoria",
+  "name_pl": "Aniołowie Stróżowie — Wspomnienie",
+  "feast_es": "El Segundo Día de Octubre",
+  "feast_pl": "Drugi Dzień Października"
+}

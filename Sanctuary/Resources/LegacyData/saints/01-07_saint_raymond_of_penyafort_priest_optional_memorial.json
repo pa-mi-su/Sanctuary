@@ -1,0 +1,48 @@
+{
+  "id": "01-07_saint_raymond_of_penyafort_priest_optional_memorial",
+  "name": "Saint Raymond of Penyafort, Priest—Optional Memorial",
+  "mmdd": "01-07",
+  "feast": "The Seventh Day of January",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tomb_of_Saint_Raymond_of_Penyafort.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-07_saint_raymond_of_penyafort_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9640d7e43a6076a24a25432b7b95c4bedae5048b5619335e3000e8fa2e7836e9",
+        "langs": {
+          "es": {
+            "translatedHash": "5898785d7a665918c87fe7a50e150525ccd6596d70a71b6574d0d0c565180145",
+            "updatedAt": "2026-02-24T22:09:29.922Z"
+          },
+          "pl": {
+            "translatedHash": "7c9777b30b4ea281af6f02c30e0b8dfb0973c71be2f9ed0b692fbf9e0474d0e6",
+            "updatedAt": "2026-02-24T22:09:31.156Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7119f31811ada4289dcfa4760f4f334f81f389bf32372df5699c94b159143598",
+        "langs": {
+          "es": {
+            "translatedHash": "a62cbc87e1406330d863de7369014474ec24208b8c29aea1eac2512d8d71e530",
+            "updatedAt": "2026-02-24T22:09:31.840Z"
+          },
+          "pl": {
+            "translatedHash": "e1aac62c322e516d1bac6a64bed19d171859276a3d80fd6e5b89c60bd39552c0",
+            "updatedAt": "2026-02-24T22:09:32.599Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Raimundo de Peñafort, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Rajmund z Penyafort, kapłan — wspomnienie dowolne",
+  "feast_es": "El séptimo día de enero",
+  "feast_pl": "Siódmy dzień stycznia"
+}

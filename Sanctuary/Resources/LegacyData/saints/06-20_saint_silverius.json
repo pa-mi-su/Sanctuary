@@ -1,0 +1,79 @@
+{
+  "id": "06-20_saint_silverius",
+  "name": "Saint Silverius",
+  "mmdd": "06-20",
+  "feast": "The Twentieth day of June",
+  "summary": "Pope Silverius was bishop of Rome from 8 June 536 to his deposition in 537, a few months before his death. His rapid rise to prominence from a deacon to the papacy coincided with the efforts of Ostrogothic king Theodahad, who intended to install a pro-Gothic candidate just before the Gothic War. Later deposed by Byzantine general Belisarius, he was tried and sent to exile on the desolated island of Palmarola, where he starved to death in 537.",
+  "biography": "Life\n\nHe was a legitimate son of Pope Hormisdas, born in Frosinone, Lazio, some time before his father entered the priesthood. Silverius was probably consecrated 8 June 536. He was a subdeacon when king Theodahad of the Ostrogoths forced his election and consecration. Historian Jeffrey Richards interprets his low rank prior to becoming pope as an indication that Theodahad was eager to put a pro-Gothic candidate on the throne on the eve of the Gothic War and \"had passed over the entire diaconate as untrustworthy\". The Liber Pontificalis alleges that Silverius had purchased his elevation from King Theodahad.\nOn 9 December 536, the Byzantine general Belisarius entered Rome with the approval...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Silverius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-20_saint_silverius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c6f4511323239ee4ca10e40c95a5d2d67941d3fbc1feb32b7d93ce49f32f67f4",
+        "langs": {
+          "es": {
+            "translatedHash": "d889c52673546199748d88a17ab663c605e2d561b5e1998a7a5d58cd26d19139",
+            "updatedAt": "2026-02-24T23:45:29.975Z"
+          },
+          "pl": {
+            "translatedHash": "92292488ea6ee8bd51ca6632823a0662d9ae5f047ea13c6f488faad1c02a0efe",
+            "updatedAt": "2026-02-24T23:45:30.609Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "96d5712a880b84619185610f6ceb05c94ed540edff880aae8daf17aea97701cd",
+        "langs": {
+          "es": {
+            "translatedHash": "841b9eb4bc8d9a06d87a9424dd8ee8da2a3aab4db45192989ab29d171ee5edcd",
+            "updatedAt": "2026-02-24T23:45:31.167Z"
+          },
+          "pl": {
+            "translatedHash": "13f9dfed033d7bc38b6d8799e3ca9ba0abdb5bc7ba3ca883141b248bf532318f",
+            "updatedAt": "2026-02-24T23:45:31.660Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "52feed0bc0a0e4db478a768972b6641c82505edf0c07d19100530a9619944d63",
+        "langs": {
+          "es": {
+            "translatedHash": "4676014ca7376ceb3a66bd1334e0abbb8f1c5e92c67c2e83411568ead0825c01",
+            "updatedAt": "2026-02-24T23:45:34.050Z"
+          },
+          "pl": {
+            "translatedHash": "b7ce4f633f3bbf8ab01f6079681ab0346e3d96e86a5ceb54da4c1a6452fb6a96",
+            "updatedAt": "2026-02-24T23:45:38.247Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f121b5769299d0ca2f0e5cdbd8415b563f259db82f8e25847c4d64ec801f8b16",
+        "langs": {
+          "es": {
+            "translatedHash": "f93986b141e46fdb4452618f19700b4e677f988f027105fe37c4e1364a4e9cf7",
+            "updatedAt": "2026-02-24T23:45:41.383Z"
+          },
+          "pl": {
+            "translatedHash": "114cbe834001dd3d2e038d3402eca0f936969f3cbe007684998aacf3705a9ae1",
+            "updatedAt": "2026-02-24T23:45:45.020Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Silverio",
+  "name_pl": "Święty Silverius",
+  "feast_es": "El vigésimo día de junio",
+  "feast_pl": "Dwudziesty dzień czerwca",
+  "summary_es": "El Papa Silverio fue obispo de Roma desde el 8 de junio de 536 hasta su deposición en 537, pocos meses antes de su muerte. Su rápido ascenso a la prominencia, desde diácono hasta el papado, coincidió con los esfuerzos del rey ostrogodo Teodahad, quien intentaba instalar a un candidato pro-godo justo antes de la Guerra Gótica. Más tarde, depuesto por el general bizantino Belisario, fue juzgado y enviado al exilio en la desolada isla de Palmarola, donde murió de hambre en 537.",
+  "summary_pl": "Papież Silverius był biskupem Rzymu od 8 czerwca 536 do swojego usunięcia z urzędu w 537 roku, na kilka miesięcy przed śmiercią. Jego szybki awans z diakona na papieża zbiegł się z działaniami króla Ostrogotów Teodahada, który zamierzał ustanowić pro-gotyckiego kandydata tuż przed wojną gotów. Później został usunięty przez bizantyjskiego generała Belizariusza, sądzony i zesłany na wyspę Palmarola, gdzie w 537 roku umarł z głodu.",
+  "biography_es": "Vida\n\nFue un hijo legítimo del Papa Hormisdas, nacido en Frosinone, Lacio, algún tiempo antes de que su padre ingresara al sacerdocio. Silverio probablemente fue consagrado el 8 de junio de 536. Era subdiácono cuando el rey Teodahado de los ostrogodos forzó su elección y consagración. El historiador Jeffrey Richards interpreta su bajo rango antes de convertirse en papa como una indicación de que Teodahado estaba ansioso por poner en el trono a un candidato pro-godo en la víspera de la Guerra Gótica y \"había pasado por alto a todo el diaconado por considerarlo poco confiable\". El Liber Pontificalis alega que Silverio había comprado su elevación al rey Teodahado.  \nEl 9 de diciembre de 536, el general bizantino Belisario entró en Roma con la aprobación...",
+  "biography_pl": "Życie\n\nBył prawowitym synem papieża Hormizdasa, urodzonym w Frosinone, w Lacjum, w pewnym czasie przed tym, jak jego ojciec wstąpił do stanu duchownego. Silverius prawdopodobnie został konsekrowany 8 czerwca 536 roku. Był subdiakonem, gdy król Ostrogotów Teodahad wymusił jego wybór i konsekrację. Historyk Jeffrey Richards interpretuje jego niski stopień przed zostaniem papieżem jako oznakę, że Teodahad był chętny, by na tronie zasiadł kandydat sprzyjający Gotom na progu wojny gotyckiej i „pominął cały diakonat jako niewiarygodny”. Liber Pontificalis twierdzi, że Silverius wykupił swoje wyniesienie od króla Teodahada.  \n9 grudnia 536 roku, bizantyjski generał Belizariusz wszedł do Rzymu za zgodą..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "05-16_saint_ubaldus",
+  "name": "Saint Ubaldus",
+  "mmdd": "05-16",
+  "feast": "The Sixteenth Day of May",
+  "summary": "Ubald of Gubbio was a medieval bishop of Gubbio, in Umbria, today venerated as a saint by the Catholic Church. Saint Ubaldo Day is still celebrated at the Basilica of Sant'Ubaldo in Gubbio in his honor, as well as at Jessup, Pennsylvania.",
+  "biography": "Ubald of Gubbio (Italian: Ubaldo; Latin: Ubaldus; French: Ubalde; ca. 1084–1160) was a medieval bishop of Gubbio, in Umbria, today venerated as a saint by the Catholic Church. Saint Ubaldo Day is still celebrated at the Basilica of Sant'Ubaldo in Gubbio in his honor, as well as at Jessup, Pennsylvania. Life Born Ubaldo Baldassini, the only son of noble parents Rovaldo and Guiliana Baldassini. He was a relative of Sperandia, abbess of a Camaldolese monastery at Cingoli. Ubald was baptized in the church of San Giovanni and named after his uncle. Ubald's parents died while he was still very young, and he was raised by his uncle, the bishop of Gubbio. He was educated by the prior of the cathedral church of his native city, where he also became a canon regular. Ubald entered the Monastery of St. Secondo in the same city, where he remained for some years. He was ordained about 1114. Recalled by his bishop, he returned to the cathedral monastery. The bishop made him prior of his cathedral that he might reform several abuses in the behaviour of the canons. He learned that Peter de Honestis some years before had established a community of canons regular at the monastery of Santa Maria...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ubald",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-16_saint_ubaldus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "788cc0015d5c3893d09eb77e7d82123b6887ccc55064d3a747c32eb8e0811547",
+        "langs": {
+          "es": {
+            "translatedHash": "c59c18c736aadc364886dadd758618097fd79e01693c2dfce293470c52673f3d",
+            "updatedAt": "2026-02-24T23:26:09.491Z"
+          },
+          "pl": {
+            "translatedHash": "be2ee4d8d4a128eead7ff1fe6ac1401a57f2c0e82046d70d7d48168db01e5085",
+            "updatedAt": "2026-02-24T23:26:10.002Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6f37bcd1150508d3bf13f15adc778dcacb57d4f0a4c7d076bd74ff85482bb8d3",
+        "langs": {
+          "es": {
+            "translatedHash": "630fba1a8df0067b86ce754e88c3fd9b91200cc1643c76604a8a54c754457aad",
+            "updatedAt": "2026-02-24T23:26:12.186Z"
+          },
+          "pl": {
+            "translatedHash": "fc03cecd05a76477dc5da4874b71c907d216362c48300c8796ba6e31e0d97760",
+            "updatedAt": "2026-02-24T23:26:12.918Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "697b6f878c42db3ae607841a2d39a111935aba3c356f353d4f38cb638f82ebc6",
+        "langs": {
+          "es": {
+            "translatedHash": "9bb3b4a7907f7c69c459432846c58cad75b7a39a396241ec7d815ff0b3faf16f",
+            "updatedAt": "2026-02-24T23:26:15.365Z"
+          },
+          "pl": {
+            "translatedHash": "48bf4f843238d3caaad7492c99240ce1624d9a6c308a2e04ee9e1e379acf9fcf",
+            "updatedAt": "2026-02-24T23:26:17.982Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ce103fc56a57042bf87cc78af113e086036c7acd7b546f21d57f2a10940cd9a3",
+        "langs": {
+          "es": {
+            "translatedHash": "725d69e1e9e7872e638c209d1257f654ae53a52e1945a11c1f9f8db598f8cff3",
+            "updatedAt": "2026-02-24T23:26:24.048Z"
+          },
+          "pl": {
+            "translatedHash": "b6550f6cf6c60d83fc9f764d57888cdf88372df15247fdab9781a5ada0e4306d",
+            "updatedAt": "2026-02-24T23:26:28.891Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ubaldo",
+  "name_pl": "Święty Ubald",
+  "feast_es": "El Dieciséis de Mayo",
+  "feast_pl": "Szesnasty dzień maja",
+  "summary_es": "Ubald de Gubbio fue un obispo medieval de Gubbio, en Umbría, hoy venerado como santo por la Iglesia Católica. El Día de San Ubaldo todavía se celebra en la Basílica de Sant'Ubaldo en Gubbio en su honor, así como en Jessup, Pensilvania.",
+  "summary_pl": "Ubald z Gubbio był średniowiecznym biskupem Gubbio w Umbrii, dziś czczonym jako święty przez Kościół katolicki. Dzień św. Ubalda jest nadal obchodzony w Bazylice św. Ubalda w Gubbio na jego cześć, a także w Jessup w stanie Pensylwania.",
+  "biography_es": "Ubaldo de Gubbio (italiano: Ubaldo; latín: Ubaldus; francés: Ubalde; ca. 1084–1160) fue un obispo medieval de Gubbio, en Umbría, hoy venerado como santo por la Iglesia Católica. El Día de San Ubaldo todavía se celebra en la Basílica de Sant'Ubaldo en Gubbio en su honor, así como en Jessup, Pensilvania.\n\nVida  \nNacido Ubaldo Baldassini, hijo único de los nobles Rovaldo y Guiliana Baldassini. Era pariente de Sperandia, abadesa de un monasterio camaldulense en Cingoli. Ubaldo fue bautizado en la iglesia de San Giovanni y recibió el nombre de su tío.  \n\nLos padres de Ubaldo murieron cuando él era aún muy joven, y fue criado por su tío, el obispo de Gubbio. Fue educado por el prior de la iglesia catedral de su ciudad natal, donde también se convirtió en canónigo regular. Ubaldo ingresó al Monasterio de San Segundo en la misma ciudad, donde permaneció varios años. Fue ordenado alrededor de 1114.  \n\nLlamado de nuevo por su obispo, regresó al monasterio catedralicio. El obispo lo nombró prior de su catedral para que pudiera reformar varios abusos en el comportamiento de los canónigos. Supo que Pedro de Honestis algunos años antes había establecido una comunidad de canónigos regulares en el monasterio de Santa María...",
+  "biography_pl": "Ubald z Gubbio (wł. Ubaldo; łac. Ubaldus; fr. Ubalde; ok. 1084–1160) był średniowiecznym biskupem Gubbio w Umbrii, dziś czczonym jako święty przez Kościół katolicki. Dzień św. Ubaldusa jest wciąż obchodzony w Bazylice Sant'Ubaldo w Gubbio na jego cześć, a także w Jessup w Pensylwanii.\n\nŻycie  \nUrodził się jako Ubald Baldassini, jedyny syn szlacheckich rodziców Rovaldo i Giuliany Baldassini. Był krewnym Sperandii, opatki klasztoru kamaldolskiego w Cingoli. Ubald został ochrzczony w kościele San Giovanni i nazwany na cześć swojego wuja. Rodzice Ubalda zmarli, gdy był jeszcze bardzo młody, a wychowywał go jego wuj, biskup Gubbio. Kształcił się pod kierunkiem przeora katedry swojego rodzinnego miasta, gdzie również został kanonikiem regularnym. Ubald wstąpił do klasztoru św. Secondo w tym samym mieście, gdzie pozostał przez kilka lat. Święcenia kapłańskie przyjął około 1114 roku. Wezwany przez swojego biskupa, powrócił do klasztoru katedralnego. Biskup mianował go przeorem katedry, aby mógł przeprowadzić reformę licznych nadużyć w zachowaniu kanoników. Dowiedział się, że Piotr de Honestis kilka lat wcześniej założył wspólnotę kanoników regularnych w klasztorze Santa Maria..."
+}

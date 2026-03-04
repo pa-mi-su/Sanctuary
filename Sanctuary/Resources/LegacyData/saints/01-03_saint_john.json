@@ -1,0 +1,81 @@
+{
+  "id": "01-03_saint_john",
+  "name": "Saint John",
+  "mmdd": "01-03",
+  "feast": "The Third Day of January",
+  "summary": "John the Apostle, also known as Saint John the Beloved and, in Eastern Orthodox Christianity, Saint John the Theologian, was one of the Twelve Apostles of Jesus according to the New Testament. Generally listed as the youngest apostle, he was the son of Zebedee and Salome. His brother James was another of the Twelve Apostles. The Church Fathers identify him as John the Evangelist, John of Patmos, John the Elder, and the Beloved Disciple, and claim that he outlived the remaining apostles and was the only one to die of natural causes, although modern scholars are divided on the veracity of these claims.",
+  "biography": "John the Apostle is traditionally held to be the author of the Gospel of John, and many Christian denominations believe that he authored several other books of the New Testament (the three Johannine epistles and the Book of Revelation, together with the Gospel of John, are called the Johannine works), depending on whether he is distinguished from, or identified with, John the Evangelist, John the Elder, and John of Patmos.\nAlthough the authorship of the Johannine works has traditionally been attributed to John the Apostle,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-03_saint_john.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "83ff8096fefa3709f95a4e063a5fa1ab88a96cf05e0b368c3deba4f54c21cccf",
+        "langs": {
+          "es": {
+            "translatedHash": "0c754c271376cd8bdaf8e93edba2c6e034afa14925d617aab4f4a3be48f4525d",
+            "updatedAt": "2026-02-24T22:05:11.889Z"
+          },
+          "pl": {
+            "translatedHash": "8f1513263a11b34323a50ba3aa56a22c7feb89574bf58123b1d6f547cb3affb7",
+            "updatedAt": "2026-02-24T22:05:12.508Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "12ea0f25e3ba7930817b20416eeb4f8b393be293c009269a56e829391ae86f37",
+        "langs": {
+          "es": {
+            "translatedHash": "2747972a44bc2d21b53162ff56ee6e7c20bae0b57f9912d749a139305b39d035",
+            "updatedAt": "2026-02-24T22:05:13.166Z"
+          },
+          "pl": {
+            "translatedHash": "e57271eb78d4302d6300aa78eb563fc45afdc428657d9db8fb58aedbf3c53c4f",
+            "updatedAt": "2026-02-24T22:05:13.638Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b4286ae10087d2572f72bf2480f777d0c21809b8fe739bb1136e23f924f521a1",
+        "langs": {
+          "es": {
+            "translatedHash": "f19788047c6e06adb778ccf5a95e0308216f8ba5f582d3d5cc8c7e391dd83015",
+            "updatedAt": "2026-02-24T22:05:15.780Z"
+          },
+          "pl": {
+            "translatedHash": "933b58f6ee0400c6f9319cd95e9d90bedddc975d4c3a09f606063016d109314e",
+            "updatedAt": "2026-02-24T22:05:19.437Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3b254e2b04c30c5b46617c06b7f2d35ed3d3418a92c143ef3e9dfec1e7389b45",
+        "langs": {
+          "es": {
+            "translatedHash": "2c77bcfaae6e8a3d09c220243e8a26fb2ef1d8cf715f32bc0b29b2fec12a64e5",
+            "updatedAt": "2026-02-24T22:05:21.372Z"
+          },
+          "pl": {
+            "translatedHash": "dcd679673f1b251a0b6478405290816f7773e3a1b4a7bab51c8bcd033f36170b",
+            "updatedAt": "2026-02-24T22:05:23.848Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan",
+  "name_pl": "Święty Jan",
+  "feast_es": "El Tercer Día de Enero",
+  "feast_pl": "Trzeci Dzień Stycznia",
+  "summary_es": "Juan el Apóstol, también conocido como San Juan el Amado y, en la Iglesia Ortodoxa Oriental, San Juan el Teólogo, fue uno de los Doce Apóstoles de Jesús según el Nuevo Testamento. Generalmente listado como el apóstol más joven, fue hijo de Zebedeo y Salomé. Su hermano Santiago fue otro de los Doce Apóstoles. Los Padres de la Iglesia lo identifican como Juan el Evangelista, Juan de Patmos, Juan el Anciano y el Discípulo Amado, y afirman que sobrevivió a los demás apóstoles y fue el único que murió de causas naturales, aunque los estudiosos modernos están divididos sobre la veracidad de estas afirmaciones.",
+  "summary_pl": "Jan Apostoł, znany również jako Święty Jan Umiłowany oraz, w chrześcijaństwie wschodnim, Święty Jan Teolog, był jednym z Dwunastu Apostołów Jezusa według Nowego Testamentu. Zazwyczaj wymieniany jako najmłodszy apostoł, był synem Zebedeusza i Salome. Jego brat Jakub był również jednym z Dwunastu Apostołów. Ojcowie Kościoła utożsamiają go z Janem Ewangelistą, Janem z Patmos, Janem Starszym oraz Umiłowanym Uczniem, i twierdzą, że przeżył pozostałych apostołów i był jedynym, który zmarł śmiercią naturalną, choć współcześni uczeni są podzieleni co do prawdziwości tych twierdzeń.",
+  "biography_es": "Juan el Apóstol es tradicionalmente considerado el autor del Evangelio de Juan, y muchas denominaciones cristianas creen que él escribió varios otros libros del Nuevo Testamento (las tres epístolas joánicas y el Libro de Apocalipsis, junto con el Evangelio de Juan, se llaman las obras joánicas), dependiendo de si se le distingue o se le identifica con Juan el Evangelista, Juan el Anciano y Juan de Patmos.  \nAunque la autoría de las obras joánicas ha sido tradicionalmente atribuida a Juan el Apóstol,...",
+  "biography_pl": "Jan Apostoł jest tradycyjnie uważany za autora Ewangelii Jana, a wiele wyznań chrześcijańskich wierzy, że napisał również kilka innych ksiąg Nowego Testamentu (trzy listy johannejskie oraz Apokalipsa, razem z Ewangelią Jana, nazywane są dziełami johannejskimi), w zależności od tego, czy jest wyróżniany od, czy utożsamiany z Janem Ewangelistą, Janem Starszym i Janem z Patmos.  \nChociaż autorstwo dzieł johannejskich tradycyjnie przypisuje się Janowi Apostołowi,..."
+}

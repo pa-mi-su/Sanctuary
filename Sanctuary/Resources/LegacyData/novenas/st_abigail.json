@@ -1,0 +1,266 @@
+{
+  "id": "st_abigail",
+  "title": "St Abigail Novena",
+  "description": "St Abigail (also called St Gobnait or St Deborah) was a sixth century Irish saint. She is the patron saint of honeybees, beekeepers, and ironworkers.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Abigail"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 2
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-abigail-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro, Ave María, Gloria. Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Z góry dziękuję za łaski, które dla mnie wypraszasz, i niech zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro Ave María Gloria al Padre Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Z góry dziękuję za łaski, które dla mnie wypraszasz, i niechaj zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro, Ave María, Gloria. Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Dziękuję z góry za łaski, które dla mnie wypraszasz, i niech zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro Ave María Gloria al Padre Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Z góry dziękuję za łaski, które wypraszasz dla mnie, i niech zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro, Ave María, Gloria. Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Z góry dziękuję za łaski, które dla mnie wypraszasz, i niechaj zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu. Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro Ave María Gloria al Padre Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Z góry dziękuję za łaski, które wypraszasz dla mnie, i niech zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu, Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo permanezca siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro Ave María Gloria al Padre Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a jednak pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Boga i dla zbawienia dusz. Z góry dziękuję za łaski, które dla mnie wypraszasz, i niech zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu. Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (mencionar la petición aquí…)\n\nSanta Abigail, soportaste disputas dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro Ave María Gloria al Padre Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Bożej i dla zbawienia dusz. Z góry dziękuję za łaski, które wypraszasz dla mnie, i niech zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu, Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Abigail, I ask for your prayers in this novena, for healing of sickness, for growth in the virtues I need, and for peace in conflict. I also ask for a special intention in this novena (mention request here…)\n\nSt Abigail, you endured strife within your own family and yet remained faithful to our Lord. Pray for me, that I can be a peacemaker in my home and among those I love, for the glory of God and for the sake of souls. Thank you in advance for the graces you are obtaining for me, and may I ever remain in a state of sanctifying grace, seeking God’s will every day of my life. Our Father Hail Mary Glory Be St Abigail, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Abigail, te pido tus oraciones en esta novena, por la sanación de la enfermedad, por el crecimiento en las virtudes que necesito, y por la paz en el conflicto. También te pido una intención especial en esta novena (menciona la petición aquí…)\n\nSanta Abigail, soportaste conflictos dentro de tu propia familia y sin embargo permaneciste fiel a nuestro Señor. Ruega por mí, para que pueda ser un pacificador en mi hogar y entre los que amo, para la gloria de Dios y por el bien de las almas. Gracias de antemano por las gracias que estás obteniendo para mí, y que yo pueda permanecer siempre en estado de gracia santificante, buscando la voluntad de Dios cada día de mi vida. Padre Nuestro Ave María Gloria al Padre Santa Abigail, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Abigail, proszę o Twoje modlitwy w tej nowennie, o uzdrowienie z choroby, o wzrost w cnotach, których potrzebuję, oraz o pokój w konfliktach. Proszę także o szczególną intencję w tej nowennie (wymień tutaj prośbę…)\n\nŚwięta Abigail, znosiłaś spory w swojej rodzinie, a mimo to pozostałaś wierna naszemu Panu. Módl się za mnie, abym mógł być twórcą pokoju w moim domu i wśród tych, których kocham, dla chwały Boga i dla zbawienia dusz. Z góry dziękuję za łaski, które dla mnie wypraszasz, i niechaj zawsze pozostanę w stanie łaski uświęcającej, szukając woli Bożej każdego dnia mojego życia. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Abigail, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "February 2Feastday:February 11Birth:500Death:550Patron saint of honeybees, beekeepers, and ironworkers 📱",
+    "feast": "February 11Birth:500Death:550Patron saint of honeybees, beekeepers, and ironworkers 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_abigail.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "d1b9ecc7e3a4be75b102a37f91caf602f52ad825a137a2556494009e6b0c606c",
+        "langs": {
+          "es": {
+            "translatedHash": "4a7983a7c8f1e0d8f7dabb551fd270e5b5c178e77cc7c2232b4dc5c469cb412d",
+            "updatedAt": "2026-02-25T11:29:15.844Z"
+          },
+          "pl": {
+            "translatedHash": "2a2855db5f7f79278dced0a43248f0e5398471d10cbe34c85cd969189fcc9d22",
+            "updatedAt": "2026-02-25T11:29:16.464Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "0a718777d90d365ea8b5687bb47a1dc9145007fb0140e35c0cdfab22b049c1f9",
+        "langs": {
+          "es": {
+            "translatedHash": "9de6a02202d944e679c2d75f5c4c367eef0fba3cc0f8d9dc230092fec351bf9d",
+            "updatedAt": "2026-02-25T11:29:17.719Z"
+          },
+          "pl": {
+            "translatedHash": "3e80c15b407fb26d175edfc84cdc813fc7729fad782e12833522ac9f4fefe1ff",
+            "updatedAt": "2026-02-25T11:29:19.052Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "7a8d5f153de8081b7a9670f07c8144658f5fb3d593845d0e4f3a2709563788d9",
+        "langs": {
+          "es": {
+            "translatedHash": "167cfd39214ae7ba0216ee2cc640c8a85ce57bbfbac9c0f452b211c9dc002f45",
+            "updatedAt": "2026-02-25T11:29:23.175Z"
+          },
+          "pl": {
+            "translatedHash": "1ce68c04313495e9cca9da33e239c0e42d2fe0fb4eeee245dcdf31083c098db2",
+            "updatedAt": "2026-02-25T11:29:27.608Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "76c6cf083bd822b73406921989b3b2f91d13ec0021ec9d927c81865b1f9754b5",
+        "langs": {
+          "es": {
+            "translatedHash": "d06281a1b5f9386c0135385bc8150c08b93b4612554fea45abfc20962c781c26",
+            "updatedAt": "2026-02-25T11:29:31.953Z"
+          },
+          "pl": {
+            "translatedHash": "9b27948c75fed8fbe7747c76aed288ef5b470687cf21051d974e2a7791fd8a0c",
+            "updatedAt": "2026-02-25T11:29:36.712Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "2353f5808105adb5e0ef9dcf3e458cfccbca5ad839184a8461ac7a70205c9f40",
+        "langs": {
+          "es": {
+            "translatedHash": "167cfd39214ae7ba0216ee2cc640c8a85ce57bbfbac9c0f452b211c9dc002f45",
+            "updatedAt": "2026-02-25T11:29:44.205Z"
+          },
+          "pl": {
+            "translatedHash": "9bfa4ba255c844e0a83564bc1b7124bab5576e77b08d677c9e14490afe52bfb6",
+            "updatedAt": "2026-02-25T11:29:49.445Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "bd9e98fa680c2c44f8b922b361d43d6af4f377b638aec155f9da3bbdfa8a4266",
+        "langs": {
+          "es": {
+            "translatedHash": "d06281a1b5f9386c0135385bc8150c08b93b4612554fea45abfc20962c781c26",
+            "updatedAt": "2026-02-25T11:29:53.435Z"
+          },
+          "pl": {
+            "translatedHash": "49dead3175338ca82e0f5b691870feaf266ce89ccaac99282da31926fa3959e8",
+            "updatedAt": "2026-02-25T11:29:59.110Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "cdf9b09db5b67883844163910249bafcfbb06a7502fb83f67c84eb058516c829",
+        "langs": {
+          "es": {
+            "translatedHash": "167cfd39214ae7ba0216ee2cc640c8a85ce57bbfbac9c0f452b211c9dc002f45",
+            "updatedAt": "2026-02-25T11:30:02.365Z"
+          },
+          "pl": {
+            "translatedHash": "609f2093bae666b2f23941cb40f5990b016cc2ec77f02ab868cd24b2c633085b",
+            "updatedAt": "2026-02-25T11:30:06.896Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "db25c1380550d93973f9b6e54c37c329d613cc1ee73193e45c821bfde0647b17",
+        "langs": {
+          "es": {
+            "translatedHash": "d06281a1b5f9386c0135385bc8150c08b93b4612554fea45abfc20962c781c26",
+            "updatedAt": "2026-02-25T11:30:10.246Z"
+          },
+          "pl": {
+            "translatedHash": "e4b3adbd0333f399b615d0844dc32404a961d576ed8045591edd1b1599c87955",
+            "updatedAt": "2026-02-25T11:30:15.127Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "d89ce09a56ca888d9b6a962001cfb1dcfc4acdf5aa6bf13c1e65bcc3e30163e5",
+        "langs": {
+          "es": {
+            "translatedHash": "413f0c77767a6da9de0206f95e6e8d00ebae8f12e34a59491409f1dbe114803c",
+            "updatedAt": "2026-02-25T11:30:18.819Z"
+          },
+          "pl": {
+            "translatedHash": "f08aae64c1e36fd31ecffd9d70c66268835ed1a0dce0238fae40d9417ae1460f",
+            "updatedAt": "2026-02-25T11:30:23.639Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "7163c4f702501dea997f5582a7a136978af2d83581255c1b660ceab822fcd63f",
+        "langs": {
+          "es": {
+            "translatedHash": "0a03f771c4062cac7663b99a4898550f7dc0a30dbcc05296e72afe3ad4b80259",
+            "updatedAt": "2026-02-25T11:30:27.171Z"
+          },
+          "pl": {
+            "translatedHash": "e4b3adbd0333f399b615d0844dc32404a961d576ed8045591edd1b1599c87955",
+            "updatedAt": "2026-02-25T11:30:31.715Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "62a9a3b11444ad9694245c18f2a11d0e18b3e395eee8f84315fb3abc709e1314",
+        "langs": {
+          "es": {
+            "translatedHash": "1db346b33da0c5943de53b60817ba018c71c8eaff1b862bee6f9742c230cd9b5",
+            "updatedAt": "2026-02-25T11:30:35.209Z"
+          },
+          "pl": {
+            "translatedHash": "5727f00226411826de702bbc25912ec5efec33235cea31a929fad1f1f4afbb09",
+            "updatedAt": "2026-02-25T11:30:39.961Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Abigail",
+  "title_pl": "Nowenna do św. Abigail",
+  "description_es": "Santa Abigail (también llamada Santa Gobnait o Santa Deborah) fue una santa irlandesa del siglo VI. Es la patrona de las abejas, los apicultores y los trabajadores del hierro.",
+  "description_pl": "Święta Abigail (zwany także św. Gobnait lub św. Deborah) była irlandzką świętą z VI wieku.  \nJest patronką pszczół, pszczelarzy i kowali."
+}

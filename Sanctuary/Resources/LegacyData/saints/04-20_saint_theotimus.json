@@ -1,0 +1,48 @@
+{
+  "id": "04-20_saint_theotimus",
+  "name": "Saint Theotimus",
+  "mmdd": "04-20",
+  "feast": "The Twentieth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francis_de_Sales"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-20_saint_theotimus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5e22b451617708f0f9d53b256a90763b2b24d6a7d473a739675a96f308c97fd0",
+        "langs": {
+          "es": {
+            "translatedHash": "1f3eee5aa6aeb575d28b7dc045dbf2a619a61f3c77297e1e910ac67822a66344",
+            "updatedAt": "2026-02-24T23:12:14.655Z"
+          },
+          "pl": {
+            "translatedHash": "fe6967c171a5bee5197260a0114617f44b81a4d324598e1396396bd31a807766",
+            "updatedAt": "2026-02-24T23:12:15.341Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4fe563fc90c8b78d68497cff52dd619e41e04f9c2efeef3511e06417aceb4b02",
+        "langs": {
+          "es": {
+            "translatedHash": "11922cd80820ab7772b57569d6f4b3fbe51d50058226185ba9c750eba6c5196c",
+            "updatedAt": "2026-02-24T23:12:16.108Z"
+          },
+          "pl": {
+            "translatedHash": "ec2d73774e9f7547285dad167567698ea4c927029ad8cee870a62f3911619e20",
+            "updatedAt": "2026-02-24T23:12:17.511Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Teótimo",
+  "name_pl": "Święty Teotimus",
+  "feast_es": "El vigésimo día de abril",
+  "feast_pl": "Dwudziesty dzień kwietnia"
+}

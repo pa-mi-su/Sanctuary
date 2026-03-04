@@ -1,0 +1,48 @@
+{
+  "id": "11-25_saint_catherine_of_alexandria_virgin_and_martyr_optional_memorial",
+  "name": "Saint Catherine of Alexandria, Virgin and Martyr—Optional Memorial",
+  "mmdd": "11-25",
+  "feast": "The Twenty-Fifth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-25_saint_catherine_of_alexandria_virgin_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "aa2271639ec2305b4ebe35ecf73268ff1f1ad39274855f2a3bdbfd3a551f6613",
+        "langs": {
+          "es": {
+            "translatedHash": "9f18c0fb65d37cd4b31f763fc658ba97f443812551915cd348318be57c7ff879",
+            "updatedAt": "2026-02-25T01:14:31.076Z"
+          },
+          "pl": {
+            "translatedHash": "ad5b853dca0eaa204ddb445f0211668019dd63df16a270d92c21a602ae1d0d53",
+            "updatedAt": "2026-02-25T01:14:31.818Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5d315ecac244308cc4128d44b6074d56bc02af013f028eeff5e9838001fb9ec7",
+        "langs": {
+          "es": {
+            "translatedHash": "a5f8523792a483e57e17f1801b94617bbf6d7ead0a9a27f0658e4df14fc7528e",
+            "updatedAt": "2026-02-25T01:14:32.444Z"
+          },
+          "pl": {
+            "translatedHash": "95f25ff89b4d0535419e2a35de12ef496cf0cdaea4835c429a6d81d0d5e1b58a",
+            "updatedAt": "2026-02-25T01:14:33.171Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Catalina de Alejandría, Virgen y Mártir—Memoria Opcional",
+  "name_pl": "Święta Katarzyna Aleksandryjska, Dziewica i Męczennica — Wspomnienie dowolne",
+  "feast_es": "El vigésimo quinto día de noviembre",
+  "feast_pl": "Dwudziesty piąty dzień listopada"
+}

@@ -1,0 +1,275 @@
+{
+  "id": "st_faustina",
+  "title": "St. Faustina Novena",
+  "description": "St Maria Faustina Kowalska was a Polish nun who lived in the early twentieth century and to whom Christ gave the mission to spread devotion to His Divine Mercy.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Faustina"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 26
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 5
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-faustina-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione aquí la petición…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi, przez jej wstawiennictwo, łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, ale miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny, i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione aquí la petición…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, Te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi za jej wstawiennictwem łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, lecz miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione aquí la petición…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, Te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi, przez jej wstawiennictwo, łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, ale miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny, i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione la petición aquí…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi za jej wstawiennictwem łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, lecz miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la cual fervientemente rezo (mencione aquí la petición…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, Te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi za jej wstawiennictwem łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, lecz miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina de profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione aquí la petición…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, Te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi, przez jej wstawiennictwo, łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, lecz miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu Św. Faustyno, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la cual fervientemente rezo (mencione la petición aquí…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, Te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego niezmierzonego Miłosierdzia, racz, jeśli to Twoja Święta wola, udzielić mi, przez jej wstawiennictwo, łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, ale miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione aquí la petición…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, Te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi za jej wstawiennictwem łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, lecz miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Jesus, who filled Blessed Faustina with profound veneration for Your boundless Mercy, deign, if it be Your Holy will, to grant me, through her intercession, the grace for which I fervently pray (mention request here…) My sins render me unworthy of Your Mercy, but be mindful of Sister Faustina’s spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession.\n\nOur Father Hail Mary Glory Be St Faustina, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nSt Faustina, I thank you for answered prayer especially for my husband who had gone for surgery today.\n\nGod had directed and guided the hands and minds of the surgeons and that whatever took place in the theatre that God’s will was done as I kept praying JESUS I TRUST IN YOU. JESUS I TRUST IN YOU!!! YOU KNOW BEST.\n\nTHANK YOU ST FAUSTINA. THANK YOU, THANK YOU.\n\nfrom E.H.\n\nThank you so much for compiling Catholic novenas which are a great spiritual weapon and vessel of God’s grace.\n\nI continue to battle scrupulosity, but near the end of my novena and shortly after I experienced a profound relief from my scrupules and anxiety, and I am thankful to Jesus for His unfathomable Divine Mercy as St. Faustina wrote.\n\nEven if all of the anxiety of the whole world were put on my shoulders, as if I could gather all the migraines and scruples from souls, I humbly pray that I would still thank God for His great peace He granted me even if for a brief time.\n\nOf course, may He be praised whether or not my novena was answered, yet all the more do I want to extol the goodness and efficacy of prayer, this novena in particular, and complete surrender to His Will and Goodness.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Jesús, que llenaste a la Beata Faustina con profunda veneración por Tu infinita Misericordia, digna, si es Tu Santa voluntad, concederme, por su intercesión, la gracia por la que fervientemente rezo (mencione la petición aquí…) Mis pecados me hacen indigno de Tu Misericordia, pero ten presente el espíritu de sacrificio y renuncia de la Hermana Faustina, y recompensa su virtud concediendo la petición que, con confianza infantil, te presento por su intercesión.\n\nPadre Nuestro Ave María Gloria al Padre Santa Faustina, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Jezu, który napełniłeś Błogosławioną Faustynę głębokim nabożeństwem do Twojego bezgranicznego Miłosierdzia, racz, jeśli taka jest Twoja Święta wola, udzielić mi za jej wstawiennictwem łaski, o którą gorąco proszę (wymień prośbę tutaj…) Moje grzechy czynią mnie niegodnym Twojego Miłosierdzia, ale miej na uwadze ducha poświęcenia i wyrzeczenia Siostry Faustyny i wynagrodź jej cnotę, spełniając prośbę, którą z dziecięcym zaufaniem przedstawiam Tobie przez jej wstawiennictwo.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Faustynie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "September 26Feastday:October 5Birth:1905Death:1938Patron saint of Divine Mercy 📱",
+    "feast": "October 5Birth:1905Death:1938Patron saint of Divine Mercy 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_faustina.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "2352135fe27b3a299d1ca6c1b1fa16ca06905da9157a5aae04d55865f51b33ac",
+        "langs": {
+          "es": {
+            "translatedHash": "6a7f448f7fcfb3a8fd14b33bdd03c12f9813b3d82d1d8e0b10c3984ad7589015",
+            "updatedAt": "2026-02-25T13:37:39.219Z"
+          },
+          "pl": {
+            "translatedHash": "354b6468d45a79a1e408b7c1c20c57e591af361b98575a87c122ecf269616569",
+            "updatedAt": "2026-02-25T13:37:39.914Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "12914897b6be6b5af3402f64b06a1b650bf646957b21b4be44f1eb32d907d781",
+        "langs": {
+          "es": {
+            "translatedHash": "4156de83ab57a36a498d2bc422099792c091c87fa0beb75421cabfec8fd3580b",
+            "updatedAt": "2026-02-25T13:37:41.627Z"
+          },
+          "pl": {
+            "translatedHash": "02859b8ac4b901c3abc91da5498628eddee6c298e0ec30f038ce99b1dd98d910",
+            "updatedAt": "2026-02-25T13:37:43.023Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "1b85bdba733f9aca05fc6ac22a03e87645f9c5042209007946afcbd752a691c9",
+        "langs": {
+          "es": {
+            "translatedHash": "605cb8a0f79c727cfc864602da51706dadb9a3a0520dfb2a458cf4d374fa8504",
+            "updatedAt": "2026-02-25T13:37:45.475Z"
+          },
+          "pl": {
+            "translatedHash": "312fdc12e1ef338d30c295d6e234f500c5862651d69378c99c6992371e39c948",
+            "updatedAt": "2026-02-25T13:37:50.736Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "6d410b5578aa928927ff9ee0a4e39433178a49d0f3361100e89b258bfba4f505",
+        "langs": {
+          "es": {
+            "translatedHash": "76750cac2ecfdbcf6230a2e8c9ccc416fe6f55f9b746d1ff6f834ff6fc855863",
+            "updatedAt": "2026-02-25T13:37:53.387Z"
+          },
+          "pl": {
+            "translatedHash": "510f406d2e05c7c758d7521ba2b9acbd0ffb714651f6730a26e40b559f51ee8c",
+            "updatedAt": "2026-02-25T13:37:57.182Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "9f6df5e9c98ecd326bc02b8bd995ad1f7bc005131392a133518883ec3d62a468",
+        "langs": {
+          "es": {
+            "translatedHash": "76750cac2ecfdbcf6230a2e8c9ccc416fe6f55f9b746d1ff6f834ff6fc855863",
+            "updatedAt": "2026-02-25T13:38:00.514Z"
+          },
+          "pl": {
+            "translatedHash": "312fdc12e1ef338d30c295d6e234f500c5862651d69378c99c6992371e39c948",
+            "updatedAt": "2026-02-25T13:38:06.243Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "e1f665229a40a3343ddd4a3aac7874df91238b5df0dbb84646a1cbf58f4574ac",
+        "langs": {
+          "es": {
+            "translatedHash": "66ce14ee3aae98caf6163cd4fad5fdc350d68a8600ec6e95f0e5166226f40a57",
+            "updatedAt": "2026-02-25T13:38:08.622Z"
+          },
+          "pl": {
+            "translatedHash": "510f406d2e05c7c758d7521ba2b9acbd0ffb714651f6730a26e40b559f51ee8c",
+            "updatedAt": "2026-02-25T13:38:14.327Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "67769668432e24f66745cf7ed98c5ae99134660c2e8117ed01cd8da2f80bd636",
+        "langs": {
+          "es": {
+            "translatedHash": "0fd56ca861802ddb9e857d5de3cdcd29c5e104d9a3f15722a0a1b28fde8b7dd5",
+            "updatedAt": "2026-02-25T13:38:17.210Z"
+          },
+          "pl": {
+            "translatedHash": "510f406d2e05c7c758d7521ba2b9acbd0ffb714651f6730a26e40b559f51ee8c",
+            "updatedAt": "2026-02-25T13:38:21.355Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "5656f0d46d973c95fbc4aa594678633af90af06453249a285f73356b7d2fb145",
+        "langs": {
+          "es": {
+            "translatedHash": "48778242bdb387b47443c2d2bff1fd6b8f5877224e006af17050d36486ee11a8",
+            "updatedAt": "2026-02-25T13:38:24.362Z"
+          },
+          "pl": {
+            "translatedHash": "f29f2972bfdcfe336096c9cf2c764ba85424489b32b74f1200248c048dbb0dba",
+            "updatedAt": "2026-02-25T13:38:27.838Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "7ed7e2401c7b9eb0b2d1e6ff566050d068792aaca98ee4085af56e48c0ab05eb",
+        "langs": {
+          "es": {
+            "translatedHash": "c35253024070d82e6a4c36226a7791954ee36147c96b810536f2a473d9486a9d",
+            "updatedAt": "2026-02-25T13:38:30.442Z"
+          },
+          "pl": {
+            "translatedHash": "7f541aadfaa5b56ec835cced294356d94e70d1b562882bac043c898081e97170",
+            "updatedAt": "2026-02-25T13:38:34.613Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "8a0986708de3f924a69fae2fafae13b4752ac9ac34007d9483dc85186b2e7859",
+        "langs": {
+          "es": {
+            "translatedHash": "76750cac2ecfdbcf6230a2e8c9ccc416fe6f55f9b746d1ff6f834ff6fc855863",
+            "updatedAt": "2026-02-25T13:38:37.294Z"
+          },
+          "pl": {
+            "translatedHash": "28202b4763797d729b45f5c1b3e54758c1fe150640b7a80a97c7f46f43e3c251",
+            "updatedAt": "2026-02-25T13:38:42.938Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "5cc64faae0d94ee1b6b146ed7f4b451c614e58b8cd51df2441610e48ac37a6f7",
+        "langs": {
+          "es": {
+            "translatedHash": "66ce14ee3aae98caf6163cd4fad5fdc350d68a8600ec6e95f0e5166226f40a57",
+            "updatedAt": "2026-02-25T13:38:46.178Z"
+          },
+          "pl": {
+            "translatedHash": "55466dcd9a7a731cb0b5280357a2a57bf312c5eac4c940c32cc92972f9a19893",
+            "updatedAt": "2026-02-25T13:38:50.048Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Faustina",
+  "title_pl": "Nowenna do św. Faustyny",
+  "description_es": "Santa María Faustina Kowalska fue una monja polaca que vivió a principios del siglo XX y a quien Cristo le dio la misión de difundir la devoción a Su Divina Misericordia.",
+  "description_pl": "Św. Maria Faustyna Kowalska była polską zakonnicą, która żyła na początku XX wieku i której Chrystus powierzył misję szerzenia nabożeństwa do Jego Boskiego Miłosierdzia.",
+  "intentions": [
+    "mercy"
+  ],
+  "intentions_es": [
+    "merced"
+  ],
+  "intentions_pl": [
+    "miłosierdzie"
+  ]
+}

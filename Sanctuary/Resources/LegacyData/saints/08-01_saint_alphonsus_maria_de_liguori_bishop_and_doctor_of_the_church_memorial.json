@@ -1,0 +1,48 @@
+{
+  "id": "08-01_saint_alphonsus_maria_de_liguori_bishop_and_doctor_of_the_church_memorial",
+  "name": "Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church—Memorial",
+  "mmdd": "08-01",
+  "feast": "The First Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maria_Laura_Mainetti"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-01_saint_alphonsus_maria_de_liguori_bishop_and_doctor_of_the_church_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "411c26f1266630b03ca617d64276bc50b05ac6e860630bf40eda23c95b78c8e7",
+        "langs": {
+          "es": {
+            "translatedHash": "ff8b829dce1f04e017fe14e3bfa4a3feb82c32cea9303e511f54162f45a559ef",
+            "updatedAt": "2026-02-25T00:08:21.592Z"
+          },
+          "pl": {
+            "translatedHash": "527d1aaacce45f8bc7e92da14beedd7a074036c859b271a59646c1bb78fa0f23",
+            "updatedAt": "2026-02-25T00:08:22.598Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bbb41789bcd4cabf33037063ec182ff8693ab51584cd0fb7e0c158bb44c9756f",
+        "langs": {
+          "es": {
+            "translatedHash": "6f54dd4284c758f1c357df50aa22e9977a9c500b0d1e9da72f5534f340ffa517",
+            "updatedAt": "2026-02-25T00:08:23.304Z"
+          },
+          "pl": {
+            "translatedHash": "a8e7fad5a1b7a01275a242fdb92226c27182f034898eaf26a38d9ffddebc2d8e",
+            "updatedAt": "2026-02-25T00:08:23.979Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Alfonso María de Ligorio, Obispo y Doctor de la Iglesia—Memoria",
+  "name_pl": "Święty Alfons Maria Liguori, biskup i doktor Kościoła — wspomnienie",
+  "feast_es": "El Primer Día de Agosto",
+  "feast_pl": "Pierwszy dzień sierpnia"
+}

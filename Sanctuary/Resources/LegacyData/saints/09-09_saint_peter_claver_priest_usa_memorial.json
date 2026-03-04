@@ -1,0 +1,48 @@
+{
+  "id": "09-09_saint_peter_claver_priest_usa_memorial",
+  "name": "Saint Peter Claver, Priest—USA Memorial",
+  "mmdd": "09-09",
+  "feast": "The Ninth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Claver"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-09_saint_peter_claver_priest_usa_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4bbfeb65c46785893dda0927de6e73e8c510eb583fb9f9d3f46bbf495ebdf2dc",
+        "langs": {
+          "es": {
+            "translatedHash": "1a484ea848c67fa8b295e3fcc252dcc67ab15b860ba715d9bb28fa82e919f066",
+            "updatedAt": "2026-02-25T00:28:13.866Z"
+          },
+          "pl": {
+            "translatedHash": "37b28e1ce35361fe8f3ff0047bc4ab539b5c6ea24818e0f7a3f2da0e7e7975c2",
+            "updatedAt": "2026-02-25T00:28:14.502Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "93338339ab7a0a63479a936840ee1b289a12ed9bb36c260fdd4b6aa09ad33969",
+        "langs": {
+          "es": {
+            "translatedHash": "c9877d6da219728c43ef2e7fc51f2ffc087904f2e1767752cf338695cfc25a57",
+            "updatedAt": "2026-02-25T00:28:15.290Z"
+          },
+          "pl": {
+            "translatedHash": "bd108de7deaa3f2e51fbec1ea723ac01d5c7c6c13766df08f8644788892e869c",
+            "updatedAt": "2026-02-25T00:28:15.922Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Claver, Presbítero—Memoria en EE. UU.",
+  "name_pl": "Święty Piotr Klawer, Kapłan — Wspomnienie w USA",
+  "feast_es": "El Noveno Día de Septiembre",
+  "feast_pl": "Dziewiąty dzień września"
+}

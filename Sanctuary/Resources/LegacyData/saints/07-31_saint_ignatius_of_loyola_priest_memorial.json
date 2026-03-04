@@ -1,0 +1,48 @@
+{
+  "id": "07-31_saint_ignatius_of_loyola_priest_memorial",
+  "name": "Saint Ignatius of Loyola, Priest—Memorial",
+  "mmdd": "07-31",
+  "feast": "The Thirty-First Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_of_Saint_Ignatius_of_Loyola%2C_Malenovice.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-31_saint_ignatius_of_loyola_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2569b5baa4e7a3c9c911e980aa9a74d37ff29bea9db8885e80acbbbf1c9aae63",
+        "langs": {
+          "es": {
+            "translatedHash": "6dfc2c8303da506e5f934a8e9fd4fcfbdc51566fd437074074c9d3d3696aa215",
+            "updatedAt": "2026-02-25T00:07:58.327Z"
+          },
+          "pl": {
+            "translatedHash": "7c12579391fa1a8117ae2055efebab5bb79a656ab5d5f316eedcca1909623c47",
+            "updatedAt": "2026-02-25T00:07:59.040Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "25f2c79b81d084e5433aa57afc3f688416af5553164342826b2efab7ce9f2f5c",
+        "langs": {
+          "es": {
+            "translatedHash": "d1d445d39fb918901e0a8a23339ecd19f43c149a310b82c7a5b3ce21b8979506",
+            "updatedAt": "2026-02-25T00:07:59.735Z"
+          },
+          "pl": {
+            "translatedHash": "3cc6cbea9f3170b14456dcb55a98ea53f6a2e47448de57670b75bf6fd80c493a",
+            "updatedAt": "2026-02-25T00:08:00.497Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ignacio de Loyola, Presbítero—Memoria",
+  "name_pl": "Święty Ignacy Loyola, kapłan — wspomnienie",
+  "feast_es": "El Trigésimo Primer Día de Julio",
+  "feast_pl": "Trzydziesty pierwszy dzień lipca"
+}

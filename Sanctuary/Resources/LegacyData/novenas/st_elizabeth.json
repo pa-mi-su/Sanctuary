@@ -1,0 +1,266 @@
+{
+  "id": "st_elizabeth",
+  "title": "St Elizabeth Novena",
+  "description": "St Elizabeth was the mother of St John the Baptist, the wife of St Zechariah, and the cousin of the Blessed Virgin Mary. Pray this novena for pregnant women and to conceive a baby.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Elizabeth"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 27
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-elizabeth-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione la petición aquí…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. Boże, Ty wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy Ci wiernie naśladowali, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Elżbieto, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. O Boże, wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Elżbieto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. Boże, Ty wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Św. Elżbieto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. Boże, Ty wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Św. Elżbieto, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. Boże, Ty wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Elżbiecie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. Boże, Ty wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętej Elżbiecie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została wynagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. O Boże, wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święta Elżbieto, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos con la misma fidelidad con que lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí la petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w Twojej starości wiara w Boga została nagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. O Boże, wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Św. Elżbieto, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious St. Elizabeth, after many childless years of marriage, in your old age your faith in God was rewarded with the birth of a very special son — St. John the Baptist. Help me, dear saint, to be patient and trust in the will of God, knowing that He knows what is best for me. O God, You chose St. Elizabeth to play a central role in our Redemption. Her openness to Thy will is a model for us. May we follow You as faithfully as St. Elizabeth did. This we ask through Christ our Lord. Amen. (mention request here…)\n\nOur Father Hail Mary Glory Be St Elizabeth, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Isabel, después de muchos años de matrimonio sin hijos, en tu vejez tu fe en Dios fue recompensada con el nacimiento de un hijo muy especial — San Juan Bautista. Ayúdame, querida santa, a ser paciente y confiar en la voluntad de Dios, sabiendo que Él sabe lo que es mejor para mí. Oh Dios, Tú elegiste a Santa Isabel para desempeñar un papel central en nuestra Redención. Su apertura a Tu voluntad es un modelo para nosotros. Que Te sigamos tan fielmente como lo hizo Santa Isabel. Esto te lo pedimos por Cristo nuestro Señor. Amén. (mencione aquí su petición…)\n\nPadre Nuestro Ave María Gloria al Padre Santa Isabel, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebna św. Elżbieto, po wielu bezdzietnych latach małżeństwa, w twojej starości wiara w Boga została nagrodzona narodzinami bardzo szczególnego syna — św. Jana Chrzciciela. Pomóż mi, droga święta, być cierpliwym i ufać w wolę Bożą, wiedząc, że On wie, co jest dla mnie najlepsze. O Boże, wybrałeś św. Elżbietę, aby odegrała centralną rolę w naszym Odkupieniu. Jej otwartość na Twoją wolę jest dla nas wzorem. Spraw, abyśmy podążali za Tobą tak wiernie, jak czyniła to św. Elżbieta. O to prosimy przez Chrystusa, Pana naszego. Amen. (wymień tutaj swoją prośbę…)\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Św. Elżbieto, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "October 27Feastday:November 5Birth:0Death:30Patron saint of pregnant women and to conceive a baby. 📱",
+    "feast": "November 5Birth:0Death:30Patron saint of pregnant women and to conceive a baby. 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_elizabeth.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "33c9a16267d9599651e877997da60ce49310947af7754a372ab1db38275e35ad",
+        "langs": {
+          "es": {
+            "translatedHash": "37c00d9083c0358614ab7f30a95caf45edf4cfaa5397ae7647b67dea9eef6760",
+            "updatedAt": "2026-02-25T13:24:54.948Z"
+          },
+          "pl": {
+            "translatedHash": "8d52de1bba09d9b15c0c469f772a3c2aeb8435686dbef32162ab62310fdbde24",
+            "updatedAt": "2026-02-25T13:24:55.692Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "cc0cb56c64cb098b22e322200ce8af56cd4429e9085fc4cd288c46b62e27bbb3",
+        "langs": {
+          "es": {
+            "translatedHash": "5abdd679743734831c59f0a5d5655b20bb97b3dbac6de293762a7722f0f92d3a",
+            "updatedAt": "2026-02-25T13:24:57.093Z"
+          },
+          "pl": {
+            "translatedHash": "9cdbbf14a82bf9e42949dc43cf73405c56d304b8463e5a8d6146c2e76d012ead",
+            "updatedAt": "2026-02-25T13:24:58.599Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "5ab9ce18abc51c04bf0b2ef6600cfeaf68b35b615201ceba454568af4e84b73c",
+        "langs": {
+          "es": {
+            "translatedHash": "ece26f9858ab0bf77538f4d54f968010ca646e1fbff3388b57dcd06979022e4c",
+            "updatedAt": "2026-02-25T13:25:01.658Z"
+          },
+          "pl": {
+            "translatedHash": "5f986095b798602bd531f8d76765e03563dbcfcce20fb33d280e805c03d94018",
+            "updatedAt": "2026-02-25T13:25:06.308Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "180745da3da3065fcae6e6e4ffe627a50b84dc5ac0858d43d9ef1278d2a1d393",
+        "langs": {
+          "es": {
+            "translatedHash": "9c7f77c70b65674c5fa8286f887290228feee402383fe6ad5dd5ca03d4fa17d5",
+            "updatedAt": "2026-02-25T13:25:09.605Z"
+          },
+          "pl": {
+            "translatedHash": "68e4309fffa407ac4773fc359f050b4fca7777a1ca2799ae4c73574d907f0960",
+            "updatedAt": "2026-02-25T13:25:14.490Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "afee30905a93bd701c73af9c2095864ca258b324aa863ce7887d280f2b75990e",
+        "langs": {
+          "es": {
+            "translatedHash": "9c7f77c70b65674c5fa8286f887290228feee402383fe6ad5dd5ca03d4fa17d5",
+            "updatedAt": "2026-02-25T13:25:19.178Z"
+          },
+          "pl": {
+            "translatedHash": "213f63e1e8b4e2e3638b0ca83c216e76ff84f1f2f8e25e25f485b2877739f00a",
+            "updatedAt": "2026-02-25T13:25:23.309Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "52315c90c2d3dc73c39e49fb725de2d52e46244cc78c226bae7fcbe40313dd35",
+        "langs": {
+          "es": {
+            "translatedHash": "9c7f77c70b65674c5fa8286f887290228feee402383fe6ad5dd5ca03d4fa17d5",
+            "updatedAt": "2026-02-25T13:25:27.228Z"
+          },
+          "pl": {
+            "translatedHash": "49a5507ebdd84cad6e085b85f3c19b0e1cadb60d590fa8af4521716ca584c786",
+            "updatedAt": "2026-02-25T13:25:32.051Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "daca44eed51ac98f51265a4cb19254019bb268dd2d9abd216990e382343d806c",
+        "langs": {
+          "es": {
+            "translatedHash": "9c7f77c70b65674c5fa8286f887290228feee402383fe6ad5dd5ca03d4fa17d5",
+            "updatedAt": "2026-02-25T13:25:36.702Z"
+          },
+          "pl": {
+            "translatedHash": "25c7e3e3d0cd9153fbb399ab6938543e735383a43bc8ced8554b38adf40b1d76",
+            "updatedAt": "2026-02-25T13:25:43.769Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "8c529dc2d7596723d4c3e53f49c25188986ddee10664e63dea0a3fdb99681a93",
+        "langs": {
+          "es": {
+            "translatedHash": "9c7f77c70b65674c5fa8286f887290228feee402383fe6ad5dd5ca03d4fa17d5",
+            "updatedAt": "2026-02-25T13:25:47.350Z"
+          },
+          "pl": {
+            "translatedHash": "25c7e3e3d0cd9153fbb399ab6938543e735383a43bc8ced8554b38adf40b1d76",
+            "updatedAt": "2026-02-25T13:25:51.635Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "970191d09ce64e480b8776d12ed30f8bd78ed1fa6dd28b00ae0ab39501547200",
+        "langs": {
+          "es": {
+            "translatedHash": "9c7f77c70b65674c5fa8286f887290228feee402383fe6ad5dd5ca03d4fa17d5",
+            "updatedAt": "2026-02-25T13:25:55.079Z"
+          },
+          "pl": {
+            "translatedHash": "68e4309fffa407ac4773fc359f050b4fca7777a1ca2799ae4c73574d907f0960",
+            "updatedAt": "2026-02-25T13:26:00.553Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "1f4a74e1f9931ca34d2ce67d5b5fd38d336adddaf59a082b87f1b0718ac15981",
+        "langs": {
+          "es": {
+            "translatedHash": "2afaedf3428d52b94a78c63fe3ad7d1716a92ae37f3c5a473fd750e3f247950f",
+            "updatedAt": "2026-02-25T13:26:04.075Z"
+          },
+          "pl": {
+            "translatedHash": "3571f6e6889574986b51eff6bbd17e8f99351f3c283d4eb2c8e9be5c04de65c3",
+            "updatedAt": "2026-02-25T13:26:08.620Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "813cd2cae22a1a627d31555bd35a01ce0eb5bda02a1f3a1a08c586b8ada10cc7",
+        "langs": {
+          "es": {
+            "translatedHash": "ad89f417d4b918ff5f88a9bf02b5339a2b8d7023614929f21818229edf22fd23",
+            "updatedAt": "2026-02-25T13:26:11.638Z"
+          },
+          "pl": {
+            "translatedHash": "8add0a6a27dc1f4b361a149da979ab38d873f9e6d33ba505f3bbe568a9112d32",
+            "updatedAt": "2026-02-25T13:26:16.012Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Isabel",
+  "title_pl": "Nowenna do św. Elżbiety",
+  "description_es": "Santa Isabel fue la madre de San Juan Bautista, la esposa de San Zacarías y la prima de la Santísima Virgen María. Reza esta novena por las mujeres embarazadas y para concebir un bebé.",
+  "description_pl": "Święta Elżbieta była matką św. Jana Chrzciciela, żoną św. Zachariasza oraz kuzynką Najświętszej Maryi Panny. Módl się tę nowennę za kobiety w ciąży i o poczęcie dziecka."
+}

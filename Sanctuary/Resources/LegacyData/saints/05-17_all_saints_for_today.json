@@ -1,0 +1,46 @@
+{
+  "id": "05-17_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "05-17",
+  "feast": "The Seventeenth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:26:29.461Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:26:30.328Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ffb1761f00a7adebe122eee0fe4532239c1331c9cb4f41c2d8d98ce3d97ed1be",
+        "langs": {
+          "es": {
+            "translatedHash": "40d7f941fdcf6f5d0a8e65f785d75ba1152f4c7ca82e6f1307e9f461644ddc3a",
+            "updatedAt": "2026-02-24T23:26:31.793Z"
+          },
+          "pl": {
+            "translatedHash": "7cbfa4c3e7bef7106d53287f702e743841a6bb3b8a351625dbdaf9c53bee0b91",
+            "updatedAt": "2026-02-24T23:26:32.658Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El decimoséptimo día de mayo",
+  "feast_pl": "Siedemnasty Dzień Maja"
+}

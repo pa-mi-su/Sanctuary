@@ -1,0 +1,79 @@
+{
+  "id": "06-05_saint_marcian",
+  "name": "Saint Marcian",
+  "mmdd": "06-05",
+  "feast": "The Fifth Day of June",
+  "summary": "Marcian, or Marcianus, was a bishop and martyr, venerated as a saint by the Catholic Church and the Orthodox Church.",
+  "biography": "Marcian, or Marcianus (Antioch of Syria, 1st century - Syracuse), was a bishop and martyr, venerated as a saint by the Catholic Church and the Orthodox Church.\nAccording to tradition Marcian was the first bishop of Syracuse; a disciple of the apostle Peter. He is considered the first bishop of the West, as he arrived in Sicily while the apostle was still in Antioch.\nSources on Marcianus are considered late, as they are found only from the Byzantine era (7th century) onward. A Kontakion and an Encomium form the first two hagiographies on the saint, but the laudatory nature of these literary works makes it difficult to distinguish truthful biographical elements from fantastic ones.\nAn alleged anachronism identified in the text of the author of the Encomium - which would date the martyrdom to a much later time than the apostolic era - and the absence of ancient written or figurative evidence has led many scholars to date Bishop Marcian to no earlier than the 3rd century.\nThe oldest image of Marcian is found in the catacombs of St. Lucy: it is a fresco dating from the 8th century. Another depiction of him was found inside the so-called crypt of St. Marcian: a Byzantine basilica built over...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcian_of_Syracuse",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-05_saint_marcian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "25617f777702e1d263cbbf110474661438ca9be861c4f988bcae2b1f8b5094ff",
+        "langs": {
+          "es": {
+            "translatedHash": "db81dca5dc102e1de08e41a392ea12a1df1be36c4008f2ec4af968416e5e2770",
+            "updatedAt": "2026-02-24T23:37:52.711Z"
+          },
+          "pl": {
+            "translatedHash": "1a803dca395d5963c9890f28b95dbff46c03499ff3e764907a807b594e81b0da",
+            "updatedAt": "2026-02-24T23:37:53.216Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "10b1fec9037c8988c29c3e891504ba051147db49fe26402754557a0e7b54142a",
+        "langs": {
+          "es": {
+            "translatedHash": "fc08d0386320013092f2b8de893bd39390bc19988dfbde0eabb158c7184c0fa1",
+            "updatedAt": "2026-02-24T23:37:54.293Z"
+          },
+          "pl": {
+            "translatedHash": "56e716dcfe0a4b81f6304cb4b68eda65c446b3f0de99dda03e599cad3e154fa2",
+            "updatedAt": "2026-02-24T23:37:55.062Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "632664739bbf7d1199e13d7d97df742e8898060fd2d202bee281ec1180b2107e",
+        "langs": {
+          "es": {
+            "translatedHash": "3b068aeb807c1043dcf6dcad65e2dcb4f74c23ea338a9e3010c07edad2b96970",
+            "updatedAt": "2026-02-24T23:37:56.023Z"
+          },
+          "pl": {
+            "translatedHash": "19a5354dd20cd8ca1cf3f016efea9718cb7c6766aa4dc5064e1784e9907ba58b",
+            "updatedAt": "2026-02-24T23:37:57.194Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3df4f8a5894d2c0fb721ad6a9f79644ff8255e6473cef0dd65dee0c71c7a12a9",
+        "langs": {
+          "es": {
+            "translatedHash": "7f00d9f8fbe245cfcb6f76db4a352bc084515db8fc8be0cdc831d01ef5994f31",
+            "updatedAt": "2026-02-24T23:38:01.911Z"
+          },
+          "pl": {
+            "translatedHash": "028806ebaf06ba4ad9090486ab92e5f2ac258b4ac403d2aa4e520ae8922cabbd",
+            "updatedAt": "2026-02-24T23:38:07.124Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Marciano",
+  "name_pl": "Święty Marcjan",
+  "feast_es": "El Quinto Día de Junio",
+  "feast_pl": "Piąty dzień czerwca",
+  "summary_es": "Marciano, o Marcianus, fue un obispo y mártir, venerado como santo por la Iglesia Católica y la Iglesia Ortodoxa.",
+  "summary_pl": "Marcjan, zwany także Marcjanem, był biskupem i męczennikiem, czczonym jako święty przez Kościół katolicki i Kościół prawosławny.",
+  "biography_es": "Marciano, o Marcianus (Antioquía de Siria, siglo I - Siracusa), fue un obispo y mártir, venerado como santo por la Iglesia Católica y la Iglesia Ortodoxa.  \nSegún la tradición, Marciano fue el primer obispo de Siracusa; un discípulo del apóstol Pedro. Se le considera el primer obispo de Occidente, ya que llegó a Sicilia mientras el apóstol aún estaba en Antioquía.  \nLas fuentes sobre Marcianus se consideran tardías, ya que se encuentran solo a partir de la época bizantina (siglo VII) en adelante. Un Kontakion y un Encomio forman las dos primeras hagiografías sobre el santo, pero la naturaleza laudatoria de estas obras literarias dificulta distinguir los elementos biográficos verídicos de los fantásticos.  \nUn supuesto anacronismo identificado en el texto del autor del Encomio —que fecharía el martirio en una época mucho más tardía que la era apostólica— y la ausencia de evidencias escritas o figurativas antiguas han llevado a muchos estudiosos a situar al obispo Marciano no antes del siglo III.  \nLa imagen más antigua de Marciano se encuentra en las catacumbas de Santa Lucía: es un fresco que data del siglo VIII. Otra representación suya fue hallada dentro de la llamada cripta de San Marciano: una basílica bizantina construida sobre...",
+  "biography_pl": "Marcjan, zwany także Marcjanem (Antiochia Syryjska, I wiek - Syrakuzy), był biskupem i męczennikiem, czczonym jako święty przez Kościół katolicki i Kościół prawosławny.  \nWedług tradycji Marcjan był pierwszym biskupem Syrakuz; uczniem apostoła Piotra. Uważa się go za pierwszego biskupa Zachodu, ponieważ przybył na Sycylię, gdy apostoł wciąż przebywał w Antiochii.  \nŹródła dotyczące Marcjana są uważane za późne, gdyż pochodzą dopiero z epoki bizantyjskiej (VII wiek) i później. Kontakion i Enkomion stanowią pierwsze dwie hagiografie o świętym, jednak pochwalny charakter tych dzieł literackich utrudnia rozróżnienie prawdziwych elementów biograficznych od fantastycznych.  \nRzekomy anakronizm zidentyfikowany w tekście autora Enkomionu – który datowałby męczeństwo na znacznie późniejszy czas niż era apostolska – oraz brak starożytnych pisemnych lub ikonograficznych dowodów skłoniły wielu badaczy do datowania biskupa Marcjana nie wcześniej niż na III wiek.  \nNajstarszy wizerunek Marcjana znajduje się w katakumbach św. Łucji: jest to fresk pochodzący z VIII wieku. Inny jego wizerunek odkryto wewnątrz tzw. krypt św. Marcjana: bizantyjskiej bazyliki zbudowanej nad..."
+}

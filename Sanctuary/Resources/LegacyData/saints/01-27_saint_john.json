@@ -1,0 +1,81 @@
+{
+  "id": "01-27_saint_john",
+  "name": "Saint John",
+  "mmdd": "01-27",
+  "feast": "The Twenty-Seventh Day of January",
+  "summary": "John Chrysostom was an important Church Father who served as Archbishop of Constantinople. He is known for his preaching and public speaking, his denunciation of abuse of authority by both ecclesiastical and political leaders, his Divine Liturgy of Saint John Chrysostom, and his ascetic sensibilities. He was also the author of Adversus Judaeos and was strongly opposed to Judaism. The epithet Χρυσόστομος means \"golden-mouthed\" in Greek and denotes his celebrated eloquence. Chrysostom was among the most prolific authors in the early Christian Church.",
+  "biography": "John Chrysostom (; Koine Greek: Ἰωάννης ὁ Χρυσόστομος, romanized: Iōánnēs ho Chrysóstomos, IPA: [i.oˈannis o xryˈsostomos]; Latin: Ioannes Chrysostomus, Ecclesiastical Latin: [joˈannes kriˈzɔstomus]; c. 347 – 14 September 407) was an important Church Father who served as Archbishop of Constantinople. He is known for his preaching and public speaking, his denunciation of abuse of authority by both ecclesiastical and political leaders, his Divine Liturgy of Saint John Chrysostom, and his ascetic sensibilities. He was also the author of Adversus Judaeos and was strongly opposed to Judaism. The epithet Χρυσόστομος (Chrysostomos, anglicized as Chrysostom) means \"golden-mouthed\" in Greek and denotes his celebrated eloquence. Chrysostom was among the most prolific authors in the early Christian Church.\nHe is honored as a saint in the Eastern Orthodox, Oriental Orthodox, Catholic, Anglican, and Lutheran churches, as well as in some others. The Eastern Orthodox, together with the Byzantine Catholics, hold him in special regard as one of the Three Holy Hierarchs (alongside Basil of Caesarea and Gregory of Nazianzus). Along with them and Athanasius of Alexandria he is also regarded as one of the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Chrysostom",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-27_saint_john.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "83ff8096fefa3709f95a4e063a5fa1ab88a96cf05e0b368c3deba4f54c21cccf",
+        "langs": {
+          "es": {
+            "translatedHash": "0c754c271376cd8bdaf8e93edba2c6e034afa14925d617aab4f4a3be48f4525d",
+            "updatedAt": "2026-02-24T22:23:27.870Z"
+          },
+          "pl": {
+            "translatedHash": "8f1513263a11b34323a50ba3aa56a22c7feb89574bf58123b1d6f547cb3affb7",
+            "updatedAt": "2026-02-24T22:23:28.472Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a788cb96ed0bc04f289f7ed42c191da3486e8edd8f9ac2dd85563e80bfdc9485",
+        "langs": {
+          "es": {
+            "translatedHash": "85444ad760a83d4d3fa5db3ed5c207cb84678bce326d1471c49da4d96b21239b",
+            "updatedAt": "2026-02-24T22:23:29.043Z"
+          },
+          "pl": {
+            "translatedHash": "0a1b83b115ba2cb5973c9083f6929f9043538010b6cff96c3db20824482be5b9",
+            "updatedAt": "2026-02-24T22:23:29.495Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "93bde6c6f4786a7e059a707385e6ab01279cf7bd7a42ce6cd366c95a697bf00d",
+        "langs": {
+          "es": {
+            "translatedHash": "ad07b0bc309c6cff03cd0e4e8b0bb084b5b4e8f7f01e7efbff74921400c8a29e",
+            "updatedAt": "2026-02-24T22:23:31.852Z"
+          },
+          "pl": {
+            "translatedHash": "d5427504a3de79d31a739c502ad0f9651e8c1da4dc8adfa53b5fed0c674be2ae",
+            "updatedAt": "2026-02-24T22:23:34.498Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "560de270ecb9c02e6445c8117d241708dfeee65f02de0463eeaa61ca19c20a54",
+        "langs": {
+          "es": {
+            "translatedHash": "c8731261cf71e9a4d7ce800b346fd0bcb2acaffc5760105a3057aaf00b51a3cf",
+            "updatedAt": "2026-02-24T22:23:47.360Z"
+          },
+          "pl": {
+            "translatedHash": "dc585bc06ff83481daba590290a2b68879adc57a309f210cdd251559383fde5d",
+            "updatedAt": "2026-02-24T22:23:52.560Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan",
+  "name_pl": "Święty Jan",
+  "feast_es": "El Vigésimo Séptimo Día de Enero",
+  "feast_pl": "Dwudziesty siódmy dzień stycznia",
+  "summary_es": "Juan Crisóstomo fue un importante Padre de la Iglesia que sirvió como Arzobispo de Constantinopla. Es conocido por su predicación y oratoria, su denuncia del abuso de autoridad tanto por parte de líderes eclesiásticos como políticos, su Divina Liturgia de San Juan Crisóstomo y sus sensibilidades ascéticas. También fue autor de Adversus Judaeos y se opuso firmemente al judaísmo. El epíteto Χρυσόστομος significa \"boca de oro\" en griego y denota su célebre elocuencia. Crisóstomo fue uno de los autores más prolíficos en la Iglesia cristiana primitiva.",
+  "summary_pl": "Jan Chryzostom był ważnym Ojcem Kościoła, który pełnił funkcję arcybiskupa Konstantynopola. Znany jest ze swoich kazań i publicznych wystąpień, potępiania nadużyć władzy zarówno przez duchownych, jak i politycznych przywódców, swojej Boskiej Liturgii św. Jana Chryzostoma oraz ascetycznych skłonności. Był także autorem dzieła Adversus Judaeos i stanowczo sprzeciwiał się judaizmowi. Przydomek Χρυσόστομος oznacza po grecku „złotousty” i odnosi się do jego słynnej elokwencji. Chryzostom był jednym z najbardziej płodnych autorów wczesnego Kościoła chrześcijańskiego.",
+  "biography_es": "Juan Crisóstomo (; griego koiné: Ἰωάννης ὁ Χρυσόστομος, romanizado: Iōánnēs ho Chrysóstomos, IPA: [i.oˈannis o xryˈsostomos]; latín: Ioannes Chrysostomus, latín eclesiástico: [joˈannes kriˈzɔstomus]; c. 347 – 14 de septiembre de 407) fue un importante Padre de la Iglesia que sirvió como Arzobispo de Constantinopla. Es conocido por su predicación y oratoria pública, su denuncia del abuso de autoridad tanto por parte de líderes eclesiásticos como políticos, su Liturgia Divina de San Juan Crisóstomo y sus sensibilidades ascéticas. También fue autor de Adversus Judaeos y se opuso firmemente al judaísmo. El epíteto Χρυσόστομος (Crisóstomo, anglicanizado como Chrysostom) significa \"boca de oro\" en griego y denota su célebre elocuencia. Crisóstomo fue uno de los autores más prolíficos de la Iglesia cristiana primitiva.\n\nEs honrado como santo en las iglesias ortodoxa oriental, ortodoxa oriental, católica, anglicana y luterana, así como en algunas otras. Los ortodoxos orientales, junto con los católicos bizantinos, lo tienen en especial consideración como uno de los Tres Santos Jerarcas (junto con Basilio de Cesarea y Gregorio de Nacianzo). Junto con ellos y Atanasio de Alejandría también es considerado uno de los...",
+  "biography_pl": "Jan Chryzostom (; greka koiné: Ἰωάννης ὁ Χρυσόστομος, romanizacja: Iōánnēs ho Chrysóstomos, IPA: [i.oˈannis o xryˈsostomos]; łacina: Ioannes Chrysostomus, łacina kościelna: [joˈannes kriˈzɔstomus]; ok. 347 – 14 września 407) był ważnym Ojcem Kościoła, który pełnił funkcję arcybiskupa Konstantynopola. Znany jest ze swoich kazań i publicznych wystąpień, potępiania nadużywania władzy zarówno przez przywódców kościelnych, jak i politycznych, z Boskiej Liturgii św. Jana Chryzostoma oraz z ascetycznych skłonności. Był także autorem dzieła Adversus Judaeos i stanowczo sprzeciwiał się judaizmowi. Przydomek Χρυσόστομος (Chryzostomos, spolszczone jako Chryzostom) oznacza po grecku „złotousty” i odnosi się do jego słynnej elokwencji. Chryzostom był jednym z najbardziej płodnych autorów wczesnego Kościoła chrześcijańskiego.\n\nJest czczony jako święty w Kościołach wschodnio-prawosławnym, orientalnym prawosławnym, katolickim, anglikańskim i luterańskim, a także w niektórych innych. Kościół wschodnio-prawosławny, wraz z katolikami bizantyjskimi, darzy go szczególnym szacunkiem jako jednego z Trzech Świętych Hierarchów (obok Bazylego z Cezarei i Grzegorza z Nazjanzu). Razem z nimi oraz z Atanazym z Aleksandrii jest również uważany za jednego z..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "11-02_saint_victorinus",
+  "name": "Saint Victorinus",
+  "mmdd": "11-02",
+  "feast": "The Second Day of November",
+  "summary": "Titus was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.",
+  "biography": "Life\nTitus was a Greek, who may have studied Greek philosophy and poetry in his early years. He seems to have been converted by Paul, whereupon he served as Paul's secretary and interpreter. In the year 48 or 49 CE, Titus accompanied Paul to the council held at Jerusalem, on the subject of the Mosaic rites.\nIn the fall of 55 or 56 CE, Paul, as he himself departed from Asia, sent Titus from Ephesus to Corinth, with full commission to remedy the fallout precipitated by Timothy's delivery of 1 Corinthians and Paul's \"Painful Visit...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Titus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-02_saint_victorinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "34ccf2d3d6b0a62232dd908c48df9fa19607ac368b737d5746812ffc216b70f4",
+        "langs": {
+          "es": {
+            "translatedHash": "7fdccdf3fd809cf09ba1a57ee7f6edec11d518de98427828e72fe5c7c329dc28",
+            "updatedAt": "2026-02-25T01:00:18.054Z"
+          },
+          "pl": {
+            "translatedHash": "be7bc67c578b51e5da7915503849aa8c2a56b5d21d5160a36d2b13adc77e1882",
+            "updatedAt": "2026-02-25T01:00:18.617Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4792121755e45fc71a694d13f2a0f4b5cea4bb6dc0718b436da0b03ac81bc3ba",
+        "langs": {
+          "es": {
+            "translatedHash": "3f9812b21e6d6656cf5d1668c099bf06812bb59df56a87ca08007d64f3aa1d48",
+            "updatedAt": "2026-02-25T01:00:19.421Z"
+          },
+          "pl": {
+            "translatedHash": "fa982cf56e899a042fd3b35e148964e6e1f4ac51fa2b90c20d058f63c0f9b692",
+            "updatedAt": "2026-02-25T01:00:20.042Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8be7a58112f9ad9c72ce613ac729dd908243c4196c8eca220e344ef0ad8a06ac",
+        "langs": {
+          "es": {
+            "translatedHash": "2d4ee80bfa369354cf4e3e9b61408e686924af0b36d1257ebf1d0277078648a0",
+            "updatedAt": "2026-02-25T01:00:21.941Z"
+          },
+          "pl": {
+            "translatedHash": "8c81fa0e7e262516c6831fd626d62fc521aee4aa623b6f0f3ca49d6050406484",
+            "updatedAt": "2026-02-25T01:00:23.648Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6ee814ef28c39799ab6270efd0f13d459c1901804335a9971d99be4d599dc36a",
+        "langs": {
+          "es": {
+            "translatedHash": "33d9920bca0aac8acd93ad88dc86846cc275933d49c8da66d7209e988ea66a19",
+            "updatedAt": "2026-02-25T01:00:26.052Z"
+          },
+          "pl": {
+            "translatedHash": "f6c77c8a193fc1cbc393b4d1a4bbb63ef043ace4318f4fea9bd97dbc72ad6ba4",
+            "updatedAt": "2026-02-25T01:00:29.700Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Victorino",
+  "name_pl": "Święty Wiktoryn",
+  "feast_es": "El Segundo Día de Noviembre",
+  "feast_pl": "Drugi dzień listopada",
+  "summary_es": "Tito fue un misionero cristiano temprano y líder de la iglesia, compañero y discípulo del apóstol Pablo, mencionado en varias de las epístolas paulinas, incluida la Epístola a Tito. Se cree que fue un gentil convertido al cristianismo por Pablo y, según la tradición, fue consagrado como obispo de la isla de Creta.",
+  "summary_pl": "Tytus był wczesnym chrześcijańskim misjonarzem i przywódcą Kościoła, towarzyszem i uczniem Apostoła Pawła, wspomnianym w kilku listach Pawłowych, w tym w Liście do Tytusa. Uważa się, że był poganinem nawróconym na chrześcijaństwo przez Pawła i według tradycji został konsekrowany na biskupa wyspy Krety.",
+  "biography_es": "Vida  \nTito era un griego, que posiblemente estudió filosofía y poesía griegas en sus primeros años. Parece haber sido convertido por Pablo, tras lo cual sirvió como secretario e intérprete de Pablo. En el año 48 o 49 d.C., Tito acompañó a Pablo al concilio celebrado en Jerusalén, sobre el tema de los ritos mosaicos.  \nEn el otoño del 55 o 56 d.C., Pablo, al partir él mismo de Asia, envió a Tito desde Éfeso a Corinto, con plena comisión para remediar las consecuencias provocadas por la entrega de 1 Corintios por parte de Timoteo y la \"Visita Dolorosa\" de Pablo...",
+  "biography_pl": "Życie  \nTytus był Grekiem, który mógł studiować grecką filozofię i poezję w młodości. Wydaje się, że został nawrócony przez Pawła, po czym służył jako jego sekretarz i tłumacz. W roku 48 lub 49 n.e. Tytus towarzyszył Pawłowi na soborze w Jerozolimie, dotyczącym rytów mojżeszowych.  \nJesienią roku 55 lub 56 n.e., gdy Paweł sam opuszczał Azję, wysłał Tytusa z Efezu do Koryntu z pełnym upoważnieniem, aby naprawić skutki wywołane przez dostarczenie przez Tymoteusza 1 Listu do Koryntian oraz „Bolesnej Wizyty” Pawła..."
+}

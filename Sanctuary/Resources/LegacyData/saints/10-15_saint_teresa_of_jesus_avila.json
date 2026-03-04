@@ -1,0 +1,79 @@
+{
+  "id": "10-15_saint_teresa_of_jesus_avila",
+  "name": "Saint Teresa of Jesus (Ávila)",
+  "mmdd": "10-15",
+  "feast": "The Fifteenth Day of October",
+  "summary": "Teresa of Ávila, also called Saint Teresa of Jesus, was a Carmelite nun and prominent Spanish mystic and religious reformer.",
+  "biography": "Teresa of Ávila, also called Saint Teresa of Jesus, was a Carmelite nun and prominent Spanish mystic and religious reformer.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-15_saint_teresa_of_jesus_avila.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6acae242de5379cb169eacb5f3bdf6571ac218c4f3cd1d33d2c05e7eb43a08a1",
+        "langs": {
+          "es": {
+            "translatedHash": "7750e007dead0cacd18e2aa04758c229d977c3b23b3076bd90355f1c40b08141",
+            "updatedAt": "2026-02-25T00:49:46.962Z"
+          },
+          "pl": {
+            "translatedHash": "2d4f489cf8a0e91df4ef2f155652ec73ccfa65afc410bb160478128f8c93aa9d",
+            "updatedAt": "2026-02-25T00:49:47.420Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a1a64919f9afc20476f4ccd776cfac78eae303c846c99c623af0839edd240595",
+        "langs": {
+          "es": {
+            "translatedHash": "2032ebdbb005308f4ffb3379701a6d58c3ebf2cab0afcd25d5575927821b871b",
+            "updatedAt": "2026-02-25T00:49:48.018Z"
+          },
+          "pl": {
+            "translatedHash": "7f5188c417a1c0a6224923376ec56f99f456a0691dad6529e5df20dcd548ae14",
+            "updatedAt": "2026-02-25T00:49:48.761Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "184ed068dece9543ed3875383e46b2c9344bd7151e23b39a851aa3ed6f8d4ad7",
+        "langs": {
+          "es": {
+            "translatedHash": "bc881a986b81aca35f290d2c993a537054a545751a0161ba4960914a018e0229",
+            "updatedAt": "2026-02-25T00:49:50.146Z"
+          },
+          "pl": {
+            "translatedHash": "63ac7e839a7db9c9430f6f072070ffa9e5290f8129ef5ed95e48975dce0b8d82",
+            "updatedAt": "2026-02-25T00:49:51.925Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "184ed068dece9543ed3875383e46b2c9344bd7151e23b39a851aa3ed6f8d4ad7",
+        "langs": {
+          "es": {
+            "translatedHash": "bc881a986b81aca35f290d2c993a537054a545751a0161ba4960914a018e0229",
+            "updatedAt": "2026-02-25T00:49:53.199Z"
+          },
+          "pl": {
+            "translatedHash": "63ac7e839a7db9c9430f6f072070ffa9e5290f8129ef5ed95e48975dce0b8d82",
+            "updatedAt": "2026-02-25T00:49:54.312Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Teresa de Jesús (Ávila)",
+  "name_pl": "Święta Teresa od Jezusa (Awila)",
+  "feast_es": "El Quince de Octubre",
+  "feast_pl": "Piętnasty Dzień Października",
+  "summary_es": "Teresa de Ávila, también llamada Santa Teresa de Jesús, fue una monja carmelita y destacada mística española y reformadora religiosa.",
+  "summary_pl": "Teresa z Ávili, zwana także świętą Teresą od Jezusa, była karmelitanką oraz wybitną hiszpańską mistyczką i reformatorką życia zakonnego.",
+  "biography_es": "Teresa de Ávila, también llamada Santa Teresa de Jesús, fue una monja carmelita y destacada mística española y reformadora religiosa.",
+  "biography_pl": "Teresa z Ávili, zwana także świętą Teresą od Jezusa, była karmelitanką oraz wybitną hiszpańską mistyczką i reformatorką życia zakonnego."
+}

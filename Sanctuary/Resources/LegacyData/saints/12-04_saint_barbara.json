@@ -1,0 +1,79 @@
+{
+  "id": "12-04_saint_barbara",
+  "name": "Saint Barbara",
+  "mmdd": "12-04",
+  "feast": "The Fourth Day of December",
+  "summary": "Saint Barbara, known in the Eastern Orthodox Church as the Great Martyr Barbara, was an early Christian Syrian Greek saint and martyr.",
+  "biography": "Saint Barbara (Ancient Greek: Ἁγία Βαρβάρα; Coptic: Ϯⲁⲅⲓⲁ Ⲃⲁⲣⲃⲁⲣⲁ; Church Slavonic: Великомученица Варва́ра Илиопольская; Arabic: القديسة الشهيدة بربارة), known in the Eastern Orthodox Church as the Great Martyr Barbara, was an early Christian Syrian Greek saint and martyr.\nSaint Barbara is often portrayed with miniature chains and a tower to symbolize her father imprisoning her. As one of the Fourteen Holy Helpers, Barbara is a popular saint, perhaps best known as the patroness saint of armourers, artillerymen, military engineers, miners and others who work with explosives because of her legend's association with lightning.\nShe is also a patroness saint of mathematicians. A 15th-century French version of her story credits her with thirteen miracles, many of which reflect the security she offered that her devotees would not die before getting to make confession and receiving extreme unction.\nLegends detailing her life do not appear until the 7th century. Veneration of her was common, especially in the East, from the 9th century. Because of doubts about the historicity of her legend, she was removed from the General Roman Calendar in the 1969 revision, though not from the Catholic Church...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Barbara",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-04_saint_barbara.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "95092b81d5ff2291a59a0725d26088aa08e369f7916c416af5b55f541103d3de",
+        "langs": {
+          "es": {
+            "translatedHash": "10459f79c9c6c210df1c80fe168e9ac11ba389ebf28951f7f5c1b725b8264ac2",
+            "updatedAt": "2026-02-25T01:19:40.014Z"
+          },
+          "pl": {
+            "translatedHash": "25d90380cf943045f769ac6d017113e9fa2eabdeef0b4c43d3442b18f8498794",
+            "updatedAt": "2026-02-25T01:19:40.574Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b6448d5fa0a3003566983df6d56868dfa181469ca5f503c97d400f5d7e500314",
+        "langs": {
+          "es": {
+            "translatedHash": "10de8fa843a824628274d3087142f199566c1f7dfa6e91fe9bfcdefc8750150b",
+            "updatedAt": "2026-02-25T01:19:41.162Z"
+          },
+          "pl": {
+            "translatedHash": "5c8c8fb68828b5ded42178745d67aa620f782bf73a051fa19f48f0bca50399da",
+            "updatedAt": "2026-02-25T01:19:41.958Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "66a517daf2629c1aaaeb0041ed0a864e9f389f1c904596e19b260b9c06cbd0bf",
+        "langs": {
+          "es": {
+            "translatedHash": "a5e75a9bff6f85c4974323c3a43945de2683cae4e3b3806d22c9a503d3d04b24",
+            "updatedAt": "2026-02-25T01:19:43.131Z"
+          },
+          "pl": {
+            "translatedHash": "162339d8cbccd9d296904607d511361f5623a2797409d1a44ace5d7c60b8c61d",
+            "updatedAt": "2026-02-25T01:19:44.772Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "66b2d6c2152deaa00832d6ff06f1f0ae8143f6340a3174d4895bd0a4b01bee44",
+        "langs": {
+          "es": {
+            "translatedHash": "6c674ef5f5d8d1a751db7529f03b5b67aec3a1cf961fd994ef11c9ab614215c0",
+            "updatedAt": "2026-02-25T01:19:50.410Z"
+          },
+          "pl": {
+            "translatedHash": "e2725a5b67ecedf1c7185c5055ebf84d8d6424ea75d8fa20922e274ef8705c04",
+            "updatedAt": "2026-02-25T01:19:57.434Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Bárbara",
+  "name_pl": "Święta Barbara",
+  "feast_es": "El Cuarto Día de Diciembre",
+  "feast_pl": "Czwarty dzień grudnia",
+  "summary_es": "Santa Bárbara, conocida en la Iglesia Ortodoxa Oriental como la Gran Mártir Bárbara, fue una santa y mártir cristiana siria griega de los primeros tiempos.",
+  "summary_pl": "Święta Barbara, znana w Kościele Wschodnim jako Wielka Męczennica Barbara, była wczesnochrześcijańską świętą i męczennicą syryjsko-grecką.",
+  "biography_es": "Santa Bárbara (griego antiguo: Ἁγία Βαρβάρα; copto: Ϯⲁⲅⲓⲁ Ⲃⲁⲣⲃⲁⲣⲁ; eslavo eclesiástico: Великомученица Варва́ра Илиопольская; árabe: القديسة الشهيدة بربارة), conocida en la Iglesia Ortodoxa Oriental como la Gran Mártir Bárbara, fue una santa y mártir cristiana siria griega de los primeros tiempos.\n\nSanta Bárbara suele ser representada con cadenas en miniatura y una torre para simbolizar que su padre la encarceló. Como una de las Catorce Auxiliadoras Santas, Bárbara es una santa popular, quizás más conocida como la patrona de los armeros, artilleros, ingenieros militares, mineros y otros que trabajan con explosivos debido a la asociación de su leyenda con el rayo.\n\nTambién es patrona de los matemáticos. Una versión francesa del siglo XV de su historia le atribuye trece milagros, muchos de los cuales reflejan la seguridad que ofrecía de que sus devotos no morirían antes de poder confesarse y recibir la extremaunción.\n\nLas leyendas que detallan su vida no aparecen hasta el siglo VII. La veneración hacia ella fue común, especialmente en Oriente, desde el siglo IX. Debido a dudas sobre la historicidad de su leyenda, fue retirada del Calendario Romano General en la revisión de 1969, aunque no de la Iglesia Católica...",
+  "biography_pl": "Święta Barbara (starożytna greka: Ἁγία Βαρβάρα; koptyjski: Ϯⲁⲅⲓⲁ Ⲃⲁⲣⲃⲁⲣⲁ; cerkiewnosłowiański: Великомученица Варва́ра Илиопольская; arabski: القديسة الشهيدة بربارة), znana w Kościele Wschodnim jako Wielka Męczennica Barbara, była wczesnochrześcijańską świętą i męczennicą syryjską pochodzenia greckiego.  \nŚwięta Barbara jest często przedstawiana z miniaturowymi łańcuchami i wieżą, symbolizującymi więzienie, w którym trzymał ją ojciec. Jako jedna z Czternastu Świętych Wspomożycieli, Barbara jest popularną świętą, być może najbardziej znaną jako patronka zbrojmistrzów, artylerzystów, inżynierów wojskowych, górników i innych pracujących z materiałami wybuchowymi, ze względu na związek jej legendy z piorunami.  \nJest także patronką matematyków. Francuska wersja jej historii z XV wieku przypisuje jej trzynaście cudów, z których wiele odzwierciedlało pewność, jaką dawała swoim czcicielom, że nie umrą, zanim zdążą przystąpić do spowiedzi i otrzymać namaszczenie chorych.  \nLegendy opisujące jej życie pojawiły się dopiero w VII wieku. Kult świętej był powszechny, zwłaszcza na Wschodzie, od IX wieku. Z powodu wątpliwości co do historyczności jej legendy, została usunięta z Ogólnego Kalendarza Rzymskiego w rewizji z 1969 roku, choć nie z Kościoła katolickiego..."
+}

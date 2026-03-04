@@ -1,0 +1,79 @@
+{
+  "id": "08-17_saint_lawrence",
+  "name": "Saint Lawrence",
+  "mmdd": "08-17",
+  "feast": "The Seventeenth Day of August",
+  "summary": "Lawrence of Brindisi, OFM Cap., born Giulio Cesare Russo, was an Italian Catholic priest, theologian and member of the Order of Friars Minor Capuchin. An accomplished linguist, in addition to his native Italian, Lawrence could read and speak Latin, Hebrew, Greek, German, Czech, Spanish, and French fluently. Lawrence was ordained a priest at the age of 23. Lawrence was beatified on 1 June 1783 and canonized as a saint on 8 December 1881.",
+  "biography": "Lawrence of Brindisi, OFM Cap. (22 July 1559 – 22 July 1619), born Giulio Cesare Russo, was an Italian Catholic priest, theologian and member of the Order of Friars Minor Capuchin. An accomplished linguist, in addition to his native Italian, Lawrence could read and speak Latin, Hebrew, Greek, German, Czech, Spanish, and French fluently. Lawrence was ordained a priest at the age of 23. Lawrence was beatified on 1 June 1783 and canonized as a saint on 8 December 1881. Biography Giulio Cesare Russo was born in Brindisi, Kingdom of Naples, to a family of Venetian merchants. The Conventuals of Brindisi were entrusted with his education. Showing an early gift for oratory, he was always the one chosen to address, in accordance with the Italian custom, a short sermon to his compatriots on the Infant Jesus during the Christmas festivities. He was twelve when his father died, and continued his education at Saint Mark's College in Venice under the supervision of one of his uncles. Cesare joined the Capuchins in Verona as Brother Lawrence. He received further instruction from the University of Padua. An accomplished linguist, in addition to his native Italian, Lawrence could read and speak...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-17_saint_lawrence.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0bbaefa6d78abb8597b02c5bd2c7940f6fb0225607c1387a6359aaff010a84ee",
+        "langs": {
+          "es": {
+            "translatedHash": "fbaa92b835c11e52666d8365848d04af1c43bf310c88e632074b0a7b41afe2ac",
+            "updatedAt": "2026-02-25T00:16:44.246Z"
+          },
+          "pl": {
+            "translatedHash": "cd54abd4f99cb3c7dc8d1be5ca369358603f9bc002b77cf44824b628f3137245",
+            "updatedAt": "2026-02-25T00:16:45.114Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3de690438fd361ae35b623076fab5cbc2c4dfb519da47c97755484ed0b298baa",
+        "langs": {
+          "es": {
+            "translatedHash": "7d03aba6fc62c1a013bb178f80e8d197461c0cbf468524e45e23d1cfa82ce116",
+            "updatedAt": "2026-02-25T00:16:45.824Z"
+          },
+          "pl": {
+            "translatedHash": "5cec97118770f810634fce3f8dd6d5414c5085ac69ec80656c9314f13a893f53",
+            "updatedAt": "2026-02-25T00:16:46.415Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "11b9d446a7992ef54749e6c232d2ac5931aa365527a1a6bb14cd49f830fb8a65",
+        "langs": {
+          "es": {
+            "translatedHash": "5e416107e2277ca67bd092379019837aa6305bf52b1c82d6699004559d1faa18",
+            "updatedAt": "2026-02-25T00:16:48.556Z"
+          },
+          "pl": {
+            "translatedHash": "b884d5889d1865014165be5ffabad1a8ca0462f80b357f4a3808348287401798",
+            "updatedAt": "2026-02-25T00:16:51.621Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "766037729c13ba240186f90056894add7ade019a6b96ac710725d4642fa3cc4f",
+        "langs": {
+          "es": {
+            "translatedHash": "51dde07917248a2afb4c42c45b9dec9fd3079e026d759b87b7b90b0152448376",
+            "updatedAt": "2026-02-25T00:16:57.036Z"
+          },
+          "pl": {
+            "translatedHash": "4feb67b0f9a47fa00813b2dece40865c516c47216b23546c10154e80d4658034",
+            "updatedAt": "2026-02-25T00:17:02.741Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Lorenzo",
+  "name_pl": "Święty Wawrzyniec",
+  "feast_es": "El decimoséptimo día de agosto",
+  "feast_pl": "Siedemnasty Dzień Sierpnia",
+  "summary_es": "Lorenzo de Brindis, OFM Cap., nacido Giulio Cesare Russo, fue un sacerdote católico italiano, teólogo y miembro de la Orden de los Frailes Menores Capuchinos. Lingüista consumado, además de su italiano nativo, Lorenzo podía leer y hablar con fluidez latín, hebreo, griego, alemán, checo, español y francés. Lorenzo fue ordenado sacerdote a la edad de 23 años. Lorenzo fue beatificado el 1 de junio de 1783 y canonizado como santo el 8 de diciembre de 1881.",
+  "summary_pl": "Wawrzyniec z Brindisi, OFM Cap., urodzony jako Giulio Cesare Russo, był włoskim księdzem katolickim, teologiem i członkiem Zakonu Braci Mniejszych Kapucynów. Biegły językoznawca, oprócz ojczystego włoskiego, potrafił płynnie czytać i mówić po łacinie, hebrajsku, grecku, niemiecku, czesku, hiszpańsku i francusku. Wawrzyniec został wyświęcony na kapłana w wieku 23 lat. Został beatyfikowany 1 czerwca 1783 roku, a kanonizowany na świętego 8 grudnia 1881 roku.",
+  "biography_es": "Lorenzo de Brindis, OFM Cap. (22 de julio de 1559 – 22 de julio de 1619), nacido Giulio Cesare Russo, fue un sacerdote católico italiano, teólogo y miembro de la Orden de los Frailes Menores Capuchinos. Lingüista consumado, además de su italiano nativo, Lorenzo podía leer y hablar latín, hebreo, griego, alemán, checo, español y francés con fluidez. Lorenzo fue ordenado sacerdote a la edad de 23 años. Fue beatificado el 1 de junio de 1783 y canonizado como santo el 8 de diciembre de 1881.\n\nBiografía  \nGiulio Cesare Russo nació en Brindisi, Reino de Nápoles, en una familia de comerciantes venecianos. Los Conventuales de Brindisi se encargaron de su educación. Mostrando un don temprano para la oratoria, siempre fue el elegido para dirigir, conforme a la costumbre italiana, un breve sermón a sus compatriotas sobre el Niño Jesús durante las festividades navideñas. Tenía doce años cuando su padre murió, y continuó su educación en el Colegio de San Marcos en Venecia bajo la supervisión de uno de sus tíos. Cesare se unió a los capuchinos en Verona como hermano Lorenzo. Recibió instrucción adicional en la Universidad de Padua. Lingüista consumado, además de su italiano nativo, Lorenzo podía leer y hablar...",
+  "biography_pl": "Wawrzyniec z Brindisi, OFM Cap. (22 lipca 1559 – 22 lipca 1619), urodzony jako Giulio Cesare Russo, był włoskim księdzem katolickim, teologiem i członkiem Zakonu Braci Mniejszych Kapucynów. Biegły językoznawca, oprócz ojczystego włoskiego, Wawrzyniec potrafił płynnie czytać i mówić po łacinie, hebrajsku, grecku, niemiecku, czesku, hiszpańsku i francusku. Wawrzyniec został wyświęcony na kapłana w wieku 23 lat. Został beatyfikowany 1 czerwca 1783 roku, a kanonizowany na świętego 8 grudnia 1881 roku.\n\nBiografia  \nGiulio Cesare Russo urodził się w Brindisi, w Królestwie Neapolu, w rodzinie weneckich kupców. Jego edukację powierzono konwentualnym z Brindisi. Wykazując wczesny dar do oratorstwa, zawsze to on był wybierany, zgodnie z włoską tradycją, aby wygłosić krótkie kazanie do swoich rodaków o Dzieciątku Jezus podczas świąt Bożego Narodzenia. Miał dwanaście lat, gdy zmarł jego ojciec, i kontynuował naukę w Kolegium św. Marka w Wenecji pod nadzorem jednego ze swoich wujów. Cesare wstąpił do kapucynów w Weronie jako brat Wawrzyniec. Otrzymał dalsze wykształcenie na Uniwersytecie w Padwie. Będąc biegłym językoznawcą, oprócz ojczystego włoskiego, Wawrzyniec potrafił czytać i mówić..."
+}

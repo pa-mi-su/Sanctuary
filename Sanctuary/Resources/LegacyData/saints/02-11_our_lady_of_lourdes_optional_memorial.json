@@ -1,0 +1,64 @@
+{
+  "id": "02-11_our_lady_of_lourdes_optional_memorial",
+  "name": "Our Lady of Lourdes—Optional Memorial",
+  "mmdd": "02-11",
+  "feast": "The Eleventh Day of February",
+  "summary": "Our Lady of Lourdes is one of the devotional names or titles under which the Catholic Church venerates the Virgin Mary. The name commemorates a series of 18 apparitions reported by a 14-year-old girl, Bernadette Soubirous, in Lourdes, France in 1858. After the first reported apparition on 11 February 1858, Bernadette told her mother that a \"Lady\" had spoken to her in the cave of Massabielle while Bernadette, her sister, and a friend were gathering firewood. Bernadette reported similar apparitions of the \"Lady\" over the ensuing weeks, in the last of which the \"Lady\" identified herself as \"the Immaculate Conception\". On 18 January 1862, the local Bishop of Tarbes Bertrand-Sévère Laurence endorsed the veneration of the Blessed Virgin Mary in Lourdes.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-11_our_lady_of_lourdes_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "94dc0e12fba84802d111cdd6159483fa770d8ce575f414fb0da0ad4bfb64c73a",
+        "langs": {
+          "es": {
+            "translatedHash": "184e600c44eea9ec6a5feb09c7e79da6cd4fbf59ca70ce6b75ce4e52fe0ce413",
+            "updatedAt": "2026-02-24T22:33:27.232Z"
+          },
+          "pl": {
+            "translatedHash": "d2eba75a86261f069df62240e6b492d2bb7c969ff44a69a66d9bae1194e56c7c",
+            "updatedAt": "2026-02-24T22:33:27.986Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a5e7e38b5b0f9afefe3ea8f0de643222ed7bf60d75aac23c5669039261a46da4",
+        "langs": {
+          "es": {
+            "translatedHash": "e1d02dd2a178e27d7052e7fe1bdb2754933a2be21a033e05434f511662f2d6eb",
+            "updatedAt": "2026-02-24T22:33:28.524Z"
+          },
+          "pl": {
+            "translatedHash": "b7642d59f038f997d37a9123fd4940d5080bc0442a022f9671a5541f40937fe7",
+            "updatedAt": "2026-02-24T22:33:29.577Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e8ff96f3a14954a03e617a28d3843dbd2adc1ef921f94dc25bd779c03fd307e9",
+        "langs": {
+          "es": {
+            "translatedHash": "fc247143e02d1b9b586154d100799f92c62aefe5af6c56891c963581c4bf019f",
+            "updatedAt": "2026-02-24T22:33:35.025Z"
+          },
+          "pl": {
+            "translatedHash": "351d0292f892fb3c20245ee83f65c97399574e78738d1a91f547fb545c3a3e78",
+            "updatedAt": "2026-02-24T22:33:38.814Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora de Lourdes—Memoria Opcional",
+  "name_pl": "Matka Boża z Lourdes — Wspomnienie dowolne",
+  "feast_es": "El Día Once de Febrero",
+  "feast_pl": "Jedenasty dzień lutego",
+  "summary_es": "Nuestra Señora de Lourdes es uno de los nombres o títulos devocionales bajo los cuales la Iglesia Católica venera a la Virgen María. El nombre conmemora una serie de 18 apariciones reportadas por una niña de 14 años, Bernadette Soubirous, en Lourdes, Francia, en 1858.  \n\nDespués de la primera aparición reportada el 11 de febrero de 1858, Bernadette le dijo a su madre que una \"Dama\" le había hablado en la cueva de Massabielle mientras Bernadette, su hermana y una amiga recogían leña. Bernadette reportó apariciones similares de la \"Dama\" durante las semanas siguientes, en la última de las cuales la \"Dama\" se identificó como \"la Inmaculada Concepción\".  \n\nEl 18 de enero de 1862, el obispo local de Tarbes, Bertrand-Sévère Laurence, aprobó la veneración de la Santísima Virgen María en Lourdes.",
+  "summary_pl": "Matka Boża z Lourdes jest jednym z nabożeństwowych imion lub tytułów, pod którymi Kościół katolicki czci Najświętszą Maryję Pannę. Nazwa upamiętnia serię 18 objawień, które miała 14-letnia dziewczyna, Bernadetta Soubirous, w Lourdes we Francji w 1858 roku. Po pierwszym zgłoszonym objawieniu 11 lutego 1858 roku Bernadetta powiedziała swojej matce, że „Pani” przemówiła do niej w jaskini Massabielle, gdy Bernadetta, jej siostra i przyjaciółka zbierały drewno na opał. Bernadetta zgłaszała podobne objawienia „Pani” w kolejnych tygodniach, w ostatnim z nich „Pani” przedstawiła się jako „Niepokalane Poczęcie”. 18 stycznia 1862 roku miejscowy biskup Tarbes, Bertrand-Sévère Laurence, zatwierdził kult Najświętszej Maryi Panny w Lourdes."
+}

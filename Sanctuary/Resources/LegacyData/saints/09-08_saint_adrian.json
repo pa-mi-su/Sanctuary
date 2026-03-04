@@ -1,0 +1,79 @@
+{
+  "id": "09-08_saint_adrian",
+  "name": "Saint Adrian",
+  "mmdd": "09-08",
+  "feast": "The Eighth Day of September",
+  "summary": "Adrian of Nicomedia or Saint Adrian was a Herculian Guard of the Roman Emperor Galerius. After becoming a convert to Christianity with his wife Natalia (Ναταλία), Adrian was martyred at Nicomedia in Asia-Minor (Turkey). Adrian was the chief military saint of Northern Europe for many ages, second only to Saint George, and is much revered in Flanders, Germany and the north of France.",
+  "biography": "Adrian is a form of the Latin given name Adrianus or Hadrianus. Its ultimate origin is most likely via the former river Adria from the Venetic and Illyrian word adur, meaning \"sea\" or \"water\".",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adrian_and_Natalia_of_Nicomedia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-08_saint_adrian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "162c564758cb361ee6484b9fc364bd88b1061cd19fa2f10d61cbe56a08f90499",
+        "langs": {
+          "es": {
+            "translatedHash": "9d15e0965c65ed5f6c1926c5d2024ea765d3ba4ffe1cde7b9796cd979ef9ac45",
+            "updatedAt": "2026-02-25T00:27:19.222Z"
+          },
+          "pl": {
+            "translatedHash": "df8b279994439c1f1025b3149d07c41846c6b1a01631b0ce6aafb65e3cc4a400",
+            "updatedAt": "2026-02-25T00:27:19.767Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ef0cce11de4021d267d66640e62fbf9eb32c966d02b86f95700cbb62998b199a",
+        "langs": {
+          "es": {
+            "translatedHash": "17e08fe094787f4cbc9f65eaabaab8f1548ebf6f946c45e788393e5eef00a1fa",
+            "updatedAt": "2026-02-25T00:27:20.272Z"
+          },
+          "pl": {
+            "translatedHash": "3ccf9093d4bd8919485644c91203b84033567b5c0cbdccf658b0e2ce2bc77d5a",
+            "updatedAt": "2026-02-25T00:27:21.010Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "112c230a135957619387fd93178bbdc409c4997ff71fbf62cc64e0ffd7b32c7e",
+        "langs": {
+          "es": {
+            "translatedHash": "4df916c83543db7697b264b3bf32d5e40421fb372301fdc56109895e0e8f3a34",
+            "updatedAt": "2026-02-25T00:27:22.734Z"
+          },
+          "pl": {
+            "translatedHash": "87a48cc17664d33627ac5aa2dd5625a769e7ee8b4cdd67bd48de88061f46a8ab",
+            "updatedAt": "2026-02-25T00:27:24.518Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "460e9be209cf3718d2fd2524ea926dfff999d08c70e7800365b1e41ae5e0c7ff",
+        "langs": {
+          "es": {
+            "translatedHash": "53b95fa3b568738df43c2def9c2df30bb89fd779c196bb9469f77a5a0f50de3e",
+            "updatedAt": "2026-02-25T00:27:26.139Z"
+          },
+          "pl": {
+            "translatedHash": "fc33abc9b562c8acc476fe93676fc316ad0b9290c0571f89c12fd204904e9772",
+            "updatedAt": "2026-02-25T00:27:27.799Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Adrián",
+  "name_pl": "Święty Adrian",
+  "feast_es": "El Octavo Día de Septiembre",
+  "feast_pl": "Ósmy Dzień Września",
+  "summary_es": "Adriano de Nicomedia o San Adriano fue un guardia herculiano del emperador romano Galerio. Después de convertirse al cristianismo junto con su esposa Natalia (Ναταλία), Adriano fue martirizado en Nicomedia, en Asia Menor (Turquía). Adriano fue el principal santo militar del norte de Europa durante muchas épocas, solo superado por San Jorge, y es muy venerado en Flandes, Alemania y el norte de Francia.",
+  "summary_pl": "Adrian z Nikomedii, czyli święty Adrian, był strażnikiem herkulejskim cesarza rzymskiego Galeriusza. Po nawróceniu się na chrześcijaństwo wraz z żoną Natalią (Ναταλία), Adrian został męczennikiem w Nikomedii w Azji Mniejszej (Turcja). Adrian przez wiele wieków był głównym świętym wojskowym północnej Europy, ustępując jedynie świętemu Jerzemu, i jest bardzo czczony w Flandrii, Niemczech oraz na północy Francji.",
+  "biography_es": "Adrián es una forma del nombre latino Adrianus o Hadrianus. Su origen último es muy probablemente a través del antiguo río Adria, proveniente de la palabra venética e iliria adur, que significa \"mar\" o \"agua\".",
+  "biography_pl": "Adrian to forma łacińskiego imienia Adrianus lub Hadrianus. Jego ostateczne pochodzenie najprawdopodobniej wiąże się z dawną rzeką Adria, pochodzącą od weneckiego i iliryjskiego słowa adur, oznaczającego „morze” lub „woda”."
+}

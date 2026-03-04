@@ -1,0 +1,79 @@
+{
+  "id": "05-25_saint_gregory_vii",
+  "name": "Saint Gregory VII",
+  "mmdd": "05-25",
+  "feast": "The Twenty-Fifth Day of May",
+  "summary": "Pope Gregory VII, born Hildebrand of Sovana, was head of the Catholic Church and ruler of the Papal States from 22 April 1073 to his death in 1085. He is venerated as a saint in the Catholic Church.",
+  "biography": "Pope Gregory VII, born Hildebrand of Sovana, was head of the Catholic Church and ruler of the Papal States from 22 April 1073 to his death in 1085. He is venerated as a saint in the Catholic Church.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_VII",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-25_saint_gregory_vii.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "456dd09424cee9aec22f67f23b74a82db17a5a6dd454234d0309496b94758cf8",
+        "langs": {
+          "es": {
+            "translatedHash": "9dfef9734cf321fb7592bf75e956f0af277d9bf44c95e6f9a0fd36a2aafee8c2",
+            "updatedAt": "2026-02-24T23:31:42.013Z"
+          },
+          "pl": {
+            "translatedHash": "a7de263917850da78d85e30c7b8e59eca482be9c1e7d858bfd15a361995a28fc",
+            "updatedAt": "2026-02-24T23:31:42.664Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "122161132b62d9dc09ce59643a656da0ec5039a9478d8107eed1324eff738414",
+        "langs": {
+          "es": {
+            "translatedHash": "d45bf0e197a28267550fcd16e4f46cbb4856a6f11bf6a0e43597202447c24628",
+            "updatedAt": "2026-02-24T23:31:43.661Z"
+          },
+          "pl": {
+            "translatedHash": "8aba5a2190b380083ec85d79d87bc3cedbbc48a3475506f0f920d72e197bff5f",
+            "updatedAt": "2026-02-24T23:31:44.453Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4b972c8006036f27edc41cc540ad8dfa3c0bb2f777e3bed816c49e8af195f0b7",
+        "langs": {
+          "es": {
+            "translatedHash": "a9d5f093e67300c6bea2dc7fb12383400a81a39d5670ea971df3d6b64507b218",
+            "updatedAt": "2026-02-24T23:31:46.069Z"
+          },
+          "pl": {
+            "translatedHash": "dcb9010a31d794d660c490c9ba9381e7bdc270ca009ab420158e67d967df1308",
+            "updatedAt": "2026-02-24T23:31:47.911Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4b972c8006036f27edc41cc540ad8dfa3c0bb2f777e3bed816c49e8af195f0b7",
+        "langs": {
+          "es": {
+            "translatedHash": "f4ac03b40b651e11e14682ceeff65ca4eaf7e0091b7d6fda0f0a5026237dee57",
+            "updatedAt": "2026-02-24T23:31:49.164Z"
+          },
+          "pl": {
+            "translatedHash": "dcb9010a31d794d660c490c9ba9381e7bdc270ca009ab420158e67d967df1308",
+            "updatedAt": "2026-02-24T23:31:50.963Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio VII",
+  "name_pl": "Święty Grzegorz VII",
+  "feast_es": "El vigésimo quinto día de mayo",
+  "feast_pl": "Dwudziesty piąty dzień maja",
+  "summary_es": "El Papa Gregorio VII, nacido Hildebrando de Sovana, fue cabeza de la Iglesia Católica y gobernante de los Estados Pontificios desde el 22 de abril de 1073 hasta su muerte en 1085. Es venerado como santo en la Iglesia Católica.",
+  "summary_pl": "Papież Grzegorz VII, urodzony jako Hildebrand z Sovany, był głową Kościoła katolickiego i władcą Państwa Kościelnego od 22 kwietnia 1073 roku aż do swojej śmierci w 1085 roku. Jest czczony jako święty w Kościele katolickim.",
+  "biography_es": "El Papa Gregorio VII, nacido Hildebrando de Sovana, fue jefe de la Iglesia Católica y gobernante de los Estados Pontificios desde el 22 de abril de 1073 hasta su muerte en 1085. Es venerado como santo en la Iglesia Católica.",
+  "biography_pl": "Papież Grzegorz VII, urodzony jako Hildebrand z Sovany, był głową Kościoła katolickiego i władcą Państwa Kościelnego od 22 kwietnia 1073 roku aż do swojej śmierci w 1085 roku. Jest czczony jako święty w Kościele katolickim."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "02-21_saint_peter_damian_bishop_and_doctor_of_the_church_optional_memorial",
+  "name": "Saint Peter Damian, Bishop and Doctor of the Church—Optional Memorial",
+  "mmdd": "02-21",
+  "feast": "The Twenty-First Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-21_saint_peter_damian_bishop_and_doctor_of_the_church_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "62215dc9f6a5f7b9206e3626d92ee91fd8451d1977daea251c86c14bc0b1d77f",
+        "langs": {
+          "es": {
+            "translatedHash": "20af8a4cb38abff19230187db918050c04edbb62c683656066ea2c5f64bfbb7e",
+            "updatedAt": "2026-02-24T22:39:30.857Z"
+          },
+          "pl": {
+            "translatedHash": "33edd93e9840a5f4a70ac611cd7dd9b6229963b72fc72a8c621f101c7cc1c814",
+            "updatedAt": "2026-02-24T22:39:32.545Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4db81097a2535540fc0642473475d5fcadc8f64635db6c3ef78e2d90a7026aac",
+        "langs": {
+          "es": {
+            "translatedHash": "eb4060d72284c82ecc367beda82e3e28f8f6ca439b00fee1ea70d125b0ee6c38",
+            "updatedAt": "2026-02-24T22:39:33.222Z"
+          },
+          "pl": {
+            "translatedHash": "a1f18d273b5a58088512b5fa55b7001a1cd7b165b4798a6b9b5b68c39d1d65b4",
+            "updatedAt": "2026-02-24T22:39:33.974Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Damián, Obispo y Doctor de la Iglesia—Memoria Opcional",
+  "name_pl": "Święty Piotr Damian, Biskup i Doktor Kościoła — Wspomnienie dowolne",
+  "feast_es": "El vigésimo primer día de febrero",
+  "feast_pl": "Dwudziesty pierwszy dzień lutego"
+}

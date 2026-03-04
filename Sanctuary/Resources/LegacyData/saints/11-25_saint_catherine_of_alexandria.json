@@ -1,0 +1,79 @@
+{
+  "id": "11-25_saint_catherine_of_alexandria",
+  "name": "Saint Catherine of Alexandria",
+  "mmdd": "11-25",
+  "feast": "The Twenty-Fifth Day of November",
+  "summary": "Catherine of Alexandria, also spelled Katherine, was, according to tradition, a Christian saint and virgin, who was martyred in the early 4th century at the hands of the emperor Maxentius. According to her hagiography, she was both a princess and a noted scholar who became a Christian around age 14, converted hundreds of people to Christianity, and was martyred around age 18.",
+  "biography": "Catherine of Alexandria, also spelled Katherine, was, according to tradition, a Christian saint and virgin, who was martyred in the early 4th century at the hands of the emperor Maxentius. According to her hagiography, she was both a princess and a noted scholar who became a Christian around age 14, converted hundreds of people to Christianity, and was martyred around age 18. The Eastern Orthodox Church venerates her as a great martyr and celebrates her feast day on 24 or 25 November, depending on the regional tradition. In Catholicism, Catherine is traditionally revered as one of the Fourteen Holy Helpers, and she is commemorated in the Roman Martyrology on 25 November. Her feast was removed from the General Roman Calendar in 1969 but restored in 2002 as an optional memorial. In the Episcopal Church, St. Catherine is commemorated on 24 November, together with the martyrs Barbara of Nicomedia and Margaret of Antioch, while in the Church of England her feast day is 25 November. Some modern scholars consider that the legend of Catherine was probably based on the life and murder of the virgin Saint Dorothea of Alexandria and the Greek philosopher Hypatia, with the reversed role of a Christian...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_of_Alexandria",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-25_saint_catherine_of_alexandria.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d5a21f3b15c7bff4e16122665024daaeacfa6764ea246a98cf5de9606406fb40",
+        "langs": {
+          "es": {
+            "translatedHash": "77f3a4b6630e364d9ec3ccd3237608e033b911fe7462dc37064c40adfa9c61cc",
+            "updatedAt": "2026-02-25T01:14:12.870Z"
+          },
+          "pl": {
+            "translatedHash": "aee4d572c7f90f1fa53dbdf8c7d51e70b17a01b724838ee62e18eab6ce401479",
+            "updatedAt": "2026-02-25T01:14:13.408Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5d315ecac244308cc4128d44b6074d56bc02af013f028eeff5e9838001fb9ec7",
+        "langs": {
+          "es": {
+            "translatedHash": "a5f8523792a483e57e17f1801b94617bbf6d7ead0a9a27f0658e4df14fc7528e",
+            "updatedAt": "2026-02-25T01:14:14.079Z"
+          },
+          "pl": {
+            "translatedHash": "95f25ff89b4d0535419e2a35de12ef496cf0cdaea4835c429a6d81d0d5e1b58a",
+            "updatedAt": "2026-02-25T01:14:14.684Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0d9f62e932b5813d0016def365b3126adbbf45f40e69b56fd2752d32608fcb3e",
+        "langs": {
+          "es": {
+            "translatedHash": "36613539c2fb2ff602d20ec920edce6a64f9b3984f4f8165792997f499c88305",
+            "updatedAt": "2026-02-25T01:14:17.121Z"
+          },
+          "pl": {
+            "translatedHash": "aa3ccd771845d5d140b7171b78c046a706eb29557389453ffddd1fd13c790ab8",
+            "updatedAt": "2026-02-25T01:14:19.420Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "40cdbad0b72983bf7c0b2677a35bb323ff9790dd55443d77c2411c8886891463",
+        "langs": {
+          "es": {
+            "translatedHash": "6e41487c6feb107b93a2ad2ccec7eda540175bc8b7d1a317b14af44c6576ff68",
+            "updatedAt": "2026-02-25T01:14:23.794Z"
+          },
+          "pl": {
+            "translatedHash": "0710c3e85d81241c5552c004a22df42c3fa0ab824f00e507f32df42d583997cf",
+            "updatedAt": "2026-02-25T01:14:30.336Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Catalina de Alejandría",
+  "name_pl": "Święta Katarzyna Aleksandryjska",
+  "feast_es": "El vigésimo quinto día de noviembre",
+  "feast_pl": "Dwudziesty piąty dzień listopada",
+  "summary_es": "Catalina de Alejandría, también escrita Katherine, fue, según la tradición, una santa y virgen cristiana, que fue martirizada a principios del siglo IV a manos del emperador Majencio. Según su hagiografía, fue tanto una princesa como una erudita destacada que se convirtió al cristianismo alrededor de los 14 años, convirtió a cientos de personas al cristianismo y fue martirizada alrededor de los 18 años.",
+  "summary_pl": "Katarzyna Aleksandryjska, zwana także Katarzyną, była według tradycji chrześcijańską świętą i dziewicą, która została zamęczona na śmierć na początku IV wieku przez cesarza Maksencjusza. Według jej hagiografii była zarówno księżniczką, jak i znaną uczoną, która nawróciła się na chrześcijaństwo około 14. roku życia, nawróciła setki ludzi na chrześcijaństwo i została męczennicą około 18. roku życia.",
+  "biography_es": "Catalina de Alejandría, también escrita Katherine, fue, según la tradición, una santa y virgen cristiana, que fue martirizada a principios del siglo IV a manos del emperador Majencio. Según su hagiografía, fue tanto princesa como una destacada erudita que se convirtió al cristianismo alrededor de los 14 años, convirtió a cientos de personas al cristianismo y fue martirizada alrededor de los 18 años. La Iglesia Ortodoxa Oriental la venera como una gran mártir y celebra su fiesta el 24 o 25 de noviembre, según la tradición regional. En el catolicismo, Catalina es tradicionalmente venerada como una de las Catorce Auxiliadoras Santas, y se la conmemora en el Martirologio Romano el 25 de noviembre. Su fiesta fue eliminada del Calendario Romano General en 1969, pero restaurada en 2002 como memoria opcional. En la Iglesia Episcopal, Santa Catalina se conmemora el 24 de noviembre, junto con las mártires Bárbara de Nicomedia y Margarita de Antioquía, mientras que en la Iglesia de Inglaterra su fiesta es el 25 de noviembre. Algunos estudiosos modernos consideran que la leyenda de Catalina probablemente se basó en la vida y asesinato de la virgen Santa Dorotea de Alejandría y la filósofa griega Hipatia, con el papel invertido de una cristiana...",
+  "biography_pl": "Katarzyna Aleksandryjska, zwana także Katarzyną, była według tradycji chrześcijańską świętą i dziewicą, która została zamęczona na początku IV wieku przez cesarza Maksencjusza. Według jej hagiografii była zarówno księżniczką, jak i wybitną uczoną, która nawróciła się na chrześcijaństwo około 14. roku życia, nawróciła setki ludzi i została zamęczona około 18. roku życia. Kościół prawosławny czci ją jako wielką męczennicę i obchodzi jej święto 24 lub 25 listopada, w zależności od tradycji regionalnej. W katolicyzmie Katarzyna jest tradycyjnie czczona jako jedna z Czternastu Świętych Wspomożycieli, a w Martyrologium Rzymskim wspomina się ją 25 listopada. Jej święto zostało usunięte z Ogólnego Kalendarza Rzymskiego w 1969 roku, ale przywrócone w 2002 roku jako wspomnienie dowolne. W Kościele Episkopalnym św. Katarzyna jest wspominana 24 listopada, razem z męczenniczkami Barbarą z Nikomedii i Małgorzatą z Antiochii, natomiast w Kościele Anglii jej święto przypada na 25 listopada. Niektórzy współcześni uczeni uważają, że legenda o Katarzynie prawdopodobnie opiera się na życiu i męczeństwie dziewicy św. Doroty Aleksandryjskiej oraz greckiej filozofki Hipatii, z odwróconą rolą chrześcijanki..."
+}

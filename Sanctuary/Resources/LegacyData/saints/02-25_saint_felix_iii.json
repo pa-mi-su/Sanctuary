@@ -1,0 +1,78 @@
+{
+  "id": "02-25_saint_felix_iii",
+  "name": "Saint Felix III",
+  "mmdd": "02-25",
+  "feast": "The Twenty-Fifth Day of February",
+  "summary": "Pope Felix III was the bishop of Rome from 13 March 483 to his death on 1 March 492. His repudiation of the Henotikon is considered the beginning of the Acacian schism. He is commemorated on March 1.",
+  "biography": "Family\nFelix was born into a Roman senatorial family – possibly the son of a priest. He was married and widowed before he was elected as pope. He fathered two children, and through his son Gordianus (a priest) was thought to be great-great-grandfather to Pope Gregory I, and possibly related to Pope Agapetus I.\nIt was also said that Felix appeared as an apparition to another of his descendants, his great-granddaughter Trasilla (an aunt of Pope Gregory I), and asked her to enter Heaven, and \"on the eve of Christmas Trasilla died, seeing Jesus Christ beckoning\".\n\n\nEutychian heresy\nEutyches was an archimandrite at Constantinople. In his opposition to Nestorianism he seemed to have taken the opposite view to extremes.\nIn an effort to defuse controversy regarding the teachings of Eutyches, in 482 Emperor Zeno, at the suggestion of Patriarch Acacius of Constantinople, had issued an edict known as the Henoticon. The edict was intended as a bond of reconciliation between...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Felix_III"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-25_saint_felix_iii.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b0b89587b5d9843fe529422d3b5fe68edb59d007d9a16808c1b135073d705ab2",
+        "langs": {
+          "es": {
+            "translatedHash": "6e6c12290cac9f975cf58dd315b011454302d55f128d875f7f0de664d969e2ef",
+            "updatedAt": "2026-02-24T22:42:19.207Z"
+          },
+          "pl": {
+            "translatedHash": "47c16012ca6f2f03b1a617dc78c296289aed572a0810450a76a597d7b08a0978",
+            "updatedAt": "2026-02-24T22:42:19.890Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f5a6f0837cf0a0dff2775fa680f8e5c2bd153fd544333b5ace8557c35f9d1eb6",
+        "langs": {
+          "es": {
+            "translatedHash": "0910c5849390a31d23e2eaa3cac1db2090031ef78320da5911da71ab76a68c7f",
+            "updatedAt": "2026-02-24T22:42:20.604Z"
+          },
+          "pl": {
+            "translatedHash": "9400220e0f5fc6ed70d19cd76836fbedafdd547573e6f2865a4294628dc8f320",
+            "updatedAt": "2026-02-24T22:42:21.246Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f65f3a465e629a4340710bdca4f9c1e624dce4221a2cd32c44af1ef5fd9af330",
+        "langs": {
+          "es": {
+            "translatedHash": "de142cffdb7857378209a36c2d9afd938069a6601a280b8cdfdf62a3d1574381",
+            "updatedAt": "2026-02-24T22:42:22.756Z"
+          },
+          "pl": {
+            "translatedHash": "45d588ee7309bf8b9229f97dd039f7f31b2394efb02606fc36be53b8b8a1215b",
+            "updatedAt": "2026-02-24T22:42:23.973Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6ee0889ca3be8e3afa9513bf75e7560107443a5a3443d504247b25d57988b50b",
+        "langs": {
+          "es": {
+            "translatedHash": "c468f31b624560d0042dc6bb11f85ad0917016de9fdad95a2e9518504336377d",
+            "updatedAt": "2026-02-24T22:42:27.615Z"
+          },
+          "pl": {
+            "translatedHash": "8861d0052d3a5341297489177683d9536fc112e97f1d03cf8a781dc8dae3de89",
+            "updatedAt": "2026-02-24T22:42:34.297Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Félix III",
+  "name_pl": "Święty Feliks III",
+  "feast_es": "El vigésimo quinto día de febrero",
+  "feast_pl": "Dwudziesty piąty dzień lutego",
+  "summary_es": "El Papa Félix III fue obispo de Roma desde el 13 de marzo de 483 hasta su muerte el 1 de marzo de 492. Su repudio del Henotikon se considera el comienzo del cisma acaciano. Se le conmemora el 1 de marzo.",
+  "summary_pl": "Papież Feliks III był biskupem Rzymu od 13 marca 483 do swojej śmierci 1 marca 492. Jego odrzucenie Henotikonu jest uważane za początek schizmy Akacjusza. Wspominany jest 1 marca.",
+  "biography_es": "Familia  \nFelix nació en una familia senatorial romana, posiblemente hijo de un sacerdote. Estuvo casado y enviudó antes de ser elegido papa. Fue padre de dos hijos, y a través de su hijo Gordiano (un sacerdote) se pensaba que era tatarabuelo del Papa Gregorio I, y posiblemente pariente del Papa Agapeto I.  \nTambién se decía que Félix apareció en forma de aparición a otra de sus descendientes, su bisnieta Trasila (tía del Papa Gregorio I), y le pidió que entrara en el Cielo, y \"en la víspera de Navidad Trasila murió, viendo a Jesucristo llamándola\".\n\nHerejía eutiquiana  \nEutiques fue un archimandrita en Constantinopla. En su oposición al nestorianismo pareció haber tomado la postura opuesta hasta los extremos.  \nEn un esfuerzo por desactivar la controversia respecto a las enseñanzas de Eutiques, en 482 el emperador Zenón, a sugerencia del patriarca Acacio de Constantinopla, emitió un edicto conocido como el Henótico. El edicto estaba destinado a ser un lazo de reconciliación entre...",
+  "biography_pl": "Rodzina  \nFeliks urodził się w rzymskiej rodzinie senatorskiej – prawdopodobnie był synem kapłana. Był żonaty i owdowiał, zanim został wybrany na papieża. Miał dwoje dzieci, a przez swojego syna Gordiana (kapłana) uważano go za prapradziadka papieża Grzegorza I, a być może był też spokrewniony z papieżem Agapetem I.  \nMówiono również, że Feliks ukazał się jako zjawa innej ze swoich potomków, swojej prawnuczce Trasilli (ciotce papieża Grzegorza I), i poprosił ją, aby weszła do Nieba, a „w wigilię Bożego Narodzenia Trasilla zmarła, widząc, jak Jezus Chrystus ją woła”.  \n\nHerezja eutychesowa  \nEutyches był archimandrytą w Konstantynopolu. W swoim sprzeciwie wobec nestorianizmu zdawał się popaść w skrajności przeciwnych poglądów.  \nW celu załagodzenia kontrowersji dotyczących nauk Eutychesa, w 482 roku cesarz Zenon, na sugestię patriarchy Konstantynopola Akacjusza, wydał edykt znany jako Henotikon. Edykt ten miał być więzią pojednania pomiędzy..."
+}

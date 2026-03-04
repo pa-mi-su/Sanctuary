@@ -1,0 +1,79 @@
+{
+  "id": "03-21_saint_gregory",
+  "name": "Saint Gregory",
+  "mmdd": "03-21",
+  "feast": "The Twenty-First Day of March",
+  "summary": "Gregory of Nyssa, also known as Gregory Nyssen, was an early Christian theologian who served as the bishop of Nyssa from 372 to 376 and from 378 until his death in 394. He is venerated as a saint in Eastern Orthodoxy, the Catholic Church, Oriental Orthodox Churches, Anglicanism, and Lutheranism. Gregory, his younger brother Basil of Caesarea, and their friend Gregory of Nazianzus are collectively known as the Cappadocian Fathers.",
+  "biography": "Gregory of Nyssa (; Koine Greek: Γρηγόριος Νύσσης, romanized: Grēgórios Nýssēs, pronounced [ɣriˈɣo.ri.os ˈnys.sis]; c. 335 – c. 394), also known as Gregory Nyssen (; Γρηγόριος Νυσσηνός, Grēgórios Nyssēnós, [ɣriˈɣo.ri.os nys.siˈnos]), was an early Christian theologian who served as the bishop of Nyssa from 372 to 376 and from 378 until his death in 394. He is venerated as a saint in Eastern Orthodoxy, the Catholic Church, Oriental Orthodox Churches, Anglicanism, and Lutheranism. Gregory, his younger brother Basil of Caesarea, and their friend Gregory of Nazianzus are collectively known as the Cappadocian Fathers. Gregory lacked the administrative ability of his brother Basil or the contemporary influence of Gregory of Nazianzus, but he was an erudite Christian theologian who made significant contributions to the doctrine of the Trinity and the Nicene Creed. Gregory's philosophical writings were influenced by Origen. Since the mid-twentieth century, there has been a significant increase in interest in Gregory's works from the academic community, particularly involving universal salvation, which has resulted in challenges to many traditional interpretations of his theology. Gregory is...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Nyssa",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-21_saint_gregory.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2d4aa8513446b3ef68a9d1300516792dd332e6c6aea2d3cd7977011c30588276",
+        "langs": {
+          "es": {
+            "translatedHash": "af48e8077cb15de91225f83cc3256e06d8c40647b5b6857778fe7118e369458c",
+            "updatedAt": "2026-02-24T22:56:47.623Z"
+          },
+          "pl": {
+            "translatedHash": "5aa1be30f51578c61d1eb0dd7bf78f595bb58493dd82d6f60bd7603613c3ab32",
+            "updatedAt": "2026-02-24T22:56:48.324Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "860396efacf8f1577a80f4431245223d25c655835c78af6a33b20320756b2911",
+        "langs": {
+          "es": {
+            "translatedHash": "4dfbba5df7a9d0e23f810895cc74c6d10a912809929b8243600b67e1f4acbd3d",
+            "updatedAt": "2026-02-24T22:56:48.919Z"
+          },
+          "pl": {
+            "translatedHash": "9c77d8652060330bbd2b1aff93d3dc18d57bd8f57708878a6a55288fed99b1ba",
+            "updatedAt": "2026-02-24T22:56:49.548Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a92b1f394f472a0415007be66f7527f37086f081445e14030973b6351fb32b62",
+        "langs": {
+          "es": {
+            "translatedHash": "5c60b08512f3f7eda1593862c4ad87cb4733b7715dfd939b634873b6881247a6",
+            "updatedAt": "2026-02-24T22:56:51.521Z"
+          },
+          "pl": {
+            "translatedHash": "8a63ceaf0985accbe4e0b51a7fe66dd9e2574815e8bd0b65ecf6d4efb3249d84",
+            "updatedAt": "2026-02-24T22:56:55.053Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d4c83c12b3b7d98544649c02f98905d95e672f9f36387911a0afbd6b25cbb0f9",
+        "langs": {
+          "es": {
+            "translatedHash": "b4cb5cb97a7a156322995645c4c0af00bf0b93ad85dba38812ede783c800c8a9",
+            "updatedAt": "2026-02-24T22:56:59.557Z"
+          },
+          "pl": {
+            "translatedHash": "12ee467306f96c3fd28dad26733beca62c6ad670b22b5f2b7fec939cda2b4378",
+            "updatedAt": "2026-02-24T22:57:03.376Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio",
+  "name_pl": "Święty Grzegorz",
+  "feast_es": "El vigésimo primer día de marzo",
+  "feast_pl": "Dwudziesty pierwszy dzień marca",
+  "summary_es": "Gregorio de Nisa, también conocido como Gregorio Nisenzo, fue un teólogo cristiano primitivo que sirvió como obispo de Nisa desde 372 hasta 376 y desde 378 hasta su muerte en 394. Es venerado como santo en la Ortodoxia Oriental, la Iglesia Católica, las Iglesias Ortodoxas Orientales, el anglicanismo y el luteranismo. Gregorio, su hermano menor Basilio de Cesarea y su amigo Gregorio de Nacianzo son conocidos colectivamente como los Padres Capadocios.",
+  "summary_pl": "Grzegorz z Nyssy, znany również jako Grzegorz Nyssen, był wczesnochrześcijańskim teologiem, który pełnił funkcję biskupa Nyssy od 372 do 376 oraz od 378 aż do swojej śmierci w 394 roku. Jest czczony jako święty w Kościele Wschodnim, Kościele katolickim, Kościołach orientalnych, anglikanizmie oraz luteranizmie. Grzegorz, jego młodszy brat Bazyl z Cezarei oraz ich przyjaciel Grzegorz z Nazjanzu są łącznie znani jako Ojcowie Kapadoccy.",
+  "biography_es": "Gregorio de Nisa (; griego koiné: Γρηγόριος Νύσσης, romanizado: Grēgórios Nýssēs, pronunciado [ɣriˈɣo.ri.os ˈnys.sis]; c. 335 – c. 394), también conocido como Gregorio Niseno (; Γρηγόριος Νυσσηνός, Grēgórios Nyssēnós, [ɣriˈɣo.ri.os nys.siˈnos]), fue un teólogo cristiano temprano que sirvió como obispo de Nisa desde 372 hasta 376 y desde 378 hasta su muerte en 394. Es venerado como santo en la ortodoxia oriental, la Iglesia Católica, las Iglesias Ortodoxas Orientales, el anglicanismo y el luteranismo. Gregorio, su hermano menor Basilio de Cesarea y su amigo Gregorio de Nacianzo son conocidos colectivamente como los Padres Capadocios. Gregorio carecía de la capacidad administrativa de su hermano Basilio o de la influencia contemporánea de Gregorio de Nacianzo, pero fue un erudito teólogo cristiano que hizo contribuciones significativas a la doctrina de la Trinidad y al Credo Niceno. Los escritos filosóficos de Gregorio fueron influenciados por Orígenes. Desde mediados del siglo XX, ha habido un aumento significativo en el interés por las obras de Gregorio dentro de la comunidad académica, particularmente en lo que respecta a la salvación universal, lo que ha resultado en desafíos a muchas interpretaciones tradicionales de su teología. Gregorio es...",
+  "biography_pl": "Grzegorz z Nyssy (; greka koiné: Γρηγόριος Νύσσης, romanizowane: Grēgórios Nýssēs, wymawiane [ɣriˈɣo.ri.os ˈnys.sis]; ok. 335 – ok. 394), znany również jako Grzegorz Nyssen (; Γρηγόριος Νυσσηνός, Grēgórios Nyssēnós, [ɣriˈɣo.ri.os nys.siˈnos]), był wczesnochrześcijańskim teologiem, który pełnił funkcję biskupa Nyssy w latach 372–376 oraz od 378 aż do swojej śmierci w 394 roku. Jest czczony jako święty w Kościele prawosławnym, Kościele katolickim, Kościołach orientalnych, anglikanizmie oraz luteranizmie. Grzegorz, jego młodszy brat Bazyl z Cezarei oraz ich przyjaciel Grzegorz z Nazjanzu są łącznie znani jako Ojcowie Kapadoccy. Grzegorz nie posiadał zdolności administracyjnych swojego brata Bazylego ani współczesnego wpływu Grzegorza z Nazjanzu, jednak był erudycyjnym teologiem chrześcijańskim, który wniósł znaczący wkład w doktrynę Trójcy Świętej oraz w Credo nicejskie. Jego pisma filozoficzne były pod wpływem Orygenesa. Od połowy XX wieku nastąpił znaczny wzrost zainteresowania dziełami Grzegorza ze strony środowiska akademickiego, szczególnie w kontekście nauki o zbawieniu powszechnym, co doprowadziło do kwestionowania wielu tradycyjnych interpretacji jego teologii. Grzegorz jest..."
+}

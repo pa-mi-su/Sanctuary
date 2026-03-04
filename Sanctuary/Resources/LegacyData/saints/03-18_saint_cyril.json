@@ -1,0 +1,80 @@
+{
+  "id": "03-18_saint_cyril",
+  "name": "Saint Cyril",
+  "mmdd": "03-18",
+  "feast": "The Eighteenth Day of March",
+  "summary": "Cyril and Methodius were brothers, Byzantine Christian theologians and missionaries. For their work evangelizing the Slavs, they are known as the \"Apostles to the Slavs\".",
+  "biography": "Early career\n\n\nEarly life\nThe two brothers were born in Thessalonica, at that time in the Byzantine province of the same name (today in Greece) – Cyril in 827–828, and Methodius in 815–820. According to the Vita Cyrilli (\"The Life of Cyril\"), Cyril was reputedly the youngest of seven brothers...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-18_saint_cyril.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "42acf97ff9150cc86fec13de1f0f26c5a2d4a7d316a74640c44c58baa0549f3a",
+        "langs": {
+          "es": {
+            "translatedHash": "066726efdfd62c0e8df92fcb9020f8456ac33b47bade034ec8b00f236fcd7428",
+            "updatedAt": "2026-02-24T22:55:23.851Z"
+          },
+          "pl": {
+            "translatedHash": "dda118edcfa8a2636689729e1e7416824050c6709adc5d506047de3f1e15dcf0",
+            "updatedAt": "2026-02-24T22:55:24.520Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9da965b6356ee3726dbdde8fa669e829a818116881ee13478a085f0f7e7e6a15",
+        "langs": {
+          "es": {
+            "translatedHash": "4eba342a79367acc45858aec0774060feb6002405c7277702a43ea67b1f4acd6",
+            "updatedAt": "2026-02-24T22:55:25.133Z"
+          },
+          "pl": {
+            "translatedHash": "9885f072a70ff1ded49fc576e4a7667ca7cf402cc2cea845da6e409ac91871ee",
+            "updatedAt": "2026-02-24T22:55:25.762Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1c476e3016257e107d550c5e58b5dfa49478e6fd16b0033223fd8e446998e341",
+        "langs": {
+          "es": {
+            "translatedHash": "0fd8ea5779f84a09485057c1bc7d62df2a255b66d1e4bf7ad5cba410f20c9184",
+            "updatedAt": "2026-02-24T22:55:26.833Z"
+          },
+          "pl": {
+            "translatedHash": "8d84693290f813efb475464ee55d4cee513509e98b7d3ea6d896ee07a0a0bd29",
+            "updatedAt": "2026-02-24T22:55:28.121Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "0400dde56c45f7465962aa1ba4b33c905eb05d20b6486d3c9ba68fc37eda9efb",
+        "langs": {
+          "es": {
+            "translatedHash": "a93543fd0bff898c4d83a4688b8db5b1c3f5c79df49ecb80adbaa6a62f6cb14f",
+            "updatedAt": "2026-02-24T22:55:29.660Z"
+          },
+          "pl": {
+            "translatedHash": "62fb9128c85bb7104211afc02e0114c7c2a1e4dc2a620dce824de2b2a749ec55",
+            "updatedAt": "2026-02-24T22:55:31.370Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cirilo",
+  "name_pl": "Święty Cyryl",
+  "feast_es": "El Decimoctavo Día de Marzo",
+  "feast_pl": "Osiemnasty dzień marca",
+  "summary_es": "Ciril y Metodio fueron hermanos, teólogos y misioneros cristianos bizantinos. Por su labor evangelizadora entre los eslavos, son conocidos como los \"Apóstoles de los eslavos\".",
+  "summary_pl": "Cyryl i Metody byli braćmi, bizantyjskimi chrześcijańskimi teologami i misjonarzami. Za swoją pracę ewangelizacyjną wśród Słowian są znani jako „Apostołowie Słowian”.",
+  "biography_es": "Carrera temprana\n\n\nPrimeros años\nLos dos hermanos nacieron en Tesalónica, en ese entonces en la provincia bizantina del mismo nombre (hoy en Grecia): Cirilo en 827-828, y Metodio en 815-820. Según la Vita Cyrilli (\"La vida de Cirilo\"), Cirilo era supuestamente el más joven de siete hermanos...",
+  "biography_pl": "Wczesna kariera\n\n\nWczesne życie\nDwaj bracia urodzili się w Salonikach, wówczas w bizantyjskiej prowincji o tej samej nazwie (dzisiaj w Grecji) – Cyryl w latach 827–828, a Metody w latach 815–820. Według Vita Cyrilli („Życie Cyryla”), Cyryl był podobno najmłodszym z siedmiu braci..."
+}

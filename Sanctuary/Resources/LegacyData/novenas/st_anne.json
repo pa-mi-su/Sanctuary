@@ -1,0 +1,290 @@
+{
+  "id": "st_anne",
+  "title": "St. Anne Novena - Prayers for Finding Your Husband",
+  "description": "St. Anne is the mother of the Virgin Mary and grandmother of Jesus, and as such has been accorded great honor within Catholic Tradition.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Anne"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 17
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-anne-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nDear St. Anne, though I am but a prodigal child, I appeal to you and place myself under your great motherly care. Please listen to my prayers and grant my requests. See my contrite heart, and show me your unfailing goodness. Deign to be my advocate and recommend me to God’s infinite mercy. Obtain for me forgiveness of my sins and the strength to begin a new life that will last forever. Blessed St. Anne, I also beg of you the grace to love, to serve, and to honor your daughter, the most holy Virgin Mary. Please recommend me to her and pray to her for me. She refuses none your requests but welcomes with loving kindness all those for whom you intercede. Good Jesus, be merciful to the faithful servants of Your grandmother St. Anne.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu especial protección. (mencionar la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y ponerla ante el trono de Jesús. No dejes de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y junto a ti, María y todos los ángeles y santos, alabándolo por toda la eternidad. Amén.\n\nQuerida Santa Ana, aunque soy solo un hijo pródigo, acudo a ti y me pongo bajo tu gran cuidado maternal. Por favor, escucha mis oraciones y concede mis peticiones. Mira mi corazón contrito y muéstrame tu bondad inquebrantable. Ten a bien ser mi abogada y recomendarme a la infinita misericordia de Dios. Obtén para mí el perdón de mis pecados y la fuerza para comenzar una nueva vida que dure para siempre. Bendita Santa Ana, también te ruego la gracia de amar, servir y honrar a tu hija, la santísima Virgen María. Por favor, recomiéndame a ella y ora por mí. Ella no rechaza ninguna de tus peticiones, sino que acoge con amor a todos aquellos por quienes intercedes. Buen Jesús, ten misericordia de los fieles siervos de Tu abuela Santa Ana.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y en la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i złożyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie spełniona. Przede wszystkim wyproś mi łaskę, abym pewnego dnia spotkał Boga twarzą w twarz, i razem z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbił Go przez całą wieczność. Amen.\n\nDroga św. Anno, choć jestem tylko marnotrawnym dzieckiem, zwracam się do Ciebie i powierzam się Twojej wielkiej matczynej opiece. Proszę, wysłuchaj moich modlitw i spełnij moje prośby. Spójrz na moje skruszone serce i okaż mi swoją niezawodną dobroć. Zechciej być moją orędowniczką i polecić mnie nieskończonemu miłosierdziu Boga. Wyproś mi przebaczenie grzechów i siłę, by rozpocząć nowe życie, które będzie trwać na wieki. Błogosławiona św. Anno, proszę Cię także o łaskę miłości, służby i czci dla Twojej córki, Najświętszej Dziewicy Maryi. Poleć mnie Jej i módl się za mnie do Niej. Ona nie odmawia żadnej Twojej prośbie, lecz z miłością przyjmuje wszystkich, za których się wstawiasz. Dobry Jezu, zmiłuj się nad wiernymi sługami Twojej babci św. Anny.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy stali się godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóż mi teraz i w godzinę śmierci mojej. Dobra św. Anno, wstaw się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nFrom the depths of my heart, good St. Anne, I offer you my homage this day and ask you to shelter me under the mantle of your motherly care. You know, good mother, how much I love you, how gladly I serve you, how happy I am to praise you, how eager I am to call on you in time of distress. Good St. Anne, be pleased to extend your helping hand in all my wants. Listen to my prayers, for I place my trust in your gracious bounty. Make all my thoughts and desires worthy and righteous. Jesus, I thank You for all the graces which in Your infinite goodness You have lavished upon St. Anne; for having chosen her, among all women, to be Your grandmother on earth and exalted her in heaven with such great and miraculous powers. In the name of her merits, I humbly recommend myself to Your infinite mercy.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado profundamente con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu especial protección. (mencionar la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No ceses de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\nDesde lo más profundo de mi corazón, buena Santa Ana, te ofrezco hoy mi homenaje y te pido que me cobijes bajo el manto de tu maternal cuidado. Tú sabes, buena madre, cuánto te amo, con qué gusto te sirvo, cuán feliz soy de alabarte, cuán ansioso estoy de invocarte en tiempo de angustia. Buena Santa Ana, complácete en extender tu mano ayudadora en todas mis necesidades. Escucha mis oraciones, porque pongo mi confianza en tu graciosa bondad. Haz que todos mis pensamientos y deseos sean dignos y justos. Jesús, te doy gracias por todas las gracias que en tu infinita bondad has derramado sobre Santa Ana; por haberla elegido, entre todas las mujeres, para ser tu abuela en la tierra y exaltarla en el cielo con tan grandes y milagrosos poderes. En el nombre de sus méritos, me encomiendo humildemente a tu infinita misericordia.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y a la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień prośbę tutaj…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i położyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie spełniona. Przede wszystkim wyproś mi łaskę, abym pewnego dnia spotkał Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbił Go przez całą wieczność. Amen.\n\nZ głębi mojego serca, dobra św. Anno, składam Ci dzisiaj mój hołd i proszę, abyś osłoniła mnie płaszczem swojej matczynej opieki. Wiesz, dobra Matko, jak bardzo Cię kocham, jak chętnie Ci służę, jak szczęśliwy jestem, mogąc Cię chwalić, jak gorliwie wzywam Cię w czasie udręki. Dobra św. Anno, racz wyciągnąć pomocną dłoń we wszystkich moich potrzebach. Wysłuchaj moich modlitw, bo pokładam ufność w Twojej łaskawej dobroci. Uczyń wszystkie moje myśli i pragnienia godnymi i sprawiedliwymi. Jezu, dziękuję Ci za wszystkie łaski, które w Twojej nieskończonej dobroci wylałeś na św. Annę; za to, że wybrałeś ją spośród wszystkich kobiet, aby była Twoją babcią na ziemi i wyniosłeś ją w niebie z tak wielkimi i cudownymi mocami. W imię jej zasług pokornie polecam się Twojemu nieskończonemu miłosierdziu.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy byli godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóżcie mi teraz i w godzinę śmierci mojej. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nHail, good St. Anne, who first responded to the needs of Mary, Mother of our Savior and Queen of Angels. Hail to you and to your husband St. Joachim, who watched over her infancy, presented her to the Lord in the temple and, according to your promise, consecrated her to the service of God. Hail St. Anne, good mother! I rejoice in the marvels you continually perform, because they encourage all to seek your intercession. Good St. Anne, by the great power that God has given you, show yourself my mother, my consoler, my advocate. Reconcile me to the God I have so deeply offended. Console me in my trials; strengthen me in my struggles. Deliver me from danger in my time of need. Help me at the hour of death and open to me the gates of paradise.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado profundamente con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu protección especial. (mencione la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No ceses de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\nSalve, buena Santa Ana, que fuiste la primera en responder a las necesidades de María, Madre de nuestro Salvador y Reina de los Ángeles. Salve a ti y a tu esposo San Joaquín, que cuidaron de su infancia, la presentaron al Señor en el templo y, según tu promesa, la consagraron al servicio de Dios. ¡Salve Santa Ana, buena madre! Me regocijo en las maravillas que continuamente realizas, porque animan a todos a buscar tu intercesión. Buena Santa Ana, por el gran poder que Dios te ha dado, muéstrate como mi madre, mi consoladora, mi abogada. Reconcíliame con el Dios a quien he ofendido tan profundamente. Consuélame en mis pruebas; fortaléceme en mis luchas. Líbrame del peligro en mi hora de necesidad. Ayúdame en la hora de la muerte y ábreme las puertas del paraíso.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y en la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i złożyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie wysłuchana. Przede wszystkim wyproś mi łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nWitaj, dobra św. Anno, która jako pierwsza odpowiedziałaś na potrzeby Maryi, Matki naszego Zbawiciela i Królowej Aniołów. Witaj Tobie i Twojemu mężowi św. Joachimowi, który czuwał nad jej dzieciństwem, przedstawił ją Panu w świątyni i zgodnie z obietnicą poświęcił ją na służbę Bogu. Witaj św. Anno, dobra Matko! Cieszę się z cudów, które nieustannie czynisz, ponieważ zachęcają wszystkich do szukania Twojej wstawiennictwa. Dobra św. Anno, przez wielką moc, którą dał Ci Bóg, okaż się moją matką, moją pocieszycielką, moją orędowniczką. Pojednaj mnie z Bogiem, którego tak bardzo obraziłem. Pociesz mnie w moich próbach; umocnij mnie w moich zmaganiach. Wybaw mnie od niebezpieczeństwa w mojej potrzebie. Pomóż mi w godzinie śmierci i otwórz przede mną bramy nieba.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy stali się godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóż mi teraz i w godzinę mojej śmierci. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nGood St. Anne, you offered your pure and holy daughter Mary in the temple with faith, piety and love. By the happiness which then filled your heart, I beg you to present me to your Grandson Jesus. Offered by you, I will be agreeable in His sight. Kind St. Anne, take me forever under your protection. Deliver me from the temptations which continually assail me. Above all, attend me in my last hour. As I lie on my deathbed, be present with your daughter to console and strengthen me. Holy Mary and good St. Anne, show yourselves to be mothers indeed by obtaining for me the grace of a good death. When my soul goes forth, lead it to God’s tribunal so that, by your powerful help and intercession, it may obtain a favorable judgment.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado profundamente con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu protección especial. (mencionar la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No ceses de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme cara a cara con Dios, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\nBuena Santa Ana, ofreciste a tu pura y santa hija María en el templo con fe, piedad y amor. Por la felicidad que entonces llenó tu corazón, te ruego que me presentes a tu Nieto Jesús. Ofrecido por ti, seré agradable a Sus ojos. Santa Ana bondadosa, tómame para siempre bajo tu protección. Líbrame de las tentaciones que continuamente me asaltan. Sobre todo, atiéndeme en mi última hora. Cuando yazca en mi lecho de muerte, está presente con tu hija para consolarme y fortalecerme. Santa María y buena Santa Ana, muestren que son verdaderamente madres obteniéndome la gracia de una buena muerte. Cuando mi alma salga, llévala al tribunal de Dios para que, por vuestra poderosa ayuda e intercesión, obtenga un juicio favorable.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayudadme ahora y en la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Racz ją polecić swojej córce, Błogosławionej Dziewicy Maryi, i złożyć przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie spełniona. Przede wszystkim wyproś mi łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nDobra św. Anno, ofiarowałaś swoją czystą i świętą córkę Maryję w świątyni z wiarą, pobożnością i miłością. Przez szczęście, które wtedy wypełniło Twoje serce, błagam Cię, abyś przedstawiła mnie swojemu Wnukowi Jezusowi. Ofiarowany przez Ciebie, będę miły w Jego oczach. Łaskawa św. Anno, przyjmij mnie na zawsze pod swoją opiekę. Wybaw mnie od pokus, które nieustannie mnie nękają. Przede wszystkim bądź przy mnie w mojej ostatniej godzinie. Gdy będę leżał na łożu śmierci, bądź obecna wraz ze swoją córką, aby mnie pocieszyć i umocnić. Święta Maryjo i dobra św. Anno, okażcie się prawdziwymi matkami, wypraszając mi łaskę dobrej śmierci. Gdy moja dusza odejdzie, prowadźcie ją do Bożego trybunału, aby dzięki waszej potężnej pomocy i wstawiennictwu otrzymała łaskawy wyrok.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy byli godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóżcie mi teraz i w godzinę śmierci mojej. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nHail, wonderful Lady. By God’s special favor, grant consolation to those who invoke you. Procure for them the eternal riches of heaven, and like a good mother, success in their temporal affairs as well. Good St. Anne, obtain my deliverance from the punishment which my sins deserve. Obtain for me success in my temporal affairs; especially see to the salvation of my soul. St. Anne, by your influence with Mary’s son Jesus, you have won the gift of conversion for many sinners. Will you then abandon me, who have chosen you as my mother? No, St. Anne. Your name alone, which signifies grace, assures me of the help of your prayers, and these prayers will surely procure pardon and mercy from Jesus. You will pray for me now and at the hour of my death.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu protección especial. (mencione aquí la petición…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No dejes de interceder por mí hasta que se conceda mi petición. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\nDios te salve, maravillosa Señora. Por el favor especial de Dios, concede consuelo a quienes te invocan. Consígueles las riquezas eternas del cielo, y como buena madre, también el éxito en sus asuntos temporales. Buena Santa Ana, obtén mi liberación del castigo que merecen mis pecados. Consígueme éxito en mis asuntos temporales; especialmente vela por la salvación de mi alma. Santa Ana, por tu influencia con el hijo de María, Jesús, has ganado el don de la conversión para muchos pecadores. ¿Me abandonarás entonces a mí, que te he elegido como mi madre? No, Santa Ana. Solo tu nombre, que significa gracia, me asegura la ayuda de tus oraciones, y estas oraciones seguramente conseguirán el perdón y la misericordia de Jesús. Orarás por mí ahora y a la hora de mi muerte.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y a la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej ją polecić swojej córce, Błogosławionej Dziewicy Maryi, i złożyć przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie wysłuchana. Przede wszystkim wyproś mi łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nWitaj, cudowna Pani. Z Bożej szczególnej łaski udziel pocieszenia tym, którzy Cię wzywają. Wyproś im wieczne bogactwa nieba, a jak dobra matka, także powodzenie w sprawach doczesnych. Dobra św. Anno, wyproś moje wybawienie od kary, której zasługują moje grzechy. Wyproś mi powodzenie w sprawach doczesnych; szczególnie zatroszcz się o zbawienie mojej duszy. Św. Anno, dzięki Twojemu wpływowi u Syna Maryi, Jezusa, zdobyłaś dar nawrócenia dla wielu grzeszników. Czy więc porzucisz mnie, który wybrałem Cię na moją matkę? Nie, św. Anno. Twoje imię, które oznacza łaskę, zapewnia mnie o pomocy Twoich modlitw, a te modlitwy z pewnością wyproszą u Jezusa przebaczenie i miłosierdzie. Będziesz się za mnie modlić teraz i w godzinę mojej śmierci.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy się stali godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóżcie mi teraz i w godzinę mojej śmierci. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nGood St. Anne, do not allow my soul, a masterpiece of God’s creative power, to be lost forever. Free my heart of pride, vanity, self-love. May I know myself as I really am and learn meekness and simplicity of heart. God’s great love for me leaves me cold and unresponsive. I must reflect this love through works of mercy and charity toward my neighbor. In your boundless charity, good St. Anne, help me to merit the glorious crown which is given to those who have fought the good fight against the world, the devil and the flesh. Assist me to preserve purity of heart and body. With Mary and her divine Son, protect me always.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado pesadamente con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu especial protección. (mencionar la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No ceses de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y junto a ti, María y todos los ángeles y santos, alabarle por toda la eternidad. Amén.\n\nBuena Santa Ana, no permitas que mi alma, obra maestra del poder creativo de Dios, se pierda para siempre. Libera mi corazón del orgullo, la vanidad, el amor propio. Que me conozca tal como soy realmente y aprenda la mansedumbre y la sencillez de corazón. El gran amor de Dios por mí me deja frío e insensible. Debo reflejar este amor mediante obras de misericordia y caridad hacia mi prójimo. En tu infinita caridad, buena Santa Ana, ayúdame a merecer la gloriosa corona que se da a quienes han peleado la buena batalla contra el mundo, el demonio y la carne. Asísteme para conservar la pureza de corazón y cuerpo. Con María y su divino Hijo, protégeme siempre.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y en la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i złożyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie wysłuchana. Przede wszystkim wyproś mi łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nDobra św. Anno, nie pozwól, aby moja dusza, arcydzieło Bożej mocy twórczej, została utracona na zawsze. Uwolnij moje serce od pychy, próżności i miłości własnej. Niech poznam siebie takim, jakim naprawdę jestem, i nauczę się pokory oraz prostoty serca. Wielka miłość Boga do mnie pozostaje dla mnie obojętna i bez odpowiedzi. Muszę tę miłość odzwierciedlać przez uczynki miłosierdzia i miłości względem bliźniego. W Twojej niezmierzonej dobroci, dobra św. Anno, pomóż mi zasłużyć na chwalebną koronę, która jest dana tym, którzy stoczyli dobry bój przeciw światu, diabłu i ciału. Wspieraj mnie w zachowaniu czystości serca i ciała. Razem z Maryją i Jej Boskim Synem zawsze mnie chroń.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy byli godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóż mi teraz i w godzinę śmierci mojej. Dobra św. Anno, wstawiaj się za mną.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nOnce again, Good St. Anne, I choose you for my advocate before the throne of God. By the power and grace that God has placed in you, extend to me your helping hand. Renew my mind and my heart. Dear St. Anne, I have unbounded confidence in your prayers. To your blessed hands I entrust my soul, my body and all my hopes for this world and the next. Direct my actions according to your goodness and wisdom. I place myself under your motherly care. Receive me, good mother. Cover me with the mantle of your love. Look kindly on me. By your powerful intercession, may I obtain from God grace and mercy. Obtain for me remission for sin and release from the punishment my offenses have deserved. Pray that I may receive grace to lead a devout life on earth and that I may obtain the everlasting reward of heaven.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado profundamente con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu especial protección. (mencione aquí la petición…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y ponerla ante el trono de Jesús. No ceses de interceder por mí hasta que se conceda mi petición. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\nUna vez más, buena Santa Ana, te elijo como mi abogada ante el trono de Dios. Por el poder y la gracia que Dios ha puesto en ti, extiéndeme tu mano ayudadora. Renueva mi mente y mi corazón. Querida Santa Ana, tengo una confianza ilimitada en tus oraciones. En tus benditas manos encomiendo mi alma, mi cuerpo y todas mis esperanzas para este mundo y el próximo. Dirige mis acciones según tu bondad y sabiduría. Me pongo bajo tu cuidado maternal. Recíbeme, buena madre. Cúbreme con el manto de tu amor. Mírame con benevolencia. Por tu poderosa intercesión, que pueda obtener de Dios gracia y misericordia. Obtén para mí la remisión de los pecados y la liberación del castigo que mis ofensas han merecido. Ruega para que reciba la gracia de llevar una vida devota en la tierra y que pueda obtener la recompensa eterna del cielo.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y a la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i położyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie wysłuchana. Przede wszystkim wyproś dla mnie łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nJeszcze raz, dobra św. Anno, wybieram Cię na moją orędowniczkę przed tronem Boga. Mocą i łaską, którą Bóg w Tobie umieścił, wyciągnij do mnie swoją pomocną dłoń. Odnów mój umysł i moje serce. Droga św. Anno, mam nieograniczone zaufanie do Twoich modlitw. W Twoje błogosławione ręce powierzam moją duszę, moje ciało i wszystkie moje nadzieje na ten świat i na ten, który ma przyjść. Kieruj moimi czynami według swojej dobroci i mądrości. Stawiam się pod Twoją matczyną opieką. Przyjmij mnie, dobra Matko. Okryj mnie płaszczem swojej miłości. Spójrz na mnie łaskawie. Dzięki Twojej potężnej wstawiennictwu niech otrzymam od Boga łaskę i miłosierdzie. Wyproś dla mnie odpuszczenie grzechów i uwolnienie od kary, na jaką zasłużyły moje przewinienia. Módl się, abym otrzymał łaskę prowadzenia pobożnego życia na ziemi i abym zdobył wieczną nagrodę nieba.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy stali się godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóż mi teraz i w godzinę mojej śmierci. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nHail, St. Anne! I rejoice at your exalted glory. You gave birth to Mary, whose divine Son brought salvation to our lost world by conquering death and restoring life and hope to sinners. Pray to Him who, for love of us, clothed Himself with human flesh in the chaste womb of your daughter. Glorious St. Anne, with your blessed daughter, deliver me from everything that is displeasing in the sight of God. Pray to your gentle and powerful Grandson that He may cleanse my soul in His precious blood, that He may send His Holy Spirit to enlighten and direct me in all that I do, always obedient to His holy inspirations. Good mother, keep a watchful eye on me. Help me bear all my crosses. Give me the fullness of your bounty and sustain me with courage.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado pesadamente con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu especial protección. (mencionar la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No ceses de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\n¡Salve, Santa Ana! Me regocijo en tu exaltada gloria. Diste a luz a María, cuyo divino Hijo trajo la salvación a nuestro mundo perdido al vencer la muerte y restaurar la vida y la esperanza a los pecadores. Ruega a Aquel que, por amor a nosotros, se vistió de carne humana en el casto vientre de tu hija. Gloriosa Santa Ana, junto con tu bendita hija, líbrame de todo lo que desagrada a los ojos de Dios. Ruega a tu gentil y poderoso Nieto que limpie mi alma con Su preciosa sangre, que envíe Su Espíritu Santo para iluminarme y guiarme en todo lo que haga, siempre obediente a Sus santas inspiraciones. Buena madre, mantén un ojo vigilante sobre mí. Ayúdame a llevar todas mis cruces. Dame la plenitud de tu generosidad y sosténme con valor.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y en la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i złożyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie wysłuchana. Przede wszystkim wyproś mi łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nWitaj, św. Anno! Raduję się z Twojej wyniosłej chwały. Urodziłaś Maryję, której Boski Syn przyniósł zbawienie naszemu zagubionemu światu, pokonując śmierć i przywracając życie oraz nadzieję grzesznikom. Módl się do Tego, który z miłości do nas przyodział się ludzkim ciałem w czystym łonie Twojej córki. Chwalebna św. Anno, wraz ze swoją błogosławioną córką wybaw mnie od wszystkiego, co jest nieprzyjemne w oczach Boga. Módl się do swojego łagodnego i potężnego Wnuka, aby oczyścił moją duszę swoją cenną krwią, aby zesłał Ducha Świętego, który oświeci mnie i poprowadzi we wszystkim, co czynię, zawsze posłuszny Jego świętym natchnieniom. Dobra Matko, miej nade mną czujne oko. Pomóż mi nieść wszystkie moje krzyże. Obdarz mnie pełnią swojej dobroci i podtrzymuj mnie odwagą.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy zostali godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóżcie mi teraz i w godzinę śmierci mojej. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHeavily laden with the weight of my troubles, I kneel at your feet and humbly beg you, dear St. Anne, to take my present need under your special protection. (mention request here…) Vouchsafe to recommend it to your daughter, the Blessed Virgin Mary, and lay it before the throne of Jesus. Cease not to intercede for me until my request is granted. Above all, obtain for me the grace to one day meet God face to face, and with you and Mary and all the angels and saints praising Him through all eternity. Amen.\n\nGood St. Anne, I have reached the end of this novena in your honor. I have asked and ask again. Good mother, let not your kind ear grow weary of my prayers, though I repeat them so often. Bounteous Lady, implore for me from divine Providence all the help I need through life. May your generous hand bestow on me the material means to satisfy my own needs and to alleviate the plight of the poor. Good St. Anne, fortify me by the sacraments of the Church at the hour of my death. Admit me into the company of the blessed in the kingdom of heaven, where I may praise and thank the adorable Trinity, your grandson Christ Jesus, your glorious daughter Mary, and yourself, dear St. Anne, through endless ages.\n\nOur Father Hail Mary Glory be to the Father Pray for us, Saint Anne. That we may be made worthy of the promises of Christ. O Jesus, Holy Mary, St. Anne, help me now and at the hour of my death. Good St. Anne, intercede for me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nCargado con el peso de mis problemas, me arrodillo a tus pies y humildemente te suplico, querida Santa Ana, que tomes mi necesidad presente bajo tu protección especial. (mencionar la petición aquí…) Ten la bondad de recomendarla a tu hija, la Santísima Virgen María, y presentarla ante el trono de Jesús. No ceses de interceder por mí hasta que mi petición sea concedida. Sobre todo, obtén para mí la gracia de un día encontrarme con Dios cara a cara, y contigo, con María y con todos los ángeles y santos alabándolo por toda la eternidad. Amén.\n\nBuena Santa Ana, he llegado al final de esta novena en tu honor. He pedido y pido de nuevo. Buena madre, no dejes que tu amable oído se canse de mis oraciones, aunque las repita tantas veces. Señora generosa, implora para mí de la divina Providencia toda la ayuda que necesito en la vida. Que tu mano generosa me conceda los medios materiales para satisfacer mis propias necesidades y aliviar la situación de los pobres. Buena Santa Ana, fortaléceme con los sacramentos de la Iglesia en la hora de mi muerte. Admíteme en la compañía de los bienaventurados en el reino de los cielos, donde pueda alabar y agradecer a la adorable Trinidad, a tu nieto Cristo Jesús, a tu gloriosa hija María y a ti misma, querida Santa Ana, por los siglos de los siglos.\n\nPadre Nuestro Ave María Gloria al Padre Ruega por nosotros, Santa Ana. Para que seamos dignos de las promesas de Cristo. Oh Jesús, Santa María, Santa Ana, ayúdame ahora y en la hora de mi muerte. Buena Santa Ana, intercede por mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nMás sobre Santa Ana\n\nSanta Ana es la madre de Nuestra Señora, y como tal ha recibido gran honor dentro de la Tradición Católica.\n\nFue esposa de San Joaquín y se la invoca en particular para la intención de encontrar al futuro esposo. También es considerada patrona de las amas de casa, las mujeres en parto y las abuelas.\n\nLa historia cuenta que Santa Ana fue estéril durante décadas, y que ella y San Joaquín oraron y ayunaron para la bendición de un hijo. Nuestro Señor concedió su piadosa petición, y concibieron a la Santísima Virgen María.\n\nLa devoción a Santa Ana surgió primero en el Oriente cristiano, en la Alta Edad Media, y se difundió a la Iglesia en Occidente durante el período medieval.\n\nCuando consideramos cuán virtuosa y santa fue nuestra Santísima Madre, podemos imaginar las tremendas gracias que nuestro Señor dio a sus padres, los santos Joaquín y Ana, para que instruyeran fielmente a su hija en los caminos de Dios.\n\nEnvíame tus oraciones respondidas\n\nEnvíame tus oraciones respondidas de la Novena a Santa Ana - Oraciones para Encontrar a tu Esposo\n\n⏰ Registro para recordatorios\n\nHaz clic aquí para obtener el Ebook de la Novena Católica GRATIS, así como recordatorios de cuándo comienzan las novenas\n\nNovena relacionada\n\nNovena a los Santos Joaquín y Ana",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nCiężko obciążony ciężarem moich trosk, klękam u Twoich stóp i pokornie proszę Cię, droga św. Anno, abyś wzięła moją obecną potrzebę pod swoją szczególną opiekę. (wymień tutaj prośbę…) Zechciej polecić ją swojej córce, Błogosławionej Dziewicy Maryi, i złożyć ją przed tronem Jezusa. Nie przestawaj wstawiać się za mną, aż moja prośba zostanie wysłuchana. Przede wszystkim wyproś dla mnie łaskę, abym pewnego dnia mógł spotkać Boga twarzą w twarz i wraz z Tobą, Maryją oraz wszystkimi aniołami i świętymi wielbić Go przez całą wieczność. Amen.\n\nDobra św. Anno, dobiegłem końca tej nowenny na Twoją cześć. Prosiłem i proszę ponownie. Dobra Matko, nie pozwól, aby Twoje życzliwe ucho zmęczyło się moimi modlitwami, choć powtarzam je tak często. Hojna Pani, wyproś dla mnie u Bożej Opatrzności wszelką pomoc potrzebną mi w życiu. Niech Twoja szczodra ręka obdarzy mnie materialnymi środkami, bym mógł zaspokoić własne potrzeby i ulżyć biednym. Dobra św. Anno, umocnij mnie sakramentami Kościoła w godzinie mojej śmierci. Przyjmij mnie do grona błogosławionych w królestwie niebieskim, gdzie będę mógł wielbić i dziękować Przenajświętszej Trójcy, Twojemu wnukowi Chrystusowi Jezusowi, Twojej chwalebnej córce Maryi oraz Tobie, droga św. Anno, przez nieskończone wieki.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Módl się za nami, św. Anno. Abyśmy stali się godni obietnic Chrystusa. O Jezu, Święta Maryjo, św. Anno, pomóż mi teraz i w godzinę śmierci mojej. Dobra św. Anno, wstawiaj się za mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWięcej o św. Annie\n\nŚw. Anna jest matką Najświętszej Maryi Panny i jako taka cieszy się wielkim szacunkiem w tradycji katolickiej.\n\nByła żoną św. Joachima i jest szczególnie wzywana w intencji znalezienia przyszłego męża. Uważana jest także za patronkę gospodyń domowych, rodzących kobiet oraz babć.\n\nOpowiada się, że św. Anna przez wiele lat była bezdzietna, a ona i św. Joachim modlili się i pościli o dar dziecka. Pan Bóg wysłuchał ich pobożnej prośby i poczęli Najświętszą Maryję Pannę.\n\nCześć św. Annie narodziła się najpierw na Wschodzie chrześcijańskim, we wczesnym średniowieczu, i rozprzestrzeniła się na Kościół Zachodni w okresie średniowiecza.\n\nGdy rozważamy, jak cnotliwa i święta była nasza Błogosławiona Matka, możemy sobie wyobrazić ogromne łaski, które Pan dał jej rodzicom, św. Joachimowi i Annie, aby wiernie wychowali swoją córkę w drodze Bożej.\n\nWyślij mi odpowiedzi na modlitwy\n\nPrześlij mi swoje wysłuchane modlitwy z Nowenny do św. Anny – Modlitwy o znalezienie męża\n\n⏰ Zapisz się na przypomnienia\n\nKliknij tutaj, aby otrzymać katolicki ebook o nowennach ZA DARMO oraz przypomnienia o rozpoczęciu nowenn\n\nPokrewna nowenna\n\nNowenna do św. Joachima i św. Anny"
+    }
+  ],
+  "sourceFacts": {
+    "starts": "July 17Feastday:July 26Birth:1st century BCDeath:1st century ADPatron saint of mothers, grandmothers, unmarried women, housewives, women in labor, women with infertility, miners, and cabinet makers 📱",
+    "feast": "July 26Birth:1st century BCDeath:1st century ADPatron saint of mothers, grandmothers, unmarried women, housewives, women in labor, women with infertility, miners, and cabinet makers 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_anne.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "986b24f5c44f5a6515e176f9179d1d7e7d254b19205b5be8f5334a53b61bd241",
+        "langs": {
+          "es": {
+            "translatedHash": "3d7329aecd0b55f3e7bf77f0ff16a769f49f3292a90a354d9a51c5825c45801d",
+            "updatedAt": "2026-02-25T11:54:54.351Z"
+          },
+          "pl": {
+            "translatedHash": "c4fd9ddfc15378737503d64f88d9a567ec8e80f90615c2253a0e130885d44269",
+            "updatedAt": "2026-02-25T11:54:55.256Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "075495a38708ea770c4fe62e2fbc323479843e27672501e06f8c3dde20e0cd84",
+        "langs": {
+          "es": {
+            "translatedHash": "db93091060c75a62c14c945e47badc9563f98c32445fa638da709a3445c0fab4",
+            "updatedAt": "2026-02-25T11:54:56.881Z"
+          },
+          "pl": {
+            "translatedHash": "7b36e23866aba8987083b9bf8792eb1bc74fea2207ba279f44870021f11a5ee1",
+            "updatedAt": "2026-02-25T11:54:58.149Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "3107d0b56ae568f435de32d1a1597635ec6bf5893200216a97760b1100b731ba",
+        "langs": {
+          "es": {
+            "translatedHash": "b1202407c09009167edc23763a31598e666ad0a42a461f5a7c06e69ace58d901",
+            "updatedAt": "2026-02-25T11:55:04.075Z"
+          },
+          "pl": {
+            "translatedHash": "04530ad204ef6cfcee0a402080dfab2ed94e74fe65e8849475a71e6fb3b0d383",
+            "updatedAt": "2026-02-25T11:55:11.898Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "c56e7d6538dc329c41a3ddbb342954e257d55dbd9f4e359065c199876984a3fe",
+        "langs": {
+          "es": {
+            "translatedHash": "ddbec180d70c8b3f61566e240b3cdf57a9628c19ddcd57f136149b2dd44cf7fd",
+            "updatedAt": "2026-02-25T11:55:18.014Z"
+          },
+          "pl": {
+            "translatedHash": "3de9e4b1fd2caec05a26e80cf35de94c0c855e10b439c13e9e889df7c3cfd7d1",
+            "updatedAt": "2026-02-25T11:55:27.989Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "abfc6b1cf774d0905743a8d23dc55425e793446bc5d3d28d29e2d6171dd687c2",
+        "langs": {
+          "es": {
+            "translatedHash": "2f3de374e6a3655942b4885dc059be7ec057c3c97e49bb97294f1228eabb161a",
+            "updatedAt": "2026-02-25T11:55:33.853Z"
+          },
+          "pl": {
+            "translatedHash": "8b2a212bb5bc1bec4a7ac5a9e8f723275546cf9e04bfb85e764d86bf1055debe",
+            "updatedAt": "2026-02-25T11:55:41.052Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "db49d723d7a5a1dcbd3a06bd7527204651d78bf1dbdfaba3ccbc921047880334",
+        "langs": {
+          "es": {
+            "translatedHash": "39d1ad3a473f0d8a0591485d3e41eb2d373b2f2f374dca77bf7e03aacfede451",
+            "updatedAt": "2026-02-25T11:55:47.532Z"
+          },
+          "pl": {
+            "translatedHash": "d0d5b54554f1f1e4126852c33c875a4e1a403ad69a02ad51c754ab522bf0892c",
+            "updatedAt": "2026-02-25T11:55:54.933Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "90a05e5db89ec978af1b86d5bdbe2655597c13ff19971ce56351d8b33a3cfc62",
+        "langs": {
+          "es": {
+            "translatedHash": "29d06c27dbfa2525b9eec07fe7dfa8f360d8d0ddde1fd9ff657acfc04074c1a4",
+            "updatedAt": "2026-02-25T11:56:02.080Z"
+          },
+          "pl": {
+            "translatedHash": "bac8d687ae6823eea25c5cfe5db332ddbc1a57fa689c390e415b1ca383bfd801",
+            "updatedAt": "2026-02-25T11:56:09.702Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "c7c5787c01876f964ec578fe14d04673d72478bb3d704988bb20ffbc64eee2c5",
+        "langs": {
+          "es": {
+            "translatedHash": "d408bc96a3bb96a9e6662173b6aa3769bdfcb0018147e321f6f04bfdc621a705",
+            "updatedAt": "2026-02-25T11:56:14.851Z"
+          },
+          "pl": {
+            "translatedHash": "7bb857ded6efa06057958247a51096baea3997c25114359e58017e31aa397d97",
+            "updatedAt": "2026-02-25T11:56:21.494Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "91ecbe8b0904e7f0bb6792d2dd2ca3e18045ca04c417e0ad38e9d4ea52135498",
+        "langs": {
+          "es": {
+            "translatedHash": "86f1c4effc5239a652700888478b34dc1fe88482bdbeb9b095a6b62284e3df9a",
+            "updatedAt": "2026-02-25T11:56:29.133Z"
+          },
+          "pl": {
+            "translatedHash": "974e046bc59ec256d5b5052df99ff783b4eac1326f5d45ac682a518eac4cf0a4",
+            "updatedAt": "2026-02-25T11:56:39.130Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "8b74a346e8cbc1f9033c6d49059f5739ff2fdf88132f15ada110823ef8e3dcc1",
+        "langs": {
+          "es": {
+            "translatedHash": "a0799455d92662ef2c4643d6a6b870acd8cb424f6046ece7e48c7290b149c78c",
+            "updatedAt": "2026-02-25T11:56:44.303Z"
+          },
+          "pl": {
+            "translatedHash": "d799c7400a133f077e75dd2e1ea7298c1dd1048615f1e74a3bd2798579482485",
+            "updatedAt": "2026-02-25T11:56:58.958Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "bd4c07702acb9a86d5324cfbfd96cd2fed8dfa5c68a27a8988bcaf1ef0de6cc4",
+        "langs": {
+          "es": {
+            "translatedHash": "9e13162e4c77d9fa86251155a3f17b43f0481aff5d24053199862e639dea0df8",
+            "updatedAt": "2026-02-25T11:57:09.329Z"
+          },
+          "pl": {
+            "translatedHash": "9f69af8a240e99b85f012539dfea870bc1aff7cbc9681a148e25e8e50d72e579",
+            "updatedAt": "2026-02-25T11:57:21.795Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Ana - Oraciones para Encontrar a Tu Esposo",
+  "title_pl": "Nowenna do św. Anny – Modlitwy o znalezienie męża",
+  "description_es": "Santa Ana es la madre de la Virgen María y abuela de Jesús, y como tal ha recibido gran honor dentro de la Tradición Católica.",
+  "description_pl": "Święta Anna jest matką Najświętszej Maryi Panny i babcią Jezusa, i jako taka została obdarzona wielkim szacunkiem w Tradycji Katolickiej.",
+  "intentions": [
+    "motherhood",
+    "mothers",
+    "pregnancy",
+    "family",
+    "unmarried_women",
+    "housewives"
+  ],
+  "intentions_es": [
+    "maternidad",
+    "madres",
+    "embarazo",
+    "familia",
+    "mujeres_solteras",
+    "amas_de_casa"
+  ],
+  "intentions_pl": [
+    "macierzyństwo",
+    "matki",
+    "ciąża",
+    "rodzina",
+    "niezamężne_kobiety",
+    "gospodynie_domowe"
+  ]
+}

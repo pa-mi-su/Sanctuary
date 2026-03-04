@@ -1,0 +1,79 @@
+{
+  "id": "04-27_saint_anthimus",
+  "name": "Saint Anthimus",
+  "mmdd": "04-27",
+  "feast": "The Twenty-Seventh Day of April",
+  "summary": "Saint Anthimus of Rome, or Sant'Antimo in Italian, is a Christian saint. His life is largely composed of legend. He is said to have been born in Bithynia. A Christian priest, he was imprisoned for his beliefs at the time of the Emperors Diocletian and Maximian. His feast day is May 11.",
+  "biography": "Saint Anthimus of Rome, or Sant'Antimo in Italian (died 303), is a Christian saint. His life is largely composed of legend. He is said to have been born in Bithynia. A Christian priest, he was imprisoned for his beliefs at the time of the Emperors Diocletian and Maximian. His feast day is May 11. Legend When the Roman governor of Bithynia, Pinianus, fell ill, his Christian wife Lucina (Lycinia), well known for her charity to imprisoned Christians and niece of the Emperor Gallienus, found Anthimus in prison. Anthimus converted Pinianus, and the governor was cured. Gratefully, Pinianus liberated all of the Christian prisoners in his province and allowed Anthimus to hide himself in the governor's villa on the Via Salaria. Now based in Italy, Anthimus converted many to the Christian faith and countless miracles were attributed to him. He converted a priest of the god Silvanus and the pagan priest's entire family. Accused of having destroyed the simulacrum of Silvanus, he was thrown into the Tiber with a stone around his neck. His legend states that he was miraculously rescued by an angel, later recaptured, and then beheaded by order of the consul Priscus. He was buried in...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthimus_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-27_saint_anthimus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6ce7c93deb78327f8d288d034ec66c380ca3bc63fca764aa0055f987301d6e0a",
+        "langs": {
+          "es": {
+            "translatedHash": "b68e305dbdf8fa8a3fe81b960a71ba6605f1e41b92139064700f00b87deed224",
+            "updatedAt": "2026-02-24T23:15:35.577Z"
+          },
+          "pl": {
+            "translatedHash": "c53d6f0b6780ca89260e550aca23e0fb513e979e26b38208e388bf47f6a08519",
+            "updatedAt": "2026-02-24T23:15:36.156Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6e464e2d6be552c4d7cbfec25e7006025b70fd8d6f860ef1a9749377d394d7c8",
+        "langs": {
+          "es": {
+            "translatedHash": "551b2c400cf2dff63ac7a5258751055cd20abc68c388077a3b230635f2b69014",
+            "updatedAt": "2026-02-24T23:15:36.919Z"
+          },
+          "pl": {
+            "translatedHash": "30e745e03a471ab6c0af91d0f5ed223876e9a81f0e4b68a462ed35afe7c7a46e",
+            "updatedAt": "2026-02-24T23:15:37.855Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0eb762c51e8b4bea0b42a4e1da74aa81e58125bf49055cd903129dcfee120746",
+        "langs": {
+          "es": {
+            "translatedHash": "e0595d2862d2bf304dddfa99fb3f80216cc135c71bac9d95f9da94250e765697",
+            "updatedAt": "2026-02-24T23:15:39.367Z"
+          },
+          "pl": {
+            "translatedHash": "5956e0f8e24f6ac81e42ce60fa5541a1ba733e72f8357bff4fefb6a72cc3b4ab",
+            "updatedAt": "2026-02-24T23:15:41.612Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "39d9b796a6c0604a90661516daf2b074331fc86a81c8d977a49349c51da147ea",
+        "langs": {
+          "es": {
+            "translatedHash": "6781a4dc1f6df03a723a2ecdca340a34800045b12ba35379c17aa9a995411091",
+            "updatedAt": "2026-02-24T23:15:46.213Z"
+          },
+          "pl": {
+            "translatedHash": "8bb92dc1bdf0c88d5f523f1d2ff5a575d63105bf5fe0b448a6fb4043267669a3",
+            "updatedAt": "2026-02-24T23:15:52.350Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Antimo",
+  "name_pl": "Święty Antym",
+  "feast_es": "El vigésimo séptimo día de abril",
+  "feast_pl": "Dwudziesty siódmy dzień kwietnia",
+  "summary_es": "San Antimo de Roma, o Sant'Antimo en italiano, es un santo cristiano. Su vida está compuesta en gran parte por leyendas. Se dice que nació en Bitinia. Sacerdote cristiano, fue encarcelado por sus creencias en la época de los emperadores Diocleciano y Maximiano. Su día de fiesta es el 11 de mayo.",
+  "summary_pl": "Święty Antym z Rzymu, zwany po włosku Sant'Antimo, jest świętym chrześcijańskim. Jego życie w dużej mierze składa się z legend. Mówi się, że urodził się w Bitynii. Był chrześcijańskim kapłanem, który został uwięziony za swoje przekonania za czasów cesarzy Dioklecjana i Maksymiana. Jego dzień wspomnienia przypada na 11 maja.",
+  "biography_es": "San Antimo de Roma, o Sant'Antimo en italiano (fallecido en 303), es un santo cristiano. Su vida está compuesta en gran parte por leyendas. Se dice que nació en Bitinia. Sacerdote cristiano, fue encarcelado por sus creencias en la época de los emperadores Diocleciano y Maximiano. Su día de fiesta es el 11 de mayo.\n\nLeyenda\n\nCuando el gobernador romano de Bitinia, Piniano, enfermó, su esposa cristiana Lucina (Licinia), conocida por su caridad hacia los cristianos encarcelados y sobrina del emperador Galieno, encontró a Antimo en prisión. Antimo convirtió a Piniano, y el gobernador fue curado. Agradecido, Piniano liberó a todos los prisioneros cristianos de su provincia y permitió que Antimo se escondiera en la villa del gobernador en la Vía Salaria.\n\nYa establecido en Italia, Antimo convirtió a muchos a la fe cristiana y se le atribuyeron innumerables milagros. Convirtió a un sacerdote del dios Silvano y a toda la familia del sacerdote pagano. Acusado de haber destruido el simulacro de Silvano, fue arrojado al Tíber con una piedra atada al cuello. Su leyenda dice que fue rescatado milagrosamente por un ángel, luego recapturado y finalmente decapitado por orden del cónsul Prisco. Fue enterrado en...",
+  "biography_pl": "Święty Antym z Rzymu, zwany po włosku Sant'Antimo (zm. 303), jest świętym chrześcijańskim. Jego życie w dużej mierze składa się z legend. Mówi się, że urodził się w Bitynii. Był chrześcijańskim kapłanem, uwięzionym za swoje przekonania za czasów cesarzy Dioklecjana i Maksymiana. Jego dzień wspomnienia przypada na 11 maja.\n\nLegenda\n\nGdy rzymski namiestnik Bitynii, Pinianus, zachorował, jego chrześcijańska żona Łucyna (Lycinia), znana ze swojej dobroczynności wobec uwięzionych chrześcijan i siostrzenica cesarza Galliena, odnalazła Antyma w więzieniu. Antym nawrócił Pinianusa, a namiestnik wyzdrowiał. Wdzięczny Pinianus uwolnił wszystkich chrześcijańskich więźniów w swojej prowincji i pozwolił Antymowi ukrywać się w swojej willi przy Via Salaria.\n\nPrzebywając teraz we Włoszech, Antym nawrócił wielu na wiarę chrześcijańską, a przypisywano mu niezliczone cuda. Nawrócił kapłana boga Sylwana oraz całą rodzinę pogańskiego kapłana. Oskarżony o zniszczenie posągu Sylwana, został wrzucony do Tybru z kamieniem u szyi. Według legendy został cudownie uratowany przez anioła, później ponownie pojmany, a następnie ścięty na rozkaz konsula Priska. Został pochowany w..."
+}

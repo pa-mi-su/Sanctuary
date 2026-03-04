@@ -1,0 +1,78 @@
+{
+  "id": "05-02_saint_athallasius",
+  "name": "Saint Athallasius",
+  "mmdd": "05-02",
+  "feast": "The Second Day of May",
+  "summary": "Athanasius I of Alexandria, also called Athanasius the Great, Athanasius the Confessor, or, among Coptic Christians, Athanasius the Apostolic, was a Christian theologian and the 20th patriarch of Alexandria. His intermittent episcopacy spanned 45 years, of which over 17 encompassed five exiles, when he was replaced on the order of four different Roman emperors. Athanasius was a Church Father, the chief proponent of Trinitarianism against Arianism, and a noted Egyptian Christian leader of the fourth century.",
+  "biography": "Athanasius I of Alexandria (c. 296–298 – 2 May 373), also called Athanasius the Great, Athanasius the Confessor, or, among Coptic Christians, Athanasius the Apostolic, was a Christian theologian and the 20th patriarch of Alexandria (as Athanasius I). His intermittent episcopacy spanned 45 years (c. 8 June 328 – 2 May 373), of which over 17 encompassed five exiles, when he was replaced on the order of four different Roman emperors. Athanasius was a Church Father, the chief proponent of Trinitarianism against Arianism, and a noted Egyptian Christian leader of the fourth century.\nConflict with Arius and Arianism, as well as with successive Roman emperors, shaped Athanasius' career. In 325, at age 27, Athanasius began his leading role against the Arians as a deacon and assistant to Bishop Alexander of Alexandria during the First Council of Nicaea. Roman Emperor Constantine the Great had convened the council in May–August 325 to address the Arian position that the Son of God, Jesus of Nazareth, is of a distinct substance from the Father. Three years after that council, Athanasius succeeded his mentor as Patriarch of Alexandria. In addition to the conflict with the Arians (including powerful...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-02_saint_athallasius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "183f57b48a2a148845d260a13a3103d106c95075b1bc1e0f63fd1aa7187b400e",
+        "langs": {
+          "es": {
+            "translatedHash": "3a2cdfe40ade1e7faa2f058d3718dfd9192557587c4ff0f5c24e9fd5c3e85484",
+            "updatedAt": "2026-02-24T23:18:17.634Z"
+          },
+          "pl": {
+            "translatedHash": "9acffa92f8749f35a2d0abe02a8729ea36701b75f6b1f8e11c2c4ee4a75f3ba4",
+            "updatedAt": "2026-02-24T23:18:18.505Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "38ac97413134cd3b9a29b18d068af59ffefa4509ebded9b01f77cd387c1d2507",
+        "langs": {
+          "es": {
+            "translatedHash": "66590cc50944058c277ecdda85dbbf99cbdb0e1267ff3c1f1cbf25cc962fda06",
+            "updatedAt": "2026-02-24T23:18:19.064Z"
+          },
+          "pl": {
+            "translatedHash": "cb4676c518d8d90aa1f04313e96321cb82ac6f9e87d1fa9589c6aff972f8f078",
+            "updatedAt": "2026-02-24T23:18:19.741Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "684ae9a33deeba783d689a86e39df720efd18d9a8434fd4cbd158c29397659d3",
+        "langs": {
+          "es": {
+            "translatedHash": "022bfe979f452ed8c4278535f5e4fec02aedc9278632439b61b65d2f252209d5",
+            "updatedAt": "2026-02-24T23:18:21.570Z"
+          },
+          "pl": {
+            "translatedHash": "d25c584ee2751672e41729e3e036cf0f70a9bf23e25ccecdde7e836d0deb4a17",
+            "updatedAt": "2026-02-24T23:18:24.060Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6c2037115831b25d977d6ed78578cd4af88776e1ac52fc8a76cc62a40346e490",
+        "langs": {
+          "es": {
+            "translatedHash": "d4be12b9bd63e28e4abd3e61ecc28e1a14acc986bc87a63b9eee15f6f30f9bec",
+            "updatedAt": "2026-02-24T23:18:28.613Z"
+          },
+          "pl": {
+            "translatedHash": "edabb4b32f8993d0368534b6d5564080a868e0012d2ec13ce3c842584b7562f9",
+            "updatedAt": "2026-02-24T23:18:34.103Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Atalasio",
+  "name_pl": "Święty Atanazy",
+  "feast_es": "El Segundo Día de Mayo",
+  "feast_pl": "Drugi Dzień Maja",
+  "summary_es": "Atanasio I de Alejandría, también llamado Atanasio el Grande, Atanasio el Confesor, o, entre los cristianos coptos, Atanasio el Apostólico, fue un teólogo cristiano y el vigésimo patriarca de Alejandría. Su episcopado intermitente abarcó 45 años, de los cuales más de 17 comprendieron cinco exilios, cuando fue reemplazado por orden de cuatro diferentes emperadores romanos. Atanasio fue un Padre de la Iglesia, el principal defensor del trinitarismo contra el arrianismo, y un destacado líder cristiano egipcio del siglo IV.",
+  "summary_pl": "Atanazy I Aleksandryjski, zwany także Atanazym Wielkim, Atanazym Wyznawcą lub, wśród koptyjskich chrześcijan, Atanazym Apostolskim, był teologiem chrześcijańskim i 20. patriarchą Aleksandrii. Jego przerywana episkopatura trwała 45 lat, z czego ponad 17 obejmowało pięć wygnania, podczas których był zastępowany na rozkaz czterech różnych cesarzy rzymskich. Atanazy był Ojcem Kościoła, głównym orędownikiem Trójcy Świętej przeciwko arianizmowi oraz znanym egipskim przywódcą chrześcijańskim IV wieku.",
+  "biography_es": "Atanasio I de Alejandría (c. 296–298 – 2 de mayo de 373), también llamado Atanasio el Grande, Atanasio el Confesor, o, entre los cristianos coptos, Atanasio el Apostólico, fue un teólogo cristiano y el vigésimo patriarca de Alejandría (como Atanasio I). Su episcopado intermitente abarcó 45 años (c. 8 de junio de 328 – 2 de mayo de 373), de los cuales más de 17 comprendieron cinco exilios, cuando fue reemplazado por orden de cuatro diferentes emperadores romanos. Atanasio fue un Padre de la Iglesia, el principal defensor del trinitarismo contra el arrianismo, y un destacado líder cristiano egipcio del siglo IV.\n\nEl conflicto con Arrio y el arrianismo, así como con sucesivos emperadores romanos, moldearon la carrera de Atanasio. En 325, a los 27 años, Atanasio comenzó su papel principal contra los arrianos como diácono y asistente del obispo Alejandro de Alejandría durante el Primer Concilio de Nicea. El emperador romano Constantino el Grande había convocado el concilio en mayo-agosto de 325 para abordar la posición arriana de que el Hijo de Dios, Jesús de Nazaret, es de una sustancia distinta al Padre. Tres años después de ese concilio, Atanasio sucedió a su mentor como Patriarca de Alejandría. Además del conflicto con los arrianos (incluidos poderosos...",
+  "biography_pl": "Atanazy I z Aleksandrii (ok. 296–298 – 2 maja 373), zwany także Atanazym Wielkim, Atanazym Wyznawcą lub wśród koptyjskich chrześcijan Atanazym Apostolskim, był teologiem chrześcijańskim i 20. patriarchą Aleksandrii (jako Atanazy I). Jego przerywana episkopatura trwała 45 lat (ok. 8 czerwca 328 – 2 maja 373), z czego ponad 17 lat obejmowało pięć wygnania, podczas których był zastępowany na rozkaz czterech różnych cesarzy rzymskich. Atanazy był Ojcem Kościoła, głównym orędownikiem trynitaryzmu przeciwko arianizmowi oraz znanym egipskim przywódcą chrześcijańskim IV wieku.\n\nKonflikt z Ariuszem i arianizmem, jak również z kolejnymi cesarzami rzymskimi, ukształtował karierę Atanazego. W 325 roku, mając 27 lat, Atanazy rozpoczął swoją wiodącą rolę przeciwko arianom jako diakon i asystent biskupa Aleksandra z Aleksandrii podczas Pierwszego Soboru Nicejskiego. Cesarz rzymski Konstantyn Wielki zwołał sobór w maju–sierpniu 325 roku, aby rozstrzygnąć stanowisko arian, według którego Syn Boży, Jezus z Nazaretu, jest innej substancji niż Ojciec. Trzy lata po tym soborze Atanazy zastąpił swojego mentora jako patriarcha Aleksandrii. Oprócz konfliktu z arianami (w tym z potężnymi..."
+}

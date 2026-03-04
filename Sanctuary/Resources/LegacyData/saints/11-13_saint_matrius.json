@@ -1,0 +1,63 @@
+{
+  "id": "11-13_saint_matrius",
+  "name": "Saint Matrius",
+  "mmdd": "11-13",
+  "feast": "The Thirteenth Day of November",
+  "summary": "Méru is a commune in the Oise department in northern France. Méru station has rail connections to Beauvais and Paris.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A9ru"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-13_saint_matrius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "75d7f431cfafa5104c1b6b14af124aaa1b331af572bdd144773e0fe836dc599e",
+        "langs": {
+          "es": {
+            "translatedHash": "8a18724e68ecc3de3f44531d50ed1af3b6643fac636448cb21b51cc47b81706f",
+            "updatedAt": "2026-02-25T01:07:08.562Z"
+          },
+          "pl": {
+            "translatedHash": "872e169a9e53e79d7ad35fa12bb2aa47ad5bf09356e43de8cbca231fe1e5134e",
+            "updatedAt": "2026-02-25T01:07:09.108Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54861fc5f0610f947c96f1f5fcf481a218eaab57dc53d7886c5778226bf0891a",
+        "langs": {
+          "es": {
+            "translatedHash": "64640f2bd18da0e551900f85dd94a99e4fa120a8a45ca9155c61f573741c8fbd",
+            "updatedAt": "2026-02-25T01:07:09.991Z"
+          },
+          "pl": {
+            "translatedHash": "9509626f6ab2388b814a2de0cdee9fdaf25fceba83dd82c3876b359213a0f08c",
+            "updatedAt": "2026-02-25T01:07:10.591Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1fdfd195b16a1766057a1dd99bd10c15236016df7846fa90348b4aedbd6e6838",
+        "langs": {
+          "es": {
+            "translatedHash": "9179a90daa56dccef061e90927ee1f7640d814194326561c68498a00e6036fe1",
+            "updatedAt": "2026-02-25T01:07:12.759Z"
+          },
+          "pl": {
+            "translatedHash": "9a733056b2f59c5a49887375d6613d605531f45d1c56d14da82d1e6ae753b97d",
+            "updatedAt": "2026-02-25T01:07:14.142Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Matrio",
+  "name_pl": "Święty Matriusz",
+  "feast_es": "El Decimotercer Día de Noviembre",
+  "feast_pl": "Trzynasty dzień listopada",
+  "summary_es": "Méru es una comuna en el departamento de Oise en el norte de Francia. La estación de Méru tiene conexiones ferroviarias con Beauvais y París.",
+  "summary_pl": "Méru to gmina w departamencie Oise na północy Francji. Stacja Méru ma połączenia kolejowe z Beauvais i Paryżem."
+}

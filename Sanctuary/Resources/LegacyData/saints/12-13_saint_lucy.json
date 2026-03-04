@@ -1,0 +1,79 @@
+{
+  "id": "12-13_saint_lucy",
+  "name": "Saint Lucy",
+  "mmdd": "12-13",
+  "feast": "The Thirteenth Day of December",
+  "summary": "Lucia of Syracuse, also called Santa Lucia and better known as Saint Lucy, was a Roman Christian martyr who died during the Diocletianic Persecution. She is venerated as a saint in Catholic, Anglican, Lutheran, Eastern Orthodox and Oriental Orthodox Christianity. She is one of eight women explicitly commemorated by Catholics in the Canon of the Mass. Her traditional feast day, known in Europe as Saint Lucy's Day, is observed by Western Christians on 13 December. Lucia of Syracuse was honored in the Middle Ages and remained a well-known saint in early modern England. She is one of the best known virgin martyrs, along with Agatha of Sicily, Agnes of Rome, Cecilia of Rome, and Catherine of Alexandria.",
+  "biography": "Lucia of Syracuse (c. 283 – 304 AD), also called Santa Lucia (Latin: Sancta Lucia) and better known as Saint Lucy, was a Roman Christian martyr who died during the Diocletianic Persecution. She is venerated as a saint in Catholic, Anglican, Lutheran, Eastern Orthodox and Oriental Orthodox Christianity. She is one of eight women (including the Virgin Mary) explicitly commemorated by Catholics in the Canon of the Mass. Her traditional feast day, known in Europe as Saint Lucy's Day, is observed by Western Christians on 13 December. Lucia of Syracuse was honored in the Middle Ages and remained a well-known saint in early modern England. She is one of the best known virgin martyrs, along with Agatha of Sicily, Agnes of Rome, Cecilia of Rome, and Catherine of Alexandria. Sources The oldest record of her story comes from the fourth century, archaeology and later Acts of the Martyrs. The single fact upon which various accounts agree is that a disappointed suitor accused Lucy of being a Christian, and she was executed in Syracuse, Sicily, in 304 AD, during the Diocletianic Persecution. Her veneration spread to Rome, and by the sixth century to the whole Church. The oldest archaeological...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lucy",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-13_saint_lucy.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "92c82bf24e0c2dc536e5954e4147220ed9ac8e66bd7be507a8b44ad90a6f0a53",
+        "langs": {
+          "es": {
+            "translatedHash": "b7e3ddf5eaf55a5ed8f4aed1af7869507300e59b7c6606afcd62d22536a44b58",
+            "updatedAt": "2026-02-25T01:25:26.700Z"
+          },
+          "pl": {
+            "translatedHash": "08014c09a3190e90b27fdd71998554248307da071d1b7dd3deb52bb461221130",
+            "updatedAt": "2026-02-25T01:25:27.281Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3f1cea89b19f0d3bba5a3a91c143e7343a17fcbd9e7cfaed7aa7634054daa255",
+        "langs": {
+          "es": {
+            "translatedHash": "5800156737f1a7679aaee95299a0f8a62e0a020f0af1d6aa1f686ebff105447c",
+            "updatedAt": "2026-02-25T01:25:28.075Z"
+          },
+          "pl": {
+            "translatedHash": "5b93204ebfa688681a17e5365ce89b20c6eb32a0c20903125a9c3e859dc5e8fc",
+            "updatedAt": "2026-02-25T01:25:28.695Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d5dccbb1c3f99de537439b669317034b4a500b6a43a62d8a5b4e2140e7b33863",
+        "langs": {
+          "es": {
+            "translatedHash": "dfd7a32b3e3218ad051367f6d7990d1171fa045bab109c831da95c8b43795e01",
+            "updatedAt": "2026-02-25T01:25:33.595Z"
+          },
+          "pl": {
+            "translatedHash": "6f667f22909de1da878cf96290d8647564715bd0589411972133f3cc7acb3219",
+            "updatedAt": "2026-02-25T01:25:39.508Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d666f143729975cb6f5df349fc7e955e63bb2a01ed5da3b9a0cf01aa76a9b294",
+        "langs": {
+          "es": {
+            "translatedHash": "c4f06ad1342b6f8baffa1dcbe922704d2ea671aa4115c6343f33e12f8a56cb16",
+            "updatedAt": "2026-02-25T01:25:45.338Z"
+          },
+          "pl": {
+            "translatedHash": "ca704b678ed42fb66ae00e3b6242c2aedbf91f591ae96613201c512694facce4",
+            "updatedAt": "2026-02-25T01:25:51.133Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Lucía",
+  "name_pl": "Święta Łucja",
+  "feast_es": "El Decimotercer Día de Diciembre",
+  "feast_pl": "Trzynasty dzień grudnia",
+  "summary_es": "Lucía de Siracusa, también llamada Santa Lucía y más conocida como Santa Lucy, fue una mártir cristiana romana que murió durante la persecución de Diocleciano. Es venerada como santa en el catolicismo, anglicanismo, luteranismo, cristianismo ortodoxo oriental y cristianismo ortodoxo oriental. Es una de las ocho mujeres explícitamente conmemoradas por los católicos en el Canon de la Misa. Su fiesta tradicional, conocida en Europa como el Día de Santa Lucía, es observada por los cristianos occidentales el 13 de diciembre. Lucía de Siracusa fue honrada en la Edad Media y permaneció como una santa muy conocida en la Inglaterra de la época moderna temprana. Es una de las mártires vírgenes más conocidas, junto con Águeda de Sicilia, Inés de Roma, Cecilia de Roma y Catalina de Alejandría.",
+  "summary_pl": "Łucja z Syrakuz, zwana także Świętą Łucją i bardziej znana jako św. Łucja, była rzymską chrześcijańską męczennicą, która zginęła podczas prześladowań Dioklecjana. Jest czczona jako święta w Kościele katolickim, anglikańskim, luterańskim, prawosławnym wschodnim oraz prawosławnym orientalnym. Jest jedną z ośmiu kobiet wyraźnie wspominanych przez katolików w Kanonie Mszy Świętej. Jej tradycyjne święto, znane w Europie jako Dzień Świętej Łucji, obchodzone jest przez chrześcijan zachodnich 13 grudnia. Łucja z Syrakuz była czczona w średniowieczu i pozostała dobrze znaną świętą we wczesnej nowożytnej Anglii. Jest jedną z najlepiej znanych dziewic-męczennic, obok Agaty z Sycylii, Agnieszki z Rzymu, Cecylii z Rzymu i Katarzyny Aleksandryjskiej.",
+  "biography_es": "Lucia de Siracusa (c. 283 – 304 d.C.), también llamada Santa Lucía (latín: Sancta Lucia) y más conocida como Santa Lucía, fue una mártir cristiana romana que murió durante la Persecución de Diocleciano. Es venerada como santa en el catolicismo, anglicanismo, luteranismo, cristianismo ortodoxo oriental y cristianismo ortodoxo oriental. Es una de las ocho mujeres (incluida la Virgen María) conmemoradas explícitamente por los católicos en el Canon de la Misa. Su fiesta tradicional, conocida en Europa como el Día de Santa Lucía, es observada por los cristianos occidentales el 13 de diciembre. Lucia de Siracusa fue honrada en la Edad Media y permaneció como una santa muy conocida en la Inglaterra de la época moderna temprana. Es una de las mártires vírgenes más conocidas, junto con Águeda de Sicilia, Inés de Roma, Cecilia de Roma y Catalina de Alejandría.\n\nFuentes  \nEl registro más antiguo de su historia proviene del siglo IV, la arqueología y posteriores Actas de los Mártires. El único hecho sobre el que coinciden varias versiones es que un pretendiente rechazado acusó a Lucía de ser cristiana, y ella fue ejecutada en Siracusa, Sicilia, en el año 304 d.C., durante la Persecución de Diocleciano. Su veneración se extendió a Roma y, para el siglo VI, a toda la Iglesia. El registro arqueológico más antiguo...",
+  "biography_pl": "Łucja z Syrakuz (ok. 283 – 304 n.e.), zwana także Świętą Łucją (łac. Sancta Lucia) i powszechnie znana jako św. Łucja, była rzymską chrześcijańską męczennicą, która zginęła podczas prześladowań Dioklecjana. Jest czczona jako święta w Kościele katolickim, anglikańskim, luterańskim, prawosławnym wschodnim oraz prawosławnym orientalnym. Jest jedną z ośmiu kobiet (w tym Najświętszą Maryją Panną) wyraźnie wspominanych przez katolików w Kanonie Mszy Świętej. Jej tradycyjne święto, znane w Europie jako Dzień Świętej Łucji, obchodzone jest przez chrześcijan zachodnich 13 grudnia. Łucja z Syrakuz była czczona w średniowieczu i pozostała znaną świętą w Anglii wczesnonowożytnej. Jest jedną z najlepiej znanych dziewic-męczennic, obok Agaty z Sycylii, Agnieszki z Rzymu, Cecylii z Rzymu i Katarzyny Aleksandryjskiej.\n\nŹródła\n\nNajstarsza relacja o jej historii pochodzi z IV wieku, archeologii oraz późniejszych Akt Męczenników. Jedynym faktem, co do którego różne relacje się zgadzają, jest to, że zawiedziony zalotnik oskarżył Łucję o bycie chrześcijanką, a ona została stracona w Syrakuzach na Sycylii w 304 roku n.e., podczas prześladowań Dioklecjana. Jej kult rozprzestrzenił się do Rzymu, a do VI wieku objął cały Kościół. Najstarsze znaleziska archeologiczne..."
+}

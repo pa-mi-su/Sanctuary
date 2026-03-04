@@ -1,0 +1,48 @@
+{
+  "id": "08-10_saint_lawrence_deacon_and_martyr_feast",
+  "name": "Saint Lawrence, Deacon and Martyr—Feast",
+  "mmdd": "08-10",
+  "feast": "The Tenth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Stephen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-10_saint_lawrence_deacon_and_martyr_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "caa368c1911ef1aa996a25d0ca8fa4b24ca67a191da07fb8b9902c572ecb4641",
+        "langs": {
+          "es": {
+            "translatedHash": "959c2058a5e78a6fc5f9d070d98c2d7043ad1883f5669ef0f32ab51074e2b2e3",
+            "updatedAt": "2026-02-25T00:13:09.173Z"
+          },
+          "pl": {
+            "translatedHash": "cb6a93039c73726dbd7ff3e4ea33e87a12036ce705b700924efc8277d40de212",
+            "updatedAt": "2026-02-25T00:13:10.020Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "acda854a4398a0ec094c95dee8d6c7d47d7685bfef1f15f1199fc1749bf8f773",
+        "langs": {
+          "es": {
+            "translatedHash": "e6b7267bc8fa386dddb37f0cf407d9bb65f3ffacf24e4f9586eca772eeb59c0b",
+            "updatedAt": "2026-02-25T00:13:10.711Z"
+          },
+          "pl": {
+            "translatedHash": "9478c081102ef1f444da40c8ba3f546032e976ba2c6e40719c4d85300c0f57b6",
+            "updatedAt": "2026-02-25T00:13:11.323Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Lorenzo, Diácono y Mártir—Fiesta",
+  "name_pl": "Święty Wawrzyniec, Diakon i Męczennik — Uroczystość",
+  "feast_es": "El Décimo Día de Agosto",
+  "feast_pl": "Dziesiąty dzień sierpnia"
+}

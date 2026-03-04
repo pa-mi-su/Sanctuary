@@ -1,0 +1,81 @@
+{
+  "id": "02-28_saint_macarius",
+  "name": "Saint Macarius",
+  "mmdd": "02-28",
+  "feast": "The Twenty-Eighth Day of February",
+  "summary": "The Monastery of Saint Macarius The Great also known as Dayr Al-ʾanbā Maqār is a Coptic Orthodox monastery located in Wadi El Natrun, Beheira Governorate, about 92 km (57 mi) north-west of Cairo, and off the highway between Cairo and Alexandria.",
+  "biography": "The Monastery of Saint Macarius The Great  also known as Dayr Al-ʾanbā Maqār (Arabic: دير الأنبا مقار) is a Coptic Orthodox monastery located in Wadi El Natrun, Beheira Governorate, about 92 km (57 mi) north-west of Cairo, and off the highway between Cairo and Alexandria.\nThe monastery is attributed to Saint Macarius the Great, a disciple of Saint Anthony the Great, the founder of Christian monasticism. Macarius retreated to the Wadi El-Natrun desert and is believed to have established his hermitage there in the last third of the 4th century AD. The monastery was once overseen by Pope Shenouda III, following the resignation of Bishop Michael of Assiut, who had served as its abbot for 65 years. After Pope Shenouda’s death in March 2012, the monks requested the reinstatement of Bishop Michael as abbot. He returned to lead the monastery in April 2012 but resigned permanently shortly after. On March 10, 2013, Anba Epiphanius was appointed abbot, a position he held until his assassination on July 29, 2018.\nThe monastery spans an area of approximately 11.34 square kilometers, including its farmlands and associated buildings. It houses seven churches—three within the main complex and four...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-28_saint_macarius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e99dccc3bb9088eff014f63749f765c7991a2d7c6e195ead6591f3f0451c9f8b",
+        "langs": {
+          "es": {
+            "translatedHash": "18011e955480bd3b224ff3081395a71545a2fd8a7279d918a4f3d6b0ac8ac4b8",
+            "updatedAt": "2026-02-24T22:44:34.607Z"
+          },
+          "pl": {
+            "translatedHash": "52d6c46ab7180b3279d96d9d2558ae81c1d00a8d85b792c54e7cfa75f03ed045",
+            "updatedAt": "2026-02-24T22:44:35.378Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a58c88d77841e10add3e6744cfd1f38be0db69958d64770d66eaa244e8e4b2ff",
+        "langs": {
+          "es": {
+            "translatedHash": "2b306724028e901fe20b876ba29b3b7d4285c877ed1d1e3bef6dfbecbaa6aedd",
+            "updatedAt": "2026-02-24T22:44:36.251Z"
+          },
+          "pl": {
+            "translatedHash": "12edf4446be3f9a0d421e9593e0226fead50d9367d55abb0387f6649ca17d5de",
+            "updatedAt": "2026-02-24T22:44:36.900Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8b4e61a743b54923ae479f2ea42ab0dec6c2c83dc0e19858923941bf134cca23",
+        "langs": {
+          "es": {
+            "translatedHash": "d62cbcc0b12af09bc771beec1e6d2cf020cf7409444815c0a44bd7bc1a02b55d",
+            "updatedAt": "2026-02-24T22:44:38.717Z"
+          },
+          "pl": {
+            "translatedHash": "1a735d55aadc7e73955b52aed72bc2ae7ba7d8754eedcfae22dbf4df8556907b",
+            "updatedAt": "2026-02-24T22:44:41.247Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ed778e02bcf523af7b8cd4e9b1ef96c21abc2af3a498d76a1fab53325869a331",
+        "langs": {
+          "es": {
+            "translatedHash": "80e350b589ae08a42d33c7427326679d10e91615418fba603c0237e9e2035315",
+            "updatedAt": "2026-02-24T22:44:46.751Z"
+          },
+          "pl": {
+            "translatedHash": "99a50807789d249ff9a60f9940c5b8596d0307d0166cda5bd5a543d48657d676",
+            "updatedAt": "2026-02-24T22:44:54.000Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Macario",
+  "name_pl": "Święty Makary",
+  "feast_es": "El vigésimo octavo día de febrero",
+  "feast_pl": "Dwudziesty ósmy dzień lutego",
+  "summary_es": "El Monasterio de San Macario el Grande, también conocido como Dayr Al-ʾanbā Maqār, es un monasterio copto ortodoxo ubicado en Wadi El Natrun, Gobernación de Beheira, aproximadamente a 92 km (57 millas) al noroeste de El Cairo, y fuera de la carretera entre El Cairo y Alejandría.",
+  "summary_pl": "Monastyr Świętego Makarego Wielkiego, znany również jako Dayr Al-ʾanbā Maqār, jest koptyjskim klasztorem ortodoksyjnym położonym w Wadi El Natrun, w gubernatorstwie Beheira, około 92 km (57 mil) na północny zachód od Kairu, przy drodze między Kairem a Aleksandrią.",
+  "biography_es": "El Monasterio de San Macario el Grande, también conocido como Dayr Al-ʾanbā Maqār (árabe: دير الأنبا مقار), es un monasterio copto ortodoxo ubicado en Wadi El Natrun, Gobernación de Beheira, a unos 92 km (57 millas) al noroeste de El Cairo, y junto a la carretera entre El Cairo y Alejandría.  \nEl monasterio se atribuye a San Macario el Grande, un discípulo de San Antonio el Grande, el fundador del monacato cristiano. Macario se retiró al desierto de Wadi El-Natrun y se cree que estableció su ermita allí en el último tercio del siglo IV d.C. El monasterio fue supervisado en una ocasión por el Papa Shenouda III, tras la renuncia del obispo Miguel de Assiut, quien había servido como su abad durante 65 años. Después de la muerte del Papa Shenouda en marzo de 2012, los monjes solicitaron la reinstalación del obispo Miguel como abad. Él regresó para dirigir el monasterio en abril de 2012, pero renunció de forma permanente poco después. El 10 de marzo de 2013, Anba Epifanio fue nombrado abad, cargo que ocupó hasta su asesinato el 29 de julio de 2018.  \nEl monasterio abarca un área de aproximadamente 11.34 kilómetros cuadrados, incluyendo sus tierras de cultivo y edificios asociados. Alberga siete iglesias — tres dentro del complejo principal y cuatro...",
+  "biography_pl": "Monastyr Świętego Makarego Wielkiego, znany również jako Dayr Al-ʾanbā Maqār (arabski: دير الأنبا مقار), jest koptyjskim klasztorem ortodoksyjnym położonym w Wadi El Natrun, w gubernatorstwie Beheira, około 92 km (57 mil) na północny zachód od Kairu, przy autostradzie łączącej Kair z Aleksandrią.  \nKlasztor przypisuje się Świętemu Makaremu Wielkiemu, uczniowi Świętego Antoniego Wielkiego, założyciela chrześcijańskiego monastycyzmu. Makary wycofał się na pustynię Wadi El-Natrun i uważa się, że założył tam swoją pustelnię w ostatniej trzeciej części IV wieku n.e. Klasztor był niegdyś nadzorowany przez papieża Shenoudę III, po rezygnacji biskupa Michała z Assiut, który pełnił funkcję jego opata przez 65 lat. Po śmierci papieża Shenoudy w marcu 2012 roku mnisi poprosili o przywrócenie biskupa Michała na stanowisko opata. Powrócił on do kierowania klasztorem w kwietniu 2012 roku, lecz wkrótce potem zrezygnował na stałe. 10 marca 2013 roku opatem został mianowany Anba Epifaniusz, który pełnił tę funkcję aż do swojej śmierci w zamachu 29 lipca 2018 roku.  \nKlasztor zajmuje obszar około 11,34 km², wliczając w to ziemie uprawne i przynależne budynki. Znajduje się w nim siedem kościołów — trzy w głównym kompleksie i cztery..."
+}

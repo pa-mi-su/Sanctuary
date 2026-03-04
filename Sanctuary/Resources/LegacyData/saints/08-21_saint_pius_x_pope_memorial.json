@@ -1,0 +1,48 @@
+{
+  "id": "08-21_saint_pius_x_pope_memorial",
+  "name": "Saint Pius X, Pope—Memorial",
+  "mmdd": "08-21",
+  "feast": "The Twenty-First Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_XXIII"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-21_saint_pius_x_pope_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0ac367eae150585c5acaf1be901c80a9f2be1b7d09c863caf990dcd265f2f84e",
+        "langs": {
+          "es": {
+            "translatedHash": "75e681bb04ac48bf08c69245dbf7f71148bb199f1819eba0aa984de7d565e5aa",
+            "updatedAt": "2026-02-25T00:19:22.789Z"
+          },
+          "pl": {
+            "translatedHash": "dd669727477b8675f07ee31496d0d734fcbf68b59a1d1d4d4c5bc90204177dcf",
+            "updatedAt": "2026-02-25T00:19:23.543Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4b195cda3a95fab1e76faa6539a64b8bb37acf5769c11d356f7f2fe2bda5ff27",
+        "langs": {
+          "es": {
+            "translatedHash": "845d9a1a583dc3ef2da3b35370f3b83fe45b72161e3c97928c4b06c99123c7bb",
+            "updatedAt": "2026-02-25T00:19:24.264Z"
+          },
+          "pl": {
+            "translatedHash": "e3fd73a43c75cb626d7275f3cf853efdd8eada1d5e81b30fcd528e5f02a0176f",
+            "updatedAt": "2026-02-25T00:19:25.008Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pío X, Papa—Memoria",
+  "name_pl": "Święty Pius X, Papież — Wspomnienie",
+  "feast_es": "El Vigésimo Primer Día de Agosto",
+  "feast_pl": "Dwudziesty pierwszy dzień sierpnia"
+}

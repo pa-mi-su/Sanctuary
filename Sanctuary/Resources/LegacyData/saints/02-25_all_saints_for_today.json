@@ -1,0 +1,46 @@
+{
+  "id": "02-25_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "02-25",
+  "feast": "The Twenty-Fifth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:42:05.558Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:42:06.116Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f5a6f0837cf0a0dff2775fa680f8e5c2bd153fd544333b5ace8557c35f9d1eb6",
+        "langs": {
+          "es": {
+            "translatedHash": "0910c5849390a31d23e2eaa3cac1db2090031ef78320da5911da71ab76a68c7f",
+            "updatedAt": "2026-02-24T22:42:06.814Z"
+          },
+          "pl": {
+            "translatedHash": "9400220e0f5fc6ed70d19cd76836fbedafdd547573e6f2865a4294628dc8f320",
+            "updatedAt": "2026-02-24T22:42:07.830Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo quinto día de febrero",
+  "feast_pl": "Dwudziesty piąty dzień lutego"
+}

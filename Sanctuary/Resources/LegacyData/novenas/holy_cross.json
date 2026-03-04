@@ -1,0 +1,269 @@
+{
+  "id": "holy_cross",
+  "title": "Holy Cross Novena",
+  "description": "The Exaltation of the Holy Cross celebrates the discovery by St Helena of the True Cross of Christ. Pray this Holy Cross Novena to draw closer to Christ Crucified.",
+  "category": "Feast",
+  "tags": [
+    "Novena",
+    "Feast",
+    "Holy Cross"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 14
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/holy-cross-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde lo alto y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que nos son queridos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar finalmente a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a las Tuyas, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś zostać ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i wysłuchaj prośby, którą składamy (wymień prośbę tutaj…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli wreszcie dojść do chwały Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić Twoją Niebiańską chwałę na wieki. Amen. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde el cielo y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que nos son queridos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar finalmente a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś być ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośby, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli wreszcie osiągnąć chwałę Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić Twoją Niebiańską chwałę na wieki. Amen. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde lo alto y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que amamos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar al fin a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś być ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośbie, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, nasz codzienny chleb, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli wreszcie dojść do chwały Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić się Twoją Niebiańską chwałą na wieki. Amen. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde el cielo y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que nos son queridos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar al fin a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas zechciałeś zostać ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośby, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli wreszcie osiągnąć chwałę Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić Twoją Niebiańską chwałę na wieki. Amen. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por tu ardiente amor hacia nosotros quisiste ser crucificado y derramar tu Preciosísima Sangre para la redención y salvación de nuestras almas, mira hacia nosotros y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en tu Misericordia. Límpianos del pecado por tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que amamos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, tu Paz, que es la única paz verdadera, para que obedeciendo tus Mandamientos podamos llegar al fin a la gloria del Cielo.\n\nSeñor, exaltamos tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en tus sufrimientos, uniendo nuestras cruces a la tuya, para que podamos compartir tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś być ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i wysłuchaj prośby, którą Ci składamy (wymień prośbę tutaj…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli wreszcie osiągnąć chwałę Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić Twoją Niebiańską chwałę na wieki. Amen. Ojcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde el cielo y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que nos son queridos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar al fin a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś zostać ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośbie, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim naszym bliskim chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli w końcu osiągnąć chwałę Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić Twoją Niebiańską chwałę na wieki. Amen. Ojcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde el cielo y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que amamos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar finalmente a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś być ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośby, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, nasz codzienny chleb, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez przestrzeganie Twoich Przykazań mogli w końcu osiągnąć chwałę Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić się Twoją Niebiańską chwałą na wieki. Amen. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde el cielo y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que nos son queridos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar finalmente a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś być ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośby, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim, którzy są nam drodzy, chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez posłuszeństwo Twoim Przykazaniom mogli wreszcie dojść do chwały Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić Twoją Niebiańską chwałę na wieki. Amen. Ojcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nJesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, look down upon us and grant the petition we ask for (mention request here…) We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven.\n\nLord, we exalt Your Holy Cross, upon which You redeemed the world. Grant us a share in Your sufferings, uniting our crosses to Yours, so that we may share in Your Heavenly glory forever. Amen. Our Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nJesús, que por Tu ardiente amor hacia nosotros quisiste ser crucificado y derramar Tu Preciosísima Sangre para la redención y salvación de nuestras almas, míranos desde el cielo y concede la petición que te hacemos (mencionar la petición aquí…) Confiamos plenamente en Tu Misericordia. Límpianos del pecado por Tu Gracia, santifica nuestro trabajo, danos a nosotros y a todos los que amamos nuestro pan de cada día, aligera la carga de nuestros sufrimientos, bendice a nuestras familias y concede a las naciones, tan gravemente afligidas, Tu Paz, que es la única paz verdadera, para que obedeciendo Tus Mandamientos podamos llegar finalmente a la gloria del Cielo.\n\nSeñor, exaltamos Tu Santa Cruz, en la cual redimiste al mundo. Concédenos participar en Tus sufrimientos, uniendo nuestras cruces a la Tuya, para que podamos compartir Tu gloria celestial por siempre. Amén. Padre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nJezu, który z powodu Twojej gorącej miłości do nas chciałeś zostać ukrzyżowany i wylać swoją Najdroższą Krew dla odkupienia i zbawienia naszych dusz, spójrz na nas i udziel prośby, o którą Cię prosimy (wymień tutaj prośbę…) Całkowicie ufamy Twojemu Miłosierdziu. Oczyść nas z grzechu przez swoją Łaskę, uświęć naszą pracę, daj nam i wszystkim naszym bliskim chleb powszedni, ułatw ciężar naszych cierpień, błogosław nasze rodziny i udziel narodom, tak bardzo doświadczonym, Twojego Pokoju, który jest jedynym prawdziwym pokojem, abyśmy przez przestrzeganie Twoich Przykazań mogli w końcu osiągnąć chwałę Nieba.\n\nPanie, wywyższamy Twój Święty Krzyż, na którym odkupiłeś świat. Daj nam udział w Twoich cierpieniach, łącząc nasze krzyże z Twoim, abyśmy mogli dzielić się Twoją Niebiańską chwałą na wieki. Amen. Ojcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "September 5Feastday:September 14Birth:0Death:0Patron saint of the Cross 📱",
+    "feast": "September 14Birth:0Death:0Patron saint of the Cross 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/holy_cross.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "a96148f37359fab8a7c7a15fe6181ab159aa9eb2591655705f6f071356a76e4c",
+        "langs": {
+          "es": {
+            "translatedHash": "afc55874c9764d19e3a9b3508d4c5fa8360b57f20ba0ca7c2addd4137437d13b",
+            "updatedAt": "2026-02-25T05:03:29.640Z"
+          },
+          "pl": {
+            "translatedHash": "d29fcd33e4652278d9af7130507745cd34e0342d57528cac088541ff2f88cbcc",
+            "updatedAt": "2026-02-25T05:03:30.418Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "ddf15c3e34104b26b5d64c469d7c3b58a74d06127d3d7063372ef93338673b44",
+        "langs": {
+          "es": {
+            "translatedHash": "ea29786fd984fa1cb865c7090acd8d6bdda0f0979e58c0fee52050dd28abc546",
+            "updatedAt": "2026-02-25T05:03:31.408Z"
+          },
+          "pl": {
+            "translatedHash": "2d075a49ce20378070b493ae0663d94d0d348731b4ccfc33096e4ff346a5dfa0",
+            "updatedAt": "2026-02-25T05:03:33.324Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "c1967a1fc3a7d9dc3b18c66e7841514e0b14aaef27a9bdb1577d84a7107aa572",
+        "langs": {
+          "es": {
+            "translatedHash": "ad776a4f6cd69e45ad0b604e88412d4242190905facb67c1ec0e1e802553e82d",
+            "updatedAt": "2026-02-25T05:03:37.112Z"
+          },
+          "pl": {
+            "translatedHash": "463f8ffc6865a7569181836f1686d85b5307cd259c231a59ac1644ee5195a6ff",
+            "updatedAt": "2026-02-25T05:03:43.127Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "b983cf690ac8b654a98a5c5445ec393ae4fe5725160fc8c7186a950852594f25",
+        "langs": {
+          "es": {
+            "translatedHash": "4a58bb5b0a168808d7ee0164e1f0dd4364fd0b604bc66c9fe8b477fce095c5e7",
+            "updatedAt": "2026-02-25T05:03:48.528Z"
+          },
+          "pl": {
+            "translatedHash": "c6191bf9ccdcf864271d3e35b6cad5eb4a6130791ba467f3c9eb7bce8340b65d",
+            "updatedAt": "2026-02-25T05:03:54.558Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "42cd827d2ce75c3c865aa725000b2d450f9549567179a17bf24069acd4227ac9",
+        "langs": {
+          "es": {
+            "translatedHash": "2f6c5f1bc8bc081801bbbb70f792e95983e9eeac8852bec8e69828bbb694c42e",
+            "updatedAt": "2026-02-25T05:03:58.521Z"
+          },
+          "pl": {
+            "translatedHash": "ceeb9d1b93a356f81f6a8f68927ec971367239843a0d6be42113e9902eb359c5",
+            "updatedAt": "2026-02-25T05:04:03.936Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "025896c9f99aea03010db2668014d2c1ffc5b3089fb4f81c8a0844c02624a950",
+        "langs": {
+          "es": {
+            "translatedHash": "268326edc14727e7ed090802f401c22cd44c90397ae22d645e00694634064f39",
+            "updatedAt": "2026-02-25T05:04:09.098Z"
+          },
+          "pl": {
+            "translatedHash": "c6b5d4ca57cb0332f4324138d869c6f452273ebd94263556aa2c11b620f05ad0",
+            "updatedAt": "2026-02-25T05:04:15.333Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "7a7f5dbded7bb8541ee0c20f5ad8304f84262ca97ad8440bd0a2f1bf9b0324f8",
+        "langs": {
+          "es": {
+            "translatedHash": "7fd133c3af765a6a947bd30b427a8c86f478a794792e2724bcb3cfb2e141052f",
+            "updatedAt": "2026-02-25T05:04:19.720Z"
+          },
+          "pl": {
+            "translatedHash": "be4e0113d5314d1bb3d206954d511a6b83259fb1fa3501ab09e4a6368c74ef5f",
+            "updatedAt": "2026-02-25T05:04:25.028Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "6d4e2b87ffeb7963c8710cb9c6777125cb9364854dec34b9053c8549b1fc0490",
+        "langs": {
+          "es": {
+            "translatedHash": "240128156040eab00134d87288c79928b63c4aa465a648e3c28ecdb38ade2a5a",
+            "updatedAt": "2026-02-25T05:04:30.041Z"
+          },
+          "pl": {
+            "translatedHash": "66e947f495b45b6be43fb64ef4d618a1f7c7b7013572571e7a89c4c8f41a0880",
+            "updatedAt": "2026-02-25T05:04:37.880Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "08f959c507795d4127987da9bee84b49ea506cfb7d1942a45d3f039fc6fce16b",
+        "langs": {
+          "es": {
+            "translatedHash": "6b841e2e355252f3ad4916a99620a346097e9e2a233d952bba305f1378433cdf",
+            "updatedAt": "2026-02-25T05:04:43.804Z"
+          },
+          "pl": {
+            "translatedHash": "322c90f7a2bb4eb858befa49f27f2d767247d1ef942599ee1d49572f8331235c",
+            "updatedAt": "2026-02-25T05:04:50.437Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "0f1577ddf8b210d08cc13c451a0d1fc0b2832575625521c4c13ac49851155668",
+        "langs": {
+          "es": {
+            "translatedHash": "4a58bb5b0a168808d7ee0164e1f0dd4364fd0b604bc66c9fe8b477fce095c5e7",
+            "updatedAt": "2026-02-25T05:04:54.248Z"
+          },
+          "pl": {
+            "translatedHash": "8b35471ccaa2dfa6af721daf732ece834590fd39f8ea3309229fc1f84508d2be",
+            "updatedAt": "2026-02-25T05:05:00.447Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "f448d849b15d90a3de11ad81363542cce0e6afbe97c8bda7204ec9f1951ec8b8",
+        "langs": {
+          "es": {
+            "translatedHash": "6b841e2e355252f3ad4916a99620a346097e9e2a233d952bba305f1378433cdf",
+            "updatedAt": "2026-02-25T05:05:09.907Z"
+          },
+          "pl": {
+            "translatedHash": "376874f25338cd2e52ef484699a1bc19282a4bb14a5683e4ee00b5feefb0081f",
+            "updatedAt": "2026-02-25T05:05:16.143Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de la Santa Cruz",
+  "title_pl": "Nowenna do Świętego Krzyża",
+  "description_es": "La Exaltación de la Santa Cruz celebra el descubrimiento por Santa Elena de la Verdadera Cruz de Cristo. Reza esta Novena a la Santa Cruz para acercarte más a Cristo Crucificado.",
+  "description_pl": "Podwyższenie Świętego Krzyża upamiętnia odnalezienie przez św. Helenę Prawdziwego Krzyża Chrystusa. Módl się tę Nowennę do Świętego Krzyża, aby zbliżyć się do Ukrzyżowanego Chrystusa.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

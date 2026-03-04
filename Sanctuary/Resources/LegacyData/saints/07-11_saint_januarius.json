@@ -1,0 +1,79 @@
+{
+  "id": "07-11_saint_januarius",
+  "name": "Saint Januarius",
+  "mmdd": "07-11",
+  "feast": "The Eleventh Day of July",
+  "summary": "Januarius, also known as Januarius I of Benevento, was Bishop of Benevento and is a martyr and saint of the Catholic Church. While no contemporary sources on his life are preserved, later sources and legends say he died during the Great Persecution, which ended with Diocletian's retirement in 305.",
+  "biography": "Life\nLittle is known of Januarius's life. What follows mostly derives from later Christian sources, such as the Acta Bononensia (BHL 4132, not earlier than 6th century) and the Acta Vaticana (BHL 4115, 9th century), and later folk traditions.\n\n\nLegend\n\nAccording to various hagiographies, Januarius was born in Benevento to a rich patrician family that traced its descent to the Caudini tribe of the Samnites. At age 15, he became local priest of his parish in Benevento, which at the time had only a small Christian community. When Januarius was 20, he became Bishop of Naples and befriended Juliana of Nicomedia...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Januarius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-11_saint_januarius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2e48d8f944ceb764a1da4d863a7e6237da1e81c0026ecf24363e68ccf8194b97",
+        "langs": {
+          "es": {
+            "translatedHash": "8fa0724c8ba792bfedf17b4e69e7beb8ac23dae8b92566752819677a5bdac42a",
+            "updatedAt": "2026-02-24T23:56:14.379Z"
+          },
+          "pl": {
+            "translatedHash": "98fccad29fdd6975c791035e5fa6e132e30a39c3a4ba40720e2afcb58147f0fc",
+            "updatedAt": "2026-02-24T23:56:15.126Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "aba426aa6248f996a32fc8b5d8fac375f15466220af454fe45db2c7e0dcc5d07",
+        "langs": {
+          "es": {
+            "translatedHash": "64378d1b2a15b7658ea1529ea58c9469a0212c698d22ec99421ecb2ea0536a32",
+            "updatedAt": "2026-02-24T23:56:15.744Z"
+          },
+          "pl": {
+            "translatedHash": "0329e745e24f903ac51f9546230faac2810281d8296be0f7435818532619f5cb",
+            "updatedAt": "2026-02-24T23:56:16.348Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e355447edccae42c252edb623d7768d66072242a50a595c67e4f0d2f59d83530",
+        "langs": {
+          "es": {
+            "translatedHash": "3ca3a0756d58272e84426f1d015bbf2bedd2d81474c37738bbebb133be1912e5",
+            "updatedAt": "2026-02-24T23:56:17.553Z"
+          },
+          "pl": {
+            "translatedHash": "80dfd597c31c746dc5d9528c248b3f708b92bc7657d16289a02a0d2fabb9ee11",
+            "updatedAt": "2026-02-24T23:56:21.319Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1f5bd0174eeeba3aa23d00c652e73b8e2361f83a574db0f213d75180c0ed7cd3",
+        "langs": {
+          "es": {
+            "translatedHash": "46e2bc67a8605a9d97b3e2451411c60b66b289ceed67cf6a9ece839a08a81a61",
+            "updatedAt": "2026-02-24T23:56:24.627Z"
+          },
+          "pl": {
+            "translatedHash": "5eb9deaad0276dbe1da01539b0d582d1dfa2a0e5dd01f2328b6430f1ef33279f",
+            "updatedAt": "2026-02-24T23:56:27.601Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jenaro",
+  "name_pl": "Święty Januaryusz",
+  "feast_es": "El día once de julio",
+  "feast_pl": "Jedenasty dzień lipca",
+  "summary_es": "Januario, también conocido como Januario I de Benevento, fue obispo de Benevento y es mártir y santo de la Iglesia Católica. Aunque no se conservan fuentes contemporáneas sobre su vida, fuentes y leyendas posteriores dicen que murió durante la Gran Persecución, que terminó con la retirada de Diocleciano en el año 305.",
+  "summary_pl": "Januariusz, znany również jako Januariusz I z Benevento, był biskupem Benevento i jest męczennikiem oraz świętym Kościoła katolickiego. Choć nie zachowały się żadne współczesne źródła dotyczące jego życia, późniejsze źródła i legendy mówią, że zmarł podczas Wielkiego Prześladowania, które zakończyło się wraz z abdykacją Dioklecjana w 305 roku.",
+  "biography_es": "Vida  \nSe sabe poco de la vida de Januario. Lo que sigue se deriva principalmente de fuentes cristianas posteriores, como las Acta Bononensia (BHL 4132, no antes del siglo VI) y las Acta Vaticana (BHL 4115, siglo IX), y de tradiciones populares posteriores.\n\nLeyenda\n\nSegún varias hagiografías, Januario nació en Benevento en una familia patricia rica que trazaba su descendencia a la tribu Caudina de los Samnitas. A los 15 años, se convirtió en sacerdote local de su parroquia en Benevento, que en ese momento tenía solo una pequeña comunidad cristiana. Cuando Januario tenía 20 años, se convirtió en obispo de Nápoles y se hizo amigo de Juliana de Nicomedia...",
+  "biography_pl": "Życie  \nNiewiele wiadomo o życiu Januarego. To, co następuje, pochodzi głównie z późniejszych chrześcijańskich źródeł, takich jak Acta Bononensia (BHL 4132, nie wcześniej niż VI wiek) oraz Acta Vaticana (BHL 4115, IX wiek), a także z późniejszych tradycji ludowych.\n\nLegenda\n\nWedług różnych hagiografii, Januariusz urodził się w Benevento w bogatej rodzinie patrycjuszy, która wywodziła się z plemienia Caudini Samnitów. W wieku 15 lat został lokalnym kapłanem swojej parafii w Benevento, które wówczas miało tylko niewielką wspólnotę chrześcijańską. Gdy Januariusz miał 20 lat, został biskupem Neapolu i zaprzyjaźnił się z Julianą z Nikomedii..."
+}

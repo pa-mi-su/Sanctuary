@@ -1,0 +1,79 @@
+{
+  "id": "09-26_saint_epicharis",
+  "name": "Saint Epicharis",
+  "mmdd": "09-26",
+  "feast": "The Twenty-Sixth Day of September",
+  "summary": "Epicharis is the name of two Christian martyrs.",
+  "biography": "A list of people, who died during the 3rd century, who have received recognition as Saints from the Catholic Church:",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epicharis_(martyr)",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-26_saint_epicharis.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3080ac801b1997765959514a852b7cd26ca695766b0740f1d4f160d0f0cbe75a",
+        "langs": {
+          "es": {
+            "translatedHash": "7b389313917ca9c40f896d52d45360438ab1782a04d07b32ee24c27f92cd24a5",
+            "updatedAt": "2026-02-25T00:37:26.710Z"
+          },
+          "pl": {
+            "translatedHash": "5a5238eca413e449d3abb1c813ab8218229a38baff6b12e485691dc45b801016",
+            "updatedAt": "2026-02-25T00:37:27.263Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c505822439f07b88b311f6e57d726aec835711e737bb9a5c8c9e35a39bfa3fbc",
+        "langs": {
+          "es": {
+            "translatedHash": "193dd8408a968ff3513f4cb956e911d1f59e8b1ad30b7ae64aac6582b8eb5341",
+            "updatedAt": "2026-02-25T00:37:43.797Z"
+          },
+          "pl": {
+            "translatedHash": "7581dffaba8aab036162ebb3d935d8f79d853e4d2a78ab47f6dfaa064cb91f65",
+            "updatedAt": "2026-02-25T00:37:44.335Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e34f0486ef6f1e782f7c45754d29870375eeca45f0e95680cef8fd85d5ba94ae",
+        "langs": {
+          "es": {
+            "translatedHash": "0a36c49b048da4ac60854839e7b3869ac5827321bb0ac0fbaaeaca6bfe324ca8",
+            "updatedAt": "2026-02-25T00:37:45.223Z"
+          },
+          "pl": {
+            "translatedHash": "b5ef07826595fa13d1ab40dac13cac278144442ba18f90cb451ad3e76da64f08",
+            "updatedAt": "2026-02-25T00:37:46.002Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3b7a8db41d809970a7286ae31f1e6c8c0607d601dc20f6861d1db7fb2455b159",
+        "langs": {
+          "es": {
+            "translatedHash": "f014aac4893e81339c569b656e8737f0a6629a45953144dc971dff537b7b8f22",
+            "updatedAt": "2026-02-25T00:37:47.437Z"
+          },
+          "pl": {
+            "translatedHash": "1794bf0a7e87cbed927d0d827b96069a91d65bf25b1fe230455f663b90b5d6e3",
+            "updatedAt": "2026-02-25T00:37:48.267Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Epicaris",
+  "name_pl": "Święta Epicharis",
+  "feast_es": "El vigésimo sexto día de septiembre",
+  "feast_pl": "Dwudziesty szósty dzień września",
+  "summary_es": "Epícaris es el nombre de dos mártires cristianos.",
+  "summary_pl": "Epicharis to imię dwóch chrześcijańskich męczennic.",
+  "biography_es": "Una lista de personas, que murieron durante el siglo III, que han recibido reconocimiento como Santos por la Iglesia Católica:",
+  "biography_pl": "Lista osób, które zmarły w III wieku i zostały uznane za świętych przez Kościół katolicki:"
+}

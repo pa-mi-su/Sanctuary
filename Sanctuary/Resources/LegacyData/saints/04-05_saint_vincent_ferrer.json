@@ -1,0 +1,79 @@
+{
+  "id": "04-05_saint_vincent_ferrer",
+  "name": "Saint Vincent Ferrer",
+  "mmdd": "04-05",
+  "feast": "The Fifth Day of April",
+  "summary": "Vincent Ferrer, OP was a Valencian Dominican friar who gained acclaim as a preacher, missionary and logician. After supporting Antipope Benedict XIII during the Western Schism, Ferrer travelled to preach across Western Europe and the British Isles. His preaching has been credited in some sources as converting 25,000 Jews to Catholicism, other sources indicate that they involved supporting coercive means, such as the forcible conversion of synagogues into churches. He was canonized in 1455.",
+  "biography": "Vincent Ferrer, OP (Valencian: Sant Vicent Ferrer [ˈsaɱ viˈsɛɱ feˈreɾ]; Spanish: San Vicente Ferrer; Italian: San Vincenzo Ferreri; German: Sankt Vinzenz Ferrer; Dutch: Sint-Vincent Ferrer; French: Saint Vincent Ferrier; 23 January 1350 – 5 April 1419) was a Valencian Dominican friar who gained acclaim as a preacher, missionary and logician. After supporting Antipope Benedict XIII during the Western Schism, Ferrer travelled to preach across Western Europe and the British Isles. His preaching has been credited in some sources as converting 25,000 Jews to Catholicism, other sources indicate that they involved supporting coercive means, such as the forcible conversion of synagogues into churches. He was canonized in 1455. Early life Vincent was the fourth child of Guillem Ferrer, a notary from Palamós, and his wife, Constança Miquel, apparently from Valencia itself or Girona. Legends surround Vincent's birth. It was said that his father was told in a dream by a Dominican friar that his son would be famous throughout the world. His mother is said never to have experienced pain when she gave birth to him. He was named after Vincent Martyr, the patron saint of Valencia. He would fast...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vincent_Ferrer",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-05_saint_vincent_ferrer.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e96ed0ff019250a6d4a580dd4dfc02a06553a0a59351c653889c599ac3f52662",
+        "langs": {
+          "es": {
+            "translatedHash": "cd647e3492aa3ca01cf6e2dcdbc9fb0d8868358ce0c4c15aa590151a7fe352af",
+            "updatedAt": "2026-02-24T23:04:15.327Z"
+          },
+          "pl": {
+            "translatedHash": "e0a79284ec63a6b33f2213e95fdb1d6d883fe16ad7ea66cb871fbda5b426bfb9",
+            "updatedAt": "2026-02-24T23:04:15.804Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ffc0f3ccabeb8e07c1a565aa0199e091d9dec4226eb48e126433d149e32694df",
+        "langs": {
+          "es": {
+            "translatedHash": "1576458e20fefa1a237b30af313a6455e115b250823aa6dc750ab13be17a1228",
+            "updatedAt": "2026-02-24T23:04:16.301Z"
+          },
+          "pl": {
+            "translatedHash": "899ad2a5d9d3075a8d74cebcee1fea196c0cb776977f4b42543b8aa7bb3cc67f",
+            "updatedAt": "2026-02-24T23:04:16.928Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "078ee9f2e27b7325f71ca3d2d491af6aac9f5b335aa7ecda1be136fc35f6cf02",
+        "langs": {
+          "es": {
+            "translatedHash": "62381a3550320219bb3200a4cc4efab686bf462ad4c68bc2e2ed796e770ac10d",
+            "updatedAt": "2026-02-24T23:04:19.049Z"
+          },
+          "pl": {
+            "translatedHash": "64f6a053b0d83723511b212e08f643a0d312aa4d97e78e0af10f80c31be2119f",
+            "updatedAt": "2026-02-24T23:04:22.849Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4215e7e21200df6c456867f5aaa954f6e6a8d1a0e7346ddaa1c9462d33c707d7",
+        "langs": {
+          "es": {
+            "translatedHash": "2eaa48d15cd2e04c4125c65d2f2f8d0c4fab8b5971b2e76f3892feafabc50878",
+            "updatedAt": "2026-02-24T23:04:28.748Z"
+          },
+          "pl": {
+            "translatedHash": "958be914c9496a41234ad4e47260c1352c6745129773ee63ae9e887dd66f3b02",
+            "updatedAt": "2026-02-24T23:04:39.370Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vicente Ferrer",
+  "name_pl": "Święty Wincenty Ferreriusz",
+  "feast_es": "El Quinto Día de Abril",
+  "feast_pl": "Piąty dzień kwietnia",
+  "summary_es": "Vicente Ferrer, OP, fue un fraile dominico valenciano que ganó fama como predicador, misionero y lógico. Después de apoyar al antipapa Benedicto XIII durante el Cisma de Occidente, Ferrer viajó predicando por toda Europa Occidental y las Islas Británicas. En algunas fuentes se le atribuye la conversión de 25,000 judíos al catolicismo, mientras que otras indican que esto implicó el uso de medios coercitivos, como la conversión forzosa de sinagogas en iglesias. Fue canonizado en 1455.",
+  "summary_pl": "Wincenty Ferrer, OP, był walencjańskim dominikaninem, który zyskał sławę jako kaznodzieja, misjonarz i logik. Po poparciu antypapieża Benedykta XIII podczas schizmy zachodniej, Ferrer podróżował, głosząc kazania w całej Europie Zachodniej i na Wyspach Brytyjskich. Jego kazania przypisuje się w niektórych źródłach jako przyczynę nawrócenia 25 000 Żydów na katolicyzm, inne źródła wskazują, że wiązały się one z popieraniem środków przymusowych, takich jak przymusowe przekształcanie synagog w kościoły. Został kanonizowany w 1455 roku.",
+  "biography_es": "Vicente Ferrer, OP (valenciano: Sant Vicent Ferrer [ˈsaɱ viˈsɛɱ feˈreɾ]; español: San Vicente Ferrer; italiano: San Vincenzo Ferreri; alemán: Sankt Vinzenz Ferrer; neerlandés: Sint-Vincent Ferrer; francés: Saint Vincent Ferrier; 23 de enero de 1350 – 5 de abril de 1419) fue un fraile dominico valenciano que alcanzó fama como predicador, misionero y lógico. Tras apoyar al antipapa Benedicto XIII durante el Cisma de Occidente, Ferrer viajó predicando por Europa Occidental y las Islas Británicas. Su predicación ha sido acreditada en algunas fuentes con la conversión de 25,000 judíos al catolicismo; otras fuentes indican que ello implicó el apoyo a medios coercitivos, como la conversión forzosa de sinagogas en iglesias. Fue canonizado en 1455.\n\nVida temprana\n\nVicente fue el cuarto hijo de Guillem Ferrer, un notario de Palamós, y su esposa, Constança Miquel, aparentemente oriunda de Valencia misma o de Girona. Leyendas rodean el nacimiento de Vicente. Se decía que a su padre le fue revelado en un sueño por un fraile dominico que su hijo sería famoso en todo el mundo. Se dice que su madre nunca experimentó dolor al darle a luz. Fue nombrado en honor a Vicente Mártir, el santo patrón de Valencia. Él ayunaría...",
+  "biography_pl": "Wincenty Ferreriusz, OP (walencjański: Sant Vicent Ferrer [ˈsaɱ viˈsɛɱ feˈreɾ]; hiszpański: San Vicente Ferrer; włoski: San Vincenzo Ferreri; niemiecki: Sankt Vinzenz Ferrer; niderlandzki: Sint-Vincent Ferrer; francuski: Saint Vincent Ferrier; 23 stycznia 1350 – 5 kwietnia 1419) był walencjańskim dominikaninem, który zyskał sławę jako kaznodzieja, misjonarz i logik. Po wsparciu antypapieża Benedykta XIII podczas schizmy zachodniej, Ferrer podróżował, głosząc kazania w całej Europie Zachodniej i na Wyspach Brytyjskich. Jego kazania przypisuje się w niektórych źródłach nawróceniu 25 000 Żydów na katolicyzm, inne źródła wskazują, że wiązały się one z popieraniem środków przymusowych, takich jak przymusowe przekształcanie synagog w kościoły. Został kanonizowany w 1455 roku.\n\nWczesne życie  \nWincenty był czwartym dzieckiem Guillema Ferrera, notariusza z Palamós, oraz jego żony, Constançy Miquel, prawdopodobnie pochodzącej z samej Walencji lub Girony. Legendy otaczają narodziny Wincentego. Mówiono, że jego ojciec usłyszał we śnie od dominikańskiego zakonnika, iż jego syn będzie sławny na całym świecie. Jego matka podobno nigdy nie odczuwała bólu podczas porodu. Został nazwany na cześć św. Wincentego Męczennika, patrona Walencji. Pościł..."
+}

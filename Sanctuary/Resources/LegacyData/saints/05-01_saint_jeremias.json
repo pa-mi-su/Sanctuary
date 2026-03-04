@@ -1,0 +1,79 @@
+{
+  "id": "05-01_saint_jeremias",
+  "name": "Saint Jeremias",
+  "mmdd": "05-01",
+  "feast": "The First Day of May",
+  "summary": "Enzo Jeremías Fernández is an Argentine professional footballer who plays as a midfielder for Premier League club Chelsea and the Argentina national team. Primarily a central midfielder, he is also capable of playing as a defensive or attacking midfielder.",
+  "biography": "The Patriarchal Cathedral Church of St. George is the principal Eastern Orthodox cathedral located in Istanbul, Turkey, formerly Constantinople. Since about 1600, it has been the seat of the Ecumenical Patriarchate of Constantinople whose leader is regarded as the primus inter pares in the Eastern Orthodox Church, and is frequently looked upon as the spiritual leader of the 300 million Orthodox Christians worldwide.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-01_saint_jeremias.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a3c69d1a040a00efa1fd4ba005c8d2deab488a8ebe057a8243c6e40a579b414b",
+        "langs": {
+          "es": {
+            "translatedHash": "dc729299fd441f6d12cea3b0cba2f407f48d65912479a62f8fc82b136520f3d7",
+            "updatedAt": "2026-02-24T23:17:47.479Z"
+          },
+          "pl": {
+            "translatedHash": "45eca0f69ed4749327336f3da1d084759cbdbe328bb301b7cafb89a0d13c69b1",
+            "updatedAt": "2026-02-24T23:17:48.066Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "64c26137e590cd5a7c7c8a69f6611ac260af84be289693732030f15b346d8593",
+        "langs": {
+          "es": {
+            "translatedHash": "f332ef5745be127be48fe78d073bc915a262615900bb3ffd644fdd12bcef5144",
+            "updatedAt": "2026-02-24T23:17:48.649Z"
+          },
+          "pl": {
+            "translatedHash": "f20bda78b50abc5e6f21449b9c2a03c60a7260faee16a0a381697fa3487312c6",
+            "updatedAt": "2026-02-24T23:17:49.274Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bd440268e241b3263b7c9a367078fd0cba395179fbd3849704c9e68644d5aa3b",
+        "langs": {
+          "es": {
+            "translatedHash": "62a593dc683253b30ebaaf308bf307a4bf47212c54ad1a47316a7469f1854817",
+            "updatedAt": "2026-02-24T23:17:51.522Z"
+          },
+          "pl": {
+            "translatedHash": "d755d45a9e1477936366292d9ffea2b3c9425739584e2b075d406c1dfc84b952",
+            "updatedAt": "2026-02-24T23:17:52.784Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6b91a82976de353ed68eca9ea8ea719a0531ca45eea82ae540a49c3617535010",
+        "langs": {
+          "es": {
+            "translatedHash": "cc22fa11ef3e01b7a30baaeb00f4830e6b5bf81a93a92b29aebecaaa3dada69c",
+            "updatedAt": "2026-02-24T23:17:54.629Z"
+          },
+          "pl": {
+            "translatedHash": "4479fa800f974d7e43dafc28eb840e1da9c6e9204766a8ec02158f3a4c0d32f9",
+            "updatedAt": "2026-02-24T23:17:58.528Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jeremías",
+  "name_pl": "Święty Jeremiasz",
+  "feast_es": "El Primer Día de Mayo",
+  "feast_pl": "Pierwszy Dzień Maja",
+  "summary_es": "Enzo Jeremías Fernández es un futbolista profesional argentino que juega como mediocampista para el club Chelsea de la Premier League y la selección nacional de Argentina. Principalmente es un mediocampista central, pero también es capaz de jugar como mediocampista defensivo o ofensivo.",
+  "summary_pl": "Enzo Jeremías Fernández jest argentyńskim zawodowym piłkarzem, który gra na pozycji pomocnika w klubie Premier League Chelsea oraz w reprezentacji Argentyny. Przede wszystkim jest środkowym pomocnikiem, ale potrafi również grać jako defensywny lub ofensywny pomocnik.",
+  "biography_es": "La Catedral Patriarcal de San Jorge es la principal catedral ortodoxa oriental ubicada en Estambul, Turquía, antiguamente Constantinopla. Desde aproximadamente 1600, ha sido la sede del Patriarcado Ecuménico de Constantinopla, cuyo líder es considerado el primus inter pares en la Iglesia Ortodoxa Oriental, y con frecuencia es visto como el líder espiritual de los 300 millones de cristianos ortodoxos en todo el mundo.",
+  "biography_pl": "Patriarchalna Katedra św. Jerzego jest główną katedrą Kościoła prawosławnego wschodniego, położoną w Stambule w Turcji, dawniej Konstantynopolu. Od około 1600 roku jest siedzibą Ekumenicznego Patriarchatu Konstantynopola, którego zwierzchnik uważany jest za primus inter pares w Kościele prawosławnym wschodnim i jest często postrzegany jako duchowy przywódca 300 milionów prawosławnych chrześcijan na całym świecie."
+}

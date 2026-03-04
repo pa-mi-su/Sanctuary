@@ -1,0 +1,79 @@
+{
+  "id": "02-02_blessed_virgin_mary",
+  "name": "Blessed Virgin Mary",
+  "mmdd": "02-02",
+  "feast": "The Second Day of February",
+  "summary": "Candlemas, also known as the Feast of the Presentation of Jesus Christ, the Feast of the Purification of the Blessed Virgin Mary, or the Feast of the Holy Encounter, is a Christian feast day commemorating the presentation of Jesus at the Temple by Joseph and Mary. It is based upon the account of the presentation of Jesus in Luke 2:22–40.",
+  "biography": "Candlemas, also known as the Feast of the Presentation of Jesus Christ, the Feast of the Purification of the Blessed Virgin Mary, or the Feast of the Holy Encounter, is a Christian feast day commemorating the presentation of Jesus at the Temple by Joseph and Mary. It is based upon the account of the presentation of Jesus in Luke 2:22–40. \nAccording to the Old Testament rules in Leviticus 12, a woman was to be purified by presenting a lamb as a burnt offering, and either a young pigeon or dove as sin offering, 33 days after a boy's circumcision. The feast falls on 2 February, which is traditionally the 40th day of and the conclusion of the Christmas–Epiphany season.\nWhile it is customary for Christians in some countries to remove their Christmas decorations on Twelfth Night (Epiphany Eve), those in other Christian countries historically remove them after Candlemas. On Candlemas, many Christians (especially Catholics, Eastern Orthodox, Evangelical-Lutherans, and Anglicans) also take their candles to their local church, where they are blessed and then used for the rest of the year; for Christians, these blessed candles serve as a symbol of Jesus Christ, whom they refer to as the “Light...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Candlemas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-02_blessed_virgin_mary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "490b595b3b7482adac9422f0a6a2a9d0ed9627f450d5754588556851af9bf2de",
+        "langs": {
+          "es": {
+            "translatedHash": "8da3848851d4e09fa28859d368dfb9258689a4785eb12a139866babe91455ea3",
+            "updatedAt": "2026-02-24T22:27:31.718Z"
+          },
+          "pl": {
+            "translatedHash": "9b0403b626232dd1cd3024139c58fbf6489445f788470a136190437386a58b26",
+            "updatedAt": "2026-02-24T22:27:32.423Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "206f0826d9d6d206718e4bfc59a136c764f16a9245cda1ced495212e6ecd2695",
+        "langs": {
+          "es": {
+            "translatedHash": "3fee96008de17eb5c30f1c5ba9d1b0a7688d9a8a9c99a85811d9729eb62d01f4",
+            "updatedAt": "2026-02-24T22:27:33.011Z"
+          },
+          "pl": {
+            "translatedHash": "2c0658fae736fc14d173e62baa652e14fae2a3a1bdc3f254b9f5f7c545488662",
+            "updatedAt": "2026-02-24T22:27:33.540Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a40289a730ef928ef3a9215dd32e1127a34d503bcfac8118848658e7c23596d7",
+        "langs": {
+          "es": {
+            "translatedHash": "3dd3d3d0fdb050ec40c73d0357bd2f462fea9c016cc6bfb06fcac41869c42a54",
+            "updatedAt": "2026-02-24T22:27:34.790Z"
+          },
+          "pl": {
+            "translatedHash": "01cbb25c411a4917a800ea5de7e94e481c871442a52b7d55d3b276b225f1c52c",
+            "updatedAt": "2026-02-24T22:27:36.716Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8a20bdbd72e65027c5e6702e84b5472ddbded84eb3ec6281fcc078711070c008",
+        "langs": {
+          "es": {
+            "translatedHash": "f7b4af25210e16a2d1029a4547b81d1e8864b2061b5539798529c2635ed8683e",
+            "updatedAt": "2026-02-24T22:27:44.062Z"
+          },
+          "pl": {
+            "translatedHash": "c75e61535bf2ec7a08d3d3d0e86f35b12a2483e1c85ce91ee1d82c0992568e53",
+            "updatedAt": "2026-02-24T22:27:50.692Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Virgen María",
+  "name_pl": "Błogosławiona Dziewica Maryja",
+  "feast_es": "El Segundo Día de Febrero",
+  "feast_pl": "Drugi dzień lutego",
+  "summary_es": "La Candelaria, también conocida como la Fiesta de la Presentación de Jesucristo, la Fiesta de la Purificación de la Santísima Virgen María, o la Fiesta del Santo Encuentro, es una fiesta cristiana que conmemora la presentación de Jesús en el Templo por José y María. Está basada en el relato de la presentación de Jesús en Lucas 2:22–40.",
+  "summary_pl": "Ofiarowanie Pańskie, znane również jako Święto Ofiarowania Jezusa Chrystusa, Święto Oczyszczenia Najświętszej Maryi Panny lub Święto Świętego Spotkania, jest chrześcijańskim świętem upamiętniającym ofiarowanie Jezusa w Świątyni przez Józefa i Maryję. Opiera się na opisie ofiarowania Jezusa zawartym w Ewangelii według św. Łukasza 2,22–40.",
+  "biography_es": "La Candelaria, también conocida como la Fiesta de la Presentación de Jesucristo, la Fiesta de la Purificación de la Santísima Virgen María, o la Fiesta del Santo Encuentro, es una fiesta cristiana que conmemora la presentación de Jesús en el Templo por José y María. Se basa en el relato de la presentación de Jesús en Lucas 2:22–40.  \nSegún las reglas del Antiguo Testamento en Levítico 12, una mujer debía purificarse presentando un cordero como ofrenda quemada, y una paloma joven o tórtola como ofrenda por el pecado, 33 días después de la circuncisión de un niño. La fiesta se celebra el 2 de febrero, que tradicionalmente es el día 40 y la conclusión de la temporada de Navidad–Epifanía.  \nMientras que es costumbre para los cristianos en algunos países retirar sus decoraciones navideñas en la Noche de Reyes (víspera de la Epifanía), en otros países cristianos históricamente se retiran después de la Candelaria. En la Candelaria, muchos cristianos (especialmente católicos, ortodoxos orientales, evangélico-luteranos y anglicanos) también llevan sus velas a su iglesia local, donde son bendecidas y luego usadas durante el resto del año; para los cristianos, estas velas bendecidas sirven como símbolo de Jesucristo, a quien llaman la “Luz...",
+  "biography_pl": "Ofiarowanie Pańskie, znane również jako Święto Ofiarowania Jezusa Chrystusa, Święto Oczyszczenia Najświętszej Maryi Panny lub Święto Świętego Spotkania, jest chrześcijańskim świętem upamiętniającym ofiarowanie Jezusa w świątyni przez Józefa i Maryję. Opiera się na opisie ofiarowania Jezusa w Ewangelii według św. Łukasza 2,22–40.  \nZgodnie z przepisami Starego Testamentu zawartymi w Księdze Kapłańskiej 12, kobieta miała zostać oczyszczona przez ofiarowanie baranka jako całopalenia oraz młodego gołębia lub synogarlicy jako ofiary za grzechy, 33 dni po obrzezaniu chłopca. Święto przypada na 2 lutego, które tradycyjnie jest 40. dniem i zakończeniem okresu Bożego Narodzenia i Objawienia Pańskiego.  \nPodczas gdy w niektórych krajach chrześcijanie zwyczajowo zdejmują dekoracje bożonarodzeniowe w Trzech Króli (wigilia Objawienia Pańskiego), w innych krajach chrześcijańskich tradycyjnie robi się to po Ofiarowaniu Pańskim. W dniu Ofiarowania Pańskiego wielu chrześcijan (zwłaszcza katolików, prawosławnych, ewangelicko-luterańskich i anglikańskich) przynosi swoje świece do lokalnego kościoła, gdzie są one poświęcane, a następnie używane przez cały rok; dla chrześcijan te poświęcone świece są symbolem Jezusa Chrystusa, którego nazywają „Światłem..."
+}

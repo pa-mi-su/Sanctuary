@@ -1,0 +1,48 @@
+{
+  "id": "11-15_saint_albert_the_great_bishop_and_doctor_optional_memorial",
+  "name": "Saint Albert the Great, Bishop and Doctor—Optional Memorial",
+  "mmdd": "11-15",
+  "feast": "The Fifteenth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_Fathers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-15_saint_albert_the_great_bishop_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e794e4ef4ae0971de4699ca621a6c57727d49ccaf895d431e0df7dc5a4271a46",
+        "langs": {
+          "es": {
+            "translatedHash": "59ba32c20176f05b9019ed3cd7e42d5a631d28c76a6ee030a3a6bea24f1eb8cf",
+            "updatedAt": "2026-02-25T01:08:05.375Z"
+          },
+          "pl": {
+            "translatedHash": "b13dd243df15356b6399139876f65df5f275ad762645fcb003a0b7ddc1d6bc40",
+            "updatedAt": "2026-02-25T01:08:06.333Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1496c72066b67e925edab84e2308f5032fa97f451a81108f713de3a149ffba24",
+        "langs": {
+          "es": {
+            "translatedHash": "084646644c64b3df1196d39e2e768d95894ef550708ae20b2eb420e39e96bcb9",
+            "updatedAt": "2026-02-25T01:08:07.499Z"
+          },
+          "pl": {
+            "translatedHash": "ee1e9c54ef86c33a76fa6bce5a8574a449be888e25510d319629f4e09e8588fa",
+            "updatedAt": "2026-02-25T01:08:08.602Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Alberto Magno, Obispo y Doctor—Memoria Opcional",
+  "name_pl": "Święty Albert Wielki, Biskup i Doktor Kościoła — Wspomnienie dowolne",
+  "feast_es": "El Quince de Noviembre",
+  "feast_pl": "Piętnasty dzień listopada"
+}

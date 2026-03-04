@@ -1,0 +1,79 @@
+{
+  "id": "08-29_saint_john_the_baptist",
+  "name": "Saint John the Baptist",
+  "mmdd": "08-29",
+  "feast": "The Twenty-Ninth Day of August",
+  "summary": "The beheading of John the Baptist, also known as the decollation of Saint John the Baptist or the beheading of the Forerunner, is a biblical event commemorated as a holy day by various Christian churches. According to the New Testament, Herod Antipas, ruler of Galilee under the Roman Empire, had imprisoned John the Baptist because he had publicly reproved Herod for divorcing his first wife and unlawfully taking his sister-in-law Herodias as his second wife. He then ordered him to be killed by beheading.",
+  "biography": "Traditional accounts\nAccording to the synoptic Gospels, Herod Antipas, who was tetrarch of Galilee and Perea under the Roman Empire, had imprisoned John the Baptist because he had admonished Antipas for divorcing his wife (Phasaeli, daughter of King Aretas of Nabataea) and unlawfully taking Herodias, the wife of...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beheading_of_John_the_Baptist",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-29_saint_john_the_baptist.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "61a1433253f22ff4fbcaeb821057499b8e378ad9ab660ee7cd37a6bb401d17cd",
+        "langs": {
+          "es": {
+            "translatedHash": "3b1bd04d61756af3fb54bb3c93b4f1bac4118363aebe17ee3c1b108836b5c35b",
+            "updatedAt": "2026-02-25T00:23:17.775Z"
+          },
+          "pl": {
+            "translatedHash": "4f560655b3944b575b469b34a70cf69e5e0c53b799ee9d1a80b22a9453dc5861",
+            "updatedAt": "2026-02-25T00:23:18.454Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7bd976c274b304a8f388d0b189d479c19cf259c73fffb0b1a349539c6c20bf6c",
+        "langs": {
+          "es": {
+            "translatedHash": "1f4f473bcfa41c0a45d0ccc0a873be5de4a7f239df52a5e3f767c30c1a86eb52",
+            "updatedAt": "2026-02-25T00:23:19.021Z"
+          },
+          "pl": {
+            "translatedHash": "edb67faaca1bcec85ac510d17957d4946fbf4995304dbc19e6ffb0589835941b",
+            "updatedAt": "2026-02-25T00:23:20.941Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ced09c38500c9b4eced811217d6c990152c64d4fe8d52fa26fefe247a6b6dc92",
+        "langs": {
+          "es": {
+            "translatedHash": "3d6c44b8619d8e1f6769d2c8bdb67bffaf826efd9640bd4db33cf665b7d8c39f",
+            "updatedAt": "2026-02-25T00:23:23.791Z"
+          },
+          "pl": {
+            "translatedHash": "859e51fe60f8cec7d8938f8358796a04e0ef766fbc8d8dc9ef5cadeb6b0ea8ae",
+            "updatedAt": "2026-02-25T00:23:26.092Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ce3da45fbb20066ad723a7494cb97d92c22e635b04a1abf4d6dac0d7ac75660b",
+        "langs": {
+          "es": {
+            "translatedHash": "0c87507b5cd5d15fb1f0dd4afb75ef4840359de76e123cb6324a960aa2df0678",
+            "updatedAt": "2026-02-25T00:23:28.050Z"
+          },
+          "pl": {
+            "translatedHash": "f2d64535d8acd2c35b7b982824d61e38703aadc8ce061f79b1dff210693c09b5",
+            "updatedAt": "2026-02-25T00:23:29.880Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bautista",
+  "name_pl": "Święty Jan Chrzciciel",
+  "feast_es": "El Vigésimo Noveno Día de Agosto",
+  "feast_pl": "Dwudziesty dziewiąty dzień sierpnia",
+  "summary_es": "La decapitación de Juan el Bautista, también conocida como la decollación de San Juan Bautista o la decapitación del Precursor, es un evento bíblico conmemorado como día santo por varias iglesias cristianas. Según el Nuevo Testamento, Herodes Antipas, gobernante de Galilea bajo el Imperio Romano, había encarcelado a Juan el Bautista porque le había reprochado públicamente por divorciarse de su primera esposa y tomar ilegalmente a Herodías, su cuñada, como su segunda esposa. Luego ordenó que lo mataran por decapitación.",
+  "summary_pl": "Ścięcie Jana Chrzciciela, znane również jako dekolacja św. Jana Chrzciciela lub ścięcie Prekursora, jest wydarzeniem biblijnym upamiętnianym jako dzień święty przez różne kościoły chrześcijańskie. Według Nowego Testamentu, Herod Antypas, władca Galilei pod panowaniem Cesarstwa Rzymskiego, uwięził Jana Chrzciciela, ponieważ publicznie upomniał Heroda za rozwód z pierwszą żoną i bezprawne poślubienie swojej bratowej Herodiady jako drugiej żony. Następnie rozkazał jego ścięcie.",
+  "biography_es": "Relatos tradicionales  \nSegún los Evangelios sinópticos, Herodes Antipas, que era tetrarca de Galilea y Perea bajo el Imperio Romano, había encarcelado a Juan el Bautista porque le había amonestado por divorciarse de su esposa (Fasaelí, hija del rey Aretas de Nabatea) y tomar ilícitamente a Herodías, la esposa de...",
+  "biography_pl": "Tradycyjne relacje  \nWedług Ewangelii synoptycznych, Herod Antypas, tetrarcha Galilei i Perei pod panowaniem Cesarstwa Rzymskiego, uwięził Jana Chrzciciela, ponieważ upominał Antypasa za rozwód z jego żoną (Fazelią, córką króla Arety z Nabatei) i bezprawne poślubienie Herodiady, żony..."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-13_saint_john_chrysostom_bishop_and_doctor_memorial",
+  "name": "Saint John Chrysostom, Bishop and Doctor—Memorial",
+  "mmdd": "09-13",
+  "feast": "The Thirteenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-13_saint_john_chrysostom_bishop_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3a92778ffc99235ba65c607920bfa0ae0cf35a349bd8549d59999461d3a0f45b",
+        "langs": {
+          "es": {
+            "translatedHash": "dc98bb5502151f0ddf1f20e8e4a12e2a54dda3aa50a502d64fa686cf91a7d872",
+            "updatedAt": "2026-02-25T00:30:31.582Z"
+          },
+          "pl": {
+            "translatedHash": "0b1f7b45a1be55d632f5d748f26fcc77d5e73a636d1f09f81d12c4abc32c4994",
+            "updatedAt": "2026-02-25T00:30:32.605Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bf8bc3fba1d10079e536526a59ce71d9dd4d00b26d3812e6c9f5b422d02f2ad5",
+        "langs": {
+          "es": {
+            "translatedHash": "225091e5ce4cd642b81ab3f21cfde323f64f623909de1c4b1c763a6adae3ed9c",
+            "updatedAt": "2026-02-25T00:30:33.267Z"
+          },
+          "pl": {
+            "translatedHash": "d1416711b9ed234880d575b9c1f09a6ee83acfc89c73c805e59d5825b8a6fa84",
+            "updatedAt": "2026-02-25T00:30:34.202Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Crisóstomo, Obispo y Doctor—Memorial",
+  "name_pl": "Święty Jan Chryzostom, Biskup i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Decimotercer Día de Septiembre",
+  "feast_pl": "Trzynasty Dzień Września"
+}

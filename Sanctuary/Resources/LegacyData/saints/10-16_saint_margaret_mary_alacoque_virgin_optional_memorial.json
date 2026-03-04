@@ -1,0 +1,48 @@
+{
+  "id": "10-16_saint_margaret_mary_alacoque_virgin_optional_memorial",
+  "name": "Saint Margaret Mary Alacoque, Virgin—Optional Memorial",
+  "mmdd": "10-16",
+  "feast": "The Sixteenth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustina_Kowalska"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-16_saint_margaret_mary_alacoque_virgin_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "463fe513403a793b777ebe21239aec749d3069166f45c5efac9bbe713df328ab",
+        "langs": {
+          "es": {
+            "translatedHash": "bc0570173a9dbc604f44d65425926531b7ea285042f99b79468bc10355b3ddaa",
+            "updatedAt": "2026-02-25T00:50:57.833Z"
+          },
+          "pl": {
+            "translatedHash": "7d712e81f99560a4aee339135baf80eaf611808f7ca0d28d0e114ea852ed8f87",
+            "updatedAt": "2026-02-25T00:50:58.644Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f1f2e6c74e1d4d49166d56cc6cf60c22e59730cc8709d39408b9ebd8fdbba02c",
+        "langs": {
+          "es": {
+            "translatedHash": "08c08c3d25dc8da887481b37a824062cadbc0621367654ed8c327032a87021f3",
+            "updatedAt": "2026-02-25T00:50:59.379Z"
+          },
+          "pl": {
+            "translatedHash": "8481efab795b37fd642f0e7a4c843f49e5674bf6e70385621804d20ad353397e",
+            "updatedAt": "2026-02-25T00:51:00.003Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Margarita María Alacoque, Virgen—Memoria Opcional",
+  "name_pl": "Święta Małgorzata Maria Alacoque, Dziewica — Wspomnienie dowolne",
+  "feast_es": "El Dieciséis de Octubre",
+  "feast_pl": "Szesnasty dzień października"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-28_saint_irenaeus",
+  "name": "Saint Irenaeus",
+  "mmdd": "06-28",
+  "feast": "The Twenty-Eighth day of June",
+  "summary": "Irenaeus was a Greek bishop noted for his role in guiding and expanding Christian communities in the southern regions of present-day France and, more widely, for the development of Christian theology by opposing Gnostic interpretations of Christian Scripture and defending orthodoxy. Originating from Smyrna, he had seen and heard the preaching of Polycarp, who in turn was said to have heard John the Evangelist.",
+  "biography": "Irenaeus was a Greek bishop noted for his role in guiding and expanding Christian communities in the southern regions of present-day France and, more widely, for the development of Christian theology by opposing Gnostic interpretations of Christian Scripture and defending orthodoxy. Originating from Smyrna, he had seen and heard the preaching of Polycarp, who in turn was said to have heard John the Evangelist.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irenaeus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-28_saint_irenaeus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3ea61f9e63ee17cab512617d09938ce216c9969a6ab2889fa41a8d0ff4dba85b",
+        "langs": {
+          "es": {
+            "translatedHash": "006f5bb209d3674da5fdf798f33c61805922d12c595db6ceafccd54dae563d09",
+            "updatedAt": "2026-02-24T23:49:43.728Z"
+          },
+          "pl": {
+            "translatedHash": "c8f5c34f40024b9aaedb4f8385d84db8f64aca2997ef139051a78621174308a3",
+            "updatedAt": "2026-02-24T23:49:44.204Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bc449ae75252cd455c6d2e7eb61edfd03adc7e54b0478a67c64311ef009d6fa9",
+        "langs": {
+          "es": {
+            "translatedHash": "e271ed14138507afd801e521c6d7c048f960434cf9c870f2905422dd66ede437",
+            "updatedAt": "2026-02-24T23:49:44.887Z"
+          },
+          "pl": {
+            "translatedHash": "f5b0eadff54be8aa6a60264c3379e8d9667a6a7ccd42f7d4540874c85afcc365",
+            "updatedAt": "2026-02-24T23:49:45.636Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "48d4b00de976b1dd1f983780dcb60f1e74ffec28b77bcab8a3339ebd9f5d8df3",
+        "langs": {
+          "es": {
+            "translatedHash": "cacf0e9a8005297dfc6b7fd0384029b494ab44dbcdd9632a888c38e42009d0b3",
+            "updatedAt": "2026-02-24T23:49:48.629Z"
+          },
+          "pl": {
+            "translatedHash": "887d31642ac3381826fcd272eec141f806f3f761b80d2c87b533435e38754cbc",
+            "updatedAt": "2026-02-24T23:49:50.392Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "48d4b00de976b1dd1f983780dcb60f1e74ffec28b77bcab8a3339ebd9f5d8df3",
+        "langs": {
+          "es": {
+            "translatedHash": "cacf0e9a8005297dfc6b7fd0384029b494ab44dbcdd9632a888c38e42009d0b3",
+            "updatedAt": "2026-02-24T23:49:53.249Z"
+          },
+          "pl": {
+            "translatedHash": "e6fdf548e8e95d573ba147fcebf5e71975fe7634b07122fe13b29aa43b970ea9",
+            "updatedAt": "2026-02-24T23:49:55.980Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ireneo",
+  "name_pl": "Święty Ireneusz",
+  "feast_es": "El vigésimo octavo día de junio",
+  "feast_pl": "Dwudziesty ósmy dzień czerwca",
+  "summary_es": "Ireneo fue un obispo griego conocido por su papel en guiar y expandir las comunidades cristianas en las regiones del sur de la actual Francia y, más ampliamente, por el desarrollo de la teología cristiana al oponerse a las interpretaciones gnósticas de las Escrituras cristianas y defender la ortodoxia. Originario de Esmirna, había visto y escuchado la predicación de Policarpo, quien a su vez se decía que había escuchado a Juan el Evangelista.",
+  "summary_pl": "Irenaeusz był greckim biskupem znanym z roli w kierowaniu i rozwoju wspólnot chrześcijańskich na południu dzisiejszej Francji, a szerzej – z rozwoju teologii chrześcijańskiej poprzez sprzeciw wobec gnostyckich interpretacji Pisma Świętego i obronę ortodoksji. Pochodzący ze Smyrny, widział i słyszał kazania Polikarpa, który z kolei miał słyszeć Jana Ewangelistę.",
+  "biography_es": "Ireneo fue un obispo griego conocido por su papel en guiar y expandir las comunidades cristianas en las regiones del sur de la actual Francia y, más ampliamente, por el desarrollo de la teología cristiana al oponerse a las interpretaciones gnósticas de las Escrituras cristianas y defender la ortodoxia. Originario de Esmirna, había visto y escuchado la predicación de Policarpo, quien a su vez se decía que había escuchado a Juan el Evangelista.",
+  "biography_pl": "Irenaeusz był greckim biskupem znanym z roli w kierowaniu i rozwoju wspólnot chrześcijańskich na południu dzisiejszej Francji, a szerzej – z rozwoju teologii chrześcijańskiej poprzez sprzeciw wobec gnostyckich interpretacji Pisma Świętego oraz obronę ortodoksji. Pochodzący ze Smyrny, widział i słyszał kazania Polikarpa, który z kolei miał słyszeć Jana Ewangelistę."
+}

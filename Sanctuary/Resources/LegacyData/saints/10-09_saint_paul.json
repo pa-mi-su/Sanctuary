@@ -1,0 +1,79 @@
+{
+  "id": "10-09_saint_paul",
+  "name": "Saint Paul",
+  "mmdd": "10-09",
+  "feast": "The Ninth Day of October",
+  "summary": "Saint Paul is the capital city of the U.S. state of Minnesota and the county seat of Ramsey County. As of the 2020 census, the city had a population of 311,527, making it Minnesota's second-most populous city and the 63rd-most populous in the United States. Saint Paul and neighboring Minneapolis form the core of the Twin Cities metropolitan area, the third most populous in the Midwest with around 3.7 million residents.",
+  "biography": "Saint Paul (often abbreviated to St. Paul) is the capital city of the U.S. state of Minnesota and the county seat of Ramsey County. As of the 2020 census, the city had a population of 311,527, making it Minnesota's second-most populous city and the 63rd-most populous in the United States. Saint Paul and neighboring Minneapolis form the core of the Twin Cities metropolitan area, the third most populous in the Midwest with around 3.7 million residents.\nThe Minnesota State Capitol and the state government offices sit on a hill next to downtown Saint Paul overlooking a bend in the Mississippi River. Local cultural offerings include the Science Museum of Minnesota, the Ordway Center for the Performing Arts, and the Minnesota History Center. Three of the region's professional sports teams play in Saint Paul: the Minnesota Wild and Frost (at the Grand Casino Arena) and Minnesota United FC (at Allianz Field). The minor-league baseball team the St. Paul Saints play at CHS Field, 10 miles (16 km) from their major-league affiliate the Minnesota Twins in downtown Minneapolis.\nThe Legislative Assembly of the Minnesota Territory established the Town of Saint Paul as its capital near existing Dakota...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Paul%2C_Minnesota",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-09_saint_paul.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9300638e2f31dd62752df827a384e6a4e0ef83341b72d1b17dfa16a623e12d1e",
+        "langs": {
+          "es": {
+            "translatedHash": "c9eeda398124bbd9d553fecb7e0effb981b02a13aeb6492fe73310a778f87a44",
+            "updatedAt": "2026-02-25T00:46:49.640Z"
+          },
+          "pl": {
+            "translatedHash": "48011ae096e3d4d769c693cb0f8b62c27e1d7959ceacd2ea71c65dd9c32a60b3",
+            "updatedAt": "2026-02-25T00:46:50.195Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "042b1250b4a0cabea3ecf8d42afd5324eefed7dd979ac2eb20c54735944eb097",
+        "langs": {
+          "es": {
+            "translatedHash": "84fc8e414a07edef4731fa06428de56cabc416f2b12c02fff319d5db6f5bc564",
+            "updatedAt": "2026-02-25T00:46:50.793Z"
+          },
+          "pl": {
+            "translatedHash": "531655b431945d5ef7208c3ac07e5233721b7c7ebad2e08ccd86fdc33b05c689",
+            "updatedAt": "2026-02-25T00:46:51.383Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a405d4ff6af69110972a4977a6b8e20b2b1860a7d2a55378b3682389cffa0f91",
+        "langs": {
+          "es": {
+            "translatedHash": "ebeaad24cdb41ee9cf460f8a20247f6fd1ba4ab8c67eefbc90520ab6d2e77d89",
+            "updatedAt": "2026-02-25T00:46:53.506Z"
+          },
+          "pl": {
+            "translatedHash": "29e7ae863c806582262117a9d87a938d12491b3cca92e179fbc53bdd15f8a7bb",
+            "updatedAt": "2026-02-25T00:46:56.868Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b456aef58f7b897bcdd79b926503cd7f01c364963e73ac716504e5fd5d972e3e",
+        "langs": {
+          "es": {
+            "translatedHash": "36826eb818d81731fd259641d4bb2cf8f6a7554de37591b1efa02aee5f60fa8c",
+            "updatedAt": "2026-02-25T00:47:00.289Z"
+          },
+          "pl": {
+            "translatedHash": "e31baa76eabf7e6f7548a633fca5ce30756003ef3c571d75c922aba02bcb02af",
+            "updatedAt": "2026-02-25T00:47:05.509Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pablo",
+  "name_pl": "Święty Paweł",
+  "feast_es": "El Noveno Día de Octubre",
+  "feast_pl": "Dziewiąty dzień października",
+  "summary_es": "San Pablo es la capital del estado de Minnesota en los Estados Unidos y la sede del condado de Ramsey. Según el censo de 2020, la ciudad tenía una población de 311,527 habitantes, lo que la convierte en la segunda ciudad más poblada de Minnesota y la 63ª más poblada de los Estados Unidos. San Pablo y la vecina Minneapolis forman el núcleo del área metropolitana de las Ciudades Gemelas, la tercera más poblada del Medio Oeste con alrededor de 3.7 millones de residentes.",
+  "summary_pl": "Święty Paweł jest stolicą stanu Minnesota w USA oraz siedzibą władz hrabstwa Ramsey. Według spisu ludności z 2020 roku miasto liczyło 311 527 mieszkańców, co czyni je drugim co do wielkości miastem Minnesoty oraz 63. co do liczby ludności w Stanach Zjednoczonych. Święty Paweł i sąsiadujące Minneapolis tworzą rdzeń obszaru metropolitalnego Twin Cities, trzeciego co do wielkości na Środkowym Zachodzie, z około 3,7 miliona mieszkańców.",
+  "biography_es": "San Pablo (a menudo abreviado como St. Paul) es la ciudad capital del estado de Minnesota en los Estados Unidos y la sede del condado de Ramsey. Según el censo de 2020, la ciudad tenía una población de 311,527 habitantes, lo que la convierte en la segunda ciudad más poblada de Minnesota y la 63ª más poblada de los Estados Unidos. San Pablo y la vecina Minneapolis forman el núcleo del área metropolitana de las Ciudades Gemelas, la tercera más poblada del Medio Oeste con alrededor de 3.7 millones de residentes.\n\nEl Capitolio del Estado de Minnesota y las oficinas del gobierno estatal se encuentran en una colina junto al centro de San Pablo, con vista a una curva del río Mississippi. Las ofertas culturales locales incluyen el Museo de Ciencia de Minnesota, el Centro Ordway para las Artes Escénicas y el Centro de Historia de Minnesota. Tres de los equipos deportivos profesionales de la región juegan en San Pablo: los Minnesota Wild y Frost (en el Grand Casino Arena) y Minnesota United FC (en Allianz Field). El equipo de béisbol de ligas menores St. Paul Saints juega en CHS Field, a 10 millas (16 km) de su afiliado de las grandes ligas, los Minnesota Twins, en el centro de Minneapolis.\n\nLa Asamblea Legislativa del Territorio de Minnesota estableció la Ciudad de San Pablo como su capital cerca de los ya existentes Dakota...",
+  "biography_pl": "Święty Paweł (często skracany do św. Paweł) jest stolicą stanu Minnesota w USA oraz siedzibą hrabstwa Ramsey. Według spisu ludności z 2020 roku miasto liczyło 311 527 mieszkańców, co czyni je drugim co do wielkości miastem Minnesoty oraz 63. pod względem liczby ludności w Stanach Zjednoczonych. Święty Paweł i sąsiedni Minneapolis tworzą rdzeń obszaru metropolitalnego Twin Cities, trzeciego co do wielkości na Środkowym Zachodzie, z około 3,7 miliona mieszkańców.\n\nKapitol stanu Minnesota oraz urzędy rządowe znajdują się na wzgórzu obok centrum Świętego Pawła, z widokiem na zakręt rzeki Missisipi. Lokalne oferty kulturalne obejmują Muzeum Nauki Minnesoty, Centrum Sztuk Widowiskowych Ordway oraz Centrum Historii Minnesoty. Trzy profesjonalne drużyny sportowe regionu grają w Świętym Pawle: Minnesota Wild i Frost (na Grand Casino Arena) oraz Minnesota United FC (na Allianz Field). Drużyna baseballowa z niższej ligi, St. Paul Saints, gra na CHS Field, 10 mil (16 km) od swojego klubu macierzystego Minnesota Twins w centrum Minneapolis.\n\nZgromadzenie Ustawodawcze Terytorium Minnesoty ustanowiło miasto Święty Paweł swoją stolicą w pobliżu istniejącej osady Dakota..."
+}

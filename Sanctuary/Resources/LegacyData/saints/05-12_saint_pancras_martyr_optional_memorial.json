@@ -1,0 +1,48 @@
+{
+  "id": "05-12_saint_pancras_martyr_optional_memorial",
+  "name": "Saint Pancras, Martyr—Optional Memorial",
+  "mmdd": "05-12",
+  "feast": "The Twelfth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pancras_of_Rome"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-12_saint_pancras_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "65f18f33f54f7b683ea744af9453329bd662451b820f68845882e1e50bdb40e5",
+        "langs": {
+          "es": {
+            "translatedHash": "2de26a21ddbabffd1cf3d592aaa7b5381edc4e69af0374e99a5a743c818586c9",
+            "updatedAt": "2026-02-24T23:23:42.322Z"
+          },
+          "pl": {
+            "translatedHash": "deb4fff5bda82b67e8c06264f2a597589f2fe733adc4c94fd78a8e7238173b82",
+            "updatedAt": "2026-02-24T23:23:43.782Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ea383559c70a74c32ff1df1c9684b30dde4bff5b7bbcf72f4e639288e363d262",
+        "langs": {
+          "es": {
+            "translatedHash": "9ac2d3030f9dcfd072634cafba7376623f5cb420396f5e8a2e20a6f26d40997e",
+            "updatedAt": "2026-02-24T23:23:44.368Z"
+          },
+          "pl": {
+            "translatedHash": "bc90288163838261feb1d1931f5db9f25ebb70e111142b1168a6267bd5d5ab16",
+            "updatedAt": "2026-02-24T23:23:44.884Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pancracio, Mártir—Memoria Opcional",
+  "name_pl": "Święty Pancracy, Męczennik — Wspomnienie dowolne",
+  "feast_es": "El Duodécimo Día de Mayo",
+  "feast_pl": "Dwunasty Dzień Maja"
+}

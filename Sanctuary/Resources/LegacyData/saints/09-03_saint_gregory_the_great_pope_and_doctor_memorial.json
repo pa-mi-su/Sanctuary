@@ -1,0 +1,48 @@
+{
+  "id": "09-03_saint_gregory_the_great_pope_and_doctor_memorial",
+  "name": "Saint Gregory the Great, Pope and Doctor—Memorial",
+  "mmdd": "09-03",
+  "feast": "The Third Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Order_of_St._Gregory_the_Great"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-03_saint_gregory_the_great_pope_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9d368c6bbe8f762be0706386131ea1bb27955959bb46b8fb5b86cb5934cefff3",
+        "langs": {
+          "es": {
+            "translatedHash": "11a07c2186d4b84354f3fee6d1b5795644d38fa144d8866568a78cbd702195b4",
+            "updatedAt": "2026-02-25T00:25:20.363Z"
+          },
+          "pl": {
+            "translatedHash": "e370a0c00adb4d64540941539d8e3f0d9f8a0da12f80f6cf4351862c9374f729",
+            "updatedAt": "2026-02-25T00:25:21.317Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c35fad82ebcf20cd080743b4bffe7cd85a3da1d80721bd863fb096d0ceedf110",
+        "langs": {
+          "es": {
+            "translatedHash": "ad096f5490ee3895a3f319e263271ef6b856f8b1ba0e63922b298d3a4f3c9c7f",
+            "updatedAt": "2026-02-25T00:25:21.980Z"
+          },
+          "pl": {
+            "translatedHash": "97c392f7117a82011ff7bd25517a86117520e3262c292856d24603f4451ba97e",
+            "updatedAt": "2026-02-25T00:25:22.840Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio Magno, Papa y Doctor—Memorial",
+  "name_pl": "Święty Grzegorz Wielki, Papież i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Tercer Día de Septiembre",
+  "feast_pl": "Trzeci dzień września"
+}

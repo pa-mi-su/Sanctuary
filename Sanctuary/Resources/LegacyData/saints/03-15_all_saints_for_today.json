@@ -1,0 +1,46 @@
+{
+  "id": "03-15_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-15",
+  "feast": "The Fifteenth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:53:53.607Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-24T22:53:54.628Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c0049843dceed96f94591b95661bbfbb5eca573d79205af9170cc9df1482d984",
+        "langs": {
+          "es": {
+            "translatedHash": "7abbb9c57a0f9379aa4cba016816d8b29e8ba858e88cf1a2695bb76914083dc4",
+            "updatedAt": "2026-02-24T22:53:55.343Z"
+          },
+          "pl": {
+            "translatedHash": "56abb141da42654440903d90931750c6df2a1e5a5fdde7829e79fab95ecb5559",
+            "updatedAt": "2026-02-24T22:53:56.011Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El Quince de Marzo",
+  "feast_pl": "Piętnasty Dzień Marca"
+}

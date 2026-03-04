@@ -1,0 +1,79 @@
+{
+  "id": "12-21_saint_john",
+  "name": "Saint John",
+  "mmdd": "12-21",
+  "feast": "The Twenty-first Day of December",
+  "summary": "John the Apostle, also known as Saint John the Beloved and, in Eastern Orthodox Christianity, Saint John the Theologian, was one of the Twelve Apostles of Jesus according to the New Testament. Generally listed as the youngest apostle, he was the son of Zebedee and Salome. His brother James was another of the Twelve Apostles. The Church Fathers identify him as John the Evangelist, John of Patmos, John the Elder, and the Beloved Disciple, and claim that he outlived the remaining apostles and was the only one to die of natural causes, although modern scholars are divided on the veracity of these claims.",
+  "biography": "John the Apostle is traditionally held to be the author of the Gospel of John, and many Christian denominations believe that he authored several other books of the New Testament (the three Johannine epistles and the Book of Revelation, together with the Gospel of John, are called the Johannine works), depending on whether he is distinguished from, or identified with, John the Evangelist, John the Elder, and John of Patmos.\nAlthough the authorship of the Johannine works has traditionally been attributed to John the Apostle,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-21_saint_john.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "83ff8096fefa3709f95a4e063a5fa1ab88a96cf05e0b368c3deba4f54c21cccf",
+        "langs": {
+          "es": {
+            "translatedHash": "0c754c271376cd8bdaf8e93edba2c6e034afa14925d617aab4f4a3be48f4525d",
+            "updatedAt": "2026-02-25T01:30:12.928Z"
+          },
+          "pl": {
+            "translatedHash": "8f1513263a11b34323a50ba3aa56a22c7feb89574bf58123b1d6f547cb3affb7",
+            "updatedAt": "2026-02-25T01:30:13.495Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6853974ceba1fe3bc2a402ade5814e3037b27f0ab716990d7e86a8a9f2eb2d65",
+        "langs": {
+          "es": {
+            "translatedHash": "71a4b6652aed48c3aae34400e7ec8fe4272a7babf822ca041310b3525e0a10d3",
+            "updatedAt": "2026-02-25T01:30:14.687Z"
+          },
+          "pl": {
+            "translatedHash": "e7fe4d85e63a434ddfb6b30e6f8c27f01d6ed40240459cf19ff2306b160201fc",
+            "updatedAt": "2026-02-25T01:30:15.262Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b4286ae10087d2572f72bf2480f777d0c21809b8fe739bb1136e23f924f521a1",
+        "langs": {
+          "es": {
+            "translatedHash": "f19788047c6e06adb778ccf5a95e0308216f8ba5f582d3d5cc8c7e391dd83015",
+            "updatedAt": "2026-02-25T01:30:18.086Z"
+          },
+          "pl": {
+            "translatedHash": "75064c593ee7cd16319e6cc5a00217123edae2b4002459d74a9ad384f809ead6",
+            "updatedAt": "2026-02-25T01:30:21.839Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3b254e2b04c30c5b46617c06b7f2d35ed3d3418a92c143ef3e9dfec1e7389b45",
+        "langs": {
+          "es": {
+            "translatedHash": "168b5fceddc6c90da316f74d579541562b7b6f628c3b4d0eac6c54f184588ce6",
+            "updatedAt": "2026-02-25T01:30:23.758Z"
+          },
+          "pl": {
+            "translatedHash": "54c146bab26c2cb2d0fd0d4e32cc75cff5b3de541f9e460491aa2944f02bd65c",
+            "updatedAt": "2026-02-25T01:30:31.733Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan",
+  "name_pl": "Święty Jan",
+  "feast_es": "El vigésimo primer día de diciembre",
+  "feast_pl": "Dwudziesty pierwszy dzień grudnia",
+  "summary_es": "Juan el Apóstol, también conocido como San Juan el Amado y, en la Iglesia Ortodoxa Oriental, San Juan el Teólogo, fue uno de los Doce Apóstoles de Jesús según el Nuevo Testamento. Generalmente listado como el apóstol más joven, fue hijo de Zebedeo y Salomé. Su hermano Santiago fue otro de los Doce Apóstoles. Los Padres de la Iglesia lo identifican como Juan el Evangelista, Juan de Patmos, Juan el Anciano y el Discípulo Amado, y afirman que sobrevivió a los demás apóstoles y fue el único que murió de causas naturales, aunque los estudiosos modernos están divididos sobre la veracidad de estas afirmaciones.",
+  "summary_pl": "Jan Apostoł, znany również jako św. Jan Umiłowany oraz, w chrześcijaństwie wschodnim, św. Jan Teolog, był jednym z Dwunastu Apostołów Jezusa według Nowego Testamentu. Zazwyczaj wymieniany jako najmłodszy apostoł, był synem Zebedeusza i Salome. Jego brat Jakub był kolejnym z Dwunastu Apostołów. Ojcowie Kościoła utożsamiają go z Janem Ewangelistą, Janem z Patmos, Janem Starszym oraz Umiłowanym Uczniem, i twierdzą, że przeżył pozostałych apostołów i był jedynym, który zmarł z przyczyn naturalnych, choć współcześni uczeni są podzieleni co do prawdziwości tych twierdzeń.",
+  "biography_es": "Juan el Apóstol es tradicionalmente considerado el autor del Evangelio de Juan, y muchas denominaciones cristianas creen que él escribió varios otros libros del Nuevo Testamento (las tres epístolas joánicas y el Libro de Apocalipsis, junto con el Evangelio de Juan, son llamados las obras joánicas), dependiendo de si se le distingue o se le identifica con Juan el Evangelista, Juan el Anciano y Juan de Patmos.  \nAunque la autoría de las obras joánicas ha sido tradicionalmente atribuida a Juan el Apóstol,...",
+  "biography_pl": "Jan Apostoł jest tradycyjnie uważany za autora Ewangelii Jana, a wiele wyznań chrześcijańskich wierzy, że napisał także kilka innych ksiąg Nowego Testamentu (trzy listy johannejskie oraz Księga Objawienia, wraz z Ewangelią Jana, nazywane są dziełami johannejskimi), w zależności od tego, czy jest odróżniany od, czy utożsamiany z Janem Ewangelistą, Janem Starszym i Janem z Patmos.  \nChociaż autorstwo dzieł johannejskich tradycyjnie przypisuje się Janowi Apostołowi,..."
+}

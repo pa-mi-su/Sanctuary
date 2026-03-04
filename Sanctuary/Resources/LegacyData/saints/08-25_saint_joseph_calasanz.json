@@ -1,0 +1,79 @@
+{
+  "id": "08-25_saint_joseph_calasanz",
+  "name": "Saint Joseph Calasanz",
+  "mmdd": "08-25",
+  "feast": "The Twenty-Fifth Day of August",
+  "summary": "Joseph Calasanz, also known as Joseph Calasanctius and Josephus a Matre Dei, was a Spanish Catholic priest, educator and the founder of the Pious Schools, which provided free education to poor boys. For this purpose he founded the religious order that ran them, commonly known as the Piarists. He became a close friend of the renowned astronomer Galileo Galilei. Joseph is honored as a saint by the Catholic Church, following his 1767 papal canonisation.",
+  "biography": "Joseph Calasanz, also known as Joseph Calasanctius and Josephus a Matre Dei, was a Spanish Catholic priest, educator and the founder of the Pious Schools, which provided free education to poor boys. For this purpose he founded the religious order that ran them, commonly known as the Piarists. He became a close friend of the renowned astronomer Galileo Galilei. Joseph is honored as a saint by the Catholic Church, following his 1767 papal canonisation.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joseph_Calasanz",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-25_saint_joseph_calasanz.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8a406fb3601ac2f89fb49c3f34b4f815a59b48b0978b5ac2340c735500db61e4",
+        "langs": {
+          "es": {
+            "translatedHash": "075c3f36a41f5c79cc2e7ef23cbf241d6e3016a58342ea4c3d060d4b67686fa5",
+            "updatedAt": "2026-02-25T00:21:15.738Z"
+          },
+          "pl": {
+            "translatedHash": "0713a2cb89bea1f26d79664f6bdb3cee811478c956d90e6c21baac0fd179a935",
+            "updatedAt": "2026-02-25T00:21:16.464Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ccc697ac43d36313754694285211110d2f68db5bcfcf94de9fb0a26090d20f47",
+        "langs": {
+          "es": {
+            "translatedHash": "5e37d8f6dcc40d5e6c548b78f0388447223f265cbe27aa464e6f2c17836fd334",
+            "updatedAt": "2026-02-25T00:21:17.240Z"
+          },
+          "pl": {
+            "translatedHash": "77c1125021607e279d4c3a478e8c5c6e204306604b962028da9489d63d8dcbd6",
+            "updatedAt": "2026-02-25T00:21:17.709Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "dd022d48df945e8a3b10bfc8dc594e84988e2806cd7f5648c203537526bcef82",
+        "langs": {
+          "es": {
+            "translatedHash": "7678fe81c389359654bc1ce976779ec9b82ca0dd7b5fe36ad36dfa12f929e43d",
+            "updatedAt": "2026-02-25T00:21:19.925Z"
+          },
+          "pl": {
+            "translatedHash": "ec9213d9ae3582a376c668d49aaee7eeaed2c80bcdddd6bf642f16d788453824",
+            "updatedAt": "2026-02-25T00:21:22.727Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "dd022d48df945e8a3b10bfc8dc594e84988e2806cd7f5648c203537526bcef82",
+        "langs": {
+          "es": {
+            "translatedHash": "f1bff563afc22a39ca9be5d740d252d4a3820978115c495e2302d7283f8759ed",
+            "updatedAt": "2026-02-25T00:21:24.754Z"
+          },
+          "pl": {
+            "translatedHash": "2d21daae675cb8522b3466c9f10ab2c34eb654ad3518e9756ea9cc2ed9e9d09d",
+            "updatedAt": "2026-02-25T00:21:27.032Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San José de Calasanz",
+  "name_pl": "Święty Józef Kalasancjusz",
+  "feast_es": "El vigésimo quinto día de agosto",
+  "feast_pl": "Dwudziesty piąty dzień sierpnia",
+  "summary_es": "José Calasanz, también conocido como José Calasanzio y Josephus a Matre Dei, fue un sacerdote católico español, educador y fundador de las Escuelas Pías, que ofrecían educación gratuita a niños pobres. Para este fin fundó la orden religiosa que las dirigía, comúnmente conocida como los Escolapios. Se convirtió en un amigo cercano del renombrado astrónomo Galileo Galilei. José es honrado como santo por la Iglesia Católica, tras su canonización papal en 1767.",
+  "summary_pl": "Józef Kalasancjusz, znany również jako Józef Kalasancjusz i Josephus a Matre Dei, był hiszpańskim księdzem katolickim, wychowawcą i założycielem Szkół Pobożnych, które zapewniały bezpłatną edukację ubogim chłopcom. W tym celu założył zakon, który nimi zarządzał, powszechnie znany jako pijarzy. Stał się bliskim przyjacielem słynnego astronoma Galileusza. Józef jest czczony jako święty przez Kościół katolicki, po jego kanonizacji papieskiej w 1767 roku.",
+  "biography_es": "José Calasanz, también conocido como José Calasancio y Josephus a Matre Dei, fue un sacerdote católico español, educador y fundador de las Escuelas Pías, que ofrecían educación gratuita a niños pobres. Para este fin fundó la orden religiosa que las dirigía, comúnmente conocida como los Escolapios. Se convirtió en un amigo cercano del renombrado astrónomo Galileo Galilei. José es honrado como santo por la Iglesia Católica, tras su canonización papal en 1767.",
+  "biography_pl": "Józef Kalasancjusz, znany również jako Józef Kalasancjusz i Josephus a Matre Dei, był hiszpańskim księdzem katolickim, wychowawcą i założycielem Szkół Pobożnych, które zapewniały bezpłatną edukację biednym chłopcom. W tym celu założył zakon, który nimi zarządzał, powszechnie znany jako pijarzy. Stał się bliskim przyjacielem słynnego astronoma Galileusza. Józef jest czczony jako święty przez Kościół katolicki, po jego kanonizacji papieskiej w 1767 roku."
+}

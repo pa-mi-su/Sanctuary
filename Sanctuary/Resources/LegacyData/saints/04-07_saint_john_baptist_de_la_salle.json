@@ -1,0 +1,79 @@
+{
+  "id": "04-07_saint_john_baptist_de_la_salle",
+  "name": "Saint John Baptist de la Salle",
+  "mmdd": "04-07",
+  "feast": "The Seventh Day of April",
+  "summary": "Jean-Baptiste de La Salle was a French priest, educational reformer, and founder of the Institute of the Brothers of the Christian Schools. He is a saint of the Catholic Church and the patron saint for teachers of youth.",
+  "biography": "Jean-Baptiste de La Salle (pronounced [ʒɑ̃ batist də la sal]; English: John Baptist de La Salle ; 30 April 1651 – 7 April 1719) was a French priest, educational reformer, and founder of the Institute of the Brothers of the Christian Schools. He is a saint of the Catholic Church and the patron saint for teachers of youth. La Salle dedicated much of his life to the education of poor children in France; in doing so, he started many lasting educational practices. Background La Salle was born to a wealthy family in Reims, France, on 30 April 1651. He was the eldest child of Louis de La Salle and Nicolle Moet de Brouillet. Nicolle's family was a noble one and operated a successful winery business; she was a relative of Claude Moët, founder of Moët & Chandon. La Salle was tonsured at age eleven on 11 March 1662, in an official ceremony that marked a boy's intention, and his parents offer of their young sons, to the service of God. He was named canon of Reims Cathedral when he was sixteen, and at seventeen received minor orders. He was sent to the College des Bons Enfants, where he pursued higher studies and on 10 July 1669 he took the degree of Master of Arts. When De La Salle had completed...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-07_saint_john_baptist_de_la_salle.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8755c8a855f21eb4f22c8de7ddb452e617333c29ee8250894c59ce69fa5b93df",
+        "langs": {
+          "es": {
+            "translatedHash": "92b75baeff0b9d489edc0ac967e84def20f4111459d24766d1070794dc46b47c",
+            "updatedAt": "2026-02-24T23:05:34.540Z"
+          },
+          "pl": {
+            "translatedHash": "e4f2f57287f09916239dab1d7b6495abe2b9244095d9dfdc4dd4b6ee6743a0a5",
+            "updatedAt": "2026-02-24T23:05:35.151Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "adcf42f20f742b2c3ed073b3e5efbdc7c691089a4324ff5c366cc3601852f4dc",
+        "langs": {
+          "es": {
+            "translatedHash": "7eebe54784a33feb3ddcfafa44e2b4856918a3005a2e7e8088dc1e508a253de5",
+            "updatedAt": "2026-02-24T23:05:35.856Z"
+          },
+          "pl": {
+            "translatedHash": "2aa8f0fbabe3ce235ca7ef4155aa82f938ebee5e4186ea8aac5d04bd72977799",
+            "updatedAt": "2026-02-24T23:05:36.465Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "25aa28c40a1bdcd7715a75320319a442b464e9d9183a890f8a687274984b4e69",
+        "langs": {
+          "es": {
+            "translatedHash": "5a667f2a76948fa5cd72ccada0b496020cbcc63c095d11212ee236eaaa8bd0bb",
+            "updatedAt": "2026-02-24T23:05:37.563Z"
+          },
+          "pl": {
+            "translatedHash": "af7276ce55e0abbedd8582cb274e0f3154a45f666c4e38a6550bda07c2e50110",
+            "updatedAt": "2026-02-24T23:05:38.830Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e4f10c684e3ee7d0aa017437a9d8712dd630dd5a3c5f01a978ba36fc95d7a3fa",
+        "langs": {
+          "es": {
+            "translatedHash": "bb0c55fb953a7f375318928f9b5d9738a20366aec492410f956f5cacf87c5a9f",
+            "updatedAt": "2026-02-24T23:05:42.973Z"
+          },
+          "pl": {
+            "translatedHash": "86edd3530b14d8121f30869fbb6951287afc894742a2afdb378a903b52e48172",
+            "updatedAt": "2026-02-24T23:05:49.009Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bautista de La Salle",
+  "name_pl": "Święty Jan Chrzciciel de la Salle",
+  "feast_es": "El Séptimo Día de Abril",
+  "feast_pl": "Siódmy dzień kwietnia",
+  "summary_es": "Juan Bautista de La Salle fue un sacerdote francés, reformador educativo y fundador del Instituto de los Hermanos de las Escuelas Cristianas. Es un santo de la Iglesia Católica y el santo patrón de los maestros de jóvenes.",
+  "summary_pl": "Jean-Baptiste de La Salle był francuskim księdzem, reformátorem edukacji oraz założycielem Instytutu Braci Szkół Chrześcijańskich. Jest świętym Kościoła katolickiego i patronem nauczycieli młodzieży.",
+  "biography_es": "Jean-Baptiste de La Salle (pronunciado [ʒɑ̃ batist də la sal]; en inglés: John Baptist de La Salle; 30 de abril de 1651 – 7 de abril de 1719) fue un sacerdote francés, reformador educativo y fundador del Instituto de los Hermanos de las Escuelas Cristianas. Es un santo de la Iglesia Católica y el santo patrón de los maestros de jóvenes. La Salle dedicó gran parte de su vida a la educación de niños pobres en Francia; al hacerlo, inició muchas prácticas educativas duraderas.\n\nAntecedentes  \nLa Salle nació en una familia adinerada en Reims, Francia, el 30 de abril de 1651. Fue el hijo mayor de Louis de La Salle y Nicolle Moet de Brouillet. La familia de Nicolle era noble y manejaba un exitoso negocio vinícola; ella era pariente de Claude Moët, fundador de Moët & Chandon. La Salle fue tonsurado a los once años, el 11 de marzo de 1662, en una ceremonia oficial que marcaba la intención del niño, y la oferta de sus padres, de entregar a su joven hijo al servicio de Dios. Fue nombrado canónigo de la Catedral de Reims cuando tenía dieciséis años, y a los diecisiete recibió las órdenes menores. Fue enviado al Colegio des Bons Enfants, donde cursó estudios superiores y el 10 de julio de 1669 obtuvo el título de Maestro en Artes. Cuando De La Salle había completado...",
+  "biography_pl": "Jean-Baptiste de La Salle (wymawiane [ʒɑ̃ batist də la sal]; angielski: John Baptist de La Salle; 30 kwietnia 1651 – 7 kwietnia 1719) był francuskim księdzem, reformátorem edukacji oraz założycielem Instytutu Braci Szkół Chrześcijańskich. Jest świętym Kościoła katolickiego i patronem nauczycieli młodzieży. La Salle poświęcił znaczną część swojego życia edukacji ubogich dzieci we Francji; w ten sposób zapoczątkował wiele trwałych praktyk edukacyjnych.\n\nTło\n\nLa Salle urodził się w zamożnej rodzinie w Reims we Francji, 30 kwietnia 1651 roku. Był najstarszym dzieckiem Louisa de La Salle i Nicolle Moet de Brouillet. Rodzina Nicolle była szlachecka i prowadziła dochodowy biznes winiarski; była spokrewniona z Claudem Moëtem, założycielem Moët & Chandon. La Salle otrzymał tonsurę w wieku jedenastu lat, 11 marca 1662 roku, podczas oficjalnej ceremonii, która oznaczała intencję chłopca oraz ofiarowanie przez rodziców ich młodego syna na służbę Bogu. Został kanonikiem katedry w Reims w wieku szesnastu lat, a w siedemnastu otrzymał niższe święcenia. Został wysłany do Collège des Bons Enfants, gdzie kontynuował studia wyższe, a 10 lipca 1669 roku uzyskał stopień magistra sztuk wyzwolonych. Gdy De La Salle ukończył..."
+}

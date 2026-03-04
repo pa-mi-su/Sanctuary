@@ -1,0 +1,79 @@
+{
+  "id": "12-27_saint_john",
+  "name": "Saint John",
+  "mmdd": "12-27",
+  "feast": "The Twenty-Seventh Day of December",
+  "summary": "Prester John was a postulated Christian patriarch, presbyter, and king. Stories popular in Europe in the 12th to the 17th centuries told of a Nestorian patriarch and king who was said to rule over a Christian nation lost amid the pagans and Muslims in the Orient. The accounts were often embellished with various tropes of medieval popular literature, depicting Prester John as a descendant of the Three Magi, ruling a kingdom full of riches, marvels, and strange creatures.",
+  "biography": "Prester John was a postulated Christian patriarch, presbyter, and king. Stories popular in Europe in the 12th to the 17th centuries told of a Nestorian patriarch and king who was said to rule over a Christian nation lost amid the pagans and Muslims in the Orient. The accounts were often embellished with various tropes of medieval popular literature, depicting Prester John as a descendant of the Three Magi, ruling a kingdom full of riches, marvels, and strange creatures.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prester_John",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-27_saint_john.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "83ff8096fefa3709f95a4e063a5fa1ab88a96cf05e0b368c3deba4f54c21cccf",
+        "langs": {
+          "es": {
+            "translatedHash": "0c754c271376cd8bdaf8e93edba2c6e034afa14925d617aab4f4a3be48f4525d",
+            "updatedAt": "2026-02-25T01:33:36.999Z"
+          },
+          "pl": {
+            "translatedHash": "8f1513263a11b34323a50ba3aa56a22c7feb89574bf58123b1d6f547cb3affb7",
+            "updatedAt": "2026-02-25T01:33:37.628Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c38a40dabc3979b26c88d06ef67c5426b39b563e4748d08d9017f21dfba3883d",
+        "langs": {
+          "es": {
+            "translatedHash": "5d6bb79c9fda76b352f2adcb45f44ad9eb0080772d262feee5f6dec7397cc0af",
+            "updatedAt": "2026-02-25T01:33:38.470Z"
+          },
+          "pl": {
+            "translatedHash": "7a52465f385d69b07c36c66140d15ad0e492a60f1d2700bef0644ece79c4cdf9",
+            "updatedAt": "2026-02-25T01:33:39.233Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2b1c382d44f24a880b393107691295cf98c0d84c49899f94a6d9226385cb961e",
+        "langs": {
+          "es": {
+            "translatedHash": "d3d0df83afcb8d7f5d7d300bd86ebbdeb7d279333695ae03af412647151bfd9b",
+            "updatedAt": "2026-02-25T01:33:41.371Z"
+          },
+          "pl": {
+            "translatedHash": "32bc74fa7f2b4e1ba49fb31ba863623f325d57f801ff377a5898e92a52ad0785",
+            "updatedAt": "2026-02-25T01:33:44.442Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2b1c382d44f24a880b393107691295cf98c0d84c49899f94a6d9226385cb961e",
+        "langs": {
+          "es": {
+            "translatedHash": "d3d0df83afcb8d7f5d7d300bd86ebbdeb7d279333695ae03af412647151bfd9b",
+            "updatedAt": "2026-02-25T01:33:46.347Z"
+          },
+          "pl": {
+            "translatedHash": "454d36268f7f85099b33d9a26b57e5070995d5009c0c161517fffb1608de7a9e",
+            "updatedAt": "2026-02-25T01:33:49.008Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan",
+  "name_pl": "Święty Jan",
+  "feast_es": "El vigésimo séptimo día de diciembre",
+  "feast_pl": "Dwudziesty siódmy dzień grudnia",
+  "summary_es": "Preste Juan fue un patriarca cristiano, presbítero y rey postulado. Historias populares en Europa desde el siglo XII hasta el XVII hablaban de un patriarca nestoriano y rey que se decía gobernar una nación cristiana perdida entre paganos y musulmanes en Oriente. Los relatos a menudo se adornaban con diversos tópicos de la literatura popular medieval, representando a Preste Juan como un descendiente de los Tres Magos, gobernando un reino lleno de riquezas, maravillas y criaturas extrañas.",
+  "summary_pl": "Prester Jan był postulowanym chrześcijańskim patriarchą, prezbiterem i królem. Opowieści popularne w Europie od XII do XVII wieku mówiły o nestoriańskim patriarsze i królu, który rzekomo panował nad chrześcijańskim narodem zagubionym wśród pogańskich i muzułmańskich ludów na Wschodzie. Relacje te często były wzbogacane różnymi motywami średniowiecznej literatury popularnej, przedstawiając Prestera Jana jako potomka Trzech Króli, panującego nad królestwem pełnym bogactw, cudów i dziwnych stworzeń.",
+  "biography_es": "Preste Juan fue un patriarca cristiano, presbítero y rey postulado. Historias populares en Europa desde el siglo XII hasta el XVII hablaban de un patriarca nestoriano y rey que se decía gobernar una nación cristiana perdida entre paganos y musulmanes en Oriente. Los relatos a menudo se adornaban con diversos tópicos de la literatura popular medieval, representando a Preste Juan como un descendiente de los Tres Magos, gobernando un reino lleno de riquezas, maravillas y criaturas extrañas.",
+  "biography_pl": "Prester Jan był postulowanym chrześcijańskim patriarchą, prezbiterem i królem. Opowieści popularne w Europie od XII do XVII wieku mówiły o nestoriańskim patriarsze i królu, który rzekomo panował nad chrześcijańskim narodem zagubionym wśród pogan i muzułmanów na Wschodzie. Relacje te często były wzbogacane różnymi motywami średniowiecznej literatury popularnej, przedstawiającymi Prestera Jana jako potomka Trzech Króli, panującego nad królestwem pełnym bogactw, cudów i dziwnych stworzeń."
+}

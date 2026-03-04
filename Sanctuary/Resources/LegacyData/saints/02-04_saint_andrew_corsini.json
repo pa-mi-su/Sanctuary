@@ -1,0 +1,80 @@
+{
+  "id": "02-04_saint_andrew_corsini",
+  "name": "Saint Andrew Corsini",
+  "mmdd": "02-04",
+  "feast": "The Fourth Day of February",
+  "summary": "Andrea Corsini was an Italian Catholic prelate and professed member from the Carmelites who served as the Bishop of Fiesole from 1349 until his death.",
+  "biography": "Early life\nAndrew Corsini was born in Florence on 30 November 1302 into the noble and illustrious Corsini family, one of twelve children born to Nicholas Corsini and Peregrina (some sources suggest Gemma) degli Stracciabende. He was named in honor of Saint Andrew whose...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_Corsini",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-04_saint_andrew_corsini.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d28fc330166eaf04ebd44a8abc6c261dc37be667bcdd1ecaa34161e8391cedb2",
+        "langs": {
+          "es": {
+            "translatedHash": "b5ed7e8cd3f7acdb81f278ff250d044aedfa42c83ddbc01873a66bbe385a5233",
+            "updatedAt": "2026-02-24T22:29:01.703Z"
+          },
+          "pl": {
+            "translatedHash": "37bf0cacf057d47571afec77f51c0f39020b05e2251afeba3b13ad5dd33d4c15",
+            "updatedAt": "2026-02-24T22:29:02.276Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4dc4207903d727651f036c4e6025e26e0aa0534d5909581e405ae4921866f4d7",
+        "langs": {
+          "es": {
+            "translatedHash": "29db82f7b3263f697c7d778f43755964b854cac77f81c9a769009eead5a7c479",
+            "updatedAt": "2026-02-24T22:29:02.992Z"
+          },
+          "pl": {
+            "translatedHash": "9056b971caea25217c1c1d497ac8ae654ad296abf8c2574487fe852c75124a04",
+            "updatedAt": "2026-02-24T22:29:03.656Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0e2814ee46ad11dd05739762af61c5a83aad00f1f6492e1d35a7b714b41f4b4c",
+        "langs": {
+          "es": {
+            "translatedHash": "3808a68cbb0585604e86f17858ba748565eddc63554d8ae6002909b09742640b",
+            "updatedAt": "2026-02-24T22:29:04.602Z"
+          },
+          "pl": {
+            "translatedHash": "7e70a973651b91a7f4f876aa447a28ea80e6349a9eb2a38571a1eed838cd3710",
+            "updatedAt": "2026-02-24T22:29:05.917Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "517e07cfa78f066235dfd1d46b15a26c198ec4e9a9f5a279203ce1c4b760d510",
+        "langs": {
+          "es": {
+            "translatedHash": "f361ff06fdc7921372695fed4ec5d4e95cf9406b81cff0c34a1dc95ff186b63a",
+            "updatedAt": "2026-02-24T22:29:07.728Z"
+          },
+          "pl": {
+            "translatedHash": "c55296f4b5673ca6ab3f04cc0a9a7ce6014ad449625b7c9cf3abc755302b4eb9",
+            "updatedAt": "2026-02-24T22:29:09.497Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Andrés Corsini",
+  "name_pl": "Święty Andrzej Corsini",
+  "feast_es": "El Cuarto Día de Febrero",
+  "feast_pl": "Czwarty dzień lutego",
+  "summary_es": "Andrea Corsini fue un prelado católico italiano y miembro profeso de los Carmelitas que sirvió como Obispo de Fiesole desde 1349 hasta su muerte.",
+  "summary_pl": "Andrea Corsini był włoskim katolickim duchownym i profesjonowanym członkiem zakonu karmelitów, który pełnił funkcję biskupa Fiesole od 1349 roku aż do swojej śmierci.",
+  "biography_es": "Vida temprana  \nAndrés Corsini nació en Florencia el 30 de noviembre de 1302 en la noble e ilustre familia Corsini, uno de los doce hijos de Nicolás Corsini y Peregrina (algunas fuentes sugieren Gemma) degli Stracciabende. Fue nombrado en honor a San Andrés, cuyo...",
+  "biography_pl": "Wczesne życie  \nAndrzej Corsini urodził się we Florencji 30 listopada 1302 roku w szlachetnej i znamienitej rodzinie Corsini, jako jedno z dwunastu dzieci Mikołaja Corsiniego i Peregryny (niektóre źródła podają Gemmę) degli Stracciabende. Otrzymał imię na cześć świętego Andrzeja, którego..."
+}

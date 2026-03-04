@@ -1,0 +1,266 @@
+{
+  "id": "respect_life",
+  "title": "Respect Life Novena",
+  "description": "January is the month the Church prays in a special way for the protection of human life, especially for unborn children, in the novena for life.",
+  "category": "Intention",
+  "tags": [
+    "Novena",
+    "Intention",
+    "Respect Life"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/respect-life-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencione aquí la petición…) Amén\n\nPadre Nuestro 3 Avemarías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, ozdabiasz całe stworzenie blaskiem i pięknem, a ludzkie życie kształtujesz na swój obraz i podobieństwo. Obudź w każdym sercu cześć dla dzieła swoich rąk i odnów w swoim ludzie gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez Pana naszego Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén\n\nPadre Nuestro 3 Ave Marías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu szacunek dla dzieła Twoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencione aquí la petición…) Amén\n\nPadre Nuestro 3 Ave Marías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu cześć dla dzieła swoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencione la petición aquí…) Amén\n\nPadre Nuestro 3 Avemarías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu szacunek dla dzieła swoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén\n\nPadre Nuestro 3 Avemarías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu szacunek dla dzieła Twoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas las vidas humanas a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén\n\nPadre Nuestro 3 Avemarías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu szacunek dla dzieła Twoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencione aquí la petición…) Amén\n\nPadre Nuestro 3 Ave Marías Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu cześć dla dzieła Twoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas la vida humana a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén\n\nPadre Nuestro 3 Avemarías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu szacunek dla dzieła Twoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez Pana naszego Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather and maker of all, you adorn all creation with splendor and beauty, and fashion human lives in your image and likeness. Awaken in every heart reverence for the work of your hands, and renew among your people a readiness to nurture and sustain your precious gift of life. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever. (mention request here…) Amen\n\nOur Father 3 Hail Marys Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre y creador de todo, adornas toda la creación con esplendor y belleza, y formas las vidas humanas a tu imagen y semejanza. Despierta en cada corazón reverencia por la obra de tus manos, y renueva entre tu pueblo la disposición para nutrir y sostener tu precioso don de la vida. Concédenos esto por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, Dios por los siglos de los siglos. (mencionar la petición aquí…) Amén\n\nPadre Nuestro 3 Avemarías Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze i Stwórco wszystkiego, Ty ozdabiasz całe stworzenie blaskiem i pięknem, i kształtujesz ludzkie życie na swój obraz i podobieństwo. Obudź w każdym sercu cześć dla dzieła Twoich rąk i odnów wśród swojego ludu gotowość do pielęgnowania i podtrzymywania Twojego cennego daru życia. Prosimy o to przez naszego Pana Jezusa Chrystusa, Twojego Syna, który żyje i króluje z Tobą w jedności Ducha Świętego, Bóg na wieki wieków. (wymień prośbę tutaj…) Amen\n\nOjcze nasz 3 Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "January 20Feastday:January 29Birth:conceptionDeath:naturalPatron saint of pro-life, unborn babies, sanctity of human life 📱",
+    "feast": "January 29Birth:conceptionDeath:naturalPatron saint of pro-life, unborn babies, sanctity of human life 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/respect_life.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "8efe918f8549db0b42bf8167f5c98384d55cf222c03ae314ac477e7842126fa1",
+        "langs": {
+          "es": {
+            "translatedHash": "ea0ed373be34d4efa1b010ec21dd5cf2865b3e9a7581c37c596d1deab45ebf81",
+            "updatedAt": "2026-02-25T11:19:47.539Z"
+          },
+          "pl": {
+            "translatedHash": "52d3128a325c8ae52c2ea424c91f4c0f894aade8318bee00c91698c77f4ccead",
+            "updatedAt": "2026-02-25T11:19:48.121Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "69a51246f9a4a4bba1704cdc2e4292056f9a9da68bb1d07c7c4dd67706167a73",
+        "langs": {
+          "es": {
+            "translatedHash": "9f678959a3aa807fe7c8a63c2065e9f4c1c327bbe1c9a00605056c15aed79d9d",
+            "updatedAt": "2026-02-25T11:19:48.946Z"
+          },
+          "pl": {
+            "translatedHash": "9292c75b278bda1b1ec881abeedcf26ba0db4c29291e48c493a524313d0f49be",
+            "updatedAt": "2026-02-25T11:19:50.116Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "862a2bcd400f92a6c0893c12deea9183508a577ec129aa6ddef1c299bd2c72a1",
+        "langs": {
+          "es": {
+            "translatedHash": "3e6b32a20ce02dc1e6d3ab87592f1a48b1defd30b1ce7765f63d57e026001d14",
+            "updatedAt": "2026-02-25T11:19:53.363Z"
+          },
+          "pl": {
+            "translatedHash": "1454c8d944970681f37c70c206200389a8e3ca0e5a2252062e1432fb6434f5b1",
+            "updatedAt": "2026-02-25T11:19:57.327Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "9603b973cd0d47b9996f88e03a4ea17c8732eb173c8df6fba650faf0d2774b2b",
+        "langs": {
+          "es": {
+            "translatedHash": "12fb95c37d832513327bbf29dd902b565a51d12dd44e5ce4ae38a79f4aa1ed07",
+            "updatedAt": "2026-02-25T11:19:59.957Z"
+          },
+          "pl": {
+            "translatedHash": "aa40055047bda31de5f8587ff8294b27ad3627359f6bbecf4c39286c2bbb1b2e",
+            "updatedAt": "2026-02-25T11:20:03.205Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "a28412eb395a5f4f84329e80754c75ac78f50b6412ce5e63300ca235597496d3",
+        "langs": {
+          "es": {
+            "translatedHash": "f57b5bc608f588c4818fbfb8ff40a0c785dc977c4d483dd84f37b0624e9e52d6",
+            "updatedAt": "2026-02-25T11:20:05.934Z"
+          },
+          "pl": {
+            "translatedHash": "80acc8be28153036c1681d865a4073a0ce4396f9c2d8caea2de105c8505b98bd",
+            "updatedAt": "2026-02-25T11:20:10.214Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "8ed467bdd660fae43045fdfeb1be2599e20d6c8aba9d17d8eb24d93f12c2da6f",
+        "langs": {
+          "es": {
+            "translatedHash": "a78e9afd21e943f67fe7b61c5129535dd8688212911da1d57bdaab4d5b05a6e9",
+            "updatedAt": "2026-02-25T11:20:13.701Z"
+          },
+          "pl": {
+            "translatedHash": "5104390491e1a09adb7ed897cc135c8d1fba180ce642da11124393972f69d955",
+            "updatedAt": "2026-02-25T11:20:17.982Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "120b0c2db5b1a1d19f9e5149d4a3f99621417269f44a1032721f6b19ee5abd98",
+        "langs": {
+          "es": {
+            "translatedHash": "3ef35aa1eb5ba6ac358b5f396ac86becdf82b0468b528fad0a47c1d8f183bc1f",
+            "updatedAt": "2026-02-25T11:20:20.715Z"
+          },
+          "pl": {
+            "translatedHash": "268e8b83f168c15cf8f75eefef94ba0dd18f604462899b0212df03a655fc4c89",
+            "updatedAt": "2026-02-25T11:20:24.165Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "615dea7caf9d04771a8bd7cbdbbc996b7cb2ae735920baa75b26af0a6b635000",
+        "langs": {
+          "es": {
+            "translatedHash": "e89ae7830e0ad1f313c47b8873b3c434a2ed840fd51e88af58f3eeab50979ff8",
+            "updatedAt": "2026-02-25T11:20:27.873Z"
+          },
+          "pl": {
+            "translatedHash": "268e8b83f168c15cf8f75eefef94ba0dd18f604462899b0212df03a655fc4c89",
+            "updatedAt": "2026-02-25T11:20:32.116Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "c24be0ccb021e105cd054c243720af4c7381d1344a8f50f9d459b26bfbd42254",
+        "langs": {
+          "es": {
+            "translatedHash": "1529a3c13cb2f046ddb2dc5601a49ad6d3b683a07bb1e0f3b98dc7f5bb20b3b5",
+            "updatedAt": "2026-02-25T11:20:34.955Z"
+          },
+          "pl": {
+            "translatedHash": "d80593d7ba8f14e4cb490ce9d05f2a68a38c321932863b2186f619506e4eb3a9",
+            "updatedAt": "2026-02-25T11:20:38.561Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "695f8a931613ebd63b33966eba92b7c85b4411f0714a72c315d2eedb73dae333",
+        "langs": {
+          "es": {
+            "translatedHash": "3ef35aa1eb5ba6ac358b5f396ac86becdf82b0468b528fad0a47c1d8f183bc1f",
+            "updatedAt": "2026-02-25T11:20:42.497Z"
+          },
+          "pl": {
+            "translatedHash": "65cd886367f99902decd3c4d752ff25b26877d33e1d4253219f08b94b040f2a9",
+            "updatedAt": "2026-02-25T11:20:45.683Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "5b798a0b8bf29168273bcb7ecad1820174d58756eda3a81974afc63f83ed9889",
+        "langs": {
+          "es": {
+            "translatedHash": "e89ae7830e0ad1f313c47b8873b3c434a2ed840fd51e88af58f3eeab50979ff8",
+            "updatedAt": "2026-02-25T11:20:48.854Z"
+          },
+          "pl": {
+            "translatedHash": "d80593d7ba8f14e4cb490ce9d05f2a68a38c321932863b2186f619506e4eb3a9",
+            "updatedAt": "2026-02-25T11:20:55.797Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena por el Respeto a la Vida",
+  "title_pl": "Nowenna o poszanowanie życia",
+  "description_es": "Enero es el mes en que la Iglesia ora de manera especial por la protección de la vida humana, especialmente por los niños no nacidos, en la novena por la vida.",
+  "description_pl": "Styczeń jest miesiącem, w którym Kościół modli się w szczególny sposób o ochronę życia ludzkiego, zwłaszcza nienarodzonych dzieci, w nowennie za życie."
+}

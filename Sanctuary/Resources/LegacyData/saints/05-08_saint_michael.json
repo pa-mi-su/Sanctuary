@@ -1,0 +1,79 @@
+{
+  "id": "05-08_saint_michael",
+  "name": "Saint Michael",
+  "mmdd": "05-08",
+  "feast": "The Eighth Day of May",
+  "summary": "The Prayer to Saint Michael the Archangel usually refers to one specific Catholic prayer to Michael the Archangel, among the various prayers in existence that are addressed to him. It falls within the realm of prayers on spiritual warfare. From 1886 to 1964, this prayer was recited after Low Mass in the Catholic Church, although not incorporated into the text or the rubrics of the Mass. Other prayers to Saint Michael have also been officially approved and printed on prayer cards. Prayer to St. Michael the Archangel by Pope Leo XIII:Saint Michael the Archangel, defend us in battle; be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray: and do thou, O Prince of the heavenly host, by the power of God, thrust into Hell Satan and all of the other evil spirits who prowl about the world seeking the ruin of souls. Amen",
+  "biography": "Saint Michael the Archangel, defend us in battle; be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray: and do thou, O Prince of the heavenly host, by the power of God, thrust into Hell Satan and all of the other evil spirits who prowl about the world seeking the ruin of souls. Amen\n\n\nHistorical context\n\nThe threat to the church at the time was the Italian government's campaign against the Papal States. The 1890 text was composed and published twenty years after the capture of Rome had deprived the Pope of the last vestige of his temporal sovereignty. The papal residence at the Quirinal Palace had been...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prayer_to_Saint_Michael",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-08_saint_michael.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bc9f1344a44f6d45b4ba7125fed5715c982e2a20e45a21a0fec7e4382a298e20",
+        "langs": {
+          "es": {
+            "translatedHash": "9ba66bdcc112a5170b709ce576a580296d2771698b0a871f8767e6369ef6c561",
+            "updatedAt": "2026-02-24T23:21:39.612Z"
+          },
+          "pl": {
+            "translatedHash": "cb303af395fb92d151a8786ed1ed37850674aeb1df9d19de72bacbd855ccdd98",
+            "updatedAt": "2026-02-24T23:21:41.269Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5f13712d481150252f0dc1beea5852a86e1b46422100c70bb794028096cbebf6",
+        "langs": {
+          "es": {
+            "translatedHash": "b05c264b7055354c39555ccc418fc1c2c842190c49997a9a871f0a1406c4e9c9",
+            "updatedAt": "2026-02-24T23:21:41.910Z"
+          },
+          "pl": {
+            "translatedHash": "6c469ecbe7f74106c3e5ebe644b9e4e03bd7d5ced84e722d47e351bd113279ae",
+            "updatedAt": "2026-02-24T23:21:42.525Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "fef960dfca671ebabf07f3b0e64875ee94ee7c98f9ebdc565f5d7cb0fb222a1c",
+        "langs": {
+          "es": {
+            "translatedHash": "dbbd094ca346b04be2ec9ec86441555853cb6af1839c25d4ffdb34096792af46",
+            "updatedAt": "2026-02-24T23:21:45.919Z"
+          },
+          "pl": {
+            "translatedHash": "96d0100806018567f74970ea4e0edbad88c1fb476b231ed3d5e53400ca2f42c1",
+            "updatedAt": "2026-02-24T23:21:53.620Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ca2abab7a5bee69f120de8334591e198bbf6030c31f503c5bb4dc608df3369aa",
+        "langs": {
+          "es": {
+            "translatedHash": "0855adca05a0a4ae24002cac411b47108be1a49d9d0a8bb627583f43114e3385",
+            "updatedAt": "2026-02-24T23:21:55.807Z"
+          },
+          "pl": {
+            "translatedHash": "f12a84111deae4d666a0c13f5464bf32b0ce54e676e61ad2ee4a4e20fc4289d9",
+            "updatedAt": "2026-02-24T23:21:58.380Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Miguel",
+  "name_pl": "Święty Michał",
+  "feast_es": "El octavo día de mayo",
+  "feast_pl": "Ósmy dzień maja",
+  "summary_es": "La Oración a San Miguel Arcángel generalmente se refiere a una oración católica específica dirigida a Miguel Arcángel, entre las diversas oraciones existentes que se le dirigen. Pertenece al ámbito de las oraciones sobre la guerra espiritual. Desde 1886 hasta 1964, esta oración se recitaba después de la Misa baja en la Iglesia Católica, aunque no estaba incorporada en el texto ni en las rúbricas de la Misa. Otras oraciones a San Miguel también han sido oficialmente aprobadas e impresas en tarjetas de oración.\n\nOración a San Miguel Arcángel por el Papa León XIII:\n\nSan Miguel Arcángel, defiéndenos en la batalla; sé nuestra protección contra la maldad y las asechanzas del demonio. Que Dios lo reprenda, humildemente lo pedimos; y tú, oh Príncipe de la milicia celestial, por el poder de Dios, arroja al infierno a Satanás y a los demás espíritus malignos que vagan por el mundo buscando la ruina de las almas. Amén",
+  "summary_pl": "Modlitwa do Świętego Michała Archanioła zazwyczaj odnosi się do jednej konkretnej katolickiej modlitwy do Michała Archanioła, spośród różnych istniejących modlitw skierowanych do niego. Należy do modlitw związanych z duchową walką. Od 1886 do 1964 roku ta modlitwa była odmawiana po Mszy św. w Kościele katolickim, choć nie była włączona do tekstu ani rubryk Mszy. Inne modlitwy do Świętego Michała również zostały oficjalnie zatwierdzone i wydrukowane na kartach modlitewnych.  \n\nModlitwa do św. Michała Archanioła autorstwa papieża Leona XIII:  \nŚwięty Michale Archaniele, broń nas w walce; bądź naszą obroną przeciwko złu i podstępom diabła. Niech Bóg go powstrzyma, pokornie prosimy: a ty, Książę niebieskich zastępów, mocą Bożą strąć do piekła szatana i inne złe duchy, które na świecie krążą, szukając zguby dusz. Amen",
+  "biography_es": "San Miguel Arcángel, defiéndenos en la batalla; sé nuestra protección contra la maldad y las asechanzas del demonio. Que Dios lo reprenda, humildemente lo pedimos; y tú, oh Príncipe de la milicia celestial, por el poder de Dios, arroja al infierno a Satanás y a los demás espíritus malignos que vagan por el mundo para la perdición de las almas. Amén",
+  "biography_pl": "Święty Michale Archaniele, broń nas w walce; bądź naszą obroną przeciwko niegodziwościom i podstępom diabła. Niech Bóg go karci, pokornie prosimy: a ty, Książę Niebieskich Zastępów, mocą Bożą strąć do piekła Szatana i wszystkich innych złych duchów, które krążą po świecie, szukając zguby dusz. Amen"
+}

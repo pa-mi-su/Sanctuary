@@ -1,0 +1,48 @@
+{
+  "id": "12-08_immaculate_conception_of_the_blessed_virgin_mary_solemnity_patronal_feast_of_the",
+  "name": "Immaculate Conception of the Blessed Virgin Mary—Solemnity (Patronal Feast of the United States—Always a Holy Day of Obligation)",
+  "mmdd": "12-08",
+  "feast": "The Eighth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemnity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-08_immaculate_conception_of_the_blessed_virgin_mary_solemnity_patronal_feast_of_the.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "23faaf1cd59e217226de2f9ddfe275a65c63dc9112df492860db862638267d7f",
+        "langs": {
+          "es": {
+            "translatedHash": "20b06db603c479caae3afce28db638a3bffabc366039e5b553ba3e3460119c27",
+            "updatedAt": "2026-02-25T01:21:46.925Z"
+          },
+          "pl": {
+            "translatedHash": "6c816ce0b22aa6d1c311f18e2dbd05c4158f06a657fbf9495eda127fff59c18b",
+            "updatedAt": "2026-02-25T01:21:47.995Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ad8c40b8160b721d26b8742fc7e07b50964c75dcd01c0648011df3181754c930",
+        "langs": {
+          "es": {
+            "translatedHash": "991e87f46b4de1fbdfddeccdaa1ba89b9a0bda4e6fe6fef4ac9eb34876870edf",
+            "updatedAt": "2026-02-25T01:21:48.578Z"
+          },
+          "pl": {
+            "translatedHash": "d81b25145ec43e85184aa3640a9be9326f795a54b46e57fbb7b52c6e62cdcf47",
+            "updatedAt": "2026-02-25T01:21:49.322Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Inmaculada Concepción de la Santísima Virgen María—Solemnidad (Fiesta Patronal de los Estados Unidos—Siempre Día de Precepto)",
+  "name_pl": "Niepokalane Poczęcie Najświętszej Maryi Panny — Uroczystość (Święto Patronalne Stanów Zjednoczonych — Zawsze dzień nakazu)",
+  "feast_es": "El Octavo Día de Diciembre",
+  "feast_pl": "Ósmy Dzień Grudnia"
+}

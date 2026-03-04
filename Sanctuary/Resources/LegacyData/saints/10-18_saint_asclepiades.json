@@ -1,0 +1,79 @@
+{
+  "id": "10-18_saint_asclepiades",
+  "name": "Saint Asclepiades",
+  "mmdd": "10-18",
+  "feast": "The Eighteenth Day of October",
+  "summary": "This is an incomplete list of humans and angels whom the Catholic Church has canonized as saints. According to Catholic theology, all saints enjoy the beatific vision. Many of the saints listed here are found in the General Roman Calendar, while others may also be found in the Roman Martyrology; still others are particular to local places or religious institutes and their recognition does not extend to the larger worldwide church.",
+  "biography": "People also accepted as saints in the Eastern Orthodox Church and other churches are listed in Category:Christian saints by century and/or Category:Christian saints by nationality.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Catholic_saints",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-18_saint_asclepiades.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d9249399b10e997bac587f8dd4a82bcbae43a79c0867cc4fd8675867812a8616",
+        "langs": {
+          "es": {
+            "translatedHash": "ae96d4081de8c07e9f476dc50fdbe358c147016de6cc5ee51eb5e7e6b3da0ded",
+            "updatedAt": "2026-02-25T00:51:42.128Z"
+          },
+          "pl": {
+            "translatedHash": "572cd7d2428812edffcc16475dd9bbc345f62a74f6a5d7ef004fcd4e504ace06",
+            "updatedAt": "2026-02-25T00:51:42.743Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "296262361dc712277d49517f668431557da21105adec264c0ebd8391ebb6dc3d",
+        "langs": {
+          "es": {
+            "translatedHash": "8ddedba3ca7976bfb75dc17927287168acd21a079e6875c1313ccf63e2884040",
+            "updatedAt": "2026-02-25T00:51:43.290Z"
+          },
+          "pl": {
+            "translatedHash": "4ee84607f42165fbfa94b06e81c1993a1a0953d2f915a0332bba9b04e3e9d09f",
+            "updatedAt": "2026-02-25T00:51:44.383Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "79914d22ec496efc6bf3140084758a7b1e44205ef4db2230ca1975becda6bd8b",
+        "langs": {
+          "es": {
+            "translatedHash": "0ca731c5effb66c44b9b45f570fcc075f48736745581094133349879dff1cbfc",
+            "updatedAt": "2026-02-25T00:51:46.815Z"
+          },
+          "pl": {
+            "translatedHash": "5a78d423a4b69f21d0945a7463a5d8a9c3086c5382896d8ed48d31cd2d4edd53",
+            "updatedAt": "2026-02-25T00:51:49.064Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a6e4515f8f850329ae61d9197ee4e7b57b68e3d1639259fde3cd82f157fe0682",
+        "langs": {
+          "es": {
+            "translatedHash": "5aa786f4e20163f17906d949a72a752512d98cf7df37c10682673d88ca97209d",
+            "updatedAt": "2026-02-25T00:51:50.061Z"
+          },
+          "pl": {
+            "translatedHash": "87b2f981567fa4399a83726b8e98f7c7f46c6b2f36d2db38487a66808ce2f34d",
+            "updatedAt": "2026-02-25T00:51:51.583Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Asclepiades",
+  "name_pl": "Święty Asklepiades",
+  "feast_es": "El día dieciocho de octubre",
+  "feast_pl": "Osiemnasty dzień października",
+  "summary_es": "Esta es una lista incompleta de humanos y ángeles que la Iglesia Católica ha canonizado como santos. Según la teología católica, todos los santos gozan de la visión beatífica. Muchos de los santos aquí listados se encuentran en el Calendario Romano General, mientras que otros también pueden encontrarse en el Martirologio Romano; otros más son particulares de lugares locales o institutos religiosos y su reconocimiento no se extiende a la iglesia mundial en general.",
+  "summary_pl": "To jest niepełna lista ludzi i aniołów, których Kościół katolicki kanonizował jako świętych. Według teologii katolickiej wszyscy święci cieszą się wizją beatyficzną. Wielu świętych wymienionych tutaj znajduje się w Ogólnym Kalendarzu Rzymskim, podczas gdy inni mogą być również wymienieni w Martyrologium Rzymskim; jeszcze inni są szczególni dla miejsc lokalnych lub instytutów zakonnych, a ich uznanie nie rozciąga się na szerszy Kościół powszechny.",
+  "biography_es": "Las personas también aceptadas como santos en la Iglesia Ortodoxa Oriental y otras iglesias están listadas en la Categoría:Santos cristianos por siglo y/o Categoría:Santos cristianos por nacionalidad.",
+  "biography_pl": "Osoby również uznawane za świętych w Kościele Wschodnio-prawosławnym i innych kościołach są wymienione w kategorii:Święci chrześcijańscy według wieku i/lub kategorii:Święci chrześcijańscy według narodowości."
+}

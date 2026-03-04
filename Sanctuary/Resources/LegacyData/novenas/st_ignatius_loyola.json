@@ -1,0 +1,266 @@
+{
+  "id": "st_ignatius_loyola",
+  "title": "St. Ignatius Loyola Novena",
+  "description": "St Ignatius of Loyola founded the Society of Jesus in the 1500s. Pray this novena for educators and soldiers.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Ignatius Loyola"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 22
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 31
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-ignatius-loyola-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre Nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencionar petición aquí…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, pueda alabarte Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż wypełniam Twoją wolę. Amen (wymień tutaj swoją prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, upoj mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie pozwól, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej zawołaj mnie. I przywołaj mnie do Siebie, Aby ze wszystkimi Twoimi świętymi, Cię chwalić na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre Nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencionar petición aquí…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Del enemigo maligno defiéndeme. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, te alabe Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż spełniam Twoją wolę. Amen (wymień tutaj swoją prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, upoj mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej wezwij mnie. I nakłoń mnie, abym przyszedł do Ciebie, Aby ze wszystkimi Twoimi świętymi chwalić Cię mógł Na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencionar petición aquí…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, te alabe Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż spełniam Twoją wolę. Amen (wymień tutaj prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zachowaj mnie. Krew Chrystusa, napój mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej zawołaj mnie. I przywołaj mnie do Siebie, Aby z wszystkimi Twoimi świętymi, Cię chwalić na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre Nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencionar petición aquí…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh Buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, pueda alabarte Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż spełniam Twoją wolę. Amen (wymień tutaj prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, napój mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej zawołaj mnie. I nakłoń mnie, abym przyszedł do Ciebie, Aby z wszystkimi Twoimi świętymi chwalić Cię na wieki wieków. Amen. Święty Ignacy Loyolo, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre Nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencionar petición aquí…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh Buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, pueda alabarte Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż spełniam Twoją wolę. Amen (wymień tutaj prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, upoj mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej wezwij mnie. I nakłoń mnie, abym przyszedł do Ciebie, Aby ze wszystkimi Twoimi świętymi chwalić Cię mógł Na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencione aquí la petición…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, pueda alabarte Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż spełniam Twoją wolę. Amen (wymień tutaj swoją prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, upoj mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddalił. Od złego wroga broń mnie. W godzinę śmierci mojej wezwij mnie. I nakłoń mnie, abym przyszedł do Ciebie, Aby z wszystkimi Twoimi świętymi chwalić Cię mógł Na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre Nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencione aquí la petición…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, pueda alabarte Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż wypełniam Twoją wolę. Amen (wymień tutaj swoją prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, upoj mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej wezwij mnie. I nakłoń mnie, abym przyszedł do Ciebie, Aby z wszystkimi Twoimi świętymi, mógł Cię chwalić Na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencione aquí la petición…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh Buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, te alabe Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem iż spełniam Twoją wolę. Amen (wymień tutaj swoją prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zachowaj mnie. Krew Chrystusa, napój mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W swoich ranach ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę mojej śmierci wezwij mnie. I nakłoń mnie, abym przyszedł do Ciebie, Aby z wszystkimi Twoimi świętymi chwalić Cię na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nOur Father… St Ignatius, pray with me in this novena with the same prayers that you offered to God: Dearest Lord, teach me to be generous; Teach me to serve Thee as Thou deservest; To give and not to count the cost, To fight and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do Thy will. Amen (mention request here…)\n\nAnima Christi: Soul of Christ, sanctify me. Body of Christ, save me Blood of Christ, inebriate me. Water from the side of Christ, wash me. Passion of Christ, strengthen me. O Good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from thee. From the malignant enemy defend me. In the hour of my death call me. And bid me come unto Thee, That with all Thy saints, I may praise thee Forever and ever. Amen. St Ignatius Loyola, pray for us. AD MAIOREM DEI GLORIAM\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nThank you St Ignatius.\n\nMy son passed his Cisco certified network associates exam. Love Jesus!\n\nfrom M.M.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre Nuestro… San Ignacio, ora conmigo en esta novena con las mismas oraciones que ofreciste a Dios: Queridísimo Señor, enséñame a ser generoso; Enséñame a servirte como Tú mereces; A dar sin contar el costo, A luchar sin buscar descanso, A trabajar sin buscar recompensa, Salvo la de saber que hago Tu voluntad. Amén (mencionar petición aquí…)\n\nAnima Christi: Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame. Agua del costado de Cristo, lávame. Pasión de Cristo, fortaléceme. Oh Buen Jesús, escúchame. Dentro de Tus heridas escóndeme. No permitas que me separe de Ti. Defiéndeme del enemigo maligno. En la hora de mi muerte llámame. Y mándame ir a Ti, Para que con todos Tus santos, pueda alabarte Por los siglos de los siglos. Amén. San Ignacio de Loyola, ruega por nosotros. AD MAIOREM DEI GLORIAM\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze nasz… Święty Ignacy, módl się ze mną w tej nowennie tymi samymi modlitwami, które Ty składałeś Bogu: Najdroższy Panie, naucz mnie być hojny; Naucz mnie służyć Tobie tak, jak Ty na to zasługujesz; Dawać i nie liczyć kosztów, Walczyć i nie szukać odpoczynku, Pracować i nie szukać nagrody, Poza tą, że wiem, iż wypełniam Twoją wolę. Amen (wymień tutaj prośbę…)\n\nAnima Christi: Duszo Chrystusa, uświęć mnie. Ciało Chrystusa, zbaw mnie. Krew Chrystusa, upajaj mnie. Wodo z boku Chrystusa, obmyj mnie. Męko Chrystusa, umocnij mnie. O Dobry Jezu, wysłuchaj mnie. W ranach Twoich ukryj mnie. Nie dopuść, abym się od Ciebie oddzielił. Od złego wroga broń mnie. W godzinę śmierci mojej zawołaj mnie. I przywołaj mnie do Siebie, Aby ze wszystkimi Twoimi świętymi, chwalić Cię na wieki wieków. Amen. Święty Ignacy Loyola, módl się za nami. AD MAIOREM DEI GLORIAM\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_ignatius_loyola.jpg",
+  "sourceFacts": {
+    "starts": "July 22Feastday:July 31Birth:1491Death:1556Patron saint of Society of Jesus, Jesuits, soldiers, educators and education 📱",
+    "feast": "July 31Birth:1491Death:1556Patron saint of Society of Jesus, Jesuits, soldiers, educators and education 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "400f8f11583ed44b5855e1563235913271edca13631a4f9d099aaf45571416a6",
+        "langs": {
+          "es": {
+            "translatedHash": "8db6d475ff3bc0deadd23865b7a3a3f38b1639522393ab59858d5c23c60ce541",
+            "updatedAt": "2026-02-25T14:25:48.458Z"
+          },
+          "pl": {
+            "translatedHash": "c670f4492e6a89d5c15ad1e64164718e1a698c38b478947ba0770f66c41918d7",
+            "updatedAt": "2026-02-25T14:25:49.098Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "55377696b43a0976083ca4c3162c2c24f46339de88231655b3885bc7beb0d54c",
+        "langs": {
+          "es": {
+            "translatedHash": "8aebd5cf8997e32507e810c352b38c48d0d4f51cdbfe872f874c3e5e9c698df9",
+            "updatedAt": "2026-02-25T14:25:49.931Z"
+          },
+          "pl": {
+            "translatedHash": "5019e68013586ae842ff4c01bbcce48d9b5fb84146e465c649cb9119b5e7a489",
+            "updatedAt": "2026-02-25T14:25:50.963Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "988626d1fc2544ef0c366a27b136fed05bea8dc4d902eabc7916ad663ac45052",
+        "langs": {
+          "es": {
+            "translatedHash": "0f8eddf74cce848db937de599d15132f2cdce37484d60bb2ec8a6e2efa7e0007",
+            "updatedAt": "2026-02-25T14:25:55.402Z"
+          },
+          "pl": {
+            "translatedHash": "dc77f1ab6865cde045e8bc1a684089eec694096d0bbb88ba6aabeb8fb9278497",
+            "updatedAt": "2026-02-25T14:26:01.461Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "7aa0f825e6c1b5dc741ffcd66b29a72802bff163f4bf3db43bf5846af28c8d58",
+        "langs": {
+          "es": {
+            "translatedHash": "f3fcf3f1b4c3b08b571c4236c69063f4515bd6c5160dc9ca145918f06f96e24b",
+            "updatedAt": "2026-02-25T14:26:05.038Z"
+          },
+          "pl": {
+            "translatedHash": "9e6f7826e75f45773d865348ee86516653f2eafbda405d9890010af464931b23",
+            "updatedAt": "2026-02-25T14:26:10.139Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "c8006440dea828f9348e9992bccaec4deda6cdfdfa2a5915b382417805eccc29",
+        "langs": {
+          "es": {
+            "translatedHash": "92c93e22ec1401963a91c472a688775e226fc141280dea00c8db0e8eb4acf439",
+            "updatedAt": "2026-02-25T14:26:17.990Z"
+          },
+          "pl": {
+            "translatedHash": "3b0657c268908f9b5063500650bf276fe1f376819668a79788ef644c5b07fc71",
+            "updatedAt": "2026-02-25T14:26:22.567Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "741141eb1fd2a516303025434545fa364a833ff22933171e76a79a460861a9b1",
+        "langs": {
+          "es": {
+            "translatedHash": "a7a8f09a29882c4875a474ed8dfc958db805ec8ffd798c16f4d5303254aafb6f",
+            "updatedAt": "2026-02-25T14:26:26.539Z"
+          },
+          "pl": {
+            "translatedHash": "911d3b1117a8e424b1cd7dd5b615ece0673492d2f8db05698880ab4a1fb21794",
+            "updatedAt": "2026-02-25T14:26:30.871Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "5c96f84fe5c5a42e6c68d99fbb83eb2e276f2d2815c40abb1b6a8a600d17662b",
+        "langs": {
+          "es": {
+            "translatedHash": "a7a8f09a29882c4875a474ed8dfc958db805ec8ffd798c16f4d5303254aafb6f",
+            "updatedAt": "2026-02-25T14:26:34.451Z"
+          },
+          "pl": {
+            "translatedHash": "0ad8c3790cd5dc77d586543c64d83543456bbe9cca371d0b374c3e22219aa479",
+            "updatedAt": "2026-02-25T14:26:38.954Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "5a96787f241d3fb1f8174997abc4360e91bbeb727ad2e8693a2ec8e3065a53f5",
+        "langs": {
+          "es": {
+            "translatedHash": "0e3033663295adf23f27b12e0862c919fc47dd6bbb0ab89274d507cbd8b81126",
+            "updatedAt": "2026-02-25T14:26:43.540Z"
+          },
+          "pl": {
+            "translatedHash": "abe4cdefa7a56d5b8125025fdd71a5c7d0b3729d10b9e19608443285edf4224c",
+            "updatedAt": "2026-02-25T14:26:48.053Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "ebb7a350df5d9e0ef74e70b315bb2bd5c3d455170e9d81e6dceecd41798be712",
+        "langs": {
+          "es": {
+            "translatedHash": "7284e70cbf9e3184bae602f6b61fbb9caf7521ee28b9aca45df3a01d99a083e1",
+            "updatedAt": "2026-02-25T14:26:51.606Z"
+          },
+          "pl": {
+            "translatedHash": "aaeb5ef31f3f828275cf9fe15e16f3c578ee51f4adc1c88e67f13ac8ee4b0935",
+            "updatedAt": "2026-02-25T14:26:57.893Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "93598e48c3919d2f26e1f614b1b9d0a69dd0edee6724f7a962be9f60ad80c690",
+        "langs": {
+          "es": {
+            "translatedHash": "60635ec906e06a003bb21e3b4aa6ae862a7a4b5ccf9a47d89ad25f682df23dac",
+            "updatedAt": "2026-02-25T14:27:01.866Z"
+          },
+          "pl": {
+            "translatedHash": "a0a9638f8fb356e2a4970c9e19096c5cc1bc836d827cdeba89a332649c691db0",
+            "updatedAt": "2026-02-25T14:27:07.169Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "ba3c0cecb5995e4b6b2a6b95ce72a6f8440479bb997cf3f80233ab54bc671913",
+        "langs": {
+          "es": {
+            "translatedHash": "a7a8f09a29882c4875a474ed8dfc958db805ec8ffd798c16f4d5303254aafb6f",
+            "updatedAt": "2026-02-25T14:27:11.492Z"
+          },
+          "pl": {
+            "translatedHash": "e3e5aa2d81a745098fb37ecaac2667173255cc4e37a107fd5482d37cf8994489",
+            "updatedAt": "2026-02-25T14:27:16.916Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de San Ignacio de Loyola",
+  "title_pl": "Nowenna św. Ignacego Loyoli",
+  "description_es": "San Ignacio de Loyola fundó la Compañía de Jesús en el siglo XVI. Reza esta novena por educadores y soldados.",
+  "description_pl": "Św. Ignacy Loyola założył Towarzystwo Jezusowe w XVI wieku. Módl się tę nowennę za nauczycieli i żołnierzy."
+}

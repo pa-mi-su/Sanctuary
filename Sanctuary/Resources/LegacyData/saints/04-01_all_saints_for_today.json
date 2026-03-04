@@ -1,0 +1,46 @@
+{
+  "id": "04-01_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-01",
+  "feast": "The First Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:02:31.567Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-24T23:02:32.178Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cc35039f45aab3a240c71cf8a09a2b86da84ba617d1eb51256f1e77aedc2a9cb",
+        "langs": {
+          "es": {
+            "translatedHash": "a787464545864aaa2c62ab64f85572ff72cf3aacd80a9bb0c01326037b668a4d",
+            "updatedAt": "2026-02-24T23:02:32.765Z"
+          },
+          "pl": {
+            "translatedHash": "36c537610928e78694af05a32378726d8820feb5841579b7e697090fcd8a3da5",
+            "updatedAt": "2026-02-24T23:02:33.379Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El Primer Día de Abril",
+  "feast_pl": "Pierwszy Dzień Kwietnia"
+}

@@ -1,0 +1,261 @@
+{
+  "id": "epiphany_magi",
+  "title": "Novena to the Magi in Anticipation of the Epiphany",
+  "description": "Journey with the Wise Men to meet Christ. Pray this Epiphany novena now and prepare your heart to offer Him the precious gifts of your life.",
+  "category": "Feast",
+  "tags": [
+    "Novena",
+    "Feast",
+    "Epiphany Magi"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 28
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 6
+  },
+  "source": {
+    "url": "https://www.fisheaters.com/novenas.html",
+    "pageUrl": "https://www.fisheaters.com/novenas.html#magi"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "O holy Magi, who were gladdened by the reappearance of the star which led you to Bethlehem; obtain for us from God the grace, that, remaining always faithful to Him in afflictions, we may be consoled in time by His grace, and in eternity by His glory. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que os alegrasteis con la reaparición de la estrella que os guió a Belén; obtened para nosotros de Dios la gracia de que, permaneciendo siempre fieles a Él en las aflicciones, podamos ser consolados en el tiempo por Su gracia, y en la eternidad por Su gloria. Gloria al Padre, y al Hijo, y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy radowaliście się ponownym pojawieniem się gwiazdy, która was prowadziła do Betlejem; wyproście u Boga łaskę, abyśmy, pozostając zawsze Mu wierni w cierpieniach, byli pocieszeni na czas łaską Jego, a na wieczność chwałą Jego. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "O holy Magi, who, entering full of faith into the stable of Bethlehem, prostrated yourselves on the earth, to adore the newborn King of the Jews, though he was surrounded only by signs of poverty and weakness; obtain from the Lord for us a lively faith in the real presence of Jesus in the blessed Sacrament, the true spirit of poverty, and a Christ-like charity for the poor and suffering. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que, entrando llenos de fe en el establo de Belén, se postraron en tierra para adorar al recién nacido Rey de los judíos, aunque estaba rodeado solo de signos de pobreza y debilidad; obtened del Señor para nosotros una fe viva en la presencia real de Jesús en el bendito Sacramento, el verdadero espíritu de pobreza y una caridad semejante a la de Cristo para con los pobres y sufrientes.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo,\ncomo era en el principio, ahora y siempre,\npor los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy, wchodząc pełni wiary do stajenki betlejemskiej, pokłoniliście się na ziemi, aby adorować nowo narodzonego Króla Żydów, choć otaczały Go jedynie znaki ubóstwa i słabości; wyproście u Pana dla nas żywą wiarę w rzeczywistą obecność Jezusa w Najświętszym Sakramencie, prawdziwego ducha ubóstwa oraz chrystusową miłość dla ubogich i cierpiących. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "O holy Magi, who offered to Jesus Christ gold, incense, and myrrh, thereby recognizing Him to be at once King, God, and Man; obtain from the Lord for us the grace never to present ourselves before Him with empty hands; but that we may continually offer to Him the gold of charity, the incense of prayer, and the myrrh of penance and mortification. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que ofrecieron a Jesucristo oro, incienso y mirra, reconociéndolo así como Rey, Dios y Hombre a la vez; obtened del Señor para nosotros la gracia de no presentarnos jamás ante Él con las manos vacías; sino que podamos ofrecerle continuamente el oro de la caridad, el incienso de la oración y la mirra de la penitencia y mortificación. Gloria al Padre, al Hijo y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy ofiarowali Jezusowi Chrystusowi złoto, kadzidło i mirrę, uznając w ten sposób, że jest On jednocześnie Królem, Bogiem i Człowiekiem; wyproście u Pana dla nas łaskę, abyśmy nigdy nie stawali przed Nim z pustymi rękami; lecz abyśmy nieustannie składali Mu w ofierze złoto miłości, kadzidło modlitwy i mirrę pokuty oraz umartwienia.\n\nChwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "O holy Magi, who, when warned by an angel not to return to Herd, traveled Lord, the grace that, after having found Him in true repentance, we may avoid all danger of losing Him again. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que, advertidos por un ángel de no regresar a Herodes, viajaron al Señor, la gracia de que, después de haberlo encontrado en verdadera penitencia, podamos evitar todo peligro de perderlo nuevamente. Gloria al Padre, al Hijo y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy, ostrzeżeni przez anioła, by nie wracać do Heroda, podążyli do Pana, łaskę, abyśmy po znalezieniu Go w prawdziwej pokucie, mogli unikać wszelkiego niebezpieczeństwa ponownej utraty Go. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "O holy Magi, who were first among the Gentiles called to the knowledge of Jesus Christ, and who persevered in the faith till your deaths, obtain for us of the Lord the grace of living always in conformity to our baptismal vows, ever leading to a life of faith; that like you we may attain to the beatific vision of that God Who now is the object of our faith. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que fuisteis los primeros entre los gentiles llamados al conocimiento de Jesucristo, y que perseverasteis en la fe hasta vuestra muerte, obtened para nosotros del Señor la gracia de vivir siempre conforme a nuestros votos bautismales, conduciéndonos siempre a una vida de fe; para que, como vosotros, alcancemos la visión beatífica de ese Dios que ahora es el objeto de nuestra fe. Gloria al Padre, y al Hijo, y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos.",
+      "prayer_pl": "O święci Mędrcy, którzy jako pierwsi spośród pogan zostali powołani do poznania Jezusa Chrystusa i którzy wytrwali w wierze aż do śmierci, wyproście nam u Pana łaskę życia zawsze zgodnego z naszymi przyrzeczeniami chrzcielnymi, prowadzącego nieustannie do życia w wierze; abyśmy podobnie jak wy mogli osiągnąć błogosławioną wizję tego Boga, który teraz jest przedmiotem naszej wiary. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "O holy Magi, who were first among the Gentiles called to the knowledge of Jesus Christ, and who persevered in the faith till your deaths, obtain for us of the Lord the grace of living always in conformity to our baptismal vows, ever leading to a life of faith; that like you we may attain to the beatific vision of that God Who now is the object of our faith. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que fuisteis los primeros entre los gentiles llamados al conocimiento de Jesucristo, y que perseverasteis en la fe hasta vuestra muerte, obtened para nosotros del Señor la gracia de vivir siempre conforme a nuestros votos bautismales, conduciéndonos siempre a una vida de fe; para que, como vosotros, alcancemos la visión beatífica de ese Dios que ahora es el objeto de nuestra fe. Gloria al Padre, y al Hijo, y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos.",
+      "prayer_pl": "O święci Mędrcy, którzy jako pierwsi spośród pogan zostali powołani do poznania Jezusa Chrystusa i którzy wytrwali w wierze aż do śmierci, wyproście nam u Pana łaskę życia zawsze zgodnego z naszymi przyrzeczeniami chrzcielnymi, prowadzącego nieustannie do życia w wierze; abyśmy podobnie jak wy mogli osiągnąć błogosławioną wizję tego Boga, który jest teraz przedmiotem naszej wiary. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "O holy Magi, who were first among the Gentiles called to the knowledge of Jesus Christ, and who persevered in the faith till your deaths, obtain for us of the Lord the grace of living always in conformity to our baptismal vows, ever leading to a life of faith; that like you we may attain to the beatific vision of that God Who now is the object of our faith. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que fuisteis los primeros entre los gentiles llamados al conocimiento de Jesucristo, y que perseverasteis en la fe hasta vuestra muerte, obtened para nosotros del Señor la gracia de vivir siempre conforme a nuestros votos bautismales, conduciéndonos siempre a una vida de fe; para que, como vosotros, alcancemos la visión beatífica de ese Dios que ahora es el objeto de nuestra fe. Gloria al Padre, y al Hijo, y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy jako pierwsi spośród pogan zostali powołani do poznania Jezusa Chrystusa i którzy wytrwali w wierze aż do śmierci, wyproście nam u Pana łaskę życia zawsze zgodnego z naszymi przyrzeczeniami chrzcielnymi, prowadzącego nieustannie do życia wiary; abyśmy podobnie jak wy mogli osiągnąć błogosławioną wizję tego Boga, który teraz jest przedmiotem naszej wiary. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "O holy Magi, who were first among the Gentiles called to the knowledge of Jesus Christ, and who persevered in the faith till your deaths, obtain for us of the Lord the grace of living always in conformity to our baptismal vows, ever leading to a life of faith; that like you we may attain to the beatific vision of that God Who now is the object of our faith. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que fuisteis los primeros entre los gentiles llamados al conocimiento de Jesucristo, y que perseverasteis en la fe hasta vuestra muerte, obtened para nosotros del Señor la gracia de vivir siempre conforme a nuestros votos bautismales, conduciéndonos siempre a una vida de fe; para que, como vosotros, alcancemos la visión beatífica de ese Dios que ahora es el objeto de nuestra fe. Gloria al Padre, y al Hijo, y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy jako pierwsi spośród pogan zostali powołani do poznania Jezusa Chrystusa i którzy wytrwali w wierze aż do śmierci, wyproście u Pana łaskę życia zawsze zgodnego z naszymi przyrzeczeniami chrzcielnymi, prowadzącego nieustannie do życia wiary; abyśmy podobnie jak wy mogli osiągnąć błogosławioną wizję tego Boga, który teraz jest przedmiotem naszej wiary. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "O holy Magi, who were first among the Gentiles called to the knowledge of Jesus Christ, and who persevered in the faith till your deaths, obtain for us of the Lord the grace of living always in conformity to our baptismal vows, ever leading to a life of faith; that like you we may attain to the beatific vision of that God Who now is the object of our faith. Glory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Oh santos Magos, que fuisteis los primeros entre los gentiles llamados al conocimiento de Jesucristo, y que perseverasteis en la fe hasta vuestra muerte, obtened para nosotros del Señor la gracia de vivir siempre conforme a nuestros votos bautismales, conduciéndonos siempre a una vida de fe; para que, como vosotros, alcancemos la visión beatífica de ese Dios que ahora es el objeto de nuestra fe. Gloria al Padre, y al Hijo, y al Espíritu Santo, como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "prayer_pl": "O święci Mędrcy, którzy jako pierwsi spośród pogan zostali powołani do poznania Jezusa Chrystusa i którzy wytrwali w wierze aż do śmierci, wyproście nam u Pana łaskę życia zawsze zgodnego z naszymi przyrzeczeniami chrzcielnymi, prowadzącego nieustannie do życia wiary; abyśmy podobnie jak wy mogli osiągnąć błogosławioną wizję tego Boga, który teraz jest przedmiotem naszej wiary. Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/epiphany_magi.gif",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "bb8c1b60de27068fff8d9327f21b810b566918ec58193a3aa299520586916948",
+        "langs": {
+          "es": {
+            "translatedHash": "fa76c0861da34cdbec4d095e1dce80b1e6218cd543eed08ef285f5439df96024",
+            "updatedAt": "2026-02-25T03:50:39.222Z"
+          },
+          "pl": {
+            "translatedHash": "e5b2718a0c52c83d2a3ffa930c0a985505005940c26458c43fb1aa197825dd27",
+            "updatedAt": "2026-02-25T03:50:39.832Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "f9f0f6354e6c91b7b840761c6ae006c8cd80f5e47b4c5379f399b3839b9bcbf1",
+        "langs": {
+          "es": {
+            "translatedHash": "9e3fc9e4bfb717cc9740712f916db365d1b8dc7705b8a923abbeda32f6d638b5",
+            "updatedAt": "2026-02-25T03:50:41.232Z"
+          },
+          "pl": {
+            "translatedHash": "3da67283ef8c0e415613a2770dbafd92389b32e3c0cf85529b425e18e0b4c233",
+            "updatedAt": "2026-02-25T03:50:42.830Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "00b166fabc12b110b770433ee2f46101e610142bc266d7e637735180bf5847b2",
+        "langs": {
+          "es": {
+            "translatedHash": "02a205bfae7dc8c9706095dc282a0dfe7668feed844f8634d7477080c45849d5",
+            "updatedAt": "2026-02-25T03:50:44.673Z"
+          },
+          "pl": {
+            "translatedHash": "b2ca24bd3bf6c85d29419ae273ab9b35472a0f5cbdf22b494bbd89ba4fb6d6f7",
+            "updatedAt": "2026-02-25T03:50:46.812Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "cb9768a2cc6505048ad705c30eef80b9ded8e766466fa11d7f6c765fcb9e7cdd",
+        "langs": {
+          "es": {
+            "translatedHash": "c84ad58e282a03fe0d79b075b9b7077726b48f4b9ec9b65807853155def3ac0c",
+            "updatedAt": "2026-02-25T03:50:49.649Z"
+          },
+          "pl": {
+            "translatedHash": "e0e19e2c0e0ba339f3be29572cd2fab8f0f79eb4a61c48b6ec29bec649c3ea9b",
+            "updatedAt": "2026-02-25T03:50:52.086Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "4e2f591e55ab357e5accd607a6734db864938a180d2c463efc3d25bd32e9b456",
+        "langs": {
+          "es": {
+            "translatedHash": "cd4169aa23a8dfdca1ac4369ac4c35536b7c253f654a3bbfe85a6485d90e70ba",
+            "updatedAt": "2026-02-25T03:50:56.851Z"
+          },
+          "pl": {
+            "translatedHash": "0471c0f337f4fa0c8758604fee0f1dfec775791c89651665510dc5e273d6ab75",
+            "updatedAt": "2026-02-25T03:51:00.589Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "bc4b7c8a271f76ca7bbc32569f9cbc2b97f3268acea0e20451661423f1299c3d",
+        "langs": {
+          "es": {
+            "translatedHash": "ab619cfc816bce3d15a05a12f2969ad99892baf666de7d283d289285fe4b7b61",
+            "updatedAt": "2026-02-25T03:51:03.192Z"
+          },
+          "pl": {
+            "translatedHash": "f65bd2e844de368a14182f930812ce7b4989b57b162156157ea5f3b1c84eaaf3",
+            "updatedAt": "2026-02-25T03:51:05.666Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "2b9d4dd5a407b382146aa3428bb55503e788d87fefb4ebbe1b5fa6762619ce18",
+        "langs": {
+          "es": {
+            "translatedHash": "672781edaf522ed4b261eae94f5522248d2073f961ccaeed61334e1c5042cb71",
+            "updatedAt": "2026-02-25T03:51:08.220Z"
+          },
+          "pl": {
+            "translatedHash": "f6494763697b1ca859a3e565722a3181c05c05dc297e063ad6441aed26287c25",
+            "updatedAt": "2026-02-25T03:51:11.017Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "2b9d4dd5a407b382146aa3428bb55503e788d87fefb4ebbe1b5fa6762619ce18",
+        "langs": {
+          "es": {
+            "translatedHash": "672781edaf522ed4b261eae94f5522248d2073f961ccaeed61334e1c5042cb71",
+            "updatedAt": "2026-02-25T03:51:13.068Z"
+          },
+          "pl": {
+            "translatedHash": "570d568459e62d7858878050402d34e69fd84dcd84ba2c8010bbdd4ace54c077",
+            "updatedAt": "2026-02-25T03:51:15.949Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "2b9d4dd5a407b382146aa3428bb55503e788d87fefb4ebbe1b5fa6762619ce18",
+        "langs": {
+          "es": {
+            "translatedHash": "3dbbc06c77db9df5a68cbc46fdfc1f870ffabaa8a0add04637aa9650df3c0a89",
+            "updatedAt": "2026-02-25T03:51:18.103Z"
+          },
+          "pl": {
+            "translatedHash": "06bc7d3557a131c461464d2b641cb5d10cddb1901f565f765a0f6fb562ae2906",
+            "updatedAt": "2026-02-25T03:51:20.270Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "2b9d4dd5a407b382146aa3428bb55503e788d87fefb4ebbe1b5fa6762619ce18",
+        "langs": {
+          "es": {
+            "translatedHash": "3dbbc06c77db9df5a68cbc46fdfc1f870ffabaa8a0add04637aa9650df3c0a89",
+            "updatedAt": "2026-02-25T03:51:22.821Z"
+          },
+          "pl": {
+            "translatedHash": "446d7ad56eee78934f4a636e18d24c0403bf6ce637ad543f5e745e3f974178f2",
+            "updatedAt": "2026-02-25T03:51:25.993Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "2b9d4dd5a407b382146aa3428bb55503e788d87fefb4ebbe1b5fa6762619ce18",
+        "langs": {
+          "es": {
+            "translatedHash": "3dbbc06c77db9df5a68cbc46fdfc1f870ffabaa8a0add04637aa9650df3c0a89",
+            "updatedAt": "2026-02-25T03:51:28.053Z"
+          },
+          "pl": {
+            "translatedHash": "06bc7d3557a131c461464d2b641cb5d10cddb1901f565f765a0f6fb562ae2906",
+            "updatedAt": "2026-02-25T03:51:30.524Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a los Reyes Magos en Anticipación de la Epifanía",
+  "title_pl": "Nowenna do Trzech Króli w Oczekiwaniu na Objawienie Pańskie",
+  "description_es": "Viaja con los Reyes Magos para encontrarte con Cristo. Reza ahora esta novena de la Epifanía y prepara tu corazón para ofrecerle los preciosos dones de tu vida.",
+  "description_pl": "Wędruj z Mędrcami, aby spotkać Chrystusa. Módl się teraz tę nowennę na Uroczystość Objawienia Pańskiego i przygotuj swoje serce, aby ofiarować Mu cenne dary swojego życia."
+}

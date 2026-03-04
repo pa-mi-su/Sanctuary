@@ -1,0 +1,79 @@
+{
+  "id": "10-01_saint_therese_of_the_child_jesus_of_lisieux",
+  "name": "Saint Thérèse of the Child Jesus (of Lisieux)",
+  "mmdd": "10-01",
+  "feast": "The First Day of October",
+  "summary": "Thérèse of Lisieux, in religion Therese of the Child Jesus and the Holy Face, was a French Discalced Carmelite who is widely venerated in modern times. She is popularly known in English as the Little Flower of Jesus, or simply the Little Flower, and in French as la petite Thérèse.",
+  "biography": "Thérèse of Lisieux, in religion Therese of the Child Jesus and the Holy Face, was a French Discalced Carmelite who is widely venerated in modern times. She is popularly known in English as the Little Flower of Jesus, or simply the Little Flower, and in French as la petite Thérèse.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-01_saint_therese_of_the_child_jesus_of_lisieux.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8a789a6abc5af23efed1ab84219e38073b10a425981a24f98ce8a9e175410ded",
+        "langs": {
+          "es": {
+            "translatedHash": "b1d8e5f112626984bf0c9a5c652e27d459c93abc5edd8da915b1139d86cdade1",
+            "updatedAt": "2026-02-25T00:41:34.038Z"
+          },
+          "pl": {
+            "translatedHash": "54bd49949b968e08e6e7db0cb6e02adadb90f29de990eed90a88a1879148a2b3",
+            "updatedAt": "2026-02-25T00:41:34.856Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f7898b186597b82eae8255f92cc8561468a5060d1964d3408390e33f0f50e627",
+        "langs": {
+          "es": {
+            "translatedHash": "982a751bcb90b90160a6fbc061420946f528090c3d107025ac4ea90300892075",
+            "updatedAt": "2026-02-25T00:41:35.509Z"
+          },
+          "pl": {
+            "translatedHash": "dbb77791d22f28a338842b9efb531271d92dca7e1f2227c604edd4755fcfee41",
+            "updatedAt": "2026-02-25T00:41:36.216Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8cbbd7b816923aff381d2759398e043341d583cba83d27196f1add0571e6006d",
+        "langs": {
+          "es": {
+            "translatedHash": "09f5ce88022685853f47731c4de748677bab9df4f435e840de90c9bb440db8a9",
+            "updatedAt": "2026-02-25T00:41:37.521Z"
+          },
+          "pl": {
+            "translatedHash": "2881d993bb04219a9d39d42b7d748a12dafb62326e6563b0a7823061e3763aa8",
+            "updatedAt": "2026-02-25T00:41:39.349Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8cbbd7b816923aff381d2759398e043341d583cba83d27196f1add0571e6006d",
+        "langs": {
+          "es": {
+            "translatedHash": "09f5ce88022685853f47731c4de748677bab9df4f435e840de90c9bb440db8a9",
+            "updatedAt": "2026-02-25T00:41:40.905Z"
+          },
+          "pl": {
+            "translatedHash": "2881d993bb04219a9d39d42b7d748a12dafb62326e6563b0a7823061e3763aa8",
+            "updatedAt": "2026-02-25T00:41:42.790Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Teresa del Niño Jesús (de Lisieux)",
+  "name_pl": "Święta Teresa od Dzieciątka Jezus (z Lisieux)",
+  "feast_es": "El Primer Día de Octubre",
+  "feast_pl": "Pierwszy dzień października",
+  "summary_es": "Teresa de Lisieux, en religión Teresa del Niño Jesús y de la Santa Faz, fue una carmelita descalza francesa que es ampliamente venerada en tiempos modernos. Es conocida popularmente en inglés como la Pequeña Flor de Jesús, o simplemente la Pequeña Flor, y en francés como la petite Thérèse.",
+  "summary_pl": "Teresa z Lisieux, w zakonie Teresa od Dzieciątka Jezus i Świętej Twarzy, była francuską karmelitanką bosego zakonu, która jest szeroko czczona w czasach współczesnych. W języku angielskim jest powszechnie znana jako Mały Kwiatuszek Jezusa, lub po prostu Mały Kwiatuszek, a po francusku jako la petite Thérèse.",
+  "biography_es": "Teresa de Lisieux, en religión Teresa del Niño Jesús y de la Santa Faz, fue una carmelita descalza francesa que es ampliamente venerada en tiempos modernos. Es conocida popularmente en inglés como la Pequeña Flor de Jesús, o simplemente la Pequeña Flor, y en francés como la petite Thérèse.",
+  "biography_pl": "Teresa z Lisieux, w zakonie Teresa od Dzieciątka Jezus i Świętej Twarzy, była francuską karmelitanką bosego zakonu, która jest szeroko czczona w czasach współczesnych. W języku angielskim jest powszechnie znana jako Mały Kwiatuszek Jezusa, lub po prostu Mały Kwiatuszek, a po francusku jako la petite Thérèse."
+}

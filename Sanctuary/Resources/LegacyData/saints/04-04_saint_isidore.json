@@ -1,0 +1,80 @@
+{
+  "id": "04-04_saint_isidore",
+  "name": "Saint Isidore",
+  "mmdd": "04-04",
+  "feast": "The Fourth Day of April",
+  "summary": "Isidore of Seville was a Hispano-Roman scholar, theologian and archbishop of Seville. He is widely regarded, in the words of the 19th-century historian Charles Forbes René de Montalembert, as \"the last scholar of the ancient world\".",
+  "biography": "Childhood and education...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isidore_of_Seville",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-04_saint_isidore.jpeg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "fd608e7629aa007a33072f546c0cfa77f141ee2c8df4c02354433661dbf96438",
+        "langs": {
+          "es": {
+            "translatedHash": "ed87f5060436eca317d7b607fcad229611c23a06471d3f2c7cbdbaa3525088fa",
+            "updatedAt": "2026-02-24T23:03:45.203Z"
+          },
+          "pl": {
+            "translatedHash": "6178d99522adc3af6dc7525ba5bbd8affac2fb7dd59609a86b056edee1f26ea9",
+            "updatedAt": "2026-02-24T23:03:46.208Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4049a731d1a30652c95e3e4c00b328ab7596a703bea310c82512aa0f130fb787",
+        "langs": {
+          "es": {
+            "translatedHash": "0ec4657fce6d3e5bed3fa17ca0a41166a089b8bcc440a3358a8aa1d04a303f1c",
+            "updatedAt": "2026-02-24T23:03:47.262Z"
+          },
+          "pl": {
+            "translatedHash": "9163c9926d2bc9e7eac6503573ff7b9a0c20fddfd2a20e32151db693f94a74a2",
+            "updatedAt": "2026-02-24T23:03:47.887Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2effc12d5c1b6bf52f71ffd649c1900ccfc7212094ca3aa3e2bd76cd98bc6c27",
+        "langs": {
+          "es": {
+            "translatedHash": "bbaae64c69afaed09c099802b2852e4d78288af31f13ebdd6800cd9954c77d4f",
+            "updatedAt": "2026-02-24T23:03:49.004Z"
+          },
+          "pl": {
+            "translatedHash": "ce84c7d2bd7450a67e3a30b3a60ff60223f2913fcb9b9a4ab7eb8a56e359eb38",
+            "updatedAt": "2026-02-24T23:03:50.537Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ac76a29aba6854148bb226ac2ac20dceb2d9fbe71fc41bd6534d87f7e3bd29cf",
+        "langs": {
+          "es": {
+            "translatedHash": "e641f2a68bf77ddf2d3314cb22edf3b4289f949b5ab3e052b96c2a6e28c7bc59",
+            "updatedAt": "2026-02-24T23:03:51.103Z"
+          },
+          "pl": {
+            "translatedHash": "915b37cb42384e1efb1ef286a086f753a67c7d1cd596126d67bbc7dd0be1a54b",
+            "updatedAt": "2026-02-24T23:03:51.811Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Isidro",
+  "name_pl": "Święty Izydor",
+  "feast_es": "El Cuarto Día de Abril",
+  "feast_pl": "Czwarty dzień kwietnia",
+  "summary_es": "Isidoro de Sevilla fue un erudito hispano-romano, teólogo y arzobispo de Sevilla. Es ampliamente considerado, en palabras del historiador del siglo XIX Charles Forbes René de Montalembert, como \"el último erudito del mundo antiguo\".",
+  "summary_pl": "Izydor z Sewilli był hiszpańsko-rzymskim uczonym, teologiem i arcybiskupem Sewilli. Jest powszechnie uważany, słowami historyka XIX wieku Charlesa Forbesa René de Montalemberta, za „ostatniego uczonego starożytnego świata”.",
+  "biography_es": "Infancia y educación...",
+  "biography_pl": "Dzieciństwo i wychowanie..."
+}

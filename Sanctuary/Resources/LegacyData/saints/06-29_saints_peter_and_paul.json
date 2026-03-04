@@ -1,0 +1,79 @@
+{
+  "id": "06-29_saints_peter_and_paul",
+  "name": "Saints Peter and Paul",
+  "mmdd": "06-29",
+  "feast": "The Twenty-Ninth day of June",
+  "summary": "The Feast of Saints Peter and Paul or Solemnity of Saints Peter and Paul is a liturgical feast in honor of the martyrdom in Rome of the apostles Saint Peter and Saint Paul, which is observed on 29 June. The celebration is of ancient Christian origin, the date selected being the anniversary of either their death or the translation of their relics.",
+  "biography": "The Feast of Saints Peter and Paul or Solemnity of Saints Peter and Paul is a liturgical feast in honor of the martyrdom in Rome of the apostles Saint Peter and Saint Paul, which is observed on 29 June. The celebration is of ancient Christian origin, the date selected being the anniversary of either their death or the translation of their relics. Eastern Christianity For Eastern Orthodox and some Eastern Catholic Christians this feast also marks the end of the Apostles' Fast (which began on the Monday following All Saints' Sunday, i.e., the second Monday after Pentecost). While not considered among the twelve great feasts, it is one of five additional feasts ranked as a great feast in the Eastern Orthodox tradition and is often celebrated with an all-night vigil starting the evening before. In the Julian calendar, 29 June falls on the Gregorian calendar date of 12 July from 1900 to 2099, inclusive. In the Russian Orthodox tradition, Macarius of Unzha's Miracle of the Moose is said to have occurred during the Apostles' Fast and the Feast of Saints Peter and Paul that followed it. Oriental Orthodox tradition In the Coptic Orthodox Church and the Ethiopian Orthodox Tewahedo...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_Saints_Peter_and_Paul",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-29_saints_peter_and_paul.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "929a87f2deb075c470ab329db0ab145ceb1b4362166a98e7c8bf6da42c888864",
+        "langs": {
+          "es": {
+            "translatedHash": "abe6c12a02fdf46893a0d1b16bcc45dc7c045ca7634c0287c19b6a88feddb86d",
+            "updatedAt": "2026-02-24T23:50:27.350Z"
+          },
+          "pl": {
+            "translatedHash": "e142facf6eba453dd3ec45320064b61064994dca23554297c4d5e70735c76cec",
+            "updatedAt": "2026-02-24T23:50:29.121Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4df76b7d3ef49581cf97fcc2b2436117a3ae1c311029cd5c06a37d3f6d253181",
+        "langs": {
+          "es": {
+            "translatedHash": "21b287a3e136eebc465ac6df4ca706601cfb3369da787fad63f99c226616c20f",
+            "updatedAt": "2026-02-24T23:50:31.116Z"
+          },
+          "pl": {
+            "translatedHash": "5b5233d043e0d4c174c49e7efb833aa328bc3e9e2f736dc395ec4a4e9b76ca17",
+            "updatedAt": "2026-02-24T23:50:31.768Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c1914c25c52642493efbfcd2652d9df3cbf6dfad37a9d1e55217f548c3a2eedc",
+        "langs": {
+          "es": {
+            "translatedHash": "6039ebfb7ee30bb05d145e57db3abf8caddf506dd037c139e71e0a3f115c5187",
+            "updatedAt": "2026-02-24T23:50:33.539Z"
+          },
+          "pl": {
+            "translatedHash": "6e148ca48423048996d2d072e9fe810b41859a856b500c9dbc9d2e79c3bbd242",
+            "updatedAt": "2026-02-24T23:50:36.121Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "540a6cf37fc00c46550e9a2c9675d450bf45738773aec736fd7b81f01956826a",
+        "langs": {
+          "es": {
+            "translatedHash": "5b20bbc62eece5677f13add3267c917a68c8d4d0d157a2d48c818995d7c21137",
+            "updatedAt": "2026-02-24T23:50:40.828Z"
+          },
+          "pl": {
+            "translatedHash": "1314312fc670b1a57d7f188cfc98d533398c46211ab9a0185f1c08cdaec2fb4a",
+            "updatedAt": "2026-02-24T23:50:46.055Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Pedro y Pablo",
+  "name_pl": "Święci Piotr i Paweł",
+  "feast_es": "El vigésimo noveno día de junio",
+  "feast_pl": "Dwudziesty dziewiąty dzień czerwca",
+  "summary_es": "La Fiesta de los Santos Pedro y Pablo o Solemnidad de los Santos Pedro y Pablo es una fiesta litúrgica en honor al martirio en Roma de los apóstoles San Pedro y San Pablo, que se celebra el 29 de junio. La celebración es de origen cristiano antiguo, siendo la fecha seleccionada el aniversario de su muerte o de la traslación de sus reliquias.",
+  "summary_pl": "Uroczystość Świętych Apostołów Piotra i Pawła lub Święto Świętych Piotra i Pawła jest uroczystością liturgiczną na cześć męczeństwa w Rzymie apostołów Świętego Piotra i Świętego Pawła, obchodzoną 29 czerwca. Obchody mają starochrześcijańskie pochodzenie, a wybrana data jest rocznicą ich śmierci lub przeniesienia ich relikwii.",
+  "biography_es": "La Fiesta de los Santos Pedro y Pablo o Solemnidad de los Santos Pedro y Pablo es una fiesta litúrgica en honor al martirio en Roma de los apóstoles San Pedro y San Pablo, que se celebra el 29 de junio. La celebración es de origen cristiano antiguo, siendo la fecha seleccionada el aniversario de su muerte o la traslación de sus reliquias.\n\nCristianismo oriental  \nPara los cristianos ortodoxos orientales y algunos católicos orientales, esta fiesta también marca el fin del Ayuno de los Apóstoles (que comienza el lunes siguiente al Domingo de Todos los Santos, es decir, el segundo lunes después de Pentecostés). Aunque no se considera una de las doce grandes fiestas, es una de las cinco fiestas adicionales clasificadas como gran fiesta en la tradición ortodoxa oriental y a menudo se celebra con una vigilia de toda la noche que comienza la tarde anterior. En el calendario juliano, el 29 de junio corresponde a la fecha 12 de julio en el calendario gregoriano desde 1900 hasta 2099, inclusive. En la tradición ortodoxa rusa, se dice que el Milagro del Alce de Macario de Unzha ocurrió durante el Ayuno de los Apóstoles y la Fiesta de los Santos Pedro y Pablo que le siguió.\n\nTradición ortodoxa oriental  \nEn la Iglesia Ortodoxa Copta y la Iglesia Ortodoxa Etíope Tewahedo...",
+  "biography_pl": "Uroczystość Świętych Piotra i Pawła lub Święto Świętych Piotra i Pawła jest liturgicznym świętem na cześć męczeństwa w Rzymie apostołów Świętego Piotra i Świętego Pawła, obchodzonym 29 czerwca. Obchody mają starochrześcijańskie pochodzenie, a wybrana data jest rocznicą ich śmierci lub translacji ich relikwii.\n\nChrześcijaństwo Wschodnie  \nDla prawosławnych wschodnich i niektórych katolików wschodnich to święto oznacza również koniec Postu Apostolskiego (który zaczyna się w poniedziałek po Niedzieli Wszystkich Świętych, czyli drugi poniedziałek po Pięćdziesiątnicy). Chociaż nie jest uważane za jedno z dwunastu wielkich świąt, jest jednym z pięciu dodatkowych świąt zaliczanych do wielkich w tradycji prawosławnej i często obchodzone jest z całonocnym czuwaniem rozpoczynającym się wieczorem poprzedzającym. W kalendarzu juliańskim 29 czerwca przypada na 12 lipca w kalendarzu gregoriańskim w latach od 1900 do 2099 włącznie.  \nW tradycji rosyjskiej prawosławnej mówi się, że Cud Łosia Makarego z Unży miał miejsce podczas Postu Apostolskiego i następującego po nim Święta Świętych Piotra i Pawła.\n\nTradycja Kościołów Ortodoksyjnych Orientalnych  \nW Kościele Koptyjskim Ortodoksyjnym oraz Etiopskim Kościele Ortodoksyjnym Tewahedo..."
+}

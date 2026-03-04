@@ -1,0 +1,79 @@
+{
+  "id": "01-06_saint_gertrude_of_delft",
+  "name": "Saint Gertrude of Delft",
+  "mmdd": "01-06",
+  "feast": "The Sixth Day of January",
+  "summary": "Gertrude of Nivelles, OSB was an abbess who, with her mother Itta, founded the Abbey of Nivelles, now in Belgium. She is venerated in the Catholic and Eastern Orthodox traditions.",
+  "biography": "Gertrude of Nivelles, OSB (also spelled Geretrude, Geretrudis, Gertrud; c. 628 – 17 March 659) was an abbess who, with her mother Itta, founded the Abbey of Nivelles, now in Belgium. She is venerated in the Catholic and Eastern Orthodox traditions. Life Family and childhood The early history of Gertrude's family is not well documented. The anonymous author of her Early Middle Ages biography, Vita Sanctae Geretrudis, only hints at her origins: \"it would be tedious to insert in this account in what line of earthly origin she was descended. For who living in Europe does not know the loftiness, the names, and the localities of her lineage?\" Gertrude's father, Pepin of Landen (Pippin the Elder), a nobleman from east Francia, had been instrumental in persuading King Clothar II to crown his son, Dagobert I, as the King of Austrasia. Due to her position at the palace, Gertrude's mother, Itta of Metz, was likely acquainted with Amandus, the Bishop of Maastricht. When Dagobert succeeded his father and the court moved to Neustria, Pepin and his family (including young Gertrude) moved with the king's court. Thus, Gertrude became introduced to politics during her childhood in the royal...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gertrude_of_Nivelles",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-06_saint_gertrude_of_delft.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b4f694ebac70417b232d8688cd0ef62ba061513a49b0142e6683e6d3a8a0106e",
+        "langs": {
+          "es": {
+            "translatedHash": "e7dafceb2dc5b30dde7da0c4443d187101a6cbd35162c53a57d09cec2ae36738",
+            "updatedAt": "2026-02-24T22:07:51.289Z"
+          },
+          "pl": {
+            "translatedHash": "51efc44aa55fad9c004fc1b406c7a523016460acc6aa4386d5e6164a358a5f37",
+            "updatedAt": "2026-02-24T22:07:54.458Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a14f1e593adb1758cc8b1fe83145ce46b864c3a34f3d8696103cce14c1820b2e",
+        "langs": {
+          "es": {
+            "translatedHash": "91b6523f4dfd8ad2eeba5e846b522cbc1e422e9cf05facc11aba50ee955e0383",
+            "updatedAt": "2026-02-24T22:07:55.067Z"
+          },
+          "pl": {
+            "translatedHash": "36845681ef4d4bcbab5040f91c2a9a5e27aab2840ed8a84fdb5eb4dd371db4ca",
+            "updatedAt": "2026-02-24T22:07:55.641Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1d7c77f1a93e9374b61a3f6081366a8bbe72c69ae4c4d078581c1c1b433ca7ec",
+        "langs": {
+          "es": {
+            "translatedHash": "a1424b01bceee4f0ff8b4399a6b9a16b7df24c3938503ade974e38f1d392c79f",
+            "updatedAt": "2026-02-24T22:07:57.022Z"
+          },
+          "pl": {
+            "translatedHash": "771882914a80f4146e37840ce474a68ff834aa9d6f067ec278f625bb0ff66106",
+            "updatedAt": "2026-02-24T22:07:58.882Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2faeedb43776c029ea419f36497534b777de6b2f0745e45e831d33c5d0c032aa",
+        "langs": {
+          "es": {
+            "translatedHash": "50121d39e22c95c9fed4fc4a52ead5a218f70741c9ee427ba8237bd3c36d6760",
+            "updatedAt": "2026-02-24T22:08:04.747Z"
+          },
+          "pl": {
+            "translatedHash": "758d05eafd6e92b2b726a3785c4abb25f251919c875b4ea3fc109656e24cf635",
+            "updatedAt": "2026-02-24T22:08:12.660Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Gertrudis de Delft",
+  "name_pl": "Święta Gertruda z Delftu",
+  "feast_es": "El Sexto Día de Enero",
+  "feast_pl": "Szósty dzień stycznia",
+  "summary_es": "Gertrudis de Nivelles, OSB, fue una abadesa que, junto con su madre Itta, fundó la Abadía de Nivelles, ahora en Bélgica. Es venerada en las tradiciones católica y ortodoxa oriental.",
+  "summary_pl": "Gertruda z Nivelles, OSB, była opactwem, które wraz ze swoją matką Ittą założyła Opactwo w Nivelles, obecnie w Belgii. Jest czczona w tradycjach katolickiej i wschodnio-prawosławnej.",
+  "biography_es": "Gertrudis de Nivelles, OSB (también escrita Geretrude, Geretrudis, Gertrud; c. 628 – 17 de marzo de 659) fue una abadesa que, junto con su madre Itta, fundó la Abadía de Nivelles, ahora en Bélgica. Es venerada en las tradiciones católica y ortodoxa oriental.\n\nVida\n\nFamilia y infancia\n\nLa historia temprana de la familia de Gertrudis no está bien documentada. El autor anónimo de su biografía de la Alta Edad Media, Vita Sanctae Geretrudis, solo insinúa sus orígenes: \"sería tedioso insertar en este relato de qué linaje terrenal descendía. Porque ¿quién, viviendo en Europa, no conoce la nobleza, los nombres y las localidades de su linaje?\"\n\nEl padre de Gertrudis, Pepino de Landen (Pepino el Viejo), un noble de la Francia oriental, había sido fundamental para persuadir al rey Clotario II de coronar a su hijo, Dagoberto I, como rey de Austrasia. Debido a su posición en la corte, la madre de Gertrudis, Itta de Metz, probablemente conocía a Amandus, el obispo de Maastricht.\n\nCuando Dagoberto sucedió a su padre y la corte se trasladó a Neustria, Pepino y su familia (incluida la joven Gertrudis) se mudaron con la corte real. Así, Gertrudis fue introducida a la política durante su infancia en la corte real...",
+  "biography_pl": "Gertruda z Nivelles, OSB (również pisana Geretrude, Geretrudis, Gertrud; ok. 628 – 17 marca 659) była opactwem, które wraz z matką Ittą założyła Opactwo w Nivelles, obecnie w Belgii. Jest czczona w tradycjach katolickiej i wschodnio-prawosławnej.\n\nŻycie\n\nRodzina i dzieciństwo\n\nWczesna historia rodziny Gertrudy nie jest dobrze udokumentowana. Anonimowy autor jej biografii z wczesnego średniowiecza, Vita Sanctae Geretrudis, jedynie napomyka o jej pochodzeniu: „byłoby nużące włączać w tę relację, z jakiego ziemskiego rodu pochodziła. Bo kto żyjący w Europie nie zna wzniosłości, imion i miejscowości jej rodowodu?”\n\nOjciec Gertrudy, Pepin z Landen (Pepin Starszy), szlachcic z wschodniej Francji, odegrał kluczową rolę w przekonaniu króla Clothara II do koronacji jego syna, Dagoberta I, na króla Austrasji. Ze względu na swoje stanowisko na dworze, matka Gertrudy, Itta z Metz, prawdopodobnie znała Amandusa, biskupa Maastricht.\n\nKiedy Dagobert objął tron po ojcu, a dwór przeniósł się do Neustrii, Pepin wraz z rodziną (w tym młodą Gertrudą) podążył za królewskim dworem. W ten sposób Gertruda została wprowadzona w politykę już w dzieciństwie na dworze królewskim..."
+}

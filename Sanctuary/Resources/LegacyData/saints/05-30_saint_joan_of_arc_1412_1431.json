@@ -1,0 +1,79 @@
+{
+  "id": "05-30_saint_joan_of_arc_1412_1431",
+  "name": "Saint Joan of Arc, 1412–1431",
+  "mmdd": "05-30",
+  "feast": "The Thirtieth Day of May",
+  "summary": "Joan of Arc is a patron saint of France, honored as a defender of the French nation for her role in the siege of Orléans and her insistence on the coronation of Charles VII of France during the Hundred Years' War. Claiming to be acting under divine guidance, she became a military leader who gained recognition as a savior of France.",
+  "biography": "Joan of Arc (French: Jeanne d'Arc [ʒan daʁk] ; Middle French: Jehanne Darc [ʒəˈãnə ˈdark]; c. 1412 – 30 May 1431) is a patron saint of France, honored as a defender of the French nation for her role in the siege of Orléans and her insistence on the coronation of Charles VII of France during the Hundred Years' War. Claiming to be acting under divine guidance, she became a military leader who gained recognition as a savior of France. Joan was born to a propertied peasant family at Domrémy in northeast France. In 1428, she requested to be taken to Charles VII, later testifying that she was guided by visions from the archangel Michael, Saint Margaret, and Saint Catherine to help him save France from English domination. Convinced of her devotion and purity, Charles sent Joan, who was about seventeen years old, to Orléans as part of a relief army. She arrived at the city in April 1429, wielding her banner and bringing hope to the demoralized French army. Nine days after her arrival, the English abandoned the siege. Joan encouraged the French to aggressively pursue the English during the Loire Campaign, which culminated in another decisive victory at Patay, opening the way for the French army...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joan_of_Arc",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-30_saint_joan_of_arc_1412_1431.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "dbf7d66b47aa5f478cd2e5a531a8098fff411eed51b9263aed903b3f6c461459",
+        "langs": {
+          "es": {
+            "translatedHash": "5ec65c1b03e61b5f3ae913c9fe058347ca43236dc3f7e0311dfce3ed20028d43",
+            "updatedAt": "2026-02-24T23:34:02.288Z"
+          },
+          "pl": {
+            "translatedHash": "d667a1ce6b5c899c84e3ca7959345af3df4e7514f3b74aaaba56e1f730147f30",
+            "updatedAt": "2026-02-24T23:34:03.222Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7f14e927d7ad81d01b78e85e6db0e3bfee2ef9062cd5889fd5a74b883d5268e4",
+        "langs": {
+          "es": {
+            "translatedHash": "bc62568ff576935d808c886aa4f7619d02355b07b7dc4ee6876b1c3c9c44bb26",
+            "updatedAt": "2026-02-24T23:34:03.825Z"
+          },
+          "pl": {
+            "translatedHash": "99750c5b55cb9e4afcf407267beca35aca402abc8f31a8d363426de11361d9ea",
+            "updatedAt": "2026-02-24T23:34:04.398Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "590ec607a51c807a5cb4339788e9afa5368a5dda7e1acde9489d56deda8d52a0",
+        "langs": {
+          "es": {
+            "translatedHash": "1969db7c34b1d643ba09717f90e000588e815097639c59d5d9195f58cfa141eb",
+            "updatedAt": "2026-02-24T23:34:06.302Z"
+          },
+          "pl": {
+            "translatedHash": "2dd3c4ea2107b2c4b99d57ebe19e820468c5b137fda17ad0386af243797491e0",
+            "updatedAt": "2026-02-24T23:34:08.060Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "45f23c998b3bb5a186b149ca9232c2356a5030eb28732924d6dd6f8255c715b1",
+        "langs": {
+          "es": {
+            "translatedHash": "c2fe2625c32d9b47fe75007624b930986468f6b8f34ad7d673d7a5bcf0f2e302",
+            "updatedAt": "2026-02-24T23:34:13.471Z"
+          },
+          "pl": {
+            "translatedHash": "357c608c3ff3ef113137d39a610852a28ccb3100a1ac147b218593db4c88b2e0",
+            "updatedAt": "2026-02-24T23:34:20.047Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Juana de Arco, 1412–1431",
+  "name_pl": "Święta Joanna d’Arc, 1412–1431",
+  "feast_es": "El Trigésimo Día de Mayo",
+  "feast_pl": "Trzydziesty dzień maja",
+  "summary_es": "Juana de Arco es una santa patrona de Francia, honrada como defensora de la nación francesa por su papel en el sitio de Orleans y su insistencia en la coronación de Carlos VII de Francia durante la Guerra de los Cien Años. Alegando actuar bajo guía divina, se convirtió en una líder militar que ganó reconocimiento como salvadora de Francia.",
+  "summary_pl": "Joanna d’Arc jest patronką Francji, czczoną jako obrończyni narodu francuskiego za swoją rolę w oblężeniu Orleanu oraz za naleganie na koronację Karola VII Francuskiego podczas wojny stuletniej. Twierdząc, że działa pod boskim przewodnictwem, stała się dowódcą wojskowym, która zyskała uznanie jako wybawicielka Francji.",
+  "biography_es": "Juana de Arco (francés: Jeanne d'Arc [ʒan daʁk]; francés medio: Jehanne Darc [ʒəˈãnə ˈdark]; c. 1412 – 30 de mayo de 1431) es una santa patrona de Francia, honrada como defensora de la nación francesa por su papel en el sitio de Orleans y su insistencia en la coronación de Carlos VII de Francia durante la Guerra de los Cien Años. Alegando actuar bajo guía divina, se convirtió en una líder militar que ganó reconocimiento como salvadora de Francia. Juana nació en una familia campesina acomodada en Domrémy, en el noreste de Francia. En 1428, solicitó ser llevada ante Carlos VII, testificando luego que fue guiada por visiones del arcángel Miguel, Santa Margarita y Santa Catalina para ayudarlo a salvar a Francia de la dominación inglesa. Convencido de su devoción y pureza, Carlos envió a Juana, que tenía alrededor de diecisiete años, a Orleans como parte de un ejército de socorro. Llegó a la ciudad en abril de 1429, portando su estandarte y trayendo esperanza al ejército francés desmoralizado. Nueve días después de su llegada, los ingleses abandonaron el sitio. Juana animó a los franceses a perseguir agresivamente a los ingleses durante la Campaña del Loira, que culminó en otra victoria decisiva en Patay, abriendo el camino para el ejército francés...",
+  "biography_pl": "Joanna d’Arc (francuski: Jeanne d’Arc [ʒan daʁk]; średniowieczny francuski: Jehanne Darc [ʒəˈãnə ˈdark]; ok. 1412 – 30 maja 1431) jest patronką Francji, czczoną jako obrończyni narodu francuskiego za swoją rolę w oblężeniu Orleanu oraz za naleganie na koronację Karola VII Francuskiego podczas wojny stuletniej. Twierdząc, że działa pod boskim przewodnictwem, stała się dowódcą wojskową, która zyskała uznanie jako wybawicielka Francji. Joanna urodziła się w zamożnej chłopskiej rodzinie w Domrémy na północnym wschodzie Francji. W 1428 roku poprosiła o możliwość spotkania z Karolem VII, później zeznając, że kierowały nią wizje archanioła Michała, św. Małgorzaty i św. Katarzyny, które nakazały jej pomóc mu ocalić Francję przed angielską dominacją. Przekonany o jej oddaniu i czystości, Karol wysłał Joannę, która miała około siedemnastu lat, do Orleanu jako część armii odsieczowej. Przybyła do miasta w kwietniu 1429 roku, niosąc swój sztandar i przynosząc nadzieję zdemoralizowanej armii francuskiej. Dziewięć dni po jej przybyciu Anglicy zrezygnowali z oblężenia. Joanna zachęcała Francuzów do zdecydowanego ścigania Anglików podczas kampanii nad Loarą, która zakończyła się kolejnym decydującym zwycięstwem pod Patay, otwierając drogę armii francuskiej..."
+}

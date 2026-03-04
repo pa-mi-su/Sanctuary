@@ -1,0 +1,284 @@
+{
+  "id": "st_benedict",
+  "title": "St. Benedict Novena",
+  "description": "St Benedict of Nursia was born in Umbria, Italy around AD 480. He became the father of Western Monasticism and founder of the Benedictine Order, who motto is ora et labora–prayer and work. Pray this novena for students and for Europe.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Benedict"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 2
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-benedict-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Contempla mi humildad arrodillada a tus pies. Imploro a tu amoroso corazón que ore por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén de Dios con gracia para mí esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a nadie que acudiera a ti. Por eso invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí...) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed moimi wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zabrania, i strzegł się okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, cierpieniach i utrapieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzucałeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwrócił. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyproszysz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie ku większej chwale Boga i zbawieniu mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro a tu amoroso corazón que ore por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén de Dios con gracia para mí esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo tan lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a nadie que recurriera a ti. Por lo tanto, invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí…) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed moimi wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zabrania, i stronił od okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, niedolach i cierpieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzuciłeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwrócił. Wzywam więc Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli będzie to na większą chwałę Boga i dobro mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro tu amoroso corazón para que ores por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén de Dios con gracia para mí esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo tan lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a nadie que acudiera a ti. Por lo tanto, invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí…) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zabrania, i stronił od okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, niedolach i cierpieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzuciłeś bez pociechy i pomocy nikogo, kto do Ciebie się zwrócił. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyproszysz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie ku większej chwale Bożej i zbawieniu mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! He aquí que me postro humildemente a tus pies. Imploro a tu amoroso corazón que ore por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén de Dios con gracia para mí esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo tan lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a nadie que acudiera a ti. Por lo tanto, invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí…) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed wrogami, natchnij mnie, abym we wszystkim naśladował Ciebie. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zabrania, i strzegł się okazji do grzechu. Łaskawie wyproś mi u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, niedolach i cierpieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzucałeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwracał. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz mi szczególną łaskę i przychylność, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie ku większej chwale Boga i zbawieniu mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro a tu corazón amoroso que ore por mí ante el trono de Dios. A ti recurro en todos los peligros que me rodean diariamente. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén para mí de Dios, con gracia, esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca rechazaste sin consuelo y ayuda a nadie que acudiera a ti. Por eso invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí...) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie ze mną zawsze, abym unikał wszystkiego, czego Bóg zabrania, i stronił od okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, cierpieniach i utrapieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzuciłeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwrócił. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie dla większej chwały Boga i dobra mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro a tu corazón amoroso que ore por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén para mí, con gracia, de Dios esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo tan lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a nadie que acudiera a ti. Por lo tanto, invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí…) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłujące serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed moimi wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zabrania, i strzegł się okazji do grzechu. Łaskawie wyproś mi u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, niedolach i cierpieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób uciskani lub zmartwieni. Nigdy nie odrzuciłeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwrócił. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz dla mnie szczególną łaskę i przysługę, o którą tak gorąco proszę (wymień prośbę tutaj…), jeśli to będzie ku większej chwale Boga i zbawieniu mojej duszy.\n\nPomóż mi, o wielki św. Benedykcie, żyć i umrzeć jako wierny dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro tu corazón amoroso para que ores por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén para mí de Dios, con gracia, esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo tan lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a nadie que acudiera a ti. Por eso invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí…) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś modlił się za mnie przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zakazuje, i strzegł się okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, cierpieniach i utrapieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzucałeś bez pociechy i pomocy nikogo, kto do Ciebie się uciekał. Wzywam więc Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie dla większej chwały Boga i dobra mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro a tu amoroso corazón que ore por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén de Dios con gracia para mí esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo tan lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca despediste sin consuelo y ayuda a quien a ti acudía. Por tanto, invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y me obtendrás la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí...) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto ja, pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś wstawiał się za mną przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed moimi wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zakazuje, i strzegł się okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, niedolach i cierpieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób uciskani lub zmartwieni. Nigdy nie odrzuciłeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwrócił. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie ku większej chwale Boga i zbawieniu mojej duszy.\n\nPomóż mi, wielki św. Benedykcie, żyć i umrzeć jako wierny dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Benedict, sublime model of all virtues, pure vessel of God’s grace! Behold me, humbly kneeling at thy feet. I implore thy loving heart to pray for me before the throne of God. To thee I have recourse in all the dangers which daily surround me. Shield me against my enemies, inspire me to imitate thee in all things. May thy blessing be with me always, so that I may shun whatever God forbids and avoid the occasions of sin. Graciously obtain for me from God those favors and graces of which I stand so much in need, in the trials, miseries and afflictions of life. Thy heart was always so full of love, compassion, and mercy toward those who were afflicted or troubled in any way. Thou didst never dismiss without consolation and assistance anyone who had recourse to thee. I therefore invoke thy powerful intercession, in the confident hope that thou wilt hear my prayers and obtain for me the special grace and favor I so earnestly implore (mention request here…) if it be for the greater glory of God and the welfare of my soul.\n\nHelp me, O great St. Benedict, to live and die as a faithful child of God, to be ever submissive to His holy will, and to attain the eternal happiness of heaven. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Benito, sublime modelo de todas las virtudes, puro vaso de la gracia de Dios! Mírame, humildemente arrodillado a tus pies. Imploro tu corazón amoroso para que ores por mí ante el trono de Dios. A ti recurro en todos los peligros que diariamente me rodean. Protégeme contra mis enemigos, inspírame a imitarte en todas las cosas. Que tu bendición esté siempre conmigo, para que evite todo lo que Dios prohíbe y rehúya las ocasiones de pecado. Obtén para mí, con gracia, de Dios esos favores y gracias que tanto necesito en las pruebas, miserias y aflicciones de la vida. Tu corazón siempre estuvo lleno de amor, compasión y misericordia hacia los que estaban afligidos o atribulados de cualquier manera. Nunca rechazaste sin consuelo y ayuda a nadie que acudiera a ti. Por eso invoco tu poderosa intercesión, con la segura esperanza de que escucharás mis oraciones y obtendrás para mí la gracia y favor especial que tan fervientemente imploro (mencionar la petición aquí…) si es para la mayor gloria de Dios y el bien de mi alma.\n\nAyúdame, oh gran San Benito, a vivir y morir como un hijo fiel de Dios, a estar siempre sometido a Su santa voluntad, y a alcanzar la felicidad eterna del cielo. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny św. Benedykcie, wzniosły wzorze wszelkich cnót, czysty naczyniu Bożej łaski! Oto pokornie klękam u Twoich stóp. Błagam Twoje miłosierne serce, abyś wstawiał się za mną przed tronem Boga. Do Ciebie uciekam się we wszystkich niebezpieczeństwach, które codziennie mnie otaczają. Chroń mnie przed wrogami, natchnij mnie, abym naśladował Cię we wszystkim. Niech Twoje błogosławieństwo będzie zawsze ze mną, abym unikał wszystkiego, czego Bóg zabrania, i stronił od okazji do grzechu. Łaskawie wyproś u Boga te łaski i dary, których tak bardzo potrzebuję w próbach, cierpieniach i utrapieniach życia. Twoje serce zawsze było pełne miłości, współczucia i miłosierdzia wobec tych, którzy byli w jakikolwiek sposób udręczeni lub zmartwieni. Nigdy nie odrzucałeś bez pocieszenia i pomocy nikogo, kto do Ciebie się zwrócił. Dlatego wzywam Twojej potężnej wstawienniczej pomocy, z ufnością, że wysłuchasz moich modlitw i wyprosisz dla mnie szczególną łaskę i przysługę, o którą gorąco proszę (wymień prośbę tutaj…), jeśli to będzie ku większej chwale Boga i pożytkowi mojej duszy.\n\nPomóż mi, o wielki św. Benedykcie, żyć i umrzeć jako wierne dziecko Boże, być zawsze posłusznym Jego świętej woli i osiągnąć wieczne szczęście nieba. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_benedict.jpg",
+  "sourceFacts": {
+    "starts": "July 2Feastday:July 11Birth:480Death:547Patron saint of Against poison, Against curses, Agricultural workers, Cavers, Civil engineers, Coppersmiths, Dying people, Erysipelas, Europe, Farmers, Fever, Gall stones, Heerdt, Germany, Heraldry and Officers of arms, the Institute of Christ the King Sovereign Priest, Inflammatory diseases, Italian architects, Kidney disease, Monks, Nettle rash, Norcia, Italy, People in religious orders, San Beda University, Schoolchildren and students, Servants who have broken their master's belongings, Speleologists, Spelunkers, Temptations 📱",
+    "feast": "July 11Birth:480Death:547Patron saint of Against poison, Against curses, Agricultural workers, Cavers, Civil engineers, Coppersmiths, Dying people, Erysipelas, Europe, Farmers, Fever, Gall stones, Heerdt, Germany, Heraldry and Officers of arms, the Institute of Christ the King Sovereign Priest, Inflammatory diseases, Italian architects, Kidney disease, Monks, Nettle rash, Norcia, Italy, People in religious orders, San Beda University, Schoolchildren and students, Servants who have broken their master's belongings, Speleologists, Spelunkers, Temptations 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "c1201e3d3598f63b5ceea9f12b7716c5c0c30ee41fb98d4532ba4afbc44986cf",
+        "langs": {
+          "es": {
+            "translatedHash": "9f11afa3dbf7d4c9450a2855674be5ca9b7aab45a5f45ccc139038d051d0b4d6",
+            "updatedAt": "2026-02-25T12:02:54.815Z"
+          },
+          "pl": {
+            "translatedHash": "5f03a0f688b5e7ba681c25799d82fc220d96974b65a9293090bdb10f40e0ece3",
+            "updatedAt": "2026-02-25T12:02:55.610Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "350a5d3038fe92279a9b8e01e097bd24539966384662343669af9e831df2ab3d",
+        "langs": {
+          "es": {
+            "translatedHash": "acda8618a7cd34276f343f76f0b5441ee1f02f395580df51d6af843e8ddf20f8",
+            "updatedAt": "2026-02-25T12:02:57.003Z"
+          },
+          "pl": {
+            "translatedHash": "23db89be245971675bc17460b24f7364937d51f2c16606b710f6eb5a919dd61f",
+            "updatedAt": "2026-02-25T12:02:58.837Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "2dcca569c513c671392278507f552e177b32591d69aff6b99db27ee7014f5faa",
+        "langs": {
+          "es": {
+            "translatedHash": "fcc65fdb6234c0b2560095824349f922c74cc2cfbd6ef6a9979998a82f315473",
+            "updatedAt": "2026-02-25T12:03:04.986Z"
+          },
+          "pl": {
+            "translatedHash": "4632b0feb2205f7a76a65789a8bafada9e715e813900f7f9b74c0be56a6a169b",
+            "updatedAt": "2026-02-25T12:03:12.468Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "c1321513d8df7826f8b54999a914211c3e28dd1d7687709bf935ecd5d26bd388",
+        "langs": {
+          "es": {
+            "translatedHash": "47b3b29b46bbc75cb80af8d2cb6b4e7fa2adad2756a56a2360a84b7b6bb1bc25",
+            "updatedAt": "2026-02-25T12:03:21.806Z"
+          },
+          "pl": {
+            "translatedHash": "1b3eb03fed4abbb8b5fba7bcc0ca2d2c7600e4d2fcd595316c3342e3661790e3",
+            "updatedAt": "2026-02-25T12:03:29.652Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "23228e9f9bd83319e466c968cb6342f04f589e69d3ae2532c13dbeb6b2245462",
+        "langs": {
+          "es": {
+            "translatedHash": "99d4998e2584216cdd3b26f69b4947f46fe01d4f856c1a3bb2c7e8d61e871d4a",
+            "updatedAt": "2026-02-25T12:03:37.436Z"
+          },
+          "pl": {
+            "translatedHash": "c21eb75abf268f5f15f42f171751638e8520bdeb1aa724693d9e0f95fa2780c2",
+            "updatedAt": "2026-02-25T12:03:45.981Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "15880a2ef4b6a2d3f21bd82e9bc5ec168a8f50951dd1e1c462dd0cbd259c6a17",
+        "langs": {
+          "es": {
+            "translatedHash": "055057227b93ebf2b89a7906a7cbb72479b82613f2f120c29c4aa6b70ca9fa6f",
+            "updatedAt": "2026-02-25T12:03:52.133Z"
+          },
+          "pl": {
+            "translatedHash": "41892cb81331eb1f5b1f772871c4b4db113c506f913f9d1dba4c304be788a65d",
+            "updatedAt": "2026-02-25T12:03:58.807Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "26171793ad2519664358bcdf53ad29dec098a984dc614d05e4cc8379be831f82",
+        "langs": {
+          "es": {
+            "translatedHash": "17ef7c3e4036f2ecd72c9b7fd3f65526747d6398dc8ba82c914a81d0a48a2048",
+            "updatedAt": "2026-02-25T12:04:04.419Z"
+          },
+          "pl": {
+            "translatedHash": "8517ca0dc96795e9f35200cb6e9477c9d4c04bfb10bc59630d043ec1c115b323",
+            "updatedAt": "2026-02-25T12:04:10.854Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "d86d5de3e345da068b63ee2b05e260d9f5c0586a95f786e20786ee314e966a34",
+        "langs": {
+          "es": {
+            "translatedHash": "f213421a049f69cd9ac8efd293d4d90fbb43c5e79079484bce01a7089065f0d5",
+            "updatedAt": "2026-02-25T12:04:16.845Z"
+          },
+          "pl": {
+            "translatedHash": "33bdee528f14f308a422eb47e0e43525730e48eec2c3631e947207a3f4fb1d1a",
+            "updatedAt": "2026-02-25T12:04:23.564Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "aee855825bd1c4f51f6ae650f32b59c0de1136507d7713f26ae2c99c335c4992",
+        "langs": {
+          "es": {
+            "translatedHash": "04b28f9693179ecba00b2f661917414401bb82f028bd6dd11d9d6eb883b2b29b",
+            "updatedAt": "2026-02-25T12:04:28.408Z"
+          },
+          "pl": {
+            "translatedHash": "3600462e25a1824509f004abee48abfa7eadd117ded7d12f9af6459bde012504",
+            "updatedAt": "2026-02-25T12:04:34.554Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "897f21a80851acd445c7d57c1c13d5a25a22a8d56b944f82cbc678ac29d2f204",
+        "langs": {
+          "es": {
+            "translatedHash": "dba7f133953e9217e8fc9c2bf46f1c77a2a9489d5cd219c71d158e352b9f178a",
+            "updatedAt": "2026-02-25T12:04:39.911Z"
+          },
+          "pl": {
+            "translatedHash": "0014454b8bcc5bbebe6df77f3803992457a7cc109e0eec5a597f028fafaa456e",
+            "updatedAt": "2026-02-25T12:04:59.107Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "99f11a7e37ab2d4f51660dd152a8bfc5498388937bfba8b9051b1f60d04ee8db",
+        "langs": {
+          "es": {
+            "translatedHash": "bd78d72bd41854179988dd9d2f932fe7a9da4f887656bd8b5ab14148de46a781",
+            "updatedAt": "2026-02-25T12:05:04.261Z"
+          },
+          "pl": {
+            "translatedHash": "233f44025c0b5bd9240439c32000ed7c58e644f1753f3175866a90c60c1a9609",
+            "updatedAt": "2026-02-25T12:05:11.944Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Benito",
+  "title_pl": "Nowenna do św. Benedykta",
+  "description_es": "San Benito de Nursia nació en Umbría, Italia, alrededor del año 480 d.C. Se convirtió en el padre del monacato occidental y fundador de la Orden Benedictina, cuyo lema es ora et labora – oración y trabajo. Reza esta novena por los estudiantes y por Europa.",
+  "description_pl": "Św. Benedykt z Nursji urodził się w Umbrii we Włoszech około 480 roku n.e.  \nStał się ojcem zachodniego monastycyzmu i założycielem zakonu benedyktynów, którego motto brzmi ora et labora – módl się i pracuj.  \nMódl się tę nowennę za uczniów i za Europę.",
+  "intentions": [
+    "students",
+    "europe",
+    "kidney_disease",
+    "poisoning"
+  ],
+  "intentions_es": [
+    "estudiantes",
+    "europa",
+    "nefropatía",
+    "envenenamiento"
+  ],
+  "intentions_pl": [
+    "studenci",
+    "europa",
+    "choroba_nerek",
+    "zatrucie"
+  ]
+}
