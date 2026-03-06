@@ -40,8 +40,8 @@ struct NovenasListView: View {
                     ProgressView()
                 }
             }
-            .navigationTitle("Novenas")
-            .searchable(text: $viewModel.query, prompt: "Search novenas")
+            .navigationTitle(localization.t("tab.novenas"))
+            .searchable(text: $viewModel.query, prompt: localization.t("search.novenasPrompt"))
             .onSubmit(of: .search) {
                 Task { await viewModel.search() }
             }

@@ -58,6 +58,10 @@ protocol UserProgressRepository: Sendable {
         day: Int,
         completedAt: Date
     ) async throws -> UserNovenaCommitment
+    func removeNovenaCommitment(
+        userID: String,
+        novenaID: String
+    ) async throws
 }
 
 protocol SearchRepository: Sendable {

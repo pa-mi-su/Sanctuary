@@ -3,13 +3,23 @@ import Combine
 
 @MainActor
 final class NovenasListViewModel: ObservableObject {
+    private struct IndexedNovena: Sendable {
+        let novena: Novena
+        let searchableText: String
+    }
+
     @Published private(set) var novenas: [Novena] = []
-    @Published var query: String = ""
+    @Published var query: String = "" {
+        didSet { scheduleFilter() }
+    }
     @Published private(set) var isLoading = false
     @Published private(set) var errorMessage: String?
 
     private let useCase: ListNovenasUseCase
     private var locale: ContentLocale
+    private var allNovenas: [Novena] = []
+    private var indexedNovenas: [IndexedNovena] = []
+    private var filterTask: Task<Void, Never>?
 
     init(useCase: ListNovenasUseCase, locale: ContentLocale = .en) {
         self.useCase = useCase
@@ -18,6 +28,8 @@ final class NovenasListViewModel: ObservableObject {
 
     func setLocale(_ locale: ContentLocale) {
         self.locale = locale
+        rebuildIndex()
+        scheduleFilter(immediate: true)
     }
 
     func load() async {
@@ -25,25 +37,21 @@ final class NovenasListViewModel: ObservableObject {
         defer { isLoading = false }
 
         do {
-            novenas = try await useCase.execute(locale: locale, query: nil)
+            allNovenas = try await useCase.execute(locale: locale, query: nil)
+            rebuildIndex()
+            scheduleFilter(immediate: true)
             errorMessage = nil
         } catch {
             errorMessage = "Unable to load novenas."
+            allNovenas = []
+            indexedNovenas = []
             novenas = []
         }
     }
 
     func search() async {
-        isLoading = true
-        defer { isLoading = false }
-
-        do {
-            novenas = try await useCase.execute(locale: locale, query: query)
-            errorMessage = nil
-        } catch {
-            errorMessage = "Search failed."
-            novenas = []
-        }
+        scheduleFilter(immediate: true)
+        errorMessage = nil
     }
 
     func title(for novena: Novena) -> String {
@@ -56,5 +64,49 @@ final class NovenasListViewModel: ObservableObject {
 
     func dayText(for novena: Novena) -> String {
         "\(novena.durationDays)-day novena"
+    }
+
+    private func scheduleFilter(immediate: Bool = false) {
+        filterTask?.cancel()
+        let q = normalized(query)
+
+        guard !q.isEmpty else {
+            novenas = allNovenas
+            return
+        }
+
+        let snapshot = indexedNovenas
+        filterTask = Task {
+            if !immediate {
+                try? await Task.sleep(nanoseconds: 80_000_000)
+            }
+            guard !Task.isCancelled else { return }
+
+            let filtered = await Task.detached(priority: .userInitiated) {
+                snapshot
+                    .filter { $0.searchableText.contains(q) }
+                    .map(\.novena)
+            }.value
+
+            guard !Task.isCancelled else { return }
+            guard normalized(self.query) == q else { return }
+            self.novenas = filtered
+        }
+    }
+
+    private func rebuildIndex() {
+        indexedNovenas = allNovenas.map { novena in
+            let titleText = title(for: novena)
+            let summaryText = summary(for: novena)
+            let tags = novena.tags.joined(separator: " ")
+            let blob = "\(titleText) \(summaryText) \(novena.slug) \(tags)"
+            return IndexedNovena(novena: novena, searchableText: normalized(blob))
+        }
+    }
+
+    private func normalized(_ value: String) -> String {
+        value
+            .folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current)
+            .trimmingCharacters(in: .whitespacesAndNewlines)
     }
 }

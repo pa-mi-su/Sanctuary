@@ -1,86 +1,93 @@
 import SwiftUI
 
 struct HomeView: View {
+    let environment: AppEnvironment
     @Binding var selectedTab: AppTab
+    let onOpenIntentions: () -> Void
     @Environment(\.openURL) private var openURL
     @EnvironmentObject private var localization: LocalizationManager
 
     @State private var showLanguageDialog = false
     @State private var showAbout = false
+    @State private var showPrayersSearch = false
+    @State private var showParishFinder = false
 
     var body: some View {
         NavigationStack {
-            ZStack {
-                AppTheme.backgroundGradient.ignoresSafeArea()
+            GeometryReader { proxy in
+                let width = proxy.size.width
+                let scale = ResponsiveLayout.scale(for: width)
+                let logoSize = ResponsiveLayout.value(150, width: width)
+                let contentWidth = max(0, min(width - 24, 760))
 
-                ScrollView(showsIndicators: false) {
-                    VStack(spacing: 16) {
-                        HStack(spacing: 14) {
-                            TopActionButton(title: localization.t("home.about"), icon: "info.circle") {
-                                showAbout = true
+                ZStack {
+                    AppTheme.backgroundGradient.ignoresSafeArea()
+
+                    ScrollView(showsIndicators: false) {
+                        VStack(spacing: 12 * scale) {
+                            HStack(spacing: 10 * scale) {
+                                TopActionButton(title: localization.t("home.about"), icon: "info.circle") {
+                                    showAbout = true
+                                }
+                                TopActionButton(title: "\(localization.t("home.language")): \(localization.language.displayName)", icon: "translate") {
+                                    showLanguageDialog = true
+                                }
                             }
-                            TopActionButton(title: "\(localization.t("home.language")): \(localization.language.displayName)", icon: "translate") {
-                                showLanguageDialog = true
+                            .padding(.top, 10 * scale)
+
+                            Image("BrandLogo")
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: logoSize, height: logoSize)
+                                .clipShape(RoundedRectangle(cornerRadius: 22 * scale, style: .continuous))
+                                .padding(.top, 4 * scale)
+
+                            Text(localization.t("home.welcome"))
+                                .font(AppTheme.rounded(31 * scale, weight: .bold))
+                                .minimumScaleFactor(0.7)
+                                .multilineTextAlignment(.center)
+                                .foregroundStyle(.white)
+
+                            Text(localization.t("home.connect"))
+                                .font(AppTheme.rounded(17 * scale, weight: .semibold))
+                                .multilineTextAlignment(.center)
+                                .foregroundStyle(AppTheme.subtitleText)
+                                .padding(.bottom, 2 * scale)
+
+                            Button(localization.t("home.saints")) { switchTab(.saints) }
+                                .buttonStyle(PrimaryPillButtonStyle())
+
+                            Button(localization.t("tab.novenas")) { switchTab(.novenas) }
+                                .buttonStyle(PrimaryPillButtonStyle())
+
+                            Button(localization.t("home.prayers")) {
+                                showPrayersSearch = true
                             }
-                        }
-                        .padding(.top, 14)
-
-                        Image("BrandLogo")
-                            .resizable()
-                            .scaledToFit()
-                            .frame(width: 180, height: 180)
-                            .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
-                            .padding(.top, 8)
-
-                        Text(localization.t("home.welcome"))
-                            .font(.system(size: 56, weight: .heavy))
-                            .minimumScaleFactor(0.5)
-                            .multilineTextAlignment(.center)
-                            .foregroundStyle(.white)
-
-                        Text(localization.t("home.connect"))
-                            .font(.system(size: 24, weight: .bold))
-                            .multilineTextAlignment(.center)
-                            .foregroundStyle(AppTheme.subtitleText)
-                            .padding(.bottom, 4)
-
-                        Button(localization.t("home.saints")) { selectedTab = .saints }
                             .buttonStyle(PrimaryPillButtonStyle())
 
-                        Button(localization.t("tab.novenas")) { selectedTab = .novenas }
+                            Button(localization.t("home.daily")) {
+                                if let url = URL(string: "https://bible.usccb.org/daily-bible-reading") {
+                                    openURL(url)
+                                }
+                            }
                             .buttonStyle(PrimaryPillButtonStyle())
 
-                        Button(localization.t("home.prayers")) {
-                            if let url = URL(string: "https://www.fisheaters.com/prayers.html") {
-                                openURL(url)
+                            Button(localization.t("home.intentions")) {
+                                switchTab(.novenas)
+                                onOpenIntentions()
                             }
-                        }
                             .buttonStyle(PrimaryPillButtonStyle())
 
-                        Button(localization.t("home.daily")) {
-                            if let url = URL(string: "https://bible.usccb.org/daily-bible-reading") {
-                                openURL(url)
+                            Button(localization.t("home.parish")) {
+                                showParishFinder = true
                             }
-                        }
-                        .buttonStyle(PrimaryPillButtonStyle())
-
-                        Button(localization.t("home.intentions")) {
-                            if let url = URL(string: "https://www.praymorenovenas.com/prayer-intentions") {
-                                openURL(url)
-                            }
-                        }
                             .buttonStyle(PrimaryPillButtonStyle())
-
-                        Button(localization.t("home.parish")) {
-                            if let url = URL(string: "https://masstimes.org") {
-                                openURL(url)
-                            }
+                            .padding(.bottom, 18 * scale)
                         }
-                            .buttonStyle(PrimaryPillButtonStyle())
-                            .padding(.bottom, 18)
+                        .frame(maxWidth: contentWidth)
+                        .padding(.horizontal, 12 * scale)
+                        .padding(.bottom, 16 * scale)
                     }
-                    .padding(.horizontal, 20)
-                    .padding(.bottom, 24)
                 }
             }
             .sheet(isPresented: $showLanguageDialog) {
@@ -90,7 +97,24 @@ struct HomeView: View {
             .sheet(isPresented: $showAbout) {
                 AboutView()
             }
+            .sheet(isPresented: $showPrayersSearch) {
+                PrayersSearchView(environment: environment)
+            }
+            .sheet(isPresented: $showParishFinder) {
+                ParishFinderView()
+            }
             .toolbar(.hidden)
+        }
+    }
+}
+
+private extension HomeView {
+    func switchTab(_ tab: AppTab) {
+        // Keep tap path pure: state change only, no IO or background kickoff.
+        var tx = Transaction()
+        tx.disablesAnimations = true
+        withTransaction(tx) {
+            selectedTab = tab
         }
     }
 }
@@ -104,7 +128,7 @@ private struct LanguagePickerSheet: View {
             AppTheme.cardBackground.ignoresSafeArea()
             VStack(alignment: .leading, spacing: 16) {
                 Text(localization.t("home.chooseLanguage"))
-                    .font(.system(size: 22, weight: .semibold))
+                    .font(AppTheme.rounded(22, weight: .semibold))
                     .foregroundStyle(AppTheme.cardText)
 
                 ForEach(AppLanguage.allCases) { language in
@@ -120,7 +144,7 @@ private struct LanguagePickerSheet: View {
                     Button(localization.t("common.close")) {
                         dismiss()
                     }
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(AppTheme.rounded(16, weight: .semibold))
                     .foregroundStyle(AppTheme.purpleButton)
                 }
                 .padding(.top, 8)
@@ -132,6 +156,6 @@ private struct LanguagePickerSheet: View {
 
 struct HomeView_Previews: PreviewProvider {
     static var previews: some View {
-        HomeView(selectedTab: .constant(.home))
+        HomeView(environment: .local(), selectedTab: .constant(.home), onOpenIntentions: {})
     }
 }

@@ -6,7 +6,8 @@ struct AppEnvironment {
     let searchRepository: any SearchRepository
 
     static func local() -> AppEnvironment {
-        let contentRepository = LocalContentRepository()
+        // Avoid eager large in-memory seed payload allocation at startup.
+        let contentRepository = LocalContentRepository(fallbackToSeed: false)
         let userProgressRepository = LocalUserProgressRepository()
         let searchRepository = LocalSearchRepository(contentRepository: contentRepository)
 
@@ -17,4 +18,3 @@ struct AppEnvironment {
         )
     }
 }
-

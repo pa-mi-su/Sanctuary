@@ -20,34 +20,34 @@ struct AboutView: View {
                             .foregroundStyle(AppTheme.subtitleText)
 
                         AboutCard(title: localization.t("about.whatsInApp")) {
-                            Text("• Liturgical: seasons + major celebrations that shape the Church year.")
-                            Text("• Saints: saint of the day + other saints commemorated.")
-                            Text("• Novenas: novenas that start today + related feast days.")
+                            Text(localization.t("about.item.liturgical"))
+                            Text(localization.t("about.item.saints"))
+                            Text(localization.t("about.item.novenas"))
                         }
 
                         AboutCard(title: localization.t("about.references")) {
-                            Text("Calendar and devotional data are curated from trusted Catholic references and public-domain materials.")
-                            Text("Data sources currently used in this app:")
+                            Text(localization.t("about.refsIntro"))
+                            Text(localization.t("about.refsDataSources"))
                                 .fontWeight(.bold)
                                 .padding(.top, 8)
-                            Text("• USCCB (daily readings)")
-                            Text("• Fish Eaters (novena source content)")
-                            Text("• Wikipedia (primary saint enrichment source)")
-                            Text("• CatholicSaints.info")
-                            Text("• New Advent")
-                            Text("• Vatican News")
-                            Text("• Franciscan Media")
+                            Text(localization.t("about.source.usccb"))
+                            Text(localization.t("about.source.fisheaters"))
+                            Text(localization.t("about.source.wikipedia"))
+                            Text(localization.t("about.source.catholicsaints"))
+                            Text(localization.t("about.source.newadvent"))
+                            Text(localization.t("about.source.vaticannews"))
+                            Text(localization.t("about.source.franciscan"))
                                 .padding(.bottom, 8)
 
-                            LinkButton(title: "USCCB Daily Bible Reading", url: "https://bible.usccb.org/daily-bible-reading", filled: true)
-                            LinkButton(title: "Liturgical calendar reference", url: "https://mycatholic.life/liturgy/", filled: false)
-                            LinkButton(title: "Novenas reference", url: "https://www.fisheaters.com/novenas.html", filled: true)
+                            LinkButton(title: localization.t("about.link.usccb"), url: "https://bible.usccb.org/daily-bible-reading", filled: true)
+                            LinkButton(title: localization.t("about.link.liturgical"), url: "https://mycatholic.life/liturgy/", filled: false)
+                            LinkButton(title: localization.t("about.link.novenas"), url: "https://www.fisheaters.com/novenas.html", filled: true)
                         }
 
                         AboutCard(title: localization.t("about.contact")) {
-                            Text("To report bugs, request corrections, or send general comments, contact the app team directly.")
-                            LinkButton(title: "Report a bug", url: "mailto:support@sanctuaryapp.com", filled: true)
-                            LinkButton(title: "Send feedback", url: "mailto:info@sanctuaryapp.com", filled: false)
+                            Text(localization.t("about.contactBody"))
+                            LinkButton(title: localization.t("about.link.reportBug"), url: "mailto:support@sanctuaryapp.com", filled: true)
+                            LinkButton(title: localization.t("about.link.feedback"), url: "mailto:info@sanctuaryapp.com", filled: false)
                         }
                     }
                     .padding(16)
@@ -57,12 +57,12 @@ struct AboutView: View {
             .toolbar {
 #if os(iOS)
                 ToolbarItem(placement: .topBarLeading) {
-                    Button("Close") { dismiss() }
+                    Button(localization.t("common.close")) { dismiss() }
                         .foregroundStyle(.white)
                 }
 #else
                 ToolbarItem(placement: .navigation) {
-                    Button("Close") { dismiss() }
+                    Button(localization.t("common.close")) { dismiss() }
                         .foregroundStyle(.white)
                 }
 #endif

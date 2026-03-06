@@ -23,11 +23,11 @@ struct SaintsListView: View {
                         VStack(alignment: .leading, spacing: 4) {
                             Text(saint.name)
                                 .font(.headline)
-                            Text(viewModel.biography(for: saint))
+                            Text(viewModel.summary(for: saint))
                                 .font(.subheadline)
                                 .foregroundStyle(.secondary)
                                 .lineLimit(2)
-                            Text("Feast: \(saint.feastMonth)/\(saint.feastDay)")
+                            Text("\(localization.t("saints.feastShort")): \(saint.feastMonth)/\(saint.feastDay)")
                                 .font(.caption)
                                 .foregroundStyle(.secondary)
                         }
@@ -40,8 +40,8 @@ struct SaintsListView: View {
                     ProgressView()
                 }
             }
-            .navigationTitle("Saints")
-            .searchable(text: $viewModel.query, prompt: "Search saints")
+            .navigationTitle(localization.t("tab.saints"))
+            .searchable(text: $viewModel.query, prompt: localization.t("search.saintsPrompt"))
             .onSubmit(of: .search) {
                 Task { await viewModel.search() }
             }

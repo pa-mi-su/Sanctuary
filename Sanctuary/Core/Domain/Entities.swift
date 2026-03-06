@@ -20,11 +20,19 @@ struct Saint: Codable, Identifiable, Hashable, Sendable {
     let imageURL: URL?
     let tags: [String]
     let patronages: [String]
+    let feastLabelByLocale: [ContentLocale: String]
+    let summaryByLocale: [ContentLocale: String]
     let biographyByLocale: [ContentLocale: String]
+    let prayersByLocale: [ContentLocale: [String]]
+    let sources: [String]
 }
 
 struct NovenaDay: Codable, Hashable, Sendable {
     let dayNumber: Int
+    let titleByLocale: [ContentLocale: String]
+    let scriptureByLocale: [ContentLocale: String]
+    let prayerByLocale: [ContentLocale: String]
+    let reflectionByLocale: [ContentLocale: String]
     let bodyByLocale: [ContentLocale: String]
 }
 

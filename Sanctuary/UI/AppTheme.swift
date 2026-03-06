@@ -29,6 +29,10 @@ enum AppTheme {
             endPoint: .bottom
         )
     }
+
+    static func rounded(_ size: CGFloat, weight: Font.Weight) -> Font {
+        .system(size: size, weight: weight, design: .rounded)
+    }
 }
 
 extension Color {
@@ -61,25 +65,25 @@ extension Color {
 struct PrimaryPillButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
-            .font(.system(size: 22, weight: .bold))
+            .font(AppTheme.rounded(13, weight: .semibold))
             .foregroundStyle(.white)
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 20)
+            .padding(.vertical, 10)
             .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.82 : 1.0))
-            .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
     }
 }
 
 struct SecondaryPillButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
-            .font(.system(size: 22, weight: .semibold))
+            .font(AppTheme.rounded(13, weight: .semibold))
             .foregroundStyle(AppTheme.purpleButton)
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 20)
+            .padding(.vertical, 10)
             .background(Color.clear)
             .overlay(
-                RoundedRectangle(cornerRadius: 22, style: .continuous)
+                RoundedRectangle(cornerRadius: 18, style: .continuous)
                     .stroke(AppTheme.purpleOutline, lineWidth: 2)
             )
             .opacity(configuration.isPressed ? 0.75 : 1.0)
@@ -93,17 +97,17 @@ struct TopActionButton: View {
 
     var body: some View {
         Button(action: action) {
-            HStack(spacing: 10) {
+            HStack(spacing: 8) {
                 Image(systemName: icon)
-                    .font(.system(size: 24))
+                    .font(AppTheme.rounded(13, weight: .semibold))
                 Text(title)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(AppTheme.rounded(12, weight: .semibold))
             }
             .foregroundStyle(Color.white.opacity(0.9))
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 16)
+            .padding(.vertical, 9)
             .background(AppTheme.purpleButton.opacity(0.72))
-            .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+            .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
         }
         .buttonStyle(.plain)
     }
