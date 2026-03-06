@@ -264,15 +264,12 @@
   "description_es": "San Patricio fue esclavizado cuando era adolescente, pero escapó y se convirtió en misionero en Irlanda. Su valentía y fe convirtieron a los irlandeses del paganismo celta al catolicismo.",
   "description_pl": "Św. Patryk został zniewolony jako nastolatek, ale uciekł i został misjonarzem w Irlandii. Jego odwaga i wiara nawróciły Irlandczyków z celtyckiego pogaństwa na katolicyzm.",
   "intentions": [
-    "ireland",
+    "Ireland",
     "engineers"
   ],
-  "intentions_es": [
-    "irlanda",
-    "ingenieros"
-  ],
-  "intentions_pl": [
-    "irlandia",
-    "inżynierowie"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-patricks-novena/"
   ]
 }

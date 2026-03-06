@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Franciszki Ksawery Cabrini",
   "description_es": "Santa Francisca Javier Cabrini fue una monja italoamericana y fundadora de las Hermanas Misioneras del Sagrado Corazón de Jesús. Es la patrona de los inmigrantes y de los administradores de hospitales.",
   "description_pl": "Św. Franciszka Ksawera Cabrini była włosko-amerykańską zakonnicą i założycielką Misjonarek Serca Jezusowego. Jest patronką imigrantów i dyrektorów szpitali.",
-  "intentions": [
-    "immigrants",
-    "hospital_administrators"
-  ],
-  "intentions_es": [
-    "inmigrantes",
-    "administradores_de_hospitales"
-  ],
-  "intentions_pl": [
-    "imigranci",
-    "administratorzy_szpitali"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-frances-xavier-cabrini-novena/"
   ]
 }

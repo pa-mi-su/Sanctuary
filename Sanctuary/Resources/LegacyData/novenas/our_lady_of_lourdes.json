@@ -264,13 +264,10 @@
   "title_pl": "Nowenna do Matki Bożej z Lourdes",
   "description_es": "Nuestra Señora se apareció a Santa Bernardita Soubirous dieciocho veces en Lourdes, Francia, en 1858, apenas cuatro años después de que el Papa declarara la Inmaculada Concepción como dogma.",
   "description_pl": "Nasza Pani ukazała się św. Bernadetcie Soubirous osiemnaście razy w Lourdes we Francji w 1858 roku, zaledwie cztery lata po tym, jak papież ogłosił Niepokalane Poczęcie dogmatem.",
-  "intentions": [
-    "bodily_ills"
-  ],
-  "intentions_es": [
-    "enfermedades_corporales"
-  ],
-  "intentions_pl": [
-    "choroby_ciała"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-our-lady-of-lourdes/"
   ]
 }

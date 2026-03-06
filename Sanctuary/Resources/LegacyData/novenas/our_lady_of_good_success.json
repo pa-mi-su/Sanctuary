@@ -264,19 +264,10 @@
   "title_pl": "Nowenna do Matki Bożej Dobrego Sukcesu",
   "description_es": "La Santísima Virgen María y Jesús aparecieron en 1610 a la Venerable Madre Mariana de Jesús Torres en Quito, Ecuador, dando profecías sobre una crisis venidera en la Iglesia y sobre varios decretos dogmáticos papales infalibles.",
   "description_pl": "Błogosławiona Dziewica Maryja i Jezus ukazali się w 1610 roku Czcigodnej Matce Marianie de Jesus Torres w Quito w Ekwadorze, przekazując proroctwa o nadchodzącym kryzysie w Kościele oraz o kilku nieomylności dogmatycznych dekretach papieskich.",
-  "intentions": [
-    "success",
-    "help",
-    "guidance"
-  ],
-  "intentions_es": [
-    "éxito",
-    "ayuda",
-    "guía"
-  ],
-  "intentions_pl": [
-    "sukces",
-    "pomoc",
-    "przewodnictwo"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/our-lady-of-good-success-novena/"
   ]
 }

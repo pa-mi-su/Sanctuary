@@ -264,19 +264,7 @@
   "title_pl": "Nowenna do Matki Bożej Łask",
   "description_es": "Nuestra Señora de las Gracias es un título de la Virgen María dado en agradecimiento por las gracias recibidas a través de su intercesión. Reza esta novena por la Diócesis de Faenza, las ciudades de Minturno, Cautano, Decimoputzu, Nettuno, Ricadi, Sanluri, Toritto, y por las gracias necesarias.",
   "description_pl": "Matka Boża Łask to tytuł Najświętszej Maryi Panny nadany z wdzięczności za łaski otrzymane przez Jej wstawiennictwo. Módl się tę nowennę za Diecezję Faenza, miasta Minturno, Cautano, Decimoputzu, Nettuno, Ricadi, Sanluri, Toritto oraz o potrzebne łaski.",
-  "intentions": [
-    "attributed_to_father_marcello_mastrilli",
-    "s_j",
-    "17th_century"
-  ],
-  "intentions_es": [
-    "atribuido_al_padre_marcello_mastrilli",
-    "sj",
-    "siglo_17"
-  ],
-  "intentions_pl": [
-    "przypisywany_ojcu_marcello_mastrili",
-    "s_j",
-    "xvii_wiek"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

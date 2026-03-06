@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Joanny d’Arc",
   "description_es": "Santa Juana de Arco fue una campesina francesa del siglo XV a quien Dios le dio visiones para expulsar a los ingleses de tierras francesas y llevar al Delfín a Reims para su coronación. Reza esta novena por Francia, los soldados, los cautivos y si ella es tu santa patrona.",
   "description_pl": "Święta Joanna d’Arc była francuską chłopką z XV wieku, której Bóg dał wizje, aby wypędzić Anglików z francuskich ziem i doprowadzić Delfina do Reims na jego koronację. Módl się tę nowennę za Francję, żołnierzy, jeńców oraz jeśli jest twoją patronką.",
-  "intentions": [
-    "france",
-    "rape_victims",
-    "women_in_military"
-  ],
-  "intentions_es": [
-    "francia",
-    "víctimas_de_violación",
-    "mujeres_en_el_ejercito"
-  ],
-  "intentions_pl": [
-    "francja",
-    "ofiary_gwałtu",
-    "kobiety_w_wojsku"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-joan-of-arc-novena/"
   ]
 }

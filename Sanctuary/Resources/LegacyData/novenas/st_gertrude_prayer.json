@@ -264,12 +264,11 @@
   "description_es": "Santa Gertrudis la Grande fue una monja benedictina y mística que recibió visiones de nuestro Señor y poderosas oraciones para liberar almas del Purgatorio.",
   "description_pl": "Św. Gertruda Wielka była benedyktyńską zakonnicą i mistyczką, która otrzymała wizje od naszego Pana oraz potężne modlitwy uwalniające dusze z Czyśćca.",
   "intentions": [
-    "the_west_indies"
+    "the West Indies"
   ],
-  "intentions_es": [
-    "las_indias_occidentales"
-  ],
-  "intentions_pl": [
-    "zachodnie_indie"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gertrude-the-great-novena/"
   ]
 }

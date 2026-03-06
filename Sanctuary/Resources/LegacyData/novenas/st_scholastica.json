@@ -264,21 +264,14 @@
   "description_es": "Santa Escolástica fue la hermana gemela de San Benito y la fundadora de las monjas benedictinas. Reza esta novena por las comunidades femeninas benedictinas, escuelas, exámenes, libros, lectura, niños convulsivos, monjas, invocada contra tormentas y lluvias.",
   "description_pl": "Św. Scholastyka była siostrą bliźniaczą św. Benedykta i założycielką benedyktyńskich zakonnic. Módl się tę nowennę za wspólnoty kobiet benedyktyńskich, szkoły, egzaminy, książki, czytanie, dzieci z napadami, zakonnice, wzywaną przeciw burzom i deszczowi.",
   "intentions": [
-    "nuns",
-    "against_storms",
-    "against_lightning",
-    "against_rain"
+    "Nuns",
+    "Against Storms",
+    "Against Lightning",
+    "Against Rain"
   ],
-  "intentions_es": [
-    "monjas",
-    "contra_tormentas",
-    "contra_el_rayo",
-    "contra_la_lluvia"
-  ],
-  "intentions_pl": [
-    "zakonnice",
-    "przed_burzami",
-    "przed_piorunem",
-    "przed_deszczem"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-scholastica-novena/"
   ]
 }

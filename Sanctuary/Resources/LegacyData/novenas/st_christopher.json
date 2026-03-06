@@ -267,18 +267,11 @@
     "travelers",
     "storms",
     "epilepsy",
-    "holy_death"
+    "holy death"
   ],
-  "intentions_es": [
-    "viajeros",
-    "tormentas",
-    "epilepsia",
-    "santa_muerte"
-  ],
-  "intentions_pl": [
-    "podróżnicy",
-    "burze",
-    "padaczka",
-    "święta_śmierć"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-christopher-novena/"
   ]
 }

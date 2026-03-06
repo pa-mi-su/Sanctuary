@@ -263,22 +263,10 @@
   "title_pl": "Nowenna do św. Jana od Boga",
   "description_es": "San Juan de Dios fue un soldado portugués que dedicó su vida a ayudar a los enfermos. Reza esta novena por los libreros, impresores, pacientes cardíacos, hospitales, enfermeras, los enfermos, los enfermos mentales, los moribundos y los bomberos.",
   "description_pl": "Święty Jan od Boga był portugalskim żołnierzem, który poświęcił swoje życie pomocy chorym. Módl się tę nowennę za księgarzy, drukarzy, pacjentów z chorobami serca, szpitale, pielęgniarki, chorych, osoby z zaburzeniami psychicznymi, umierających oraz strażaków.",
-  "intentions": [
-    "heart_problem",
-    "alcoholics",
-    "hospitals",
-    "of_the_dying"
-  ],
-  "intentions_es": [
-    "problema_del_corazon",
-    "alcohólicos",
-    "hospitales",
-    "de_los_moribundos"
-  ],
-  "intentions_pl": [
-    "problemy_z_sercem",
-    "alkoholicy",
-    "szpitale",
-    "umierających"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-john-of-god-novena/"
   ]
 }

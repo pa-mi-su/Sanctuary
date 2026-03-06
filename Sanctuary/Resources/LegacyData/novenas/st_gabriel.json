@@ -265,17 +265,12 @@
   "description_pl": "Św. Gabriel jest jednym z trzech Archaniołów, których Bóg posłał jako posłańca do proroka Daniela w Starym Testamencie oraz do Zachariasza i Najświętszej Maryi Panny w Nowym Testamencie. Módl się nowennę do św. Gabriela o większe nabożeństwo do Najświętszej Maryi Panny.",
   "intentions": [
     "messengers",
-    "telecommunication_workers",
-    "postal_workers"
+    "telecommunication workers",
+    "postal workers"
   ],
-  "intentions_es": [
-    "mensajeros",
-    "trabajadores_de_telecomunicaciones",
-    "trabajadores_postales"
-  ],
-  "intentions_pl": [
-    "posłańcy",
-    "pracownicy_telekomunikacji",
-    "pracownicy_poczty"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gabriel-novena/"
   ]
 }

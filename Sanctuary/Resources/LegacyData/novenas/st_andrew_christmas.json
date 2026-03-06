@@ -641,12 +641,10 @@
     "fishermen",
     "singers"
   ],
-  "intentions_es": [
-    "pescadores",
-    "cantantes"
-  ],
-  "intentions_pl": [
-    "rybacy",
-    "śpiewacy"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/christmas-novena/",
+    "https://novenaprayer.com/st-andrew-christmas/"
   ]
 }

@@ -266,16 +266,11 @@
   "intentions": [
     "money",
     "bankers",
-    "tax_collectors"
+    "tax collectors"
   ],
-  "intentions_es": [
-    "dinero",
-    "banqueros",
-    "recaudadores_de_impuestos"
-  ],
-  "intentions_pl": [
-    "pieniądze",
-    "bankierzy",
-    "celnicy"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-matthew-novena/"
   ]
 }

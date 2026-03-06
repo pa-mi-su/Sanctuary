@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Weroniki Giuliani",
   "description_es": "Santa Verónica Giuliani fue una monja capuchina italiana y mística que vivió en los años 1600 y principios de 1700. Reza esta novena por los fotógrafos, los pobres y los enfermos.",
   "description_pl": "Święta Weronika Giuliani była włoską zakonnicą kapucynką i mistyczką, która żyła w XVII i na początku XVIII wieku. Módl się tę nowennę za fotografów, ubogich i chorych.",
-  "intentions": [
-    "photography",
-    "poor",
-    "sick"
-  ],
-  "intentions_es": [
-    "fotografía",
-    "pobre",
-    "enfermo"
-  ],
-  "intentions_pl": [
-    "fotografia",
-    "słaby",
-    "chory"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-veronica-giuliani-novena/"
   ]
 }

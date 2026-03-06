@@ -264,12 +264,11 @@
   "description_es": "Santa Lucía (Lucia) de Siracusa, cuyo nombre significa luz, fue una joven fiel que dedicó su vida a Cristo, rechazó a un pretendiente pagano que la entregó a las autoridades romanas, y posteriormente fue torturada y martirizada. Reza esta novena por problemas de los ojos.",
   "description_pl": "Święta Łucja (Łucja) z Syrakuz, której imię oznacza światło, była wierną młodą kobietą, która poświęciła swoje życie Chrystusowi, odrzuciła pogańskiego zalotnika, który wydał ją władzom rzymskim, a następnie została torturowana i poniosła męczeńską śmierć. Módl się tę nowennę w intencji problemów z oczami.",
   "intentions": [
-    "eye_illness"
+    "eye illness"
   ],
-  "intentions_es": [
-    "enfermedad_ocular"
-  ],
-  "intentions_pl": [
-    "choroba_oczu"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-lucy-novena/"
   ]
 }

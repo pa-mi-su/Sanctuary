@@ -398,16 +398,10 @@
   "title_pl": "Nowenna do św. Katarzyny Drexel",
   "description_es": "Santa Catalina Drexel fue una rica heredera estadounidense a quien Dios llamó a hacerse monja y a servir a los nativos americanos y a los afroamericanos. Reza esta novena por la paz entre todas las razas de personas, y por los filántropos.",
   "description_pl": "Św. Katarzyna Drexel była bogatą amerykańską dziedziczką, którą Bóg powołał do zostania zakonnicą i służenia rdzennym mieszkańcom Ameryki oraz Afroamerykanom. Módl się tę nowennę o pokój między wszystkimi rasami ludzi oraz za filantropów.",
-  "intentions": [
-    "philanthropy",
-    "racial_justice"
-  ],
-  "intentions_es": [
-    "filantropía",
-    "justicia_racial"
-  ],
-  "intentions_pl": [
-    "filantropia",
-    "sprawiedliwość_rasowa"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-katharine-drexel-novena/"
   ]
 }

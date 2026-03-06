@@ -266,16 +266,11 @@
   "intentions": [
     "purity",
     "choirboys",
-    "the_falsely_accused"
+    "the falsely accused"
   ],
-  "intentions_es": [
-    "pureza",
-    "niños_del_coro",
-    "los_falsamente_acusados"
-  ],
-  "intentions_pl": [
-    "czystość",
-    "chórzyści",
-    "fałszywie_oskarżony"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-dominic-savio-novena/"
   ]
 }

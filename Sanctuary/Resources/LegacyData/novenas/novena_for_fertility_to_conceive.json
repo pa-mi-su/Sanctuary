@@ -264,19 +264,7 @@
   "title_pl": "Nowenna o Płodność, aby Począć Dziecko",
   "description_es": "La Novena por la Fertilidad para Concebir un Niño invoca a varios santos conocidos por su intercesión contra la infertilidad. Reza esta novena para concebir un bebé, para ser sanado de la infertilidad y para quedar embarazada.",
   "description_pl": "Nowenna o Płodność, aby Począć Dziecko, wzywa kilku świętych znanych z wstawiennictwa przeciw bezpłodności. Módl się tę nowennę, aby począć dziecko, zostać uzdrowionym z bezpłodności i zajść w ciążę.",
-  "intentions": [
-    "conceive",
-    "fertility",
-    "pregnancy"
-  ],
-  "intentions_es": [
-    "concebir",
-    "fertilidad",
-    "embarazo"
-  ],
-  "intentions_pl": [
-    "pojąć",
-    "płodność",
-    "ciąża"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

@@ -263,13 +263,11 @@
   "title_pl": "Nowenna Róży św. Teresy z Lisieux – Modlitwy Małej Kwiatowej",
   "description_es": "Santa Teresa, conocida como la Pequeña Flor, fue una monja carmelita descalza francesa que alcanzó una gran santidad a través de su Pequeño Camino de ofrecer cada pequeño sacrificio a Jesús.",
   "description_pl": "Św. Teresa od Dzieciątka Jezus, znana jako Mała Kwiatka, była francuską bosem karmelitanką, która osiągnęła wielką świętość dzięki swojej Małej Drodze ofiarowywania każdej drobnej ofiary Jezusowi.",
-  "intentions": [
-    "send_it_to_me_as_a_message_of_love"
-  ],
-  "intentions_es": [
-    "envíamelo_como_un_mensaje_de_amor"
-  ],
-  "intentions_pl": [
-    "wyślij_mi_to_jako_przesłanie_miłości"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-therese-of-lisieux-novena/",
+    "https://novenaprayer.com/novena-rose-prayer/"
   ]
 }

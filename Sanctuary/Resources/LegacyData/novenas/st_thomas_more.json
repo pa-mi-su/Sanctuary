@@ -263,25 +263,10 @@
   "title_pl": "Nowenna do św. Tomasza Morusa",
   "description_es": "Santo Tomás Moro fue un abogado y estadista inglés que fue martirizado por su fe por el rey Enrique VIII. Reza esta novena por abogados de niños adoptados, funcionarios públicos, políticos y matrimonios difíciles.",
   "description_pl": "Św. Tomasz More był angielskim prawnikiem i mężem stanu, który poniósł męczeńską śmierć za wiarę z rąk króla Henryka VIII. Módl się tę nowennę za prawników zajmujących się adopcjami, urzędników państwowych, polityków oraz trudne małżeństwa.",
-  "intentions": [
-    "difficult_marriages",
-    "lawyer",
-    "statesmen",
-    "politicians",
-    "adopted_children"
-  ],
-  "intentions_es": [
-    "matrimonios_difíciles",
-    "abogado",
-    "estadistas",
-    "politicos",
-    "niños_adoptados"
-  ],
-  "intentions_pl": [
-    "trudne_małżeństwa",
-    "prawnik",
-    "mężowie_stanu",
-    "politycy",
-    "adoptowane_dzieci"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-thomas-more-novena/"
   ]
 }

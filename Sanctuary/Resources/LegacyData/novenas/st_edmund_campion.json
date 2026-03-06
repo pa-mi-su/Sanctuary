@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Edmunda Campiona",
   "description_es": "Edmund Campion fue un sacerdote jesuita inglés y mártir del siglo XVI. Reza esta novena por el Reino Unido y por los que regresan a la Fe.",
   "description_pl": "Edmund Campion był angielskim jezuitą i męczennikiem XVI wieku. Módl się tę nowennę za Zjednoczone Królestwo i za powracających do Wiary.",
-  "intentions": [
-    "british_jesuit_province"
-  ],
-  "intentions_es": [
-    "provincia_jesuita_británica"
-  ],
-  "intentions_pl": [
-    "brytyjska_prowincja_jezuicka"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-edmund-campion-novena/"
   ]
 }

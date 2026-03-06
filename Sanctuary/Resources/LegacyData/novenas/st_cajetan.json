@@ -264,15 +264,13 @@
   "description_es": "San Cayetano fue un sacerdote católico italiano y reformador religioso, cofundador de los Teatinos. Es el santo patrón de los desempleados.",
   "description_pl": "Św. Kajetan był włoskim katolickim księdzem i reformatorem zakonnym, współzałożycielem teatynów. Jest patronem bezrobotnych.",
   "intentions": [
-    "the_poor",
-    "job_seekers"
+    "the poor",
+    "job seekers"
   ],
-  "intentions_es": [
-    "los_pobres",
-    "solicitantes_de_empleo"
-  ],
-  "intentions_pl": [
-    "biedni",
-    "poszukujących_pracy"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-cajetan-novena/",
+    "https://novenaprayer.com/novena-prayers-for-healing/"
   ]
 }

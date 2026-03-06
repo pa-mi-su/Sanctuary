@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Małgorzaty z Kortony",
   "description_es": "Santa Margarita de Cortona fue una terciaria franciscana que enmendó su vida pecaminosa y se convirtió en una gran santa. Reza esta novena por los falsamente acusados, vagabundos, personas sin hogar, locos, huérfanos, enfermos mentales, parteras, penitentes, madres solteras, prostitutas reformadas, hijastros y vagabundos.",
   "description_pl": "Święta Małgorzata z Cortony była tercjarką franciszkańską, która poprawiła swoje grzeszne życie i stała się wielką świętą. Módl się tę nowennę za fałszywie oskarżonych, włóczęgów, bezdomnych, obłąkanych, osieroconych, chorych psychicznie, położne, pokutników, samotne matki, nawrócone prostytutki, pasierbów i włóczęgów.",
-  "intentions": [
-    "against_temptations",
-    "falsely_accused_people",
-    "homeless"
-  ],
-  "intentions_es": [
-    "contra_las_tentaciones",
-    "personas_acusadas_falsamente",
-    "sin_hogar"
-  ],
-  "intentions_pl": [
-    "przed_pokusami",
-    "fałszywie_oskarżanych_ludzi",
-    "bezdomny"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-margaret-of-cortona-novena/"
   ]
 }

@@ -263,22 +263,10 @@
   "title_pl": "Nowenna do św. Grzegorza Wielkiego",
   "description_es": "San Gregorio Magno fue un Papa medieval a finales del siglo V. Reza esta novena por músicos, cantantes, estudiantes y maestros.",
   "description_pl": "Św. Grzegorz Wielki był średniowiecznym papieżem pod koniec VI wieku. Módl się tę nowennę za muzyków, śpiewaków, uczniów i nauczycieli.",
-  "intentions": [
-    "musicians",
-    "singers",
-    "students",
-    "teachers"
-  ],
-  "intentions_es": [
-    "músicos",
-    "cantantes",
-    "estudiantes",
-    "profesores"
-  ],
-  "intentions_pl": [
-    "muzycy",
-    "śpiewacy",
-    "studenci",
-    "nauczycielstwo"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gregory-novena/"
   ]
 }

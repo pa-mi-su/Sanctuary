@@ -265,14 +265,11 @@
   "description_pl": "Św. Monika jest patronką żon i ofiar przemocy. Jej synem był św. Augustyn.",
   "intentions": [
     "wives",
-    "abuse_victims"
+    "and abuse victims"
   ],
-  "intentions_es": [
-    "esposas",
-    "víctimas_de_abuso"
-  ],
-  "intentions_pl": [
-    "żony",
-    "ofiary_molestowania"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-monica-novena/"
   ]
 }

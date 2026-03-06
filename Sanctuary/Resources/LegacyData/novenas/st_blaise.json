@@ -265,20 +265,13 @@
   "description_pl": "Św. Błażej był biskupem Sebasty w III i IV wieku. Módl się tę nowennę w intencji chorób gardła.",
   "intentions": [
     "physicians",
-    "sick_cattle",
-    "wild_animals",
-    "of_those_with_throat_maladies"
+    "sick cattle",
+    "wild animals",
+    "and of those with throat maladies"
   ],
-  "intentions_es": [
-    "medicos",
-    "ganado_enfermo",
-    "animales_salvajes",
-    "de_aquellos_con_enfermedades_de_garganta"
-  ],
-  "intentions_pl": [
-    "lekarze",
-    "chore_bydło",
-    "dzikie_zwierzęta",
-    "osób_cierpiących_na_choroby_gardła"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-blaise-novena/"
   ]
 }

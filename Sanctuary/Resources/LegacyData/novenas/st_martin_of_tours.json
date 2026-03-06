@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Marcina z Tours",
   "description_es": "En el año 371, la ciudad de Tours necesitaba un nuevo obispo y el pueblo eligió a Martín.",
   "description_pl": "W 371 roku miasto Tours potrzebowało nowego biskupa, a lud wybierał Marcina.",
-  "intentions": [
-    "france"
-  ],
-  "intentions_es": [
-    "francia"
-  ],
-  "intentions_pl": [
-    "francja"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-martin-of-tours-novena/"
   ]
 }

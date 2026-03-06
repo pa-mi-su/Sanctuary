@@ -264,18 +264,13 @@
   "description_es": "Virgen y mártir, Santa Inés nació alrededor del año 290 d.C. en una familia católica fiel.",
   "description_pl": "Dziewica i męczennica, św. Agnieszka urodziła się około 290 roku n.e. w wiernej katolickiej rodzinie.",
   "intentions": [
-    "young_girls",
+    "young girls",
     "chastity",
-    "the_children_of_mary"
+    "and the children of Mary"
   ],
-  "intentions_es": [
-    "chicas_jóvenes",
-    "castidad",
-    "los_hijos_de_maria"
-  ],
-  "intentions_pl": [
-    "młode_dziewczyny",
-    "czystość",
-    "dzieci_maryi"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-agnes-novena/"
   ]
 }

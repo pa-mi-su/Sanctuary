@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Róży z Limy",
   "description_es": "Santa Rosa de Lima fue una terciaria dominica reconocida por su piedad y castidad. Reza esta novena por la castidad, contra la vanidad, por las bordadoras, las que cosen encajes, jardineros y floristas, América Latina, las personas ridiculizadas o incomprendidas por su piedad, por la resolución de disputas familiares, los pueblos indígenas de América, Perú, Filipinas, India, Santa Rosa California, Trinidad y Tobago, y Lima.",
   "description_pl": "Święta Róża z Limy była członkinią III Zakonu Dominikańskiego, znaną ze swojej pobożności i czystości. Módl się tę nowennę o czystość, przeciw próżności, za hafciarki, koronczarki, ogrodników i florystów, Amerykę Łacińską, osoby wyśmiewane lub niezrozumiane z powodu swojej pobożności, o rozwiązanie sporów rodzinnych, ludność tubylczą obu Ameryk, Peru, Filipiny, Indie, Santa Rosa w Kalifornii, Trynidad i Tobago oraz Limę.",
-  "intentions": [
-    "peru",
-    "florists",
-    "gardeners"
-  ],
-  "intentions_es": [
-    "perú",
-    "floristas",
-    "jardineros"
-  ],
-  "intentions_pl": [
-    "peru",
-    "kwiaciarnie",
-    "ogrodnicy"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-rose-of-lima-novena/"
   ]
 }

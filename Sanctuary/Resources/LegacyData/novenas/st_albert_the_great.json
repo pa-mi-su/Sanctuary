@@ -263,19 +263,7 @@
   "title_pl": "Nowenna do św. Alberta Wielkiego",
   "description_es": "San Alberto Magno fue un fraile dominico alemán, filósofo, científico y obispo que vivió en el siglo XIII. Reza esta novena por los exámenes, finales, estudiantes y científicos.",
   "description_pl": "Św. Albert Wielki był niemieckim dominikaninem, filozofem, uczonym i biskupem, który żył w XIII wieku. Módl się tę nowennę za egzaminy, egzaminy końcowe, studentów i naukowców.",
-  "intentions": [
-    "scientists",
-    "philosophers",
-    "medical_technicians"
-  ],
-  "intentions_es": [
-    "científicos",
-    "filósofos",
-    "tecnicos_medicos"
-  ],
-  "intentions_pl": [
-    "naukowcy",
-    "filozofowie",
-    "techników_medycznych"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

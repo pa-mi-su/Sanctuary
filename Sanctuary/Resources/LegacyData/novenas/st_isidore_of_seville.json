@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Izydora z Sewilli",
   "description_es": "San Isidro de Sevilla fue un erudito, teólogo y arzobispo sevillano del siglo VI. Reza esta novena por los estudiantes, las computadoras, los técnicos en computación, los programadores y el internet.",
   "description_pl": "Św. Izydor z Sewilli był hiszpańskim uczonym, teologiem i arcybiskupem Sewilli VI wieku. Módl się tę nowennę za uczniów, komputery, techników komputerowych, programistów oraz internet.",
-  "intentions": [
-    "the_internet",
-    "computer_users"
-  ],
-  "intentions_es": [
-    "la_internet",
-    "usuarios_de_computadoras"
-  ],
-  "intentions_pl": [
-    "internet",
-    "użytkownicy_komputerów"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-isidore-of-seville-novena/"
   ]
 }

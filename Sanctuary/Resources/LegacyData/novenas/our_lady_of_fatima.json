@@ -264,16 +264,10 @@
   "title_pl": "Nowenna do Matki Bożej Fatimskiej",
   "description_es": "La Santísima Virgen María se apareció en 1917 a tres niños en el pequeño pueblo de Fátima, Portugal. Les dijo que rezaran el Rosario por la paz, por los pecadores, para que terminara la Primera Guerra Mundial y por la conversión de Rusia.",
   "description_pl": "Błogosławiona Dziewica Maryja ukazała się w 1917 roku trójce dzieci w małej wiosce Fatima w Portugalii. Poleciła im modlić się Różańcem o pokój, za grzeszników, o zakończenie I wojny światowej oraz o nawrócenie Rosji.",
-  "intentions": [
-    "the_roman_catholic_diocese_leiria_fatima",
-    "east_timor"
-  ],
-  "intentions_es": [
-    "la_diócesis_católica_romana_leiria_fátima",
-    "timor_oriental"
-  ],
-  "intentions_pl": [
-    "diecezji_rzymskokatolickiej_leiria_fatima",
-    "timor_wschodni"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-our-lady-of-fatima/"
   ]
 }

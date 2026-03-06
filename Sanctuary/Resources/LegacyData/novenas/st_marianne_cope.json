@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Marianny Cope",
   "description_es": "Santa Marianne Cope fue una monja franciscana que aceptó una solicitud para trasladarse a Hawái y servir a los leprosos allí, y lo hizo durante el resto de su vida, siguiendo los pasos de San Damián de Molokai.  \nReza esta novena por los leprosos, los marginados, los que tienen VIH/SIDA y por Hawái.",
   "description_pl": "Święta Marianne Cope była franciszkańską zakonnicą, która przyjęła prośbę o przeprowadzkę na Hawaje i posługę trędowatym tam, i czyniła to przez resztę swojego życia, idąc śladami św. Damiana z Molokai. Módl się tę nowennę za trędowatych, wykluczonych, osoby z HIV/AIDS oraz za Hawaje.",
-  "intentions": [
-    "lepers"
-  ],
-  "intentions_es": [
-    "leprosos"
-  ],
-  "intentions_pl": [
-    "trędowaci"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-marianne-cope-novena/"
   ]
 }

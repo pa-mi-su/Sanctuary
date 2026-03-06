@@ -264,12 +264,11 @@
   "description_es": "Santa María Faustina Kowalska fue una monja polaca que vivió a principios del siglo XX y a quien Cristo le dio la misión de difundir la devoción a Su Divina Misericordia.",
   "description_pl": "Św. Maria Faustyna Kowalska była polską zakonnicą, która żyła na początku XX wieku i której Chrystus powierzył misję szerzenia nabożeństwa do Jego Boskiego Miłosierdzia.",
   "intentions": [
-    "mercy"
+    "Mercy"
   ],
-  "intentions_es": [
-    "merced"
-  ],
-  "intentions_pl": [
-    "miłosierdzie"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-faustina-novena/"
   ]
 }

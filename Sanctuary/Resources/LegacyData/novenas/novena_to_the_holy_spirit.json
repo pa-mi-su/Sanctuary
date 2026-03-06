@@ -258,25 +258,11 @@
   "title_pl": "Nowenna do Ducha Świętego – Potężne modlitwy na Zesłanie Ducha Świętego",
   "description_es": "La Novena al Espíritu Santo por los Siete Dones se reza tradicionalmente en los días previos a Pentecostés para celebrar la venida del Espíritu Santo sobre María y los Apóstoles.",
   "description_pl": "Nowenna do Ducha Świętego o Siedem Darów jest tradycyjnie odmawiana w okresie poprzedzającym Zesłanie Ducha Świętego, aby uczcić zesłanie Ducha Świętego na Maryję i Apostołów.",
-  "intentions": [
-    "family",
-    "son_or_daughter",
-    "children",
-    "parenthood",
-    "the_seven_gifts_of_the_holy_spirit"
-  ],
-  "intentions_es": [
-    "familia",
-    "hijo_o_hija",
-    "niños",
-    "paternidad",
-    "los_siete_dones_del_espiritu_santo"
-  ],
-  "intentions_pl": [
-    "rodzina",
-    "syn_lub_córka",
-    "dzieci",
-    "rodzicielstwo",
-    "siedem_darów_ducha_świętego"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/most-powerful-novena-prayers/",
+    "https://novenaprayer.com/novena-to-the-holy-spirit/"
   ]
 }

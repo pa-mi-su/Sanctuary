@@ -264,12 +264,11 @@
   "description_es": "San Peregrino es el santo patrón de los pacientes con cáncer. Reza la novena a San Peregrino por la sanación.",
   "description_pl": "Św. Peregryn jest patronem chorych na raka. Módl się nowennę do św. Peregryna o uzdrowienie.",
   "intentions": [
-    "cancer_patient"
+    "cancer patient"
   ],
-  "intentions_es": [
-    "enfermo_de_cáncer"
-  ],
-  "intentions_pl": [
-    "pacjent_z_rakiem"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-peregrine-novena/"
   ]
 }

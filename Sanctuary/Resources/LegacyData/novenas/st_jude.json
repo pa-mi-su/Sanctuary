@@ -264,15 +264,13 @@
   "description_es": "San Judas Tadeo fue uno de los Apóstoles de Jesucristo. Reza esta novena para causas desesperadas, situaciones desesperadas y enfermedades graves.",
   "description_pl": "Św. Juda Tadeusz był jednym z Apostołów Jezusa Chrystusa. Módl się tę nowennę w sprawach beznadziejnych, w desperackich sytuacjach oraz przy ciężkich chorobach.",
   "intentions": [
-    "hopeless_cases",
-    "desperate_situations"
+    "hopeless cases",
+    "desperate situations"
   ],
-  "intentions_es": [
-    "casos_desesperados",
-    "situaciones_desesperadas"
-  ],
-  "intentions_pl": [
-    "beznadziejne_przypadki",
-    "desperackie_sytuacje"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-jude-novena/",
+    "https://novenaprayer.com/saint-rita-novena/"
   ]
 }

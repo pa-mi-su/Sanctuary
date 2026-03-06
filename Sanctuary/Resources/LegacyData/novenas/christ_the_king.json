@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do Chrystusa Króla",
   "description_es": "Proclama el reinado de Cristo sobre toda la creación. Reza esta novena ahora y experimenta la paz que proviene de entregarte al Rey de Reyes y Señor de Señores.",
   "description_pl": "Głoś panowanie Chrystusa nad całym stworzeniem. Módl się tę nowennę teraz i doświadcz pokoju, który pochodzi z poddania się Królowi Królów i Panu Panów.",
-  "intentions": [
-    "may_jesus",
-    "king_of_mercy_reign_over_our_hearts"
-  ],
-  "intentions_es": [
-    "que_jesús",
-    "el_rey_de_la_misericordia_reina_sobre_nuestros_corazones"
-  ],
-  "intentions_pl": [
-    "niech_jezus",
-    "królu_miłosierdzia_króluj_nad_naszymi_sercami"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/christ-the-king-novena/"
   ]
 }

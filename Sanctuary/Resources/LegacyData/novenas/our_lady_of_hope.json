@@ -264,19 +264,10 @@
   "title_pl": "Nowenna do Matki Bożej Nadziei",
   "description_es": "Nuestra Señora de la Esperanza, también conocida como Nuestra Señora de Portmain, conmemora una aparición de la Virgen María durante enero de 1871 a varios niños durante la guerra franco-prusiana.",
   "description_pl": "Matka Boża Nadziei, znana również jako Matka Boża Portmain, upamiętnia objawienie Najświętszej Maryi Panny w styczniu 1871 roku kilku dzieciom podczas wojny francusko-pruskiej.",
-  "intentions": [
-    "pontmain",
-    "france",
-    "hope"
-  ],
-  "intentions_es": [
-    "pontmain",
-    "francia",
-    "esperanza"
-  ],
-  "intentions_pl": [
-    "pontmain",
-    "francja",
-    "mieć_nadzieję"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/our-lady-of-hope-novena/"
   ]
 }

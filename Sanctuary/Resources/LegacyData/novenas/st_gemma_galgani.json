@@ -264,27 +264,15 @@
   "description_es": "Santa Gemma Galgani fue una santa y mística italiana que recibió los estigmas (las heridas de nuestro Señor). Se dedicó a Dios y a la oración y sufrió mucho en su corta vida, muriendo a los 25 años. Reza esta novena por la pureza, por la sanación del dolor de espalda, dolores de cabeza y la pérdida de los padres.",
   "description_pl": "Św. Gemma Galgani była włoską świętą i mistyczką, która otrzymała stygmaty (rany naszego Pana). Poświęciła się Bogu i modlitwie, a w swoim krótkim życiu wiele cierpiała, umierając w wieku 25 lat. Módl się tę nowennę o czystość, o uzdrowienie z bólu pleców, bólów głowy oraz z powodu utraty rodziców.",
   "intentions": [
-    "students",
-    "pharmacists",
-    "paratroopers",
-    "parachutists",
-    "loss_of_parents",
-    "those_suffering_back_injury_or_back_pain"
+    "Students",
+    "Pharmacists",
+    "Paratroopers and Parachutists",
+    "loss of parents",
+    "those suffering back injury or back pain"
   ],
-  "intentions_es": [
-    "estudiantes",
-    "farmacéuticos",
-    "paracaidistas",
-    "paracaidistas",
-    "pérdida_de_padres",
-    "aquellos_que_sufren_lesiones_de_espalda_o_dolor_de_espalda"
-  ],
-  "intentions_pl": [
-    "studenci",
-    "farmaceuci",
-    "spadochroniarze",
-    "spadochroniarze",
-    "utrata_rodziców",
-    "osobom_cierpiącym_na_urazy_lub_bóle_pleców"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gemma-galgani-novena/"
   ]
 }

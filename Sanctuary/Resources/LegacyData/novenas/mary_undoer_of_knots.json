@@ -264,16 +264,10 @@
   "title_pl": "Nowenna do Maryi Rozplątującej Węzły – Niezawodna Modlitwa Nowennowa",
   "description_es": "María Desatanudos es un título de la Virgen María donde ella desata los nudos en nuestras vidas. Reza la Novena Infalible a María Desatanudos.",
   "description_pl": "Maryja Rozplątująca Węzły to tytuł Najświętszej Maryi Panny, pod którym rozwiązuje węzły w naszym życiu. Módl się Nieustanną Nowennę do Maryi Rozplątującej Węzły.",
-  "intentions": [
-    "knots",
-    "difficult_problems"
-  ],
-  "intentions_es": [
-    "nudos",
-    "problemas_difíciles"
-  ],
-  "intentions_pl": [
-    "węzły",
-    "trudne_problemy"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/mary-undoer-of-knots-novena/"
   ]
 }

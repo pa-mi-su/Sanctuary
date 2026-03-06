@@ -261,13 +261,10 @@
   "title_pl": "Nowenna do Bożego Miłosierdzia",
   "description_es": "Confía hoy en la infinita misericordia de Jesús. Reza la Novena de la Divina Misericordia que Jesús dio a Santa Faustina y experimenta el océano de gracia derramado para todas las almas.",
   "description_pl": "Zaufaj dziś nieskończonemu miłosierdziu Jezusa. Módl się Nowennę do Bożego Miłosierdzia, którą Jezus dał św. Faustynie, i doświadcz oceanu łaski wylanej na wszystkie dusze.",
-  "intentions": [
-    "especially_all_sinners"
-  ],
-  "intentions_es": [
-    "especialmente_todos_los_pecadores"
-  ],
-  "intentions_pl": [
-    "zwłaszcza_wszystkich_grzeszników"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/divine-mercy-novena/"
   ]
 }

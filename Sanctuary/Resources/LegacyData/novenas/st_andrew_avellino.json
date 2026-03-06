@@ -263,13 +263,7 @@
   "title_pl": "Nowenna do św. Andrzeja Avellino",
   "description_es": "San Andrés Avellino fue un sacerdote teatino italiano que se convirtió en una figura importante en la Contrarreforma contra las herejías protestantes. Reza esta novena por Nápoles, Sicilia, Badalato y contra una muerte súbita.",
   "description_pl": "Święty Andrzej Avellino był włoskim księdzem teatynem, który stał się ważną postacią w kontrreformacji przeciwko protestanckim herezjom. Módl się tę nowennę za Neapol, Sycylię, Badalato oraz przeciw nagłej śmierci.",
-  "intentions": [
-    "against_sudden_death"
-  ],
-  "intentions_es": [
-    "contra_la_muerte_súbita"
-  ],
-  "intentions_pl": [
-    "przed_nagłą_śmiercią"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

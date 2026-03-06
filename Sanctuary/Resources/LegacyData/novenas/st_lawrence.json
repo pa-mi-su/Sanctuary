@@ -264,18 +264,13 @@
   "description_es": "San Lorenzo fue uno de los siete diáconos de Roma bajo el Papa Sixto II que fueron martirizados durante la persecución del emperador Valeriano en el año 258 d.C. Reza esta novena por Roma, los estudiantes, mineros, curtidores, cocineros, los pobres y los bomberos.",
   "description_pl": "Święty Wawrzyniec był jednym z siedmiu diakonów Rzymu za pontyfikatu papieża Sykstusa II, którzy zostali męczennikami podczas prześladowań cesarza Waleriana w 258 roku. Módl się tę nowennę za Rzym, studentów, górników, garbarzy, kucharzy, ubogich i strażaków.",
   "intentions": [
-    "rome",
+    "Rome",
     "chefs",
     "poor"
   ],
-  "intentions_es": [
-    "roma",
-    "cocineros",
-    "pobre"
-  ],
-  "intentions_pl": [
-    "rzym",
-    "szefowie_kuchni",
-    "słaby"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-lawrence-novena/"
   ]
 }

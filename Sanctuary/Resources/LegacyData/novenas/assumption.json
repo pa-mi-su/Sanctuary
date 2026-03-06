@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do Wniebowzięcia",
   "description_es": "Prepárate para la vida eterna con María. Reza ahora la Novena de la Asunción y recibe la gracia de una muerte santa. Honra a la Reina coronada en cuerpo y alma en el Cielo.",
   "description_pl": "Przygotuj się na życie wieczne z Maryją. Módl się teraz Nowennę do Wniebowzięcia i otrzymaj łaskę świętej śmierci. Czcij Królową ukoronowaną ciałem i duszą w Niebie.",
-  "intentions": [
-    "queen_assumed_into_heaven"
-  ],
-  "intentions_es": [
-    "reina_asunta_al_cielo"
-  ],
-  "intentions_pl": [
-    "królowa_wzięta_do_nieba"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/assumption-novena/"
   ]
 }

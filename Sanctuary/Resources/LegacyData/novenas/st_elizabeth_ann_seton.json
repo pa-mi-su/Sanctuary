@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Elżbiety Anny Seton",
   "description_es": "Santa Isabel Ana Seton fue una conversa católica del protestantismo episcopal y la primera santa nacida en Estados Unidos en la Iglesia. Reza esta novena por problemas con los suegros, contra la muerte de hijos o padres, y por las viudas.",
   "description_pl": "Św. Elżbieta Anna Seton była katolicką konwertytką z protestantyzmu episkopalnego i pierwszą świętą urodzoną w Ameryce w Kościele. Módl się tę nowennę w sprawach problemów z teściami, przeciw śmierci dzieci lub rodziców oraz za wdowy.",
-  "intentions": [
-    "lost_parents",
-    "children",
-    "opposition_of_church_authorities"
-  ],
-  "intentions_es": [
-    "padres_perdidos",
-    "niños",
-    "oposición_de_las_autoridades_de_la_iglesia"
-  ],
-  "intentions_pl": [
-    "zagubionych_rodziców",
-    "dzieci",
-    "sprzeciw_władz_kościelnych"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-elizabeth-ann-seton-novena/"
   ]
 }

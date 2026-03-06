@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Marii Magdaleny",
   "description_es": "Santa María Magdalena fue una de las seguidoras más cercanas de Jesús y una de sus primeras discípulas. Reza esta novena por la vida contemplativa, los conversos, los fabricantes de guantes, los peluqueros, los pecadores penitentes, las personas ridiculizadas por su piedad, las perfumerías, los farmacéuticos, la tentación sexual, los curtidores y las mujeres.",
   "description_pl": "Święta Maria Magdalena była jedną z najbliższych uczennic Jezusa i jedną z pierwszych Jego naśladowczyń. Módl się tę nowennę o życie kontemplacyjne, nawróconych, rękawiczników, fryzjerów, grzeszników pokutujących, osoby wyśmiewane za pobożność, perfumerie, farmaceutów, o opanowanie w pokusach seksualnych, garbarzy oraz o kobiety.",
-  "intentions": [
-    "women",
-    "converts",
-    "glove_makers"
-  ],
-  "intentions_es": [
-    "mujer",
-    "convierte",
-    "fabricantes_de_guantes"
-  ],
-  "intentions_pl": [
-    "kobiety",
-    "konwertuje",
-    "wytwórcy_rękawiczek"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-mary-magdalene/"
   ]
 }

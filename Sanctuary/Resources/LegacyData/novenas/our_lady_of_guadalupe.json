@@ -263,5 +263,11 @@
   "title_es": "Novena a Nuestra Señora de Guadalupe",
   "title_pl": "Nowenna do Matki Bożej z Guadalupe",
   "description_es": "Nuestra Señora apareció en el año 1531 a Juan Diego, un campesino sencillo de ascendencia azteca que se había convertido al catolicismo.",
-  "description_pl": "Nasza Pani ukazała się w roku 1531 Juanowi Diego, prostemu chłopu pochodzenia azteckiego, który nawrócił się na katolicyzm."
+  "description_pl": "Nasza Pani ukazała się w roku 1531 Juanowi Diego, prostemu chłopu pochodzenia azteckiego, który nawrócił się na katolicyzm.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-our-lady-of-guadalupe/"
+  ]
 }

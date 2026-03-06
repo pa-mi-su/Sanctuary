@@ -264,13 +264,10 @@
   "title_pl": "Nowenna do Matki Bożej Częstochowskiej",
   "description_es": "Nuestra Señora de Czestochowa, también conocida como La Virgen Negra de Częstochowa, es un icono milagroso de la Virgen María, ubicado en el Monasterio de Jasna Góra en Polonia, que ha sido venerado por muchos papas y numerosos católicos. Ella es la patrona de Polonia.",
   "description_pl": "Matka Boża Częstochowska, znana również jako Czarna Madonna z Częstochowy, jest cudowną ikoną Najświętszej Maryi Panny, znajdującą się w klasztorze Jasna Góra w Polsce, która była czczona przez wielu papieży i niezliczonych katolików.  \nJest patronką Polski.",
-  "intentions": [
-    "poland"
-  ],
-  "intentions_es": [
-    "polonia"
-  ],
-  "intentions_pl": [
-    "polska"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/our-lady-of-czestochowa-novena/"
   ]
 }

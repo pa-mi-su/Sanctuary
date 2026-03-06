@@ -264,18 +264,13 @@
   "description_es": "Santa Dymphna nació en Irlanda de un padre no cristiano, quien, al volverse perturbado mentalmente, quiso casarse con su propia hija. Ella huyó, pero él finalmente la encontró y la mató. Reza esta novena para pedir ayuda con las afecciones mentales.",
   "description_pl": "Św. Dymfna urodziła się w Irlandii jako córka ojca niechrześcijańskiego, który popadł w zaburzenia psychiczne i chciał poślubić własną córkę. Uciekła, ale on w końcu ją odnalazł i zabił. Módl się tę nowennę o pomoc w cierpieniach psychicznych.",
   "intentions": [
-    "mental_illness",
+    "mental illness",
     "epilepsy",
-    "incent_victims"
+    "incent victims"
   ],
-  "intentions_es": [
-    "enfermedad_mental",
-    "epilepsia",
-    "víctimas_de_incentivos"
-  ],
-  "intentions_pl": [
-    "choroba_psychiczna",
-    "padaczka",
-    "namawianie_ofiar"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-dymphna-novena/"
   ]
 }

@@ -262,5 +262,11 @@
   "title_es": "Novena de la Gracia de San Francisco Javier",
   "title_pl": "Nowenna do św. Franciszka Ksawerego o Łaskę",
   "description_es": "Esta es la Novena Milagrosa de la Gracia a San Francisco Javier, el gran misionero jesuita en Asia",
-  "description_pl": "To jest Cudowna Nowenna Łaski do św. Franciszka Ksawerego, wielkiego jezuickiego misjonarza w Azji"
+  "description_pl": "To jest Cudowna Nowenna Łaski do św. Franciszka Ksawerego, wielkiego jezuickiego misjonarza w Azji",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-of-grace/"
+  ]
 }

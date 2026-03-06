@@ -266,16 +266,11 @@
   "intentions": [
     "mothers",
     "physicians",
-    "unborn_children"
+    "and unborn children"
   ],
-  "intentions_es": [
-    "madres",
-    "medicos",
-    "niños_no_nacidos"
-  ],
-  "intentions_pl": [
-    "matki",
-    "lekarze",
-    "nienarodzone_dzieci"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gianna-beretta-molla-novena/"
   ]
 }

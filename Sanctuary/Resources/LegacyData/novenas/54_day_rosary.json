@@ -1255,19 +1255,10 @@
   "title_pl": "Nowenna Różańcowa 54 Dni",
   "description_es": "Reza la devoción mariana más poderosa ahora. Experimenta milagros a través de esta Novena del Rosario de 54 días, el arma espiritual que Nuestra Señora nos dio para toda necesidad.",
   "description_pl": "Módl się teraz najsilniejszą maryjną modlitwą. Doświadczaj cudów dzięki tej 54-dniowej Nowennie Różańcowej – duchowej broni, którą dała nam Matka Boża na każdą potrzebę.",
-  "intentions": [
-    "on_february_16",
-    "1884",
-    "the_afflicted_girl"
-  ],
-  "intentions_es": [
-    "el_16_de_febrero",
-    "1884",
-    "la_niña_afligida"
-  ],
-  "intentions_pl": [
-    "16_lutego",
-    "1884",
-    "cierpiąca_dziewczyna"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/54-day-rosary-novena/"
   ]
 }

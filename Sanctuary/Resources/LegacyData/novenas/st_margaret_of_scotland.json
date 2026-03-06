@@ -263,16 +263,7 @@
   "title_pl": "Nowenna do św. Małgorzaty Szkockiej",
   "description_es": "Santa Margarita de Escocia fue una princesa inglesa y reina escocesa que vivió en el siglo XI. Reza esta novena por Escocia, las madres, las familias numerosas, el aprendizaje y los pobres.",
   "description_pl": "Święta Małgorzata Szkocka była angielską księżniczką i szkocką królową, która żyła w jedenastym wieku. Módl się tę nowennę za Szkocję, matki, wielkie rodziny, naukę i ubogich.",
-  "intentions": [
-    "scotland",
-    "the_poor"
-  ],
-  "intentions_es": [
-    "escocia",
-    "los_pobres"
-  ],
-  "intentions_pl": [
-    "szkocja",
-    "biedni"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

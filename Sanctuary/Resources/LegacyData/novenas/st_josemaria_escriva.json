@@ -264,12 +264,11 @@
   "description_es": "Josemaría Escrivá de Balaguer nació en España en 1902 en una familia devota.",
   "description_pl": "Josemaría Escrivá de Balaguer urodził się w Hiszpanii w 1902 roku w pobożnej rodzinie.",
   "intentions": [
-    "the_ordinary_opus_dei"
+    "the Ordinary – Opus Dei"
   ],
-  "intentions_es": [
-    "el_opus_dei_ordinario"
-  ],
-  "intentions_pl": [
-    "zwykłe_opus_dei"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-josemaria-escriva-novena/"
   ]
 }

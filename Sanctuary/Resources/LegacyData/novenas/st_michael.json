@@ -263,22 +263,11 @@
   "title_pl": "Nowenna do św. Michała Archanioła",
   "description_es": "San Miguel es uno de los Arcángeles y se menciona varias veces en la Biblia.",
   "description_pl": "Św. Michał jest jednym z Archaniołów i jest wspomniany kilka razy w Biblii.",
-  "intentions": [
-    "soldiers",
-    "doctors",
-    "police",
-    "sickness"
-  ],
-  "intentions_es": [
-    "soldados",
-    "doctores",
-    "policía",
-    "enfermedad"
-  ],
-  "intentions_pl": [
-    "żołnierski",
-    "lekarze",
-    "policja",
-    "choroba"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-raphael-novena/",
+    "https://novenaprayer.com/st-michael-the-archangel-novena/"
   ]
 }

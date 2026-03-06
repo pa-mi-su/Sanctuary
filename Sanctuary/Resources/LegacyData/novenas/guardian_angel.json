@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do Anioła Stróża",
   "description_es": "Dios da a cada persona un Ángel Guardián, que vela por ella desde su concepción hasta la muerte. Reza esta novena para invocar la ayuda de tu Ángel Guardián.",
   "description_pl": "Bóg daje każdej osobie Anioła Stróża, który czuwa nad nią od poczęcia aż do śmierci. Módl się tę nowennę, aby powołać do pomocy swojego Anioła Stróża.",
-  "intentions": [
-    "dear_angel_at_my_side",
-    "my_good",
-    "loyal_friend"
-  ],
-  "intentions_es": [
-    "querido_ángel_a_mi_lado",
-    "mi_bien",
-    "amigo_leal"
-  ],
-  "intentions_pl": [
-    "drogi_aniołku_u_mego_boku",
-    "moje_dobro",
-    "lojalny_przyjaciel"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/guardian-angel-novena/"
   ]
 }

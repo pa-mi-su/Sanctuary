@@ -264,18 +264,14 @@
   "description_es": "Santa Águeda de Sicilia fue una joven hermosa que consagró su virginidad a Cristo y fue martirizada por ello. Reza esta novena por aquellos que sufren de cáncer de mama, y por las enfermeras.",
   "description_pl": "Święta Agata z Sycylii była piękną młodą kobietą, która poświęciła swoje dziewictwo Chrystusowi i została za to męczennicą. Módl się tę nowennę za osoby cierpiące na raka piersi oraz za pielęgniarki.",
   "intentions": [
-    "rape_victims",
-    "breast_cancer_patients",
-    "wet_nurses"
+    "rape victims",
+    "breast cancer patients",
+    "wet nurses"
   ],
-  "intentions_es": [
-    "víctimas_de_violación",
-    "pacientes_con_cancer_de_mama",
-    "nodrizas"
-  ],
-  "intentions_pl": [
-    "ofiary_gwałtu",
-    "chorych_na_raka_piersi",
-    "mamki"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-roch-novena/",
+    "https://novenaprayer.com/st-agatha-novena/"
   ]
 }

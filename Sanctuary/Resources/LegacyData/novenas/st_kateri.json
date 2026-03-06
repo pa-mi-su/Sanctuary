@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Kateri Tekakwitha",
   "description_es": "Santa Kateri Tekakwitha es la primera nativa americana canonizada como santa. Reza esta novena para fomentar la ecología, por los que están en el exilio y por los nativos americanos.",
   "description_pl": "Św. Kateri Tekakwitha jest pierwszą rdzenną Amerykanką kanonizowaną na świętą. Módl się tę nowennę o troskę o ekologię, za osoby na wygnaniu oraz za rdzennych Amerykanów.",
-  "intentions": [
-    "environment",
-    "ecology"
-  ],
-  "intentions_es": [
-    "ambiente",
-    "ecología"
-  ],
-  "intentions_pl": [
-    "środowisko",
-    "ekologia"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-kateri-tekakwitha-novena/"
   ]
 }

@@ -263,22 +263,10 @@
   "title_pl": "Nowenna do św. Katarzyny ze Sieny",
   "description_es": "Santa Catalina de Siena fue una dominica de la Tercera Orden que vivió en el siglo XIV. Logró convencer al Papa para que regresara a Roma desde Aviñón y ayudó a los enfermos durante la Peste Negra en Europa. Reza esta novena contra incendios, enfermedades y abortos espontáneos.",
   "description_pl": "Święta Katarzyna ze Sieny była członkinią III Zakonu Dominikańskiego, która żyła w XIV wieku. Skutecznie namówiła papieża do powrotu do Rzymu z Awinionu i pomagała chorym podczas dżumy w Europie. Módl się tę nowennę przeciw pożarom, chorobom i poronieniom.",
-  "intentions": [
-    "fire_protection",
-    "italy",
-    "nursing_services",
-    "activism"
-  ],
-  "intentions_es": [
-    "protección_contra_incendios",
-    "italia",
-    "servicios_de_enfermería",
-    "activismo"
-  ],
-  "intentions_pl": [
-    "ochrona_przeciwpożarowa",
-    "włochy",
-    "usługi_pielęgniarskie",
-    "aktywizm"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-catherine-of-siena-novena/"
   ]
 }

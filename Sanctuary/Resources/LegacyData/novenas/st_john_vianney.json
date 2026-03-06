@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Jana Vianneya",
   "description_es": "San Juan María Vianney es el santo patrón de los sacerdotes parroquiales.",
   "description_pl": "Św. Jan Vianney jest patronem księży parafialnych.",
-  "intentions": [
-    "parish_priests"
-  ],
-  "intentions_es": [
-    "párrocos"
-  ],
-  "intentions_pl": [
-    "księża_parafialni"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-john-vianney-novena/"
   ]
 }

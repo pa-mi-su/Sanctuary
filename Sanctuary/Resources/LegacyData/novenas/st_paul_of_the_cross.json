@@ -263,19 +263,7 @@
   "title_pl": "Nowenna do św. Pawła od Krzyża",
   "description_es": "San Pablo de la Cruz fue un místico italiano, predicador y fundador de la Congregación religiosa de los Passionistas. Reza esta novena para una devoción más profunda a la Pasión de Cristo.",
   "description_pl": "Św. Paweł od Krzyża był włoskim mistykiem, kaznodzieją i założycielem zakonu pasjonistów. Módl się tę nowennę o głębsze oddanie się Męce Chrystusa.",
-  "intentions": [
-    "christians",
-    "missions",
-    "theologians"
-  ],
-  "intentions_es": [
-    "cristianos",
-    "misiones",
-    "teólogos"
-  ],
-  "intentions_pl": [
-    "chrześcijanie",
-    "misje",
-    "teolodzy"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

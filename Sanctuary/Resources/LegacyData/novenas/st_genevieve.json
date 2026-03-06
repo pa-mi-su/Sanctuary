@@ -264,15 +264,12 @@
   "description_es": "Santa Genoveva fue una fiel campesina francesa cuyas oraciones protegieron a París de la invasión de Atila el Huno. Reza esta novena por París, la fiebre y los desastres.",
   "description_pl": "Święta Genowefa była wierną francuską chłopką, której modlitwy ochroniły Paryż przed najazdem Attyli Hunów. Módl się tę nowennę za Paryż, gorączkę i klęski żywiołowe.",
   "intentions": [
-    "paris",
-    "french_security_forces"
+    "Paris",
+    "French Security Forces"
   ],
-  "intentions_es": [
-    "parís",
-    "fuerzas_de_seguridad_francesas"
-  ],
-  "intentions_pl": [
-    "paryż",
-    "francuskie_siły_bezpieczeństwa"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-genevieve-novena/"
   ]
 }

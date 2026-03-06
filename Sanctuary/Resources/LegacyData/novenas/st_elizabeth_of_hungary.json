@@ -93,22 +93,10 @@
     "starts": "November 8Feastday:November 17Birth:1207Death:1231Patron saint of bakers, beggars, brides, charities, death of children, homeless people, hospitals, Sisters of Mercy, and widows 📱",
     "feast": "November 17Birth:1207Death:1231Patron saint of bakers, beggars, brides, charities, death of children, homeless people, hospitals, Sisters of Mercy, and widows 📱"
   },
-  "intentions": [
-    "bakers",
-    "poor",
-    "widows",
-    "charities"
-  ],
-  "intentions_es": [
-    "panadería",
-    "pobre",
-    "viudas",
-    "organizaciones_benéficas"
-  ],
-  "intentions_pl": [
-    "piekarze",
-    "słaby",
-    "wdowy",
-    "organizacje_charytatywne"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-elizabeth-of-hungary-novena/"
   ]
 }

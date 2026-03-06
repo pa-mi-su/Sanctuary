@@ -262,5 +262,11 @@
   "title_es": "Novena de San Ignacio de Loyola",
   "title_pl": "Nowenna św. Ignacego Loyoli",
   "description_es": "San Ignacio de Loyola fundó la Compañía de Jesús en el siglo XVI. Reza esta novena por educadores y soldados.",
-  "description_pl": "Św. Ignacy Loyola założył Towarzystwo Jezusowe w XVI wieku. Módl się tę nowennę za nauczycieli i żołnierzy."
+  "description_pl": "Św. Ignacy Loyola założył Towarzystwo Jezusowe w XVI wieku. Módl się tę nowennę za nauczycieli i żołnierzy.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-ignatius-loyola-novena/"
+  ]
 }

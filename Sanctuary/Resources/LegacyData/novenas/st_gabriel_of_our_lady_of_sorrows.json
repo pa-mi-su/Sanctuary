@@ -264,19 +264,10 @@
   "title_pl": "Nowenna do św. Gabriela od Matki Bożej Bolesnej",
   "description_es": "San Gabriel de Nuestra Señora de los Dolores ingresó a la comunidad religiosa pasionista siendo joven, después de haber llevado una vida bastante mundana. Reza esta novena por los jóvenes, estudiantes, sacerdotes y la Acción Católica.",
   "description_pl": "Św. Gabriel od Matki Bożej Bolesnej wstąpił do zakonu pasjonistów jako młody człowiek po dość światowym życiu. Módl się tę nowennę za młodzież, studentów, kapłanów i Akcję Katolicką.",
-  "intentions": [
-    "students",
-    "youth",
-    "seminarians"
-  ],
-  "intentions_es": [
-    "estudiantes",
-    "juventud",
-    "seminaristas"
-  ],
-  "intentions_pl": [
-    "studenci",
-    "młodzież",
-    "seminarzyści"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gabriel-of-our-lady-of-sorrows-novena/"
   ]
 }

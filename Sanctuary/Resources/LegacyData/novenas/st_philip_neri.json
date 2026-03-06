@@ -264,18 +264,13 @@
   "description_es": "San Felipe Neri fue un misionero católico y fundador de la Congregación del Oratorio, que incluye sacerdotes y hermanos. Reza esta novena por Roma, las Fuerzas Especiales de los Estados Unidos, el humor y la alegría, Filipinas, comediantes, artistas y escritores.",
   "description_pl": "Św. Filip Neri był katolickim misjonarzem i założycielem Kongregacji Oratorium, która skupia księży i braci. Módl się tę nowennę za Rzym, Specjalne Siły USA, humor i radość, Filipiny, komików, artystów i pisarzy.",
   "intentions": [
-    "rome",
+    "Rome",
     "joy",
-    "usa_forces"
+    "USA forces"
   ],
-  "intentions_es": [
-    "roma",
-    "alegría",
-    "fuerzas_de_estados_unidos"
-  ],
-  "intentions_pl": [
-    "rzym",
-    "radość",
-    "siły_usa"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-philip-neri-novena/"
   ]
 }

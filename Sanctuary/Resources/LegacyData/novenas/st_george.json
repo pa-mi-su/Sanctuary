@@ -264,15 +264,12 @@
   "description_es": "San Jorge fue un soldado de la Guardia Pretoriana del ejército romano, martirizado bajo Diocleciano por negarse a renunciar a su Fe Católica.  \nReza esta novena por los trabajadores agrícolas, campesinos, jornaleros, soldados, arqueros, armeros, jinetes, caballería, talabarteros, la caballería, misiones de mantenimiento de la paz, enfermedades de la piel, leprosos y la lepra, sífilis, ovejas, pastores, exploración y por Inglaterra.",
   "description_pl": "Święty Jerzy był żołnierzem w Gwardii Pretoriańskiej armii rzymskiej, męczennikiem za panowania Dioklecjana za odmowę wyrzeczenia się swojej wiary katolickiej.  \nMódl się tę nowennę za pracowników rolnych, rolników, robotników polowych, żołnierzy, łuczników, zbrojmistrzów, jeźdźców, kawalerię, siodlarzy, rycerstwo, misje pokojowe, choroby skóry, trędowatych i trąd, kiłę, owce, pasterzy, harcerstwo oraz Anglię.",
   "intentions": [
-    "england",
-    "catalonia"
+    "England",
+    "and Catalonia"
   ],
-  "intentions_es": [
-    "inglaterra",
-    "cataluña"
-  ],
-  "intentions_pl": [
-    "anglia",
-    "katalonia"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-george-novena/"
   ]
 }

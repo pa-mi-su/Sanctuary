@@ -263,16 +263,10 @@
   "title_pl": "Nowenna św. Hildegardy z Bingen",
   "description_es": "Santa Hildegarda de Bingen (1098-1179) fue una abadesa benedictina alemana, mística, compositora, filósofa, médica y polímata que se convirtió en una de las figuras más notables del período medieval. Es patrona de los músicos, escritores y de la ecología.",
   "description_pl": "Św. Hildegarda z Bingen (1098-1179) była niemiecką benedyktyńską opatką, mistyczką, kompozytorką, filozofką, lekarką i polimatką, która stała się jedną z najbardziej niezwykłych postaci średniowiecza.  \nJest patronką muzyków, pisarzy i ekologii.",
-  "intentions": [
-    "musicians",
-    "writers"
-  ],
-  "intentions_es": [
-    "músicos",
-    "escritores"
-  ],
-  "intentions_pl": [
-    "muzycy",
-    "pisarze"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-hildegard-of-bingen-novena/"
   ]
 }

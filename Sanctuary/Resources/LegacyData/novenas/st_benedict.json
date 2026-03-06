@@ -264,21 +264,13 @@
   "description_es": "San Benito de Nursia nació en Umbría, Italia, alrededor del año 480 d.C. Se convirtió en el padre del monacato occidental y fundador de la Orden Benedictina, cuyo lema es ora et labora – oración y trabajo. Reza esta novena por los estudiantes y por Europa.",
   "description_pl": "Św. Benedykt z Nursji urodził się w Umbrii we Włoszech około 480 roku n.e.  \nStał się ojcem zachodniego monastycyzmu i założycielem zakonu benedyktynów, którego motto brzmi ora et labora – módl się i pracuj.  \nMódl się tę nowennę za uczniów i za Europę.",
   "intentions": [
-    "students",
-    "europe",
-    "kidney_disease",
-    "poisoning"
+    "Students and Europe",
+    "Kidney Disease",
+    "Poisoning"
   ],
-  "intentions_es": [
-    "estudiantes",
-    "europa",
-    "nefropatía",
-    "envenenamiento"
-  ],
-  "intentions_pl": [
-    "studenci",
-    "europa",
-    "choroba_nerek",
-    "zatrucie"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-benedict-novena/"
   ]
 }

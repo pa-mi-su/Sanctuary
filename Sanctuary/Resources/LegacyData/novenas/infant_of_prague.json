@@ -264,12 +264,11 @@
   "description_es": "Esta devoción proviene de una hermosa estatua del Niño Jesús, que se dice perteneció en su momento a Santa Teresa de Ávila, sosteniendo un globo con una cruz en la cima, que representa el dominio de Cristo sobre todo el mundo.",
   "description_pl": "Ta pobożność pochodzi z pięknej figurki Dzieciątka Jezus, która podobno niegdyś należała do św. Teresy z Avili, trzymającej glob z krzyżem na szczycie, symbolizującym panowanie Chrystusa nad całym światem.",
   "intentions": [
-    "financial_distress"
+    "financial distress"
   ],
-  "intentions_es": [
-    "dificultades_financieras"
-  ],
-  "intentions_pl": [
-    "kłopoty_finansowe"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/infant-of-prague-novena/"
   ]
 }

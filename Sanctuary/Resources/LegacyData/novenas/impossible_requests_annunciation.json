@@ -6115,22 +6115,10 @@
   "title_pl": "Nieprawdopodobne Prośby Zwiastowania 9-miesięczna Nowenna",
   "description_es": "Únete al ‘sí’ de María a Dios. Reza hoy la Novena de la Anunciación y abre tu corazón para recibir el plan milagroso de Dios para tu vida.",
   "description_pl": "Zjednocz się z „tak” Maryi wobec Boga. Módl się dziś Nowennę do Zwiastowania i otwórz swoje serce, aby przyjąć Boży cudowny plan dla swojego życia.",
-  "intentions": [
-    "impossible_requests",
-    "special_circumstances",
-    "pray_for_us",
-    "most_holy_mother_of_god"
-  ],
-  "intentions_es": [
-    "solicitudes_imposibles",
-    "circunstancias_especiales",
-    "ora_por_nosotros",
-    "santísima_madre_de_dios"
-  ],
-  "intentions_pl": [
-    "niemożliwe_żądania",
-    "szczególne_okoliczności",
-    "módlcie_się_za_nas",
-    "najświętsza_matka_boża"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-for-impossible-requests-to-mother-mary-and-jesus/"
   ]
 }

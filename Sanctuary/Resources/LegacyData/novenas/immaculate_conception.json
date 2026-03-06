@@ -264,13 +264,10 @@
   "title_pl": "Nowenna do Niepokalanego Poczęcia",
   "description_es": "Nuestra Señora se apareció a Santa Bernardita en Lourdes, Francia, y confirmó que ella era “la Inmaculada Concepción.”",
   "description_pl": "Nasza Pani ukazała się św. Bernardecie w Lourdes we Francji i potwierdziła, że jest „Niepokalanym Poczęciem.”",
-  "intentions": [
-    "virgin_most_faithful_pray_for_us"
-  ],
-  "intentions_es": [
-    "virgen_fidelísima_ruega_por_nosotros"
-  ],
-  "intentions_pl": [
-    "dziewico_najwierniejsza_módl_się_za_nami"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/immaculate-conception-novena/"
   ]
 }

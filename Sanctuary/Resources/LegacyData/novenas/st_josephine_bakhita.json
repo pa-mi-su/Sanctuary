@@ -264,16 +264,10 @@
   "title_pl": "Nowenna do św. Józefiny Bakhity",
   "description_es": "Santa Josefina Bakhita nació en Sudán, luego fue secuestrada y vendida como esclava. Reza esta novena por Sudán y por los sobrevivientes de la trata de personas.",
   "description_pl": "Św. Józefina Bakhita urodziła się w Sudanie, następnie została porwana i sprzedana na niewolę. Módl się tę nowennę za Sudan i ocalałych z handlu ludźmi.",
-  "intentions": [
-    "victims",
-    "human_trafficking"
-  ],
-  "intentions_es": [
-    "víctimas",
-    "trata_de_personas"
-  ],
-  "intentions_pl": [
-    "ofiary",
-    "handel_ludźmi"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-josephine-bakhita-novena/"
   ]
 }

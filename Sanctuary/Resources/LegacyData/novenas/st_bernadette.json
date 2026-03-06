@@ -264,21 +264,14 @@
   "description_es": "Santa Bernardita de Lourdes fue una joven francesa a quien la Virgen María se le apareció bajo el título de La Inmaculada Concepción. Reza esta novena por los enfermos, las personas ridiculizadas por su piedad, la pobreza, los pastores, las pastoras y Lourdes, Francia.",
   "description_pl": "Święta Bernadetta z Lourdes była młodą francuską dziewczyną, której Matka Boża ukazała się pod tytułem Niepokalane Poczęcie. Módl się tę nowennę w intencji chorych, osób wyśmiewanych za pobożność, ubóstwa, pasterzy, pasterek oraz Lourdes we Francji.",
   "intentions": [
-    "illness",
-    "poverty",
-    "france",
-    "lourdes"
+    "Illness",
+    "Poverty",
+    "France",
+    "and Lourdes"
   ],
-  "intentions_es": [
-    "enfermedad",
-    "pobreza",
-    "francia",
-    "lourdes"
-  ],
-  "intentions_pl": [
-    "choroba",
-    "ubóstwo",
-    "francja",
-    "lourdes"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-bernadette-novena/"
   ]
 }

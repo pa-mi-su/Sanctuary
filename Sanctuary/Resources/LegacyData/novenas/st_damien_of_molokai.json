@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Damiana z Molokai",
   "description_es": "San Damián de Molokai, nacido Jozef De Veuster el 3 de enero de 1840 en Tremelo, Bélgica, es conocido por su ministerio compasivo hacia las personas con lepra (enfermedad de Hansen) en la isla hawaiana de Molokai. Reza esta novena por los enfermos de lepra y por los marginados.",
   "description_pl": "Św. Damian z Molokai, urodzony jako Józef De Veuster 3 stycznia 1840 roku w Tremelo w Belgii, jest znany ze swojej pełnej współczucia posługi wobec osób chorych na trąd (chorobę Hansena) na hawajskiej wyspie Molokai. Módl się tę nowennę za osoby chore na trąd oraz za wykluczonych.",
-  "intentions": [
-    "people_suffering_from_leprosy"
-  ],
-  "intentions_es": [
-    "personas_que_padecen_lepra"
-  ],
-  "intentions_pl": [
-    "ludzie_chorzy_na_trąd"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-damien-of-molokai-novena/"
   ]
 }

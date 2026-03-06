@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Jana Bosko",
   "description_es": "San Juan Bosco fue un sacerdote italiano a quien Cristo le dio la misión de convertir a la juventud del país a Dios. Reza esta novena por aprendices, editores y publicadores, escolares, magos y delincuentes juveniles.",
   "description_pl": "Św. Jan Bosko był włoskim księdzem, któremu Chrystus powierzył misję nawracania młodzieży kraju na Boga. Módl się tę nowennę za uczniów zawodu, redaktorów i wydawców, uczniów szkolnych, magików oraz młodocianych przestępców.",
-  "intentions": [
-    "boys",
-    "young_editors"
-  ],
-  "intentions_es": [
-    "chicos",
-    "jóvenes_editores"
-  ],
-  "intentions_pl": [
-    "chłopcy",
-    "młodzi_redaktorzy"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-john-bosco-novena/"
   ]
 }

@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Franciszka z Asyżu",
   "description_es": "San Francisco nació alrededor de 1181 en Asís, Italia, en una familia de comerciantes adinerados.",
   "description_pl": "Św. Franciszek urodził się około 1181 roku w Asyżu we Włoszech, w zamożnej rodzinie kupieckiej.",
-  "intentions": [
-    "animals"
-  ],
-  "intentions_es": [
-    "animales"
-  ],
-  "intentions_pl": [
-    "zwierzęta"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-francis-of-assisi/"
   ]
 }

@@ -263,13 +263,7 @@
   "title_pl": "Nowenna do św. Brygidy ze Szwecji",
   "description_es": "Santa Brígida de Suecia, nacida Birgitta, fue una mística sueca y fundadora de una Orden religiosa que vivió en el siglo XIV y fue dotada con visiones especiales de Jesucristo.",
   "description_pl": "Święta Brygida ze Szwecji, urodzona jako Birgitta, była szwedzką mistyczką i założycielką zakonu religijnego, która żyła w XIV wieku i została obdarzona szczególnymi wizjami od Jezusa Chrystusa.",
-  "intentions": [
-    "europe"
-  ],
-  "intentions_es": [
-    "europa"
-  ],
-  "intentions_pl": [
-    "europa"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Jana od Krzyża",
   "description_es": "San Juan de la Cruz, fue un sacerdote carmelita español del siglo XVI que fue clave en el movimiento de reforma dentro de la Iglesia Católica que ocurrió en respuesta a la Reforma Protestante. Reza esta novena para un aumento en la devoción a través de la oración.",
   "description_pl": "Św. Jan od Krzyża był hiszpańskim karmelitą z XVI wieku, który odegrał kluczową rolę w ruchu reformującym w Kościele katolickim, który miał miejsce w odpowiedzi na reformację protestancką. Módl się tę nowennę o wzrost pobożności przez modlitwę.",
-  "intentions": [
-    "contemplatives",
-    "mystics",
-    "spanish_poets"
-  ],
-  "intentions_es": [
-    "contemplativos",
-    "místicos",
-    "poetas_españoles"
-  ],
-  "intentions_pl": [
-    "kontemplacyjni",
-    "mistycy",
-    "hiszpańscy_poeci"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-john-of-the-cross-novena/"
   ]
 }

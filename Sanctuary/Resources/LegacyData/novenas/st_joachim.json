@@ -116,15 +116,12 @@
   "description_es": "indefinido",
   "description_pl": "nieokreślony",
   "intentions": [
-    "fathers",
-    "grandparents"
+    "Fathers",
+    "Grandparents"
   ],
-  "intentions_es": [
-    "padres",
-    "abuelos"
-  ],
-  "intentions_pl": [
-    "ojcowie",
-    "dziadkowie"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-joachim-novena/"
   ]
 }

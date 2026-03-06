@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Katarzyny Aleksandryjskiej",
   "description_es": "Santa Catalina de Alejandría es una santa virgen y mártir de la Iglesia primitiva. Reza esta novena por estudiantes, jóvenes solteras, apologistas, mecánicos, enfermeras, alfareros, hilanderas, archiveros, encajeras, afiladores de cuchillos, filósofos y bibliotecarios.",
   "description_pl": "Święta Katarzyna Aleksandryjska jest świętą dziewicą i męczennicą wczesnego Kościoła. Módl się tę nowennę za uczniów, panny niezamężne, apologetów, mechaników, pielęgniarki, garncarzy, prządki, archiwistów, koronczarki, ostrzałkarzy noży, filozofów i bibliotekarzy.",
-  "intentions": [
-    "unmarried_girls",
-    "students"
-  ],
-  "intentions_es": [
-    "chicas_solteras",
-    "estudiantes"
-  ],
-  "intentions_pl": [
-    "niezamężne_dziewczyny",
-    "studenci"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-catherine-of-alexandria/"
   ]
 }

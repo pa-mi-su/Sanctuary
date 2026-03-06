@@ -263,19 +263,10 @@
   "title_pl": "Nowenna św. Alfonsa Liguoriego",
   "description_es": "San Alfonso María de Ligorio fue un obispo italiano, escritor, músico y filósofo que fundó a los Redentoristas y se convirtió en Doctor de la Iglesia. Reza esta novena por la artritis, los abogados, los confesores, los apostolados laicos y las vocaciones.",
   "description_pl": "Św. Alfons Liguori był włoskim biskupem, pisarzem, muzykiem i filozofem, który założył Zgromadzenie Redemptorystów i został Doktorem Kościoła. Módl się tę nowennę w intencji artretyzmu, prawników, spowiedników, świeckich apostolatów oraz powołań.",
-  "intentions": [
-    "confessors",
-    "vocations",
-    "pagani"
-  ],
-  "intentions_es": [
-    "confesores",
-    "vocaciones",
-    "pagano"
-  ],
-  "intentions_pl": [
-    "spowiednicy",
-    "powołania",
-    "pogański"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-alphonsus-liguori-novena/"
   ]
 }

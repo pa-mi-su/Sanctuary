@@ -263,22 +263,10 @@
   "title_pl": "Nowenna do św. Marii Goretti",
   "description_es": "Santa María Goretti es la patrona de la castidad, las víctimas de violación, las niñas, la juventud, las adolescentes, la pobreza, la pureza y el perdón.",
   "description_pl": "Św. Maria Goretti jest patronką czystości, ofiar gwałtu, dziewcząt, młodzieży, nastolatek, ubóstwa, czystości i przebaczenia.",
-  "intentions": [
-    "young_women",
-    "youth_rape_victims",
-    "poverty",
-    "purity"
-  ],
-  "intentions_es": [
-    "mujeres_jóvenes",
-    "víctimas_de_violación_juvenil",
-    "pobreza",
-    "pureza"
-  ],
-  "intentions_pl": [
-    "młode_kobiety",
-    "młode_ofiary_gwałtów",
-    "ubóstwo",
-    "czystość"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-maria-goretti-novena/"
   ]
 }

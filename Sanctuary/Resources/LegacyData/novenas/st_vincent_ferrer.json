@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Wincentego Ferreriusza",
   "description_es": "San Vicente Ferrer fue un sacerdote dominico español y confesor, conocido por su predicación y sabiduría. Es el santo patrón de Valencia, España, y de los constructores porque edificó la Iglesia.",
   "description_pl": "Święty Wincenty Ferrer był hiszpańskim dominikańskim księdzem i spowiednikiem, znanym ze swojego kaznodziejstwa i wiedzy. Jest patronem Walencji w Hiszpanii oraz budowniczych, ponieważ budował Kościół.",
-  "intentions": [
-    "preachers",
-    "builders"
-  ],
-  "intentions_es": [
-    "predicadores",
-    "constructores"
-  ],
-  "intentions_pl": [
-    "kaznodzieje",
-    "budowniczowie"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-vincent-ferrer-novena/"
   ]
 }

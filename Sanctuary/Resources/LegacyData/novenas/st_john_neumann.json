@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Jana Neumanna",
   "description_es": "San Juan Nepomuceno Neumann fue un sacerdote redentorista católico bohemio. Es el santo patrón de la educación católica.",
   "description_pl": "Św. Jan Nepomucen Neumann był czeskim katolickim księdzem redemptorystą.  \nJest patronem katolickiej edukacji.",
-  "intentions": [
-    "catholic_education"
-  ],
-  "intentions_es": [
-    "educacion_catolica"
-  ],
-  "intentions_pl": [
-    "edukacja_katolicka"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-john-neumann-novena/"
   ]
 }

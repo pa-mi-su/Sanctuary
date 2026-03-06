@@ -264,18 +264,13 @@
   "description_es": "San Esteban fue un diácono y el primer mártir cristiano de la Iglesia. Es el santo patrón de los diáconos, monaguillos, albañiles, fabricantes de ataúdes y canteros.",
   "description_pl": "Święty Szczepan był diakonem i pierwszym chrześcijańskim męczennikiem Kościoła. Jest patronem diakonów, ministrantów, murarzy, producentów trumien oraz kamieniarzy.",
   "intentions": [
-    "deacons",
-    "altar_servers",
-    "casket_makers"
+    "Deacons",
+    "altar servers",
+    "casket makers"
   ],
-  "intentions_es": [
-    "diáconos",
-    "monaguillos",
-    "fabricantes_de_ataúdes"
-  ],
-  "intentions_pl": [
-    "diakoni",
-    "ministranci",
-    "wytwórcy_trumien"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-stephen/"
   ]
 }

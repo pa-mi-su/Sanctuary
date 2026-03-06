@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Karola Boromeusza",
   "description_es": "San Carlos Borromeo fue un arzobispo y cardenal que dirigió la Iglesia en la Contrarreforma contra la revuelta protestante. Reza esta novena por los obispos, catequistas, catecúmenos, seminaristas, directores espirituales, huertos de manzanas y contra las úlceras, cólicos y trastornos intestinales.",
   "description_pl": "Św. Karol Boromeusz był arcybiskupem i kardynałem, który prowadził Kościół w czasach kontrreformacji przeciwko protestanckiemu buntowi. Módl się tę nowennę za biskupów, katechetów, katechumenów, seminarzystów, kierowników duchowych, sady jabłoniowe oraz przeciw wrzodom, kolce i schorzeniom jelit.",
-  "intentions": [
-    "against_ulcers",
-    "apple_orchards_bishops",
-    "catechists"
-  ],
-  "intentions_es": [
-    "contra_las_ulceras",
-    "obispos_de_huertos_de_manzanas",
-    "catequistas"
-  ],
-  "intentions_pl": [
-    "przeciw_wrzodom",
-    "biskupi_sadów_jabłoniowych",
-    "katecheci"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-charles-borromeo-novena/"
   ]
 }

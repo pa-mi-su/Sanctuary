@@ -263,22 +263,10 @@
   "title_pl": "Nowenna do św. Maksymiliana Kolbego",
   "description_es": "San Maximiliano Kolbe fue un fraile franciscano polaco, mártir y santo que dio su vida por un compañero prisionero en Auschwitz durante la Segunda Guerra Mundial. Reza esta novena por los drogadictos, los presos, las familias y el movimiento provida.",
   "description_pl": "Św. Maksymilian Kolbe był polskim franciszkańskim zakonnikiem, męczennikiem i świętym, który oddał swoje życie za współwięźnia w Auschwitz podczas II wojny światowej. Módl się tę nowennę za osoby uzależnione, więźniów, rodziny oraz ruch pro-life.",
-  "intentions": [
-    "drug_addicts",
-    "prisoners",
-    "families",
-    "the_pro_life_movement"
-  ],
-  "intentions_es": [
-    "drogadictos",
-    "prisioneros",
-    "familias",
-    "el_movimiento_pro_vida"
-  ],
-  "intentions_pl": [
-    "narkomani",
-    "więźniowie",
-    "rodziny",
-    "ruch_pro_life"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-maximilian-kolbe-novena/"
   ]
 }

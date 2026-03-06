@@ -267,12 +267,9 @@
     "babies",
     "youth"
   ],
-  "intentions_es": [
-    "criaturas",
-    "juventud"
-  ],
-  "intentions_pl": [
-    "niemowlęta",
-    "młodzież"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-philomena-novena/"
   ]
 }

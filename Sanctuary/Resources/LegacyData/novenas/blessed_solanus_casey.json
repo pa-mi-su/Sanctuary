@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do Błogosławionego Solanusa Caseya",
   "description_es": "El Beato Solanus Casey fue un sacerdote franciscano capuchino estadounidense que demostró gran humildad y amor por los demás a pesar de los muchos contratiempos y obstáculos que enfrentó a lo largo de su vida. Reza esta novena para superar los contratiempos y los fracasos aparentes.",
   "description_pl": "Błogosławiony Solanus Casey był amerykańskim kapucynem, franciszkańskim kapłanem, który okazywał wielką pokorę i miłość do innych mimo wielu niepowodzeń i przeszkód, z jakimi zmagał się przez całe swoje życie. Módl się tę nowennę o pokonanie niepowodzeń i pozornych porażek.",
-  "intentions": [
-    "apparent_failure",
-    "setbacks"
-  ],
-  "intentions_es": [
-    "fracaso_aparente",
-    "contratiempos"
-  ],
-  "intentions_pl": [
-    "pozorna_porażka",
-    "komplikacje"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/blessed-solanus-casey-novena/"
   ]
 }

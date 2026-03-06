@@ -264,15 +264,12 @@
   "description_es": "San Charbel Makhlouf fue un monje maronita libanés ampliamente conocido por su santidad y las curaciones milagrosas en respuesta a las oraciones en su tumba. Reza esta novena por la gracia de discernir una llamada a la vida monástica o religiosa clausurada, y por los milagros que esperas.",
   "description_pl": "Św. Charbel Makhlouf był libańskim maronickim mnichem, powszechnie znanym ze swojej świętości i cudownych uzdrowień, które miały miejsce w odpowiedzi na modlitwy przy jego grobie. Módl się tę nowennę o łaskę rozeznania powołania do życia zakonnego lub klauzurowego oraz o cuda, których pragniesz.",
   "intentions": [
-    "lebanon",
+    "Lebanon",
     "sickness"
   ],
-  "intentions_es": [
-    "líbano",
-    "enfermedad"
-  ],
-  "intentions_pl": [
-    "liban",
-    "choroba"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-charbel-novena/"
   ]
 }

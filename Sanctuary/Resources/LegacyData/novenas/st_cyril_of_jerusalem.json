@@ -263,13 +263,10 @@
   "title_pl": "Nowenna św. Cyryla Jerozolimskiego",
   "description_es": "San Cirilo de Jerusalén fue sacerdote y luego obispo de la Iglesia en el siglo III. Reza esta novena por los catequistas y catecúmenos que desean ingresar a la Iglesia.",
   "description_pl": "Św. Cyryl Jerozolimski był kapłanem, a następnie biskupem Kościoła w IV wieku. Módl się tę nowennę za katechetów i katechumenów pragnących wejść do Kościoła.",
-  "intentions": [
-    "catechists"
-  ],
-  "intentions_es": [
-    "catequistas"
-  ],
-  "intentions_pl": [
-    "katecheci"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-cyril-of-jerusalem-novena/"
   ]
 }

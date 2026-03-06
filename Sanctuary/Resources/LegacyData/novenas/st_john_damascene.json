@@ -258,19 +258,10 @@
   "title_pl": "Nowenna do św. Jana z Damaszku",
   "description_es": "San Juan de Damasco (San Juan Damasceno) fue un monje católico, sacerdote, compositor de himnos y apologista. Reza esta novena por los farmacéuticos, pintores de iconos, estudiantes de teología.",
   "description_pl": "Św. Jan z Damaszku (Św. Jan Damascena) był katolickim mnichem, kapłanem, kompozytorem hymnów i apologetą. Módl się tę nowennę za farmaceutów, malarzy ikon, studentów teologii.",
-  "intentions": [
-    "arts",
-    "defense_of_holy_icons",
-    "images"
-  ],
-  "intentions_es": [
-    "letras",
-    "defensa_de_los_santos_iconos",
-    "imágenes"
-  ],
-  "intentions_pl": [
-    "sztuka",
-    "obrona_świętych_ikon",
-    "obrazy"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-john-of-damascus-novena/"
   ]
 }

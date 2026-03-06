@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Elżbiety od Trójcy Przenajświętszej",
   "description_es": "Santa Isabel de la Trinidad fue una monja carmelita descalza que siguió los pasos de Santa Teresa de Lisieux. Reza esta novena por los enfermos, contra los males corporales, contra la muerte de los padres y contra la enfermedad.",
   "description_pl": "Św. Elżbieta od Trójcy Świętej była bosej karmelitanką, która kroczyła śladami św. Teresy z Lisieux. Módl się tę nowennę za chorych, przeciw dolegliwościom ciała, przeciw śmierci rodziców oraz przeciw chorobie.",
-  "intentions": [
-    "sick_people",
-    "loss_of_parents",
-    "against_illness"
-  ],
-  "intentions_es": [
-    "gente_enferma",
-    "pérdida_de_padres",
-    "contra_la_enfermedad"
-  ],
-  "intentions_pl": [
-    "chorzy_ludzie",
-    "utrata_rodziców",
-    "przeciw_chorobie"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-elizabeth-of-trinity-novena/"
   ]
 }

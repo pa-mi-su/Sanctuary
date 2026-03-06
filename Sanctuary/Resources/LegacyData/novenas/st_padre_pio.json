@@ -264,12 +264,11 @@
   "description_es": "San Pío de Pietrelcina, o Padre Pío como es cariñosamente conocido por millones, fue un sacerdote franciscano dotado por Dios de maneras asombrosas.",
   "description_pl": "Św. Pio z Pietrelciny, zwany pieszczotliwie przez miliony Padre Pio, był franciszkańskim kapłanem obdarzonym przez Boga w niezwykły sposób.",
   "intentions": [
-    "civil_defense_volunteers"
+    "civil defense volunteers"
   ],
-  "intentions_es": [
-    "voluntarios_de_defensa_civil"
-  ],
-  "intentions_pl": [
-    "ochotnicy_obrony_cywilnej"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-padre-pio-novena/"
   ]
 }

@@ -265,17 +265,13 @@
   "description_pl": "Święty Piotr i Święty Paweł są Apostołami i dwoma wielkimi filarami Kościoła katolickiego. Święty Piotr był pierwszym biskupem Rzymu, a Święty Paweł uważany jest za największego misyjnego ewangelizatora w Kościele.",
   "intentions": [
     "fishermen",
-    "net_makers",
-    "ship_builders"
+    "net makers",
+    "and ship builders"
   ],
-  "intentions_es": [
-    "pescadores",
-    "fabricantes_de_redes",
-    "constructores_navales"
-  ],
-  "intentions_pl": [
-    "rybacy",
-    "twórcy_sieci",
-    "budowniczowie_statków"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-peter-claver-novena/",
+    "https://novenaprayer.com/novena-to-st-peter/"
   ]
 }

@@ -264,13 +264,10 @@
   "title_pl": "Nowenna do św. Józefa",
   "description_es": "San José fue el esposo de la Santísima Virgen María y el padre adoptivo de Jesucristo. Reza la novena a San José para encontrar empleo, vender tu casa, encontrar a tu cónyuge o cualquier intención.",
   "description_pl": "Święty Józef był mężem Najświętszej Maryi Panny i opiekunem Jezusa Chrystusa. Módl się nowennę do św. Józefa o znalezienie pracy, sprzedaż domu, znalezienie małżonka lub o dowolną intencję.",
-  "intentions": [
-    "workers"
-  ],
-  "intentions_es": [
-    "trabajadores"
-  ],
-  "intentions_pl": [
-    "pracownicy"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-joseph-novena/"
   ]
 }

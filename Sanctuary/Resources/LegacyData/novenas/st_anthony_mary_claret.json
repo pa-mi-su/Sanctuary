@@ -263,19 +263,7 @@
   "title_pl": "Nowenna do św. Antoniego Marii Clareta",
   "description_es": "San Antonio María Claret fue un arzobispo y misionero católico español del siglo XIX. Reza esta novena por los comerciantes de textiles, tejedores, quienes ahorran dinero prudentemente, la prensa católica, los Misioneros Claretianos Hijos del Inmaculado Corazón de María, la Diócesis de las Islas Canarias, los estudiantes claretianos, educadores y educadores técnicos y vocacionales.",
   "description_pl": "Św. Antoni Maria Klaret był hiszpańskim katolickim arcybiskupem i misjonarzem XIX wieku. Módl się tę nowennę za kupców tekstylnych, tkaczy, roztropnie oszczędzających pieniądze, katolicką prasę, Synów Misjonarzy Klaretynów Niepokalanego Serca Maryi, Diecezję Wysp Kanaryjskich, Klaretyńskich Studentów, Wychowawców oraz Nauczycieli Technicznych i Zawodowych.",
-  "intentions": [
-    "weavers",
-    "catholic_press",
-    "textile_merchants"
-  ],
-  "intentions_es": [
-    "tejedores",
-    "prensa_católica",
-    "comerciantes_textiles"
-  ],
-  "intentions_pl": [
-    "tkacze",
-    "prasa_katolicka",
-    "handlarze_tekstyliami"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

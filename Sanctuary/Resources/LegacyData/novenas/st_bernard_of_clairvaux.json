@@ -263,19 +263,7 @@
   "title_pl": "Nowenna św. Bernarda z Clairvaux",
   "description_es": "San Bernardo de Claraval fue un abad cisterciense, místico y cofundador de los Caballeros Templarios. Reza esta novena por los cistercienses, Borgoña, apicultores, fabricantes de velas, Gibraltar, Algeciras, Queens’ College Cambridge, Caballeros Templarios.",
   "description_pl": "Św. Bernard z Clairvaux był opatem cysterskim, mistykiem i współzałożycielem Zakonu Templariuszy. Módl się tę nowennę za cystersów, Burgundię, pszczelarzy, świeczkarzy, Gibraltar, Algeciras, Queens’ College w Cambridge, Templariuszy.",
-  "intentions": [
-    "cistercians",
-    "beekeepers",
-    "candle_makers"
-  ],
-  "intentions_es": [
-    "cistercienses",
-    "apicultores",
-    "fabricantes_de_velas"
-  ],
-  "intentions_pl": [
-    "cystersi",
-    "pszczelarze",
-    "wytwórcy_świec"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

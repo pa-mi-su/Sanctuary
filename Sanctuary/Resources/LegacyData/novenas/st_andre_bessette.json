@@ -264,15 +264,12 @@
   "description_es": "San Andrés Bessette fue el hombre menos probable para convertirse en santo. Era físicamente débil, no era un teólogo brillante, y en múltiples ocasiones estuvo a punto de ser expulsado de la Orden religiosa en la que quería estar.",
   "description_pl": "Św. Andrzej Bessette był najmniej prawdopodobnym człowiekiem, który miał zostać świętym. Był fizycznie słaby, nie był wybitnym teologiem, a wielokrotnie niemal został wydalony z zakonu, do którego pragnął należeć.",
   "intentions": [
-    "the_sick",
+    "the sick",
     "poor"
   ],
-  "intentions_es": [
-    "los_enfermos",
-    "pobre"
-  ],
-  "intentions_pl": [
-    "chory",
-    "słaby"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-andre-bessete/"
   ]
 }

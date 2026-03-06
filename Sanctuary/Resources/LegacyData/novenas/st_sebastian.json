@@ -266,16 +266,11 @@
   "intentions": [
     "soldiers",
     "athletes",
-    "those_who_desire_a_saintly"
+    "and those who desire a Saintly"
   ],
-  "intentions_es": [
-    "soldados",
-    "atletas",
-    "aquellos_que_desean_un_santo"
-  ],
-  "intentions_pl": [
-    "żołnierski",
-    "sportowcy",
-    "którzy_pragną_świętości"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-sebastian-novena/"
   ]
 }

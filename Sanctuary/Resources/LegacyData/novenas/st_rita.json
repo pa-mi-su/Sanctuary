@@ -264,21 +264,14 @@
   "description_es": "Santa Rita de Casia fue esposa y madre, luego, tras la muerte de su esposo, monja. Reza esta novena por causas imposibles, problemas matrimoniales y abusos.",
   "description_pl": "Święta Rita z Cascii była żoną i matką, a potem, po śmierci męża, zakonnicą. Módl się tę nowennę w sprawach niemożliwych, problemach małżeńskich i przemocy.",
   "intentions": [
-    "impossible_causes",
+    "impossible causes",
     "sickness",
     "wounds",
-    "marital_problems"
+    "marital problems"
   ],
-  "intentions_es": [
-    "causas_imposibles",
-    "enfermedad",
-    "heridas",
-    "problemas_matrimoniales"
-  ],
-  "intentions_pl": [
-    "niemożliwe_przyczyny",
-    "choroba",
-    "rany",
-    "problemy_małżeńskie"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-rita-novena/"
   ]
 }

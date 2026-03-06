@@ -263,28 +263,10 @@
   "title_pl": "Nowenna do św. Jana Chrzciciela",
   "description_es": "San Juan Bautista es el patrón de innumerables diócesis, ciudades y causas.",
   "description_pl": "Św. Jan Chrzciciel jest patronem niezliczonych diecezji, miast i spraw.",
-  "intentions": [
-    "baptism",
-    "conversion",
-    "monks",
-    "jordan",
-    "puerto_rico",
-    "many_other_places"
-  ],
-  "intentions_es": [
-    "bautismo",
-    "conversión",
-    "monjes",
-    "jordán",
-    "puertorriqueño",
-    "muchos_otros_lugares"
-  ],
-  "intentions_pl": [
-    "chrzest",
-    "konwersja",
-    "mnisi",
-    "jordania",
-    "portoryko",
-    "wiele_innych_miejsc"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-john-the-baptist/"
   ]
 }

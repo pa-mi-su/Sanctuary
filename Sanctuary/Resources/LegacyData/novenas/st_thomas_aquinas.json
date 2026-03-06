@@ -266,10 +266,9 @@
   "intentions": [
     "students"
   ],
-  "intentions_es": [
-    "estudiantes"
-  ],
-  "intentions_pl": [
-    "studenci"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-thomas-aquinas-novena/"
   ]
 }

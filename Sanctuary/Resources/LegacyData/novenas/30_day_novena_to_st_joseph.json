@@ -726,13 +726,10 @@
   "title_pl": "Nowenna 30-dniowa do św. Józefa",
   "description_es": "Busca hoy la poderosa intercesión de San José. Reza esta novena de 30 días y recibe la protección del padre adoptivo de Jesús, patrono de las causas imposibles.",
   "description_pl": "Szukaj dziś potężnej wstawiennictwa św. Józefa. Módl się tę 30-dniową nowennę i otrzymaj ochronę Józefa, opiekuna Jezusa, patrona spraw niemożliwych.",
-  "intentions": [
-    "call_for_st_joseph_for_all_your_needs"
-  ],
-  "intentions_es": [
-    "llame_a_san_josé_para_todas_sus_necesidades"
-  ],
-  "intentions_pl": [
-    "wzywaj_św_józefa_we_wszystkich_twoich_potrzebach"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/day-1-30-day-novena-to-st-joseph/"
   ]
 }

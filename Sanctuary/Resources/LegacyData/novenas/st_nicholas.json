@@ -263,25 +263,10 @@
   "title_pl": "Nowenna do Świętego Mikołaja z Miry",
   "description_es": "San Nicolás fue obispo en Mira (Turquía) en el siglo IV, conocido por combatir la herejía arriana y por dar regalos a los niños y a las familias necesitadas. Reza esta novena por tus hijos.",
   "description_pl": "Święty Mikołaj był biskupem w Mirze (Turcja) w IV wieku, znanym z walki z herezją ariańską oraz z obdarowywania prezentami dzieci i rodzin w potrzebie. Módl się tę nowennę za swoje dzieci.",
-  "intentions": [
-    "children",
-    "poor",
-    "sick",
-    "fishermen",
-    "sailors"
-  ],
-  "intentions_es": [
-    "niños",
-    "pobre",
-    "enfermo",
-    "pescadores",
-    "marineros"
-  ],
-  "intentions_pl": [
-    "dzieci",
-    "słaby",
-    "chory",
-    "rybacy",
-    "marynarze"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-nicholas-of-myra-novena/"
   ]
 }

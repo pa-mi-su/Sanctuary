@@ -267,12 +267,9 @@
     "musicians",
     "purity"
   ],
-  "intentions_es": [
-    "músicos",
-    "pureza"
-  ],
-  "intentions_pl": [
-    "muzycy",
-    "czystość"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-cecilia-novena/"
   ]
 }

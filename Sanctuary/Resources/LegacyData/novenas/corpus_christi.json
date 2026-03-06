@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do Najświętszego Ciała Chrystusa",
   "description_es": "Profundiza tu amor por la Eucaristía. Reza esta novena de Corpus Christi ahora y experimenta una devoción transformadora a la Presencia Real de Cristo - Cuerpo, Sangre, Alma y Divinidad.",
   "description_pl": "Pogłęb swoją miłość do Eucharystii. Módl się teraz tę nowennę ku czci Bożego Ciała i doświadcz przemieniającej miłości do Prawdziwej Obecności Chrystusa – Ciała, Krwi, Duszy i Boskości.",
-  "intentions": [
-    "o_lord_jesus_christ",
-    "you_who_given_us_your_body",
-    "blood"
-  ],
-  "intentions_es": [
-    "oh_señor_jesucristo",
-    "tu_que_nos_diste_tu_cuerpo",
-    "sangre"
-  ],
-  "intentions_pl": [
-    "o_panie_jezu_chryste",
-    "ty_który_dałeś_nam_swoje_ciało",
-    "krew"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/corpus-christi-novena/"
   ]
 }

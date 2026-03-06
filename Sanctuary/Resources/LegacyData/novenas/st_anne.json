@@ -264,27 +264,13 @@
   "description_es": "Santa Ana es la madre de la Virgen María y abuela de Jesús, y como tal ha recibido gran honor dentro de la Tradición Católica.",
   "description_pl": "Święta Anna jest matką Najświętszej Maryi Panny i babcią Jezusa, i jako taka została obdarzona wielkim szacunkiem w Tradycji Katolickiej.",
   "intentions": [
-    "motherhood",
+    "unmarried women",
     "mothers",
-    "pregnancy",
-    "family",
-    "unmarried_women",
     "housewives"
   ],
-  "intentions_es": [
-    "maternidad",
-    "madres",
-    "embarazo",
-    "familia",
-    "mujeres_solteras",
-    "amas_de_casa"
-  ],
-  "intentions_pl": [
-    "macierzyństwo",
-    "matki",
-    "ciąża",
-    "rodzina",
-    "niezamężne_kobiety",
-    "gospodynie_domowe"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-anne-novena/"
   ]
 }

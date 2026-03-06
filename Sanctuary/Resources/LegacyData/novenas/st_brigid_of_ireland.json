@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Brygidy z Irlandii",
   "description_es": "Santa Brígida de Irlanda (también conocida como Santa Brígida de Kildare) fue una monja cristiana temprana en Irlanda y abadesa de varios monasterios. Reza esta novena por los niños en hogares difíciles, por las parteras, los agricultores y los ganaderos.",
   "description_pl": "Święta Brygida z Irlandii (znana również jako św. Brygida z Kildare) była wczesnochrześcijańską zakonnicą w Irlandii i przełożoną kilku klasztorów. Módl się tę nowennę za dzieci z trudnych domów, za położne, rolników i hodowców.",
-  "intentions": [
-    "ireland",
-    "poor",
-    "sick"
-  ],
-  "intentions_es": [
-    "irlanda",
-    "pobre",
-    "enfermo"
-  ],
-  "intentions_pl": [
-    "irlandia",
-    "słaby",
-    "chory"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-brigid-of-ireland-novena/"
   ]
 }

@@ -263,19 +263,10 @@
   "title_pl": "Nowenna do św. Teresy z Avili",
   "description_es": "Santa Teresa fue una monja carmelita española que reformó la Orden y experimentó la gracia mística a través de la oración",
   "description_pl": "Św. Teresa była hiszpańską karmelitanką, która zreformowała Zakon i doświadczyła mistycznej łaski przez modlitwę.",
-  "intentions": [
-    "spain",
-    "people_in_religious_orders",
-    "headache_sufferers"
-  ],
-  "intentions_es": [
-    "españa",
-    "personas_en_órdenes_religiosas",
-    "quienes_sufren_de_dolor_de_cabeza"
-  ],
-  "intentions_pl": [
-    "hiszpania",
-    "ludzie_w_zakonach",
-    "cierpiących_na_ból_głowy"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-teresa-of-avila-novena/"
   ]
 }

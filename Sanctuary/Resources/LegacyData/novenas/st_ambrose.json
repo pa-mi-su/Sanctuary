@@ -266,16 +266,11 @@
   "intentions": [
     "beekeepers",
     "learners",
-    "milan"
+    "Milan"
   ],
-  "intentions_es": [
-    "apicultores",
-    "estudiantes",
-    "milán"
-  ],
-  "intentions_pl": [
-    "pszczelarze",
-    "uczniowie",
-    "mediolan"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-ambrose-novena/"
   ]
 }

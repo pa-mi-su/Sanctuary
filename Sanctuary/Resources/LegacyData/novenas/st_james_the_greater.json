@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Jakuba Większego",
   "description_es": "Santiago el Mayor (también conocido como Santiago el Grande) fue uno de los Apóstoles de Jesús y el primer Apóstol en ser martirizado. Reza esta novena por España y por los peregrinos.",
   "description_pl": "Św. Jakub Większy (znany również jako św. Jakub Starszy) był jednym z Apostołów Jezusa i pierwszym Apostołem, który poniósł męczeństwo. Módl się tę nowennę za Hiszpanię i za pielgrzymów.",
-  "intentions": [
-    "spain",
-    "pilgrims"
-  ],
-  "intentions_es": [
-    "españa",
-    "peregrinos"
-  ],
-  "intentions_pl": [
-    "hiszpania",
-    "pielgrzymi"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-james-the-greater-novena/"
   ]
 }

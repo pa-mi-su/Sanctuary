@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do Czcigodnego Fultona Sheena",
   "description_es": "El Venerable Fulton John Sheen fue un obispo estadounidense que utilizó la televisión y la radio para evangelizar y catequizar. Reza esta novena por la beatificación y canonización de Fulton Sheen.",
   "description_pl": "Czcigodny Fulton John Sheen był amerykańskim biskupem, który wykorzystywał telewizję i radio do ewangelizacji i katechezy. Módl się tę nowennę o beatyfikację i kanonizację Fultona Sheena.",
-  "intentions": [
-    "lord"
-  ],
-  "intentions_es": [
-    "caballero"
-  ],
-  "intentions_pl": [
-    "panie"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/fulton-sheen-novena/"
   ]
 }

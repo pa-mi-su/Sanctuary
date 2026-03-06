@@ -262,5 +262,11 @@
   "title_es": "Novena del Papa San Juan Pablo II",
   "title_pl": "Nowenna do św. Jana Pawła II Papieża",
   "description_es": "El Papa San Juan Pablo II creció en Polonia, soportó los horrores de la guerra y la ocupación nazi, y luego llegó a ser un papa amado a finales del siglo XX.",
-  "description_pl": "Papież św. Jan Paweł II dorastał w Polsce, przeżył okropności wojny i okupacji nazistowskiej, a następnie został ukochanym papieżem końca XX wieku."
+  "description_pl": "Papież św. Jan Paweł II dorastał w Polsce, przeżył okropności wojny i okupacji nazistowskiej, a następnie został ukochanym papieżem końca XX wieku.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-john-paul-ii/"
+  ]
 }

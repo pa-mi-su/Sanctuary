@@ -266,10 +266,9 @@
   "intentions": [
     "doctors"
   ],
-  "intentions_es": [
-    "doctores"
-  ],
-  "intentions_pl": [
-    "lekarze"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-luke-novena/"
   ]
 }

@@ -263,16 +263,7 @@
   "title_pl": "Nowenna do św. Gerarda Majelli dla przyszłych matek",
   "description_es": "San Gerardo Majella, el Santo de las Madres, fue un hermano laico redentorista italiano cuya intercesión llevó a la curación milagrosa de una madre al borde de la muerte por el parto. Reza esta novena por las madres embarazadas y las mujeres que luchan contra la infertilidad.",
   "description_pl": "Św. Gerard Majella, Święty Matek, był włoskim bratem świeckim zakonu Redemptorystów, którego wstawiennictwo doprowadziło do cudownego uzdrowienia matki bliskiej śmierci przy porodzie. Módl się tę nowennę za przyszłe matki oraz kobiety zmagające się z niepłodnością.",
-  "intentions": [
-    "pregnant_women",
-    "expectant_mothers"
-  ],
-  "intentions_es": [
-    "mujeres_embarazadas",
-    "futuras_madres"
-  ],
-  "intentions_pl": [
-    "kobiety_w_ciąży",
-    "przyszłe_matki"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

@@ -263,16 +263,10 @@
   "title_pl": "Nowenna do św. Wincentego à Paulo",
   "description_es": "San Vicente de Paúl fue un sacerdote católico francés que se dedicó a servir a los pobres. Reza esta novena por las obras de caridad, los caballos, los hospitales, la lepra, los objetos perdidos, los presos, la ayuda espiritual, las Sociedades de San Vicente de Paúl y los voluntarios.",
   "description_pl": "Święty Wincenty à Paulo był francuskim księdzem katolickim, który poświęcił się służbie ubogim. Módl się tę nowennę za organizacje charytatywne, konie, szpitale, trąd, zagubione przedmioty, więźniów, pomoc duchową, Stowarzyszenia św. Wincentego à Paulo oraz wolontariuszy.",
-  "intentions": [
-    "the_poor",
-    "charitable_associations"
-  ],
-  "intentions_es": [
-    "los_pobres",
-    "asociaciones_caritativas"
-  ],
-  "intentions_pl": [
-    "biedni",
-    "stowarzyszenia_charytatywne"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-vincent-de-paul/"
   ]
 }

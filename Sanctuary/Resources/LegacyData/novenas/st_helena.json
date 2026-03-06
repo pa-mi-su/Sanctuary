@@ -264,18 +264,13 @@
   "description_es": "Santa Elena descubrió la Vera Cruz, y fue la madre del Emperador Constantino. Reza esta novena por matrimonios difíciles, hombres y mujeres divorciados, conversos y nuevos descubrimientos.",
   "description_pl": "Święta Helena odkryła Prawdziwy Krzyż i była matką cesarza Konstantyna. Módl się tę nowennę za trudne małżeństwa, rozwiedzionych mężczyzn i kobiety, nawróconych oraz nowe odkrycia.",
   "intentions": [
-    "difficult_marriages",
-    "divorced_people",
-    "of_new_discoveries"
+    "difficult marriages",
+    "divorced people",
+    "of new discoveries"
   ],
-  "intentions_es": [
-    "matrimonios_difíciles",
-    "personas_divorciadas",
-    "de_nuevos_descubrimientos"
-  ],
-  "intentions_pl": [
-    "trudne_małżeństwa",
-    "osoby_rozwiedzione",
-    "nowych_odkryć"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-helena-novena/"
   ]
 }

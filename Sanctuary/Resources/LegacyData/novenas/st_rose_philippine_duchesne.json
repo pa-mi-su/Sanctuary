@@ -263,13 +263,10 @@
   "title_pl": "Nowenna do św. Róży Filipa Duchesne",
   "description_es": "Santa Rosa Filipina Duchesne fue una monja francesa de la Sociedad del Sagrado Corazón. Reza esta novena por la perseverancia en medio de la adversidad y por la Diócesis de Springfield-Cape Girardeau.",
   "description_pl": "Św. Róża Filipina Duchesne była francuską zakonnicą Towarzystwa Najświętszego Serca. Módl się tę nowennę o wytrwałość w trudnych chwilach oraz za Diecezję Springfield-Cape Girardeau.",
-  "intentions": [
-    "perseverance_amid_adversity"
-  ],
-  "intentions_es": [
-    "perseverancia_en_medio_de_la_adversidad"
-  ],
-  "intentions_pl": [
-    "wytrwałość_pomimo_przeciwności_losu"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-rose-philippine-duchesne-novena/"
   ]
 }

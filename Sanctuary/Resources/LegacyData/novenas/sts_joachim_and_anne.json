@@ -264,19 +264,7 @@
   "title_pl": "Nowenna do św. Joachim i św. Anny",
   "description_es": "Los santos Ana y Joaquín son los padres de la Santísima Virgen María. Reza esta novena por los abuelos o para concebir un hijo.",
   "description_pl": "Święci Anna i Joachim są rodzicami Błogosławionej Maryi Panny. Módl się tę nowennę za dziadków lub o poczęcie dziecka.",
-  "intentions": [
-    "grandparents",
-    "conceiving_a_child",
-    "family"
-  ],
-  "intentions_es": [
-    "abuelos",
-    "concebir_un_hijo",
-    "familia"
-  ],
-  "intentions_pl": [
-    "dziadkowie",
-    "poczecie_dziecka",
-    "rodzina"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

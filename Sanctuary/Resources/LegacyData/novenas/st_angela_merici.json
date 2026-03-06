@@ -263,16 +263,7 @@
   "title_pl": "Nowenna do św. Anieli Merici",
   "description_es": "Santa Ángela de Mérici fue una santa italiana que fundó las Ursulinas y dedicó su vida a la educación de las niñas. Reza esta novena por los enfermos, las personas con discapacidad, la pérdida de los padres, el valor, la fortaleza y la determinación.",
   "description_pl": "Św. Angela Merici była włoską świętą, która założyła Urszulanki i poświęciła swoje życie edukacji dziewcząt. Módl się tę nowennę w intencji chorych, osób niepełnosprawnych, utraty rodziców, odwagi, siły i wytrwałości.",
-  "intentions": [
-    "the_sick",
-    "loss_of_parents"
-  ],
-  "intentions_es": [
-    "los_enfermos",
-    "pérdida_de_padres"
-  ],
-  "intentions_pl": [
-    "chory",
-    "utrata_rodziców"
-  ]
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
 }

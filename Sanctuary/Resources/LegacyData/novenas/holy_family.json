@@ -261,13 +261,10 @@
   "title_pl": "Nowenna do Świętej Rodziny",
   "description_es": "La Sagrada Familia de Jesús, María y José ofrece a cada familia una inspiración y un modelo a seguir.",
   "description_pl": "Święta Rodzina Jezusa, Maryi i Józefa stanowi dla każdej rodziny inspirację i wzór do naśladowania.",
-  "intentions": [
-    "in_honor_of_the_holy_family"
-  ],
-  "intentions_es": [
-    "en_honor_a_la_sagrada_familia"
-  ],
-  "intentions_pl": [
-    "na_cześć_świętej_rodziny"
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/holy-family-novena/"
   ]
 }

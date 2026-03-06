@@ -268,14 +268,9 @@
     "printers",
     "theologians"
   ],
-  "intentions_es": [
-    "cerveceros",
-    "impresoras",
-    "teólogos"
-  ],
-  "intentions_pl": [
-    "piwowarzy",
-    "drukarki",
-    "teolodzy"
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-augustine-novena/"
   ]
 }
