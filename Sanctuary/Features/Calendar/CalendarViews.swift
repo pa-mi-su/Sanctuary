@@ -48,12 +48,24 @@ struct NovenasCalendarView: View {
             onHeaderTap: { showDatePicker = true }
         ) {
             if mode == .month {
-                MonthGrid(daysInMonth: maxDay, selectedDay: selectedDay, labelForDay: novenaLabel(for:)) { day in
+                MonthGrid(
+                    year: selectedYear,
+                    month: selectedMonth,
+                    daysInMonth: maxDay,
+                    selectedDay: selectedDay,
+                    labelForDay: novenaLabel(for:)
+                ) { day in
                     selectedDay = day
                     mode = .day
                 }
             } else if mode == .week {
-                WeekGrid(daysInMonth: maxDay, selectedDay: selectedDay, labelForDay: novenaLabel(for:)) { day in
+                WeekGrid(
+                    year: selectedYear,
+                    month: selectedMonth,
+                    daysInMonth: maxDay,
+                    selectedDay: selectedDay,
+                    labelForDay: novenaLabel(for:)
+                ) { day in
                     selectedDay = day
                     mode = .day
                 }
@@ -243,12 +255,24 @@ struct LiturgicalCalendarView: View {
             onHeaderTap: { showDatePicker = true }
         ) {
             if mode == .month {
-                MonthGrid(daysInMonth: maxDay, selectedDay: selectedDay, labelForDay: liturgicalLabel(for:)) { day in
+                MonthGrid(
+                    year: selectedYear,
+                    month: selectedMonth,
+                    daysInMonth: maxDay,
+                    selectedDay: selectedDay,
+                    labelForDay: liturgicalLabel(for:)
+                ) { day in
                     selectedDay = day
                     mode = .day
                 }
             } else if mode == .week {
-                WeekGrid(daysInMonth: maxDay, selectedDay: selectedDay, labelForDay: liturgicalLabel(for:)) { day in
+                WeekGrid(
+                    year: selectedYear,
+                    month: selectedMonth,
+                    daysInMonth: maxDay,
+                    selectedDay: selectedDay,
+                    labelForDay: liturgicalLabel(for:)
+                ) { day in
                     selectedDay = day
                     mode = .day
                 }
@@ -393,12 +417,24 @@ struct SaintsCalendarView: View {
                     }
                 )
             } else if mode == .week {
-                WeekGrid(daysInMonth: maxDay, selectedDay: selectedDay, labelForDay: saintLabel(for:)) { day in
+                WeekGrid(
+                    year: selectedYear,
+                    month: selectedMonth,
+                    daysInMonth: maxDay,
+                    selectedDay: selectedDay,
+                    labelForDay: saintLabel(for:)
+                ) { day in
                     selectedDay = day
                     mode = .day
                 }
             } else {
-                MonthGrid(daysInMonth: maxDay, selectedDay: selectedDay, labelForDay: saintLabel(for:)) { day in
+                MonthGrid(
+                    year: selectedYear,
+                    month: selectedMonth,
+                    daysInMonth: maxDay,
+                    selectedDay: selectedDay,
+                    labelForDay: saintLabel(for:)
+                ) { day in
                     selectedDay = day
                     mode = .day
                 }
@@ -761,18 +797,24 @@ private struct DayCard: View {
 }
 
 private struct MonthGrid: View {
+    let year: Int
+    let month: Int
     let daysInMonth: Int
     let selectedDay: Int
     let labelForDay: (Int) -> String
     let onDayTap: (Int) -> Void
 
     private let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 7)
+    private var leadingEmptyCells: Int { firstWeekdayOffset(year: year, month: month) }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
             weekHeaderRow
 
             LazyVGrid(columns: columns, spacing: 10) {
+                ForEach(0 ..< leadingEmptyCells, id: \.self) { _ in
+                    Color.clear.frame(height: 72)
+                }
                 ForEach(1...daysInMonth, id: \.self) { day in
                     dayCell(day: day, label: labelForDay(day), isSelected: day == selectedDay)
                 }
@@ -821,13 +863,23 @@ private struct MonthGrid: View {
 }
 
 private struct WeekGrid: View {
+    let year: Int
+    let month: Int
     let daysInMonth: Int
     let selectedDay: Int
     let labelForDay: (Int) -> String
     let onDayTap: (Int) -> Void
 
-    private var weekStartDay: Int { ((selectedDay - 1) / 7) * 7 + 1 }
-    private var weekEndDay: Int { min(weekStartDay + 6, daysInMonth) }
+    private var weekStartDay: Int {
+        let weekday = weekdayForDate(year: year, month: month, day: selectedDay)
+        return selectedDay - (weekday - 1)
+    }
+    private var weekDays: [Int?] {
+        (0...6).map { offset in
+            let value = weekStartDay + offset
+            return (1...daysInMonth).contains(value) ? value : nil
+        }
+    }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
@@ -841,36 +893,55 @@ private struct WeekGrid: View {
             }
 
             HStack(spacing: 10) {
-                ForEach(weekStartDay...weekEndDay, id: \.self) { day in
-                    Button {
-                        onDayTap(day)
-                    } label: {
-                        ZStack {
-                            RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                .fill(Color.white.opacity(0.14))
-                            RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                .stroke(day == selectedDay ? AppTheme.christmas : AppTheme.lent, lineWidth: day == selectedDay ? 4 : 2)
+                ForEach(Array(weekDays.enumerated()), id: \.offset) { _, maybeDay in
+                    if let day = maybeDay {
+                        Button {
+                            onDayTap(day)
+                        } label: {
+                            ZStack {
+                                RoundedRectangle(cornerRadius: 16, style: .continuous)
+                                    .fill(Color.white.opacity(0.14))
+                                RoundedRectangle(cornerRadius: 16, style: .continuous)
+                                    .stroke(day == selectedDay ? AppTheme.christmas : AppTheme.lent, lineWidth: day == selectedDay ? 4 : 2)
 
-                            VStack(spacing: 6) {
-                                Text("\(day)")
-                                    .font(AppTheme.rounded(15, weight: .semibold))
-                                    .foregroundStyle(.white)
-                                Text(labelForDay(day))
-                                    .font(AppTheme.rounded(10, weight: .medium))
-                                    .foregroundStyle(.white.opacity(0.86))
-                                    .multilineTextAlignment(.center)
-                                    .lineLimit(2)
+                                VStack(spacing: 6) {
+                                    Text("\(day)")
+                                        .font(AppTheme.rounded(15, weight: .semibold))
+                                        .foregroundStyle(.white)
+                                    Text(labelForDay(day))
+                                        .font(AppTheme.rounded(10, weight: .medium))
+                                        .foregroundStyle(.white.opacity(0.86))
+                                        .multilineTextAlignment(.center)
+                                        .lineLimit(2)
+                                }
+                                .padding(6)
                             }
-                            .padding(6)
                         }
+                        .frame(maxWidth: .infinity)
+                        .frame(height: 80)
+                        .buttonStyle(.plain)
+                    } else {
+                        Color.clear
+                            .frame(maxWidth: .infinity)
+                            .frame(height: 80)
                     }
-                    .frame(maxWidth: .infinity)
-                    .frame(height: 80)
-                    .buttonStyle(.plain)
                 }
             }
         }
     }
+}
+
+private func firstWeekdayOffset(year: Int, month: Int) -> Int {
+    let weekday = weekdayForDate(year: year, month: month, day: 1)
+    return max(0, weekday - 1)
+}
+
+private func weekdayForDate(year: Int, month: Int, day: Int) -> Int {
+    var cal = Calendar(identifier: .gregorian)
+    cal.timeZone = TimeZone(secondsFromGMT: 0) ?? TimeZone.current
+    let components = DateComponents(year: year, month: month, day: day, hour: 12)
+    guard let date = cal.date(from: components) else { return 1 }
+    return cal.component(.weekday, from: date)
 }
 
 private func mapSourceSaint(_ doc: SaintDocument) -> Saint {
@@ -1005,34 +1076,22 @@ private func daysInMonth(year: Int, month: Int) -> Int {
 }
 
 private enum LiturgicalLookup {
-    struct Entry: Decodable {
+    struct Entry: Hashable {
         let date: String
         let rank: String
         let readingURL: String?
+        let season: LiturgicalSeason
     }
-
-    private static let cache: [String: Entry] = load()
 
     static func day(forYear year: Int, month: Int, day: Int) -> Entry? {
-        let key = String(format: "%04d-%02d-%02d", year, month, day)
-        return cache[key]
-    }
-
-    private static func load() -> [String: Entry] {
-        let candidates: [String?] = [nil, "Resources", "Resources/LegacyData", "LegacyData"]
-        for sub in candidates {
-            if let url = Bundle.main.url(forResource: "liturgical_days", withExtension: "json", subdirectory: sub),
-               let data = try? Data(contentsOf: url),
-               let entries = try? JSONDecoder().decode([Entry].self, from: data) {
-                var map: [String: Entry] = [:]
-                for entry in entries {
-                    let key = String(entry.date.prefix(10))
-                    map[key] = entry
-                }
-                return map
-            }
-        }
-        return [:]
+        let date = LiturgicalCalendarEngine.makeDate(year: year, month: month, day: day)
+        let liturgicalDay = LiturgicalCalendarEngine.day(for: date)
+        return Entry(
+            date: String(format: "%04d-%02d-%02d", year, month, day),
+            rank: liturgicalDay.rank,
+            readingURL: liturgicalDay.readingURL?.absoluteString,
+            season: liturgicalDay.season
+        )
     }
 }
 

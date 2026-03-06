@@ -130,7 +130,7 @@ actor LocalContentRepository: ContentRepository {
 
     func fetchLiturgicalDay(for date: Date) async throws -> LiturgicalDay? {
         await ensureSupplementaryContentLoaded()
-        return liturgicalDays[Self.dateKey(for: date)]
+        return LiturgicalCalendarEngine.day(for: date)
     }
 
     private static func dateKey(for date: Date) -> String {

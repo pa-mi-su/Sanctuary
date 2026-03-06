@@ -147,13 +147,16 @@ struct NovenasSearchView: View {
         let locale = localization.language.contentLocale
         intentionItems = viewModel.novenas.compactMap { novena in
             guard let doc = ContentStore.novena(id: novena.id) else { return nil }
-            let intentions = localizedIntentions(doc: doc, locale: locale)
+            let rawIntentions = localizedIntentions(doc: doc, locale: locale)
                 .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
                 .filter { !$0.isEmpty }
-            guard !intentions.isEmpty else { return nil }
+            guard !rawIntentions.isEmpty else { return nil }
+            let intentions = rawIntentions.map(humanizeIntention)
 
             let title = viewModel.title(for: novena)
-            let searchBlob = normalized("\(title) \(novena.slug) \((novena.tags).joined(separator: " ")) \(intentions.joined(separator: " "))")
+            let searchBlob = normalized(
+                "\(title) \(novena.slug) \((novena.tags).joined(separator: " ")) \(rawIntentions.joined(separator: " ")) \(intentions.joined(separator: " "))"
+            )
             return IntentionSearchItem(
                 id: novena.id,
                 novena: novena,
@@ -177,8 +180,26 @@ struct NovenasSearchView: View {
 
     private func normalized(_ value: String) -> String {
         value
+            .replacingOccurrences(of: "_", with: " ")
+            .replacingOccurrences(of: "-", with: " ")
             .folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current)
+            .components(separatedBy: .whitespacesAndNewlines)
+            .filter { !$0.isEmpty }
+            .joined(separator: " ")
             .trimmingCharacters(in: .whitespacesAndNewlines)
+    }
+
+    private func humanizeIntention(_ value: String) -> String {
+        let cleaned = value
+            .replacingOccurrences(of: "_", with: " ")
+            .replacingOccurrences(of: "-", with: " ")
+            .components(separatedBy: .whitespacesAndNewlines)
+            .filter { !$0.isEmpty }
+            .joined(separator: " ")
+            .trimmingCharacters(in: .whitespacesAndNewlines)
+
+        guard !cleaned.isEmpty else { return value }
+        return cleaned.capitalized(with: .current)
     }
 }
 
