@@ -1,0 +1,63 @@
+{
+  "id": "04-16_saint_encratis",
+  "name": "Saint Encratis",
+  "mmdd": "04-16",
+  "feast": "The Sixteenth Day of April",
+  "summary": "Engratia is venerated as a virgin martyr and saint. Tradition states that she was martyred with eighteen companions in 303 AD.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Engratia"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-16_saint_encratis.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "63079bb40e5d910aa9732062b5faac02cba5510fbbc5f5a0159304af26fab7f2",
+        "langs": {
+          "es": {
+            "translatedHash": "1c1ecabd9f52464df8c261f379424b44b29878fd36a9db92e8b01bd5012e4b05",
+            "updatedAt": "2026-02-24T23:10:41.886Z"
+          },
+          "pl": {
+            "translatedHash": "65085af92ad61261ca5c20f3f5dd4567b139e23c552bc33e5aab3668e7a0fb08",
+            "updatedAt": "2026-02-24T23:10:43.227Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b80de3737b686df5fd38abfa821eb89db5f424399cd1bf0d74506426d9d2e523",
+        "langs": {
+          "es": {
+            "translatedHash": "461c2f8bfaada637d42c606b0592eb338fe2c72f57ebba2360e0e88b4f504d4b",
+            "updatedAt": "2026-02-24T23:10:43.931Z"
+          },
+          "pl": {
+            "translatedHash": "c2c74021d58125a26e67ca1ee908e679348d3d1d4ca6860a6be29f1e72664a76",
+            "updatedAt": "2026-02-24T23:10:46.591Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "87626affc2ae0b59020cdc29e7c1f90625fcdebb415071841856d07d55f9deae",
+        "langs": {
+          "es": {
+            "translatedHash": "18814f24c55377631ad31d91022ba9a8eea3be8ea9398b0cc211296eb139ff14",
+            "updatedAt": "2026-02-24T23:10:47.461Z"
+          },
+          "pl": {
+            "translatedHash": "160ca01d33f65fbf5591087db0d5bb6f6ee523769af913a5a59f78597ec3623a",
+            "updatedAt": "2026-02-24T23:10:48.574Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Encratis",
+  "name_pl": "Święty Enkratis",
+  "feast_es": "El día dieciséis de abril",
+  "feast_pl": "Szesnasty Dzień Kwietnia",
+  "summary_es": "Engratia es venerada como virgen mártir y santa. La tradición afirma que fue martirizada junto con dieciocho compañeros en el año 303 d.C.",
+  "summary_pl": "Engratia jest czczona jako dziewica męczennica i święta. Tradycja głosi, że została zamordowana wraz z osiemnastoma towarzyszami w 303 roku n.e."
+}

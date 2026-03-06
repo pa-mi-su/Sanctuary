@@ -1,0 +1,79 @@
+{
+  "id": "09-05_saint_teresa_of_calcutta",
+  "name": "Saint Teresa of Calcutta",
+  "mmdd": "09-05",
+  "feast": "The Fifth Day of September",
+  "summary": "Mary Teresa Bojaxhiu, better known as Mother Teresa or Saint Mother Teresa, was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint. Born in Skopje, then part of the Ottoman Empire, she was raised in a devoutly Catholic family. At the age of 18, she moved to Ireland to join the Sisters of Loreto and later to India, where she lived most of her life and carried out her missionary work. On 4 September 2016, she was canonised by the Catholic Church as Saint Teresa of Calcutta. The anniversary of her death, 5 September, is now observed as her feast day.",
+  "biography": "Mary Teresa Bojaxhiu (born Anjezë Gonxhe Bojaxhiu, Albanian: [aˈɲɛzə ˈɡɔndʒɛ bɔjaˈdʒi.u]; 26 August 1910 – 5 September 1997), better known as Mother Teresa or Saint Mother Teresa, was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint. Born in Skopje, then part of the Ottoman Empire, she was raised in a devoutly Catholic family. At the age of 18, she moved to Ireland to join the Sisters of Loreto and later to India, where she lived most of her life and carried out her missionary work. On 4 September 2016, she was canonised by the Catholic Church as Saint Teresa of Calcutta. The anniversary of her death, 5 September, is now observed as her feast day. In 1950, Mother Teresa established the Missionaries of Charity, a religious congregation that was initially dedicated to serving \"the poorest of the poor\" in the slums of Calcutta. Over the decades, the congregation grew to operate in over 133 countries, as of 2012, with more than 4,500 nuns managing homes for those dying from HIV/AIDS, leprosy, and tuberculosis, as well as running soup kitchens, dispensaries, mobile clinics, orphanages, and schools. Members of the order take vows of chastity, poverty...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mother_Teresa",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-05_saint_teresa_of_calcutta.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "86b3daf78687b9f7d692231b598f2e686ab803a71392ce807d55fdbea53f9132",
+        "langs": {
+          "es": {
+            "translatedHash": "84de1c5e422544446f731055d7021a581ae7f78428a72d15ba6c3e2ee6110f95",
+            "updatedAt": "2026-02-25T00:26:13.890Z"
+          },
+          "pl": {
+            "translatedHash": "cf5e0b9a6f754a88418e6205d8ab2dd9c846fdb5176c6e71a0e96fc866d2782c",
+            "updatedAt": "2026-02-25T00:26:14.523Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1007feff83458b3319478d19b83842951ff1de48b5a70efd91e04ec0bdb8711d",
+        "langs": {
+          "es": {
+            "translatedHash": "39432dd08112e980fb675808184dc4d750239b456343b82329f43a8b7f223e26",
+            "updatedAt": "2026-02-25T00:26:15.208Z"
+          },
+          "pl": {
+            "translatedHash": "649d815699a7f027f342433c7c1d219e9c63cef04be483b09924b6442dac390e",
+            "updatedAt": "2026-02-25T00:26:16.351Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "cc50c9aafce3817001ab6052e807e5af632b771480dbd1159a2b3dc406eaa316",
+        "langs": {
+          "es": {
+            "translatedHash": "84c57177262a97e390be9be2032e982cdd82165826d96ccf11511a6f39332f92",
+            "updatedAt": "2026-02-25T00:26:19.680Z"
+          },
+          "pl": {
+            "translatedHash": "d025a6f152be152ddb295c3274a57547eeb88eaafc3fb729d84940d1d88a995d",
+            "updatedAt": "2026-02-25T00:26:23.126Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "815ec513c8a30ccd87d4a4ba2d9dc36b78efc5a719536190b36160414a2cbc87",
+        "langs": {
+          "es": {
+            "translatedHash": "afce48d2711fdcf4fce3d403a56de6800e996a8322209b2003e34b35bfa862b2",
+            "updatedAt": "2026-02-25T00:26:28.432Z"
+          },
+          "pl": {
+            "translatedHash": "a46f77e1765a5e90f13ff782e78338923c557da4f7a38d96bd7cbbfcffe991cf",
+            "updatedAt": "2026-02-25T00:26:35.260Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Teresa de Calcuta",
+  "name_pl": "Święta Teresa z Kalkuty",
+  "feast_es": "El Quinto Día de Septiembre",
+  "feast_pl": "Piąty dzień września",
+  "summary_es": "María Teresa Bojaxhiu, mejor conocida como Madre Teresa o Santa Madre Teresa, fue una monja católica albanesa-india, fundadora de las Misioneras de la Caridad y santa católica. Nacida en Skopie, entonces parte del Imperio Otomano, fue criada en una familia profundamente católica. A los 18 años, se trasladó a Irlanda para unirse a las Hermanas de Loreto y luego a la India, donde vivió la mayor parte de su vida y llevó a cabo su labor misionera. El 4 de septiembre de 2016, fue canonizada por la Iglesia Católica como Santa Teresa de Calcuta. El aniversario de su muerte, el 5 de septiembre, se celebra ahora como su fiesta.",
+  "summary_pl": "Maria Teresa Bojaxhiu, znana lepiej jako Matka Teresa lub Święta Matka Teresa, była albańsko-indyjską zakonnicą katolicką, założycielką Misjonarek Miłości oraz świętą Kościoła katolickiego. Urodziła się w Skopju, które wtedy było częścią Imperium Osmańskiego, i wychowała w gorliwie katolickiej rodzinie. W wieku 18 lat wyjechała do Irlandii, aby dołączyć do Sióstr Loreta, a później do Indii, gdzie spędziła większość swojego życia i prowadziła działalność misyjną. 4 września 2016 roku została kanonizowana przez Kościół katolicki jako Święta Teresa z Kalkuty. Rocznica jej śmierci, 5 września, jest obecnie obchodzona jako jej dzień wspomnienia.",
+  "biography_es": "Mary Teresa Bojaxhiu (nacida Anjezë Gonxhe Bojaxhiu, albanés: [aˈɲɛzə ˈɡɔndʒɛ bɔjaˈdʒi.u]; 26 de agosto de 1910 – 5 de septiembre de 1997), más conocida como Madre Teresa o Santa Madre Teresa, fue una monja católica albanesa-india, fundadora de las Misioneras de la Caridad y santa católica. Nacida en Skopje, entonces parte del Imperio Otomano, fue criada en una familia profundamente católica. A los 18 años, se trasladó a Irlanda para unirse a las Hermanas de Loreto y luego a la India, donde vivió la mayor parte de su vida y llevó a cabo su labor misionera. El 4 de septiembre de 2016, fue canonizada por la Iglesia Católica como Santa Teresa de Calcuta. El aniversario de su muerte, el 5 de septiembre, se observa ahora como su día de fiesta. En 1950, Madre Teresa estableció las Misioneras de la Caridad, una congregación religiosa inicialmente dedicada a servir \"a los más pobres entre los pobres\" en los barrios marginales de Calcuta. A lo largo de las décadas, la congregación creció hasta operar en más de 133 países, a partir de 2012, con más de 4,500 monjas que gestionan hogares para personas que mueren de VIH/SIDA, lepra y tuberculosis, además de administrar comedores populares, dispensarios, clínicas móviles, orfanatos y escuelas. Los miembros de la orden hacen votos de castidad, pobreza...",
+  "biography_pl": "Mary Teresa Bojaxhiu (urodzona jako Anjezë Gonxhe Bojaxhiu, albański: [aˈɲɛzə ˈɡɔndʒɛ bɔjaˈdʒi.u]; 26 sierpnia 1910 – 5 września 1997), znana lepiej jako Matka Teresa lub Święta Matka Teresa, była albańsko-indyjską zakonnicą katolicką, założycielką Misjonarek Miłości i świętą Kościoła katolickiego. Urodziła się w Skopju, które wówczas było częścią Imperium Osmańskiego, i wychowała się w gorliwie katolickiej rodzinie. W wieku 18 lat wyjechała do Irlandii, aby dołączyć do Sióstr Loreta, a później do Indii, gdzie spędziła większość życia i prowadziła swoją działalność misyjną. 4 września 2016 roku została kanonizowana przez Kościół katolicki jako Święta Teresa z Kalkuty. Rocznica jej śmierci, 5 września, jest obecnie obchodzona jako jej dzień wspomnienia. W 1950 roku Matka Teresa założyła Misjonarki Miłości, zgromadzenie zakonne początkowo poświęcone służbie „najbiedniejszym z biednych” w slumsach Kalkuty. Na przestrzeni dziesięcioleci zgromadzenie rozrosło się i do 2012 roku działało w ponad 133 krajach, z ponad 4500 zakonnicami prowadzącymi domy dla umierających na HIV/AIDS, trąd i gruźlicę, a także prowadzącymi jadłodajnie, przychodnie, kliniki mobilne, sierocińce i szkoły. Członkinie zakonu składają śluby czystości, ubóstwa..."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "03-25_annunciation_of_the_lord_solemnity",
+  "name": "Annunciation of the Lord—Solemnity",
+  "mmdd": "03-25",
+  "feast": "The Twenty-Fifth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemnity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-25_annunciation_of_the_lord_solemnity.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "82d4a3de795a5b21c76674491a09386c79c5220928da5f43f71baa8cf19d56c8",
+        "langs": {
+          "es": {
+            "translatedHash": "e58edac8d0cb0e1f05e801f669e0ed7a0f5b98049865cda38fa4bf7efc0d5737",
+            "updatedAt": "2026-02-24T22:58:48.589Z"
+          },
+          "pl": {
+            "translatedHash": "cc7080ad1feb201ceb738ee4f869cd4d19cd161b119b8d9964d9df20786ed9b3",
+            "updatedAt": "2026-02-24T22:58:49.515Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0524d1fb959123e438253bcf4e16903f01087533a884c92e1ca0323e5c0ad2ac",
+        "langs": {
+          "es": {
+            "translatedHash": "d4904c1cd7affddbaa0e2c50896bdf97cd3801e0e621e24318d883be805820b5",
+            "updatedAt": "2026-02-24T22:58:50.455Z"
+          },
+          "pl": {
+            "translatedHash": "dbf6a1020d6e526f3218a073f52a78b35212122386290027f6d67cef277e1dc1",
+            "updatedAt": "2026-02-24T22:58:51.016Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Anunciación del Señor—Solemnidad",
+  "name_pl": "Zwiastowanie Pańskie — Uroczystość",
+  "feast_es": "El vigésimo quinto día de marzo",
+  "feast_pl": "Dwudziesty piąty dzień marca"
+}

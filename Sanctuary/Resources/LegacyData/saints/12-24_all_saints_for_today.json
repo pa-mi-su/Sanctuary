@@ -1,0 +1,46 @@
+{
+  "id": "12-24_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "12-24",
+  "feast": "The Twenty-Fourth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:31:55.912Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:31:56.618Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5926323d5a51643a5921df3c9893261a6ede983ccb3f277b5bf1b36b42ceaa9f",
+        "langs": {
+          "es": {
+            "translatedHash": "fba7565a0818d7837a2fa48418297b7a2a21a464fd90904907412aab1b49803c",
+            "updatedAt": "2026-02-25T01:31:57.778Z"
+          },
+          "pl": {
+            "translatedHash": "684a759cf4ee791e98548da7143e3b2be7864a4c45b6da5b012aae8bf67dc9aa",
+            "updatedAt": "2026-02-25T01:31:58.419Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo cuarto día de diciembre",
+  "feast_pl": "Dwudziesty czwarty dzień grudnia"
+}

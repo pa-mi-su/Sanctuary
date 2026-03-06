@@ -1,0 +1,78 @@
+{
+  "id": "07-10_saint_apollonius",
+  "name": "Saint Apollonius",
+  "mmdd": "07-10",
+  "feast": "The Tenth Day of July",
+  "summary": "Saint Apollonius the Apologist or Saint Apollonius of Rome was a 2nd-century Christian martyr and apologist who was martyred in 185 under the Emperor Commodus (161–192).",
+  "biography": "Life\nFour different sources speak of Saint Apollonius of Rome: \n\na record of the trial incorporated into the Ecclesiastical History of Eusebius of Caesarea (265–340);\nchapters 40 and 42 of the De Viris Illustribus by Saint Jerome (347–420),\ntwo versions of the Passio of Apollonius, one Greek, the other Armenian, which were discovered in the late 19th century.\nThese sources present Apollonius as an illustrious Roman, even, it seems, a senator, and an exceedingly talented man, well versed in philosophy. He was denounced as a Christian to the Pretorian Prefect Perennius. Summoned to defend himself, he read to the senate, according to Saint Jerome, \"a remarkable volume\" in which, instead of recanting, he defended the Christian faith. As a result, he was condemned to death on the basis of the law established by the Emperor Trajan. This defence was later translated into Greek and inserted by church historian Eusebius in his history of the Christian martyrs, but is now lost.\nThe...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollonius_the_Apologist"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-10_saint_apollonius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c004f73c2fb9fd8e21ee938d82fa13447da4128c0cccc4586926d32f2d574ad0",
+        "langs": {
+          "es": {
+            "translatedHash": "5d480855fba0c50692c8fc4071c266a185060fa607f1ea8ce50f106ad9e184b6",
+            "updatedAt": "2026-02-24T23:55:26.825Z"
+          },
+          "pl": {
+            "translatedHash": "89a927586b4e3ff326c0c30acfbedfa449769beb3d99266b5a6f9c70ac9a87d7",
+            "updatedAt": "2026-02-24T23:55:27.343Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "225f2e34695dbe4843b26bebe01feff7dcd1213cd59f8928a808c09ac22f3fed",
+        "langs": {
+          "es": {
+            "translatedHash": "9b611e5989e1f45c16abc0cf023120ee9f95f8cfc7ceda562e19a667b1917c8c",
+            "updatedAt": "2026-02-24T23:55:27.937Z"
+          },
+          "pl": {
+            "translatedHash": "1f3475849e5750fd77b13a98b1b9d06a178793fe7404cfd3b16ab5acf96d1247",
+            "updatedAt": "2026-02-24T23:55:28.477Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "61c52b83bdcfe75df4a2d5f7e9464f2630dae3105f0ae5a57fa9734a45bda496",
+        "langs": {
+          "es": {
+            "translatedHash": "a302a98edb2cf17274d4d4a88089b524e4a6dfb2f2ba40e5c987e526cd4c45ec",
+            "updatedAt": "2026-02-24T23:55:29.576Z"
+          },
+          "pl": {
+            "translatedHash": "cfc533979cb556d6a0f68a5276aeb4e6431276c82db33c2be3a0a2ffc892336c",
+            "updatedAt": "2026-02-24T23:55:31.410Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "5709d67ae69fe5c4468c4e546d70e2d84a785ef7d160b0b713c8a0f979dc9f10",
+        "langs": {
+          "es": {
+            "translatedHash": "20253aae7c5be6607af56c55adcafc6d4d2142d5d0b03dfaf1847805c8f0f527",
+            "updatedAt": "2026-02-24T23:55:35.137Z"
+          },
+          "pl": {
+            "translatedHash": "64fc8a61f39ba4797aea4aff49606cda22de387d4e0fdb720b5759a357bfdef1",
+            "updatedAt": "2026-02-24T23:55:39.206Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Apolonio",
+  "name_pl": "Święty Apolloniusz",
+  "feast_es": "El Día Diez de Julio",
+  "feast_pl": "Dziesiąty dzień lipca",
+  "summary_es": "San Apolonio el Apologista o San Apolonio de Roma fue un mártir y apologista cristiano del siglo II que fue martirizado en el año 185 bajo el emperador Cómodo (161–192).",
+  "summary_pl": "Święty Apolloniusz Męczennik lub Święty Apolloniusz Rzymski był chrześcijańskim męczennikiem i apologetą II wieku, który poniósł męczeństwo w 185 roku za panowania cesarza Kommodusa (161–192).",
+  "biography_es": "Vida  \nCuatro fuentes diferentes hablan de San Apolonio de Roma:  \n\nun registro del juicio incorporado en la Historia Eclesiástica de Eusebio de Cesarea (265–340);  \nlos capítulos 40 y 42 del De Viris Illustribus de San Jerónimo (347–420),  \ndos versiones de la Passio de Apolonio, una griega y otra armenia, que fueron descubiertas a finales del siglo XIX.  \n\nEstas fuentes presentan a Apolonio como un ilustre romano, incluso, al parecer, un senador, y un hombre sumamente talentoso, versado en filosofía. Fue denunciado como cristiano ante el prefecto pretoriano Perenio. Convocado para defenderse, leyó al senado, según San Jerónimo, \"un volumen notable\" en el que, en lugar de retractarse, defendió la fe cristiana. Como resultado, fue condenado a muerte basándose en la ley establecida por el emperador Trajano. Esta defensa fue posteriormente traducida al griego e insertada por el historiador eclesiástico Eusebio en su historia de los mártires cristianos, pero ahora se ha perdido.  \nEl...",
+  "biography_pl": "Życie  \nCztery różne źródła mówią o św. Apolloniuszu z Rzymu:  \n\nzapis procesu włączony do Historii Kościelnej Euzebiusza z Cezarei (265–340);  \nrozdziały 40 i 42 z De Viris Illustribus św. Hieronima (347–420),  \ndwie wersje Passio Apolloniusza, jedna grecka, druga ormiańska, odkryte pod koniec XIX wieku.  \n\nTe źródła przedstawiają Apolloniusza jako znamienitego Rzymianina, a nawet, jak się wydaje, senatora, oraz niezwykle utalentowanego człowieka, dobrze obeznanego z filozofią. Został oskarżony o bycie chrześcijaninem przed prefektem pretorianów Perenniusem. Wezwany do obrony, według św. Hieronima, odczytał senatowi „znakomity tom”, w którym zamiast się wyprzeć, bronił wiary chrześcijańskiej. W rezultacie został skazany na śmierć na podstawie prawa ustanowionego przez cesarza Trajana. Ta obrona została później przetłumaczona na grecki i włączona przez historyka kościelnego Euzebiusza do jego historii męczenników chrześcijańskich, ale obecnie jest utracona.  \nThe..."
+}

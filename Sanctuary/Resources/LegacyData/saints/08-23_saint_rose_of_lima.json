@@ -1,0 +1,79 @@
+{
+  "id": "08-23_saint_rose_of_lima",
+  "name": "Saint Rose of Lima",
+  "mmdd": "08-23",
+  "feast": "The Twenty-Third Day of August",
+  "summary": "Rose of Lima, TOSD, was a member of the Third Order of Saint Dominic in Lima, Peru, Spanish Empire, who became known for both her life of severe penance and her care of the poverty stricken of the city through her own private efforts.",
+  "biography": "Rose of Lima, TOSD (born Isabel Flores de Oliva; 20 April 1586 – 24 August 1617) (Latin: Rosa Limana, Spanish: Rosa de Lima), was a member of the Third Order of Saint Dominic in Lima, Peru, Spanish Empire, who became known for both her life of severe penance and her care of the poverty stricken of the city through her own private efforts. Rose of Lima was born to a noble family and is the patron saint of embroidery, gardening, and cultivation of blooming flowers. She was the first person born in the Americas to be canonized as a saint. As a saint, Rose of Lima has been designated as a co-patroness of the Philippines, along with Pudentiana; both saints were moved to second-class patronage in September 1942 by Pope Pius XII, but Rose remains the primary patroness of Peru and of the local people of Latin America. Her image was formerly featured on the highest-denomination banknote of Peru. Biography She was born as Isabel Flores de Oliva in the city of Lima, then in the Viceroyalty of Peru, Spanish Empire, on 20 April 1586. She was one of eleven children of Gaspar Flores, a harquebusier in the Imperial Spanish army whose family were from Baños de Montemayor, Cáceres, Spain and later...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rose_of_Lima",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-23_saint_rose_of_lima.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b4cf0b4199f507c890465edf8e989703ca049ea64d7655d24d5c32e8cfaa96d2",
+        "langs": {
+          "es": {
+            "translatedHash": "5478c00be7da4c4d5e7a27a86bc0ef242e270b994959c3ab5b944ee16e816145",
+            "updatedAt": "2026-02-25T00:20:30.622Z"
+          },
+          "pl": {
+            "translatedHash": "78a8a2d66697c33c396f27f278c4ace5078f91bd17170d35511511d47bf49e9e",
+            "updatedAt": "2026-02-25T00:20:31.300Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4559929e51ca6309ba61ecc35eeb5b8252144af5f0beb9a64de6ad5ec6682ad8",
+        "langs": {
+          "es": {
+            "translatedHash": "7f107a955cd7ada79e64be4367c1ab5b012758a88f3ddbac30cfa15aba11dcc9",
+            "updatedAt": "2026-02-25T00:20:31.829Z"
+          },
+          "pl": {
+            "translatedHash": "c78f4364febe930d1322ac659cbcf5f5016daa8917713e51b53cca411e820c1d",
+            "updatedAt": "2026-02-25T00:20:32.449Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "cb92d9d8aa94cda72cdb169a1f2bab0b794882690d7b90636e1622c5dc33cbb8",
+        "langs": {
+          "es": {
+            "translatedHash": "e912a9e9624a8d5f4928bc4e908a7030684bb02d6cc35b20b702b79ea2f6a47c",
+            "updatedAt": "2026-02-25T00:20:33.706Z"
+          },
+          "pl": {
+            "translatedHash": "5dc7790b8a1d9e85cc10ad768ee0b37204a1288738db9e808161bc03b9f14d92",
+            "updatedAt": "2026-02-25T00:20:35.347Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b69f87be7a61aee8a103862a167ab4567b0e026e5bb913c66080e27d3abfaa7b",
+        "langs": {
+          "es": {
+            "translatedHash": "a37010eea23010f0b6c8534209dd37d2580df6d4911d380b0f3c827b54ff0651",
+            "updatedAt": "2026-02-25T00:20:40.934Z"
+          },
+          "pl": {
+            "translatedHash": "bc86dcbf5f978b6ae175d9c83629bae4dc8dffb1731f13745b798c1291fc5c12",
+            "updatedAt": "2026-02-25T00:20:46.039Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Rosa de Lima",
+  "name_pl": "Święta Róża z Limy",
+  "feast_es": "El vigésimo tercer día de agosto",
+  "feast_pl": "Dwudziesty Trzeci Dzień Sierpnia",
+  "summary_es": "Rosa de Lima, TOSD, fue miembro de la Tercera Orden de Santo Domingo en Lima, Perú, Imperio Español, quien se hizo conocida tanto por su vida de severa penitencia como por su cuidado de los pobres de la ciudad a través de sus propios esfuerzos privados.",
+  "summary_pl": "Róża z Limy, TOSD, była członkinią Trzeciego Zakonu św. Dominika w Limie, Peru, Imperium Hiszpańskim, która zasłynęła zarówno ze swojego życia pełnego surowych pokut, jak i z troski o ubogich mieszkańców miasta poprzez własne prywatne działania.",
+  "biography_es": "Rosa de Lima, TOSD (nacida Isabel Flores de Oliva; 20 de abril de 1586 – 24 de agosto de 1617) (latín: Rosa Limana, español: Rosa de Lima), fue miembro de la Tercera Orden de Santo Domingo en Lima, Perú, Imperio Español, quien se hizo conocida tanto por su vida de severa penitencia como por su cuidado a los pobres de la ciudad a través de sus propios esfuerzos privados. Rosa de Lima nació en una familia noble y es la santa patrona del bordado, la jardinería y el cultivo de flores en flor. Fue la primera persona nacida en América en ser canonizada como santa. Como santa, Rosa de Lima ha sido designada como copatrona de Filipinas, junto con Pudentiana; ambas santas fueron relegadas a una patronía de segunda clase en septiembre de 1942 por el Papa Pío XII, pero Rosa sigue siendo la patrona principal de Perú y del pueblo local de América Latina. Su imagen apareció anteriormente en el billete de mayor denominación de Perú.\n\nBiografía  \nNació como Isabel Flores de Oliva en la ciudad de Lima, entonces en el Virreinato del Perú, Imperio Español, el 20 de abril de 1586. Fue una de once hijos de Gaspar Flores, un arcabucero en el ejército imperial español cuya familia provenía de Baños de Montemayor, Cáceres, España y posteriormente...",
+  "biography_pl": "Róża z Limy, TOSD (urodzona jako Isabel Flores de Oliva; 20 kwietnia 1586 – 24 sierpnia 1617) (łac. Rosa Limana, hiszp. Rosa de Lima), była członkinią Trzeciego Zakonu św. Dominika w Limie, Peru, Cesarstwo Hiszpańskie, która zasłynęła zarówno ze swojego życia pełnego surowych pokut, jak i z troski o ubogich mieszkańców miasta poprzez własne prywatne działania. Róża z Limy urodziła się w rodzinie szlacheckiej i jest patronką haftu, ogrodnictwa oraz uprawy kwitnących kwiatów. Była pierwszą osobą urodzoną w Amerykach, która została kanonizowana jako święta. Jako święta, Róża z Limy została ustanowiona współpatronką Filipin wraz z Pudentianą; obie święte zostały przesunięte do drugorzędnego patronatu we wrześniu 1942 roku przez papieża Piusa XII, jednak Róża pozostaje główną patronką Peru oraz lokalnych mieszkańców Ameryki Łacińskiej. Jej wizerunek był dawniej umieszczony na banknocie o najwyższym nominale w Peru.\n\nBiografia  \nUrodziła się jako Isabel Flores de Oliva w mieście Lima, wówczas w Wicekrólestwie Peru, Cesarstwo Hiszpańskie, 20 kwietnia 1586 roku. Była jednym z jedenastu dzieci Gaspara Floresa, arkebuzera w cesarskiej armii hiszpańskiej, którego rodzina pochodziła z Baños de Montemayor, Cáceres, Hiszpania, a później..."
+}

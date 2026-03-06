@@ -1,0 +1,79 @@
+{
+  "id": "06-25_saint_prosper_of_aquitaine",
+  "name": "Saint Prosper of Aquitaine",
+  "mmdd": "06-25",
+  "feast": "The Twenty-Fifth day of June",
+  "summary": "Prosper of Aquitaine, also called Prosper Tiro, was a Christian writer and disciple of Augustine of Hippo, and the first continuator of Jerome's Universal Chronicle. Particularly, Prosper is identified with the (later) axiom 'lex orandi, lex credendi, lex vivendi'—'the law [or those things] we pray is the law we believe is the law we live.",
+  "biography": "Prosper of Aquitaine, also called Prosper Tiro, was a Christian writer and disciple of Augustine of Hippo, and the first continuator of Jerome's Universal Chronicle. Particularly, Prosper is identified with the (later) axiom 'lex orandi, lex credendi, lex vivendi'—'the law [or those things] we pray is the law we believe is the law we live.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-25_saint_prosper_of_aquitaine.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "88637ccac22c906cd45998c532655dfb86b61751a076138a293da3594c2fe477",
+        "langs": {
+          "es": {
+            "translatedHash": "287d8250d44bc01cb9a3b8ec8f79bc74426384652f1ac10cb8f65d3351e9e17e",
+            "updatedAt": "2026-02-24T23:47:56.916Z"
+          },
+          "pl": {
+            "translatedHash": "9928cbc6fa759af2ea11bf6f2c30d04c499fda8d52ba3b10109548fc5a23ef58",
+            "updatedAt": "2026-02-24T23:47:57.515Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "314586a65946cccd78ff6674ba4ad6e85db8bc1e1612add8fe0949f5900098ce",
+        "langs": {
+          "es": {
+            "translatedHash": "d7878bfb846a2cae7502d33c00b8714657709b6380c881fbebbb6461ba4f1670",
+            "updatedAt": "2026-02-24T23:47:58.029Z"
+          },
+          "pl": {
+            "translatedHash": "7f6eecc9f1c574c49d6c3843c7a3e1160b067eea15cfc8ca73127b2a17579eb1",
+            "updatedAt": "2026-02-24T23:47:58.512Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d7a775a92dba25102333e25dbe2b5951d85e0273a5306864310ae2422f481a7c",
+        "langs": {
+          "es": {
+            "translatedHash": "055ae8ec922f1ff69d9a8cd46812bd147c31bdc34ef09286ad7b434ba5fb16bc",
+            "updatedAt": "2026-02-24T23:48:00.139Z"
+          },
+          "pl": {
+            "translatedHash": "17cdeac170a06959388d213d6c2667218afbc555d18f4be20744672c0334fefb",
+            "updatedAt": "2026-02-24T23:48:02.671Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d7a775a92dba25102333e25dbe2b5951d85e0273a5306864310ae2422f481a7c",
+        "langs": {
+          "es": {
+            "translatedHash": "08321028ae3f71578eb63595494c818716e073b5a4a639f565502fcd93282cd9",
+            "updatedAt": "2026-02-24T23:48:05.403Z"
+          },
+          "pl": {
+            "translatedHash": "ec0165c8986d46a71d4c2f1d79d2c464eb67db3f0e108844074d88765230b266",
+            "updatedAt": "2026-02-24T23:48:07.301Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Prosper de Aquitania",
+  "name_pl": "Święty Prosper z Akwitanii",
+  "feast_es": "El vigésimo quinto día de junio",
+  "feast_pl": "Dwudziesty piąty dzień czerwca",
+  "summary_es": "Prospero de Aquitania, también llamado Prospero Tiro, fue un escritor cristiano y discípulo de Agustín de Hipona, y el primer continuador de la Crónica Universal de Jerónimo. Particularmente, Prospero se identifica con el (posterior) axioma 'lex orandi, lex credendi, lex vivendi'—'la ley [o aquellas cosas] que oramos es la ley que creemos es la ley que vivimos.",
+  "summary_pl": "Prosper z Akwitanii, zwany także Prosperem Tiro, był chrześcijańskim pisarzem i uczniem Augustyna z Hippony oraz pierwszym kontynuatorem Uniwersalnej Kroniki Hieronima. Szczególnie Prosper jest utożsamiany z (późniejszym) aksjomatem „lex orandi, lex credendi, lex vivendi” — „prawo [tych rzeczy], o które się modlimy, jest prawem, w które wierzymy, jest prawem, według którego żyjemy.”",
+  "biography_es": "Prospero de Aquitania, también llamado Prospero Tiro, fue un escritor cristiano y discípulo de Agustín de Hipona, y el primer continuador de la Crónica Universal de Jerónimo. En particular, Prospero se identifica con el (posterior) axioma 'lex orandi, lex credendi, lex vivendi'—'la ley [o aquellas cosas] que oramos es la ley que creemos es la ley que vivimos.",
+  "biography_pl": "Prosper z Akwitanii, zwany także Prosperem Tiro, był chrześcijańskim pisarzem i uczniem Augustyna z Hippony oraz pierwszym kontynuatorem Powszechnej Kroniki Hieronima. Szczególnie Prosper jest utożsamiany z (późniejszą) maksymą „lex orandi, lex credendi, lex vivendi” — „prawo [czyli to, o co] się modlimy, jest prawem, w które wierzymy, jest prawem, którym żyjemy.”"
+}

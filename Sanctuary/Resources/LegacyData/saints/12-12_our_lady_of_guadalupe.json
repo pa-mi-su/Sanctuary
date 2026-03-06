@@ -1,0 +1,79 @@
+{
+  "id": "12-12_our_lady_of_guadalupe",
+  "name": "Our Lady of Guadalupe",
+  "mmdd": "12-12",
+  "feast": "The Twelfth Day of December",
+  "summary": "Our Lady of Guadalupe, also known as the Virgin of Guadalupe and as La Virgen Morena, is a Catholic title of the Blessed Virgin Mary associated with four Marian apparitions to Juan Diego and one to his uncle, Juan Bernardino reported in December 1531, when the Mexican territories were part of the Spanish Empire.",
+  "biography": "Our Lady of Guadalupe, also known as the Virgin of Guadalupe and as La Virgen Morena, is a Catholic title of the Blessed Virgin Mary associated with four Marian apparitions to Juan Diego and one to his uncle, Juan Bernardino reported in December 1531, when the Mexican territories were part of the Spanish Empire.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-12_our_lady_of_guadalupe.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e062a85e2c47dd1a36be6a4957c5e412a3c2a9a4248c47d9b8921159c7364404",
+        "langs": {
+          "es": {
+            "translatedHash": "2c5e50b379d1a0a7e975b3f8db646837bd199a898c5b7d460eaef0fa02d2af18",
+            "updatedAt": "2026-02-25T01:24:43.159Z"
+          },
+          "pl": {
+            "translatedHash": "382bbc6b4f29121387715cb8bfe4a3bce51992df67f8c285c1dcd0f7df0dd1d1",
+            "updatedAt": "2026-02-25T01:24:43.691Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "435353312e1e249425021a38573de85e2fb8aef929b3c552b25a787dad8d0439",
+        "langs": {
+          "es": {
+            "translatedHash": "ce2782bd43fa90ac5010de276cba4b3196a3bf291c52f5a96ccebc969ef73251",
+            "updatedAt": "2026-02-25T01:24:44.345Z"
+          },
+          "pl": {
+            "translatedHash": "0bd55adca1bbd1c66ea19e4016ee29c0f1b7cc83f4a2e86b5a9500b566f16406",
+            "updatedAt": "2026-02-25T01:24:45.042Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c177b7a922782e252f787e7d1209918a4de79ae4cabecc7c3f3904d812892d52",
+        "langs": {
+          "es": {
+            "translatedHash": "53e420c2803a8597547079abbaefd175beb4a4dda78e210e638bcefdfb20e6d5",
+            "updatedAt": "2026-02-25T01:24:46.866Z"
+          },
+          "pl": {
+            "translatedHash": "9bc86514d0e3f580a2c6f3600ed3c1552bf1a9232216837fe8f4d7443c90bc5b",
+            "updatedAt": "2026-02-25T01:24:48.948Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c177b7a922782e252f787e7d1209918a4de79ae4cabecc7c3f3904d812892d52",
+        "langs": {
+          "es": {
+            "translatedHash": "53e420c2803a8597547079abbaefd175beb4a4dda78e210e638bcefdfb20e6d5",
+            "updatedAt": "2026-02-25T01:24:50.368Z"
+          },
+          "pl": {
+            "translatedHash": "9bc86514d0e3f580a2c6f3600ed3c1552bf1a9232216837fe8f4d7443c90bc5b",
+            "updatedAt": "2026-02-25T01:24:52.452Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora de Guadalupe",
+  "name_pl": "Matka Boża z Guadalupe",
+  "feast_es": "El Duodécimo Día de Diciembre",
+  "feast_pl": "Dwunasty Dzień Grudnia",
+  "summary_es": "Nuestra Señora de Guadalupe, también conocida como la Virgen de Guadalupe y como La Virgen Morena, es un título católico de la Santísima Virgen María asociado con cuatro apariciones marianas a Juan Diego y una a su tío, Juan Bernardino, reportadas en diciembre de 1531, cuando los territorios mexicanos formaban parte del Imperio Español.",
+  "summary_pl": "Nasza Pani z Guadalupe, znana również jako Matka Boża z Guadalupe oraz jako La Virgen Morena, jest katolickim tytułem Błogosławionej Dziewicy Maryi związanym z czterema objawieniami maryjnymi dla Juana Diego oraz jednym dla jego wuja, Juana Bernardino, zgłoszonymi w grudniu 1531 roku, kiedy terytoria Meksyku były częścią Imperium Hiszpańskiego.",
+  "biography_es": "Nuestra Señora de Guadalupe, también conocida como la Virgen de Guadalupe y como La Virgen Morena, es un título católico de la Santísima Virgen María asociado con cuatro apariciones marianas a Juan Diego y una a su tío, Juan Bernardino, reportadas en diciembre de 1531, cuando los territorios mexicanos formaban parte del Imperio Español.",
+  "biography_pl": "Nasza Pani z Guadalupe, znana również jako Matka Boża z Guadalupe oraz jako La Virgen Morena, jest katolickim tytułem Błogosławionej Dziewicy Maryi związanym z czterema objawieniami maryjnymi dla Juana Diego oraz jednym dla jego wuja, Juana Bernardino, zgłoszonymi w grudniu 1531 roku, kiedy terytoria Meksyku były częścią Imperium Hiszpańskiego."
+}

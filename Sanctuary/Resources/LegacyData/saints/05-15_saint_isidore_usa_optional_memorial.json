@@ -1,0 +1,48 @@
+{
+  "id": "05-15_saint_isidore_usa_optional_memorial",
+  "name": "Saint Isidore—USA Optional Memorial",
+  "mmdd": "05-15",
+  "feast": "The Fifteenth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_Fathers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-15_saint_isidore_usa_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2aabc8be2ede88257aa7d1dae11f4e0c04bed29d51fdaa573d5075a5fd252afa",
+        "langs": {
+          "es": {
+            "translatedHash": "8804e6fd941382a021b85aaf577d64a60e34e5852320e489139c5b0b55ce891f",
+            "updatedAt": "2026-02-24T23:25:50.424Z"
+          },
+          "pl": {
+            "translatedHash": "a84fbe0f4f3310f15e1c3b1597285f45c5b5feb8e882bbe8cada0d5b499cb383",
+            "updatedAt": "2026-02-24T23:25:51.113Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "386fa1329909227c20bcbd71e4dccd36615030d2a1a47e65152579b9f88f4a3b",
+        "langs": {
+          "es": {
+            "translatedHash": "fda7f5234d21d244d1fbd149db5d3a4fb9ce589a171cfd65e38405817ccdd5d8",
+            "updatedAt": "2026-02-24T23:25:51.679Z"
+          },
+          "pl": {
+            "translatedHash": "e9f97716532cd3221a4e7b26daa51169693b5fe191898cd896df7ed698e04ef8",
+            "updatedAt": "2026-02-24T23:25:52.324Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Isidro—Memoria Opcional en Estados Unidos",
+  "name_pl": "Święty Izydor — wspomnienie dowolne w USA",
+  "feast_es": "El Quince de Mayo",
+  "feast_pl": "Piętnasty Dzień Maja"
+}

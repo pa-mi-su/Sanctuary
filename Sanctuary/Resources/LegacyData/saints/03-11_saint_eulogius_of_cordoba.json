@@ -1,0 +1,79 @@
+{
+  "id": "03-11_saint_eulogius_of_cordoba",
+  "name": "Saint Eulogius of Cordoba",
+  "mmdd": "03-11",
+  "feast": "The Eleventh Day of March",
+  "summary": "Saint Eulogius of Córdoba was one of the Martyrs of Córdoba. He lived during the reigns of the Cordovan emirs Abd ar-Rahman II and Muhammad I.",
+  "biography": "Saint Eulogius of Córdoba was one of the Martyrs of Córdoba. He lived during the reigns of the Cordovan emirs Abd ar-Rahman II and Muhammad I.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-11_saint_eulogius_of_cordoba.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9434f260d0bcdaf2e5c4e4ae3f15d5f7677218937cdf8980200ded545e3d2116",
+        "langs": {
+          "es": {
+            "translatedHash": "3542770cd0bc16f6604751ddd0302971c916c49873dc589863f8b1fe661e1d80",
+            "updatedAt": "2026-02-24T22:52:00.905Z"
+          },
+          "pl": {
+            "translatedHash": "7367c9ce0cfe6ba6dd5e8deafb1e1aa7fec35926c66a32251259615867c8066e",
+            "updatedAt": "2026-02-24T22:52:01.729Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e561c4be213f2932cf19c72011f9848a1092ed50224e2b371240a4a8da75a6b8",
+        "langs": {
+          "es": {
+            "translatedHash": "1490e033301ace5ea87ebc47e7b2502b316eb38e22291b2c6e07da09599b33f9",
+            "updatedAt": "2026-02-24T22:52:02.444Z"
+          },
+          "pl": {
+            "translatedHash": "ead39c807f58214a22aed1a629187167f1de60e82b68f1793404a0990ba8457c",
+            "updatedAt": "2026-02-24T22:52:03.217Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "85cdf8443032374d6fbfe84da7f1af06421537f70fd58899ed189a516b553420",
+        "langs": {
+          "es": {
+            "translatedHash": "713b71beeb02d2631e1bcebd95fe5b00164d8278b37fbbcd4cdf4a08b79b03cb",
+            "updatedAt": "2026-02-24T22:52:04.181Z"
+          },
+          "pl": {
+            "translatedHash": "5f07d41ca77c29a6a09a85c72def9d5b4ad587715c7770a2c4d06f4b1e08660e",
+            "updatedAt": "2026-02-24T22:52:05.342Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "85cdf8443032374d6fbfe84da7f1af06421537f70fd58899ed189a516b553420",
+        "langs": {
+          "es": {
+            "translatedHash": "713b71beeb02d2631e1bcebd95fe5b00164d8278b37fbbcd4cdf4a08b79b03cb",
+            "updatedAt": "2026-02-24T22:52:06.698Z"
+          },
+          "pl": {
+            "translatedHash": "5f07d41ca77c29a6a09a85c72def9d5b4ad587715c7770a2c4d06f4b1e08660e",
+            "updatedAt": "2026-02-24T22:52:08.833Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Eulogio de Córdoba",
+  "name_pl": "Święty Eulogiusz z Kordoby",
+  "feast_es": "El Undécimo Día de Marzo",
+  "feast_pl": "Jedenasty Dzień Marca",
+  "summary_es": "San Eulogio de Córdoba fue uno de los Mártires de Córdoba. Vivió durante los reinados de los emires cordobeses Abd ar-Rahman II y Muhammad I.",
+  "summary_pl": "Święty Eulogiusz z Kordoby był jednym z Męczenników z Kordoby. Żył za panowania kordobańskich emirów Abd ar-Rahmana II i Muhammada I.",
+  "biography_es": "San Eulogio de Córdoba fue uno de los Mártires de Córdoba. Vivió durante los reinados de los emires cordobeses Abd ar-Rahman II y Muhammad I.",
+  "biography_pl": "Święty Eulogiusz z Kordoby był jednym z Męczenników z Kordoby. Żył za panowania kordobańskich emirów Abd ar-Rahmana II i Muhammada I."
+}

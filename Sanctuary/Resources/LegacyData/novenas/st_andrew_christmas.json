@@ -1,0 +1,650 @@
+{
+  "id": "st_andrew_christmas",
+  "title": "St. Andrew Christmas Novena",
+  "description": "The St. Andrew Christmas novena is traditionally recited 15 times per day starting on November 30th and going through Christmas Day on December 25th.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Andrew Christmas"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 30
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 26
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-andrew-christmas-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Należy zauważyć, że tradycyjnie tę modlitwę powtarzano 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i bądź błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, Boże mój, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta powtarzana była 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédele, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, Boże mój, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, Boże mój, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj swoją prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédele, te lo ruego, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 10,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 11,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj swoją prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 12,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora, concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj swoją prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 13,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 14,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédele, te lo ruego, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe notar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 15,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencione la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj swoją prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 16,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen María, la más pura, a medianoche, en Belén, en el frío penetrante. En esa hora concédele, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 17,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora, concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 18,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo ruego, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 19,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen María, la más pura, a medianoche, en Belén, en el frío penetrante. En esa hora, concédeme, te suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Tenga en cuenta que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 20,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 21,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nZdrowaś i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 22,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo ruego, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, Boże mój, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 23,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 24,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 25,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 26,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj swoją prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_andrew_christmas.jpg",
+  "sourceFacts": {
+    "starts": "November 30Feastday:December 26Patron saint of Fishermen, singers, Scotland, Romania, Russia, Ukraine and Patras 📱",
+    "feast": "December 26Patron saint of Fishermen, singers, Scotland, Romania, Russia, Ukraine and Patras 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "9e7d5bc5f18f293f26b07b170a06750a01643be5a471ebb9aa0cbb9658f46712",
+        "langs": {
+          "es": {
+            "translatedHash": "fe4ed4a5c5992338edd8c3dfb9e112fd571a4aa3c9cc185f6d1d7efbd2a39f79",
+            "updatedAt": "2026-02-25T11:48:53.087Z"
+          },
+          "pl": {
+            "translatedHash": "ebf3181ed3ed95e9050edb1641831f87c2475df4c70f7f54936d5bd5bcf532ca",
+            "updatedAt": "2026-02-25T11:48:53.760Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "0e8da5932432624cc334e0f41e55718b223de917922113af6d1c5cd61b058bb2",
+        "langs": {
+          "es": {
+            "translatedHash": "d0eb125ce67131c9e14d5f677f889fa9545a04887d76100a244a9ae97535ab37",
+            "updatedAt": "2026-02-25T11:48:54.587Z"
+          },
+          "pl": {
+            "translatedHash": "3b6fb90efcb6ec7631e6ae0d6d6e77d2dba644f34ee847b429eaf4d8a4b24253",
+            "updatedAt": "2026-02-25T11:48:55.688Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "d8c9270edfd9497a278d86e821458f46780581f9025d0c30dcad6ec25b429263",
+        "langs": {
+          "es": {
+            "translatedHash": "4227599d61ded7d870810677c124f6e7da8252bee009356f0f80a09fdc6c6dd2",
+            "updatedAt": "2026-02-25T11:48:58.851Z"
+          },
+          "pl": {
+            "translatedHash": "37ad963cdfbdd1be0e68d3d4218f3f6cf4b5ac9da427bdf0d3029942c71afc66",
+            "updatedAt": "2026-02-25T11:49:02.212Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "f48fbfb9f2543354368a422c99356a5c322ccba16148af0db5e7b30c12eca4f0",
+        "langs": {
+          "es": {
+            "translatedHash": "1d9dbf0572c7e0c0ec52cc40596ce90737599ed6dd9c74753d317f9fd09819fd",
+            "updatedAt": "2026-02-25T11:49:05.835Z"
+          },
+          "pl": {
+            "translatedHash": "6f5d314ebafcc90ed21300b91b22dd0173a3e1f7f1d82e3e4ff3f9d96e87f31d",
+            "updatedAt": "2026-02-25T11:49:08.974Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "1c163a86c91fee1a6049472416d32b042790e065cd66d490008e647e79f6e2cd",
+        "langs": {
+          "es": {
+            "translatedHash": "1d9dbf0572c7e0c0ec52cc40596ce90737599ed6dd9c74753d317f9fd09819fd",
+            "updatedAt": "2026-02-25T11:49:11.451Z"
+          },
+          "pl": {
+            "translatedHash": "646968befc3cddbdc07f16b1c81933d48bea19cfc8dc1bbced8900e9af934df4",
+            "updatedAt": "2026-02-25T11:49:14.342Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "d573f1033424056dd1847ec0d4a1b0cbbcdd3ad585a5cc587700c59a3e593726",
+        "langs": {
+          "es": {
+            "translatedHash": "1d9dbf0572c7e0c0ec52cc40596ce90737599ed6dd9c74753d317f9fd09819fd",
+            "updatedAt": "2026-02-25T11:49:16.854Z"
+          },
+          "pl": {
+            "translatedHash": "da3193902b3ba8da296043829e113041deb995661e58ebd86c339ab388face0e",
+            "updatedAt": "2026-02-25T11:49:19.075Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "8befb4a7fe4c854b8cc205b328e592f49222b18a2e224f1f6c4369ae506dcc69",
+        "langs": {
+          "es": {
+            "translatedHash": "4097e272c2fc235213bdd924a843819feb22f0c7f22f45eb5ad2c0c8ccf9d368",
+            "updatedAt": "2026-02-25T11:49:21.146Z"
+          },
+          "pl": {
+            "translatedHash": "646968befc3cddbdc07f16b1c81933d48bea19cfc8dc1bbced8900e9af934df4",
+            "updatedAt": "2026-02-25T11:49:24.240Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "928ca04fe84845663553bc1758c385a070b2fbc884b3563a36287eab70f478ac",
+        "langs": {
+          "es": {
+            "translatedHash": "19d02e7e0d970d4ecef663b30010f9e8e7818cce0a39c2c9c2de3463f2ba7411",
+            "updatedAt": "2026-02-25T11:49:27.441Z"
+          },
+          "pl": {
+            "translatedHash": "2fd14504ebb82f1bd8d0ec760e9e7d2792e85f64ce4559c148ae4628e8692e7f",
+            "updatedAt": "2026-02-25T11:49:29.971Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "391eb9af5a0d84a8ea142c12c44f6068c0d11bdb53750c16e80e11b942f2a02d",
+        "langs": {
+          "es": {
+            "translatedHash": "1d9dbf0572c7e0c0ec52cc40596ce90737599ed6dd9c74753d317f9fd09819fd",
+            "updatedAt": "2026-02-25T11:49:32.902Z"
+          },
+          "pl": {
+            "translatedHash": "49dbd2381c7fc1087b858c475be1beaf21efc4e5b6e55c187cc887ccae7d35c1",
+            "updatedAt": "2026-02-25T11:49:35.724Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "15420afd23fea8d7666ffade2a987013598166af6179509b91e6c8c7e88cc77d",
+        "langs": {
+          "es": {
+            "translatedHash": "1d9dbf0572c7e0c0ec52cc40596ce90737599ed6dd9c74753d317f9fd09819fd",
+            "updatedAt": "2026-02-25T11:49:37.918Z"
+          },
+          "pl": {
+            "translatedHash": "8a1f62b78600778287c3a5e345c8dc3ed2ac147b09032f03435fa4ffd357efc4",
+            "updatedAt": "2026-02-25T11:49:40.389Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "90043cb667d0b3a40093f54eced65355bc7124754691bf393c30f5a4c39a15aa",
+        "langs": {
+          "es": {
+            "translatedHash": "d2c29936cec550c082f6e9400a1afaf2505101bb565e5f0f43629015a3f37735",
+            "updatedAt": "2026-02-25T11:49:42.348Z"
+          },
+          "pl": {
+            "translatedHash": "2fd14504ebb82f1bd8d0ec760e9e7d2792e85f64ce4559c148ae4628e8692e7f",
+            "updatedAt": "2026-02-25T11:49:45.025Z"
+          }
+        }
+      },
+      "days.9.prayer": {
+        "sourceHash": "22152007a98b5d8ace5d3162e3eb95273e2e46f53b4ee8a2dcd05fba03e9bc86",
+        "langs": {
+          "es": {
+            "translatedHash": "ed56301c6a4c538c2e015a7ecd3b9f7a95023758cd92c42b05718c6aab32952a",
+            "updatedAt": "2026-02-25T11:49:47.246Z"
+          },
+          "pl": {
+            "translatedHash": "604bfa975e34b0489064e4a930fe1df109a68906be84d360301a989529b60635",
+            "updatedAt": "2026-02-25T11:49:51.065Z"
+          }
+        }
+      },
+      "days.10.prayer": {
+        "sourceHash": "11ab28ea04718bb3f024be3e74dccd3c9a05bb59c9dce8f978b16532aa094b30",
+        "langs": {
+          "es": {
+            "translatedHash": "1d9dbf0572c7e0c0ec52cc40596ce90737599ed6dd9c74753d317f9fd09819fd",
+            "updatedAt": "2026-02-25T11:49:53.688Z"
+          },
+          "pl": {
+            "translatedHash": "396eb3c1d474e577477bf5b8336f71824cd824d06c8a27a099320cd7bb7a1ee7",
+            "updatedAt": "2026-02-25T11:49:56.684Z"
+          }
+        }
+      },
+      "days.11.prayer": {
+        "sourceHash": "a7a268fc6add9291c5f13967833508d72f179f6adb7697c95963601dfbaa7449",
+        "langs": {
+          "es": {
+            "translatedHash": "c40ab14fd0617f0f47c5f0e0c75315f8f504e73832cfd15851c5a7ab93304bb5",
+            "updatedAt": "2026-02-25T11:49:58.935Z"
+          },
+          "pl": {
+            "translatedHash": "2c6e71f7f52ac0e9ba94668a2ed7e217e01d3a80a51272a137612bf3bebe8174",
+            "updatedAt": "2026-02-25T11:50:01.491Z"
+          }
+        }
+      },
+      "days.12.prayer": {
+        "sourceHash": "f780b5c098dcf4392db2f356b0cf940cc477b9561438e87b550ff02908dabde7",
+        "langs": {
+          "es": {
+            "translatedHash": "4227599d61ded7d870810677c124f6e7da8252bee009356f0f80a09fdc6c6dd2",
+            "updatedAt": "2026-02-25T11:50:03.811Z"
+          },
+          "pl": {
+            "translatedHash": "2fd14504ebb82f1bd8d0ec760e9e7d2792e85f64ce4559c148ae4628e8692e7f",
+            "updatedAt": "2026-02-25T11:50:06.727Z"
+          }
+        }
+      },
+      "days.13.prayer": {
+        "sourceHash": "1cbfd9074eb85693db0d47c852e56d6070ab2a625342d042e4d746933d906e5e",
+        "langs": {
+          "es": {
+            "translatedHash": "e4737b2f10e92c2ad81eef934275cfa4089ae4184bb62782f092ef9007329bb4",
+            "updatedAt": "2026-02-25T11:50:08.983Z"
+          },
+          "pl": {
+            "translatedHash": "604bfa975e34b0489064e4a930fe1df109a68906be84d360301a989529b60635",
+            "updatedAt": "2026-02-25T11:50:11.886Z"
+          }
+        }
+      },
+      "days.14.prayer": {
+        "sourceHash": "423a475d18e77457579f7feec6627880db0fe106e537e9b42323acac95174ec3",
+        "langs": {
+          "es": {
+            "translatedHash": "18439d5626d37325c593b1bd09c2ba9284f0087f534f3dad1883849ad761d71b",
+            "updatedAt": "2026-02-25T11:50:14.834Z"
+          },
+          "pl": {
+            "translatedHash": "2c6e71f7f52ac0e9ba94668a2ed7e217e01d3a80a51272a137612bf3bebe8174",
+            "updatedAt": "2026-02-25T11:50:18.129Z"
+          }
+        }
+      },
+      "days.15.prayer": {
+        "sourceHash": "47de58f5da535a5fca87e69f3fc65c5f8abffafd4c1575dc2670dc657bd8eb1b",
+        "langs": {
+          "es": {
+            "translatedHash": "da9bc87eea7bc2f230ed2c92b580bb4bdd672ac4dd1bd9673d74ed8132634073",
+            "updatedAt": "2026-02-25T11:50:20.190Z"
+          },
+          "pl": {
+            "translatedHash": "604bfa975e34b0489064e4a930fe1df109a68906be84d360301a989529b60635",
+            "updatedAt": "2026-02-25T11:50:22.762Z"
+          }
+        }
+      },
+      "days.16.prayer": {
+        "sourceHash": "2d0cb2f4093d3993539929f5affdba8938796b46e73e252b0c466ae3f3284b6b",
+        "langs": {
+          "es": {
+            "translatedHash": "e803f4c2d071c031a362ecb9927777a440336b49d409fdf6f920a476d46806d2",
+            "updatedAt": "2026-02-25T11:50:25.154Z"
+          },
+          "pl": {
+            "translatedHash": "8a1f62b78600778287c3a5e345c8dc3ed2ac147b09032f03435fa4ffd357efc4",
+            "updatedAt": "2026-02-25T11:50:28.141Z"
+          }
+        }
+      },
+      "days.17.prayer": {
+        "sourceHash": "5d7c3af8aaac74441667afba956c23937f0e3772a2c036bdc8d1980c27847ae4",
+        "langs": {
+          "es": {
+            "translatedHash": "1fb4902668e684b80d40c8b7c01668f35429bbbc359cd5e9d974cc6f74df0626",
+            "updatedAt": "2026-02-25T11:50:32.028Z"
+          },
+          "pl": {
+            "translatedHash": "2fd14504ebb82f1bd8d0ec760e9e7d2792e85f64ce4559c148ae4628e8692e7f",
+            "updatedAt": "2026-02-25T11:50:34.621Z"
+          }
+        }
+      },
+      "days.18.prayer": {
+        "sourceHash": "05797accc8b34e4d821b8b6c36637a571dedeb9a1484dda7d1939df0ea037c89",
+        "langs": {
+          "es": {
+            "translatedHash": "f24ae90f1280c3e6cde9876a0360a6a3ca0ede04af77a0ab5cc3f1cb9ff2f1c6",
+            "updatedAt": "2026-02-25T11:50:36.728Z"
+          },
+          "pl": {
+            "translatedHash": "604bfa975e34b0489064e4a930fe1df109a68906be84d360301a989529b60635",
+            "updatedAt": "2026-02-25T11:50:39.086Z"
+          }
+        }
+      },
+      "days.19.prayer": {
+        "sourceHash": "353b401ca209cc709dbc2fb4efa629e3d776cee2acfcf1432b763ac7eb84b7cd",
+        "langs": {
+          "es": {
+            "translatedHash": "94325935bcb4b2f305c3fa1a3b68b5a671275a95116a95c0a5592efa3e646d47",
+            "updatedAt": "2026-02-25T11:50:41.263Z"
+          },
+          "pl": {
+            "translatedHash": "2fd14504ebb82f1bd8d0ec760e9e7d2792e85f64ce4559c148ae4628e8692e7f",
+            "updatedAt": "2026-02-25T11:50:43.557Z"
+          }
+        }
+      },
+      "days.20.prayer": {
+        "sourceHash": "0d758c43d09fabcbad7c848d27affcfe4047b7099bed10f13955e64297f78159",
+        "langs": {
+          "es": {
+            "translatedHash": "19d02e7e0d970d4ecef663b30010f9e8e7818cce0a39c2c9c2de3463f2ba7411",
+            "updatedAt": "2026-02-25T11:50:46.258Z"
+          },
+          "pl": {
+            "translatedHash": "2fd14504ebb82f1bd8d0ec760e9e7d2792e85f64ce4559c148ae4628e8692e7f",
+            "updatedAt": "2026-02-25T11:50:49.870Z"
+          }
+        }
+      },
+      "days.21.prayer": {
+        "sourceHash": "7e7cb0538a634a3e9cdecf647183db171a567b09252f9c7b5abad204206f8d64",
+        "langs": {
+          "es": {
+            "translatedHash": "b3a9303334f7731d7838ce15fc74e976ccc80fe59ce69d5cf1baa2c9afee522f",
+            "updatedAt": "2026-02-25T11:50:52.891Z"
+          },
+          "pl": {
+            "translatedHash": "63e488d93f07538bd219600c31a352937f7385e5a45e2e953777b9aca07e0eb0",
+            "updatedAt": "2026-02-25T11:50:56.473Z"
+          }
+        }
+      },
+      "days.22.prayer": {
+        "sourceHash": "1263a52652ef354231cc3bc7528c8049344a0a7c88d9f38ee2aa4107b93cfa1c",
+        "langs": {
+          "es": {
+            "translatedHash": "94325935bcb4b2f305c3fa1a3b68b5a671275a95116a95c0a5592efa3e646d47",
+            "updatedAt": "2026-02-25T11:50:58.961Z"
+          },
+          "pl": {
+            "translatedHash": "8a1f62b78600778287c3a5e345c8dc3ed2ac147b09032f03435fa4ffd357efc4",
+            "updatedAt": "2026-02-25T11:51:01.834Z"
+          }
+        }
+      },
+      "days.23.prayer": {
+        "sourceHash": "920c4a80a18ffd0af53d572673cacdf4381f4dc4ab2224c94d74ebf99cf88e50",
+        "langs": {
+          "es": {
+            "translatedHash": "94325935bcb4b2f305c3fa1a3b68b5a671275a95116a95c0a5592efa3e646d47",
+            "updatedAt": "2026-02-25T11:51:04.082Z"
+          },
+          "pl": {
+            "translatedHash": "8a1f62b78600778287c3a5e345c8dc3ed2ac147b09032f03435fa4ffd357efc4",
+            "updatedAt": "2026-02-25T11:51:07.483Z"
+          }
+        }
+      },
+      "days.24.prayer": {
+        "sourceHash": "0822f70f15f13ee38046e5d666f7b31eee022fa1ff74792060dce1dcd4ec7daf",
+        "langs": {
+          "es": {
+            "translatedHash": "94325935bcb4b2f305c3fa1a3b68b5a671275a95116a95c0a5592efa3e646d47",
+            "updatedAt": "2026-02-25T11:51:09.695Z"
+          },
+          "pl": {
+            "translatedHash": "f9fb4a8aaa4a87beecbb334a7eee4ed13d1daa28fa57b403ea11bdf54f4225a8",
+            "updatedAt": "2026-02-25T11:51:13.065Z"
+          }
+        }
+      },
+      "days.25.prayer": {
+        "sourceHash": "bff9e4a44cdff856c22bff6ce581bc4463236dd2dc1036a7182c2dae3f29e6ff",
+        "langs": {
+          "es": {
+            "translatedHash": "19d02e7e0d970d4ecef663b30010f9e8e7818cce0a39c2c9c2de3463f2ba7411",
+            "updatedAt": "2026-02-25T11:51:15.216Z"
+          },
+          "pl": {
+            "translatedHash": "782b1431ca541b8d62781de199cb84857081a56ee476cf27cf2046bb9b58296c",
+            "updatedAt": "2026-02-25T11:51:18.717Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de Navidad de San Andrés",
+  "title_pl": "Nowenna Bożonarodzeniowa św. Andrzeja",
+  "description_es": "La novena de Navidad de San Andrés se recita tradicionalmente 15 veces al día comenzando el 30 de noviembre y hasta el día de Navidad, el 25 de diciembre.",
+  "description_pl": "Nowenna adwentowa św. Andrzeja tradycyjnie odmawiana jest 15 razy dziennie, zaczynając od 30 listopada aż do dnia Bożego Narodzenia, 25 grudnia.",
+  "intentions": [
+    "fishermen",
+    "singers"
+  ],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/christmas-novena/",
+    "https://novenaprayer.com/st-andrew-christmas/"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "10-30_saint_marcellus",
+  "name": "Saint Marcellus",
+  "mmdd": "10-30",
+  "feast": "The Thirtieth Day of October",
+  "summary": "Pope Marcellus I was the bishop of Rome from May or June 308 to his death on 16 January 309. He succeeded Marcellinus after a considerable interval. Under Maxentius, he was banished from Rome in 309, on account of the tumult caused by the severity of the penances he had imposed on Christians who had lapsed under the recent persecution. He died the same year, being succeeded by Eusebius. His relics are under the altar of San Marcello al Corso in Rome. Since 1969 his feast day, traditionally kept on 16 January by the Catholic Church, is left to local calendars and is no longer inscribed in the General Roman Calendar.",
+  "biography": "Pope Marcellus I (Italian: Marcello I) (6 January 255 – 16 January 309) was the bishop of Rome from May or June 308 to his death on 16 January 309. He succeeded Marcellinus after a considerable interval. Under Maxentius, he was banished from Rome in 309, on account of the tumult caused by the severity of the penances he had imposed on Christians who had lapsed under the recent persecution. He died the same year, being succeeded by Eusebius. His relics are under the altar of San Marcello al Corso in Rome. Since 1969 his feast day, traditionally kept on 16 January by the Catholic Church, is left to local calendars and is no longer inscribed in the General Roman Calendar. Election For some time after the death of Marcellinus in 304, the Diocletian persecution continued with unabated severity. After the abdication of Diocletian in 305, and the accession in Rome of Maxentius to the throne of the Caesars in October of the following year, the Christians of the capital again enjoyed comparative peace. Nevertheless, nearly two years passed before a new bishop of Rome was elected. Then in 308, according to the Catalogus Liberianus, Marcellus first entered on his office: \"He was bishop in...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Marcellus_I",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-30_saint_marcellus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ebaffa0abc197d0629270731bed600a4dccff2937a258606cb97ff5ae5998812",
+        "langs": {
+          "es": {
+            "translatedHash": "3ef4c7f6a2d46a631ed371debf4406bd05767acf3c6a9dc16c53ab960e04c076",
+            "updatedAt": "2026-02-25T00:58:51.079Z"
+          },
+          "pl": {
+            "translatedHash": "8af0d14c2cb993d25ffb8e94b087e98b65d6e6911a9d98e5bb725b953b923cbe",
+            "updatedAt": "2026-02-25T00:58:52.892Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2b885f102e6281c5308511e4bcb3918163489578b4dc4f59e0da0349d50fbbd0",
+        "langs": {
+          "es": {
+            "translatedHash": "4f3b17f7ed6988ed87bf97e969fa6d0291291214cdd2323feaf27a23ad31fc84",
+            "updatedAt": "2026-02-25T00:58:53.527Z"
+          },
+          "pl": {
+            "translatedHash": "5431a0b4470406b9ccc370693d9383f1d65d4e0bc6705ccac4ebb6018f951208",
+            "updatedAt": "2026-02-25T00:58:54.243Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "247fed3205587f2a238a3ee78878fdba6dc97ebccc132cd4057e73fc8043e5cd",
+        "langs": {
+          "es": {
+            "translatedHash": "bc27101a4e51928c788dff47245071b29ea4517bd2bfa836c7d319d480d0ffa0",
+            "updatedAt": "2026-02-25T00:58:57.324Z"
+          },
+          "pl": {
+            "translatedHash": "cc916a2bbf710864328b4fe4e4c8e7199a1a9648a4693f7013c5c59f2549a1fc",
+            "updatedAt": "2026-02-25T00:58:59.937Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e050a88ebcc605da628e92ac03f0c4c3bda075488a0c98e73cc971d670e306dc",
+        "langs": {
+          "es": {
+            "translatedHash": "743ee026d225da79e2c1249297833160cf376d009895e18b3fb9182e50e9b7ba",
+            "updatedAt": "2026-02-25T00:59:05.986Z"
+          },
+          "pl": {
+            "translatedHash": "02e7843ddf8d03578a78f5ee33fc9f47b353617896c2f95557728f8da189c84e",
+            "updatedAt": "2026-02-25T00:59:11.770Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Marcelo",
+  "name_pl": "Święty Marcellus",
+  "feast_es": "El Trigésimo Día de Octubre",
+  "feast_pl": "Trzydziesty dzień października",
+  "summary_es": "El Papa Marcelo I fue el obispo de Roma desde mayo o junio de 308 hasta su muerte el 16 de enero de 309. Sucedió a Marcelino después de un intervalo considerable. Bajo el gobierno de Majencio, fue desterrado de Roma en 309, debido al tumulto causado por la severidad de las penitencias que había impuesto a los cristianos que habían caído durante la reciente persecución. Murió ese mismo año, siendo sucedido por Eusebio. Sus reliquias se encuentran bajo el altar de San Marcelo al Corso en Roma. Desde 1969, su fiesta, tradicionalmente celebrada el 16 de enero por la Iglesia Católica, queda a cargo de los calendarios locales y ya no está inscrita en el Calendario Romano General.",
+  "summary_pl": "Papież Marcellus I był biskupem Rzymu od maja lub czerwca 308 roku aż do swojej śmierci 16 stycznia 309 roku. Zastąpił Marcellinusa po dłuższej przerwie. Za panowania Maksencjusza został wygnany z Rzymu w 309 roku z powodu zamieszek wywołanych surowością pokut, które nałożył na chrześcijan, którzy odstąpili od wiary podczas niedawnych prześladowań. Zmarł w tym samym roku, a na jego miejsce został wybrany Euzebiusz. Jego relikwie znajdują się pod ołtarzem San Marcello al Corso w Rzymie. Od 1969 roku jego wspomnienie, tradycyjnie obchodzone 16 stycznia przez Kościół katolicki, pozostawiono kalendarzom lokalnym i nie jest już wpisane do Ogólnego Kalendarza Rzymskiego.",
+  "biography_es": "El Papa Marcelo I (italiano: Marcello I) (6 de enero de 255 – 16 de enero de 309) fue el obispo de Roma desde mayo o junio de 308 hasta su muerte el 16 de enero de 309. Sucedió a Marcelino después de un intervalo considerable. Bajo el mandato de Majencio, fue desterrado de Roma en 309, debido al tumulto causado por la severidad de las penitencias que había impuesto a los cristianos que habían caído durante la reciente persecución. Murió ese mismo año, siendo sucedido por Eusebio. Sus reliquias se encuentran bajo el altar de San Marcelo al Corso en Roma. Desde 1969, su fiesta, tradicionalmente celebrada el 16 de enero por la Iglesia Católica, queda a criterio de los calendarios locales y ya no está inscrita en el Calendario Romano General.\n\nElección\n\nDurante algún tiempo después de la muerte de Marcelino en 304, la persecución de Diocleciano continuó con severidad incesante. Tras la abdicación de Diocleciano en 305 y la ascensión en Roma de Majencio al trono de los Césares en octubre del año siguiente, los cristianos de la capital disfrutaron nuevamente de una paz relativa. Sin embargo, pasaron casi dos años antes de que se eligiera un nuevo obispo de Roma. Entonces, en 308, según el Catalogus Liberianus, Marcelo comenzó su ministerio: \"Fue obispo en...",
+  "biography_pl": "Papież Marcellus I (wł. Marcello I) (6 stycznia 255 – 16 stycznia 309) był biskupem Rzymu od maja lub czerwca 308 aż do swojej śmierci 16 stycznia 309. Zastąpił Marcellinusa po dłuższej przerwie. Za panowania Maksencjusza został wygnany z Rzymu w 309 roku z powodu zamieszek wywołanych surowością pokut, które nałożył na chrześcijan, którzy odstąpili od wiary podczas niedawnych prześladowań. Zmarł w tym samym roku, a jego następcą został Euzebiusz. Jego relikwie znajdują się pod ołtarzem w kościele San Marcello al Corso w Rzymie. Od 1969 roku jego wspomnienie, tradycyjnie obchodzone 16 stycznia przez Kościół katolicki, pozostawiono kalendarzom lokalnym i nie jest już wpisane do Ogólnego Kalendarza Rzymskiego.\n\nWybór\n\nPrzez pewien czas po śmierci Marcellinusa w 304 roku prześladowania Dioklecjana trwały bez zmniejszenia surowości. Po abdykacji Dioklecjana w 305 roku oraz objęciu tronu cezarskiego w Rzymie przez Maksencjusza w październiku następnego roku, chrześcijanie stolicy znów cieszyli się względnym pokojem. Niemniej jednak minęły prawie dwa lata, zanim wybrano nowego biskupa Rzymu. Wtedy, w 308 roku, według Katalogu Liberiańskiego, Marcellus po raz pierwszy objął swój urząd: „Był biskupem w..."
+}

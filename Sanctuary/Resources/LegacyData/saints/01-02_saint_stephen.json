@@ -1,0 +1,81 @@
+{
+  "id": "01-02_saint_stephen",
+  "name": "Saint Stephen",
+  "mmdd": "01-02",
+  "feast": "The Second Day of January",
+  "summary": "Stephen is traditionally venerated as the protomartyr or first martyr of Christianity. According to the Acts of the Apostles, he was a deacon in the early church at Jerusalem who angered members of various synagogues by his teachings. Accused of blasphemy at his trial, he made a speech denouncing the Jewish authorities who were sitting in judgment on him and was then stoned to death. Saul of Tarsus, a Pharisee and Roman citizen who would later become Paul the Apostle, was also involved as a witness in Stephen's execution.",
+  "biography": "Stephen (Greek: Στέφανος, romanized: Stéphanos, lit. 'wreath, crown'; c. AD 5 – c. 34) is traditionally venerated as the protomartyr or first martyr of Christianity. According to the Acts of the Apostles, he was a deacon in the early church at Jerusalem who angered members of various synagogues by his teachings. Accused of blasphemy at his trial, he made a speech denouncing the Jewish authorities who were sitting in judgment on him and was then stoned to death. Saul of Tarsus, a Pharisee and Roman citizen who would later become Paul the Apostle, was also involved as a witness in Stephen's execution.\nThe only source for information about Stephen is the New Testament book of the Acts of the Apostles. Stephen is mentioned in Acts 6 as one of the Greek-speaking Hellenistic Jews selected to administer the daily charitable distribution of food to the Greek-speaking widows.\nThe Catholic, Anglican, Oriental Orthodox, Eastern Orthodox, and Lutheran churches and the Church of the East venerate Stephen as a saint. Artistic representations often show Stephen with a crown symbolising martyrdom, three stones, martyr's palm frond, censer, and often holding a miniature church building. Stephen is often...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Stephen",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-02_saint_stephen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "402a07f13ec30b7d293ba3f5c2e1b9a186bddabf16f74a8be3d26c937d9a0083",
+        "langs": {
+          "es": {
+            "translatedHash": "1e99ade6b2a9de0bee3fccf460742a0da5d75aed26f9525d32294d94ff956830",
+            "updatedAt": "2026-02-24T22:04:13.714Z"
+          },
+          "pl": {
+            "translatedHash": "03bb3263dfa0e761d127e3fbdd364a741bd49b0684ce8f4394d7d57a1c5136d1",
+            "updatedAt": "2026-02-24T22:04:14.365Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b9a14b7ba62d41cfca03eada83f5b56b3f98eea199631f3448cf52f55ce0410d",
+        "langs": {
+          "es": {
+            "translatedHash": "8f4e5531cc618d4ad162db05082c098fd70e67463839c7c6928e5302690f74e5",
+            "updatedAt": "2026-02-24T22:04:15.040Z"
+          },
+          "pl": {
+            "translatedHash": "ec4b5fdb2510837d0f94e8dc5aad3d5cd5af2fcda8aff69f986f1a59434e315c",
+            "updatedAt": "2026-02-24T22:04:15.543Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3f0fd8f4d11ac8538ffcc7b3f5f90573fe262849620d46a92f59502b7bc63862",
+        "langs": {
+          "es": {
+            "translatedHash": "ea43ed2ecbacce8354881a7fc179fc42895e971e1efee66ad837c4c6353d7e2f",
+            "updatedAt": "2026-02-24T22:04:17.960Z"
+          },
+          "pl": {
+            "translatedHash": "b6b0db0adfee36b5678cd3da9a8ade103515a9d0250143a466a9e2d4bc06d2ee",
+            "updatedAt": "2026-02-24T22:04:21.927Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "84acf3e267846bc5645240088984d86f95d7a7cec81964d3d849ce1f26e1d956",
+        "langs": {
+          "es": {
+            "translatedHash": "fcce17f21338768ab5745254af53362121f63d497e20db1d5a20318c17240ff4",
+            "updatedAt": "2026-02-24T22:04:26.413Z"
+          },
+          "pl": {
+            "translatedHash": "10e85b8abd819efc593d50563ddfa50ae1dd6967c4074780a22eb3dd82d843a7",
+            "updatedAt": "2026-02-24T22:04:31.922Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Esteban",
+  "name_pl": "Święty Szczepan",
+  "feast_es": "El Segundo Día de Enero",
+  "feast_pl": "Drugi dzień stycznia",
+  "summary_es": "Esteban es tradicionalmente venerado como el protomártir o primer mártir del cristianismo. Según los Hechos de los Apóstoles, fue un diácono en la iglesia primitiva de Jerusalén que enfureció a miembros de varias sinagogas con sus enseñanzas. Acusado de blasfemia en su juicio, pronunció un discurso denunciando a las autoridades judías que lo juzgaban y luego fue apedreado hasta la muerte. Saulo de Tarso, fariseo y ciudadano romano que más tarde se convertiría en el apóstol Pablo, también estuvo involucrado como testigo en la ejecución de Esteban.",
+  "summary_pl": "Święty Szczepan jest tradycyjnie czczony jako protomęczennik, czyli pierwszy męczennik chrześcijaństwa. Według Dziejów Apostolskich był diakonem w wczesnym Kościele w Jerozolimie, który swoim nauczaniem rozgniewał członków różnych synagog. Oskarżony o bluźnierstwo podczas procesu, wygłosił mowę potępiającą żydowskie władze, które go sądziły, a następnie został ukamienowany na śmierć. Saul z Tarsu, faryzeusz i obywatel rzymski, który później stał się apostołem Pawłem, również brał udział jako świadek w egzekucji Szczepana.",
+  "biography_es": "Esteban (griego: Στέφανος, romanizado: Stéphanos, lit. 'corona, guirnalda'; c. 5 d.C. – c. 34) es tradicionalmente venerado como el protomártir o primer mártir del cristianismo. Según los Hechos de los Apóstoles, fue un diácono en la iglesia primitiva de Jerusalén que enfureció a miembros de varias sinagogas con sus enseñanzas. Acusado de blasfemia en su juicio, pronunció un discurso denunciando a las autoridades judías que lo juzgaban y luego fue apedreado hasta la muerte. Saulo de Tarso, un fariseo y ciudadano romano que más tarde se convertiría en el apóstol Pablo, también estuvo involucrado como testigo en la ejecución de Esteban.\n\nLa única fuente de información sobre Esteban es el libro del Nuevo Testamento, los Hechos de los Apóstoles. Esteban es mencionado en Hechos 6 como uno de los judíos helenistas de habla griega seleccionados para administrar la distribución diaria de alimentos a las viudas de habla griega.\n\nLas iglesias católica, anglicana, ortodoxa oriental, ortodoxa oriental, luterana y la Iglesia del Este veneran a Esteban como santo. Las representaciones artísticas a menudo muestran a Esteban con una corona que simboliza el martirio, tres piedras, una palma de mártir, un incensario y a menudo sosteniendo un edificio de iglesia en miniatura. Esteban es frecuentemente...",
+  "biography_pl": "Stefan (grecki: Στέφανος, romanizowane: Stéphanos, dosł. „wieniec, korona”; ok. 5 n.e. – ok. 34) jest tradycyjnie czczony jako protomęczennik, czyli pierwszy męczennik chrześcijaństwa. Według Dziejów Apostolskich był diakonem we wczesnym Kościele w Jerozolimie, który swoim nauczaniem rozgniewał członków różnych synagog. Oskarżony o bluźnierstwo podczas procesu, wygłosił mowę potępiającą żydowskie władze, które go sądziły, po czym został ukamienowany na śmierć. Saweł z Tarsu, faryzeusz i obywatel rzymski, który później stał się apostołem Pawłem, był również świadkiem egzekucji Stefana.\n\nJedynym źródłem informacji o Stefanie jest nowotestamentowa księga Dziejów Apostolskich. Stefan jest wspomniany w Dz 6 jako jeden z greckojęzycznych Żydów hellenistycznych wybranych do zarządzania codziennym rozdawaniem żywności greckojęzycznym wdowom.\n\nKościoły katolicki, anglikański, orientalno-prawosławny, wschodnio-prawosławny, luterański oraz Kościół Wschodu czczą Stefana jako świętego. Przedstawienia artystyczne często ukazują Stefana z koroną symbolizującą męczeństwo, trzema kamieniami, palmą męczeńską, kadzielnicą oraz często trzymającego miniaturowy budynek kościoła. Stefan jest często..."
+}

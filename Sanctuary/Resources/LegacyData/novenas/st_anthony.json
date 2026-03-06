@@ -1,0 +1,269 @@
+{
+  "id": "st_anthony",
+  "title": "St. Anthony Novena",
+  "description": "St. Anthony of Padua was a Franciscan friar, known as a gifted preacher and for his closeness to Christ. Pray the St. Anthony Novena for lost things.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Anthony"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 4
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 13
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-anthony-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nO holy St. Anthony, gentlest of Saints, thy love for God and charity for His creatures made thee worthy while on earth to possess miraculous powers. Miracles waited thy word, which thou wert ever ready to speak for those in trouble or anxiety. Encouraged by this thought, I implore thee to obtain for me the favor I seek in this novena. The answer to my prayer may require a miracle; even so, thou are the Saint of miracles. O gentle and loving Saint Anthony, whose heart was ever full of human sympathy, whisper my petition into the ears of the Infant Jesus, Who loved to be folded in thy arms, and the gratitude of my heart will always be thine.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar la petición aquí…) Tú que fuiste tan compasivo con los pecadores miserables, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nOh santo San Antonio, el más amable de los Santos, tu amor por Dios y caridad hacia Sus criaturas te hicieron digno en la tierra de poseer poderes milagrosos. Los milagros esperaban tu palabra, que siempre estabas dispuesto a pronunciar por aquellos en problemas o ansiedad. Animado por este pensamiento, te imploro que obtengas para mí el favor que busco en esta novena. La respuesta a mi oración puede requerir un milagro; aun así, tú eres el Santo de los milagros. Oh dulce y amoroso San Antonio, cuyo corazón siempre estuvo lleno de simpatía humana, susurra mi petición al oído del Niño Jesús, que amaba ser abrazado en tus brazos, y la gratitud de mi corazón siempre será tuya.\n\nQue la asistencia divina permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, Tu confesor, sea fuente de alegría para Tu Iglesia, para que siempre esté fortalecida con ayuda espiritual y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, by spocząć na Twoich ramionach, wyproś mi u Niego z Jego hojności łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Boga, aby mogła być ponownie uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale proszę. Amen Jeden Ojcze nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nO święty św. Antoni, najłagodniejszy ze świętych, Twoja miłość do Boga i miłosierdzie dla Jego stworzeń uczyniły Cię godnym, będąc na ziemi, posiadania mocy cudownych. Cuda czekały na Twoje słowo, które zawsze byłeś gotów wypowiedzieć dla tych, którzy cierpieli lub byli zaniepokojeni. Zachęcony tą myślą, błagam Cię, abyś wyprosił dla mnie łaskę, której szukam w tej nowennie. Odpowiedź na moją modlitwę może wymagać cudu; mimo to, Ty jesteś Świętym cudów. O łagodny i kochający św. Antoni, którego serce zawsze było pełne ludzkiego współczucia, szepnij moją prośbę do uszu Dzieciątka Jezus, które kochało być składane na Twoich ramionach, a wdzięczność mojego serca zawsze będzie Twoja.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotywne wspomnienie błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nO miracle-working St. Anthony, remember that it never has been heard that thou didst leave without help or relief anyone who in his need had recourse to thee. Animated now with the most lively confidence, even with full conviction of not being refused, I fly for refuge to thee, O most favored friend of the Infant Jesus. O eloquent preacher of the Divine mercy, despise not my supplications but, bringing them before the throne of God, strengthen them by thine intercession and obtain for me the favor I seek in this novena\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar la petición aquí…) Tú que fuiste tan compasivo con los miserables pecadores, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nOh San Antonio, hacedor de milagros, recuerda que nunca se ha oído que hayas dejado sin ayuda o alivio a nadie que en su necesidad haya recurrido a ti. Animado ahora con la más viva confianza, incluso con plena convicción de no ser rechazado, vuelo a refugiarme en ti, oh amigo más favorecido del Niño Jesús. Oh elocuente predicador de la Divina misericordia, no desprecies mis súplicas sino, llevándolas ante el trono de Dios, fortalécelas con tu intercesión y obtén para mí el favor que busco en esta novena.\n\nQue la Divina asistencia permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, tu confesor, sea fuente de alegría para tu Iglesia, para que siempre esté fortalecida con ayuda espiritual, y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, by spocząć na Twoich ramionach, wyproś mi u Jego dobroci łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący dla nędznych grzeszników, nie patrz na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Bożą, aby mogła się znowu wielbić przez spełnienie mojej prośby, o którą teraz z wytrwałą gorliwością proszę. Amen Jedno Ojcze nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nO cudotwórczy św. Antoni, pamiętaj, że nigdy nie słyszano, abyś opuścił bez pomocy lub ulgi kogoś, kto w potrzebie do Ciebie się zwrócił. Teraz, ożywiony najżywszym zaufaniem, nawet z pełnym przekonaniem, że nie zostanę odrzucony, uciekam się do Ciebie, o najłaskawszy przyjacielu Dzieciątka Jezus. O wymowny kaznodziejo Boskiego miłosierdzia, nie gardź moimi prośbami, lecz przedstaw je przed tronem Boga, umocnij je swoją wstawiennictwem i wyproś mi łaskę, której szukam w tej nowennie.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotum ku czci błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nO purest St. Anthony, who through thine Angelic virtue was made worthy to be caressed by the Divine Child Jesus, to hold Him in thy arms and press Him to thy heart. I entreat thee to cast a benevolent glance upon me. O glorious St. Anthony, born under the protection of Mary Immaculate, on the Feast of her Assumption into Heaven, and consecrated to her and now so powerful an intercessor in Heaven, I beseech thee to obtain for me the favor I ask in this novena . . . . O great wonder-worker, intercede for me that God may grant my request.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar la petición aquí…) Tú que fuiste tan compasivo con los miserables pecadores, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nOh purísimo San Antonio, que por tu virtud angélica fuiste digno de ser acariciado por el Divino Niño Jesús, de sostenerlo en tus brazos y apretarlo contra tu corazón. Te suplico que dirijas una mirada benevolente hacia mí. Oh glorioso San Antonio, nacido bajo la protección de María Inmaculada, en la Fiesta de su Asunción al Cielo, y consagrado a ella y ahora tan poderoso intercesor en el Cielo, te ruego que obtengas para mí el favor que pido en esta novena . . . . Oh gran hacedor de milagros, intercede por mí para que Dios conceda mi petición.\n\nQue la asistencia divina permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, Tu confesor, sea fuente de alegría para Tu Iglesia, para que siempre esté fortalecida con ayuda espiritual, y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny z powodu sławy Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, aby spocząć na Twoich ramionach, wyproś mi u Niego łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie patrz na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Bożą, aby mogła być ponownie uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale proszę. Amen Jeden Ojcze Nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nO najczystszy św. Antoni, który przez swoją Anielską cnotę został godny, by być głaskanym przez Boskie Dzieciątko Jezusa, trzymać Go na swoich ramionach i przytulać do serca. Proszę Cię, rzuć na mnie łaskawe spojrzenie. O chwalebny św. Antoni, urodzony pod opieką Maryi Niepokalanej, w Uroczystość Jej Wniebowzięcia, poświęcony Jej i teraz tak potężny orędowniku w niebie, błagam Cię, wyproś mi łaskę, o którą proszę w tej nowennie . . . . O wielki cudotwórco, wstawiaj się za mną, aby Bóg spełnił moją prośbę.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech pamiątka błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nI salute and honor thee, O powerful helper, St. Anthony. The Christian world confidently turns to thee and experiences thy tender compassion and powerful assistance in so many necessities and sufferings that I am encouraged in my need to seek thy help in obtaining a favorable answer to my request for the favor I seek in this novena . . . . O holy St. Anthony, I beseech thee, obtain for me the grace that I desire.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar petición aquí…) Tú que fuiste tan compasivo con los miserables pecadores, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nTe saludo y honro, oh poderoso ayudante, San Antonio. El mundo cristiano se vuelve confiado a ti y experimenta tu tierna compasión y poderosa ayuda en tantas necesidades y sufrimientos que me animo en mi necesidad a buscar tu ayuda para obtener una respuesta favorable a mi petición por el favor que busco en esta novena . . . . Oh santo San Antonio, te suplico, obtén para mí la gracia que deseo.\n\nQue la Divina asistencia permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, Tu confesor, sea fuente de alegría para Tu Iglesia, para que siempre esté fortalecida con ayuda espiritual y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, aby spocząć na Twoich ramionach, wyproś mi u Jego dobroci łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Boga, aby mogła być ponownie uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale i gorliwie proszę. Amen Jeden Ojcze Nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nPozdrawiam Cię i czczę, o potężny pomocniku, św. Antoni. Chrześcijański świat z ufnością zwraca się do Ciebie i doświadcza Twojego czułego współczucia oraz potężnej pomocy w tylu potrzebach i cierpieniach, że i ja zachęcony moją potrzebą szukam Twojej pomocy w uzyskaniu pomyślnej odpowiedzi na moją prośbę o łaskę, której szukam w tej nowennie . . . . O święty św. Antoni, błagam Cię, wyproś mi łaskę, której pragnę.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotywne wspomnienie błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nI salute thee, St. Anthony, lily of purity, ornament and glory of Christianity. I salute thee, great Saint, cherub of wisdom and seraph of Divine love. I rejoice at the favors our Lord has so liberally bestowed upon thee. In humility and confidence I entreat thee to help me, for I know that God has given thee charity and pity, as well as power. I ask thee by the love thou didst feel toward the Infant Jesus as thou heldest Him in thine arms to tell Him now of the favor I seek through thine intercession in this novena.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su generosidad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar la petición aquí…) Tú que fuiste tan compasivo con los pecadores miserables, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nTe saludo, San Antonio, lirio de pureza, adorno y gloria del cristianismo. Te saludo, gran Santo, querubín de sabiduría y serafín del amor Divino. Me regocijo por los favores que nuestro Señor tan generosamente te ha concedido. Con humildad y confianza te suplico que me ayudes, porque sé que Dios te ha dado caridad y compasión, así como poder. Te pido por el amor que sentiste hacia el Niño Jesús cuando lo sostuviste en tus brazos que le digas ahora del favor que busco por tu intercesión en esta novena.\n\nQue la asistencia Divina permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, tu confesor, sea fuente de alegría para tu Iglesia, para que siempre esté fortalecida con ayuda espiritual, y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, aby spocząć na Twoich ramionach, wyproś mi u Jego dobroci łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Boga, aby mogła być znowu uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale i gorliwie proszę. Amen. Ojcze nasz jeden, Zdrowaś Maryjo jeden, i Chwała Ojcu, na cześć św. Antoniego.\n\nPozdrawiam Cię, św. Antoni, lilio czystości, ozdobo i chwalo chrześcijaństwa. Pozdrawiam Cię, wielki Święty, cherubie mądrości i serafie Boskiej miłości. Raduję się z łask, które nasz Pan tak hojnie Ci udzielił. Pokornie i z ufnością błagam Cię o pomoc, bo wiem, że Bóg dał Ci miłość i współczucie, a także moc. Proszę Cię przez miłość, którą czułeś do Dzieciątka Jezus, gdy trzymałeś Go na swoich ramionach, abyś teraz powiedział Mu o łasce, której szukam przez Twoją wstawiennictwo w tej nowennie.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotywne wspomnienie błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nO glorious St. Anthony, chosen by God to preach His Word, thou didst receive from Him the gift of tongues and the power of working the most extraordinary miracles. O good St. Anthony, pray that I may fulfill the will of God in all things so that I may love Him, with thee, for all eternity. O kind St. Anthony, I beseech thee, obtain for me the grace that I desire, the favor I seek in this novena.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar la petición aquí…) Tú que fuiste tan compasivo con los miserables pecadores, no tengas en cuenta la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante empeño. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nOh glorioso San Antonio, elegido por Dios para predicar Su Palabra, recibiste de Él el don de lenguas y el poder de obrar los milagros más extraordinarios. Oh buen San Antonio, ruega para que pueda cumplir la voluntad de Dios en todas las cosas para que pueda amarlo, contigo, por toda la eternidad. Oh amable San Antonio, te suplico, obtén para mí la gracia que deseo, el favor que busco en esta novena.\n\nQue la asistencia divina permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, Tu confesor, sea fuente de alegría para Tu Iglesia, para que siempre esté fortalecida con ayuda espiritual, y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny z powodu sławy Twoich cudów, i przez łaskę Jezusa, który przyszedł w postaci małego dziecka, aby spocząć na Twoich ramionach, wyproś mi u Niego łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący dla nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Bożą, aby mogła być ponownie uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale i gorliwie proszę. Amen Jeden Ojcze nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nO chwalebny św. Antoni, wybrany przez Boga do głoszenia Jego Słowa, otrzymałeś od Niego dar języków i moc czynienia najdziwniejszych cudów. O dobry św. Antoni, módl się, abym we wszystkim wypełniał wolę Bożą, abym mógł kochać Go razem z Tobą na wieki wieków. O dobrotliwy św. Antoni, błagam Cię, wyproś mi łaskę, której pragnę, i przysługę, o którą proszę w tej nowennie.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotum ku czci błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nO renowned champion of the faith of Christ, most holy St. Anthony, glorious for thy many miracles, obtain for me from the bounty of my Lord and God the grace which I ardently seek in this novena . . . . O holy St. Anthony, ever attentive to those who invoke thee, grant me that aid of thy powerful intercession.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su generosidad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencione aquí la petición…) Tú que fuiste tan compasivo con los pecadores miserables, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nOh renombrado campeón de la fe en Cristo, santísimo San Antonio, glorioso por tus muchos milagros, obtén para mí de la generosidad de mi Señor y Dios la gracia que ardientemente busco en esta novena . . . . Oh santo San Antonio, siempre atento a quienes te invocan, concédeme esa ayuda de tu poderosa intercesión.\n\nQue la asistencia Divina permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, Tu confesor, sea fuente de alegría para Tu Iglesia, para que siempre esté fortalecida con ayuda espiritual, y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, aby spocząć na Twoich ramionach, wyproś mi u Jego dobroci łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Boga, aby mogła być ponownie uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale i gorliwie proszę. Amen Jeden Ojcze nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nO sławny obrońco wiary Chrystusa, najświętszy św. Antoni, sławny z powodu wielu Twoich cudów, wyproś mi u dobroci Pana i Boga mojego łaskę, której żarliwie szukam w tej nowennie . . . . O święty św. Antoni, zawsze uważny na tych, którzy Cię wzywają, udziel mi pomocy Twojej potężnej wstawienniczej mocy.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotum ku czci błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nO holy St. Anthony, thou hast shown thyself so powerful in thine intercession, so tender and so compassionate towards those who honor thee and invoke thee in suffering and distress. I beseech thee most humbly and earnestly to take me under thy protection in my present necessities and to obtain for me the favor I desire . . . . Recommend my request to the merciful Queen of Heaven, that she may plead my cause with thee before the throne of her Divine Son.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencionar la petición aquí…) Tú que fuiste tan compasivo con los miserables pecadores, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora te pido con perseverante fervor. Amén Un Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nOh santo San Antonio, te has mostrado tan poderoso en tu intercesión, tan tierno y compasivo hacia quienes te honran e invocan en el sufrimiento y la aflicción. Te suplico humildemente y con fervor que me tomes bajo tu protección en mis necesidades presentes y que obtengas para mí el favor que deseo . . . . Recomienda mi petición a la misericordiosa Reina del Cielo, para que ella abogue por mi causa contigo ante el trono de su Divino Hijo.\n\nQue la asistencia Divina permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, Tu confesor, sea fuente de alegría para Tu Iglesia, para que siempre esté fortalecida con ayuda espiritual, y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, by spocząć na Twoich ramionach, wyproś mi u Jego dobroci łaskę, której żarliwie pragnę z głębi serca, (wymień prośbę tutaj…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Boga, aby mogła być znowu uwielbiona przez spełnienie mojej prośby, o którą teraz z wytrwałą gorliwością proszę. Amen Jeden Ojcze Nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nO święty św. Antoni, okazałeś się tak potężny w swojej wstawiennictwie, tak czuły i współczujący wobec tych, którzy Cię czczą i wzywają w cierpieniu i udręce. Pokornie i usilnie błagam Cię, abyś wziął mnie pod swoją opiekę w moich obecnych potrzebach i wyprosił dla mnie łaskę, której pragnę . . . . Poleć moją prośbę miłosiernej Królowej Nieba, aby wstawiła się za mną u Ciebie przed tronem swego Boskiego Syna.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotum ku czci błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO wonderful St. Anthony, glorious on account of the fame of your miracles, and through the grace of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart, (mention request here…) You who were so compassionate toward miserable sinners, regard not the unworthiness of those who pray to you, but the glory of God that it may once again be magnified by the granting of my request which I now ask for with persevering earnestness. Amen One Our Father, One Hail Mary, and Glory Be to the Father, in honor of Saint Anthony.\n\nSaint Anthony, servant of Mary, glory of the Church, pray for our Holy Father, our bishops, our priests, our Religious Orders, that, through their pious zeal and apostolic labors, all may be united in faith and give greater glory to God. St. Anthony, helper of all who invoke thee, pray for me and intercede for me before the throne of Almighty God that I be granted the favor I so earnestly seek in this novena.\n\nMay the Divine assistance remain always with us. Amen. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen. O God, may the votive commemoration of blessed Anthony, Thy confessor, be a source of joy to Thy Church, that she may always be fortified with spiritual assistance, and deserve to enjoy eternal rewards. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nI’ve been a devotee of St. Anthony for years now, and his intercession is truly wonderful. Just today, he granted my prayers and helped me get my dream car, which I almost gave up on and seemed impossible.\n\nBut as the prayer says, The answer to my prayer may require a miracle; even so, thou art the Saint of miracles.\n\nThank you so much, St. Anthony. I will be forever grateful to you.\n\nfrom A.M.\n\nI looked where I normally stored my passport and it was not there. I couldn’t remember having moved it and had no clue as to it could be. I chanted the Dear Saint Anthony… verse several times.\n\nI looked some more and having no reason to look in the last place as there was no connection to my passport—I looked there anyway and there it was. Thank you St. Anthony.\n\nfrom G.H.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh maravilloso San Antonio, glorioso por la fama de tus milagros, y por la gracia de Jesús al venir en forma de un niño pequeño para descansar en tus brazos, obtén para mí de Su bondad la gracia que ardientemente deseo desde lo más profundo de mi corazón, (mencione aquí la petición…) Tú que fuiste tan compasivo con los pecadores miserables, no consideres la indignidad de quienes te rezan, sino la gloria de Dios para que una vez más sea magnificada por la concesión de mi petición que ahora hago con perseverante fervor. Amén.\n\nUn Padre Nuestro, un Ave María y un Gloria al Padre, en honor a San Antonio.\n\nSan Antonio, siervo de María, gloria de la Iglesia, ruega por nuestro Santo Padre, nuestros obispos, nuestros sacerdotes, nuestras Órdenes Religiosas, para que, por su piadoso celo y labores apostólicas, todos estén unidos en la fe y den mayor gloria a Dios. San Antonio, ayudador de todos los que te invocan, ruega por mí e intercede ante el trono del Dios Todopoderoso para que se me conceda el favor que tan fervientemente busco en esta novena.\n\nQue la Divina asistencia permanezca siempre con nosotros. Amén. Que las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz. Amén. Oh Dios, que la conmemoración votiva del bienaventurado Antonio, tu confesor, sea fuente de alegría para tu Iglesia, para que siempre esté fortalecida con ayuda espiritual y merezca gozar de las recompensas eternas. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO cudowny św. Antoni, sławny dzięki sławie Twoich cudów, a przez łaskę Jezusa, który przyszedł w postaci małego dziecka, aby spocząć na Twoich ramionach, wyproś mi u Jego hojności łaskę, której żarliwie pragnę z głębi serca, (wymień tutaj prośbę…) Ty, który byłeś tak współczujący wobec nędznych grzeszników, nie zwracaj uwagi na niegodność tych, którzy do Ciebie się modlą, lecz na chwałę Boga, aby mogła być ponownie uwielbiona przez spełnienie mojej prośby, o którą teraz wytrwale proszę. Amen Jeden Ojcze Nasz, jedna Zdrowaś Maryjo i Chwała Ojcu, na cześć św. Antoniego.\n\nŚwięty Antoni, sługo Maryi, chwało Kościoła, módl się za naszego Świętego Ojca, naszych biskupów, naszych kapłanów, nasze Zakony Zakonne, aby przez ich pobożny zapał i apostolskie trudy wszyscy byli zjednoczeni w wierze i dawali większą chwałę Bogu. Święty Antoni, pomocniku wszystkich, którzy Cię wzywają, módl się za mnie i wstawiaj się za mną przed tronem Wszechmogącego Boga, aby została mi udzielona łaska, której tak gorąco szukam w tej nowennie.\n\nNiech Boska pomoc zawsze z nami pozostanie. Amen. Niech dusze wiernych zmarłych, przez miłosierdzie Boże, spoczywają w pokoju. Amen. Boże, niech wotywne wspomnienie błogosławionego Antoniego, Twojego wyznawcy, będzie źródłem radości dla Twojego Kościoła, aby zawsze była umacniana duchową pomocą i zasłużyła na wieczne nagrody. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_anthony.png",
+  "sourceFacts": {
+    "starts": "June 4Feastday:June 13Birth:1195Death:1231Patron saint of Custody of the Holy Land, miracles, travelers, finding one's spouse, pregnancy, harvests, animals, lost items, lost people, lost souls, poverty, sterility, the sick, the disabled, the oppressed, the hungry, the elderly, faith in the Blessed Sacrament, sailors, fishermen, watermen, swineherds, mail carriers, counter-revolutionaries, indigenous peoples of the Americas, Tigua, Padua, Lisbon, Portugal, Brazil, Albania, Pila, Laguna, Iriga, Camarines Sur, Camaligan, Camarines Sur, Gubat, Sorsogon, Tuburan, Cebu, Cusco, Peru 📱",
+    "feast": "June 13Birth:1195Death:1231Patron saint of Custody of the Holy Land, miracles, travelers, finding one's spouse, pregnancy, harvests, animals, lost items, lost people, lost souls, poverty, sterility, the sick, the disabled, the oppressed, the hungry, the elderly, faith in the Blessed Sacrament, sailors, fishermen, watermen, swineherds, mail carriers, counter-revolutionaries, indigenous peoples of the Americas, Tigua, Padua, Lisbon, Portugal, Brazil, Albania, Pila, Laguna, Iriga, Camarines Sur, Camaligan, Camarines Sur, Gubat, Sorsogon, Tuburan, Cebu, Cusco, Peru 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "ccafa03eaecb4bbede5345cba6f3ed4c76639bca25a296fefc2944cccfd58a3b",
+        "langs": {
+          "es": {
+            "translatedHash": "8d9650610fc1a19ec5a0981c51c4dbc9882bd8696cd82b9cf4090f5360609b00",
+            "updatedAt": "2026-02-25T11:57:22.267Z"
+          },
+          "pl": {
+            "translatedHash": "45273241768ae2229c42025890c158177a066c4b6fade37a1da8743179ac2699",
+            "updatedAt": "2026-02-25T11:57:23.407Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "3986bdc0a9b4e749872e1c73ae62ca00f6df3671a03b71fc2b65b5ea8d5f70b3",
+        "langs": {
+          "es": {
+            "translatedHash": "48a99b60782347a6a9633afa5bac30c8d3e27b438d43fd90e8d2bb4590fd777e",
+            "updatedAt": "2026-02-25T11:57:24.739Z"
+          },
+          "pl": {
+            "translatedHash": "1525497a869929fd7e8247568017506210d41e490e4ab561d1e869081e6ceda2",
+            "updatedAt": "2026-02-25T11:57:26.136Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "88b529d386f60aa096b423ded65b1168b083bb76efbb1ddf6ea0fa65f75e0105",
+        "langs": {
+          "es": {
+            "translatedHash": "448458965c9189fffdf27d76088b254b50772bda9eed7898cd6edbcd35d78ba4",
+            "updatedAt": "2026-02-25T11:57:31.575Z"
+          },
+          "pl": {
+            "translatedHash": "a12f035b6a05e7268deb2f4c5c2e855933285b646a6e05a8b7a0c412ef212fe4",
+            "updatedAt": "2026-02-25T11:57:39.849Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "fccb92f7aa3d1eccdb7d764c5131de61bbd7b45ff14e45ed2449f09261056a41",
+        "langs": {
+          "es": {
+            "translatedHash": "a1d1214ef4656e152dcc719f78349d144447667718f84c21daf5240688b52ab0",
+            "updatedAt": "2026-02-25T11:57:46.051Z"
+          },
+          "pl": {
+            "translatedHash": "e5a3733b0e7c13ce46283cf6e06a6ff427ae658e3931b538434f17efcbd805f2",
+            "updatedAt": "2026-02-25T11:57:52.421Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "8aae4100f95b4efdaf0a8967844fb7b492e079cbd592d89ef9a16adfb4e0605c",
+        "langs": {
+          "es": {
+            "translatedHash": "22ae00f2cb1f23407c8001406437fab12700708fc09c9d510ecc2f80471fd701",
+            "updatedAt": "2026-02-25T11:57:57.628Z"
+          },
+          "pl": {
+            "translatedHash": "4f76c470b027000722fb5dd16bc1f44e057ce91b212139eb16f2513514f319ab",
+            "updatedAt": "2026-02-25T11:58:04.281Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "764eea101a1c15387e04323996097efcc5080f267a4526a32cd3e10745c5d4e1",
+        "langs": {
+          "es": {
+            "translatedHash": "96276a2c279af57be4082495146afe1963ba3377650836668b76589c42b2936f",
+            "updatedAt": "2026-02-25T11:58:10.367Z"
+          },
+          "pl": {
+            "translatedHash": "b0af7f7ba3752f7462c80d6839214ba85ea06c4460e042e649626824017f7d1c",
+            "updatedAt": "2026-02-25T11:58:19.065Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "0b81e7f5c09375c6f50968b198f3460b139e666e8d05fdd219ac92cf36920c4f",
+        "langs": {
+          "es": {
+            "translatedHash": "2ed88464c8464c4e8bd677bbd8651ffcf3aca6ef631a64dda9c705b62b6c4bfd",
+            "updatedAt": "2026-02-25T11:58:24.685Z"
+          },
+          "pl": {
+            "translatedHash": "32aeb0d0baa1154677479c0a6337b23a92ebe18c9d955bbc13f9808aec7bdb19",
+            "updatedAt": "2026-02-25T11:58:29.713Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "524fb1fcdfb9389a31f3a8124815615c8e31891a9f8f85f71abd30bccaf90bfd",
+        "langs": {
+          "es": {
+            "translatedHash": "2d1c4b62487d1654d95b758c7756cb5b2a6bff90032863b8a41eab297dd587e2",
+            "updatedAt": "2026-02-25T11:58:36.241Z"
+          },
+          "pl": {
+            "translatedHash": "e296f3501e4439ff2fce6769daf41eeaefdbd1372256bc30b58e665bbadf0e0c",
+            "updatedAt": "2026-02-25T11:58:42.679Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "ec094d4f000101b9d11fee1e679efe63869b2407daafdb631af8a32da85b42dc",
+        "langs": {
+          "es": {
+            "translatedHash": "90946545b52d80cf89eeff34996da23d3c9cafab2c24a6f800bfcd0037eba971",
+            "updatedAt": "2026-02-25T11:58:46.884Z"
+          },
+          "pl": {
+            "translatedHash": "c69227b22102d3bfda37b83cb0bbaf724a6ecaee87ae9ac59f511534fde8852f",
+            "updatedAt": "2026-02-25T11:58:52.991Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "981af00999bf9a590b7dd42a86d4ac2df0b5299fb3c39fbb3942113f22b95eef",
+        "langs": {
+          "es": {
+            "translatedHash": "649441af29f1aa86063f19ff94aa722aa40d04fada055b00f54ecf05db04c7d7",
+            "updatedAt": "2026-02-25T11:59:08.258Z"
+          },
+          "pl": {
+            "translatedHash": "dd0537c2ae324ec9ca14fa8c6b673dd3bcc84c195c3366f272d622007b214393",
+            "updatedAt": "2026-02-25T11:59:14.801Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "1c305f6072c34d6087c7b792ccd9dbc61a15bb9c50149820096887aede38a262",
+        "langs": {
+          "es": {
+            "translatedHash": "b74ee33bf1e6903bbf53cf1a5f1324a1ff7bd53bd43350ad87863e9f0a23f72c",
+            "updatedAt": "2026-02-25T11:59:24.642Z"
+          },
+          "pl": {
+            "translatedHash": "b60c317230d128fd8c94e7466602cdd447bf3d6b476ad53a395803dfc396ab0f",
+            "updatedAt": "2026-02-25T11:59:31.052Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Antonio",
+  "title_pl": "Nowenna do św. Antoniego",
+  "description_es": "San Antonio de Padua fue un fraile franciscano, conocido por ser un predicador dotado y por su cercanía a Cristo. Reza la Novena a San Antonio para las cosas perdidas.",
+  "description_pl": "Św. Antoni z Padwy był franciszkańskim zakonnikiem, znanym jako utalentowany kaznodzieja i za swoją bliskość z Chrystusem. Módl się nowennę do św. Antoniego o odnalezienie zgubionych rzeczy.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

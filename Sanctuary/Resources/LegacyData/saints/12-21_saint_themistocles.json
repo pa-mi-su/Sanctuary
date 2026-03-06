@@ -1,0 +1,48 @@
+{
+  "id": "12-21_saint_themistocles",
+  "name": "Saint Themistocles",
+  "mmdd": "12-21",
+  "feast": "The Twenty-first Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menologion_of_Basil_II_-_Themistocles_of_Myra.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-21_saint_themistocles.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d9e9a5962d1f05d5903980e8320134815e984c9f6f414650e923502231a1bf69",
+        "langs": {
+          "es": {
+            "translatedHash": "cc093c1929f8a7ef3fa83f278e79e817a2495ae6714b7c1c2ccd451591223cda",
+            "updatedAt": "2026-02-25T01:30:55.583Z"
+          },
+          "pl": {
+            "translatedHash": "1349d00bd8ac17266cfae0c1e8d8b83a9a7fd2dbbda54b6eabdd3d53c34486e9",
+            "updatedAt": "2026-02-25T01:30:56.388Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6853974ceba1fe3bc2a402ade5814e3037b27f0ab716990d7e86a8a9f2eb2d65",
+        "langs": {
+          "es": {
+            "translatedHash": "71a4b6652aed48c3aae34400e7ec8fe4272a7babf822ca041310b3525e0a10d3",
+            "updatedAt": "2026-02-25T01:30:57.227Z"
+          },
+          "pl": {
+            "translatedHash": "e7fe4d85e63a434ddfb6b30e6f8c27f01d6ed40240459cf19ff2306b160201fc",
+            "updatedAt": "2026-02-25T01:30:57.786Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Temístocles",
+  "name_pl": "Święty Temistokles",
+  "feast_es": "El vigésimo primer día de diciembre",
+  "feast_pl": "Dwudziesty pierwszy dzień grudnia"
+}

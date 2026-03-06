@@ -1,0 +1,78 @@
+{
+  "id": "02-15_saint_craton",
+  "name": "Saint Craton",
+  "mmdd": "02-15",
+  "feast": "The Fifteenth Day of February",
+  "summary": "Cyril of Jerusalem was a theologian of the Early Church. About the end of AD 350, he succeeded Maximus as Bishop of Jerusalem, but was exiled on more than one occasion due to the enmity of Acacius of Caesarea, and the policies of various emperors. Cyril left important writings documenting the instruction of catechumens and the order of the Liturgy in his day and his old age",
+  "biography": "Life and character\nLittle is known of his life before he became a bishop; the assignment of his birth to the year 315 rests on conjecture. According to Butler, Cyril was born at or near the city of Jerusalem and was well-read in both the writings of the early Christian theologians and...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-15_saint_craton.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0827ba467a7e68094008cac345f2f22ad038ac9117dd4edd577d1e0d9aacb883",
+        "langs": {
+          "es": {
+            "translatedHash": "35abafaf02861842bbd5ea2e87c514ea9515c7e29f859ea715cfe7fcd597cd2a",
+            "updatedAt": "2026-02-24T22:36:17.541Z"
+          },
+          "pl": {
+            "translatedHash": "39535b1546bd82d049258f23a19dcb55a68100ea2504f21d5562e18d3646eb74",
+            "updatedAt": "2026-02-24T22:36:18.071Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "85c9dfab6cc48ae768d639a0c66f5bbd23912804a8d9f71d72d206dc9eb0678f",
+        "langs": {
+          "es": {
+            "translatedHash": "e0f04c0d3d77f71eb2b29e3ddacc3d135b236a86d0ee14d6cfaf9f7a7b325dff",
+            "updatedAt": "2026-02-24T22:36:18.642Z"
+          },
+          "pl": {
+            "translatedHash": "ac70c8c31c787b8fab7013d562c8075775b4dd9f99c63dfc77bb191c8e513382",
+            "updatedAt": "2026-02-24T22:36:19.202Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "36e89d3a21f22cf8c0ef44e325f0e6ae0cfdd7260ccc09f42dc110beeba2d8f4",
+        "langs": {
+          "es": {
+            "translatedHash": "62e60abc65760fe94c24e7dcc25f71cca4c1378e005f624c441514333fb181b8",
+            "updatedAt": "2026-02-24T22:36:21.202Z"
+          },
+          "pl": {
+            "translatedHash": "9a4c8ca5e52881b0347cbba334a1257c5ade89c02a8fac345bbcadb7bc060173",
+            "updatedAt": "2026-02-24T22:36:23.484Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ade9193c28751198aa9df28c78b711cdf737d7492e615de3bf899e428ae9ab33",
+        "langs": {
+          "es": {
+            "translatedHash": "562694a3f065ae5622293f41629c2296ca1632d31050f03a27a081ca949080f7",
+            "updatedAt": "2026-02-24T22:36:25.310Z"
+          },
+          "pl": {
+            "translatedHash": "7b54eb6b52b6506153d1caaadd1df2afac8e76dccd212c60e31bfa9bf6014034",
+            "updatedAt": "2026-02-24T22:36:27.615Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cratón",
+  "name_pl": "Święty Kraton",
+  "feast_es": "El Quince de Febrero",
+  "feast_pl": "Piętnasty dzień lutego",
+  "summary_es": "Cirilio de Jerusalén fue un teólogo de la Iglesia Primitiva. Hacia el final del año 350 d.C., sucedió a Máximo como Obispo de Jerusalén, pero fue exiliado en más de una ocasión debido a la enemistad de Acacio de Cesarea y a las políticas de varios emperadores. Cirilio dejó escritos importantes que documentan la instrucción de los catecúmenos y el orden de la Liturgia en su época y en su vejez.",
+  "summary_pl": "Cyryl Jerozolimski był teologiem Wczesnego Kościoła. Około końca roku 350 n.e. objął urząd biskupa Jerozolimy po Maksymie, lecz był wielokrotnie wygnany z powodu niechęci Akacjusza z Cezarei oraz polityki różnych cesarzy. Cyryl pozostawił ważne pisma dokumentujące nauczanie katechumenów oraz porządek Liturgii w swoich czasach i w podeszłym wieku.",
+  "biography_es": "Vida y carácter  \nSe sabe poco de su vida antes de que se convirtiera en obispo; la asignación de su nacimiento al año 315 se basa en conjeturas. Según Butler, Cirilo nació en o cerca de la ciudad de Jerusalén y estaba bien leído tanto en los escritos de los primeros teólogos cristianos como...",
+  "biography_pl": "Życie i charakter  \nNiewiele wiadomo o jego życiu przed objęciem biskupstwa; przypisanie jego urodzin do roku 315 opiera się na przypuszczeniach. Według Butlera, Cyryl urodził się w lub w pobliżu miasta Jerozolimy i był dobrze obeznany zarówno z pismami wczesnych chrześcijańskich teologów, jak i..."
+}

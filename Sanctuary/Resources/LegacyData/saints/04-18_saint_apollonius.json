@@ -1,0 +1,79 @@
+{
+  "id": "04-18_saint_apollonius",
+  "name": "Saint Apollonius",
+  "mmdd": "04-18",
+  "feast": "The Eighteenth Day of April",
+  "summary": "Saint Apollonius the Apologist or Saint Apollonius of Rome was a 2nd-century Christian martyr and apologist who was martyred in 185 under the Emperor Commodus (161–192).",
+  "biography": "Saint Apollonius the Apologist or Saint Apollonius of Rome was a 2nd-century Christian martyr and apologist who was martyred in 185 under the Emperor Commodus (161–192).",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollonius_the_Apologist",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-18_saint_apollonius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c004f73c2fb9fd8e21ee938d82fa13447da4128c0cccc4586926d32f2d574ad0",
+        "langs": {
+          "es": {
+            "translatedHash": "5d480855fba0c50692c8fc4071c266a185060fa607f1ea8ce50f106ad9e184b6",
+            "updatedAt": "2026-02-24T23:11:16.774Z"
+          },
+          "pl": {
+            "translatedHash": "89a927586b4e3ff326c0c30acfbedfa449769beb3d99266b5a6f9c70ac9a87d7",
+            "updatedAt": "2026-02-24T23:11:18.514Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "fee54520de659cb1724047e8e1c73573bb33aa763dfac93e6af112e6e76e06b9",
+        "langs": {
+          "es": {
+            "translatedHash": "b96421a6bf7394dba6ef644157e559827a1b12b45ea491ea9742762fdcd485a5",
+            "updatedAt": "2026-02-24T23:11:19.695Z"
+          },
+          "pl": {
+            "translatedHash": "36da512b203eae08a969cdf280286da7517735e93a4e1cac98d4319417741d23",
+            "updatedAt": "2026-02-24T23:11:20.422Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "61c52b83bdcfe75df4a2d5f7e9464f2630dae3105f0ae5a57fa9734a45bda496",
+        "langs": {
+          "es": {
+            "translatedHash": "a302a98edb2cf17274d4d4a88089b524e4a6dfb2f2ba40e5c987e526cd4c45ec",
+            "updatedAt": "2026-02-24T23:11:21.792Z"
+          },
+          "pl": {
+            "translatedHash": "ea23b6ce459dd45e21d704a523671dae5aa9be8f2df442c146a8ad3c976dde4e",
+            "updatedAt": "2026-02-24T23:11:23.499Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "61c52b83bdcfe75df4a2d5f7e9464f2630dae3105f0ae5a57fa9734a45bda496",
+        "langs": {
+          "es": {
+            "translatedHash": "a302a98edb2cf17274d4d4a88089b524e4a6dfb2f2ba40e5c987e526cd4c45ec",
+            "updatedAt": "2026-02-24T23:11:24.790Z"
+          },
+          "pl": {
+            "translatedHash": "ea23b6ce459dd45e21d704a523671dae5aa9be8f2df442c146a8ad3c976dde4e",
+            "updatedAt": "2026-02-24T23:11:26.506Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Apolonio",
+  "name_pl": "Święty Apolloniusz",
+  "feast_es": "El día dieciocho de abril",
+  "feast_pl": "Osiemnasty dzień kwietnia",
+  "summary_es": "San Apolonio el Apologista o San Apolonio de Roma fue un mártir y apologista cristiano del siglo II que fue martirizado en el año 185 bajo el emperador Cómodo (161–192).",
+  "summary_pl": "Święty Apolloniusz Apologeta lub Święty Apolloniusz Rzymski był chrześcijańskim męczennikiem i apologetą II wieku, który poniósł męczeńską śmierć w 185 roku za panowania cesarza Kommodusa (161–192).",
+  "biography_es": "San Apolonio el Apologista o San Apolonio de Roma fue un mártir y apologista cristiano del siglo II que fue martirizado en el año 185 bajo el emperador Cómodo (161–192).",
+  "biography_pl": "Święty Apolloniusz Apologeta lub Święty Apolloniusz Rzymski był chrześcijańskim męczennikiem i apologetą II wieku, który poniósł męczeńską śmierć w 185 roku za panowania cesarza Kommodusa (161–192)."
+}

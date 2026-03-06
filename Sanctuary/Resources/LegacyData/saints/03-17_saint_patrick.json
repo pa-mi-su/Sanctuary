@@ -1,0 +1,80 @@
+{
+  "id": "03-17_saint_patrick",
+  "name": "Saint Patrick",
+  "mmdd": "03-17",
+  "feast": "The Seventeenth Day of March",
+  "summary": "Saint Patrick's Day, or the Feast of Saint Patrick, is a religious and cultural holiday held on 17 March, the traditional death date of Saint Patrick, the foremost patron saint of Ireland.",
+  "biography": "Saint Patrick's Day, or the Feast of Saint Patrick (Irish: Lá Fhéile Pádraig, lit. 'the Day of the Festival of Patrick'), is a religious and cultural holiday held on 17 March, the traditional death date of Saint Patrick (c. 385 – c. 461), the foremost patron saint of Ireland.\nSaint Patrick's Day was made an official Christian feast day in the early 17th century and is observed by the Catholic Church, the Anglican Communion (especially the Church of Ireland), the Eastern Orthodox Church, and the Lutheran Church. The day commemorates Saint Patrick and the arrival of Christianity in Ireland, and, by extension, celebrates the heritage and culture of the Irish in general. Celebrations generally involve public parades and festivals, céilithe, and the wearing of green attire or shamrocks. Christians who belong to liturgical denominations also attend church services. Historically, the Lenten restrictions on fasting and drinking alcohol were lifted for the day, which has encouraged the holiday's tradition of revelry.\nSaint Patrick's Day is a public holiday in the Republic of Ireland, Northern Ireland, the Canadian province of Newfoundland and Labrador (for provincial government employees), and...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Patrick's_Day",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-17_saint_patrick.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6e1908dea07abcc63ac46ba0ad6fca58c2c958a739afb5298656c7907559e6fb",
+        "langs": {
+          "es": {
+            "translatedHash": "f7deccf4f644fef53d99fdcf7aca0c63a4c231b37221575766323d82cc05f31b",
+            "updatedAt": "2026-02-24T22:54:44.512Z"
+          },
+          "pl": {
+            "translatedHash": "544f0c4502b9d0ad75be2fbb68fc0ffb61d15414bac3b8aee516d59a38b50f78",
+            "updatedAt": "2026-02-24T22:54:45.076Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0309e91a1323a0b3181dbcdc3b3d8ae949324aad17c63824013cd1722545e4d7",
+        "langs": {
+          "es": {
+            "translatedHash": "46aa7571602db79f621545426fe6107ffbdd709f08685f572b7e5695dbdc49d7",
+            "updatedAt": "2026-02-24T22:54:45.708Z"
+          },
+          "pl": {
+            "translatedHash": "0486f5a8628333ff83c5e6c4b4d998fc70a21db3aff06a7c4dfc39e0c6a4c8ec",
+            "updatedAt": "2026-02-24T22:54:46.351Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e29d55968728f7cf55f38667e1340cf8fbe470cfca6c497189be4739638a4f85",
+        "langs": {
+          "es": {
+            "translatedHash": "5918394d915bfe9a71e9fbae6f35f38746ad3134331e027ad48f711013cc699b",
+            "updatedAt": "2026-02-24T22:54:47.741Z"
+          },
+          "pl": {
+            "translatedHash": "9e8d156278bcf35c797d90c7dfcedd3538ecdaaa5eaa9700388c3a6ee9c9996b",
+            "updatedAt": "2026-02-24T22:54:49.319Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "916425c1410385b2e69a450a623044b92ddcc05704c3939a1e965147b3a1e707",
+        "langs": {
+          "es": {
+            "translatedHash": "c456ae602efc0df7d99074c2c5123c416115a62e11869a8cc15a1c1799ed3e7e",
+            "updatedAt": "2026-02-24T22:54:53.461Z"
+          },
+          "pl": {
+            "translatedHash": "ee2cdcb9d525e8c444c0f0d432775e1d8eaa12b8ccd1bf70e0f00eb3319db34e",
+            "updatedAt": "2026-02-24T22:55:00.687Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Patricio",
+  "name_pl": "Święty Patryk",
+  "feast_es": "El decimoséptimo día de marzo",
+  "feast_pl": "Siedemnasty Dzień Marca",
+  "summary_es": "El Día de San Patricio, o la Fiesta de San Patricio, es una celebración religiosa y cultural que se celebra el 17 de marzo, la fecha tradicional de la muerte de San Patricio, el principal santo patrón de Irlanda.",
+  "summary_pl": "Dzień Świętego Patryka, czyli Uroczystość Świętego Patryka, to święto religijne i kulturalne obchodzone 17 marca, w tradycyjną datę śmierci Świętego Patryka, najważniejszego patrona Irlandii.",
+  "biography_es": "El Día de San Patricio, o la Fiesta de San Patricio (irlandés: Lá Fhéile Pádraig, lit. 'el Día de la Fiesta de Patricio'), es una festividad religiosa y cultural que se celebra el 17 de marzo, la fecha tradicional de la muerte de San Patricio (c. 385 – c. 461), el principal santo patrón de Irlanda.  \nEl Día de San Patricio fue declarado fiesta cristiana oficial a principios del siglo XVII y es observado por la Iglesia Católica, la Comunión Anglicana (especialmente la Iglesia de Irlanda), la Iglesia Ortodoxa Oriental y la Iglesia Luterana. El día conmemora a San Patricio y la llegada del cristianismo a Irlanda, y, por extensión, celebra la herencia y cultura de los irlandeses en general. Las celebraciones generalmente incluyen desfiles y festivales públicos, céilithe, y el uso de vestimenta verde o tréboles. Los cristianos que pertenecen a denominaciones litúrgicas también asisten a los servicios religiosos. Históricamente, las restricciones cuaresmales sobre el ayuno y el consumo de alcohol se levantaban por ese día, lo que ha fomentado la tradición festiva de esta celebración.  \nEl Día de San Patricio es un día festivo en la República de Irlanda, Irlanda del Norte, la provincia canadiense de Terranova y Labrador (para los empleados del gobierno provincial), y...",
+  "biography_pl": "Dzień Świętego Patryka, czyli Święto Świętego Patryka (irlandzki: Lá Fhéile Pádraig, dosł. „Dzień Święta Patryka”), jest religijnym i kulturalnym świętem obchodzonym 17 marca, w tradycyjną datę śmierci Świętego Patryka (ok. 385 – ok. 461), najważniejszego patrona Irlandii.  \nDzień Świętego Patryka został ustanowiony oficjalnym chrześcijańskim świętem wczesnym XVII wieku i jest obchodzony przez Kościół katolicki, Komunię anglikańską (szczególnie Kościół Irlandii), Kościół prawosławny oraz Kościół luterański. Dzień ten upamiętnia Świętego Patryka oraz przybycie chrześcijaństwa do Irlandii, a przez to świętuje dziedzictwo i kulturę Irlandczyków w ogóle. Obchody zazwyczaj obejmują publiczne parady i festiwale, céilithe oraz noszenie zielonych ubrań lub koniczyny. Chrześcijanie należący do liturgicznych wyznań uczestniczą także w nabożeństwach. Historycznie, na ten dzień znoszono wielkopostne ograniczenia dotyczące postu i spożywania alkoholu, co sprzyjało tradycji hucznych zabaw.  \nDzień Świętego Patryka jest dniem wolnym od pracy w Republice Irlandii, Irlandii Północnej, prowincji kanadyjskiej Nowa Fundlandia i Labrador (dla pracowników administracji prowincjonalnej) oraz..."
+}

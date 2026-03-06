@@ -1,0 +1,79 @@
+{
+  "id": "12-01_saint_diodorus",
+  "name": "Saint Diodorus",
+  "mmdd": "12-01",
+  "feast": "The First Day of December",
+  "summary": "This is an incomplete list of humans and angels whom the Catholic Church has canonized as saints. According to Catholic theology, all saints enjoy the beatific vision. Many of the saints listed here are found in the General Roman Calendar, while others may also be found in the Roman Martyrology; still others are particular to local places or religious institutes and their recognition does not extend to the larger worldwide church.",
+  "biography": "People also accepted as saints in the Eastern Orthodox Church and other churches are listed in Category:Christian saints by century and/or Category:Christian saints by nationality.\n\n\nCatholic Saints\n\n\nArchangels\nMichael\nRaphael\nGabriel\n\n\nMartyrs\nThe following are an incomplete list of the martyrs venerated by the Catholic Church not individually named in the list above:\n\nThe Holy Innocents (1 AD)\nFirst Martyrs of the Church of Rome (64 AD)\nScillitan Martyrs (180)\nMassa Candida (253–260)\nMartyrs of Abitinae (304)\nThirty Martyrs of the Appian Way (c. 304) — found in Roman Martyrology\n20,000 Martyrs of Nicomedia (304–305)\nForty Martyrs of Sebaste (320)\nMartyrs of...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Catholic_saints",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-01_saint_diodorus.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a1029a0fc824c42759f98eef51436b8424a87058cb5a54ff63a28b166ddc9162",
+        "langs": {
+          "es": {
+            "translatedHash": "b27012062a7c540027fed67ee50aed52010a28ae1d7bbb250906cbe72b539b02",
+            "updatedAt": "2026-02-25T01:17:16.119Z"
+          },
+          "pl": {
+            "translatedHash": "ad94a856b59ff7fe8f6949a42ceb64c00981f166d5d08e416fd254e1a8ba1616",
+            "updatedAt": "2026-02-25T01:17:16.753Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4e7ec7c489dd1a3202eb874a9287117fd4f4a4fc0c1471168113ff823b91cd5a",
+        "langs": {
+          "es": {
+            "translatedHash": "98f1b85af49173070f218a95e37667ef2d63f8ff75953c793c310757b9bcd6e3",
+            "updatedAt": "2026-02-25T01:17:17.299Z"
+          },
+          "pl": {
+            "translatedHash": "f12a01c60bdff8949b868c6a282d43ddbaadb2b4aa99e4ccd064552ffb254045",
+            "updatedAt": "2026-02-25T01:17:17.953Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "79914d22ec496efc6bf3140084758a7b1e44205ef4db2230ca1975becda6bd8b",
+        "langs": {
+          "es": {
+            "translatedHash": "ae845a52b50f6514f00943bc3b3d5299052f6ceb0964935a83dbb81aa0816499",
+            "updatedAt": "2026-02-25T01:17:19.569Z"
+          },
+          "pl": {
+            "translatedHash": "3b02166bd54f791823f42875d246793396aef10ce98a48909c3311388fa8e548",
+            "updatedAt": "2026-02-25T01:17:22.822Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "59d7d00e166894b5791cf875f231291d9fbd6804d9456fde974715827b07a96f",
+        "langs": {
+          "es": {
+            "translatedHash": "d34791d3f11650346236b31172535542ca20e9da453cb4892e943a611d4808ba",
+            "updatedAt": "2026-02-25T01:17:26.344Z"
+          },
+          "pl": {
+            "translatedHash": "0a7b097391822e8fe03412a3533dce5280f6eb31440c9ebd9706e430f9231fa9",
+            "updatedAt": "2026-02-25T01:17:32.149Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Diodoro",
+  "name_pl": "Święty Diodor",
+  "feast_es": "El Primer Día de Diciembre",
+  "feast_pl": "Pierwszy dzień grudnia",
+  "summary_es": "Esta es una lista incompleta de humanos y ángeles que la Iglesia Católica ha canonizado como santos. Según la teología católica, todos los santos gozan de la visión beatífica. Muchos de los santos aquí listados se encuentran en el Calendario Romano General, mientras que otros también pueden encontrarse en el Martirologio Romano; otros más son particulares de lugares locales o institutos religiosos y su reconocimiento no se extiende a la Iglesia universal.",
+  "summary_pl": "To jest niepełna lista ludzi i aniołów, których Kościół katolicki kanonizował jako świętych. Według teologii katolickiej wszyscy święci cieszą się wizją beatyfikującą. Wielu świętych wymienionych tutaj znajduje się w Ogólnym Kalendarzu Rzymskim, podczas gdy inni mogą być również wymienieni w Martyrologium Rzymskim; jeszcze inni są szczególni dla miejsc lokalnych lub instytutów zakonnych, a ich uznanie nie rozciąga się na szerszy Kościół powszechny.",
+  "biography_es": "También se incluyen como santos en la Iglesia Ortodoxa Oriental y otras iglesias en la Categoría: Santos cristianos por siglo y/o Categoría: Santos cristianos por nacionalidad.\n\n\nSantos Católicos\n\n\nArcángeles\nMiguel\nRafael\nGabriel\n\n\nMártires\nLa siguiente es una lista incompleta de los mártires venerados por la Iglesia Católica que no están nombrados individualmente en la lista anterior:\n\nLos Santos Inocentes (1 d.C.)\nPrimeros Mártires de la Iglesia de Roma (64 d.C.)\nMártires de Scillitan (180)\nMasa Cándida (253–260)\nMártires de Abitinae (304)\nTreinta Mártires de la Vía Apia (c. 304) — encontrados en el Martirologio Romano\n20,000 Mártires de Nicomedia (304–305)\nCuarenta Mártires de Sebaste (320)\nMártires de...",
+  "biography_pl": "Osoby również uznawane za świętych w Kościele Wschodnioprawosławnym i innych kościołach są wymienione w kategorii:Chrześcijańscy święci według wieku i/lub kategorii:Chrześcijańscy święci według narodowości.\n\n\nŚwięci katoliccy\n\n\nArchaniołowie\nMichał\nRafał\nGabriel\n\n\nMęczennicy\nPoniżej znajduje się niepełna lista męczenników czczonych przez Kościół katolicki, nie wymienionych indywidualnie na powyższej liście:\n\nŚwięte Niewiniątka (1 n.e.)\nPierwsi Męczennicy Kościoła Rzymskiego (64 n.e.)\nMęczennicy Scyllitańscy (180)\nMassa Candida (253–260)\nMęczennicy Abityńscy (304)\nTrzydziestu Męczenników z Via Appia (ok. 304) — wymienieni w Martyrologium Rzymskim\n20 000 Męczenników z Nikomedii (304–305)\nCzterdziestu Męczenników z Sebasty (320)\nMęczennicy z..."
+}

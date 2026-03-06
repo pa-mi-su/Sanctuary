@@ -1,0 +1,81 @@
+{
+  "id": "01-18_saint_peter",
+  "name": "Saint Peter",
+  "mmdd": "01-18",
+  "feast": "The Eighteenth Day of January",
+  "summary": "The Chair of Saint Peter, also known as the Throne of Saint Peter, is a relic conserved in St. Peter's Basilica in Vatican City, the sovereign enclave of the Pope inside Rome, Italy. The relic is a wooden throne that tradition claims belonged to the Apostle Saint Peter, the leader of the Early Christians in Rome and first Pope, and which he used as Bishop of Rome. The relic is enclosed in a sculpted gilt bronze casing designed by Gian Lorenzo Bernini and constructed between 1647 and 1653. In 2012, Pope Benedict XVI described the chair as \"a symbol of the special mission of Peter and his Successors to tend Christ's flock, keeping it united in faith and in charity.\"",
+  "biography": "Saint Peter (born Shimon bar Yonah; 1 BC – AD 64/68), also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first leaders of the early Christian Church. He appears repeatedly and prominently in all four New Testament gospels, as well as the Acts of the Apostles. Catholic and Orthodox tradition treats Peter as the first bishop of Rome – or pope – and also as the first bishop of Antioch. According to Christian tradition, Peter was crucified in Rome under Emperor Nero. \nThe ancient Christian churches venerate Peter as a major saint and the founder of the Church of Antioch and the Church of Rome, but they differ in their attitudes regarding the authority of his successors. According to Catholic teaching, Jesus promised Peter a special position in the Church. In the New Testament, the name \"Simon Peter\" is found 19 times. He is the brother of Andrew, and they both were fishermen. The Gospel of Mark, in particular, is traditionally thought to show the influence of Peter's preaching and eyewitness accounts. He is also mentioned as Peter or Cephas in Paul's First Letter to the Corinthians and the Epistle to the Galatians...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chair_of_Saint_Peter",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-18_saint_peter.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "235eea79c2febcd6b622f45cab810a163276de20ecc7ed48d460088c03aaaafd",
+        "langs": {
+          "es": {
+            "translatedHash": "c930a1881cbeba213ac0187ca84b090e63a3b7a2fb413c223f22930ef1de268a",
+            "updatedAt": "2026-02-24T22:17:00.711Z"
+          },
+          "pl": {
+            "translatedHash": "20127b1e0f81262b22f1c756f15dc7094e41384097f42bad07ee33b90d852a9c",
+            "updatedAt": "2026-02-24T22:17:02.719Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f764adbd213553f1731bc79216e2d5572d06f6489a404bb4a3153c1250fb7799",
+        "langs": {
+          "es": {
+            "translatedHash": "5f5d498c04151e3b7e6b342a5adbec5ed658117ff4e72018ac2a97fd3a3e26df",
+            "updatedAt": "2026-02-24T22:17:03.370Z"
+          },
+          "pl": {
+            "translatedHash": "a000f09147cd05ea48f5616f5e621c090e8ee859d677ffbeb8a48850e86cb527",
+            "updatedAt": "2026-02-24T22:17:03.934Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8ffc8a344cd56725f0a8ca18f7da82e4ec6a9851d9391958277a66095c397299",
+        "langs": {
+          "es": {
+            "translatedHash": "fac73b380430b9b8a4b4adbbf4e1e0e0bc968ac418fdaabe6f7a536292ea35c9",
+            "updatedAt": "2026-02-24T22:17:07.392Z"
+          },
+          "pl": {
+            "translatedHash": "c30b82fb9dc520d917b4ffcd684adc067c751a1a1fd60d57664ffc76135dbe63",
+            "updatedAt": "2026-02-24T22:17:11.850Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f7c409c4355fa4bce3a66ca7d546c9a894f82a6f224785eafe064dcbbb3384c5",
+        "langs": {
+          "es": {
+            "translatedHash": "c8a5f997b0a8a2b3961673127e9cac702902e806307f277f011b1d6c308c71cc",
+            "updatedAt": "2026-02-24T22:17:16.860Z"
+          },
+          "pl": {
+            "translatedHash": "db6f59ab113ee49e00c6b183eb2405f590bc6cd00d5096ddee882ad662c9c7f0",
+            "updatedAt": "2026-02-24T22:17:23.409Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro",
+  "name_pl": "Święty Piotr",
+  "feast_es": "El día dieciocho de enero",
+  "feast_pl": "Osiemnasty dzień stycznia",
+  "summary_es": "La Silla de San Pedro, también conocida como el Trono de San Pedro, es una reliquia conservada en la Basílica de San Pedro en la Ciudad del Vaticano, el enclave soberano del Papa dentro de Roma, Italia. La reliquia es un trono de madera que la tradición atribuye al Apóstol San Pedro, el líder de los primeros cristianos en Roma y primer Papa, y que él usó como Obispo de Roma. La reliquia está encerrada en una caja de bronce dorado esculpida, diseñada por Gian Lorenzo Bernini y construida entre 1647 y 1653. En 2012, el Papa Benedicto XVI describió la silla como \"un símbolo de la misión especial de Pedro y sus Sucesores de cuidar el rebaño de Cristo, manteniéndolo unido en la fe y en la caridad.\"",
+  "summary_pl": "Krzesło Świętego Piotra, znane również jako Tron Świętego Piotra, jest relikwią przechowywaną w Bazylice św. Piotra w Watykanie, suwerennej enklawie papieża w Rzymie, Włochy. Relikwia to drewniany tron, który według tradycji należał do Apostoła Świętego Piotra, przywódcy wczesnych chrześcijan w Rzymie i pierwszego papieża, i którego używał jako biskup Rzymu. Relikwia jest zamknięta w rzeźbionej, pozłacanej obudowie z brązu, zaprojektowanej przez Gian Lorenzo Berniniego i wykonanej w latach 1647–1653. W 2012 roku papież Benedykt XVI opisał krzesło jako „symbol szczególnej misji Piotra i jego Następców, by pielęgnować owczarnię Chrystusa, utrzymując ją w jedności wiary i miłości.”",
+  "biography_es": "San Pedro (nacido Shimon bar Yonah; 1 a.C. – 64/68 d.C.), también conocido como Pedro el Apóstol, Simón Pedro, Simeón, Simón o Cefas, fue uno de los Doce Apóstoles de Jesús y uno de los primeros líderes de la Iglesia cristiana primitiva. Aparece repetida y prominentemente en los cuatro evangelios del Nuevo Testamento, así como en los Hechos de los Apóstoles. La tradición católica y ortodoxa considera a Pedro como el primer obispo de Roma – o papa – y también como el primer obispo de Antioquía. Según la tradición cristiana, Pedro fue crucificado en Roma bajo el emperador Nerón.  \nLas antiguas iglesias cristianas veneran a Pedro como un santo importante y fundador de la Iglesia de Antioquía y de la Iglesia de Roma, pero difieren en sus actitudes respecto a la autoridad de sus sucesores. Según la enseñanza católica, Jesús prometió a Pedro una posición especial en la Iglesia. En el Nuevo Testamento, el nombre \"Simón Pedro\" aparece 19 veces. Es hermano de Andrés, y ambos eran pescadores. El Evangelio de Marcos, en particular, se considera tradicionalmente que muestra la influencia de la predicación y los testimonios presenciales de Pedro. También se le menciona como Pedro o Cefas en la Primera Carta de Pablo a los Corintios y en la Epístola a los Gálatas...",
+  "biography_pl": "Święty Piotr (urodzony jako Szymon bar Jona; 1 p.n.e. – 64/68 n.e.), znany również jako Piotr Apostoł, Szymon Piotr, Szymon, czy Kefas, był jednym z Dwunastu Apostołów Jezusa oraz jednym z pierwszych przywódców wczesnego Kościoła chrześcijańskiego. Pojawia się wielokrotnie i wyraźnie we wszystkich czterech ewangeliach Nowego Testamentu, jak również w Dziejach Apostolskich. Tradycja katolicka i prawosławna traktuje Piotra jako pierwszego biskupa Rzymu – czyli papieża – a także jako pierwszego biskupa Antiochii. Według tradycji chrześcijańskiej Piotr został ukrzyżowany w Rzymie za panowania cesarza Nerona.  \nStarożytne Kościoły chrześcijańskie czczą Piotra jako wielkiego świętego oraz założyciela Kościoła Antiochii i Kościoła Rzymu, jednak różnią się w swoich poglądach na temat autorytetu jego następców. Według nauki katolickiej Jezus obiecał Piotrowi szczególne miejsce w Kościele. W Nowym Testamencie imię „Szymon Piotr” pojawia się 19 razy. Był bratem Andrzeja, a obaj byli rybakami. Ewangelia Marka, w szczególności, tradycyjnie uważana jest za ukazującą wpływ nauczania Piotra i jego relacji naocznych świadków. Wspominany jest również jako Piotr lub Kefas w Pierwszym Liście do Koryntian oraz w Liście do Galatów św. Pawła..."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-15_our_lady_of_sorrows_memorial",
+  "name": "Our Lady of Sorrows—Memorial",
+  "mmdd": "09-15",
+  "feast": "The Fifteenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-15_our_lady_of_sorrows_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bb87b8a7756e96e34a9f7b4c06419b24a7c308174f265ec94eb9412c4e156f34",
+        "langs": {
+          "es": {
+            "translatedHash": "0859b94fcd96f8b2ec5509959723a156a26550dc80c38824b7897e8d7cf6ca79",
+            "updatedAt": "2026-02-25T00:31:19.483Z"
+          },
+          "pl": {
+            "translatedHash": "287605950080290dc529ab65f158850e3855da7cf4dc24ee492c0c1fde86c1d0",
+            "updatedAt": "2026-02-25T00:31:20.333Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "07e8fc315add980aef9f3b6cc09abc5d00ac552b83834a7c2f94b15f24359f9d",
+        "langs": {
+          "es": {
+            "translatedHash": "d9abc2eeb501f432b9e9c8a7a8fb36b2d5e866d25c29208f31ce85ba1c0131ca",
+            "updatedAt": "2026-02-25T00:31:20.936Z"
+          },
+          "pl": {
+            "translatedHash": "f5896a93c7c6b0a3bcd775d5245c0fd37e660840fc999449941ab7471996b72a",
+            "updatedAt": "2026-02-25T00:31:21.587Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora de los Dolores—Memorial",
+  "name_pl": "Matka Boża Bolesna — Wspomnienie",
+  "feast_es": "El Quince de Septiembre",
+  "feast_pl": "Piętnasty Dzień Września"
+}

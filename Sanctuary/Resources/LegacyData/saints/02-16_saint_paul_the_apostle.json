@@ -1,0 +1,79 @@
+{
+  "id": "02-16_saint_paul_the_apostle",
+  "name": "Saint Paul the Apostle",
+  "mmdd": "02-16",
+  "feast": "The Sixteenth Day of February",
+  "summary": "Saint Paul the Apostle was an early Christian missionary and writer whose letters form a major part of the New Testament.",
+  "biography": "Saint Paul the Apostle (formerly Saul of Tarsus) became one of the most influential figures in early Christianity after his conversion to Christ. He traveled widely, founded Christian communities, and wrote pastoral and doctrinal letters that remain central to Christian theology. His witness, preaching, and martyrdom made him one of the Church's most venerated apostles.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_the_Apostle",
+    "https://www.newadvent.org/cathen/11567b.htm"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-25_saint_paul_the_apostle.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "254f1e0a95da0f6d1c59e2f3f9f969c16b809fbba952b323440e42d9371ad271",
+        "langs": {
+          "es": {
+            "translatedHash": "9556a368d632a328fe005251d187203a7d9233f2de52b624d0b9b37e1ace5801",
+            "updatedAt": "2026-02-24T22:36:46.566Z"
+          },
+          "pl": {
+            "translatedHash": "c6223163e62d6e097ddcbf3cf9159c8d1c04394750a9fe1ceb94a6c27998eb0d",
+            "updatedAt": "2026-02-24T22:36:47.344Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "688bc73bf105ca972092e47914819c450f6c71d2b6d906fa28e63eeee53b6bdc",
+        "langs": {
+          "es": {
+            "translatedHash": "1baa7b3717f0fb937dbf74080035231012b4ba3c04a0eca4544750bade01f2e9",
+            "updatedAt": "2026-02-24T22:36:47.992Z"
+          },
+          "pl": {
+            "translatedHash": "79edef47532eba4d2bc6bbbd8326fabe69bed71b7194c98ff4e09357fa998eee",
+            "updatedAt": "2026-02-24T22:36:48.657Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "97ab5533d13a2904af80f8830810d7579fbc6545266273a7dc0e1da0ca499ea2",
+        "langs": {
+          "es": {
+            "translatedHash": "b028d294522eb63c7b42ef48ba51e8c544839f020502c98ab5fc956ce6a503ae",
+            "updatedAt": "2026-02-24T22:36:50.005Z"
+          },
+          "pl": {
+            "translatedHash": "c2a232228160aac3f1245a87fbb5ae17ac48cd67cd5b4a19a24bc9663e8aa750",
+            "updatedAt": "2026-02-24T22:36:51.129Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6720571bd00167d917167ca1fb5090b759ec47cb7aa08997a1b8768580419d7c",
+        "langs": {
+          "es": {
+            "translatedHash": "303d90ddc3b252f7b7d8c60db10a3c1c3545ed5a0e1efd42f96e1a57018852c9",
+            "updatedAt": "2026-02-24T22:36:52.769Z"
+          },
+          "pl": {
+            "translatedHash": "53f6dfa10f2d2f03356292f4aab68ebeabdca266950f3838af2022f7cb43cf96",
+            "updatedAt": "2026-02-24T22:36:55.078Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pablo Apóstol",
+  "name_pl": "Święty Paweł Apostoł",
+  "feast_es": "El día dieciséis de febrero",
+  "feast_pl": "Szesnasty dzień lutego",
+  "summary_es": "San Pablo Apóstol fue un misionero cristiano temprano y escritor cuyas cartas forman una parte importante del Nuevo Testamento.",
+  "summary_pl": "Święty Paweł Apostoł był wczesnym chrześcijańskim misjonarzem i pisarzem, którego listy stanowią ważną część Nowego Testamentu.",
+  "biography_es": "San Pablo Apóstol (antes Saulo de Tarso) se convirtió en una de las figuras más influyentes del cristianismo primitivo después de su conversión a Cristo. Viajó extensamente, fundó comunidades cristianas y escribió cartas pastorales y doctrinales que siguen siendo centrales para la teología cristiana. Su testimonio, predicación y martirio lo convirtieron en uno de los apóstoles más venerados de la Iglesia.",
+  "biography_pl": "Święty Paweł Apostoł (dawniej Saul z Tarsu) stał się jedną z najbardziej wpływowych postaci wczesnego chrześcijaństwa po swoim nawróceniu na Chrystusa. Podróżował szeroko, zakładał wspólnoty chrześcijańskie oraz pisał listy pasterskie i doktrynalne, które pozostają centralne dla teologii chrześcijańskiej. Jego świadectwo, nauczanie i męczeństwo uczyniły go jednym z najbardziej czczonych apostołów Kościoła."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "11-11_saint_martin_of_tours",
+  "name": "Saint Martin of Tours",
+  "mmdd": "11-11",
+  "feast": "The Eleventh Day of November",
+  "summary": "Martin of Tours was the third bishop of Tours. He is the patron saint of many communities and organizations across Europe, including France's Third Republic. A native of Pannonia, he converted to Christianity at a young age. He served in the Roman cavalry in Gaul, but left military service prior to 361, when he became a disciple of Hilary of Poitiers, establishing the monastery at Ligugé. He was consecrated as Bishop of Caesarodunum (Tours) in 371. As bishop, he was active in the suppression of the remnants of Gallo-Roman religion.",
+  "biography": "Martin of Tours (Latin: Martinus Turonensis; 316/336 – 8 November 397) was the third bishop of Tours. He is the patron saint of many communities and organizations across Europe, including France's Third Republic. A native of Pannonia (present-day Hungary), he converted to Christianity at a young age. He served in the Roman cavalry in Gaul, but left military service prior to 361, when he became a disciple of Hilary of Poitiers, establishing the monastery at Ligugé. He was consecrated as Bishop of Caesarodunum (Tours) in 371. As bishop, he was active in the suppression of the remnants of Gallo-Roman religion. The contemporary hagiographer Sulpicius Severus wrote a Life of St. Martin. He is best known for the account of his using his sword to cut his cloak in two, to give half to a beggar clad only in rags in winter. His shrine in Tours became an often-frequented stop for pilgrims on the road to Santiago de Compostela in Spain. Hagiography Sulpicius Severus, a contemporary Christian writer who knew Martin personally, wrote a hagiography of the early life of the saint. It contains descriptions of supernatural events, such as interactions with the devil and various miracles: Martin...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_of_Tours",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-11_saint_martin_of_tours.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "112996ff8a1f0e3639e7c55df36c8b1d920a13e35673312eed1365731212fff5",
+        "langs": {
+          "es": {
+            "translatedHash": "4d0946f0eae7ad36dbbeb4ec8503b632da40f086d71ce86176311ddb309b3549",
+            "updatedAt": "2026-02-25T01:05:36.679Z"
+          },
+          "pl": {
+            "translatedHash": "b5e50e98b310bd132f8f508460baa5f93e497eb4860937d4bba4b6c875b267b5",
+            "updatedAt": "2026-02-25T01:05:37.403Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b8dcab48ff314bc1fcc981edb24454f4b9de5eb329ce4e88358137c9fff9de45",
+        "langs": {
+          "es": {
+            "translatedHash": "237d40fd8d7304d08b4ce268710ac1ac9d77cd3da9761a3775dfcf8caf44e64e",
+            "updatedAt": "2026-02-25T01:05:38.046Z"
+          },
+          "pl": {
+            "translatedHash": "c987c7cc03b4b45700ee9ec643e1dbb397524f7b2c87cac3a197a59eeda9a773",
+            "updatedAt": "2026-02-25T01:05:38.672Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a6c40fa61d53882c453ee6768facf9c5ee432ebe37e98788a7db1092dc735d0e",
+        "langs": {
+          "es": {
+            "translatedHash": "fdc2dca7b9e12dd10872178f8fd5ad0e2f542a440f95e54ae2f5c4eadbce5310",
+            "updatedAt": "2026-02-25T01:05:41.011Z"
+          },
+          "pl": {
+            "translatedHash": "ee17c2de84cca6b6279d6739aafc88891d382b5e00d7c959fecdde076d082a10",
+            "updatedAt": "2026-02-25T01:05:44.100Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f5d094cf679e2c50102415e41a226683b40fd8166b9fc2aa365af2298a55f491",
+        "langs": {
+          "es": {
+            "translatedHash": "42977867e5e856e46d605e6b038a31fef29adf04b9e5e79b266a77a023c69fe1",
+            "updatedAt": "2026-02-25T01:05:48.935Z"
+          },
+          "pl": {
+            "translatedHash": "e44860ee600a033acb04f649745d7da58c5f7470d0f4ff235123bcd822e6ce19",
+            "updatedAt": "2026-02-25T01:05:55.119Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Martín de Tours",
+  "name_pl": "Święty Marcin z Tours",
+  "feast_es": "El día once de noviembre",
+  "feast_pl": "Jedenasty dzień listopada",
+  "summary_es": "Martín de Tours fue el tercer obispo de Tours. Es el santo patrón de muchas comunidades y organizaciones en toda Europa, incluida la Tercera República de Francia. Nativo de Panonia, se convirtió al cristianismo a una edad temprana. Sirvió en la caballería romana en la Galia, pero dejó el servicio militar antes del año 361, cuando se convirtió en discípulo de Hilario de Poitiers, estableciendo el monasterio en Ligugé. Fue consagrado obispo de Caesarodunum (Tours) en 371. Como obispo, estuvo activo en la supresión de los restos de la religión gala-romana.",
+  "summary_pl": "Marcin z Tours był trzecim biskupem Tours. Jest patronem wielu wspólnot i organizacji w całej Europie, w tym Trzeciej Republiki Francuskiej. Pochodzący z Panonii, nawrócił się na chrześcijaństwo w młodym wieku. Służył w rzymskiej kawalerii w Galii, ale opuścił służbę wojskową przed rokiem 361, kiedy to został uczniem Hilarego z Poitiers, zakładając klasztor w Ligugé. W 371 roku został konsekrowany na biskupa Cezarodunum (Tours). Jako biskup aktywnie działał na rzecz zwalczania pozostałości religii gallo-rzymskiej.",
+  "biography_es": "Martín de Tours (latín: Martinus Turonensis; 316/336 – 8 de noviembre de 397) fue el tercer obispo de Tours. Es el santo patrón de muchas comunidades y organizaciones en toda Europa, incluida la Tercera República de Francia. Nativo de Panonia (actual Hungría), se convirtió al cristianismo a una edad temprana. Sirvió en la caballería romana en la Galia, pero dejó el servicio militar antes de 361, cuando se convirtió en discípulo de Hilario de Poitiers, estableciendo el monasterio de Ligugé. Fue consagrado obispo de Caesarodunum (Tours) en 371. Como obispo, estuvo activo en la supresión de los restos de la religión gala-romana. El hagiógrafo contemporáneo Sulpicio Severo escribió una Vida de San Martín. Es más conocido por el relato en el que usó su espada para cortar su capa en dos, para dar la mitad a un mendigo vestido solo con harapos en invierno. Su santuario en Tours se convirtió en una parada frecuentada por peregrinos en el camino a Santiago de Compostela en España.\n\nHagiografía  \nSulpicio Severo, un escritor cristiano contemporáneo que conoció personalmente a Martín, escribió una hagiografía de la primera vida del santo. Contiene descripciones de eventos sobrenaturales, como interacciones con el diablo y varios milagros: Martín...",
+  "biography_pl": "Marcin z Tours (łac. Martinus Turonensis; 316/336 – 8 listopada 397) był trzecim biskupem Tours. Jest patronem wielu wspólnot i organizacji w całej Europie, w tym Trzeciej Republiki Francuskiej. Pochodził z Pannoni (obecne Węgry), nawrócił się na chrześcijaństwo w młodym wieku. Służył w rzymskiej kawalerii w Galii, ale opuścił służbę wojskową przed rokiem 361, kiedy to został uczniem Hilarego z Poitiers, zakładając klasztor w Ligugé. W 371 roku został konsekrowany na biskupa Cezarodunum (Tours). Jako biskup aktywnie działał na rzecz zwalczania pozostałości religii gallo-rzymskiej. Współczesny hagiograf Sulpicjusz Sewer napisał Żywot św. Marcina. Najbardziej znany jest z opowieści o tym, jak użył swojego miecza, by przeciąć swój płaszcz na pół i dać połowę żebrakowi, który zimą był ubrany tylko w łachmany. Jego sanktuarium w Tours stało się często odwiedzanym przystankiem dla pielgrzymów zmierzających do Santiago de Compostela w Hiszpanii.\n\nHagiografia  \nSulpicjusz Sewer, współczesny pisarz chrześcijański, który znał Marcina osobiście, napisał hagiografię z wczesnego życia świętego. Zawiera ona opisy wydarzeń nadprzyrodzonych, takich jak spotkania z diabłem oraz różne cuda: Marcin..."
+}

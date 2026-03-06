@@ -1,0 +1,79 @@
+{
+  "id": "11-19_saint_edmund",
+  "name": "Saint Edmund",
+  "mmdd": "11-19",
+  "feast": "The Nineteenth Day of November",
+  "summary": "Edmund the Martyr was king of East Anglia from about 855 until his death.",
+  "biography": "Edmund the Martyr (also known as St Edmund or Edmund of East Anglia, died 20 November 869) was king of East Anglia from about 855 until his death. \nFew historical facts about Edmund are known, as East Anglia was devastated by the Vikings, who destroyed any contemporary evidence of his reign. Coins minted by Edmund indicate that he succeeded Æthelweard of East Anglia, as they shared the same moneyers. He is thought to have been of East Anglian origin, but 12th-century writers produced fictitious accounts of his family, succession and his rule as king. Edmund's death was mentioned in the Anglo-Saxon Chronicle, which relates that he was killed in 869 after the Great Heathen Army advanced into East Anglia. Medieval versions of Edmund's life and martyrdom differ as to whether he died in battle fighting the Great Heathen Army, or if he met his death after being captured and then refusing the Viking leaders' demand that he renounce Christ. \nA popular cult emerged after Edmund's death, and he was canonised by the Church. A series of coins commemorating him was minted from around the time East Anglia was absorbed by the kingdom of Wessex in 918, and in about 986, the French monk Abbo of Fleury...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edmund_the_Martyr",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-19_saint_edmund.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "44f156615b364dda2294086b806cd1cd7c37e0aa15bf56029aafac074a394f79",
+        "langs": {
+          "es": {
+            "translatedHash": "9d0f042e6a5035737e0ac4d49270bf5653a1d91eec2b3e9880039eb9f5458054",
+            "updatedAt": "2026-02-25T01:10:47.254Z"
+          },
+          "pl": {
+            "translatedHash": "e3213cc4ad6fb813d778efd2ccecb9ac15579665b0fa34df18cf46b495cb9454",
+            "updatedAt": "2026-02-25T01:10:47.860Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "891088ed21923fd7c31f2b35ae131ab83c37f1a2755d9e07bb40f6e511565a3f",
+        "langs": {
+          "es": {
+            "translatedHash": "c9bee9937cffb55a32bd3511edc6f7fd068d52583fdf80f9ddd7700ea45fea33",
+            "updatedAt": "2026-02-25T01:10:48.669Z"
+          },
+          "pl": {
+            "translatedHash": "336eb8af92dc3944b86f906480e43bb62a84d78d67387f16b7e3fc4174367838",
+            "updatedAt": "2026-02-25T01:10:49.817Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "761bb2681c6fafc2215a1eb8ac46aef84c7aa6c92e5f11ee1896621ef9bb1419",
+        "langs": {
+          "es": {
+            "translatedHash": "d0d69041b2e6650d735aa3df746eecf7bf81bb23cd38839efbe8872de309e81f",
+            "updatedAt": "2026-02-25T01:10:50.814Z"
+          },
+          "pl": {
+            "translatedHash": "a80cb2c6125623cb4e862180e90960d04fe22cfa10f22eacfb7e3d2d759db914",
+            "updatedAt": "2026-02-25T01:10:53.625Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4a3fafda2677bd5d70991bc58174f8888ca3b1f2360fb24ae18ac9462e164984",
+        "langs": {
+          "es": {
+            "translatedHash": "4125e9452b9e8b41d32c18d78067e9c0ae64c9a00243146851cac451a35a8e4e",
+            "updatedAt": "2026-02-25T01:10:58.653Z"
+          },
+          "pl": {
+            "translatedHash": "f557ba9420256627d4c06299b0b035fc8fffdffe6396e0aaa347ce90b682c865",
+            "updatedAt": "2026-02-25T01:11:05.424Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Edmundo",
+  "name_pl": "Święty Edmund",
+  "feast_es": "El día diecinueve de noviembre",
+  "feast_pl": "Dziewiętnasty dzień listopada",
+  "summary_es": "Edmundo el Mártir fue rey de East Anglia desde aproximadamente el año 855 hasta su muerte.",
+  "summary_pl": "Edmund Męczennik był królem East Anglia od około 855 roku aż do swojej śmierci.",
+  "biography_es": "Edmundo el Mártir (también conocido como San Edmundo o Edmundo de East Anglia, fallecido el 20 de noviembre de 869) fue rey de East Anglia desde aproximadamente el año 855 hasta su muerte.  \nSe conocen pocos hechos históricos sobre Edmundo, ya que East Anglia fue devastada por los vikingos, quienes destruyeron cualquier evidencia contemporánea de su reinado. Las monedas acuñadas por Edmundo indican que sucedió a Æthelweard de East Anglia, ya que compartían los mismos acuñadores. Se piensa que era de origen east angliano, pero escritores del siglo XII produjeron relatos ficticios sobre su familia, sucesión y su gobierno como rey. La muerte de Edmundo fue mencionada en la Crónica anglosajona, que relata que fue asesinado en 869 después de que el Gran Ejército Pagano avanzara hacia East Anglia. Las versiones medievales de la vida y martirio de Edmundo difieren en cuanto a si murió en batalla luchando contra el Gran Ejército Pagano, o si encontró la muerte tras ser capturado y luego negarse a la demanda de los líderes vikingos de renunciar a Cristo.  \nDespués de la muerte de Edmundo surgió un culto popular, y fue canonizado por la Iglesia. Se acuñó una serie de monedas en su conmemoración desde aproximadamente la época en que East Anglia fue absorbida por el reino de Wessex en 918, y alrededor del año 986, el monje francés Abbo de Fleury...",
+  "biography_pl": "Edmund Męczennik (znany również jako św. Edmund lub Edmund z East Anglia, zmarł 20 listopada 869) był królem East Anglii od około 855 roku aż do swojej śmierci.  \nNiewiele wiadomo o faktach historycznych dotyczących Edmunda, ponieważ East Anglia została zniszczona przez Wikingów, którzy zniszczyli wszelkie współczesne dowody jego panowania. Monety bite przez Edmunda wskazują, że objął tron po Æthelweardzie z East Anglii, gdyż obaj korzystali z usług tych samych mennictw. Uważa się, że pochodził z East Anglii, jednak pisarze z XII wieku stworzyli fikcyjne opowieści o jego rodzinie, sukcesji i panowaniu jako króla. Śmierć Edmunda została wspomniana w Kronice anglosaskiej, która relacjonuje, że został zabity w 869 roku po tym, jak Wielka Armia Pogańska wkroczyła do East Anglii. Średniowieczne wersje życia i męczeństwa Edmunda różnią się co do tego, czy zginął w bitwie walcząc z Wielką Armią Pogańską, czy też poniósł śmierć po schwytaniu i odmowie przywódców wikingów, którzy żądali, by wyrzekł się Chrystusa.  \nPo śmierci Edmunda rozwinął się popularny kult, a Kościół kanonizował go. Seria monet upamiętniających go była bita od czasu, gdy East Anglia została włączona do królestwa Wesseksu w 918 roku, a około 986 roku francuski mnich Abbo z Fleury..."
+}

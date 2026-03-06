@@ -1,0 +1,79 @@
+{
+  "id": "11-01_saint_caesarius",
+  "name": "Saint Caesarius",
+  "mmdd": "11-01",
+  "feast": "The First Day of November",
+  "summary": "Saint Caesarius of Terracina was a Christian martyr. The church of San Cesareo in Palatio in Rome bears his name. He is venerated as a saint in the Eastern Orthodox Church and Roman Catholic Church, with a feast day on 1 November.",
+  "biography": "Life\nCaesarius was a deacon of Africa, martyred at Terracina in Italy.\nThe \"Passio\" (story of martyrdom) of Saint Caesarius is set in Terracina, harbor town near Rome and Naples, under the pagan emperor Trajan (r. 98–117).\nCaesarius, belonging to the ancient and illustrious gens Julia, after a shipwreck, arrived in Terracina to preach the Gospel to poor people. In this Roman city, each year on the first day of January, a ceremony of self-immolation took place to assure the health and salvation of the Empire. A young man was pampered with material delights and fulfilled in all his wishes for eight months; then he was obliged to mount on a richly harnessed horse, climb up to the summit of city's cliff and throw himself into the void, with the recalcitrant horse, to crash against the rocks and perish in the waves in honour of the god Apollo, as a propitiatory offering for the prosperity of the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caesarius_of_Terracina",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-01_saint_caesarius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7996c1e3fd5b340343e2a5637e1c2fa3f888b0c1a6552cff9e684f6aca7f888a",
+        "langs": {
+          "es": {
+            "translatedHash": "fd5f57977c20a5a8b74ee7c8b3f649ca93e930ffbeccb614f350bbcfbdc2be05",
+            "updatedAt": "2026-02-25T00:59:58.229Z"
+          },
+          "pl": {
+            "translatedHash": "7db3755e3513624d42dde06eb1abbc91c2bcc31865eab4625c391cf56815dd23",
+            "updatedAt": "2026-02-25T00:59:58.804Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e991bd093212abe26868ced6046329366c3e9a543f65cdc2155264f2d5fac81c",
+        "langs": {
+          "es": {
+            "translatedHash": "e3d6ecf4bfcf62e7bc0ed0b6b610b77c3c875cef7a06ad8109b426436d2594cf",
+            "updatedAt": "2026-02-25T00:59:59.396Z"
+          },
+          "pl": {
+            "translatedHash": "a6601d89417eeebcf47d1e98b3ba4d0ad56d1e120ee915e89c4c2c000281f144",
+            "updatedAt": "2026-02-25T00:59:59.968Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f6feeaf9d128f72c0908e6ff5d906e1ba2bf97382921d280559136549c4d5a25",
+        "langs": {
+          "es": {
+            "translatedHash": "547a6619752aa0cc70a8f36ba8146a4a5169afac26bb2a7ca5b7add9a1f351fa",
+            "updatedAt": "2026-02-25T01:00:01.407Z"
+          },
+          "pl": {
+            "translatedHash": "c9cbac566b030a9ea4198ce79475b50591478a577551b4c3e7fc4269cb306cf2",
+            "updatedAt": "2026-02-25T01:00:03.747Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c3985ae1bb1c4a22889a83c465653505c8406f01007cd06253fbc785305b8e0f",
+        "langs": {
+          "es": {
+            "translatedHash": "8be9aa527c97e166170d97390c357b951bfc79ba6d02ad4a24ff5ea9668bb7f3",
+            "updatedAt": "2026-02-25T01:00:07.798Z"
+          },
+          "pl": {
+            "translatedHash": "72a90e6b8dcad0291ca22c8555bae893b11b757e042356bac624cc8aefa3df5a",
+            "updatedAt": "2026-02-25T01:00:14.041Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cesáreo",
+  "name_pl": "Święty Cezary",
+  "feast_es": "El Primero de Noviembre",
+  "feast_pl": "Pierwszy dzień listopada",
+  "summary_es": "San Cesáreo de Terracina fue un mártir cristiano. La iglesia de San Cesáreo en Palatio en Roma lleva su nombre. Es venerado como santo en la Iglesia Ortodoxa Oriental y en la Iglesia Católica Romana, con una fiesta el 1 de noviembre.",
+  "summary_pl": "Święty Cezary z Terraciny był chrześcijańskim męczennikiem. Kościół San Cesareo in Palatio w Rzymie nosi jego imię. Jest czczony jako święty w Kościele Wschodnim oraz Kościele rzymskokatolickim, a jego wspomnienie przypada na 1 listopada.",
+  "biography_es": "Vida  \nCesariano fue un diácono de África, martirizado en Terracina, Italia.  \nLa \"Passio\" (relato del martirio) de San Cesariano se sitúa en Terracina, ciudad portuaria cerca de Roma y Nápoles, bajo el emperador pagano Trajano (r. 98–117).  \nCesariano, perteneciente a la antigua e ilustre gens Julia, tras un naufragio, llegó a Terracina para predicar el Evangelio a los pobres. En esta ciudad romana, cada año, el primer día de enero, se celebraba una ceremonia de auto-inmolación para asegurar la salud y salvación del Imperio. Un joven era consentido con deleites materiales y se le cumplían todos sus deseos durante ocho meses; luego se le obligaba a montar un caballo ricamente enjaezado, subir hasta la cima del acantilado de la ciudad y arrojarse al vacío, junto con el caballo recalcitrante, para estrellarse contra las rocas y perecer en las olas en honor al dios Apolo, como una ofrenda propiciatoria para la prosperidad del...",
+  "biography_pl": "Życie  \nCezariusz był diakonem Afryki, męczennikiem w Terracinie we Włoszech.  \n„Passio” (opowieść o męczeństwie) św. Cezariusza rozgrywa się w Terracinie, porcie niedaleko Rzymu i Neapolu, za czasów pogańskiego cesarza Trajana (panowanie 98–117).  \nCezariusz, należący do starożytnego i znamienitego rodu Juliuszy, po rozbiciu statku przybył do Terraciny, aby głosić Ewangelię ubogim. W tym rzymskim mieście każdego roku, pierwszego stycznia, odbywała się ceremonia samospalenia, mająca zapewnić zdrowie i zbawienie Cesarstwa. Młody człowiek był rozpieszczany materialnymi przyjemnościami i spełniano wszystkie jego życzenia przez osiem miesięcy; potem musiał wsiąść na bogato okuty koń, wspiąć się na szczyt klifu miasta i rzucić się w przepaść wraz z nieposłusznym koniem, aby rozbić się o skały i zginąć w falach na cześć boga Apollina, jako ofiara przebłagalna za pomyślność..."
+}

@@ -1,0 +1,268 @@
+{
+  "id": "novena_to_the_holy_spirit",
+  "title": "Holy Spirit Novena - Powerful Pentecost Prayers",
+  "description": "The Holy Spirit Novena for the Seven Gifts is traditionally prayed leading up to Pentecost to celebrate the descent of the Holy Spirit upon Mary and the Apostles.",
+  "category": "Feast",
+  "tags": [
+    "Novena",
+    "Feast",
+    "Holy Spirit",
+    "Novena to the Holy Spirit"
+  ],
+  "startRule": {
+    "type": "relative",
+    "anchor": "pentecost",
+    "offsetDays": -10
+  },
+  "feastRule": {
+    "type": "anchor",
+    "anchor": "pentecost"
+  },
+  "source": {
+    "url": "https://www.fisheaters.com/novenas.html",
+    "pageUrl": "https://www.fisheaters.com/novenas.html#holyghost"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "Almighty and eternal God, Who hast vouchsafed to regenerate us by water and the Holy Ghost, and hast given us forgiveness of all our sins, vouchsafe to send forth from heaven upon us Thy sevenfold Spirit, the Spirit of Wisdom and Understanding, the Spirit of Counsel and Fortitude, the Spirit of Knowledge and Piety, and fill us with the Spirit of Holy Fear. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Dios omnipotente y eterno, que te has dignado regenerarnos por el agua y el Espíritu Santo, y nos has dado el perdón de todos nuestros pecados, digna-te enviar desde el cielo sobre nosotros Tu Espíritu septiforme, el Espíritu de Sabiduría y Entendimiento, el Espíritu de Consejo y Fortaleza, el Espíritu de Ciencia y Piedad, y llénanos con el Espíritu de Santo Temor. Amén.\nReza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Wszechmogący i wieczny Boże, który raczyłeś nas odrodzić przez wodę i Ducha Świętego, i udzieliłeś nam przebaczenia wszystkich grzechów naszych, racz zesłać z nieba na nas Twój siedmiokrotny Duch, Ducha Mądrości i Rozumu, Ducha Rady i Męstwa, Ducha Wiedzy i Pobożności, i napełnij nas Duchem Świętego Bojaźni. Amen.\nOdmów jedno Ojcze nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "Come, O blessed Spirit of Holy Fear, penetrate my inmost heart, that I may set Thee, my Lord and God, before my face forever; help me to shun all things that can offend Thee, and make me worthy to appear before the pure eyes of Thy Divine Majesty in heaven, where Thou livest and reignest in the unity of the ever Blessed Trinity, God world without end. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh bendito Espíritu del Santo Temor, penetra mi corazón más íntimo, para que pueda poner a Ti, mi Señor y Dios, delante de mi rostro para siempre; ayúdame a evitar todas las cosas que puedan ofenderte, y hazme digno de aparecer ante los ojos puros de Tu Divina Majestad en el cielo, donde vives y reinas en la unidad de la siempre Bendita Trinidad, Dios por los siglos de los siglos. Amén. Reza un Padre Nuestro, un Ave María y siete Gloria.",
+      "prayer_pl": "Przyjdź, o błogosławiony Duchu Świętego Lęku, przeniknij moje najgłębsze serce, abym mógł Cię, mój Panie i Boże, stawiać przed moim obliczem na wieki; pomóż mi unikać wszystkiego, co może Cię obrazić, i spraw, abym był godny stanąć przed czystymi oczami Twojej Boskiej Majestatu w niebie, gdzie żyjesz i królujesz w jedności wiecznie Błogosławionej Trójcy, Boga na wieki wieków. Amen. Odmów jedno Ojcze Nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "Come, O Blessed Spirit of Piety, possess my heart. Enkindle therein such a love for God, that I may find satisfaction only in His service, and for His sake lovingly submit to all legitimate authority. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu Bendito de Piedad, posee mi corazón. Enciende en él un amor tan grande por Dios, que solo encuentre satisfacción en Su servicio, y por Su amor me someta con cariño a toda autoridad legítima. Amén. Reza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Pójdź, o Błogosławiony Duchu Pobożności, opanuj moje serce. Rozpal w nim taką miłość do Boga, abym znajdował zadowolenie jedynie w Jego służbie, i dla Jego miłości chętnie poddawał się wszelkiej prawowitej władzy. Amen. Odmów jedno Ojcze nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "Come, O Blessed Spirit of Fortitude, uphold my soul in times of trouble and adversity, sustain my efforts after holiness, strengthen my weakness, give me courage against all the assaults of my enemies, that I may never be overcome and separated from Thee, my God and greatest Good. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu Bendito de la Fortaleza, sostiene mi alma en tiempos de tribulación y adversidad, sustenta mis esfuerzos hacia la santidad, fortalece mi debilidad, dame valor contra todos los ataques de mis enemigos, para que nunca sea vencido ni separado de Ti, mi Dios y bien supremo. Amén.\nReza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Przyjdź, o Błogosławiony Duchu Męstwa, podtrzymaj moją duszę w czasach trudności i przeciwności, wspieraj moje starania o świętość, umacniaj moją słabość, daj mi odwagę przeciw wszelkim atakom moich wrogów, abym nigdy nie został pokonany i oddzielony od Ciebie, mój Boże i Największe Dobro. Amen. Odmów jedno Ojcze Nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "Come, O Blessed Spirit of Knowledge, and grant that I may perceive the will of the Father; show me the nothingness of earthly things, that I may realize their vanity and use them only for Thy glory and my own salvation, looking ever beyond them to Thee, and Thy eternal rewards. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu Bendito de Sabiduría, y concédeme que pueda percibir la voluntad del Padre; muéstrame la nada de las cosas terrenales, para que pueda comprender su vanidad y usarlas solo para Tu gloria y mi propia salvación, mirando siempre más allá de ellas hacia Ti y Tus eternas recompensas. Amén.\nReza un Padre Nuestro, un Ave María y siete Gloria.",
+      "prayer_pl": "Przyjdź, o Błogosławiony Duchu Wiedzy, i spraw, abym poznał wolę Ojca; ukaż mi nicość rzeczy ziemskich, abym uświadomił sobie ich marność i używał ich tylko dla Twojej chwały i mojego zbawienia, zawsze patrząc poza nie ku Tobie i Twoim wiecznym nagrodom. Amen. Odmów jedno Ojcze Nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "Come, O Spirit of Understanding, and enlighten our minds, that we may know and believe all the mysteries of salvation; and may merit at last to see the eternal light in Thy light; and in the light of glory to have a clear vision of Thee and the Father and the Son. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu de Entendimiento, y ilumina nuestras mentes, para que podamos conocer y creer todos los misterios de la salvación; y merecer al fin ver la luz eterna en Tu luz; y en la luz de la gloria tener una visión clara de Ti y del Padre y del Hijo. Amén. Reza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Przyjdź, Duchu Rozumienia, i oświeć nasze umysły, abyśmy poznali i uwierzyli we wszystkie tajemnice zbawienia; i abyśmy zasłużyli w końcu ujrzeć światło wieczne w Twoim świetle; i w świetle chwały mieć jasne widzenie Ciebie oraz Ojca i Syna. Amen. Odmów jedno Ojcze Nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "Come, O Spirit of Counsel, help and guide me in all my ways, that I may always do Thy holy will. Incline my heart to that which is good; turn it away from all that is evil, and direct me by the straight path of Thy commandments to that goal of eternal life for which I long. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu de Consejo, ayúdame y guíame en todos mis caminos, para que siempre haga Tu santa voluntad. Inclina mi corazón hacia lo que es bueno; apártalo de todo lo que es malo, y dirígeme por el camino recto de Tus mandamientos hacia esa meta de vida eterna por la que anhelo. Amén. Reza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Pójdź, Duchu Rady, pomóż mi i prowadź mnie na wszystkich moich drogach, abym zawsze spełniał Twoją świętą wolę. Skłoń moje serce ku temu, co dobre; odwróć je od wszelkiego zła i prowadź mnie prostą drogą Twoich przykazań do celu życia wiecznego, za którym tęsknię. Amen. Odmów jedno Ojcze Nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "Come, O Spirit of Wisdom, and reveal to my soul the mysteries of heavenly things, their exceeding greatness, power and beauty. Teach me to love them above and beyond all passing joys and satisfactions of the earth. Help me to attain them and possess them for ever. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu de Sabiduría, y revela a mi alma los misterios de las cosas celestiales, su gran excelencia, poder y belleza. Enséñame a amarlas por encima y más allá de todos los gozos y satisfacciones pasajeras de la tierra. Ayúdame a alcanzarlas y poseerlas para siempre. Amén. Reza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Przyjdź, Duchu Mądrości, i objaw mojej duszy tajemnice rzeczy niebieskich, ich ogromną wielkość, moc i piękno. Naucz mnie kochać je ponad wszelkie przemijające radości i zadowolenia ziemi. Pomóż mi je osiągnąć i posiadać na wieki. Amen.\nOdmów jedno Ojcze Nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "Come, O Divine Spirit, fill my heart with Thy heavenly fruits, Thy charity, joy, peace, patience, benignity, goodness, faith, mildness, and temperance, that I may never weary in the service of God, but by continued faithful submission to Thy inspiration, may merit to be united eternally with Thee in the love of the Father and the Son. Amen. Recite one Our Father, one Hail Mary, and seven Glory Be's",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "Ven, oh Espíritu Divino, llena mi corazón con Tus frutos celestiales, Tu caridad, alegría, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza, para que nunca me canse en el servicio de Dios, sino que por continua y fiel sumisión a Tu inspiración, merezca ser unido eternamente Contigo en el amor del Padre y del Hijo. Amén. Reza un Padre Nuestro, un Ave María y siete Glorias.",
+      "prayer_pl": "Przyjdź, o Boski Duchu, napełnij moje serce swoimi niebiańskimi owocami, swoją miłością, radością, pokojem, cierpliwością, łagodnością, dobrocią, wiarą, łagodnością i wstrzemięźliwością, abym nigdy nie znużył się w służbie Bogu, lecz przez nieustanne wierne poddanie się Twojej inspiracji, zasłużył na wieczne zjednoczenie z Tobą w miłości Ojca i Syna. Amen. Odmów jedno Ojcze nasz, jedno Zdrowaś Maryjo i siedem Chwała Ojcu"
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/novena_to_the_holy_spirit.gif",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "25e7b702071235acc50a55176bb6694d5c0b4eac09e47eeef8c9b00b5af3a2d9",
+        "langs": {
+          "es": {
+            "translatedHash": "0ca2041c70449394d803ff57c5f7af7ffe89619baaeaa03e15c27d6e35e02381",
+            "updatedAt": "2026-02-25T07:05:38.530Z"
+          },
+          "pl": {
+            "translatedHash": "f8e0a0c42abd462d6149b07713d0746d9ae4aa696c86498cc957d0625bcd7912",
+            "updatedAt": "2026-02-25T07:05:39.374Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "053cb92b272c1726e474d9731bc9534ca5ea7336e8651f64d910d2772d4190f4",
+        "langs": {
+          "es": {
+            "translatedHash": "f4e638f7a424340bd6d609429094aa3536db2787f86009b2a704f9f7e4a45eee",
+            "updatedAt": "2026-02-25T07:05:40.519Z"
+          },
+          "pl": {
+            "translatedHash": "a77c46b54e5ec49471ea54c3638cab4b0380975b40a55743bc86f7a11e330681",
+            "updatedAt": "2026-02-25T07:05:41.617Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "d4e1186d90327ab277858283fee7105d6fd0e16b23ca85fadc8d67dcd6541203",
+        "langs": {
+          "es": {
+            "translatedHash": "f8e93d11a507efa954e2cc3ceafd3553388ae3ea2a205743c1841779a3373381",
+            "updatedAt": "2026-02-25T07:05:43.901Z"
+          },
+          "pl": {
+            "translatedHash": "c2bfa8588a9e15e6240d83cd7bf5254d39d1f9f47737367feb06322895cb142b",
+            "updatedAt": "2026-02-25T07:05:46.221Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "e337dcf87dfa23ebbee94e22b4f12c93d17bbdc1df0a8b31344b43b4cf537777",
+        "langs": {
+          "es": {
+            "translatedHash": "635400ff34540a6dd740bf6c7265535a885c7f721204bf2c31011190659d1aed",
+            "updatedAt": "2026-02-25T07:05:48.350Z"
+          },
+          "pl": {
+            "translatedHash": "e0bfa7c7aa177e7c1b413e43ded71963530cd004b3122323bcdad32570a1f528",
+            "updatedAt": "2026-02-25T07:05:51.390Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "7b827e31073387ed16178d8bd26177056cc287c6bd18acdf5f6d92db2aa6c9bc",
+        "langs": {
+          "es": {
+            "translatedHash": "fcec094058adba5d6097b0cfe283db24762279f9ce9eeb5fec66e154dea62aa0",
+            "updatedAt": "2026-02-25T07:05:52.972Z"
+          },
+          "pl": {
+            "translatedHash": "57240bb19536ed71e7d40e58d74f7bbce11c2c0dca3a4b17f4a340f0a5ca6f83",
+            "updatedAt": "2026-02-25T07:05:54.922Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "9fae10427b0903991941fbdca813a8364a749991ab8cc31b62f363cd912e3493",
+        "langs": {
+          "es": {
+            "translatedHash": "b10f5177582bbafed1ad06911448581020168aca218cf7ca54e3d77242b6c849",
+            "updatedAt": "2026-02-25T07:05:57.363Z"
+          },
+          "pl": {
+            "translatedHash": "6df1515b1cfa476fd221a6f5eda6994511a5339c8826dc9bc6db80fadf629726",
+            "updatedAt": "2026-02-25T07:05:59.759Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "426b3f18b6b7fb0700f48fb08cb35382454a179f30500ab88058231caea88416",
+        "langs": {
+          "es": {
+            "translatedHash": "988acbb8e0777ffbb16a4139ed3deaca6d1b5abbb3b7dc1ae7c3ff243d859bab",
+            "updatedAt": "2026-02-25T07:06:01.754Z"
+          },
+          "pl": {
+            "translatedHash": "7d22c014a5e3d7126e69fdf11cf11d658e22e29d5536b8fab98e0c222432d801",
+            "updatedAt": "2026-02-25T07:06:03.934Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "97ea5f5173a3c2a2108c5e5b9a11e41c7329d9e4e95711964a8ed3966fc690fd",
+        "langs": {
+          "es": {
+            "translatedHash": "60f8cd02f39ba431a58fc01befe074badf3ecbbf7e1b3316acc0ef603e01b1b0",
+            "updatedAt": "2026-02-25T07:06:05.525Z"
+          },
+          "pl": {
+            "translatedHash": "6320ceed34d500b85e01cb5c8b611e79456ce16b69a8ca13568fad61efac5f1f",
+            "updatedAt": "2026-02-25T07:06:07.742Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "c35b6e8917170076aa275ba84f799aea9239779a0114fd7a4c86e1736b9e4b7c",
+        "langs": {
+          "es": {
+            "translatedHash": "9a330b5ad23328be4880ce852721ccdf1a4f5ca4b20cd6d7ca5ccc94f6016fd5",
+            "updatedAt": "2026-02-25T07:06:09.631Z"
+          },
+          "pl": {
+            "translatedHash": "2eeed4e7ec1d7084c08fb20f8ded649da3162c6226308d3a4bb482fec028a952",
+            "updatedAt": "2026-02-25T07:06:13.127Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "9a10fbb341a73e44129949d9e40b4056d90bd38ff964ab3b66a572f936c7455c",
+        "langs": {
+          "es": {
+            "translatedHash": "c49f777fd6e3eeb24f7afc8d53577755bdc0097045be7ed1aa505465a132e7fe",
+            "updatedAt": "2026-02-25T07:06:15.830Z"
+          },
+          "pl": {
+            "translatedHash": "1811a7f6aa31c40e23f8d8c0f51b6d35f8932516fd08298fb24eaec4233f658f",
+            "updatedAt": "2026-02-25T07:06:19.349Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "841825ac5bafa4965ac3eb1eac63fa16f0ba4c3ad6aa5357eff1d1aaa8c2905f",
+        "langs": {
+          "es": {
+            "translatedHash": "8e0c7e581fbb13b0618e7d2d1258bc1a489a31b6f2bab427f68aa80909adefb5",
+            "updatedAt": "2026-02-25T07:06:21.703Z"
+          },
+          "pl": {
+            "translatedHash": "6f66f62a84d3bc872b011f1d71815d46b3ed48e9e4d2e1b840f360c969407017",
+            "updatedAt": "2026-02-25T07:06:24.912Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena al Espíritu Santo - Poderosas Oraciones de Pentecostés",
+  "title_pl": "Nowenna do Ducha Świętego – Potężne modlitwy na Zesłanie Ducha Świętego",
+  "description_es": "La Novena al Espíritu Santo por los Siete Dones se reza tradicionalmente en los días previos a Pentecostés para celebrar la venida del Espíritu Santo sobre María y los Apóstoles.",
+  "description_pl": "Nowenna do Ducha Świętego o Siedem Darów jest tradycyjnie odmawiana w okresie poprzedzającym Zesłanie Ducha Świętego, aby uczcić zesłanie Ducha Świętego na Maryję i Apostołów.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/most-powerful-novena-prayers/",
+    "https://novenaprayer.com/novena-to-the-holy-spirit/"
+  ]
+}

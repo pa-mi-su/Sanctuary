@@ -1,0 +1,48 @@
+{
+  "id": "04-30_saint_pius_v_pope_optional_memorial",
+  "name": "Saint Pius V, Pope—Optional Memorial",
+  "mmdd": "04-30",
+  "feast": "The Thirtieth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-30_saint_pius_v_pope_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2e2b46072d5c7fe8cb43b8335969da770301978a75b306098b1eab79d67f89d7",
+        "langs": {
+          "es": {
+            "translatedHash": "99adaf1a9a7eeaf0b9972bea3dd6cbd3586ead8154c8812e816bfb7d618091d9",
+            "updatedAt": "2026-02-24T23:17:44.815Z"
+          },
+          "pl": {
+            "translatedHash": "127b30f403bfaee3b8fecf7e785e1b8cfd7812fc97448d58fc1ea9c005910881",
+            "updatedAt": "2026-02-24T23:17:45.536Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "622d48d2ad43d6df7b3a28552957aea7c1b9422d3373cfa30004e6845f4ab378",
+        "langs": {
+          "es": {
+            "translatedHash": "4b64792046159c91dcfea7ccc3384930a45e51a210dca2607c16ad4c90d8e967",
+            "updatedAt": "2026-02-24T23:17:46.156Z"
+          },
+          "pl": {
+            "translatedHash": "5752a2c5e1ec0189764a8adfd02266e0feb7d1905e6e34131c06d5d661cc7e3b",
+            "updatedAt": "2026-02-24T23:17:46.913Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pío V, Papa—Memoria Opcional",
+  "name_pl": "Święty Pius V, papież — wspomnienie dowolne",
+  "feast_es": "El Trigésimo Día de Abril",
+  "feast_pl": "Trzydziesty dzień kwietnia"
+}

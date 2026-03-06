@@ -1,0 +1,79 @@
+{
+  "id": "12-18_saint_polycarp",
+  "name": "Saint Polycarp",
+  "mmdd": "12-18",
+  "feast": "The Eighteenth Day of December",
+  "summary": "Polycarp was a Christian bishop of Smyrna. According to the Martyrdom of Polycarp, he died a martyr, bound and burned at the stake, then stabbed when the fire failed to consume his body. Polycarp is regarded as a saint and Church Father in the Eastern Orthodox Church, the Catholic Church, Oriental Orthodox Churches, Lutheranism, and Anglicanism.",
+  "biography": "Surviving writings and early accounts\nThe sole surviving work attributed to him is the Epistle of Polycarp to the Philippians, a mosaic of references to the Septuagint, which, along with an account of the Martyrdom of Polycarp, forms part of the collection of writings called Apostolic Fathers. After the Acts of the Apostles, which describes the death of Stephen, the Martyrdom is considered one of the earliest...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycarp",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-18_saint_polycarp.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bc07a9c78470ba5ac6c7d30627bf9ecd6c3edc2488c3fccf6e3874b4cb3f8049",
+        "langs": {
+          "es": {
+            "translatedHash": "f157a2ce98810013ded5cc839372b9088be6ac8224c03678529c86dc03ea8e4d",
+            "updatedAt": "2026-02-25T01:29:09.565Z"
+          },
+          "pl": {
+            "translatedHash": "75c7b232bb905c26aad7edcaaaa21ff8561ce4c92713e94e4b7580772bfa002a",
+            "updatedAt": "2026-02-25T01:29:10.373Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "450a34a38c1f080b3e09c4e2ce2de603bb2096224fe5f4494093655ac899728e",
+        "langs": {
+          "es": {
+            "translatedHash": "259759b09b2fe201ee9bea259276b76329d691c31f179fbec5899a132730e68f",
+            "updatedAt": "2026-02-25T01:29:12.000Z"
+          },
+          "pl": {
+            "translatedHash": "64ac3d6fa98b8c69c1272eae0d1be4ee1194fda61d973ec4b3a6a22b95c79018",
+            "updatedAt": "2026-02-25T01:29:12.622Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ef25c8fdff68b13c6cff9885d73c932f0fb8b77126d1326c6ccc9dd34d169165",
+        "langs": {
+          "es": {
+            "translatedHash": "2901595ae39d227495f7266641c552e07b577b4f8d49a0da9d55b1b503824d25",
+            "updatedAt": "2026-02-25T01:29:15.262Z"
+          },
+          "pl": {
+            "translatedHash": "608e6b86fa72b8c10921a4255065f8c2ec2675d6ce133e19a24a903977226078",
+            "updatedAt": "2026-02-25T01:29:17.954Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d3fdb70c6eea6f97cbbc2227db12ebc38b0c814d51b5592f7e6f4299b47eddfa",
+        "langs": {
+          "es": {
+            "translatedHash": "e9a189414f200a6a3998f9d2f0c567483badc2438f1ec468fddd9d131c4eb701",
+            "updatedAt": "2026-02-25T01:29:20.052Z"
+          },
+          "pl": {
+            "translatedHash": "7cbea1effcd2c078476c4e349ba5bb134ce64e73d0860139f6959bb7a9c6e4be",
+            "updatedAt": "2026-02-25T01:29:24.697Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Policarpo",
+  "name_pl": "Święty Polikarp",
+  "feast_es": "El día dieciocho de diciembre",
+  "feast_pl": "Osiemnasty dzień grudnia",
+  "summary_es": "Policarpo fue un obispo cristiano de Esmirna. Según el Martirio de Policarpo, murió como mártir, atado y quemado en la hoguera, y luego apuñalado cuando el fuego no consumió su cuerpo. Policarpo es considerado santo y Padre de la Iglesia en la Iglesia Ortodoxa Oriental, la Iglesia Católica, las Iglesias Ortodoxas Orientales, el luteranismo y el anglicanismo.",
+  "summary_pl": "Polikarp był chrześcijańskim biskupem Smyrny. Według Męczeństwa Polikarpa, zginął jako męczennik, związany i spalony na stosie, a następnie dźgnięty, gdy ogień nie spalił jego ciała. Polikarp jest uważany za świętego i Ojca Kościoła w Kościele prawosławnym, Kościele katolickim, Kościołach orientalnych, luteranizmie oraz anglikanizmie.",
+  "biography_es": "Escritos supervivientes y relatos tempranos  \nLa única obra superviviente atribuida a él es la Epístola de Policarpo a los Filipenses, un mosaico de referencias a la Septuaginta que, junto con un relato del Martirio de Policarpo, forma parte de la colección de escritos llamada Padres Apostólicos. Después de los Hechos de los Apóstoles, que describe la muerte de Esteban, el Martirio es considerado uno de los primeros...",
+  "biography_pl": "Zachowane pisma i wczesne relacje  \nJedynym zachowanym dziełem przypisywanym mu jest List Polikarpa do Filipian, mozaika odniesień do Septuaginty, który wraz z relacją o Męczeństwie Polikarpa stanowi część zbioru pism nazywanych Ojców Apostolskich. Po Dziejach Apostolskich, które opisują śmierć Szczepana, Męczeństwo jest uważane za jedno z najwcześniejszych..."
+}

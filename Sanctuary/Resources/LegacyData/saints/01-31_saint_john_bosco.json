@@ -1,0 +1,79 @@
+{
+  "id": "01-31_saint_john_bosco",
+  "name": "Saint John Bosco",
+  "mmdd": "01-31",
+  "feast": "The Thirty-First Day of January",
+  "summary": "John Melchior Bosco, SDB, popularly known as Don Bosco, was an Italian Catholic priest, educator and writer. While working in Turin, where the population suffered many of the ill effects of industrialization and urbanization, he dedicated his life to the betterment and education of street children, juvenile delinquents, and other disadvantaged youth. He developed teaching methods based on love rather than punishment, a method that became known as the Salesian Preventive System.",
+  "biography": "John Melchior Bosco, SDB (Italian: Giovanni Melchiorre Bosco; Piedmontese: Gioann Melchior Bòsch; 16 August 1815 – 31 January 1888), popularly known as Don Bosco (IPA: [ˈdɔm ˈbɔsko, bo-]), was an Italian Catholic priest, educator and writer. While working in Turin, where the population suffered many of the ill effects of industrialization and urbanization, he dedicated his life to the betterment and education of street children, juvenile delinquents, and other disadvantaged youth. He developed teaching methods based on love rather than punishment, a method that became known as the Salesian Preventive System. A follower of the spirituality and philosophy of Francis de Sales, Bosco was an ardent devotee of the Virgin Mary under the title Mary Help of Christians. He later dedicated his works to de Sales when he founded the Salesians of Don Bosco, based in Turin. Together with Maria Domenica Mazzarello, he founded the Institute of the Daughters of Mary Help of Christians, now commonly known as the Salesian Sisters of Don Bosco, a religious congregation of nuns dedicated to the care and education of poor girls. He taught Dominic Savio, of whom he wrote a biography that helped the young boy...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Bosco",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-31_saint_john_bosco.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eda1fbcbb2f2da2d452ba105439f5e32d36f13ee9524cb91101cb8ed09b120ce",
+        "langs": {
+          "es": {
+            "translatedHash": "c936254e31c46a7ceab5ebd2251acf67e63c323b8b85158eddbcf388caa0aaaf",
+            "updatedAt": "2026-02-24T22:25:53.312Z"
+          },
+          "pl": {
+            "translatedHash": "852e594e32af54b7ddad2bd51825023d13c6a0af68c55716628bbc225d7ea62a",
+            "updatedAt": "2026-02-24T22:25:53.894Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8b84cf42c88740fee77b58a5fa563e5fdc6d8ae431b626f9606eac80a364a480",
+        "langs": {
+          "es": {
+            "translatedHash": "aaadffb069fb1a5c529d5c45b3271a1c8ab71560534cdb61764195f450285c2a",
+            "updatedAt": "2026-02-24T22:25:54.701Z"
+          },
+          "pl": {
+            "translatedHash": "d609216b1a9b8485dd0cfe197d892baf9ad1f4e8ed7f6a3ee9cc82a48d7d6227",
+            "updatedAt": "2026-02-24T22:25:55.513Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "70874af1938552aaeb743e2dffd8b52d7e8e6cd9df8ed6a63ac8b94b1d942d1a",
+        "langs": {
+          "es": {
+            "translatedHash": "d52fe66c9dd8d2ed47df86d93f7202f8fb5278a54bb7a25e6a95e6ca117f3d15",
+            "updatedAt": "2026-02-24T22:26:01.147Z"
+          },
+          "pl": {
+            "translatedHash": "05eefde035e612eed40a1b97441a7961ba7ac4510453d8be84629f7b7122f0a0",
+            "updatedAt": "2026-02-24T22:26:04.144Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "447081b436afe2c76f0d72da89325761e0709e94b987a7e7e5b5d76ecff915be",
+        "langs": {
+          "es": {
+            "translatedHash": "2a40cf5b08813f78080706386adfa648ef100655adf4a1f3c453091f6b87885a",
+            "updatedAt": "2026-02-24T22:26:13.284Z"
+          },
+          "pl": {
+            "translatedHash": "3bb15a52ca3c7b948c3d89406b8cf3701cbb6d932bbc98e11903adf8d0e7101e",
+            "updatedAt": "2026-02-24T22:26:23.793Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bosco",
+  "name_pl": "Święty Jan Bosko",
+  "feast_es": "El treinta y uno de enero",
+  "feast_pl": "Trzydziesty pierwszy dzień stycznia",
+  "summary_es": "Juan Melchor Bosco, SDB, conocido popularmente como Don Bosco, fue un sacerdote católico italiano, educador y escritor. Mientras trabajaba en Turín, donde la población sufría muchos de los efectos negativos de la industrialización y la urbanización, dedicó su vida a la mejora y educación de niños de la calle, delincuentes juveniles y otros jóvenes desfavorecidos. Desarrolló métodos de enseñanza basados en el amor en lugar del castigo, un método que llegó a conocerse como el Sistema Preventivo Salesiano.",
+  "summary_pl": "Jan Melchior Bosco, SDB, powszechnie znany jako Don Bosco, był włoskim księdzem katolickim, wychowawcą i pisarzem. Pracując w Turynie, gdzie ludność cierpiała z powodu wielu negatywnych skutków industrializacji i urbanizacji, poświęcił swoje życie poprawie losu i edukacji dzieci ulicy, młodocianych przestępców oraz innych młodych ludzi w trudnej sytuacji. Opracował metody nauczania oparte na miłości, a nie na karze, metoda ta stała się znana jako Salezjański System Prewencyjny.",
+  "biography_es": "Juan Melchor Bosco, SDB (italiano: Giovanni Melchiorre Bosco; piamontés: Gioann Melchior Bòsch; 16 de agosto de 1815 – 31 de enero de 1888), conocido popularmente como Don Bosco (IPA: [ˈdɔm ˈbɔsko, bo-]), fue un sacerdote católico italiano, educador y escritor. Mientras trabajaba en Turín, donde la población sufría muchos de los efectos negativos de la industrialización y la urbanización, dedicó su vida a la mejora y educación de niños de la calle, delincuentes juveniles y otros jóvenes desfavorecidos. Desarrolló métodos de enseñanza basados en el amor en lugar del castigo, un método que se conoció como el Sistema Preventivo Salesiano. Seguidor de la espiritualidad y filosofía de Francisco de Sales, Bosco fue un ferviente devoto de la Virgen María bajo el título de María Auxiliadora. Más tarde dedicó sus obras a de Sales cuando fundó los Salesianos de Don Bosco, con sede en Turín. Junto con María Doménica Mazzarello, fundó el Instituto de las Hijas de María Auxiliadora, ahora comúnmente conocidas como las Hermanas Salesianas de Don Bosco, una congregación religiosa de monjas dedicadas al cuidado y educación de niñas pobres. Enseñó a Domingo Savio, de quien escribió una biografía que ayudó al joven...",
+  "biography_pl": "Jan Melchior Bosco, SDB (włoski: Giovanni Melchiorre Bosco; piemonteski: Gioann Melchior Bòsch; 16 sierpnia 1815 – 31 stycznia 1888), powszechnie znany jako Don Bosco (IPA: [ˈdɔm ˈbɔsko, bo-]), był włoskim księdzem katolickim, wychowawcą i pisarzem. Pracując w Turynie, gdzie ludność cierpiała z powodu wielu negatywnych skutków industrializacji i urbanizacji, poświęcił swoje życie poprawie losu i edukacji dzieci ulicy, młodocianych przestępców oraz innych młodych ludzi znajdujących się w trudnej sytuacji. Opracował metody nauczania oparte na miłości, a nie na karze, metoda ta stała się znana jako Salezjański System Prewencyjny. Będąc naśladowcą duchowości i filozofii Franciszka Salezego, Bosco był gorliwym czcicielem Najświętszej Maryi Panny pod tytułem Maryja Wspomożycielka Chrześcijan. Później poświęcił swoje dzieła Salezjuszowi, zakładając zgromadzenie Salezjanów Księdza Bosko, mające siedzibę w Turynie. Razem z Marią Domenicą Mazzarello założył Instytut Córek Maryi Wspomożycielki Chrześcijan, obecnie powszechnie znany jako Salezjańskie Siostry Księdza Bosko, zgromadzenie zakonne sióstr poświęcone opiece i wychowaniu biednych dziewcząt. Uczył Dominika Savio, o którym napisał biografię, która pomogła młodemu chłopcu..."
+}

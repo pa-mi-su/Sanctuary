@@ -1,0 +1,269 @@
+{
+  "id": "st_juan_diego",
+  "title": "St Juan Diego Novena",
+  "description": "St Juan Diego was a Chichimec native peasant to whom Our Lady of Guadalupe appeared and worked miracles. Pray this novena for all indigenous people of the Americas.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Juan Diego"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 30
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 9
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-juan-diego-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ruega por mí mientras recuerdo las palabras consoladoras que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te aflijas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu completa fe en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó en tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus impulsos maternales, especialmente te pido (mencionar petición aquí…).\nPor esa sencilla confianza, obediencia y amor, que un día pueda unirme a ti para compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy wspominam pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przestraszyć ani zasmucić. Niech Twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani cierpienia. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Matka pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej, i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj...) Przez taką prostą ufność, posłuszeństwo i miłość, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Swojego Syna. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Juan Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ruega por mí mientras recuerdo las palabras consoladoras que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más quieres? No te aflijas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu completa fe en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó sobre tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus maternales impulsos, especialmente te pido (mencionar la petición aquí…).\nPor esa simple confianza, obediencia y amor, que un día pueda unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy przypominam sobie pocieszające słowa, które Matka Boża z Guadalupe skierowała do ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno cię przestraszyć ani zasmucić. Niech twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani udręki. Czyż nie jestem tutaj, która jest twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Dziewica pozostawiła na twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki tak prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna Swego. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Juanie Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ruega por mí mientras recuerdo las palabras reconfortantes que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu fe completa en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó sobre tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus maternales inspiraciones, especialmente te pido (mencionar petición aquí…).\nPor medio de esa simple confianza, obediencia y amor, que un día pueda unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy wspominam pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przestraszyć ani zasmucić. Niech Twoje serce nie będzie wzburzone. Nie bój się żadnej choroby ani cierpienia. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie niepokój z żadnego powodu. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Matka pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki tak prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętemu św. Juanie Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ora por mí mientras recuerdo las palabras reconfortantes que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu fe completa en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó sobre tu tilma. Intercede por mí, te ruego, para que tenga tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus llamados maternales, especialmente te pido (mencionar petición aquí…).\nPor medio de tal simple confianza, obediencia y amor, que un día pueda unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy wspominam pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przestraszyć ani zasmucić. Niech Twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani udręki. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Dziewica pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki tak prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna Swego. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Juanie Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ora por mí mientras recuerdo las palabras consoladoras que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu completa fe en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó en tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus impulsos maternales, especialmente te pido (mencionar petición aquí…).\nPor medio de tal simple confianza, obediencia y amor, que un día pueda unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy wspominam pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przestraszyć ani zasmucić. Niech Twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani cierpienia. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Matka pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki tak prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Św. Juanie Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ora por mí mientras recuerdo las palabras reconfortantes que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente dentro de mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu fe completa en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó sobre tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus impulsos maternales, especialmente te pido (mencionar la petición aquí…).\nPor medio de esa simple confianza, obediencia y amor, que un día pueda unirme a ti para compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy przypominam sobie pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno cię przerażać ani smucić. Niech twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani udręki. Czyż nie jestem tutaj, która jest twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Matka Boża pozostawiła na twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki takiej prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna Swego. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Juan Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ruega por mí mientras recuerdo las palabras reconfortantes que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu completa fe en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó sobre tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus impulsos maternales, especialmente te pido (mencionar petición aquí…).\nPor medio de tal simple confianza, obediencia y amor, que un día pueda unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy wspominam pocieszające słowa, które Matka Boża z Guadalupe skierowała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przestraszyć ani zasmucić. Niech Twoje serce nie będzie wzburzone. Nie bój się żadnej choroby ani cierpienia. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Matka pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki tak prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna Swego. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętemu Juanie Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ora por mí mientras recuerdo las palabras reconfortantes que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada.\nOh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu completa fe en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó sobre tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus maternales impulsos, especialmente te pido (mencionar petición aquí…).\nPor medio de tal simple confianza, obediencia y amor, que un día pueda unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy przypominam sobie pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przestraszyć ani zasmucić. Niech Twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani udręki. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją ochroną? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie bądź zaniepokojony niczym. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Dziewica pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej, i aby moje serce odpowiedziało na jej matczyne wezwania, szczególnie proszę o (tu wymień prośbę…). Dzięki takiej prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna Swego. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Juan Diego, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear St Juan Diego, pray for me as I recall the comforting words that Our Lady of Guadalupe spoke to you, Hear me and understand well, my littlest son, that nothing should frighten or grieve you. Let not your heart be disturbed. Do not fear any sickness or anguish. Am I not here, who is your Mother? Are you not under my protection? Am I not your health? Are you not happily within my mantle? What else do you wish? Do not grieve nor be disturbed by anything. O St. Juan Diego, Our Lady of Guadalupe chose you as her faithful messenger. You demonstrated your complete faith in her, and to this day it is visible in the miraculous image the Virgin left upon your tilma. Intercede for me, I pray, that I might have your childlike trust in the Mother of God, and that my heart might respond to her maternal promptings, especially I ask for (mention request here…) Through such simple confidence, obedience, and love, may I join you one day in sharing everlasting joy, where our heavenly Mother reigns in the glory of Her Son. Amen.\n\nOur Father Hail Mary Glory Be St Juan Diego, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido San Juan Diego, ora por mí mientras recuerdo las palabras reconfortantes que Nuestra Señora de Guadalupe te habló: Escúchame y entiende bien, mi hijito, que nada debe asustarte ni entristecerte. No dejes que tu corazón se turbe. No temas ninguna enfermedad ni angustia. ¿No estoy yo aquí, que soy tu Madre? ¿No estás bajo mi protección? ¿No soy yo tu salud? ¿No estás felizmente bajo mi manto? ¿Qué más deseas? No te entristezcas ni te turbes por nada. Oh San Juan Diego, Nuestra Señora de Guadalupe te eligió como su fiel mensajero. Demostraste tu completa fe en ella, y hasta hoy es visible en la imagen milagrosa que la Virgen dejó en tu tilma. Intercede por mí, te ruego, para que pueda tener tu confianza infantil en la Madre de Dios, y que mi corazón responda a sus llamados maternales, especialmente te pido (mencionar petición aquí…). A través de tal simple confianza, obediencia y amor, que pueda un día unirme a ti en compartir la alegría eterna, donde nuestra Madre celestial reina en la gloria de Su Hijo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Juan Diego, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi św. Juanie Diego, módl się za mnie, gdy wspominam pocieszające słowa, które Matka Boża z Guadalupe powiedziała do Ciebie: Słuchaj mnie i dobrze zrozum, mój najmniejszy synu, że nic nie powinno Cię przerażać ani smucić. Niech Twoje serce nie będzie poruszone. Nie bój się żadnej choroby ani udręki. Czyż nie jestem tutaj, która jest Twoją Matką? Czyż nie jesteś pod moją opieką? Czyż nie jestem Twoim zdrowiem? Czyż nie jesteś szczęśliwy pod moim płaszczem? Czego jeszcze pragniesz? Nie smuć się ani nie niepokój z żadnego powodu. O św. Juanie Diego, Matka Boża z Guadalupe wybrała Cię na swojego wiernego posłańca. Okazałeś jej całkowitą wiarę, a do dziś jest to widoczne na cudownym wizerunku, który Matka pozostawiła na Twojej tilma. Wstawiaj się za mną, proszę, abym mógł mieć Twoje dziecięce zaufanie do Matki Bożej i aby moje serce odpowiadało na jej matczyne wezwania, szczególnie proszę o (wymień prośbę tutaj…). Dzięki tak prostej ufności, posłuszeństwu i miłości, niech pewnego dnia dołączę do Ciebie w dzieleniu się wieczną radością, gdzie nasza niebieska Matka króluje w chwale Syna. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Juan Diego, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "November 30Feastday:December 9Birth:1474Death:1548Patron saint of indigenous people of the Americas 📱",
+    "feast": "December 9Birth:1474Death:1548Patron saint of indigenous people of the Americas 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_juan_diego.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "d0525755547c6df8c8ce5dedd68afa1e47d184ff9f6fedf2736290c88dd7d89a",
+        "langs": {
+          "es": {
+            "translatedHash": "2dadee7936b28f79453ef0ec9ab4a5f5b19a0ae4bda50d3eeca61a291c32a2b4",
+            "updatedAt": "2026-02-25T15:14:13.582Z"
+          },
+          "pl": {
+            "translatedHash": "9ae0d790880c701ca70df2a2da023bdcae2b0010c36e2b2c7ecf6247e09a8720",
+            "updatedAt": "2026-02-25T15:14:14.203Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "1ca2e4d28515ebc67e8db7fcb443a3d15fdac653f5a5d407586ba721a182268c",
+        "langs": {
+          "es": {
+            "translatedHash": "a17399921e9ae29dffbb154dfc16c68b79727a9cd75adce225726824db72dd77",
+            "updatedAt": "2026-02-25T15:14:15.197Z"
+          },
+          "pl": {
+            "translatedHash": "01eb8d1509c9025814fd669d649b12be91e4a8ad5d8b9e0cbfb7ba47edf1fc0a",
+            "updatedAt": "2026-02-25T15:14:16.412Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "ad9507fe06ccf6934423782ca062789e672c72700b87122f8127f70606c1b3a8",
+        "langs": {
+          "es": {
+            "translatedHash": "79d43e6865e4eb83d439df5874df381638185ba8a7486d78cb128ae37be949b4",
+            "updatedAt": "2026-02-25T15:14:23.590Z"
+          },
+          "pl": {
+            "translatedHash": "4790d7528cfe6d4ba4e83edfe99386856c881a80c8b025a9460d458eb1c8457a",
+            "updatedAt": "2026-02-25T15:14:30.496Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "9bec82acdc8fb2fc9d4a02dc0f9abeb0fbec984e40facc3daac0c1f1363cf388",
+        "langs": {
+          "es": {
+            "translatedHash": "f6566c6566390d7a864185bbcf33bd0e39be110ff589917b421b7897bb6acf78",
+            "updatedAt": "2026-02-25T15:14:37.537Z"
+          },
+          "pl": {
+            "translatedHash": "856a37f0f30ea4adbc4787e06e71e19bbe4e7790319ea765968041f158cf4612",
+            "updatedAt": "2026-02-25T15:14:45.614Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "cc769a3ca0fdb2382d1273acd6d4c8ba4673f6160917b9b5f8d8ab74d066550e",
+        "langs": {
+          "es": {
+            "translatedHash": "85f4f8c8ea907f98f33c23e196eaa68aff82577890cb026b5f8ff35873d42ad5",
+            "updatedAt": "2026-02-25T15:14:52.078Z"
+          },
+          "pl": {
+            "translatedHash": "da8eedbaf990f3ffc90bcdd79d923494b2937520122158b0b6fd1ac75515d1b4",
+            "updatedAt": "2026-02-25T15:14:58.926Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "9c4eb248a9b93672cce95e42e8fe3f424c00bb9ad6cd224d498580d6bb8d4f14",
+        "langs": {
+          "es": {
+            "translatedHash": "cd38f09bf818d6a6a42e55e7bd5a5ef2fe27be2f5338990e4c7a873c862ac578",
+            "updatedAt": "2026-02-25T15:15:03.330Z"
+          },
+          "pl": {
+            "translatedHash": "0ff0605ed62c12c6dfa327c31b2c462d1696c703cef77e9495c19506db02b560",
+            "updatedAt": "2026-02-25T15:15:11.522Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "05275bc9791b30cf3ee2979d98239664bf69cf4b9cb57c0a2e2af559daaf3944",
+        "langs": {
+          "es": {
+            "translatedHash": "dc25b223d50da54eb659d6d501e7670c4a18aec3413d8541729d95431b1c08d7",
+            "updatedAt": "2026-02-25T15:15:17.425Z"
+          },
+          "pl": {
+            "translatedHash": "ea6380726ce8144d5482e0689254df565334edd29a9b9002ce465792809cc8ad",
+            "updatedAt": "2026-02-25T15:15:25.270Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "c88ddd4af70a8212dd967c717c53cca01c269a985565586e70e49e5aece78d75",
+        "langs": {
+          "es": {
+            "translatedHash": "b0a97948204337949ab62e6642ccc2e4a5213a941fe0a125e0734a4266ee85db",
+            "updatedAt": "2026-02-25T15:15:29.760Z"
+          },
+          "pl": {
+            "translatedHash": "1de42cf443ac1d16bb0c28b2fb05173a37be8bdbacf6d8ed389e83315193e274",
+            "updatedAt": "2026-02-25T15:15:38.243Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "636c5501559d03ccfe51c1be88e564f447a5a75b44f2697d90403515e16b024f",
+        "langs": {
+          "es": {
+            "translatedHash": "3849728d64e44ee3ace78f8bb9a68f833364e4a41a09cf4336c1c2cfb98e91c2",
+            "updatedAt": "2026-02-25T15:15:43.526Z"
+          },
+          "pl": {
+            "translatedHash": "899ff5e9b98e37b19b2f0af4add4cf75c3610fc14818786f94c2d44e301ce7f9",
+            "updatedAt": "2026-02-25T15:15:50.843Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "ac1ed08110fdd96c7dea37c12785529f3104ff309ee05c1fb692846711e60d62",
+        "langs": {
+          "es": {
+            "translatedHash": "83ed061619b7429589347d09f8697ca7bbbc7072709749a4db1fb9dbf6487add",
+            "updatedAt": "2026-02-25T15:15:55.688Z"
+          },
+          "pl": {
+            "translatedHash": "bf445aff30c01f685aa14aa777e8401e8dba0b30dc2de46e22374ffea8c2ed20",
+            "updatedAt": "2026-02-25T15:16:05.004Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "80a2d3c08e8a75123e83e5531fbbbb09932aa9ab5bbbd7e7f532604f045277ab",
+        "langs": {
+          "es": {
+            "translatedHash": "bd72481af30aba0f5425c314d2b3fc9f6745b25c6f4cd1cd5d64a8773cb3108f",
+            "updatedAt": "2026-02-25T15:16:09.248Z"
+          },
+          "pl": {
+            "translatedHash": "e07f886df1c4cbf520187e9a439a88bbc8ca6fa1f6a6d8e6a970f3b3beb33218",
+            "updatedAt": "2026-02-25T15:16:16.910Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Juan Diego",
+  "title_pl": "Nowenna do św. Juana Diego",
+  "description_es": "San Juan Diego fue un campesino nativo chichimeca a quien se le apareció Nuestra Señora de Guadalupe y realizó milagros. Reza esta novena por todos los pueblos indígenas de América.",
+  "description_pl": "Św. Juan Diego był rdzennego pochodzenia Chichimec, chłopem, któremu ukazała się Matka Boża z Guadalupe i dokonała cudów. Módl się tę nowennę za wszystkich rdzennych mieszkańców Ameryk.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "12-31_saint_sylvester_i_pope_optional_memorial",
+  "name": "Saint Sylvester I, Pope—Optional Memorial",
+  "mmdd": "12-31",
+  "feast": "The Thirty-First Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sylvester_I.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-31_saint_sylvester_i_pope_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "52f7124cd13afd284ab5b029c87d7d07395ef07042cad8f2401b9e3b03dfafe0",
+        "langs": {
+          "es": {
+            "translatedHash": "3680d45c86bde1ed1f2683740d0bdc056e2ccb0b370549e858b20446f4567266",
+            "updatedAt": "2026-02-25T01:36:02.316Z"
+          },
+          "pl": {
+            "translatedHash": "46db9137f45fe11fa1f630007603a00c31393c3bf3dd0efb07f0a77e8d5f7bcb",
+            "updatedAt": "2026-02-25T01:36:03.098Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "51fa7c915ef6dd6a806e260c463803728e49ca141053861c9429f6da16bbee73",
+        "langs": {
+          "es": {
+            "translatedHash": "f9bcedeedddcfeb49ff454e01eb0e2b5cb4c17d9bdc760c92c7a6d2d709019bd",
+            "updatedAt": "2026-02-25T01:36:03.773Z"
+          },
+          "pl": {
+            "translatedHash": "8d1cf557987286a9fad018eded555e9181f81225f58bc7e5ed60e099f45f1aa1",
+            "updatedAt": "2026-02-25T01:36:04.393Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Silvestre I, Papa—Memoria Opcional",
+  "name_pl": "Święty Sylwester I, papież — wspomnienie dowolne",
+  "feast_es": "El Trigésimo Primer Día de Diciembre",
+  "feast_pl": "Trzydziesty pierwszy dzień grudnia"
+}

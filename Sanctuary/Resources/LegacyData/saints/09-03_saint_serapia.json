@@ -1,0 +1,79 @@
+{
+  "id": "09-03_saint_serapia",
+  "name": "Saint Serapia",
+  "mmdd": "09-03",
+  "feast": "The Third Day of September",
+  "summary": "Serapia was a Roman saint, a slave and martyr, also called Seraphia or Seraphima of Syria.",
+  "biography": "Serapia was a Roman saint, a slave and martyr, also called Seraphia or Seraphima of Syria.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Serapia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-03_saint_serapia.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ec4299113dc506296a35131bf94760640f97f9ac6924962514fec2172522ce0a",
+        "langs": {
+          "es": {
+            "translatedHash": "011319a1f30660d0cfd5c3aeed67e4db141210402117f702f906b109e8d58e56",
+            "updatedAt": "2026-02-25T00:25:23.517Z"
+          },
+          "pl": {
+            "translatedHash": "6b87b166a26a7bf78c0784d56abc6a9bc8a1aafc7d4ad1f14bdac74c989dd35e",
+            "updatedAt": "2026-02-25T00:25:24.094Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c35fad82ebcf20cd080743b4bffe7cd85a3da1d80721bd863fb096d0ceedf110",
+        "langs": {
+          "es": {
+            "translatedHash": "ad096f5490ee3895a3f319e263271ef6b856f8b1ba0e63922b298d3a4f3c9c7f",
+            "updatedAt": "2026-02-25T00:25:24.623Z"
+          },
+          "pl": {
+            "translatedHash": "97c392f7117a82011ff7bd25517a86117520e3262c292856d24603f4451ba97e",
+            "updatedAt": "2026-02-25T00:25:25.236Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "96986b24cf64a2abd47883941987a153023bd3fb9c683004980161295d8d3965",
+        "langs": {
+          "es": {
+            "translatedHash": "38c463dc244dea5e8a36e0d196a0d4b4da5b12aee32afb26dbdb2753a319a6c7",
+            "updatedAt": "2026-02-25T00:25:26.885Z"
+          },
+          "pl": {
+            "translatedHash": "abc05a781dc49bfb0e93f0a349ac2d0213c6de4977649ba106f32f5c661be3a9",
+            "updatedAt": "2026-02-25T00:25:28.274Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "96986b24cf64a2abd47883941987a153023bd3fb9c683004980161295d8d3965",
+        "langs": {
+          "es": {
+            "translatedHash": "3875c0b266bcc841b36dc2bb884552de8a20bedc380a93c1317a87272330a85c",
+            "updatedAt": "2026-02-25T00:25:29.183Z"
+          },
+          "pl": {
+            "translatedHash": "abc05a781dc49bfb0e93f0a349ac2d0213c6de4977649ba106f32f5c661be3a9",
+            "updatedAt": "2026-02-25T00:25:30.274Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Serapia",
+  "name_pl": "Święta Serapia",
+  "feast_es": "El Tercer Día de Septiembre",
+  "feast_pl": "Trzeci dzień września",
+  "summary_es": "Serapia fue una santa romana, esclava y mártir, también llamada Serafina o Serafima de Siria.",
+  "summary_pl": "Serapia była rzymską świętą, niewolnicą i męczennicą, nazywaną także Serafią lub Serafimą z Syrii.",
+  "biography_es": "Serapia fue una santa romana, esclava y mártir, también llamada Serafía o Serafima de Siria.",
+  "biography_pl": "Serapia była rzymską świętą, niewolnicą i męczennicą, nazywaną także Serafią lub Serafimą z Syrii."
+}

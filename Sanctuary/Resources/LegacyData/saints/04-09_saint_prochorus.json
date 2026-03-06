@@ -1,0 +1,79 @@
+{
+  "id": "04-09_saint_prochorus",
+  "name": "Saint Prochorus",
+  "mmdd": "04-09",
+  "feast": "The Ninth Day of April",
+  "summary": "Prochorus was one of the Seven Deacons chosen to care for the poor of the Christian community in Jerusalem. According to holy tradition, he was also one of the Seventy Disciples sent out by Jesus in Luke 10.",
+  "biography": "Gallery\n\n\nReferences\n\n\nExternal links\n\nEkkart Sauser. \"Prochorus (deacon)\". Biographisch-Bibliographisches Kirchenlexikon (BBKL) (in German). cols. 0–-0.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prochorus_(deacon)",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-09_saint_prochorus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "48f791cc350cf90ef3ddffb65c8f3f2629ca74acc6772ed61ebb85acc8606313",
+        "langs": {
+          "es": {
+            "translatedHash": "500a3be46e369d9e0e873920c73fe5d4264a3b1fed85246a9bb424cdda32b500",
+            "updatedAt": "2026-02-24T23:06:50.248Z"
+          },
+          "pl": {
+            "translatedHash": "eff557e63910b6365339bbdf9d92206539c1931762a849d384c4c727d4a68ca4",
+            "updatedAt": "2026-02-24T23:06:51.107Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a0c8e0fd9cd97833a32b7c839834263f18caa372c79dda613a8d2f915da9241e",
+        "langs": {
+          "es": {
+            "translatedHash": "ed476bf7d0f0034d7a8c2826657aa7aa20c14d4d4f761ab60dc0b853451b7a91",
+            "updatedAt": "2026-02-24T23:06:51.749Z"
+          },
+          "pl": {
+            "translatedHash": "61aac28efbe2ea120167198cbdac3b581ae29e684c6939c73a6a73d793ba8ae7",
+            "updatedAt": "2026-02-24T23:06:52.364Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4da32be07f589c9c32f1ce7fb4f0edb1c246112f282f89026884f21e536e8a0e",
+        "langs": {
+          "es": {
+            "translatedHash": "22c4a1de397238ac864c3851111f0e8de4c8d5de682ffdd5712296485d94c046",
+            "updatedAt": "2026-02-24T23:06:53.463Z"
+          },
+          "pl": {
+            "translatedHash": "b9851d998604c591deb63f7463edd7b4b9648bae3fd78bb7ec9940cb587b84a6",
+            "updatedAt": "2026-02-24T23:06:54.945Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "77642f2c1be11109dbd7f195fab3fdc7ff107781b11ae9a6b3110d615cb3adb9",
+        "langs": {
+          "es": {
+            "translatedHash": "9ad4161f3fc07646dc894b0dfe29dd6e2cc8eb226172d9e9cb55f3e194305b23",
+            "updatedAt": "2026-02-24T23:06:57.062Z"
+          },
+          "pl": {
+            "translatedHash": "9a76e80c2e88e9e39767d93119cc49a023cf0b63b250dd3090218dc61f9bf28c",
+            "updatedAt": "2026-02-24T23:06:58.373Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Procorio",
+  "name_pl": "Święty Prochór",
+  "feast_es": "El Noveno Día de Abril",
+  "feast_pl": "Dziewiąty dzień kwietnia",
+  "summary_es": "Procorio fue uno de los Siete Diáconos elegidos para cuidar de los pobres de la comunidad cristiana en Jerusalén. Según la santa tradición, también fue uno de los Setenta Discípulos enviados por Jesús en Lucas 10.",
+  "summary_pl": "Prochór był jednym z Siedmiu Diakonów wybranych do opieki nad ubogimi wspólnoty chrześcijańskiej w Jerozolimie. Według świętej tradycji, był również jednym z Siedemdziesięciu Uczniów posłanych przez Jezusa w Ewangelii Łukasza 10.",
+  "biography_es": "Galería\n\n\nReferencias\n\n\nEnlaces externos\n\nEkkart Sauser. \"Prochorus (diácono)\". Biographisch-Bibliographisches Kirchenlexikon (BBKL) (en alemán). cols. 0–-0.",
+  "biography_pl": "Galeria\n\n\nBibliografia\n\n\nLinki zewnętrzne\n\nEkkart Sauser. „Prochorus (diakon)”. Biographisch-Bibliographisches Kirchenlexikon (BBKL) (w języku niemieckim). kol. 0–0."
+}

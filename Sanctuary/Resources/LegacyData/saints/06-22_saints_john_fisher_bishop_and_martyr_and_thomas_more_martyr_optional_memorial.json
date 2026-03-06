@@ -1,0 +1,48 @@
+{
+  "id": "06-22_saints_john_fisher_bishop_and_martyr_and_thomas_more_martyr_optional_memorial",
+  "name": "Saints John Fisher, Bishop and Martyr and Thomas More, Martyr—Optional Memorial",
+  "mmdd": "06-22",
+  "feast": "The Twenty-Second day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Henry_Newman"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-22_saints_john_fisher_bishop_and_martyr_and_thomas_more_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eb200429eea079a5fd6c352d9312842252f0ebaab69d8f7d16c78a20c68cb8ee",
+        "langs": {
+          "es": {
+            "translatedHash": "b215fdcedfb04f523a31a2eb100fc341b6d36bb572b265f8796cecea42ec6552",
+            "updatedAt": "2026-02-24T23:46:39.580Z"
+          },
+          "pl": {
+            "translatedHash": "6ae690f298debdb6f72cde240994c044e3fe24c548e47f31a462a41866a6f944",
+            "updatedAt": "2026-02-24T23:46:40.425Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "fe1f69a28ea4dde64bf702815bc5c331f511e7c7268b42ef570528caa0c39aa6",
+        "langs": {
+          "es": {
+            "translatedHash": "bfeae8758d910ea4c95171c8f8e7fc55011dfb13499f21fbc8bc3681101c7c8f",
+            "updatedAt": "2026-02-24T23:46:41.075Z"
+          },
+          "pl": {
+            "translatedHash": "3f04c6c7f9e64c64e4d9abde8b7ab482aba3e024585e69352accedfb04b9a958",
+            "updatedAt": "2026-02-24T23:46:41.674Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Juan Fisher, Obispo y Mártir, y Tomás Moro, Mártir—Memoria Opcional",
+  "name_pl": "Święci Jan Fisher, biskup i męczennik oraz Tomasz More, męczennik — wspomnienie dowolne",
+  "feast_es": "El vigésimo segundo día de junio",
+  "feast_pl": "Dwudziesty drugi dzień czerwca"
+}

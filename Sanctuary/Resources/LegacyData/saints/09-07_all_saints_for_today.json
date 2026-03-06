@@ -1,0 +1,46 @@
+{
+  "id": "09-07_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "09-07",
+  "feast": "The Seventh Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:26:56.640Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:26:57.274Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e35b03238d74d634dbd22857544bc433127b7418edd8ee432af1ced22e649641",
+        "langs": {
+          "es": {
+            "translatedHash": "2d3ead8e6fe8ac5ef3cb867d8c59ce76105127fe8f0c0b691032a5fb5fc52779",
+            "updatedAt": "2026-02-25T00:26:58.356Z"
+          },
+          "pl": {
+            "translatedHash": "35859b8053d4c700e79fc34365074d47eecd4c73b35c8970c76b7e2c2545f195",
+            "updatedAt": "2026-02-25T00:26:58.951Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Séptimo Día de Septiembre",
+  "feast_pl": "Siódmy dzień września"
+}

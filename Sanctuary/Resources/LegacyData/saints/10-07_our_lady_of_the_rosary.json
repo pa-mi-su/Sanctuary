@@ -1,0 +1,79 @@
+{
+  "id": "10-07_our_lady_of_the_rosary",
+  "name": "Our Lady of the Rosary",
+  "mmdd": "10-07",
+  "feast": "The Seventh Day of October",
+  "summary": "Our Lady of the Holy Rosary of Chiquinquirá or the Virgin of Chiquinquirá, is a Marian title of the Blessed Virgin Mary associated with a venerated image in the northern Andes region. She has been for centuries the highly appreciated patroness saint of Colombia and adjacent regions of Venezuela. Under this venerated title, the image is the patroness saint of Colombia, the Venezuelan state of Zulia, and the town of Caraz in Peru.",
+  "biography": "Our Lady of the Holy Rosary of Chiquinquirá or the Virgin of Chiquinquirá, is a Marian title of the Blessed Virgin Mary associated with a venerated image in the northern Andes region. She has been for centuries the highly appreciated patroness saint of Colombia and adjacent regions of Venezuela. Under this venerated title, the image is the patroness saint of Colombia, the Venezuelan state of Zulia, and the town of Caraz in Peru.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary_of_Chiquinquir%C3%A1",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-07_our_lady_of_the_rosary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "837fc7b50cc8fb4e6d5806d02c25f395a14ab3666ee2e06a2b2789b92e6ecf46",
+        "langs": {
+          "es": {
+            "translatedHash": "1b7010ffe9ab71e3fdace9696f05c503b12a134f9b453b2d6712e38e617255c0",
+            "updatedAt": "2026-02-25T00:45:23.799Z"
+          },
+          "pl": {
+            "translatedHash": "a0053284b0c062ac92c7830ce49164e5c62319b1c1fca43324dbc33d30f07f30",
+            "updatedAt": "2026-02-25T00:45:24.778Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "36e372609b3d6232cbd34ff2e0cfa3c730b540875dd27c63c4cf79b3e847ebe9",
+        "langs": {
+          "es": {
+            "translatedHash": "877fc40d0c20e0e3d88475aaaf3072beb561402f39eeadf3023a0af3671ce98c",
+            "updatedAt": "2026-02-25T00:45:25.370Z"
+          },
+          "pl": {
+            "translatedHash": "dfd73446892affb6e79d9aad2bc993086534f02fa9d005ad149386a1ba64d4e4",
+            "updatedAt": "2026-02-25T00:45:26.745Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "17370a05ca19430a79d43d34217e7eeadefae72d10f1f6c08821b7be1e808bdf",
+        "langs": {
+          "es": {
+            "translatedHash": "491d830c9b936b3863add343bb6c942d6d46facbdb5e9b8c42a8423b8db64a22",
+            "updatedAt": "2026-02-25T00:45:30.125Z"
+          },
+          "pl": {
+            "translatedHash": "dd9c919dee62ea8710f8b38c62719d086c427aaf8fc52eb460878ff436b0e03c",
+            "updatedAt": "2026-02-25T00:45:32.234Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "17370a05ca19430a79d43d34217e7eeadefae72d10f1f6c08821b7be1e808bdf",
+        "langs": {
+          "es": {
+            "translatedHash": "1e7318a25e6f94d681fbd362e42519f37d28e61e292f28e5b8e4cc91b9d057e0",
+            "updatedAt": "2026-02-25T00:45:33.685Z"
+          },
+          "pl": {
+            "translatedHash": "dd9c919dee62ea8710f8b38c62719d086c427aaf8fc52eb460878ff436b0e03c",
+            "updatedAt": "2026-02-25T00:45:36.052Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora del Rosario",
+  "name_pl": "Matka Boża Różańcowa",
+  "feast_es": "El séptimo día de octubre",
+  "feast_pl": "Siódmy dzień października",
+  "summary_es": "Nuestra Señora del Santo Rosario de Chiquinquirá o la Virgen de Chiquinquirá, es un título mariano de la Santísima Virgen María asociado con una imagen venerada en la región de los Andes del norte. Ella ha sido durante siglos la muy apreciada patrona de Colombia y las regiones adyacentes de Venezuela. Bajo este título venerado, la imagen es la patrona de Colombia, del estado venezolano de Zulia y del pueblo de Caraz en Perú.",
+  "summary_pl": "Matka Boża Różańcowa z Chiquinquirá lub Matka Boża z Chiquinquirá, to maryjne wezwanie Najświętszej Maryi Panny związane z czczonym wizerunkiem w północnym regionie Andów. Od wieków jest wysoko cenioną patronką Kolumbii oraz przyległych regionów Wenezueli. Pod tym czczonym tytułem wizerunek jest patronką Kolumbii, wenezuelskiego stanu Zulia oraz miasta Caraz w Peru.",
+  "biography_es": "Nuestra Señora del Santo Rosario de Chiquinquirá o la Virgen de Chiquinquirá, es un título mariano de la Santísima Virgen María asociado con una imagen venerada en la región norte de los Andes. Ha sido durante siglos la muy apreciada patrona de Colombia y las regiones adyacentes de Venezuela. Bajo este título venerado, la imagen es la patrona de Colombia, del estado venezolano de Zulia y del pueblo de Caraz en Perú.",
+  "biography_pl": "Matka Boża Różańcowa z Chiquinquirá lub Matka Boża z Chiquinquirá, to maryjne wezwanie Najświętszej Maryi Panny związane z czczonym wizerunkiem w północnym regionie Andów. Od wieków jest wysoko cenioną patronką Kolumbii oraz przyległych regionów Wenezueli. Pod tym czczonym tytułem wizerunek jest patronką Kolumbii, wenezuelskiego stanu Zulia oraz miasta Caraz w Peru."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "05-07_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "05-07",
+  "feast": "The Seventh Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:20:59.464Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:20:59.999Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "46406c4c4b94ff5872bf1fee3a6a6c1f3181f279941ebfa2db1df1e1b20b5e55",
+        "langs": {
+          "es": {
+            "translatedHash": "4fff42360e8a52156b72aa75bebae67d955ebc96a66dd170c01be91e926e5abe",
+            "updatedAt": "2026-02-24T23:21:00.584Z"
+          },
+          "pl": {
+            "translatedHash": "4379de2773775240a6470fc7bd3e67483490c04839786ce01c6c9f8ffe2e9f16",
+            "updatedAt": "2026-02-24T23:21:01.251Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Séptimo Día de Mayo",
+  "feast_pl": "Siódmy dzień maja"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "05-06_saint_evodius",
+  "name": "Saint Evodius",
+  "mmdd": "05-06",
+  "feast": "The Sixth Day of May",
+  "summary": "Evodius was an early Christian identified by some Christian writings as the first bishop of Antioch. In some traditions, he is seen as succeeding Peter. He is regarded as one of the first identifiable post-apostolic Christians and is venerated as a saint.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Evodius"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-06_saint_evodius.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0930138c0bf9b2a1c17a85de4a9f1d0468dec418917a51a635e26a67fcbb6fc0",
+        "langs": {
+          "es": {
+            "translatedHash": "6f294661642ae7dd9409e9d030870adcd77ba8e7c09895602ba19436dbd7f808",
+            "updatedAt": "2026-02-24T23:20:34.302Z"
+          },
+          "pl": {
+            "translatedHash": "3519b1c47616973ab6f6680b5910bf70ccef9ae942fd9f174b5a109bf0a6e961",
+            "updatedAt": "2026-02-24T23:20:34.932Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a15410c932de103dfabb55eb606ebaa428df21b8c4aadd593e15097846e5a5f8",
+        "langs": {
+          "es": {
+            "translatedHash": "3eabb96f944ddf784b1d7e71d9c6cf29dbfa156682ffb3d134ef6e44e171d8ec",
+            "updatedAt": "2026-02-24T23:20:35.662Z"
+          },
+          "pl": {
+            "translatedHash": "ee694ebc549943a5e9606c7065052911d1f119652eba8c2a9e10c723ed24c712",
+            "updatedAt": "2026-02-24T23:20:36.211Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4c30c92b00357e61c153c95a99685c02cfe39eb21e4564f24cd7e48d871e8eca",
+        "langs": {
+          "es": {
+            "translatedHash": "b3b66c41c6d48b42ce35898ad543bb002cdd87a5b94f1cedbbb722e810c3f274",
+            "updatedAt": "2026-02-24T23:20:37.485Z"
+          },
+          "pl": {
+            "translatedHash": "e43d41be064a93de27e071c3052e5572bf309fb6c8200c266a37498e49b503bb",
+            "updatedAt": "2026-02-24T23:20:39.167Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Evodio",
+  "name_pl": "Święty Ewodiusz",
+  "feast_es": "El Sexto Día de Mayo",
+  "feast_pl": "Szósty dzień maja",
+  "summary_es": "Evodio fue un cristiano primitivo identificado en algunos escritos cristianos como el primer obispo de Antioquía. En algunas tradiciones, se le considera sucesor de Pedro. Es considerado uno de los primeros cristianos post-apostólicos identificables y es venerado como santo.",
+  "summary_pl": "Ewodiusz był wczesnym chrześcijaninem, którego niektóre pisma chrześcijańskie wskazują jako pierwszego biskupa Antiochii. W niektórych tradycjach uważany jest za następcę Piotra. Jest uznawany za jednego z pierwszych rozpoznawalnych chrześcijan poapostolskich i czczony jako święty."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "08-24_saint_bartholomew_the_apostle_feast",
+  "name": "Saint Bartholomew the Apostle—Feast",
+  "mmdd": "08-24",
+  "feast": "The Twenty-Fourth Day of August",
+  "summary": "Bartholomew was one of the twelve apostles of Jesus according to the New Testament. Most scholars today identify Bartholomew as Nathanael, who appears in the Gospel of John.",
+  "biography": "Bartholomew was one of the twelve apostles of Jesus according to the New Testament. Most scholars today identify Bartholomew as Nathanael, who appears in the Gospel of John.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-24_saint_bartholomew_the_apostle_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "23c358708e25b764b4e56cebc4dd81949a4e180f52c3ed63a3eb6083de58a8ff",
+        "langs": {
+          "es": {
+            "translatedHash": "0a217fd6ca066083afadf0972f3e6e28a4dee3ff7bd581438ca25056153109c5",
+            "updatedAt": "2026-02-25T00:21:05.547Z"
+          },
+          "pl": {
+            "translatedHash": "94511f2542abf4a69181dd7b8eb26e4f2dc2bfb2707ca0c323f0ba8c0ad47c6c",
+            "updatedAt": "2026-02-25T00:21:06.534Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b1d503f3037ff7863c3620c453d1176bf94c2b508f868f968b5984676544184e",
+        "langs": {
+          "es": {
+            "translatedHash": "27af132c310e8177af1406d752bd510580996f3d29bd12625acececd3053692c",
+            "updatedAt": "2026-02-25T00:21:07.506Z"
+          },
+          "pl": {
+            "translatedHash": "cad094ddbe7820eefb230e5cb4ae3148ba1e37049dffe61ffd197a85073fb9b8",
+            "updatedAt": "2026-02-25T00:21:10.654Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f6e6b3e3c338133b88361586096c7ad9a5bce1c1e418ca261df244306a5458c2",
+        "langs": {
+          "es": {
+            "translatedHash": "ebb65848042c26c455356ec0c8e9bb2e762f05c145f564764cc991c2561085cf",
+            "updatedAt": "2026-02-25T00:21:11.714Z"
+          },
+          "pl": {
+            "translatedHash": "9c79c8a5ae383d2069bbd1bc3b730070885eb3c0f0963b4fc11dbd912e1c0c1b",
+            "updatedAt": "2026-02-25T00:21:12.905Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f6e6b3e3c338133b88361586096c7ad9a5bce1c1e418ca261df244306a5458c2",
+        "langs": {
+          "es": {
+            "translatedHash": "ebb65848042c26c455356ec0c8e9bb2e762f05c145f564764cc991c2561085cf",
+            "updatedAt": "2026-02-25T00:21:14.072Z"
+          },
+          "pl": {
+            "translatedHash": "a56683c3b0e034e2b2bd2dfe1f675cf437e829be3050c8570a6c9e981fe73d73",
+            "updatedAt": "2026-02-25T00:21:15.204Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bartolomé Apóstol—Fiesta",
+  "name_pl": "Święty Bartłomiej Apostoł — Uroczystość",
+  "feast_es": "El vigésimo cuarto día de agosto",
+  "feast_pl": "Dwudziesty czwarty dzień sierpnia",
+  "summary_es": "Bartolomé fue uno de los doce apóstoles de Jesús según el Nuevo Testamento. La mayoría de los estudiosos hoy en día identifican a Bartolomé como Natanael, quien aparece en el Evangelio de Juan.",
+  "summary_pl": "Bartłomiej był jednym z dwunastu apostołów Jezusa według Nowego Testamentu. Większość współczesnych uczonych utożsamia Bartłomieja z Natanaelem, który pojawia się w Ewangelii św. Jana.",
+  "biography_es": "Bartolomé fue uno de los doce apóstoles de Jesús según el Nuevo Testamento. La mayoría de los estudiosos hoy en día identifican a Bartolomé como Natanael, quien aparece en el Evangelio de Juan.",
+  "biography_pl": "Bartłomiej był jednym z dwunastu apostołów Jezusa według Nowego Testamentu. Większość współczesnych uczonych utożsamia Bartłomieja z Natanaelem, który pojawia się w Ewangelii Jana."
+}

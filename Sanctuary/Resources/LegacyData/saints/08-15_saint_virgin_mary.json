@@ -1,0 +1,79 @@
+{
+  "id": "08-15_saint_virgin_mary",
+  "name": "Saint Virgin Mary",
+  "mmdd": "08-15",
+  "feast": "The Fifteenth Day of August",
+  "summary": "The Assumption of Mary is a Catholic dogma that Mary, at the end of her earthly life, was taken body and soul into heaven, defined by Pope Pius XII on 1 November 1950 in his apostolic constitution Munificentissimus Deus. It is celebrated on 15 August.",
+  "biography": "History\n\nSome scholars argue that the Dormition and Assumption traditions can be traced early in church history in the apocryphal books, with Stephen J. Shoemaker noting about the dating:\n\nFor instance, Baldi, Masconi, and Cothenet analyzed the corpus of Dormition narratives using a rather different approach, governed primarily by language tradition rather than literary...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Assumption_of_Mary",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-15_saint_virgin_mary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "74bea82899c825f52cd6cd1e066d5474c7a90bffd823a4e24845e717a4248454",
+        "langs": {
+          "es": {
+            "translatedHash": "8da3848851d4e09fa28859d368dfb9258689a4785eb12a139866babe91455ea3",
+            "updatedAt": "2026-02-25T00:15:50.741Z"
+          },
+          "pl": {
+            "translatedHash": "f6a3a5afc2800bc6f63cc40b5850a31db8971ee1e3ed6669161b6cebb8e27217",
+            "updatedAt": "2026-02-25T00:15:51.245Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c9c1336c4f4e7cd2321157aecddae2051dbdd8a6d1e42df88449368f4187974f",
+        "langs": {
+          "es": {
+            "translatedHash": "f3707e7e146f1d8afc9b1a1f6ec7ec46cfaccd65a061fe9b11805e7b7c4586b8",
+            "updatedAt": "2026-02-25T00:15:51.838Z"
+          },
+          "pl": {
+            "translatedHash": "81d969e3d4cd75f194e1d974536ee2075bd8308098b9263a8821979ad1d81731",
+            "updatedAt": "2026-02-25T00:15:52.664Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f07eb37aa0afe229754494f855f6c37e75306d562c7d5de0bc57f4ca2215d24c",
+        "langs": {
+          "es": {
+            "translatedHash": "b207e32c9cb46f543d6acdca7d974f0bca2f03987c480f3aa6522feef5cc6de2",
+            "updatedAt": "2026-02-25T00:15:53.951Z"
+          },
+          "pl": {
+            "translatedHash": "270efe508dee05dbd0ebec875516e36ed94a901f161f838186d852a82d298a9f",
+            "updatedAt": "2026-02-25T00:15:57.148Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4b7e43169d85c3d68f84100541319dfd12264f2e94bd2561c02d5faf27b9126e",
+        "langs": {
+          "es": {
+            "translatedHash": "81f45de0735ec8e5762defa9f04d963ddaf902ec78aad210122a3e93aa9ea23a",
+            "updatedAt": "2026-02-25T00:15:58.904Z"
+          },
+          "pl": {
+            "translatedHash": "d0d9ccc3826f4fbb44bf8d91f3d4f2b5c59265042f69d9feba708b8ebf75052e",
+            "updatedAt": "2026-02-25T00:16:01.375Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Virgen María",
+  "name_pl": "Święta Dziewico Maryjo",
+  "feast_es": "El Quince de Agosto",
+  "feast_pl": "Piętnasty dzień sierpnia",
+  "summary_es": "La Asunción de María es un dogma católico que afirma que María, al final de su vida terrenal, fue llevada en cuerpo y alma al cielo, definido por el Papa Pío XII el 1 de noviembre de 1950 en su constitución apostólica Munificentissimus Deus. Se celebra el 15 de agosto.",
+  "summary_pl": "Wniebowzięcie Maryi jest katolickim dogmatem, że Maryja, na końcu swojego ziemskiego życia, została wzięta do nieba zarówno ciałem, jak i duszą, co zostało zdefiniowane przez papieża Piusa XII 1 listopada 1950 roku w jego konstytucji apostolskiej Munificentissimus Deus. Obchodzone jest 15 sierpnia.",
+  "biography_es": "Historia\n\nAlgunos estudiosos sostienen que las tradiciones de la Dormición y la Asunción pueden rastrearse desde temprano en la historia de la iglesia en los libros apócrifos, con Stephen J. Shoemaker señalando sobre la datación:\n\nPor ejemplo, Baldi, Masconi y Cothenet analizaron el corpus de narrativas de la Dormición utilizando un enfoque bastante diferente, gobernado principalmente por la tradición lingüística más que literaria...",
+  "biography_pl": "Historia\n\nNiektórzy uczeni twierdzą, że tradycje dotyczące Zaśnięcia i Wniebowzięcia można odnaleźć już we wczesnej historii Kościoła, w apokryficznych księgach, przy czym Stephen J. Shoemaker zauważa na temat datowania:\n\nNa przykład Baldi, Masconi i Cothenet analizowali zbiór narracji o Zaśnięciu, stosując nieco inne podejście, oparte przede wszystkim na tradycji językowej, a nie literackiej..."
+}

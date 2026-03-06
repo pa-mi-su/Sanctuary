@@ -1,0 +1,80 @@
+{
+  "id": "01-15_saint_maur",
+  "name": "Saint Maur",
+  "mmdd": "01-15",
+  "feast": "The Fifteenth Day of January",
+  "summary": "Saint-Maur-des-Fossés is a commune in Val-de-Marne, the southeastern suburbs of Paris, France, 11.7 kilometres from the centre of Paris.",
+  "biography": "Saint-Maur-des-Fossés (French pronunciation: [sɛ̃ mɔʁ de fose] ) is a commune in Val-de-Marne, the southeastern suburbs of Paris, France, 11.7 kilometres (7.3 miles) from the centre of Paris.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Maur-des-Foss%C3%A9s",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-15_saint_maur.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ab2f7cfbf0dce19d7109682dcf310b420f390c5cbccca07eb013b20060eada9a",
+        "langs": {
+          "es": {
+            "translatedHash": "0fc7197ea777842c3d73986a30cc1bc4fb361c7c40278480349c78aad6c99a69",
+            "updatedAt": "2026-02-24T22:14:47.143Z"
+          },
+          "pl": {
+            "translatedHash": "46974f4a0b443a17d98eea610022c2d37d4faaaca2112ea58ec6f3cbb95b093b",
+            "updatedAt": "2026-02-24T22:14:47.664Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6b8980d96878adcda107c67425b3e7eb0baddaf72f453788f289414331bdfd89",
+        "langs": {
+          "es": {
+            "translatedHash": "ef65ec1118cfdcf6383c9701399fe7d0f209fa00470c0ab13358a95c2e93fc19",
+            "updatedAt": "2026-02-24T22:14:48.232Z"
+          },
+          "pl": {
+            "translatedHash": "92f686f127086d8c150678c526187e6fd753a5ae0afa56888338334f1788303b",
+            "updatedAt": "2026-02-24T22:14:48.899Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3b51e7a69657bdac211e81061dbe26d7b732830449425ed82532d2db77303371",
+        "langs": {
+          "es": {
+            "translatedHash": "ad8ec099ccf7c3d3e14fd9caf7c27e1b2e9bd0c65630614cee8b30dc4bd702ec",
+            "updatedAt": "2026-02-24T22:14:49.771Z"
+          },
+          "pl": {
+            "translatedHash": "48372e84762fee19722884a584f3cd5c253144cd925d90ee24eb8898d27adf81",
+            "updatedAt": "2026-02-24T22:14:50.835Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1bd3e7c3ab3d90e7ea506784797c4637a0f19aae25abac689307e1118885de2b",
+        "langs": {
+          "es": {
+            "translatedHash": "4adca403ccb2907823ef668b777e5fdd22094d7c4d6ca99ef0ab436f4409e114",
+            "updatedAt": "2026-02-24T22:14:51.953Z"
+          },
+          "pl": {
+            "translatedHash": "cf520a90415bf348bc0e40ab75e6392d3764639c669841904b47d0977f533ebf",
+            "updatedAt": "2026-02-24T22:14:53.376Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Mauro",
+  "name_pl": "Święty Maur",
+  "feast_es": "El Quince de Enero",
+  "feast_pl": "Piętnasty Dzień Stycznia",
+  "summary_es": "Saint-Maur-des-Fossés es una comuna en Val-de-Marne, en los suburbios sureste de París, Francia, a 11.7 kilómetros del centro de París.",
+  "summary_pl": "Saint-Maur-des-Fossés to gmina w Val-de-Marne, na południowo-wschodnich przedmieściach Paryża, Francja, 11,7 kilometra od centrum Paryża.",
+  "biography_es": "Saint-Maur-des-Fossés (pronunciación francesa: [sɛ̃ mɔʁ de fose]) es una comuna en Val-de-Marne, en los suburbios sureste de París, Francia, a 11.7 kilómetros (7.3 millas) del centro de París.",
+  "biography_pl": "Saint-Maur-des-Fossés (wymowa francuska: [sɛ̃ mɔʁ de fose]) to gmina w Val-de-Marne, na południowo-wschodnich przedmieściach Paryża, Francja, 11,7 kilometra (7,3 mili) od centrum Paryża."
+}

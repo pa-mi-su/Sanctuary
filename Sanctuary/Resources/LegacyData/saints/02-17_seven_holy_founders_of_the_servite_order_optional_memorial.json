@@ -1,0 +1,48 @@
+{
+  "id": "02-17_seven_holy_founders_of_the_servite_order_optional_memorial",
+  "name": "Seven Holy Founders of the Servite Order—Optional Memorial",
+  "mmdd": "02-17",
+  "feast": "The Seventeenth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-17_seven_holy_founders_of_the_servite_order_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e068f0dc7b68182908c6036d4159a73f1061c115f9762b2d705b08cb89ebef01",
+        "langs": {
+          "es": {
+            "translatedHash": "daa97af2302bb5cfd67111186d0c51a6093e7e3a5be6af1b5b2e3fcee04ba7b9",
+            "updatedAt": "2026-02-24T22:37:10.620Z"
+          },
+          "pl": {
+            "translatedHash": "ded0376e16f0a8f8bb7b95a599f4ed861f23469c0db6ca212284bd55d43c18e6",
+            "updatedAt": "2026-02-24T22:37:11.471Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5b87b7fd7d9c65397eb8a0d6365663efa7b95aef9cf28880552c75264e283a12",
+        "langs": {
+          "es": {
+            "translatedHash": "f6dc933f8854c40e87dc33f2e497bf322f4d3026923cdf68908a527a2cc19764",
+            "updatedAt": "2026-02-24T22:37:12.399Z"
+          },
+          "pl": {
+            "translatedHash": "ec1b88e0b5e2df02cab28114c70be5fe480bb6f35a4e013c4d3102257fb6f70f",
+            "updatedAt": "2026-02-24T22:37:13.177Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Siete Santos Fundadores de la Orden de los Siervos—Memoria Opcional",
+  "name_pl": "Siedmiu Świętych Założycieli Zakonu Serwitów — Wspomnienie dowolne",
+  "feast_es": "El día diecisiete de febrero",
+  "feast_pl": "Siedemnasty Dzień Lutego"
+}

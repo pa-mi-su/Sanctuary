@@ -1,0 +1,48 @@
+{
+  "id": "08-14_saint_maximilian_mary_kolbe_priest_and_martyr_memorial",
+  "name": "Saint Maximilian Mary Kolbe, Priest and Martyr—Memorial",
+  "mmdd": "08-14",
+  "feast": "The Fourteenth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-14_saint_maximilian_mary_kolbe_priest_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7cfbb4a027d240d9cc4fbe511ba2986d0239334f74ca6f6d0ef3c99969b03135",
+        "langs": {
+          "es": {
+            "translatedHash": "5ec4b4cb03ea0d61222c1a8ce8777f9303162025bd26f24d05cacefb83d3bb2d",
+            "updatedAt": "2026-02-25T00:15:07.316Z"
+          },
+          "pl": {
+            "translatedHash": "7a014760956302a8dd5807daf09bc9f04388f76a0e50349e183474d07d52049f",
+            "updatedAt": "2026-02-25T00:15:08.696Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0f4c3c3e27b2dc2e1ecb8a21ad7957675e61446c05e985c1ecd7dda6cff87549",
+        "langs": {
+          "es": {
+            "translatedHash": "b2a0890feec7635584e1620a925a159fc7670a1df32419103fdfc1f5c6fdbdf6",
+            "updatedAt": "2026-02-25T00:15:09.415Z"
+          },
+          "pl": {
+            "translatedHash": "4fa672239d941d17843ee27aac157ed5aea2824b03f2aad1f29eb000363e5c8d",
+            "updatedAt": "2026-02-25T00:15:09.976Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Maximiliano María Kolbe, Presbítero y Mártir—Memorial",
+  "name_pl": "Święty Maksymilian Maria Kolbe, Kapłan i Męczennik — Wspomnienie",
+  "feast_es": "El día catorce de agosto",
+  "feast_pl": "Czternasty Dzień Sierpnia"
+}

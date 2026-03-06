@@ -1,0 +1,48 @@
+{
+  "id": "05-10_saint_john_of_avila_priest_and_doctor_of_the_church_optional_memorial",
+  "name": "Saint John of Ávila, Priest and Doctor of the Church—Optional Memorial",
+  "mmdd": "05-10",
+  "feast": "The Tenth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-10_saint_john_of_avila_priest_and_doctor_of_the_church_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2f2d3bc16b7a13f7e068ba9ac1eb7ddf2ce205570260e843f1588381061a41e2",
+        "langs": {
+          "es": {
+            "translatedHash": "1c2562ed346a4c3cb8e469b86e6096fe0bc3c01d48757ad67ba68191fbab7bd1",
+            "updatedAt": "2026-02-24T23:22:51.515Z"
+          },
+          "pl": {
+            "translatedHash": "dcc419b4d90d0eed51b6afe31ecaf52f507557a48aab7ca36ea2e9deae83f1fb",
+            "updatedAt": "2026-02-24T23:22:52.588Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ac8cba13266de72496d8f1252ca2e669ad57f250ef20f2b01b3830a94a5e44c5",
+        "langs": {
+          "es": {
+            "translatedHash": "4d9f4f2bbce8bfc25a76e351a40f6da31be2c8b7c6a61fa11056897abb93b33b",
+            "updatedAt": "2026-02-24T23:22:53.302Z"
+          },
+          "pl": {
+            "translatedHash": "698e7b1bea78840098a6ce9f84f808dfe6e22d9f3610730c795a9fb81746fcbb",
+            "updatedAt": "2026-02-24T23:22:53.933Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Ávila, Presbítero y Doctor de la Iglesia—Memoria Opcional",
+  "name_pl": "Święty Jan z Ávili, kapłan i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El décimo día de mayo",
+  "feast_pl": "Dziesiąty Dzień Maja"
+}

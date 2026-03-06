@@ -1,0 +1,79 @@
+{
+  "id": "01-04_saint_elizabeth_ann_seton",
+  "name": "Saint Elizabeth Ann Seton",
+  "mmdd": "01-04",
+  "feast": "The Fourth Day of January",
+  "summary": "Elizabeth Ann Bayley Seton was an American Catholic educator, known as a founder of the country's parochial school system. Born in New York and reared as an Episcopalian, she married and had five children with her husband William Seton. She converted to Catholicism in 1805 and established the first Catholic girls' school in the nation in Emmitsburg, Maryland. There she also founded the first American congregation of religious sisters, the Sisters of Charity.",
+  "biography": "Elizabeth Ann Bayley Seton (August 28, 1774 – January 4, 1821) was an American Catholic educator, known as a founder of the country's parochial school system. Born in New York and reared as an Episcopalian, she married and had five children with her husband William Seton. She converted to Catholicism in 1805 and established the first Catholic girls' school in the nation in Emmitsburg, Maryland. There she also founded the first American congregation of religious sisters, the Sisters of Charity. On September 14, 1975, Seton was the first person born in what would become the United States to be canonized by the Catholic Church. Biography Early life Elizabeth Ann Bayley was born on August 28, 1774, the second child of a socially prominent couple, surgeon Richard Bayley and his wife Catherine Charlton of New York City. The Bayley and Charlton families were among the earliest European settlers in the New York area. Her father's parents were of French Huguenot and English descent and lived in New Rochelle, New York. Numerous Huguenots had emigrated to North America in the late 17th and early 18th centuries at a time of religious persecution in France. As Chief Health Officer for...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-04_saint_elizabeth_ann_seton.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c41823835d84dd07328212ebd1b92b32755aa8a6e448d41669751f62698bdd8f",
+        "langs": {
+          "es": {
+            "translatedHash": "42f1a0fb202be9928f07110fbce0788e14fa527901c3632c86ee06c1910b4329",
+            "updatedAt": "2026-02-24T22:05:43.792Z"
+          },
+          "pl": {
+            "translatedHash": "d82f5f618bf90409580bcf37d4c15a361d84b5759acf3e56fbd70a7203cc6bd7",
+            "updatedAt": "2026-02-24T22:05:44.670Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "dbba3e9e2a887b9432f9a3efd99c3d5d055d1e50f703d7fb2929253ac1c3f513",
+        "langs": {
+          "es": {
+            "translatedHash": "371b1d472a843c5172341854d5bdb291c8b9c092e233ff974357b7277ef1811c",
+            "updatedAt": "2026-02-24T22:05:45.194Z"
+          },
+          "pl": {
+            "translatedHash": "1b249d65f6c1833cd9ea478c1d384d74acdfe33b284878b06c25d8cf7a7893d1",
+            "updatedAt": "2026-02-24T22:05:45.816Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c36d4581e04f8ab9deb9d0ba6490ad4c33571f5888921faf84aaeaae3ff274bf",
+        "langs": {
+          "es": {
+            "translatedHash": "f2c8461d78bbd0d176bdcd63d0d30d8e2fcb708f05ab2dab6f00a1e5687e7ba1",
+            "updatedAt": "2026-02-24T22:05:47.626Z"
+          },
+          "pl": {
+            "translatedHash": "2a423ccb7ef638ce4749d4bbca9981a92e51fa1b04fd4fdcb0190b650004ba86",
+            "updatedAt": "2026-02-24T22:05:50.500Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3a07503f3c0d04d0a4f5176b53c75c724441d69ebba08498e9c31066cc4e0c04",
+        "langs": {
+          "es": {
+            "translatedHash": "85b7bfc1e7f3269ddaea9f9f43c731feb43d8cc207ea8988e1348b7775fe8ad4",
+            "updatedAt": "2026-02-24T22:05:55.441Z"
+          },
+          "pl": {
+            "translatedHash": "c797ebeebc94c39dd4ffac53648aa9e6d2d8746877a7d58b98b7680f5457f14f",
+            "updatedAt": "2026-02-24T22:06:01.857Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Isabel Ana Seton",
+  "name_pl": "Święta Elżbieta Anna Seton",
+  "feast_es": "El Cuarto Día de Enero",
+  "feast_pl": "Czwarty dzień stycznia",
+  "summary_es": "Elizabeth Ann Bayley Seton fue una educadora católica estadounidense, conocida como una fundadora del sistema escolar parroquial del país. Nacida en Nueva York y criada como episcopaliana, se casó y tuvo cinco hijos con su esposo William Seton. Se convirtió al catolicismo en 1805 y estableció la primera escuela católica para niñas en la nación, en Emmitsburg, Maryland. Allí también fundó la primera congregación estadounidense de religiosas, las Hermanas de la Caridad.",
+  "summary_pl": "Elizabeth Ann Bayley Seton była amerykańską katolicką edukatorką, znaną jako założycielka parafialnego systemu szkół w kraju. Urodzona w Nowym Jorku i wychowana jako episkopalianka, wyszła za mąż i miała pięcioro dzieci z mężem Williamem Setonem. W 1805 roku przeszła na katolicyzm i założyła pierwszą katolicką szkołę dla dziewcząt w kraju w Emmitsburgu w stanie Maryland. Tam również założyła pierwszą amerykańską kongregację sióstr zakonnych, Siostry Miłosierdzia.",
+  "biography_es": "Elizabeth Ann Bayley Seton (28 de agosto de 1774 – 4 de enero de 1821) fue una educadora católica estadounidense, conocida como una de las fundadoras del sistema de escuelas parroquiales del país. Nacida en Nueva York y criada como episcopaliana, se casó y tuvo cinco hijos con su esposo William Seton. Se convirtió al catolicismo en 1805 y estableció la primera escuela católica para niñas en la nación, en Emmitsburg, Maryland. Allí también fundó la primera congregación estadounidense de religiosas, las Hermanas de la Caridad. El 14 de septiembre de 1975, Seton fue la primera persona nacida en lo que sería Estados Unidos en ser canonizada por la Iglesia Católica.\n\nBiografía\n\nPrimeros años\n\nElizabeth Ann Bayley nació el 28 de agosto de 1774, siendo la segunda hija de una pareja socialmente prominente, el cirujano Richard Bayley y su esposa Catherine Charlton, de la ciudad de Nueva York. Las familias Bayley y Charlton estuvieron entre los primeros colonos europeos en el área de Nueva York. Los padres de su padre eran de ascendencia hugonote francesa e inglesa y vivían en New Rochelle, Nueva York. Numerosos hugonotes habían emigrado a Norteamérica a finales del siglo XVII y principios del XVIII, en una época de persecución religiosa en Francia. Como Oficial Principal de Salud para...",
+  "biography_pl": "Elżbieta Anna Bayley Seton (28 sierpnia 1774 – 4 stycznia 1821) była amerykańską katolicką edukatorką, znaną jako założycielka parafialnego systemu szkolnego w kraju. Urodzona w Nowym Jorku i wychowana jako episkopalianka, wyszła za mąż i miała pięcioro dzieci z mężem Williamem Setonem. W 1805 roku przeszła na katolicyzm i założyła pierwszą katolicką szkołę dla dziewcząt w kraju w Emmitsburgu w stanie Maryland. Tam również założyła pierwszy amerykański zakon sióstr zakonnych, Siostry Miłosierdzia. 14 września 1975 roku Seton została pierwszą osobą urodzoną na terenie, który miał stać się Stanami Zjednoczonymi, kanonizowaną przez Kościół katolicki.\n\nBiografia\n\nWczesne życie\n\nElżbieta Anna Bayley urodziła się 28 sierpnia 1774 roku jako drugie dziecko społecznie znaczącej pary, chirurga Richarda Bayleya i jego żony Catherine Charlton z Nowego Jorku. Rodziny Bayley i Charlton były jednymi z najwcześniejszych europejskich osadników na terenie Nowego Jorku. Rodzice jej ojca byli pochodzenia francuskiego hugenockiego i angielskiego i mieszkali w New Rochelle w stanie Nowy Jork. Liczni hugenoci emigrowali do Ameryki Północnej pod koniec XVII i na początku XVIII wieku w czasie prześladowań religijnych we Francji. Jako Główny Inspektor Zdrowia dla..."
+}

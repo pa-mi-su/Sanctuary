@@ -1,0 +1,79 @@
+{
+  "id": "05-24_saint_manahen",
+  "name": "Saint Manahen",
+  "mmdd": "05-24",
+  "feast": "The Twenty-Fourth Day of May",
+  "summary": "Manaen may refer to:Manahen, teacher of the Church of Antioch and the foster brother of Herod Antipas\nKing Manahem, king over Israel and the son of Gadi\n",
+  "biography": "Manahen (also Manaen), teacher of the Church of Antioch and the foster brother of Herod Antipas\nKing Manahem (fl. 8th century BC), king over Israel and the son of Gadi",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manaen",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-24_saint_manahen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "68d3d6b3646be880d7b1130967ca66df0c21a955f493bc0881c4f0d6252fa4f2",
+        "langs": {
+          "es": {
+            "translatedHash": "7a2fc291cc382b56bb2c06011a3caf443fa40ffd85b7e1c2d9cb0dda4b91ffb8",
+            "updatedAt": "2026-02-24T23:31:03.567Z"
+          },
+          "pl": {
+            "translatedHash": "533b519cc97501f634eb29b5bf52daf6647a8a814042bb4bfe5c98f7c2960c94",
+            "updatedAt": "2026-02-24T23:31:04.086Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "da3101e3d8f1e40520677ec807defa0368b9df83c8ea583b17b41738d48e6bd6",
+        "langs": {
+          "es": {
+            "translatedHash": "e68a777b23a6fc79e4b56e1ed2a8e037cbd1d011ea88d1813317d2401a4caef4",
+            "updatedAt": "2026-02-24T23:31:04.865Z"
+          },
+          "pl": {
+            "translatedHash": "5b5a5e87a43a085e00c96d9d251685ae93482844408c3dbd7bc1c530b08d6ef2",
+            "updatedAt": "2026-02-24T23:31:05.408Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ca1ad5c4fdefc902bb3e8bd131d633a41511c660febcaf9db2eab35c1c088642",
+        "langs": {
+          "es": {
+            "translatedHash": "d0cb898a7a8076fc23f1a27d01c2b53cd7480e46e4b87af0876430798bb7390c",
+            "updatedAt": "2026-02-24T23:31:06.602Z"
+          },
+          "pl": {
+            "translatedHash": "54120c78a4da608edc7e299411226c4b25222d082dd1b90805c2eee278af6d09",
+            "updatedAt": "2026-02-24T23:31:07.827Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6152e21d08edd2c9f6d2105313798a6da78c849db0976cff46a543303f7ab4fe",
+        "langs": {
+          "es": {
+            "translatedHash": "95604d895c120b659b73d78f5c3da8242a474f307b69a13dfebb96f357187391",
+            "updatedAt": "2026-02-24T23:31:09.153Z"
+          },
+          "pl": {
+            "translatedHash": "67941892c401c36886fb0bda39cc07e2ca63a2bb875189eb1b16c0fea3a6edc9",
+            "updatedAt": "2026-02-24T23:31:10.432Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Manahen",
+  "name_pl": "Święty Manahen",
+  "feast_es": "El Veinticuatro de Mayo",
+  "feast_pl": "Dwudziesty czwarty dzień maja",
+  "summary_es": "Manaen puede referirse a:  \nManahen, maestro de la Iglesia de Antioquía y hermano de crianza de Herodes Antipas  \nRey Manahem, rey de Israel y hijo de Gadi",
+  "summary_pl": "Manaen może odnosić się do:  \nManahen, nauczyciel Kościoła w Antiochii i przybrany brat Heroda Antypasa  \nKról Manahem, król Izraela i syn Gadiego",
+  "biography_es": "Manahen (también Manaén), maestro de la Iglesia de Antioquía y hermano de crianza de Herodes Antipas  \nRey Manahem (siglo VIII a.C.), rey de Israel y hijo de Gadí",
+  "biography_pl": "Manahen (również Manaen), nauczyciel Kościoła w Antiochii i przybrany brat Heroda Antypasa  \nKról Manahem (działający w VIII wieku p.n.e.), król Izraela i syn Gadiego"
+}

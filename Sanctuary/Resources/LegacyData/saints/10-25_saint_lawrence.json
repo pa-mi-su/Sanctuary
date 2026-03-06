@@ -1,0 +1,78 @@
+{
+  "id": "10-25_saint_lawrence",
+  "name": "Saint Lawrence",
+  "mmdd": "10-25",
+  "feast": "The Twenty-Fifth Day of October",
+  "summary": "Saint Lawrence or Laurence was one of the seven deacons of the city of Rome under Pope Sixtus II who were martyred in the persecution of the Christians ordered by the Roman emperor Valerian in 258.",
+  "biography": "Life\nLawrence is thought to have been born on 31 December AD 225, in Huesca (or, less probably, in Valencia), the town from which his parents came in the later region of Aragon, which was then part of the Roman province of Hispania Tarraconensis. The martyrs Orentius (Modern Spanish: San Orencio) and Patientia (Modern Spanish: Santa Paciencia) are traditionally held to have been his parents.\nLawrence encountered the future Pope Sixtus II, a famous teacher born in Greece, in Caesaraugusta (Zaragoza), and they travelled together from Hispania to Rome. When Sixtus became the pope in 257, he ordained the young Lawrence, who was only 32, as a deacon, and later appointed him as Archdeacon of Rome, the first among the seven deacons who served in the cathedral church. This was a position of great trust which included the care of the treasury and riches of the Church and the distribution of alms to the poor.\n\nSt. Cyprian...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lawrence"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-25_saint_lawrence.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0bbaefa6d78abb8597b02c5bd2c7940f6fb0225607c1387a6359aaff010a84ee",
+        "langs": {
+          "es": {
+            "translatedHash": "fbaa92b835c11e52666d8365848d04af1c43bf310c88e632074b0a7b41afe2ac",
+            "updatedAt": "2026-02-25T00:56:36.900Z"
+          },
+          "pl": {
+            "translatedHash": "cd54abd4f99cb3c7dc8d1be5ca369358603f9bc002b77cf44824b628f3137245",
+            "updatedAt": "2026-02-25T00:56:37.560Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "17e246c2a4dd66f5945a8c8fe9319d0cb86a43415941acddc0e8e82f6e6fc66e",
+        "langs": {
+          "es": {
+            "translatedHash": "c938950d156e0aafd0643e0bea7a90dc1636b72dafa04e680499a439646352b3",
+            "updatedAt": "2026-02-25T00:56:38.747Z"
+          },
+          "pl": {
+            "translatedHash": "8858bae2afc91d03d9f78f83f5c7d7274da96f86c60775ed9911929b8d2c50da",
+            "updatedAt": "2026-02-25T00:56:39.448Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c9c1a5134570fc22902ffdc720fd9ef2bb77c6de4a574c904483319f1bedf945",
+        "langs": {
+          "es": {
+            "translatedHash": "5dec78a75dc585c01715ae3161da922b61de4e931f5b9a6b9e3c509e1349c251",
+            "updatedAt": "2026-02-25T00:56:40.775Z"
+          },
+          "pl": {
+            "translatedHash": "d66821b60acb6d8d2eff8bd814536d8c8c38460e39139ad35cb22960de69dd46",
+            "updatedAt": "2026-02-25T00:56:44.171Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d55bd87233afd62798477adefccefca3b8a30bfa195ade2347a36ce70adb9234",
+        "langs": {
+          "es": {
+            "translatedHash": "239d09666b8f240f2c9b864e27d822adb655f0558bd9c0ac4c6853a2fc3e1acc",
+            "updatedAt": "2026-02-25T00:56:48.187Z"
+          },
+          "pl": {
+            "translatedHash": "52cf9e9cef71801d3cbc1f95b89e0a1ccd540ff2f6fd8fe5585951e740d208c9",
+            "updatedAt": "2026-02-25T00:56:53.142Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Lorenzo",
+  "name_pl": "Święty Wawrzyniec",
+  "feast_es": "El Vigésimo Quinto Día de Octubre",
+  "feast_pl": "Dwudziesty piąty dzień października",
+  "summary_es": "San Lorenzo o Laurencio fue uno de los siete diáconos de la ciudad de Roma bajo el Papa Sixto II que fueron martirizados en la persecución de los cristianos ordenada por el emperador romano Valeriano en el año 258.",
+  "summary_pl": "Święty Wawrzyniec lub Laurenty był jednym z siedmiu diakonów miasta Rzymu za pontyfikatu papieża Sykstusa II, którzy zostali męczennikami podczas prześladowań chrześcijan zarządzonych przez cesarza rzymskiego Waleriana w roku 258.",
+  "biography_es": "Vida  \nSe cree que Lorenzo nació el 31 de diciembre del año 225 d.C., en Huesca (o, menos probablemente, en Valencia), la ciudad de donde provenían sus padres en la región posterior de Aragón, que entonces formaba parte de la provincia romana de Hispania Tarraconense. Tradicionalmente se considera que los mártires Orencio (en español moderno: San Orencio) y Paciencia (en español moderno: Santa Paciencia) fueron sus padres.  \nLorenzo conoció al futuro Papa Sixto II, un famoso maestro nacido en Grecia, en Caesaraugusta (Zaragoza), y viajaron juntos desde Hispania a Roma. Cuando Sixto se convirtió en papa en el año 257, ordenó al joven Lorenzo, que tenía solo 32 años, como diácono, y más tarde lo nombró Archidiácono de Roma, el primero entre los siete diáconos que servían en la iglesia catedral. Esta era una posición de gran confianza que incluía el cuidado del tesoro y las riquezas de la Iglesia y la distribución de limosnas a los pobres.\n\nSan Cipriano...",
+  "biography_pl": "Życie  \nŚwięty Wawrzyniec urodził się, jak się przypuszcza, 31 grudnia 225 roku n.e. w Huesce (lub, mniej prawdopodobnie, w Walencji), mieście, z którego pochodziła jego rodzina, w późniejszym regionie Aragonii, który wówczas należał do rzymskiej prowincji Hispania Tarraconensis. Męczennicy Orentiusz (w nowoczesnym hiszpańskim: San Orencio) i Patientia (w nowoczesnym hiszpańskim: Santa Paciencia) tradycyjnie uważani są za jego rodziców.  \nWawrzyniec spotkał przyszłego papieża Sykstusa II, słynnego nauczyciela urodzonego w Grecji, w Cesaraugusta (Zaragoza), i razem podróżowali z Hispanii do Rzymu. Gdy Sykstus został papieżem w 257 roku, wyświęcił młodego Wawrzyńca, który miał wtedy zaledwie 32 lata, na diakona, a później mianował go archidiakonem Rzymu, pierwszym spośród siedmiu diakonów służących w katedrze. Było to stanowisko wielkiego zaufania, obejmujące opiekę nad skarbcem i bogactwami Kościoła oraz rozdawanie jałmużny ubogim.\n\nŚw. Cyprian..."
+}

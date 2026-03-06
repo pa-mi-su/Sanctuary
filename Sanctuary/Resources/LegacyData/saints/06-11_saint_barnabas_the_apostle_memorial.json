@@ -1,0 +1,48 @@
+{
+  "id": "06-11_saint_barnabas_the_apostle_memorial",
+  "name": "Saint Barnabas the Apostle—Memorial",
+  "mmdd": "06-11",
+  "feast": "The Eleventh Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-11_saint_barnabas_the_apostle_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "07e8e1c34ef09d17e5fd52bde81dffe8c6d57acddc607c7b6d51cad69e978f3d",
+        "langs": {
+          "es": {
+            "translatedHash": "1423c4e90611a7f108465354144ee2bd74687309406bb7b1ffbc98392bbdf893",
+            "updatedAt": "2026-02-24T23:41:26.600Z"
+          },
+          "pl": {
+            "translatedHash": "04ed8e676b42f0a1d469066729e787d3e2fdf767150b09329d6218ceb4718e8c",
+            "updatedAt": "2026-02-24T23:41:27.181Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "819968c27e2bd6257400f08a0fb55f7390c32dc98956d7dd1c83a0f9789aa220",
+        "langs": {
+          "es": {
+            "translatedHash": "4dd904ddc7e214f6d8fb8e196c6855b3f89e9cf49d9fbd2026902609765f0bd7",
+            "updatedAt": "2026-02-24T23:41:28.017Z"
+          },
+          "pl": {
+            "translatedHash": "6e138a52c50fdc5dad76906fdf0c002cb36bd1b05ee167c8f87b29609c8e2bd3",
+            "updatedAt": "2026-02-24T23:41:29.498Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bernabé Apóstol—Memoria",
+  "name_pl": "Święty Barnaba Apostoł — Wspomnienie",
+  "feast_es": "El día once de junio",
+  "feast_pl": "Jedenasty dzień czerwca"
+}

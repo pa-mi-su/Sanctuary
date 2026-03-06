@@ -1,0 +1,46 @@
+{
+  "id": "10-12_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-12",
+  "feast": "The Twelfth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:48:09.287Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:48:09.856Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6136094aa6fae54ed3e4ded671a89021f08ad3dc471ac3d2bc76e86b965aa906",
+        "langs": {
+          "es": {
+            "translatedHash": "ae8e2dddb2e48144bb6194de02ce7df77103c9ec98036db5cdfe58fe0fa5dfdc",
+            "updatedAt": "2026-02-25T00:48:10.569Z"
+          },
+          "pl": {
+            "translatedHash": "95d95ff7bb971a9f275459c76bc5d9677f301806c53157e907795e070b96e82c",
+            "updatedAt": "2026-02-25T00:48:11.332Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Duodécimo Día de Octubre",
+  "feast_pl": "Dwunasty Dzień Października"
+}

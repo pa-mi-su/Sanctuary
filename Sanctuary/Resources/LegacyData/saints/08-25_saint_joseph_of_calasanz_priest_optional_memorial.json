@@ -1,0 +1,48 @@
+{
+  "id": "08-25_saint_joseph_of_calasanz_priest_optional_memorial",
+  "name": "Saint Joseph of Calasanz, Priest—Optional Memorial",
+  "mmdd": "08-25",
+  "feast": "The Twenty-Fifth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Piarist_Church._Statue_of_Saint_Joseph_of_Calasanz._-_V%C3%A1c.JPG"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-25_saint_joseph_of_calasanz_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f5103c0545bbd54b02d9afccca35d5850577c7a091deacee2c8408e3f32ad1bc",
+        "langs": {
+          "es": {
+            "translatedHash": "097b4c59f91f037a09e41f3eb2a0a0757bd3501f4ae56a2eb1d920eb12819e70",
+            "updatedAt": "2026-02-25T00:21:27.684Z"
+          },
+          "pl": {
+            "translatedHash": "e0db0b0bcddb31c58dacd5a887e9d1c71ff22b9dae6e400fd773c652dff095e0",
+            "updatedAt": "2026-02-25T00:21:28.521Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ccc697ac43d36313754694285211110d2f68db5bcfcf94de9fb0a26090d20f47",
+        "langs": {
+          "es": {
+            "translatedHash": "5e37d8f6dcc40d5e6c548b78f0388447223f265cbe27aa464e6f2c17836fd334",
+            "updatedAt": "2026-02-25T00:21:29.112Z"
+          },
+          "pl": {
+            "translatedHash": "77c1125021607e279d4c3a478e8c5c6e204306604b962028da9489d63d8dcbd6",
+            "updatedAt": "2026-02-25T00:21:29.728Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San José de Calasanz, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Józef Kalasancjusz, kapłan — wspomnienie dowolne",
+  "feast_es": "El vigésimo quinto día de agosto",
+  "feast_pl": "Dwudziesty piąty dzień sierpnia"
+}

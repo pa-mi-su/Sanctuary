@@ -1,0 +1,46 @@
+{
+  "id": "08-30_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "08-30",
+  "feast": "The Thirtieth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:23:47.183Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:23:47.784Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "06e0b523729c71c162da4535bbbd75e4fd51f4189ceba394a0d3a3e9c0b573d0",
+        "langs": {
+          "es": {
+            "translatedHash": "370a3f4946143101e84d4062b23c81773e0da5808d0632fe4021053fad851cc1",
+            "updatedAt": "2026-02-25T00:23:48.373Z"
+          },
+          "pl": {
+            "translatedHash": "d015ed3f33ca36ba4525c86298436a9bfe45bc39f3ae9106f122347131f94335",
+            "updatedAt": "2026-02-25T00:23:49.000Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Trigésimo Día de Agosto",
+  "feast_pl": "Trzydziesty dzień sierpnia"
+}

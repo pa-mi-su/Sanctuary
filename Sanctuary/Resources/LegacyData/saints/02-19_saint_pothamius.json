@@ -1,0 +1,79 @@
+{
+  "id": "02-19_saint_pothamius",
+  "name": "Saint Pothamius",
+  "mmdd": "02-19",
+  "feast": "The Nineteenth Day of February",
+  "summary": "Saint Pothamius is commonly identified with Potamius of Lisbon, a fourth-century bishop in Roman Lusitania. He is remembered in Christian tradition as a church leader active during the Arian controversies.",
+  "biography": "Potamius of Lisbon appears in late-antique ecclesiastical history as a bishop connected to the doctrinal disputes of the fourth century, especially debates about the divinity of Christ. Historical sources indicate that his theological alignment shifted during the controversy, a pattern not uncommon in that period of intense imperial and ecclesial pressure. In devotional tradition and later martyrology lists, the name Pothamius/Potamius is preserved among holy pastors of the early Church, though many biographical details remain sparse and textually uncertain.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Potamius_of_Lisbon",
+    "https://catholicsaints.info/roman-martyrology-february-19th/"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-19_saint_pothamius.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "53c015fac010b1b37d1ac90f7bf67e40b1278661dfb3752bb69d8e99a8a03b67",
+        "langs": {
+          "es": {
+            "translatedHash": "ddf635319ab2fa3a0e2eeac305c3cb6961e17c5236ddb42f4780c659927c0ff2",
+            "updatedAt": "2026-02-24T22:38:20.155Z"
+          },
+          "pl": {
+            "translatedHash": "5b4a47c9972fe66d0e9856336576ad11b51f8d225fe3fe643568db87e067e9ce",
+            "updatedAt": "2026-02-24T22:38:21.501Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d27af6c55c594f5e441fa7d267147f44a55a7bea4df3dbaab893220d06e3dcb8",
+        "langs": {
+          "es": {
+            "translatedHash": "27bc72282d3309566ae291ad0fc6806a7b033a73f61167171ba2ae6b60906ea2",
+            "updatedAt": "2026-02-24T22:38:22.294Z"
+          },
+          "pl": {
+            "translatedHash": "5ee485a4af50097d69fdae28cbfe9f28bd7bcc79901928669b2052305c4e5a90",
+            "updatedAt": "2026-02-24T22:38:22.968Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bbd48887f6d480f6cd227dc86ec14fed1145e5c9b5161149b6cb23a039f825b1",
+        "langs": {
+          "es": {
+            "translatedHash": "68f49b47a7886f1eba34bef9ed11122e8f04fd96fce0f7825a452b767b4cb546",
+            "updatedAt": "2026-02-24T22:38:24.042Z"
+          },
+          "pl": {
+            "translatedHash": "d30ef79b6eb0611ede418733fd2bca74818b76ab95d33170ffec688dca857267",
+            "updatedAt": "2026-02-24T22:38:25.335Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c5ffe24f4343d9ea3c4ceb1e56c552119eea175762161dbcbf58251c07b8ae92",
+        "langs": {
+          "es": {
+            "translatedHash": "55e1958c27d23270641496dce670cb419c3f55057eae8e3274c996be0ed048e0",
+            "updatedAt": "2026-02-24T22:38:27.716Z"
+          },
+          "pl": {
+            "translatedHash": "26be239e2d6bb777e2a48b316f78c2a7c179a20cdb097f701ec3de4faad4da12",
+            "updatedAt": "2026-02-24T22:38:31.654Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Potamio",
+  "name_pl": "Święty Pothamiusz",
+  "feast_es": "El día diecinueve de febrero",
+  "feast_pl": "Dziewiętnasty dzień lutego",
+  "summary_es": "San Potamio es comúnmente identificado con Potamio de Lisboa, un obispo del siglo IV en la Lusitania romana. Es recordado en la tradición cristiana como un líder eclesiástico activo durante las controversias arrianas.",
+  "summary_pl": "Święty Pothamiusz jest powszechnie utożsamiany z Potamiuszem z Lizbony, biskupem z IV wieku w rzymskiej Lusitanii. W tradycji chrześcijańskiej jest pamiętany jako przywódca kościelny aktywny podczas sporów ariańskich.",
+  "biography_es": "Potamio de Lisboa aparece en la historia eclesiástica de la antigüedad tardía como un obispo vinculado a las disputas doctrinales del siglo IV, especialmente a los debates sobre la divinidad de Cristo. Las fuentes históricas indican que su alineación teológica cambió durante la controversia, un patrón no infrecuente en ese período de intensa presión imperial y eclesiástica. En la tradición devocional y en listas posteriores de martirologios, el nombre Pothamius/Potamius se conserva entre los santos pastores de la Iglesia primitiva, aunque muchos detalles biográficos permanecen escasos y textualmente inciertos.",
+  "biography_pl": "Potamiusz z Lizbony pojawia się w historii kościelnej późnej starożytności jako biskup związany z doktrynalnymi sporami IV wieku, zwłaszcza debatami o boskości Chrystusa. Źródła historyczne wskazują, że jego orientacja teologiczna zmieniała się podczas kontrowersji, co nie było rzadkie w tym okresie intensywnej presji cesarskiej i kościelnej. W tradycji pobożnościowej i późniejszych wykazach martyrologicznych imię Pothamius/Potamiusz zachowało się wśród świętych pasterzy wczesnego Kościoła, choć wiele szczegółów biograficznych pozostaje skąpych i tekstowo niepewnych."
+}

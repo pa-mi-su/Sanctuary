@@ -1,0 +1,48 @@
+{
+  "id": "04-25_saint_mark_the_evangelist_feast",
+  "name": "Saint Mark the Evangelist—Feast",
+  "mmdd": "04-25",
+  "feast": "The Twenty-Fifth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mark_the_Evangelist"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-25_saint_mark_the_evangelist_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "44a3687e7334b38cf8d7ef52f1f4727ac60e76c85eeb3da4e233e717e20c2a71",
+        "langs": {
+          "es": {
+            "translatedHash": "e99c00a15952c7697d8bc91f37f7075ffad9c460542054666e7e08321724f09c",
+            "updatedAt": "2026-02-24T23:14:21.416Z"
+          },
+          "pl": {
+            "translatedHash": "2df294cd116ac406f489d04c420795a1cbf51000437dd7a108b5ebc137c4ad6b",
+            "updatedAt": "2026-02-24T23:14:22.070Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5c3a4147fab4fab9145f462923724570133ca3d7b1b5704adc35a95ddee1e153",
+        "langs": {
+          "es": {
+            "translatedHash": "477b07182fec79e880bf5fc227c2b11bce9a4f8cf21f741f9905921bc492116f",
+            "updatedAt": "2026-02-24T23:14:22.646Z"
+          },
+          "pl": {
+            "translatedHash": "02c124f9a41be2ccf3ec5c94e0ae7c12ef555c232600ca5e5220a4eabcecf31f",
+            "updatedAt": "2026-02-24T23:14:23.282Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Marcos Evangelista—Fiesta",
+  "name_pl": "Święty Marek Ewangelista — Uroczystość",
+  "feast_es": "El vigésimo quinto día de abril",
+  "feast_pl": "Dwudziesty piąty dzień kwietnia"
+}

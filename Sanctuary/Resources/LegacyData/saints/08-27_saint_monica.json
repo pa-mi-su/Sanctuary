@@ -1,0 +1,79 @@
+{
+  "id": "08-27_saint_monica",
+  "name": "Saint Monica",
+  "mmdd": "08-27",
+  "feast": "The Twenty-Seventh Day of August",
+  "summary": "Monica, also written as Monnica, was an early North African Christian saint and the mother of Augustine of Hippo. She is remembered and honored in the Catholic and Orthodox Churches, albeit on different feast days, for her outstanding Christian virtues, particularly the suffering caused by her husband's adultery, and her prayerful life dedicated to the reformation of her son, who wrote extensively of her pious acts and life with her in his Confessions. Popular Christian legends recall Monica weeping every night for her son Augustine.",
+  "biography": "Monica, also written as Monnica, was an early North African Christian saint and the mother of Augustine of Hippo. She is remembered and honored in the Catholic and Orthodox Churches, albeit on different feast days, for her outstanding Christian virtues, particularly the suffering caused by her husband's adultery, and her prayerful life dedicated to the reformation of her son, who wrote extensively of her pious acts and life with her in his Confessions. Popular Christian legends recall Monica weeping every night for her son Augustine.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Monica",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-27_saint_monica.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7bf4a3baf4b4b1644f4b141fbdcb37bcf149b1a15a7ad08f9d2f9468f22adc00",
+        "langs": {
+          "es": {
+            "translatedHash": "d5fcd86aaed9d32c2fec00a1ddab9e046ede8fa592f35c77fa21ce9e9fe55049",
+            "updatedAt": "2026-02-25T00:22:39.358Z"
+          },
+          "pl": {
+            "translatedHash": "96ff2eb30bd25d2a012a2870ebeb337f05a7f608eb1c53413537487e7c9e834f",
+            "updatedAt": "2026-02-25T00:22:39.915Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "256435720e11ba332af745abe6cc69caa2c50148b2734fa577c6021bf1fcd951",
+        "langs": {
+          "es": {
+            "translatedHash": "7a2ec6fe2ea13455309fc391731a2a0722934eb81a8c6977c0f229a067136d1b",
+            "updatedAt": "2026-02-25T00:22:40.705Z"
+          },
+          "pl": {
+            "translatedHash": "66257a40d0f9e41c8d9dae23bfe9bb689cb6072551ae0fcf393c20813f7788bb",
+            "updatedAt": "2026-02-25T00:22:41.492Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "786755b7553db105e7cba826cb21528fb61edf0d4cd9b3e843f1cfa5535ea011",
+        "langs": {
+          "es": {
+            "translatedHash": "278359d9e54861cfb0eacdd6a84b57dfb00bedd2a255740feece765c4794d5f1",
+            "updatedAt": "2026-02-25T00:22:44.026Z"
+          },
+          "pl": {
+            "translatedHash": "d7beb2c6cda042808c97878eb145ef72a886c7992b6abe4e0345be087a640b10",
+            "updatedAt": "2026-02-25T00:22:47.329Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "786755b7553db105e7cba826cb21528fb61edf0d4cd9b3e843f1cfa5535ea011",
+        "langs": {
+          "es": {
+            "translatedHash": "278359d9e54861cfb0eacdd6a84b57dfb00bedd2a255740feece765c4794d5f1",
+            "updatedAt": "2026-02-25T00:22:49.919Z"
+          },
+          "pl": {
+            "translatedHash": "9859df44a580cbae5047393ebb5eb9bb7a5321d2cd42e796edcafaaa70c3ee07",
+            "updatedAt": "2026-02-25T00:22:52.746Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Mónica",
+  "name_pl": "Święta Monika",
+  "feast_es": "El Vigésimo Séptimo Día de Agosto",
+  "feast_pl": "Dwudziesty siódmy dzień sierpnia",
+  "summary_es": "Mónica, también escrita como Monnica, fue una santa cristiana del norte de África en los primeros siglos y la madre de Agustín de Hipona. Es recordada y honrada en las Iglesias Católica y Ortodoxa, aunque en diferentes días de fiesta, por sus sobresalientes virtudes cristianas, particularmente el sufrimiento causado por el adulterio de su esposo, y su vida de oración dedicada a la conversión de su hijo, quien escribió extensamente sobre sus actos piadosos y la vida con ella en sus Confesiones. Las leyendas cristianas populares recuerdan a Mónica llorando cada noche por su hijo Agustín.",
+  "summary_pl": "Monika, również zapisywana jako Monnica, była wczesną chrześcijańską świętą z Afryki Północnej i matką Augustyna z Hippony. Jest pamiętana i czczona w Kościele katolickim i prawosławnym, choć w różne dni uroczystości, za swoje wybitne cnoty chrześcijańskie, szczególnie za cierpienia spowodowane cudzołóstwem męża oraz za modlitewne życie poświęcone nawróceniu syna, który obszernie pisał o jej pobożnych czynach i życiu z nią w swoich Wyznaniach. Popularne legendy chrześcijańskie przypominają Monikę płaczącą każdej nocy za synem Augustynem.",
+  "biography_es": "Mónica, también escrita como Monnica, fue una santa cristiana del norte de África en los primeros siglos y la madre de Agustín de Hipona. Es recordada y honrada en las Iglesias Católica y Ortodoxa, aunque en diferentes días de fiesta, por sus sobresalientes virtudes cristianas, particularmente el sufrimiento causado por el adulterio de su esposo, y su vida de oración dedicada a la conversión de su hijo, quien escribió extensamente sobre sus actos piadosos y la vida con ella en sus Confesiones. Las leyendas cristianas populares recuerdan a Mónica llorando cada noche por su hijo Agustín.",
+  "biography_pl": "Monika, zwana także Monnicą, była wczesną chrześcijańską świętą z Afryki Północnej oraz matką Augustyna z Hippony. Jest wspominana i czczona w Kościele katolickim i prawosławnym, choć w różne dni obchodów, za swoje wybitne cnoty chrześcijańskie, szczególnie za cierpienie spowodowane cudzołóstwem męża oraz modlitewne życie poświęcone nawróceniu syna, który obszernie pisał o jej pobożnych czynach i życiu z nią w swoich Wyznaniach. Popularne legendy chrześcijańskie przypominają Monikę płaczącą każdej nocy za synem Augustynem."
+}

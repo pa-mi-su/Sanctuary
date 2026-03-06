@@ -1,0 +1,46 @@
+{
+  "id": "06-10_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "06-10",
+  "feast": "The Tenth Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:40:37.447Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:40:38.070Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b3364c48ebbbbf73b311828dc86a254513babbb2ed3fca20293c27c34233a98f",
+        "langs": {
+          "es": {
+            "translatedHash": "6e1b519341cd9ff5bdc4a0e61da7de0f351b56ffddd89bf094cf64f2ad344260",
+            "updatedAt": "2026-02-24T23:40:38.555Z"
+          },
+          "pl": {
+            "translatedHash": "d0e7821a0168ff0b30c5e968ed697f9f6a2bd183762434e816094e8b49a512db",
+            "updatedAt": "2026-02-24T23:40:39.100Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Día Décimo de Junio",
+  "feast_pl": "Dziesiąty dzień czerwca"
+}

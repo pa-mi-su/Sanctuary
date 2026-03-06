@@ -1,0 +1,79 @@
+{
+  "id": "11-28_saint_rufus",
+  "name": "Saint Rufus",
+  "mmdd": "11-28",
+  "feast": "The Twenty-Eighth Day of November",
+  "summary": "Rufus and Zosimus are 2nd century Christian martyrs venerated by the Roman Catholic and the Eastern Orthodox churches. They lived in Antioch and were martyred with Ignatius of Antioch during the persecution of Christians under the Roman emperor Trajan. They were killed by beasts in the Roman arena two days before Ignatius suffered the same fate. Their feast day is December 18.",
+  "biography": "Notes\n\n\nExternal links\nSt Rufus Colonnade Statue in St Peter's Square\nSt Zosimus Colonnade Statue in St Peter's Square",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rufus_and_Zosimus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-28_saint_rufus.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f4fcba5fcd1e9c6afddc70d9e6fc33f0d7d45a7344cdbddb544b2f4d3a30a017",
+        "langs": {
+          "es": {
+            "translatedHash": "c99217c88c41fd4a9214e9062a25d1f506953e0fc7dfe80b5d34976a98c9fd5c",
+            "updatedAt": "2026-02-25T01:16:15.556Z"
+          },
+          "pl": {
+            "translatedHash": "adb80591d770be6b45744d693660984ae22fdab0474396334550026b698d4284",
+            "updatedAt": "2026-02-25T01:16:16.713Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e4ab397e8f39fb8ac6e898809bab9e11c2b773fe5c85c98a05932ed17a19f0f4",
+        "langs": {
+          "es": {
+            "translatedHash": "baef85de482ceb61aee64b7ca24bab62c17c0013ef79d8910b50fde81fdb75c5",
+            "updatedAt": "2026-02-25T01:16:17.528Z"
+          },
+          "pl": {
+            "translatedHash": "4cbc23e140c7815b723d86aa330a19b99ef4bbbdf6ca0b6edc4893bbf800a550",
+            "updatedAt": "2026-02-25T01:16:18.082Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3032a598fd8f40dbac411db60bd3429f5bec86cf3414eed06592bd6e6aef353d",
+        "langs": {
+          "es": {
+            "translatedHash": "3be9410d74e95525dead635fee59087725e2da91e6521f40e4341bfffd62f923",
+            "updatedAt": "2026-02-25T01:16:20.025Z"
+          },
+          "pl": {
+            "translatedHash": "abfbff44626217383576bf4ff442b5c8044b014b512775e80044b4ae537da567",
+            "updatedAt": "2026-02-25T01:16:22.675Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6724f25dc0d91483a8acf7ab05cfa7a74b0afd5267b133ecf24330a04a971d15",
+        "langs": {
+          "es": {
+            "translatedHash": "9ca57d96aacc34767d90d4cd65809fbbf7839f5abfc069dfa0f60533df491095",
+            "updatedAt": "2026-02-25T01:16:23.978Z"
+          },
+          "pl": {
+            "translatedHash": "bf5b000e414c3522f08b4af71945630e80fee1a3cee9512316c968b939a7a0e4",
+            "updatedAt": "2026-02-25T01:16:25.357Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Rufo",
+  "name_pl": "Święty Rufus",
+  "feast_es": "El vigésimo octavo día de noviembre",
+  "feast_pl": "Dwudziesty ósmy dzień listopada",
+  "summary_es": "Rufino y Zósimo son mártires cristianos del siglo II venerados por las iglesias católica romana y ortodoxa oriental. Vivieron en Antioquía y fueron martirizados junto con Ignacio de Antioquía durante la persecución de los cristianos bajo el emperador romano Trajano. Fueron muertos por bestias en la arena romana dos días antes de que Ignacio sufriera el mismo destino. Su fiesta se celebra el 18 de diciembre.",
+  "summary_pl": "Rufus i Zozimus są chrześcijańskimi męczennikami II wieku czczonymi przez Kościół rzymskokatolicki i Kościół prawosławny.  \nŻyli w Antiochii i zostali zamordowani razem z Ignacym Antiocheńskim podczas prześladowań chrześcijan za panowania cesarza rzymskiego Trajana.  \nZostali zabici przez dzikie zwierzęta na arenie rzymskiej dwa dni przed tym, jak ten sam los spotkał Ignacego.  \nIch wspomnienie liturgiczne przypada na 18 grudnia.",
+  "biography_es": "Notas\n\n\nEnlaces externos  \nEstatua de San Rúfo en la columnata de la Plaza de San Pedro  \nEstatua de San Zósimo en la columnata de la Plaza de San Pedro",
+  "biography_pl": "Uwagi\n\n\nLinki zewnętrzne\nFigura św. Rufusa w kolumnadzie na Placu św. Piotra\nFigura św. Zozymusa w kolumnadzie na Placu św. Piotra"
+}

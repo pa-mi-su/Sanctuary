@@ -1,0 +1,48 @@
+{
+  "id": "10-11_saint_john_xxiii_pope_optional_memorial",
+  "name": "Saint John XXIII, Pope—Optional Memorial",
+  "mmdd": "10-11",
+  "feast": "The Eleventh Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_XXIII"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-11_saint_john_xxiii_pope_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3da12b34f260b1a03fe93e278ea2a5505758cb83f63cacc2b93aff92f477bb10",
+        "langs": {
+          "es": {
+            "translatedHash": "aaa14e43f049c030d6c8cfa0d194a939f53c58ecf3cc986d0c7c2b7d233e90ff",
+            "updatedAt": "2026-02-25T00:47:39.638Z"
+          },
+          "pl": {
+            "translatedHash": "6c9c731fa9b54b54d490f9e340951ed79bc7fefb03d60c21cedcca257ef43f51",
+            "updatedAt": "2026-02-25T00:47:40.455Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "619a9a82946eb1ca2c13695daa766092bc139d63a9c001d063ad2df356ab8529",
+        "langs": {
+          "es": {
+            "translatedHash": "ff1b20758740ff47e84c2a857e16d5d08662d2729628030a007b3e6c3103c6b8",
+            "updatedAt": "2026-02-25T00:47:40.959Z"
+          },
+          "pl": {
+            "translatedHash": "697c7deaddbaaee6b9c32bc08d960146ae56ab2e684701ac9daaa6ec530194b0",
+            "updatedAt": "2026-02-25T00:47:41.789Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan XXIII, Papa—Memoria Opcional",
+  "name_pl": "Święty Jan XXIII, papież — wspomnienie dowolne",
+  "feast_es": "El Once de Octubre",
+  "feast_pl": "Jedenasty Dzień Października"
+}

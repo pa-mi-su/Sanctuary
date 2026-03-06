@@ -1,0 +1,272 @@
+{
+  "id": "st_joan_of_arc",
+  "title": "St. Joan of Arc Novena",
+  "description": "St Joan of Arc was a 15th century French peasant girl who was given visions by God to drive the English out of French lands and bring the Dauphin to Reims for his crowning. Pray this novena for France, soldiers, captives, and if she is your patron saint.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Joan of Arc"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 30
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-joan-of-arc-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como condujiste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido por tu continua protección del pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj z łaską, o którą proszę (wymień prośbę tutaj…) Udziel mi przez swoje boskie i potężne wstawiennictwo odwagi i siły, których potrzebuję, by wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które stawia przede mną Bóg. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mnie.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como condujiste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj w łasce, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, której potrzebuję, by wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które stawia przede mną Bóg. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mną.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como guiaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj z łaską, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, której potrzebuję, aby wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które Bóg przede mną stawia. Dziękuję Ci i proszę o Twoją nieustającą opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mną.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como guiaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj w łasce, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, której potrzebuję, by wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężać w zadaniach, które stawia przede mną Bóg. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mną.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como guiaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj w łasce, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, której potrzebuję, by wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które stawia przede mną Bóg. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mnie.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como guiaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj w łasce, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, których potrzebuję, aby wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które stawia przede mną Bóg. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mnie.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como guiaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie modlitwą, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj w łasce, o którą proszę (wymień prośbę tutaj…) Udziel mi przez swoją boską i potężną wstawienniczą moc odwagę i siłę, której potrzebuję, by wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które Bóg przede mną stawia. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mną.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como llevaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido por tu continua protección al pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj w łasce, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, których potrzebuję, by wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które stawia przede mną Bóg. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mną.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSaint Joan of Arc, patroness of France, I ask you now to fight this battle with me by prayer, just as you led your troops to victory in battle. You, who were filled with the Holy Spirit and chosen by God, help me this day with the favor I ask (mention request here…) Grant me by your divine and powerful intercession, the courage and strength I need to endure this constant fight. Oh St Joan, help me to be victorious in the tasks God presents to me. I thank you and ask you for your continuing protection of God’s people. Saint Joan of Arc, Pious daughter of the Church: Pray for me.\n\nOur Father Hail Mary x3 Glory be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSanta Juana de Arco, patrona de Francia, te pido ahora que luches esta batalla conmigo mediante la oración, así como guiaste a tus tropas a la victoria en la batalla. Tú, que fuiste llena del Espíritu Santo y elegida por Dios, ayúdame hoy con el favor que te pido (mencionar la petición aquí…) Concédeme por tu divina y poderosa intercesión, el valor y la fuerza que necesito para soportar esta lucha constante. Oh Santa Juana, ayúdame a ser victorioso en las tareas que Dios me presenta. Te doy gracias y te pido tu continua protección para el pueblo de Dios. Santa Juana de Arco, piadosa hija de la Iglesia: Ruega por mí.\n\nPadre Nuestro Ave María x3 Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięta Joanna d’Arc, patronko Francji, proszę Cię teraz, abyś walczyła ze mną w tej bitwie przez modlitwę, tak jak prowadziłaś swoje wojska do zwycięstwa w walce. Ty, która byłaś napełniona Duchem Świętym i wybrana przez Boga, pomóż mi dzisiaj z łaską, o którą proszę (wymień prośbę tutaj…) Udziel mi przez Twoją boską i potężną wstawienniczą moc odwagę i siłę, której potrzebuję, aby wytrwać w tej nieustannej walce. O święta Joanno, pomóż mi zwyciężyć w zadaniach, które Bóg przede mną stawia. Dziękuję Ci i proszę o Twoją nieustanną opiekę nad ludem Bożym. Święta Joanna d’Arc, pobożna córko Kościoła: módl się za mnie.\n\nOjcze nasz Zdrowaś Maryjo x3 Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_joan_of_arc.jpg",
+  "sourceFacts": {
+    "starts": "May 21Feastday:May 30Birth:1412Death:1431Patron saint of France, martyrs, captives, military personnel, people ridiculed for their piety, prisoners, soldiers, women who have served in the WAVES (Women Accepted for Volunteer Emergency Service), and Women's Army Corps 📱",
+    "feast": "May 30Birth:1412Death:1431Patron saint of France, martyrs, captives, military personnel, people ridiculed for their piety, prisoners, soldiers, women who have served in the WAVES (Women Accepted for Volunteer Emergency Service), and Women's Army Corps 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "3d25968e8c992e8dd3c06bb71580a59c3c84005212dde7305dcac3e8c6d006da",
+        "langs": {
+          "es": {
+            "translatedHash": "da653f66bf89e86a68f78a48b95d9e3bebee90499195e4aca7ac4151ced3fce4",
+            "updatedAt": "2026-02-25T14:33:37.707Z"
+          },
+          "pl": {
+            "translatedHash": "aa73c9166790f3e529ebaffce26735a0891e4c59bed6959482092f7e06119deb",
+            "updatedAt": "2026-02-25T14:33:38.357Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "1fcc1a6d770d35b27e25193c6916980556a07b5dd237be2ca8919756e6cb6c7d",
+        "langs": {
+          "es": {
+            "translatedHash": "e2dba07625cc96e74ae6e240480469cb58d11b9f7da0248d429cec0da14c7c6e",
+            "updatedAt": "2026-02-25T14:33:39.796Z"
+          },
+          "pl": {
+            "translatedHash": "e0acf64dc882bec22d7d98fcc9e0597daefcf821f8c54fb91ea29f09b2b33c19",
+            "updatedAt": "2026-02-25T14:33:41.483Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "5d7fef57ab306e8e86489a31132c8e2b184912c61b1f3466c282336f0066ceba",
+        "langs": {
+          "es": {
+            "translatedHash": "0b04ed27676b6c985a6dcc0123ee83b38844658c57b5fba08a51a3ed91443a79",
+            "updatedAt": "2026-02-25T14:33:45.438Z"
+          },
+          "pl": {
+            "translatedHash": "d28b38788577b40996763fa0de65c83334202cdc4f689e2ad41cfcd3fe3a45b5",
+            "updatedAt": "2026-02-25T14:33:49.790Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "65b293f6d1dad9094cf97e077a595d4962789104dd0e56cdc94609f5e20d0e81",
+        "langs": {
+          "es": {
+            "translatedHash": "d7863efdd5ddcb4aead5a3b4f959973a53a56c4d65fc219fb4c145f80430c203",
+            "updatedAt": "2026-02-25T14:33:53.329Z"
+          },
+          "pl": {
+            "translatedHash": "967e5ec5ce022a17b39c8a387b8b09463e5669f83275e96d563b02c45065db16",
+            "updatedAt": "2026-02-25T14:33:57.734Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "a3c8b15f5627b6898b268d2b04d5d4f4c13c8961c374b8d5455b5ea4c16c688a",
+        "langs": {
+          "es": {
+            "translatedHash": "216bab90d67feb1bebc6c4ce177c52769d367fccb617ff064b0929f31cd1cdb0",
+            "updatedAt": "2026-02-25T14:34:01.117Z"
+          },
+          "pl": {
+            "translatedHash": "949e6adc82524de761d9a0bbfece24a6c9f4393e098186f787621d86bda2d5d5",
+            "updatedAt": "2026-02-25T14:34:04.830Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "8273e18182ac04672edc139ce7e3f1ef45c371eb879413d470e99eaa3888dac3",
+        "langs": {
+          "es": {
+            "translatedHash": "216bab90d67feb1bebc6c4ce177c52769d367fccb617ff064b0929f31cd1cdb0",
+            "updatedAt": "2026-02-25T14:34:08.962Z"
+          },
+          "pl": {
+            "translatedHash": "37c449c5b0bfaa9f37bea6b19092f81cbf8b7a507e7e47be8b26b1c93d599abb",
+            "updatedAt": "2026-02-25T14:34:12.980Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "8fbdc1ec32b5236f21577575511da134525d43685ee0c81224bc2a1f4f1794eb",
+        "langs": {
+          "es": {
+            "translatedHash": "216bab90d67feb1bebc6c4ce177c52769d367fccb617ff064b0929f31cd1cdb0",
+            "updatedAt": "2026-02-25T14:34:16.254Z"
+          },
+          "pl": {
+            "translatedHash": "3f7fb36fd867a4221f2596300e99ce5dde49e556200962412a9d50b3cec6cb96",
+            "updatedAt": "2026-02-25T14:34:20.263Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "f60b45a6d722e75d8b3e85ac3adf01b6dc67f2a1b19c496fc7f1a4b0a5294f33",
+        "langs": {
+          "es": {
+            "translatedHash": "216bab90d67feb1bebc6c4ce177c52769d367fccb617ff064b0929f31cd1cdb0",
+            "updatedAt": "2026-02-25T14:34:24.358Z"
+          },
+          "pl": {
+            "translatedHash": "5ca4565023a0ca649573d6a370b04270408be81d9d0498eadd49dc03d8174b88",
+            "updatedAt": "2026-02-25T14:34:29.488Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "670e664e5df2413d3ac1d28ea4c436a2146efe4ac3c07f6c22e954be2bb87e50",
+        "langs": {
+          "es": {
+            "translatedHash": "216bab90d67feb1bebc6c4ce177c52769d367fccb617ff064b0929f31cd1cdb0",
+            "updatedAt": "2026-02-25T14:34:32.966Z"
+          },
+          "pl": {
+            "translatedHash": "e7eb45c4ed3a2b5eb7dcf00d172bc02b550a04ec057fa6416ec976ceb66e1b00",
+            "updatedAt": "2026-02-25T14:34:38.188Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "097d22705bfad07457be194ce3497ad953b3d064ece1967a34626d2b5c1301a6",
+        "langs": {
+          "es": {
+            "translatedHash": "d2ec04aff05422243c5178c46576a99cb58e2e9c7d6681d2f47e154996661454",
+            "updatedAt": "2026-02-25T14:34:41.814Z"
+          },
+          "pl": {
+            "translatedHash": "420bedd3c2d746a7d3e1bb2bbb9370a92d18b83adfb443d8cf69d85419f8c21c",
+            "updatedAt": "2026-02-25T14:34:47.114Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "6bf1f140ad29d06cc9213b216ae2fae9ffbd5468c5bf8b068f843cc0d4c2e4aa",
+        "langs": {
+          "es": {
+            "translatedHash": "216bab90d67feb1bebc6c4ce177c52769d367fccb617ff064b0929f31cd1cdb0",
+            "updatedAt": "2026-02-25T14:34:51.536Z"
+          },
+          "pl": {
+            "translatedHash": "23ecbcf180225b90640fe45263258cfeb7ed5a210f887bb9f86ebea16c149d84",
+            "updatedAt": "2026-02-25T14:34:55.446Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Juana de Arco",
+  "title_pl": "Nowenna do św. Joanny d’Arc",
+  "description_es": "Santa Juana de Arco fue una campesina francesa del siglo XV a quien Dios le dio visiones para expulsar a los ingleses de tierras francesas y llevar al Delfín a Reims para su coronación. Reza esta novena por Francia, los soldados, los cautivos y si ella es tu santa patrona.",
+  "description_pl": "Święta Joanna d’Arc była francuską chłopką z XV wieku, której Bóg dał wizje, aby wypędzić Anglików z francuskich ziem i doprowadzić Delfina do Reims na jego koronację. Módl się tę nowennę za Francję, żołnierzy, jeńców oraz jeśli jest twoją patronką.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-joan-of-arc-novena/"
+  ]
+}

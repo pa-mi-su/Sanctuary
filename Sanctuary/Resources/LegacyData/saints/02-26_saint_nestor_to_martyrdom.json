@@ -1,0 +1,80 @@
+{
+  "id": "02-26_saint_nestor_to_martyrdom",
+  "name": "Saint Nestor to martyrdom",
+  "mmdd": "02-26",
+  "feast": "The Twenty-Sixth Day of February",
+  "summary": "Nestor of Thessalonica is a saint and wrestler known for having been the companion of St. Demetrius of Thessalonica. St. Nestor's feast day is celebrated on October 27. Nestor is usually seen in warriors atire and wearing warrior clothing.",
+  "biography": "Nestor of Thessalonica is a saint and wrestler known for having been the companion of St. Demetrius of Thessalonica. St. Nestor's feast day is celebrated on October 27. Nestor is usually seen in warriors atire and wearing warrior clothing.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nestor_of_Thessaloniki",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-26_saint_nestor_to_martyrdom.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "dcef0cdea2a0a46104c2dce49bb09e523dfb92d0850d5547b4942a30aaa7d10b",
+        "langs": {
+          "es": {
+            "translatedHash": "e122c906096ea8cded2907d4770f9a7c969a439b18eaf5f0973824d91495d426",
+            "updatedAt": "2026-02-24T22:43:11.148Z"
+          },
+          "pl": {
+            "translatedHash": "41ed094206c4d9e9445856d1bf53a4359da490c18950ecbb03d01d71ec5a864f",
+            "updatedAt": "2026-02-24T22:43:12.463Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "961feb65d010f4d3ec349718c05e7816aa663b6999b0843ee73d87f177e35ebd",
+        "langs": {
+          "es": {
+            "translatedHash": "b899c6a6b6894a5716b4f7a46b06e57358e5405e9f25acad4f12fdbf6929743d",
+            "updatedAt": "2026-02-24T22:43:13.113Z"
+          },
+          "pl": {
+            "translatedHash": "3bbd2144d1dec82dea57d4aa95eb8c78dc0a04f640565f4114bf93ac3d83759c",
+            "updatedAt": "2026-02-24T22:43:13.862Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8487c929a03e8c8e7325dbc58573665921e00371618a4417416a90805d469a7b",
+        "langs": {
+          "es": {
+            "translatedHash": "59f04c441dd2f4d050fc135a6f19c9f2b1fc1c7df2bfdfcc78597c1b8e674a29",
+            "updatedAt": "2026-02-24T22:43:15.075Z"
+          },
+          "pl": {
+            "translatedHash": "d657dc47a408c44218c10ad86be2cc6738e267ed7dc3520eadcdc0c082ddb2bb",
+            "updatedAt": "2026-02-24T22:43:17.189Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8487c929a03e8c8e7325dbc58573665921e00371618a4417416a90805d469a7b",
+        "langs": {
+          "es": {
+            "translatedHash": "5f976c31282feb646eb519eee0ff3b4f884bb7881a0be92894de7c9630e103dd",
+            "updatedAt": "2026-02-24T22:43:18.640Z"
+          },
+          "pl": {
+            "translatedHash": "67b5b4dba23dfe79212fa4c7445f7086ba8160b5a3b0d8d9f2810dcb3bdb17a1",
+            "updatedAt": "2026-02-24T22:43:20.174Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Néstor hacia el martirio",
+  "name_pl": "Święty Nestor do męczeństwa",
+  "feast_es": "El vigésimo sexto día de febrero",
+  "feast_pl": "Dwudziesty szósty dzień lutego",
+  "summary_es": "Néstor de Tesalónica es un santo y luchador conocido por haber sido compañero de San Demetrio de Tesalónica. La fiesta de San Néstor se celebra el 27 de octubre. Néstor suele ser representado con vestimenta de guerrero y ropa de combate.",
+  "summary_pl": "Nestor z Tesaloniki jest świętym i zapaśnikiem znanym jako towarzysz św. Demetriusza z Tesaloniki. Uroczystość św. Nestora obchodzona jest 27 października. Nestor jest zwykle przedstawiany w stroju wojownika i noszący wojskowe ubranie.",
+  "biography_es": "Néstor de Tesalónica es un santo y luchador conocido por haber sido el compañero de San Demetrio de Tesalónica. La fiesta de San Néstor se celebra el 27 de octubre. Néstor suele ser representado con atuendo de guerrero y vistiendo ropa de guerrero.",
+  "biography_pl": "Nestor z Tesaloniki jest świętym i zapaśnikiem znanym jako towarzysz św. Demetriusza z Tesaloniki. Uroczystość św. Nestora obchodzona jest 27 października. Nestor jest zwykle przedstawiany w stroju wojownika i ubraniu wojskowym."
+}

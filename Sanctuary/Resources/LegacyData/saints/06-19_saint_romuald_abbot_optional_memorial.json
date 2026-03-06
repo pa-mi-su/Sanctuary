@@ -1,0 +1,48 @@
+{
+  "id": "06-19_saint_romuald_abbot_optional_memorial",
+  "name": "Saint Romuald, Abbot—Optional Memorial",
+  "mmdd": "06-19",
+  "feast": "The Nineteenth Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%89glise_Saint-Romuald_(cropped).jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-19_saint_romuald_abbot_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "001e43970ece43d1f86845c57ee7e9abbbb04c2a2e4db003ca363d9214722ff2",
+        "langs": {
+          "es": {
+            "translatedHash": "44908ba015d3b1d606f4733fa9c19840748564cbe8d24f7d7af0026b789fe766",
+            "updatedAt": "2026-02-24T23:45:12.646Z"
+          },
+          "pl": {
+            "translatedHash": "81ec67f94a9d9ab9db09897b0b0e31fc679cd71527a55cb3e5a620d4cf0646e6",
+            "updatedAt": "2026-02-24T23:45:13.295Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "84667caf9b984c4d9fd76c3fd3b1b6f433d362f9e2f62e4cff8945bdd836c6ce",
+        "langs": {
+          "es": {
+            "translatedHash": "57923b3230f30d89c64f031f311251d24ee1a1ac4c3d522d0e4bfae266142275",
+            "updatedAt": "2026-02-24T23:45:13.799Z"
+          },
+          "pl": {
+            "translatedHash": "a9f279c8ec06b0bf7760db1ae98ce5843948ff823a1c394ecd672c840b167dc8",
+            "updatedAt": "2026-02-24T23:45:14.594Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Romualdo, Abad—Memoria Opcional",
+  "name_pl": "Święty Romuald, opat — wspomnienie dowolne",
+  "feast_es": "El día diecinueve de junio",
+  "feast_pl": "Dziewiętnasty dzień czerwca"
+}

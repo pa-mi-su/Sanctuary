@@ -1,0 +1,79 @@
+{
+  "id": "04-30_saint_pius_v",
+  "name": "Saint Pius V",
+  "mmdd": "04-30",
+  "feast": "The Thirtieth Day of April",
+  "summary": "Pope Pius V, OP, born Antonio Ghislieri, was head of the Catholic Church and ruler of the Papal States from 7 January 1566 to his death, in May 1572. He was an inquisitor and is venerated as a saint of the Catholic Church. He is chiefly notable for his role in the implementation of the Council of Trent, the Counter-Reformation, and the standardization of the Roman Rite within the Latin Church, known as the Tridentine mass. Pius V declared Thomas Aquinas a Doctor of the Church.",
+  "biography": "Pope Pius V, OP (Italian: Pio V; 17 January 1504 – 1 May 1572), born Antonio Ghislieri (and from 1518 called Michele Ghislieri), was head of the Catholic Church and ruler of the Papal States from 7 January 1566 to his death, in May 1572. He was an inquisitor and is venerated as a saint of the Catholic Church. He is chiefly notable for his role in the implementation of the Council of Trent, the Counter-Reformation, and the standardization of the Roman Rite within the Latin Church, known as the Tridentine mass. Pius V declared Thomas Aquinas a Doctor of the Church. As a cardinal, Ghislieri gained a reputation for putting orthodoxy before personalities, prosecuting eight French bishops for heresy. He also stood firm against nepotism, rebuking his predecessor Pope Pius IV to his face when he wanted to make a 13-year-old member of his family a cardinal and subsidize a nephew from the papal treasury. By means of the papal bull of 1570, Regnans in Excelsis, Pius V excommunicated Elizabeth I of England for heresy and persecution of English Catholics during her reign. He also arranged the formation of the Holy League, an alliance of Catholic states to combat the advancement of the Ottoman Empire...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Pius_V",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-30_saint_pius_v.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f4ecbfb89b3a6a1323403bd07175f09b10741e6f9c2038a0f92ee2266eb77ab2",
+        "langs": {
+          "es": {
+            "translatedHash": "d1eb7b3ee8b2997c19ea5d4c55555c191673e6eee6ddafe58c66ece2fa3b6f7b",
+            "updatedAt": "2026-02-24T23:17:23.392Z"
+          },
+          "pl": {
+            "translatedHash": "de7b0f35c77d0564bce004bfc50ff34222e294e4e2eebc8ba4a5f3823095dd55",
+            "updatedAt": "2026-02-24T23:17:24.099Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "622d48d2ad43d6df7b3a28552957aea7c1b9422d3373cfa30004e6845f4ab378",
+        "langs": {
+          "es": {
+            "translatedHash": "4b64792046159c91dcfea7ccc3384930a45e51a210dca2607c16ad4c90d8e967",
+            "updatedAt": "2026-02-24T23:17:25.024Z"
+          },
+          "pl": {
+            "translatedHash": "5752a2c5e1ec0189764a8adfd02266e0feb7d1905e6e34131c06d5d661cc7e3b",
+            "updatedAt": "2026-02-24T23:17:26.244Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9e6e3facd475938e9b2cf64dabdc186c48c0b6ef4d0f1d588368e71887d42efc",
+        "langs": {
+          "es": {
+            "translatedHash": "3d21eecfae8e08cc82199ee594dcac1445586597d4c91c9408d8daa42fbf4c4c",
+            "updatedAt": "2026-02-24T23:17:28.108Z"
+          },
+          "pl": {
+            "translatedHash": "15453ce75c8a07227bd056aed36a7eb8df4ab2f1c36f8e4a77e16d71936f0a40",
+            "updatedAt": "2026-02-24T23:17:30.965Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bc69de09745774ed078c72c79c2e177891d90afbdabe7168f7c323a9a24054a2",
+        "langs": {
+          "es": {
+            "translatedHash": "11525b344ece4040226073cb1562108d84abb267e060d16ce0e94102687e0c51",
+            "updatedAt": "2026-02-24T23:17:35.662Z"
+          },
+          "pl": {
+            "translatedHash": "e297d7edaeb3fdf5cfaaf5f8628e5e186f79995d92a8459efcb17c0a87773d1f",
+            "updatedAt": "2026-02-24T23:17:43.462Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pío V",
+  "name_pl": "Święty Pius V",
+  "feast_es": "El Trigésimo Día de Abril",
+  "feast_pl": "Trzydziesty dzień kwietnia",
+  "summary_es": "El Papa Pío V, OP, nacido Antonio Ghislieri, fue jefe de la Iglesia Católica y gobernante de los Estados Pontificios desde el 7 de enero de 1566 hasta su muerte, en mayo de 1572. Fue inquisidor y es venerado como santo de la Iglesia Católica. Es principalmente notable por su papel en la implementación del Concilio de Trento, la Contrarreforma y la estandarización del Rito Romano dentro de la Iglesia Latina, conocido como la misa tridentina. Pío V declaró a Tomás de Aquino Doctor de la Iglesia.",
+  "summary_pl": "Papież Pius V, OP, urodzony jako Antonio Ghislieri, był głową Kościoła katolickiego i władcą Państwa Kościelnego od 7 stycznia 1566 roku aż do swojej śmierci w maju 1572 roku. Był inkwizytorem i jest czczony jako święty Kościoła katolickiego. Jest przede wszystkim znany z roli, jaką odegrał w realizacji Soboru Trydenckiego, kontrreformacji oraz standaryzacji rytu rzymskiego w Kościele łacińskim, znanego jako msza trydencka. Pius V ogłosił Tomasza z Akwinu Doktorem Kościoła.",
+  "biography_es": "El Papa Pío V, OP (italiano: Pio V; 17 de enero de 1504 – 1 de mayo de 1572), nacido Antonio Ghislieri (y desde 1518 llamado Michele Ghislieri), fue cabeza de la Iglesia Católica y gobernante de los Estados Pontificios desde el 7 de enero de 1566 hasta su muerte, en mayo de 1572. Fue inquisidor y es venerado como santo de la Iglesia Católica. Es principalmente notable por su papel en la implementación del Concilio de Trento, la Contrarreforma y la estandarización del Rito Romano dentro de la Iglesia Latina, conocido como la misa tridentina. Pío V declaró a Tomás de Aquino Doctor de la Iglesia. Como cardenal, Ghislieri ganó reputación por anteponer la ortodoxia a las personalidades, procesando a ocho obispos franceses por herejía. También se mantuvo firme contra el nepotismo, reprendiendo en persona a su predecesor, el Papa Pío IV, cuando quiso nombrar cardenal a un miembro de su familia de 13 años y subsidiar a un sobrino con el tesoro papal. Por medio de la bula papal de 1570, Regnans in Excelsis, Pío V excomulgó a Isabel I de Inglaterra por herejía y persecución de los católicos ingleses durante su reinado. También organizó la formación de la Santa Liga, una alianza de estados católicos para combatir el avance del Imperio Otomano...",
+  "biography_pl": "Papież Pius V, OP (wł. Pio V; 17 stycznia 1504 – 1 maja 1572), urodzony jako Antonio Ghislieri (a od 1518 nazywany Michele Ghislieri), był zwierzchnikiem Kościoła katolickiego i władcą Państwa Kościelnego od 7 stycznia 1566 aż do swojej śmierci w maju 1572. Był inkwizytorem i jest czczony jako święty Kościoła katolickiego. Znany jest przede wszystkim z roli, jaką odegrał w realizacji postanowień Soboru Trydenckiego, w kontrreformacji oraz w standaryzacji rytu rzymskiego w Kościele łacińskim, znanego jako msza trydencka. Pius V ogłosił Tomasza z Akwinu Doktorem Kościoła. Jako kardynał Ghislieri zyskał reputację osoby stawiającej ortodoksję ponad osobowości, oskarżając o herezję ośmiu francuskich biskupów. Stanął również twardo przeciwko nepotyzmowi, upominając osobiście swojego poprzednika, papieża Piusa IV, gdy ten chciał mianować kardynałem 13-letniego członka swojej rodziny i dotować siostrzeńca z papieskiej kasy. Za pomocą bulli papieskiej z 1570 roku, Regnans in Excelsis, Pius V ekskomunikował Elżbietę I Angielską za herezję i prześladowania angielskich katolików podczas jej panowania. Zaaranżował także powstanie Świętej Ligi, sojuszu państw katolickich mającego na celu zwalczanie ekspansji Imperium Osmańskiego..."
+}

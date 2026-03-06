@@ -1,0 +1,48 @@
+{
+  "id": "07-22_saint_mary_magdalene_feast",
+  "name": "Saint Mary Magdalene—Feast",
+  "mmdd": "07-22",
+  "feast": "The Twenty-Second Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mary_Magdalene"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-22_saint_mary_magdalene_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ecf26a838482bd5b98071f03557d119e9a1edad34aed501e23aadcc2294b883b",
+        "langs": {
+          "es": {
+            "translatedHash": "2c70e0e80e882415b564cc8436fb66e1bd34ded197b734a0026b08fffafdfc44",
+            "updatedAt": "2026-02-25T00:02:13.195Z"
+          },
+          "pl": {
+            "translatedHash": "19d3e39e094b3bc78ce2965e9257a18aef13e5ffe95abfe1999177384dee099f",
+            "updatedAt": "2026-02-25T00:02:13.948Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a2f21501a7b698e835597fca75762348a5206c58ff7d39494e4f3be59798bb8f",
+        "langs": {
+          "es": {
+            "translatedHash": "8d189b4f1f7b0b21c3d56ec277a6232aa0e75507398a417faedf3e6d1257fdc7",
+            "updatedAt": "2026-02-25T00:02:15.692Z"
+          },
+          "pl": {
+            "translatedHash": "86126e3b5d8a21dc222a06d3921dd8326f7ab6ee5862cad35ef0768ff9763a02",
+            "updatedAt": "2026-02-25T00:02:16.346Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Magdalena—Fiesta",
+  "name_pl": "Święta Maria Magdalena — Uroczystość",
+  "feast_es": "El Veintidós de Julio",
+  "feast_pl": "Dwudziesty drugi dzień lipca"
+}

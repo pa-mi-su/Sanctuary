@@ -1,0 +1,272 @@
+{
+  "id": "st_gregory_the_great",
+  "title": "St Gregory the Great Novena",
+  "description": "St Gregory the Great was a medieval Pope in the late 500s. Pray this novena for musicians, singers, students, and teachers.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Gregory the Great"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 25
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-gregory-the-great-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, te llaman el Grande por tu fidelidad a Cristo y a Su Iglesia y por tu amor a la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, te pido la gracia de (mencionar la petición aquí…) Ayúdame a vivir una vida santa, a morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Gregorio Magno, ruega por nosotros. San Gregorio Magno, ruega por nosotros. San Gregorio Magno, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoją wstawiennictwo, prosimy o łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W sposób szczególny proszę o łaskę (wymień prośbę tutaj…) Pomóż mi prowadzić święte życie, umrzeć w szczęściu, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, te llaman el Grande por tu fidelidad a Cristo y a Su Iglesia y por tu amor a la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, te pido la gracia de (mencionar la petición aquí…) Ayúdame a vivir una vida santa, morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoje wstawiennictwo, prosimy o łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W sposób szczególny proszę o łaskę (wymień prośbę tutaj…) Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, eres llamado el Grande por tu fidelidad a Cristo y a Su Iglesia y amor por la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, pido la gracia de (mencione la petición aquí…) Ayúdame a vivir una vida santa, morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria Sea San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoją wstawiennictwo, prosimy o łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W szczególności proszę o łaskę (wymień prośbę tutaj…) Pomóż mi żyć świętym życiem, umrzeć szczęśliwą śmiercią, abym mógł cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, te llaman el Grande por tu fidelidad a Cristo y a Su Iglesia y por tu amor a la sagrada liturgia. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, te pido la gracia de (mencionar la petición aquí…). Ayúdame a vivir una vida santa, a morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywasz się Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoją wstawiennictwo, prosimy o łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W sposób szczególny proszę o łaskę (wymień prośbę tutaj…). Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, eres llamado el Grande por tu fidelidad a Cristo y a Su Iglesia y por tu amor a la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, pido la gracia de (mencionar la petición aquí…) Ayúdame a vivir una vida santa, a morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Gregorio Magno, ruega por nosotros. San Gregorio Magno, ruega por nosotros. San Gregorio Magno, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoją wstawiennictwo, prosimy o łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W szczególności proszę o łaskę (wymień prośbę tutaj…) Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, te llaman el Grande por tu fidelidad a Cristo y a Su Iglesia y amor a la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, pido la gracia de (mencionar la petición aquí…). Ayúdame a vivir una vida santa, morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu Twojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez Twoją wstawiennictwo, prosimy Cię, wyproś dla nas łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak Ty. Szczególnie prosimy o Twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W sposób szczególny proszę o łaskę (wymień prośbę tutaj…) Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, te llaman el Grande por tu fidelidad a Cristo y a Su Iglesia y por tu amor a la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, te pido la gracia de (mencionar la petición aquí…) Ayúdame a vivir una vida santa, a morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria Sea a San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu Twojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez Twoją wstawiennictwo, prosimy, wyproś dla nas łaski potrzebne, abyśmy byli niezłomni w wierze tak jak Ty. Szczególnie prosimy o Twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W sposób szczególny proszę o łaskę (wymień prośbę tutaj…). Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, eres llamado el Grande por tu fidelidad a Cristo y a Su Iglesia y por tu amor a la sagrada liturgia. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, pido la gracia de (mencionar la petición aquí…) Ayúdame a vivir una vida santa, morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoją wstawiennictwo, prosimy, wyproś dla nas łaski potrzebne, abyśmy byli niezłomni w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W szczególności proszę o łaskę (wymień prośbę tutaj…). Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt Gregory, you are called the Great because of your faithfulness to Christ and His Church and love of the sacred liturgy. You helped those in need and sought the conversion of England for Christ. Through your intercession, please obtain for us the graces we need to be stalwart in faith the way you were. We especially ask for your prayers for our parish, our priests, and the Pope. In particular, I ask for the grace of (mention request here…) Help me to live a holy life, die a happy death, so that I might enjoy eternal happiness in Heaven. Amen.\n\nOur Father Hail Mary Glory Be St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. St. Gregory the Great, pray for us. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Gregorio, eres llamado el Grande por tu fidelidad a Cristo y a Su Iglesia y amor a la liturgia sagrada. Ayudaste a los necesitados y buscaste la conversión de Inglaterra para Cristo. Por tu intercesión, por favor obtén para nosotros las gracias que necesitamos para ser firmes en la fe como tú lo fuiste. Te pedimos especialmente tus oraciones por nuestra parroquia, nuestros sacerdotes y el Papa. En particular, te pido la gracia de (mencionar la petición aquí…) Ayúdame a vivir una vida santa, morir una muerte feliz, para que pueda gozar de la felicidad eterna en el Cielo. Amén.\n\nPadre Nuestro Ave María Gloria Sea San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. San Gregorio el Grande, ruega por nosotros. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Grzegorzu, nazywany Wielkim z powodu swojej wierności Chrystusowi i Jego Kościołowi oraz miłości do świętej liturgii. Pomagałeś potrzebującym i dążyłeś do nawrócenia Anglii dla Chrystusa. Przez twoją wstawiennictwo, prosimy o łaski, których potrzebujemy, aby być niezłomnymi w wierze tak jak ty. Szczególnie prosimy o twoje modlitwy za naszą parafię, naszych kapłanów i Papieża. W szczególności proszę o łaskę (wymień prośbę tutaj…) Pomóż mi prowadzić święte życie, umrzeć w szczęśliwej śmierci, aby móc cieszyć się wiecznym szczęściem w Niebie. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Święty Grzegorzu Wielki, módl się za nami. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_gregory_the_great.jpg",
+  "sourceFacts": {
+    "starts": "August 25Feastday:September 3Birth:540Death:604Patron saint of musicians, singers, students, and teachers 📱",
+    "feast": "September 3Birth:540Death:604Patron saint of musicians, singers, students, and teachers 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "7a1063c6bbf6b96588830eca8018dedc44168cee7f6db39b1a887005cc425c1d",
+        "langs": {
+          "es": {
+            "translatedHash": "7b1bba5b85717b2964f2437764cec46e46c021a4bd4bf133c898ce22838eb357",
+            "updatedAt": "2026-02-25T14:19:08.854Z"
+          },
+          "pl": {
+            "translatedHash": "a76e4493c3d1b689857f95671265ab1492cab3bac6a906b2ab7bd63da94a97c8",
+            "updatedAt": "2026-02-25T14:19:09.546Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "927f46b4231a927c39124683033d5d7a60e48c370058dab00e1e068ac26c6004",
+        "langs": {
+          "es": {
+            "translatedHash": "1557428b043108adf04d60f0526d9e7b8ee62fc56ed45886188d3749b85c056c",
+            "updatedAt": "2026-02-25T14:19:10.638Z"
+          },
+          "pl": {
+            "translatedHash": "97cef262079003284675008060ec95c391136a3a44d0a71e0aa5b461c034365e",
+            "updatedAt": "2026-02-25T14:19:11.637Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "64faff53892d5df194c17262801e70d8b8795eda5d6324223f16f8ae8de19988",
+        "langs": {
+          "es": {
+            "translatedHash": "aca07f4b81cc320462bb779d7506043b6b24fce691a2f39c6dfb037effc489e9",
+            "updatedAt": "2026-02-25T14:19:14.568Z"
+          },
+          "pl": {
+            "translatedHash": "fdbe73eebc31ad240ba97cb66dfc22cd89a8f716f397589a08738f65d9c8bff0",
+            "updatedAt": "2026-02-25T14:19:18.904Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "4aeaccfcc6963b548ba2ba2a35b251adfb532d4f3bd35e75d576e0c6c053b2e8",
+        "langs": {
+          "es": {
+            "translatedHash": "8e34fbce29aa258b071bcf2fbd7c7af5de1a48600998c80130ab2e6f9bf5a7ca",
+            "updatedAt": "2026-02-25T14:19:21.921Z"
+          },
+          "pl": {
+            "translatedHash": "219ca457c19471e5d3a0d94056a1d47fbccf10a2f20b21db8db1120913ad6c55",
+            "updatedAt": "2026-02-25T14:19:25.856Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "0a4da2231ec62b182ef06aafd92ce478b910a72f24d0366f5b2acdf2881cf1cd",
+        "langs": {
+          "es": {
+            "translatedHash": "ed1d97f8d0a51d58ed5fcba5a791652bda08b47037be19083e6c3b18c648944c",
+            "updatedAt": "2026-02-25T14:19:29.002Z"
+          },
+          "pl": {
+            "translatedHash": "4613e5345c06d5d2d373dee49b36271509415bbc0d3c214483379f1eca1aa640",
+            "updatedAt": "2026-02-25T14:19:32.773Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "1719db92dcc9b8e487165ba5323f06dea365b9cc28a86e1af08e988414f4c366",
+        "langs": {
+          "es": {
+            "translatedHash": "21cbd094e1f85aa58d21dd20538a793db0a4d9116746834d54f6aa202ba1a092",
+            "updatedAt": "2026-02-25T14:19:36.613Z"
+          },
+          "pl": {
+            "translatedHash": "faf75fe0afabb2a63f888140078349ca86ed92b05a379550c34c915e1fe597a5",
+            "updatedAt": "2026-02-25T14:19:42.364Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "cb884d227fe69ff22ef0fcf233b438cae51c8478897327985067abf5e52fcadf",
+        "langs": {
+          "es": {
+            "translatedHash": "50825b6531ae271cf627d2cd322da5caca56957632942c79818a83bb60a28a06",
+            "updatedAt": "2026-02-25T14:19:45.814Z"
+          },
+          "pl": {
+            "translatedHash": "54552802d8053cb7a611cc74d2e195b0fb10cd37aeccfa92e28b3a708ee5bed0",
+            "updatedAt": "2026-02-25T14:19:50.739Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "1b93892039f1ed68d1e21192df5316a98a06db836a35e0a9bd28009c76602375",
+        "langs": {
+          "es": {
+            "translatedHash": "c55cd116e18b0f77139f29f9611b8bc19a3d57693d012808a29dc287fbe9f550",
+            "updatedAt": "2026-02-25T14:19:54.516Z"
+          },
+          "pl": {
+            "translatedHash": "d3fa04ff8e0a97a6d4511135fe5bf3e850ec528f9c9d2676d5c0bfd7e2d65c55",
+            "updatedAt": "2026-02-25T14:19:58.225Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "4465381f5c9f9089630218c24f80a84ada65836c7bc9093a197741a2c9504181",
+        "langs": {
+          "es": {
+            "translatedHash": "f256ad21958d60ecdafa0c40491471d959788cdbb792702e5fd4bc61acbc2b42",
+            "updatedAt": "2026-02-25T14:20:02.034Z"
+          },
+          "pl": {
+            "translatedHash": "c1079fe5ab9c06712630d054a08f837698524f3cc9bd7563d1d5f8c9b91b1e83",
+            "updatedAt": "2026-02-25T14:20:06.164Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "1969226c7bd1c2f052b3962069a53534eea74a7e6b45b8e48b5f309bdc938e6f",
+        "langs": {
+          "es": {
+            "translatedHash": "0d35c7381a00cf8200f3abc8ed0c7ff2d46c69b97e372995d666839b5cd9b51c",
+            "updatedAt": "2026-02-25T14:20:09.622Z"
+          },
+          "pl": {
+            "translatedHash": "435427a23326c9e04664038b1c5566dd1d8e1e0d29b4e9ddc202acb51a21c58d",
+            "updatedAt": "2026-02-25T14:20:14.845Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "93a8fb46db80c25f989744ffa03d0d5d18ae68d4b3145ff6236fe920d9249ae9",
+        "langs": {
+          "es": {
+            "translatedHash": "f93ec2dda44504662976482d95881ec74b433a055c7b0fcda733192a7ce81a94",
+            "updatedAt": "2026-02-25T14:20:18.551Z"
+          },
+          "pl": {
+            "translatedHash": "54552802d8053cb7a611cc74d2e195b0fb10cd37aeccfa92e28b3a708ee5bed0",
+            "updatedAt": "2026-02-25T14:20:24.802Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Gregorio Magno",
+  "title_pl": "Nowenna do św. Grzegorza Wielkiego",
+  "description_es": "San Gregorio Magno fue un Papa medieval a finales del siglo V. Reza esta novena por músicos, cantantes, estudiantes y maestros.",
+  "description_pl": "Św. Grzegorz Wielki był średniowiecznym papieżem pod koniec VI wieku. Módl się tę nowennę za muzyków, śpiewaków, uczniów i nauczycieli.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-gregory-novena/"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-15_saint_vitus",
+  "name": "Saint Vitus",
+  "mmdd": "06-15",
+  "feast": "The Fifteenth Day of June",
+  "summary": "Vitus, whose name is sometimes rendered Guy or Guido, was a Christian martyr from Sicily. His surviving hagiography is pure legend. The dates of his actual life are unknown. He has long been tied to the Sicilian martyrs Modestus and Crescentia but in the earliest sources it is clear that these were originally different traditions that later became combined. The figures of Modestus and Crescentia are probably fictitious.",
+  "biography": "Vitus, whose name is sometimes rendered Guy or Guido, was a Christian martyr from Sicily. His surviving hagiography is pure legend. The dates of his actual life are unknown. He has long been tied to the Sicilian martyrs Modestus and Crescentia but in the earliest sources it is clear that these were originally different traditions that later became combined. The figures of Modestus and Crescentia are probably fictitious.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Vitus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-15_saint_vitus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a4c7321c307a298d5cefc6ab3241e5abbd0dfc7f0e54864e6302684d9b816bbe",
+        "langs": {
+          "es": {
+            "translatedHash": "4da5dafd6d765b7f5581b2d3e32041b195de65091782ff6d1e98e7c686bd087d",
+            "updatedAt": "2026-02-24T23:42:50.376Z"
+          },
+          "pl": {
+            "translatedHash": "f48fb5f992d8ee71de91d068760e5927e5044ceff534a42c0c6b72b38042d1db",
+            "updatedAt": "2026-02-24T23:42:50.984Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d85ba77edfa16ded52b6d02d79ba52ea9d366b3ff7061ea9500aa7165fe9e877",
+        "langs": {
+          "es": {
+            "translatedHash": "bdea28c51189c9f48409217a424e4207d680db1f4643219dcb27db94b4a96130",
+            "updatedAt": "2026-02-24T23:42:51.583Z"
+          },
+          "pl": {
+            "translatedHash": "5c2821aeca4f09d96eb9e802c53721dce408939b8c33c5467c4953b8479f6220",
+            "updatedAt": "2026-02-24T23:42:52.306Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6c8cc9d1a781f7928bae050a92b9af280eb557e15057077538f4b92972caa5d6",
+        "langs": {
+          "es": {
+            "translatedHash": "90110d5d089288790d97c036b1e3d336f794fa109020c232422324e2657305ea",
+            "updatedAt": "2026-02-24T23:42:54.308Z"
+          },
+          "pl": {
+            "translatedHash": "070e1c9dc716211c91aa11f3d604452dae0fc79b1a03a41504a7003bd33de02e",
+            "updatedAt": "2026-02-24T23:42:56.634Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6c8cc9d1a781f7928bae050a92b9af280eb557e15057077538f4b92972caa5d6",
+        "langs": {
+          "es": {
+            "translatedHash": "cdd4fc3678251b80e2d6dcfc6cc0b40deb4e5da4832008386449d2178fd46e47",
+            "updatedAt": "2026-02-24T23:42:58.386Z"
+          },
+          "pl": {
+            "translatedHash": "09ff91cfde87e4979f295c93557fd13e7bf544a4ca33e64fac400f86adeed8d4",
+            "updatedAt": "2026-02-24T23:43:00.607Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vito",
+  "name_pl": "Święty Wit",
+  "feast_es": "El Quince de Junio",
+  "feast_pl": "Piętnasty dzień czerwca",
+  "summary_es": "Vito, cuyo nombre a veces se traduce como Guy o Guido, fue un mártir cristiano de Sicilia. Su hagiografía sobreviviente es pura leyenda. Las fechas de su vida real son desconocidas. Durante mucho tiempo ha estado vinculado a los mártires sicilianos Modesto y Crescentia, pero en las fuentes más antiguas queda claro que originalmente se trataba de tradiciones diferentes que luego se combinaron. Las figuras de Modesto y Crescentia son probablemente ficticias.",
+  "summary_pl": "Wit, którego imię bywa czasem podawane jako Guy lub Guido, był chrześcijańskim męczennikiem z Sycylii. Jego zachowana hagiografia to czysta legenda. Daty jego rzeczywistego życia są nieznane. Od dawna łączono go z sycylijskimi męczennikami Modestem i Krescencją, lecz w najwcześniejszych źródłach wyraźnie widać, że pierwotnie były to różne tradycje, które później zostały połączone. Postacie Modesta i Krescencji są prawdopodobnie fikcyjne.",
+  "biography_es": "Vito, cuyo nombre a veces se traduce como Guy o Guido, fue un mártir cristiano de Sicilia. Su hagiografía sobreviviente es pura leyenda. Las fechas de su vida real son desconocidas. Durante mucho tiempo se le ha vinculado con los mártires sicilianos Modesto y Crescentia, pero en las fuentes más antiguas queda claro que originalmente eran tradiciones diferentes que luego se combinaron. Las figuras de Modesto y Crescentia son probablemente ficticias.",
+  "biography_pl": "Wit, którego imię bywa czasem podawane jako Guy lub Guido, był chrześcijańskim męczennikiem z Sycylii. Jego zachowana hagiografia to czysta legenda. Daty jego rzeczywistego życia są nieznane. Od dawna łączono go z sycylijskimi męczennikami Modestem i Krescencją, ale w najwcześniejszych źródłach widać wyraźnie, że pierwotnie były to różne tradycje, które później zostały połączone. Postacie Modesta i Krescencji są prawdopodobnie fikcyjne."
+}

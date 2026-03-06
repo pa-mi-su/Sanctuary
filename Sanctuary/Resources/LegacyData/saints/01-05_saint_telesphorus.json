@@ -1,0 +1,80 @@
+{
+  "id": "01-05_saint_telesphorus",
+  "name": "Saint Telesphorus",
+  "mmdd": "01-05",
+  "feast": "The Fifth Day of January",
+  "summary": "Pope Telesphorus was the bishop of Rome from c. 126 to his death c. 137, during the reigns of Roman Emperors Hadrian and Antoninus Pius.",
+  "biography": "Biography\nTelesphorus was of Greek ancestry and born in Thurii (today Terranova da Sibari, Calabria), Italy.\nThe Liber Pontificalis mentions that he had been an anchorite (or hermit) monk prior to assuming office.\nEusebius (Church History iv.7; iv.14) places the beginning of his pontificate in the twelfth year of the reign of Emperor Hadrian (128–129) and gives the date of his death as being in the first year of the reign of Antoninus Pius (138–139).\nAs the capital of the empire was a place that allowed a wide spread of ideas, many heretics moved to Rome during his pontificate. During this period, the main heretical doctrine was Gnosticism, which Telesphorus vigorously fought because he believed it could steer religion towards a mysticism far removed from reality. The main exponent of this doctrine was the philosopher Valentinus, who at this time moved from Egypt to Rome and also managed to have a large number of followers in the capital...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Telesphorus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-05_saint_telesphorus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "21c04577f7c11bffa94044e41fc8ff5abe07d90085b0847553c38219dfe4c900",
+        "langs": {
+          "es": {
+            "translatedHash": "2d19ce82975c1f22538ca99ac1641d4b71f67403f18997865c7c265ee7c34594",
+            "updatedAt": "2026-02-24T22:07:12.072Z"
+          },
+          "pl": {
+            "translatedHash": "ee925570055ec903d149ac85f6ee77396c3a9e23c53fd0374264e67e56c28c5a",
+            "updatedAt": "2026-02-24T22:07:12.549Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "257c9ed9bbad4a2857dc9bc4a7a3810d0c2ea5ff6a407146bbca7d5e469360b9",
+        "langs": {
+          "es": {
+            "translatedHash": "64bb66153484b8b5beadd033e62b7035cabcdb8c6d8277556ed8fd50310463e4",
+            "updatedAt": "2026-02-24T22:07:13.243Z"
+          },
+          "pl": {
+            "translatedHash": "98b04a48b88c019d4f9f24aff64f6c99cd05afbf14d4268e468d5d3cca701617",
+            "updatedAt": "2026-02-24T22:07:14.071Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b9425ed7ef1dde8d5993dbb96f7bb9fe9e82f0ed6593456d6a4ba0c44edbc4db",
+        "langs": {
+          "es": {
+            "translatedHash": "ecc42ace727f445c90d5ce3ebc868f8ddf9beb30f693e8c3ddd7c4939acaf29c",
+            "updatedAt": "2026-02-24T22:07:15.331Z"
+          },
+          "pl": {
+            "translatedHash": "831b6bf14ad0806b421054abc0ff1f2d6ae3efac293fbcb63182cb50d4733d78",
+            "updatedAt": "2026-02-24T22:07:16.701Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4a14e9190c60e20d6023ef3d937d1bdabdc3be62b737a87ac737da26dc4aed45",
+        "langs": {
+          "es": {
+            "translatedHash": "d2a7896c46a7d50d5489b8bf0aa19f021c364368c9bf0660174b868538a82674",
+            "updatedAt": "2026-02-24T22:07:20.268Z"
+          },
+          "pl": {
+            "translatedHash": "aa6fa0f6be65916cc7bee68eae0ba7c0fd9f54eb8b5e97af9fc529d7241dbd82",
+            "updatedAt": "2026-02-24T22:07:26.520Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Telesforo",
+  "name_pl": "Święty Telesfor",
+  "feast_es": "El Quinto Día de Enero",
+  "feast_pl": "Piąty dzień stycznia",
+  "summary_es": "El Papa Telesforo fue el obispo de Roma desde aproximadamente el año 126 hasta su muerte alrededor del año 137, durante los reinados de los emperadores romanos Adriano y Antonino Pío.",
+  "summary_pl": "Papież Telesfor był biskupem Rzymu od około 126 roku aż do swojej śmierci około 137 roku, za panowania cesarzy rzymskich Hadriana i Antonina Piusa.",
+  "biography_es": "Biografía  \nTelesforo era de ascendencia griega y nació en Thurii (hoy Terranova da Sibari, Calabria), Italia.  \nEl Liber Pontificalis menciona que había sido un monje anacoreta (o ermitaño) antes de asumir el cargo.  \nEusebio (Historia Eclesiástica iv.7; iv.14) sitúa el comienzo de su pontificado en el duodécimo año del reinado del emperador Adriano (128–129) y da la fecha de su muerte en el primer año del reinado de Antonino Pío (138–139).  \nComo la capital del imperio era un lugar que permitía una amplia difusión de ideas, muchos herejes se trasladaron a Roma durante su pontificado. Durante este período, la principal doctrina herética fue el gnosticismo, que Telesforo combatió vigorosamente porque creía que podía conducir a la religión hacia un misticismo muy alejado de la realidad. El principal exponente de esta doctrina fue el filósofo Valentín, quien en ese tiempo se trasladó de Egipto a Roma y también logró tener un gran número de seguidores en la capital...",
+  "biography_pl": "Biografia  \nTelesfor był pochodzenia greckiego i urodził się w Thurii (dzisiejsze Terranova da Sibari, Kalabria), Włochy.  \nLiber Pontificalis wspomina, że przed objęciem urzędu był anachoretą (lub mnichem-ermitą).  \nEuzebiusz (Historia Kościoła iv.7; iv.14) umieszcza początek jego pontyfikatu w dwunastym roku panowania cesarza Hadriana (128–129) i podaje datę jego śmierci na pierwszy rok panowania Antoninusa Piusa (138–139).  \nJako że stolica imperium była miejscem sprzyjającym szerzeniu się różnych idei, wielu heretyków przeniosło się do Rzymu podczas jego pontyfikatu. W tym okresie główną herezją było gnostycyzm, z którym Telesfor energicznie walczył, ponieważ uważał, że może on skierować religię ku mistycyzmowi dalekiemu od rzeczywistości. Głównym przedstawicielem tej doktryny był filozof Walentyn, który w tym czasie przeniósł się z Egiptu do Rzymu i zdołał zgromadzić dużą liczbę zwolenników w stolicy..."
+}

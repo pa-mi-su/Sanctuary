@@ -1,0 +1,64 @@
+{
+  "id": "01-24_saint_francis_de_sales_bishop_and_doctor_memorial",
+  "name": "Saint Francis de Sales, Bishop and Doctor—Memorial",
+  "mmdd": "01-24",
+  "feast": "The Twenty-Fourth Day of January",
+  "summary": "Francis de Sales, C.O., O.M. was a Savoyard Catholic prelate who served as Bishop of Geneva and is a saint of the Catholic Church. He became noted for his deep faith and his gentle approach to the religious divisions in his land resulting from the Protestant Reformation. He is known also for his writings on the topic of spiritual direction and spiritual formation, particularly the Introduction to the Devout Life and the Treatise on the Love of God.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francis_de_Sales",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-24_saint_francis_de_sales_bishop_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7a147a490412d281881034dd3f686d426a23072423f2c92e6ddf43b542dce8f3",
+        "langs": {
+          "es": {
+            "translatedHash": "5928c4d35e654fc2001202906498d7eb7c50023a5b0c28a9111c8bdf70cef512",
+            "updatedAt": "2026-02-24T22:21:07.960Z"
+          },
+          "pl": {
+            "translatedHash": "28fd3e5c9483656def06db66eef09607969767db2c56a80ec4958f1c4c79e963",
+            "updatedAt": "2026-02-24T22:21:09.123Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "41f7d613393c9b75716b8a1fa63f96e69a9f08223b822cfd7e08321227167cdd",
+        "langs": {
+          "es": {
+            "translatedHash": "1fdf598f9f5d78621097f561b9fd9fecf468ae260a034e509e12fdfbf0966937",
+            "updatedAt": "2026-02-24T22:21:09.699Z"
+          },
+          "pl": {
+            "translatedHash": "73845f73966fd6388f2ec54c7bd3a6dad7ccd201242a62efebfd83edac4bfaac",
+            "updatedAt": "2026-02-24T22:21:10.353Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "50d7c75de490b901b72348a6f3b6243c5a278e754d8993c87b8fb85788d939a4",
+        "langs": {
+          "es": {
+            "translatedHash": "58fdbc235261c50c4677e4312297abd70f82e42eefe0325db5c9a27f361a1814",
+            "updatedAt": "2026-02-24T22:21:11.749Z"
+          },
+          "pl": {
+            "translatedHash": "1fa950e9279e5e7f3a285e8d59b22511130d83c3639ff604e120cded556f252b",
+            "updatedAt": "2026-02-24T22:21:15.085Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Francisco de Sales, Obispo y Doctor—Memorial",
+  "name_pl": "Święty Franciszek Salezy, Biskup i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El vigésimo cuarto día de enero",
+  "feast_pl": "Dwudziesty czwarty dzień stycznia",
+  "summary_es": "Francisco de Sales, C.O., O.M., fue un prelado católico saboyano que sirvió como Obispo de Ginebra y es un santo de la Iglesia Católica. Se destacó por su profunda fe y su enfoque amable ante las divisiones religiosas en su tierra derivadas de la Reforma Protestante. También es conocido por sus escritos sobre la dirección espiritual y la formación espiritual, en particular la Introducción a la vida devota y el Tratado sobre el amor de Dios.",
+  "summary_pl": "Franciszek Salezy, C.O., O.M. był sabaudzkim katolickim duchownym, który pełnił funkcję biskupa Genewy i jest świętym Kościoła katolickiego. Zasłynął z głębokiej wiary oraz łagodnego podejścia do podziałów religijnych w swoim kraju, wynikających z reformacji protestanckiej. Znany jest także ze swoich pism na temat kierownictwa duchowego i formacji duchowej, szczególnie z Wprowadzenia do życia pobożnego oraz Traktatu o miłości Bożej."
+}

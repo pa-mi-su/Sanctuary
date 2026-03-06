@@ -1,0 +1,79 @@
+{
+  "id": "10-03_saint_candidus",
+  "name": "Saint Candidus",
+  "mmdd": "10-03",
+  "feast": "The Third Day of October",
+  "summary": "Candidus was a commander of the Theban Legion. The Theban Legion was composed of Christians from Upper Egypt. He is venerated as a Christian saint and martyr.",
+  "biography": "Legend\nCandidus was first mentioned as a member of the Theban Legion by Eucherius, Bishop of Lyon (434 AD). The 13th-century  Golden Legend states: \"And the noble man, Maurice, was duke of this holy legion; and they that governed under him, which bare the banners, were named Saint Candidus, Saint Innocent, Saint Exsuperius, Saint Victor, and Saint Constantine, all these were captains.\"\nCandidus is called Maurice's senator militum or staff officer.  He opposed Maximian, who had ordered them to harass the local Christians in his name, stating that \"we are your soldiers, but we are also servants of the true God. We cannot renounce Him who is our Creator and Master, and also yours even though you reject Him.\"\nCandidus, along with Maurice, the other staff officers and 6,600 soldiers, is said to have been martyred at the Swiss town of Saint Maurice-en-Valais, then called Agaunum.  His feast day is September 22.\n\n\nRemains\nCandidus' relics were stored in a 6th-century reliquary at the Abbaye de Saint-Maurice...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Candidus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-03_saint_candidus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "881179663f924dca3b0cdce54da614f2951681d8299b90bdc95bce41fdcf589b",
+        "langs": {
+          "es": {
+            "translatedHash": "246f852a099c535c2622657116a73442c6526393e9b9b36ef5285e417fb3c04a",
+            "updatedAt": "2026-02-25T00:42:45.156Z"
+          },
+          "pl": {
+            "translatedHash": "14e2089d33621024a96572732dbf62d8e871a65ed10fc861503660aad047f6d7",
+            "updatedAt": "2026-02-25T00:42:45.737Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8c5f9572da0190c76882dbf3b05a9959b8eb23699e97a272f11c63ddb8838564",
+        "langs": {
+          "es": {
+            "translatedHash": "611d85052d1777486bfd62aa7dae7a65ff6d4a0afb4a6e39a4fae46236ec2e02",
+            "updatedAt": "2026-02-25T00:42:46.339Z"
+          },
+          "pl": {
+            "translatedHash": "b85de9461eb00212d6da1d2fcaa7c88aeffcbaa5c5343f4d2cacf0048f3f8801",
+            "updatedAt": "2026-02-25T00:42:47.028Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "5248420fb3784a07079c39a650de0f3c0277015f21c95405f61b1d4182877ac9",
+        "langs": {
+          "es": {
+            "translatedHash": "9c49768af8d6d6f63d2a59cce53c59546c110080c6371dce46d7a83139f2b751",
+            "updatedAt": "2026-02-25T00:42:48.158Z"
+          },
+          "pl": {
+            "translatedHash": "4017df2c209628cfb28b26261ccf1b65fd335054a78da939dc809c6c3bbeb57f",
+            "updatedAt": "2026-02-25T00:42:49.728Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "da08646aebe63524683af3fe78eca92e5c5f754d19b45ae6caf8145914f74eb8",
+        "langs": {
+          "es": {
+            "translatedHash": "5904a33a774d50fd224f87d05029b530de8f0f496047f746c4ead727231d8579",
+            "updatedAt": "2026-02-25T00:42:54.579Z"
+          },
+          "pl": {
+            "translatedHash": "6963f2a9877ef525e63b1c6c5ca563cffa81ef831f3e3f6d949ebe202ceecf59",
+            "updatedAt": "2026-02-25T00:43:04.584Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cándido",
+  "name_pl": "Święty Kandydzie",
+  "feast_es": "El Tercer Día de Octubre",
+  "feast_pl": "Trzeci Dzień Października",
+  "summary_es": "Cándido fue un comandante de la Legión Tebana. La Legión Tebana estaba compuesta por cristianos del Alto Egipto. Es venerado como un santo y mártir cristiano.",
+  "summary_pl": "Candidus był dowódcą Legionu Tebańskiego. Legion Tebański składał się z chrześcijan z Górnego Egiptu. Jest czczony jako święty i męczennik chrześcijański.",
+  "biography_es": "Leyenda  \nCándido fue mencionado por primera vez como miembro de la Legión Tebana por Eucherio, obispo de Lyon (434 d.C.). La Leyenda Dorada del siglo XIII dice: \"Y el noble Mauricio era duque de esta santa legión; y los que gobernaban bajo su mando, que llevaban los estandartes, se llamaban San Cándido, San Inocencio, San Exsuperio, San Víctor y San Constantino, todos ellos capitanes.\"  \nCándido es llamado senador militum o oficial del estado mayor de Mauricio. Se opuso a Maximiano, quien les había ordenado hostigar a los cristianos locales en su nombre, declarando que \"somos sus soldados, pero también somos siervos del verdadero Dios. No podemos renunciar a Aquel que es nuestro Creador y Señor, y también suyo aunque usted lo rechace.\"  \nSe dice que Cándido, junto con Mauricio, los otros oficiales del estado mayor y 6,600 soldados, fueron martirizados en la ciudad suiza de Saint Maurice-en-Valais, entonces llamada Agaunum. Su fiesta se celebra el 22 de septiembre.  \n\nRestos  \nLas reliquias de Cándido fueron guardadas en un relicario del siglo VI en la Abbaye de Saint-Maurice...",
+  "biography_pl": "Legenda  \nCandidus został po raz pierwszy wspomniany jako członek Legionu Tebańskiego przez Eucheriusza, biskupa Lyonu (434 r. n.e.). XIII-wieczna Złota legenda głosi: „A szlachetny Maurycy był księciem tego świętego legionu; a ci, którzy pod nim dowodzili, niosąc sztandary, nazywani byli św. Candidusem, św. Innocentym, św. Eksuperiuszem, św. Wiktorem i św. Konstantynem, wszyscy ci byli kapitanami.”  \nCandidus nazywany jest senatorem militum Maurycego lub oficerem sztabowym. Sprzeciwił się Maksymianowi, który rozkazał im w jego imieniu prześladować miejscowych chrześcijan, mówiąc: „Jesteśmy waszymi żołnierzami, ale jesteśmy także sługami prawdziwego Boga. Nie możemy wyrzec się Tego, który jest naszym Stwórcą i Panem, a także waszym, choć Go odrzucacie.”  \nCandidus, wraz z Maurycym, innymi oficerami sztabowymi i 6600 żołnierzami, miał ponieść męczeńską śmierć w szwajcarskim mieście Saint Maurice-en-Valais, zwanym wtedy Agaunum. Jego dzień wspomnienia przypada na 22 września.  \n\nRelikwie  \nRelikwie Candidusa przechowywano w relikwiarzu z VI wieku w Opactwie św. Maurycego..."
+}

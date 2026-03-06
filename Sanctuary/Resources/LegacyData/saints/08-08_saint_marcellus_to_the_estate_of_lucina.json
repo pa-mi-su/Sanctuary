@@ -1,0 +1,79 @@
+{
+  "id": "08-08_saint_marcellus_to_the_estate_of_lucina",
+  "name": "Saint Marcellus to the estate of Lucina",
+  "mmdd": "08-08",
+  "feast": "The Eighth Day of August",
+  "summary": "During the Middle Ages, Rome was divided into a number of administrative regions, usually numbering between twelve and fourteen, which changed over time.",
+  "biography": "During the Middle Ages, Rome was divided into a number of administrative regions (Latin, regiones), usually numbering between twelve and fourteen, which changed over time.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/14_regions_of_Medieval_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-08_saint_marcellus_to_the_estate_of_lucina.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9dd3d7dc4074bc189616ef7f3581ac27dce867fb5e1e74c563df6a3a094b908e",
+        "langs": {
+          "es": {
+            "translatedHash": "746051b7260baee0c03a2a601f97a6845304474cc2c322c09157108572b82a85",
+            "updatedAt": "2026-02-25T00:11:53.208Z"
+          },
+          "pl": {
+            "translatedHash": "0994690bad261b47cb47088c61436a49027d16e76b2c9ddb8fe847133f66ce62",
+            "updatedAt": "2026-02-25T00:11:54.047Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "14155bf91e090caef53b0ea14c50d968be043686e6bd2071bbe634c466464892",
+        "langs": {
+          "es": {
+            "translatedHash": "3dd789d9fd530d05abf2251518dfde9d262ae516a857623f8166679db40cc685",
+            "updatedAt": "2026-02-25T00:11:54.612Z"
+          },
+          "pl": {
+            "translatedHash": "11246b0c0def661b7e1382eca64288309aa6c337b8c5d2e3fad7f99c8eef2dd9",
+            "updatedAt": "2026-02-25T00:11:55.204Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "54d492169d62815a7b0ca1cba76ecf1984694aeda7e7de423700522cf6832f48",
+        "langs": {
+          "es": {
+            "translatedHash": "1dc1d4833de6b797cba7d499d2d6f6be2c536f3af7600ad9437e3b4ecf774eed",
+            "updatedAt": "2026-02-25T00:11:56.119Z"
+          },
+          "pl": {
+            "translatedHash": "3091d717a6ddf44602199ccfda1b0a8206ecf89db215c33e95ac0bbde08c4573",
+            "updatedAt": "2026-02-25T00:11:57.312Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7be8adf1702cb2f2d9b7f983d4232d4774f4f155095d4c783811bfe3a9239751",
+        "langs": {
+          "es": {
+            "translatedHash": "f3320a6ea8cb649b0a2d81c749dd382035ab7f63c04f41c5c7584f4308a117df",
+            "updatedAt": "2026-02-25T00:11:58.411Z"
+          },
+          "pl": {
+            "translatedHash": "e0c696644c1af6a6244c63732d5b1b673ff902d34773fb2baef97ec2c601973a",
+            "updatedAt": "2026-02-25T00:12:00.219Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Marcelo a la hacienda de Lucina",
+  "name_pl": "Święty Marcellus do majątku Łucyny",
+  "feast_es": "El octavo día de agosto",
+  "feast_pl": "Ósmy dzień sierpnia",
+  "summary_es": "Durante la Edad Media, Roma estaba dividida en varias regiones administrativas, que generalmente eran entre doce y catorce, y que cambiaban con el tiempo.",
+  "summary_pl": "W średniowieczu Rzym był podzielony na kilka regionów administracyjnych, zazwyczaj liczących od dwunastu do czternastu, które zmieniały się z biegiem czasu.",
+  "biography_es": "Durante la Edad Media, Roma estaba dividida en varias regiones administrativas (latín, regiones), que generalmente eran entre doce y catorce, y que cambiaron con el tiempo.",
+  "biography_pl": "W średniowieczu Rzym był podzielony na kilka regionów administracyjnych (łac. regiones), zwykle liczących od dwunastu do czternastu, które zmieniały się z biegiem czasu."
+}

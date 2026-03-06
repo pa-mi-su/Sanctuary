@@ -1,0 +1,79 @@
+{
+  "id": "11-09_saint_theodore",
+  "name": "Saint Theodore",
+  "mmdd": "11-09",
+  "feast": "The Ninth Day of November",
+  "summary": "Saint Theodore, distinguished as Theodore of Amasea, Theodore the Recruit, and by other names, is a Christian saint and Great Martyr, particularly revered in the Eastern Orthodox Churches but also honored in Roman Catholicism and Oriental Orthodoxy. According to legend, he was a legionary in the Roman army who suffered martyrdom by immolation at Amasea in Galatian Pontus during the Great Persecution under Diocletian in the early 4th century. Venerated by the late 4th century, he became a prominent warrior saint during the Middle Ages, attracted a great deal of additional legends including accounts of battle against dragons, and was often confused with the similar Theodore Stratelates of Heraclea.",
+  "biography": "Saint Theodore (Άγιος Θεοδώρος), distinguished as Theodore of Amasea, Theodore the Recruit (Θεοδώρος ό Τήρων), and by other names, is a Christian saint and Great Martyr, particularly revered in the Eastern Orthodox Churches but also honored in Roman Catholicism and Oriental Orthodoxy. According to legend, he was a legionary in the Roman army who suffered martyrdom by immolation at Amasea in Galatian Pontus (modern Amasya, Turkey) during the Great Persecution under Diocletian in the early 4th century. Venerated by the late 4th century, he became a prominent warrior saint during the Middle Ages, attracted a great deal of additional legends including accounts of battle against dragons, and was often confused with (or was the original source of) the similar Theodore Stratelates of Heraclea. \n\n\nNames\nTheodore is the English form of the Latin masculine given name Theodorus from Ancient Greek Theódōros (Θεόδωρος) from Theós (Θεός, \"God\") + dō̂ron (δῶρον, \"gift\"). In Rome, he was also known to locals as St Toto. He was eventually distinguished from other saints named Theodore as Theodore the Recruit...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_Tiron",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-09_saint_theodore.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6997c5eea8276a717b187de3c5e582b1436e42bae0fa02dc325a68a202a17816",
+        "langs": {
+          "es": {
+            "translatedHash": "80e2b8187edb180c9bb1259f35cbff9a8190b004c967037535be3f8994a3b652",
+            "updatedAt": "2026-02-25T01:04:23.926Z"
+          },
+          "pl": {
+            "translatedHash": "37165b86343ccf70691b4b4752610031dcc950238e5a591b1c9efb8eb568650d",
+            "updatedAt": "2026-02-25T01:04:24.745Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e30e5df2e1bc6a4a7aff34178b039bad044647326da736a419d1f8b6a5293903",
+        "langs": {
+          "es": {
+            "translatedHash": "aa614c36a536c6e0fa219e358cd51345e716181658527b4a4a1913963ba43221",
+            "updatedAt": "2026-02-25T01:04:25.382Z"
+          },
+          "pl": {
+            "translatedHash": "8a547055227dbdc663e76fa8e1d8ab871566d6b7fe3bd959d1ad8bb772682fa8",
+            "updatedAt": "2026-02-25T01:04:25.909Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2f9288e70565e0dc51710686532164fc74cc0dd6831986ee5de04bdfb07ad1dd",
+        "langs": {
+          "es": {
+            "translatedHash": "b6600c1de0581a617ab593b66f22fea4973022729932c661cd1d92465ccdec5e",
+            "updatedAt": "2026-02-25T01:04:29.032Z"
+          },
+          "pl": {
+            "translatedHash": "cda0431ad55e57891dcb306a217f42cbd05f517ff6fde75a799f288a3b3aaf1b",
+            "updatedAt": "2026-02-25T01:04:33.550Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9a6d4e9a34db20b282f7b25531f90c754fb103398f545338447c87cc7d4dd080",
+        "langs": {
+          "es": {
+            "translatedHash": "7c7ed8fb4a4af297890a98eb2b3bbc7848c96338279f30dc7a1f8faa7b7da87f",
+            "updatedAt": "2026-02-25T01:04:37.960Z"
+          },
+          "pl": {
+            "translatedHash": "4595f544765a622280861a277296c7197f219303e16e2dfcb5775709d29b1224",
+            "updatedAt": "2026-02-25T01:04:44.624Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Teodoro",
+  "name_pl": "Święty Teodor",
+  "feast_es": "El Noveno Día de Noviembre",
+  "feast_pl": "Dziewiąty dzień listopada",
+  "summary_es": "San Teodoro, conocido como Teodoro de Amasea, Teodoro el Recluta y por otros nombres, es un santo cristiano y Gran Mártir, particularmente venerado en las Iglesias Ortodoxas Orientales pero también honrado en el catolicismo romano y la ortodoxia oriental. Según la leyenda, fue legionario en el ejército romano que sufrió martirio por inmolación en Amasea, en el Ponto de Galacia, durante la Gran Persecución bajo Diocleciano a principios del siglo IV. Venerado desde finales del siglo IV, se convirtió en un destacado santo guerrero durante la Edad Media, atrajo muchas leyendas adicionales, incluyendo relatos de batallas contra dragones, y a menudo fue confundido con el similar Teodoro Estratelates de Heraclea.",
+  "summary_pl": "Święty Teodor, znany jako Teodor z Amasei, Teodor Rekrut oraz pod innymi imionami, jest świętym chrześcijańskim i Wielkim Męczennikiem, szczególnie czczonym w Kościołach Wschodnioprawosławnych, ale także honorowanym w Kościele rzymskokatolickim i Kościołach orientalnych. Według legendy był legionistą w armii rzymskiej, który poniósł męczeńską śmierć przez spalenie w Amasei w Galacji Pontyjskiej podczas Wielkiego Prześladowania za panowania Dioklecjana na początku IV wieku. Czczony już pod koniec IV wieku, stał się wybitnym świętym wojownikiem w średniowieczu, przyciągając wiele dodatkowych legend, w tym opowieści o walkach ze smokami, i często był mylony z podobnym Teodorem Stratelatesem z Heraklei.",
+  "biography_es": "San Teodoro (Άγιος Θεοδώρος), distinguido como Teodoro de Amasea, Teodoro el Recluta (Θεοδώρος ό Τήρων), y por otros nombres, es un santo cristiano y Gran Mártir, particularmente venerado en las Iglesias Ortodoxas Orientales pero también honrado en el catolicismo romano y la ortodoxia oriental. Según la leyenda, fue un legionario del ejército romano que sufrió martirio por inmolación en Amasea en el Ponto de Galacia (la actual Amasya, Turquía) durante la Gran Persecución bajo Diocleciano a principios del siglo IV. Venerado desde finales del siglo IV, se convirtió en un destacado santo guerrero durante la Edad Media, atrayendo muchas leyendas adicionales, incluyendo relatos de batallas contra dragones, y a menudo fue confundido con (o fue la fuente original de) el similar Teodoro Estratelates de Heraclea.\n\nNombres  \nTeodoro es la forma inglesa del nombre latino masculino Theodorus, derivado del griego antiguo Theódōros (Θεόδωρος) de Theós (Θεός, \"Dios\") + dō̂ron (δῶρον, \"regalo\"). En Roma, también era conocido por los locales como San Toto. Finalmente fue distinguido de otros santos llamados Teodoro como Teodoro el Recluta...",
+  "biography_pl": "Święty Teodor (Άγιος Θεοδώρος), znany jako Teodor z Amasei, Teodor Rekrut (Θεοδώρος ό Τήρων) oraz pod innymi imionami, jest świętym chrześcijańskim i Wielkim Męczennikiem, szczególnie czczonym w Kościołach prawosławnych, ale także honorowanym w katolicyzmie rzymskim i ortodoksji orientalnej. Według legendy był legionistą w armii rzymskiej, który poniósł męczeńską śmierć przez spalenie w Amasei w Galacji Pontyjskiej (dzisiejsza Amasya w Turcji) podczas Wielkiego Prześladowania za panowania Dioklecjana na początku IV wieku. Czczony już pod koniec IV wieku, stał się wybitnym świętym wojownikiem w średniowieczu, przyciągając wiele dodatkowych legend, w tym opowieści o walce ze smokami, i często był mylony z (lub stanowił pierwotne źródło) podobnego Teodora Stratelatesa z Heraklei.  \n\nImiona  \nTeodor to angielska forma łacińskiego męskiego imienia Theodorus pochodzącego z greckiego starożytnego Theódōros (Θεόδωρος) złożonego z Theós (Θεός, „Bóg”) + dō̂ron (δῶρον, „dar”). W Rzymie był również znany miejscowym jako św. Toto. Ostatecznie wyróżniono go spośród innych świętych o imieniu Teodor jako Teodor Rekrut..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "11-10_saint_leo_the_great",
+  "name": "Saint Leo the Great",
+  "mmdd": "11-10",
+  "feast": "The Tenth Day of November",
+  "summary": "Pope Leo I, also known as Leo the Great, was Bishop of Rome from 29 September 440 until his death on 10 November 461. He is the first of the three Popes listed in the Annuario Pontificio with the title \"the Great\", alongside Popes Gregory I and Nicholas I.",
+  "biography": "Pope Leo I (Italian: Leone I) (c. 391 – 10 November 461), also known as Leo the Great (Latin: Leo Magnus; Italian: Leone Magno), was Bishop of Rome from 29 September 440 until his death on 10 November 461. He is the first of the three Popes listed in the Annuario Pontificio with the title \"the Great\", alongside Popes Gregory I and Nicholas I. Leo was a Roman aristocrat. He is perhaps best known for meeting Attila the Hun in 452 and persuading him to turn back from his invasion of Italy, though how large a part his personal authority played is debated, and some argue that Attila was already ready to end his campaign. He is also a Doctor of the Church, most remembered theologically for issuing the Tome of Leo, a document which was a major foundation to the debates of the Council of Chalcedon, the fourth ecumenical council. That meeting dealt primarily with Christology and elucidated the definition of Christ's being as the hypostatic union of two natures, divine and human, united in one person, \"with neither confusion nor division\". It was followed by a major schism associated with Monophysitism, Miaphysitism and Dyophysitism. He also contributed significantly to developing ideas of papal...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Leo_I",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-10_saint_leo_the_great.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e8fdda2b9f3fd18fa9702208d83cf6fdf05b698430bc9e64c5b3875e4db62a46",
+        "langs": {
+          "es": {
+            "translatedHash": "e55e8b91507260c54b8013893709dfaf2b3b9336035c6b4273b7d74de9acfafb",
+            "updatedAt": "2026-02-25T01:05:14.807Z"
+          },
+          "pl": {
+            "translatedHash": "9cc93136b610e26ae3e49cbbb2321487e68d9e4617f6827ee940ff0e097ca45c",
+            "updatedAt": "2026-02-25T01:05:15.602Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1ed822011f82e7556001042214abbf0840261c5be5b6aa7ead1d1f7d4358bfb1",
+        "langs": {
+          "es": {
+            "translatedHash": "9b5d2d4ec19fc13cf2c41df97b0ddf5bd315e1f7fbfdddce32b6a23538e330d1",
+            "updatedAt": "2026-02-25T01:05:16.154Z"
+          },
+          "pl": {
+            "translatedHash": "65611f117cdc0e3d129154fdea0d8a6f8c54b247dae6dacb8e888fcf9c426973",
+            "updatedAt": "2026-02-25T01:05:16.764Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f04564e8610fb049595cfa9831a68c23f616241b7520a460f225bfaa1ce19d0e",
+        "langs": {
+          "es": {
+            "translatedHash": "c7899dcb90e85125d119e7797b8233b204e24da5b9d2856862cb608af8255676",
+            "updatedAt": "2026-02-25T01:05:18.634Z"
+          },
+          "pl": {
+            "translatedHash": "4476b06a92fbaa0b9a3aec2435a0546f2a1cec0ed1c4dd4f6610ca04d53a8bc4",
+            "updatedAt": "2026-02-25T01:05:20.850Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bdd4e3c59e729f1670ffb81d52ad54bd569ac5591885dd5645b1f80689d168f0",
+        "langs": {
+          "es": {
+            "translatedHash": "e609d7fff6ddbf01ebc6affceb83f93f246aebc960d4d9e3490d98c01ccd48d4",
+            "updatedAt": "2026-02-25T01:05:26.618Z"
+          },
+          "pl": {
+            "translatedHash": "8d388a508e066b2d1eb945bcd51335b521f7e48072d110d7a0e00b5f591d64cd",
+            "updatedAt": "2026-02-25T01:05:33.049Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San León Magno",
+  "name_pl": "Święty Leon Wielki",
+  "feast_es": "El Día Diez de Noviembre",
+  "feast_pl": "Dziesiąty dzień listopada",
+  "summary_es": "El Papa León I, también conocido como León Magno, fue Obispo de Roma desde el 29 de septiembre de 440 hasta su muerte el 10 de noviembre de 461. Es el primero de los tres Papas listados en el Anuario Pontificio con el título de \"el Grande\", junto con los Papas Gregorio I y Nicolás I.",
+  "summary_pl": "Papież Leon I, znany również jako Leon Wielki, był biskupem Rzymu od 29 września 440 roku aż do swojej śmierci 10 listopada 461 roku. Jest pierwszym z trzech papieży wymienionych w Annuario Pontificio z tytułem „Wielki”, obok papieży Grzegorza I i Mikołaja I.",
+  "biography_es": "El Papa León I (italiano: Leone I) (c. 391 – 10 de noviembre de 461), también conocido como León el Grande (latín: Leo Magnus; italiano: Leone Magno), fue Obispo de Roma desde el 29 de septiembre de 440 hasta su muerte el 10 de noviembre de 461. Es el primero de los tres Papas listados en el Annuario Pontificio con el título de \"el Grande\", junto con los Papas Gregorio I y Nicolás I. León fue un aristócrata romano. Quizás es más conocido por haberse encontrado con Atila el Huno en 452 y persuadirlo para que desistiera de su invasión a Italia, aunque se debate cuánto influyó su autoridad personal, y algunos sostienen que Atila ya estaba dispuesto a terminar su campaña. También es Doctor de la Iglesia, recordado teológicamente por emitir el Tomo de León, un documento que fue una base fundamental para los debates del Concilio de Calcedonia, el cuarto concilio ecuménico. Esa reunión trató principalmente sobre la cristología y esclareció la definición del ser de Cristo como la unión hipostática de dos naturalezas, divina y humana, unidas en una sola persona, \"sin confusión ni división\". Fue seguida por un cisma importante asociado con el monofisismo, miafisismo y diofisismo. También contribuyó significativamente al desarrollo de ideas sobre la autoridad papal...",
+  "biography_pl": "Papież Leon I (wł. Leone I) (ok. 391 – 10 listopada 461), znany również jako Leon Wielki (łac. Leo Magnus; wł. Leone Magno), był biskupem Rzymu od 29 września 440 aż do swojej śmierci 10 listopada 461. Jest pierwszym z trzech papieży wymienionych w Annuario Pontificio z tytułem „Wielki”, obok papieży Grzegorza I i Mikołaja I. Leon był rzymskim arystokratą. Być może najbardziej znany jest z spotkania z Attyłą Hunem w 452 roku i przekonania go do odwrotu z inwazji na Italię, choć dyskutuje się, jak dużą rolę odegrał jego osobisty autorytet, a niektórzy twierdzą, że Attyla był już gotów zakończyć swoją kampanię. Jest także Doktorem Kościoła, najbardziej zapamiętanym teologicznie za wydanie Listu Leona, dokumentu stanowiącego ważną podstawę debat soboru chalcedońskiego, czwartego soboru powszechnego. Spotkanie to dotyczyło przede wszystkim chrystologii i wyjaśniło definicję bytu Chrystusa jako hipostatycznego zjednoczenia dwóch natur, boskiej i ludzkiej, zjednoczonych w jednej osobie „bez zmieszania i bez podziału”. Po soborze nastąpił poważny rozłam związany z monofizytyzmem, miafizytyzmem i dyfizytyzmem. Leon wniósł również znaczący wkład w rozwój idei papiestwa..."
+}

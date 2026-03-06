@@ -1,0 +1,48 @@
+{
+  "id": "08-06_transfiguration_of_the_lord_feast",
+  "name": "Transfiguration of the Lord—Feast",
+  "mmdd": "08-06",
+  "feast": "The Sixth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_the_Ascension"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-06_transfiguration_of_the_lord_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "feef1c6b45f56a2ac723c3212eed706724fb061f492e9d7988c60bc808833a1e",
+        "langs": {
+          "es": {
+            "translatedHash": "9cef9f4014464c7668e96b36723d33a284305e2835d992863046a35a0a9723fd",
+            "updatedAt": "2026-02-25T00:11:12.119Z"
+          },
+          "pl": {
+            "translatedHash": "507e2c058769a0bae6ec08cebe065cd5b54f53f2f4db17d6b20ad3d6706e4dff",
+            "updatedAt": "2026-02-25T00:11:12.849Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "625a64ffd19dc3805584f0a05c291ecf9829b0c8afd6675ef683004908e1a1bf",
+        "langs": {
+          "es": {
+            "translatedHash": "8ea95062670234d207126f957465d4c49b4fba67ae483e9e41725caa1a839c3d",
+            "updatedAt": "2026-02-25T00:11:13.471Z"
+          },
+          "pl": {
+            "translatedHash": "e85ecd853fc3255c90489579224fdb215031c0705ce53d9135cf6ca9064c5770",
+            "updatedAt": "2026-02-25T00:11:14.198Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Transfiguración del Señor—Fiesta",
+  "name_pl": "Przemienienie Pańskie — Uroczystość",
+  "feast_es": "El Sexto Día de Agosto",
+  "feast_pl": "Szósty dzień sierpnia"
+}

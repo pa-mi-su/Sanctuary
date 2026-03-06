@@ -1,0 +1,79 @@
+{
+  "id": "11-27_saint_basileus",
+  "name": "Saint Basileus",
+  "mmdd": "11-27",
+  "feast": "The Twenty-Seventh Day of November",
+  "summary": "Basileus is a Greek term and title that has signified various types of monarchs throughout history. In the English-speaking world, it is perhaps most widely understood to mean 'monarch', referring to either a 'king' or an 'emperor'. The title was used by sovereigns and other persons of authority in ancient Greece, the Byzantine emperors, and the kings of modern Greece. The name Basileios (Basil), deriving from the term basileus, is a common given name in the Eastern Orthodox Church and Syriac Orthodox Church for the Maphrian.",
+  "biography": "Alexander of Jerusalem was a third century bishop who is venerated as a martyr and saint by the Eastern Orthodox Church, Oriental Orthodox churches, and the Roman Catholic Church. He died during the persecution of Emperor Decius.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basileus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-27_saint_basileus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ae8091842737732f91d524f30f8ee9ef783c0cf35bc52b9dada01f06e443bd82",
+        "langs": {
+          "es": {
+            "translatedHash": "361ff718f6162f7c33eded346b73b20540628e9ecd9f0ef7adabd5bae05277a9",
+            "updatedAt": "2026-02-25T01:15:06.109Z"
+          },
+          "pl": {
+            "translatedHash": "21e152ce93b7f485971d9e6ef7dbe44523da088d988ec8e1c0da1499db5f73e2",
+            "updatedAt": "2026-02-25T01:15:06.662Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e27859a8b44d4b0ee365651af41f1b2e4188d5e3e30d6b45ddfdd0e8f822366f",
+        "langs": {
+          "es": {
+            "translatedHash": "4eca91743e99705c44ec33eb588d419b5f0ee6c77b62cea072ae43a2a6d2b5bd",
+            "updatedAt": "2026-02-25T01:15:07.314Z"
+          },
+          "pl": {
+            "translatedHash": "c4aaba760191b5ace862e3b86bfd73b42872d6e03dca7970674b711fdf503d6b",
+            "updatedAt": "2026-02-25T01:15:07.986Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e6dcc57bdc2e17f1305c8ad85a0dd860882992556bdc62e0b5fd21dcfd841bb6",
+        "langs": {
+          "es": {
+            "translatedHash": "006c73c10fae03740db1d7eb9a2c636690fb79d8f814fd1dfd15f947615f02b3",
+            "updatedAt": "2026-02-25T01:15:10.848Z"
+          },
+          "pl": {
+            "translatedHash": "19d186d8e65393c66c9b2287f941e444a7de206b6d40a91945098fb9f81b4f7e",
+            "updatedAt": "2026-02-25T01:15:13.855Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7dad377c4889ede188b432e11a88a6a76e721c8fd699272507b0ba0c5804b754",
+        "langs": {
+          "es": {
+            "translatedHash": "1f4726a505ce2b932a0e7bae3d6df070d068d9f329fad2c3754285237930e2ac",
+            "updatedAt": "2026-02-25T01:15:15.643Z"
+          },
+          "pl": {
+            "translatedHash": "4b7948f9db53affefbac00e43eff1978e4dbb7fd379e38dcda3f76efcd1f8024",
+            "updatedAt": "2026-02-25T01:15:18.536Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Basilio",
+  "name_pl": "Święty Bazylisz",
+  "feast_es": "El Vigésimo Séptimo Día de Noviembre",
+  "feast_pl": "Dwudziesty siódmy dzień listopada",
+  "summary_es": "Basileus es un término y título griego que ha significado varios tipos de monarcas a lo largo de la historia. En el mundo angloparlante, se entiende quizás más ampliamente como 'monarca', refiriéndose a un 'rey' o un 'emperador'. El título fue usado por soberanos y otras personas de autoridad en la antigua Grecia, los emperadores bizantinos y los reyes de la Grecia moderna. El nombre Basileios (Basilio), derivado del término basileus, es un nombre común en la Iglesia Ortodoxa Oriental y la Iglesia Ortodoxa Siria para el Mafrío.",
+  "summary_pl": "Basileus to grecki termin i tytuł, który na przestrzeni dziejów oznaczał różne rodzaje monarchów. W świecie anglojęzycznym jest on być może najczęściej rozumiany jako „monarcha”, odnosząc się zarówno do „króla”, jak i do „cesarza”. Tytuł ten był używany przez suwerenów i inne osoby sprawujące władzę w starożytnej Grecji, cesarzy bizantyjskich oraz królów nowożytnej Grecji. Imię Basileios (Bazyli), pochodzące od terminu basileus, jest powszechnym imieniem nadawanym w Kościele Wschodnio-Prawosławnym oraz Kościele Syryjskim Ortodoksyjnym dla Mafrjana.",
+  "biography_es": "Alejandro de Jerusalén fue un obispo del siglo III que es venerado como mártir y santo por la Iglesia Ortodoxa Oriental, las iglesias Ortodoxas Orientales y la Iglesia Católica Romana. Murió durante la persecución del emperador Decio.",
+  "biography_pl": "Aleksander Jerozolimski był biskupem III wieku, który jest czczony jako męczennik i święty przez Kościół Wschodnioprawosławny, Kościoły Ortodoksji Orientalnej oraz Kościół Rzymskokatolicki. Zmarł podczas prześladowań cesarza Decjusza."
+}

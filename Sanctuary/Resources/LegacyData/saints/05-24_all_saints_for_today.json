@@ -1,0 +1,46 @@
+{
+  "id": "05-24_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "05-24",
+  "feast": "The Twenty-Fourth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:31:00.902Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:31:01.744Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "da3101e3d8f1e40520677ec807defa0368b9df83c8ea583b17b41738d48e6bd6",
+        "langs": {
+          "es": {
+            "translatedHash": "e68a777b23a6fc79e4b56e1ed2a8e037cbd1d011ea88d1813317d2401a4caef4",
+            "updatedAt": "2026-02-24T23:31:02.274Z"
+          },
+          "pl": {
+            "translatedHash": "5b5a5e87a43a085e00c96d9d251685ae93482844408c3dbd7bc1c530b08d6ef2",
+            "updatedAt": "2026-02-24T23:31:02.877Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Veinticuatro de Mayo",
+  "feast_pl": "Dwudziesty czwarty dzień maja"
+}

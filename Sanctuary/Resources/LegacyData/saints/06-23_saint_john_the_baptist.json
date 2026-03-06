@@ -1,0 +1,79 @@
+{
+  "id": "06-23_saint_john_the_baptist",
+  "name": "Saint John the Baptist",
+  "mmdd": "06-23",
+  "feast": "The Twenty-Third day of June",
+  "summary": "John the Baptist was a Jewish preacher active in the area of the Jordan River in the early first century AD. He is also known as Saint John the Forerunner in Eastern Orthodoxy and Oriental Orthodoxy, Saint John the Immerser in the Baptist tradition, and as the prophet Yahya ibn Zakariya in Islam. He is sometimes referred to as John the Baptiser.",
+  "biography": "John the Baptist (c. 6 BC – c. AD 30) was a Jewish preacher active in the area of the Jordan River in the early first century AD. He is also known as Saint John the Forerunner in Eastern Orthodoxy and Oriental Orthodoxy, Saint John the Immerser in the Baptist tradition, and as the prophet Yahya ibn Zakariya in Islam. He is sometimes referred to as John the Baptiser.\nJohn is mentioned by the Roman Jewish historian Josephus, and he is revered as a major religious figure in Christianity, Islam, the Baháʼí Faith, the Druze faith, and Mandaeism; in the last of these he is considered to be the final and most vital prophet. He is considered to be a prophet of God by all of the aforementioned faiths, and is honoured as a saint in many Christian denominations. According to the New Testament, John anticipated a messianic figure greater than himself; in the Gospels, he is portrayed as the precursor or forerunner of Jesus. According to the Gospel of Matthew, Jesus himself identifies John as \"Elijah who is to come\", which is a direct reference to the Book of Malachi (Malachi 4:5), as confirmed by the angel Gabriel, who announced John's birth to his father Zechariah. According to the Gospel of Luke...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Baptist",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-23_saint_john_the_baptist.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "61a1433253f22ff4fbcaeb821057499b8e378ad9ab660ee7cd37a6bb401d17cd",
+        "langs": {
+          "es": {
+            "translatedHash": "3b1bd04d61756af3fb54bb3c93b4f1bac4118363aebe17ee3c1b108836b5c35b",
+            "updatedAt": "2026-02-24T23:46:45.330Z"
+          },
+          "pl": {
+            "translatedHash": "4f560655b3944b575b469b34a70cf69e5e0c53b799ee9d1a80b22a9453dc5861",
+            "updatedAt": "2026-02-24T23:46:46.062Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4b9ff04e0e92125c835b02e6d1f4d2800ed2395544a13b8c0a8a54158b87864a",
+        "langs": {
+          "es": {
+            "translatedHash": "8fb9fceaef0faafdeb22f6dacc3a77a7494a9701ce3774bae7b743b418f151c2",
+            "updatedAt": "2026-02-24T23:46:46.700Z"
+          },
+          "pl": {
+            "translatedHash": "292d62903c76930eb23bb59195cd7ac213ce38670cfb6c0dfdbd6b214b3c3545",
+            "updatedAt": "2026-02-24T23:46:47.315Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "07fc0cbceb4a806ae5ab1c29ec8ab294c6d3be74cea16038944c05a05691ca77",
+        "langs": {
+          "es": {
+            "translatedHash": "90f80510d2fe5b8c84a618707d25fb14ef99ff3904b2d11c6cc212b8b02ac079",
+            "updatedAt": "2026-02-24T23:46:49.079Z"
+          },
+          "pl": {
+            "translatedHash": "a5f18959649fde2b4758098c988086c862d733ce9c121a453ebac72c471114ca",
+            "updatedAt": "2026-02-24T23:46:50.940Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1ec9220ae15b9e3910d0a11ba3bcd129f4644d5da7d833e29224b9eddca7e752",
+        "langs": {
+          "es": {
+            "translatedHash": "e52a5994afa46c7a40b3bd0dcbb986abeeb1e7ed798ea921eaf2b0d4ccbe10a8",
+            "updatedAt": "2026-02-24T23:46:54.799Z"
+          },
+          "pl": {
+            "translatedHash": "ca94cfbc7b5e3cc262164ed0a6205c7c9ec6bc3ccbbe170f083839223d069112",
+            "updatedAt": "2026-02-24T23:46:58.333Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bautista",
+  "name_pl": "Święty Jan Chrzciciel",
+  "feast_es": "El vigésimo tercer día de junio",
+  "feast_pl": "Dwudziesty trzeci dzień czerwca",
+  "summary_es": "Juan el Bautista fue un predicador judío activo en la zona del río Jordán a principios del siglo I d.C. También es conocido como San Juan el Precursor en la Ortodoxia Oriental y la Ortodoxia Oriental, San Juan el Inmersionista en la tradición Bautista, y como el profeta Yahya ibn Zakariya en el Islam. A veces se le llama Juan el Bautizador.",
+  "summary_pl": "Jan Chrzciciel był żydowskim kaznodzieją działającym w rejonie rzeki Jordan na początku I wieku n.e. Znany jest również jako święty Jan Chrzciciel w tradycji prawosławnej wschodniej i orientalnej, święty Jan Zanurzający w tradycji baptystycznej oraz jako prorok Jahja ibn Zakaria w islamie. Czasami nazywany jest Janem Chrzczącym.",
+  "biography_es": "Juan el Bautista (c. 6 a.C. – c. 30 d.C.) fue un predicador judío activo en la zona del río Jordán a principios del siglo I d.C. También es conocido como San Juan el Precursor en la ortodoxia oriental y la ortodoxia oriental, San Juan el Inmersionista en la tradición bautista, y como el profeta Yahya ibn Zakariya en el Islam. A veces se le denomina Juan el Bautizador.\n\nJuan es mencionado por el historiador judío romano Josefo, y es venerado como una figura religiosa importante en el cristianismo, el islam, la fe bahá’í, la fe drusa y el mandeísmo; en este último se le considera el profeta final y más vital. Es considerado un profeta de Dios por todas las religiones mencionadas, y es honrado como santo en muchas denominaciones cristianas. Según el Nuevo Testamento, Juan anticipó una figura mesiánica mayor que él mismo; en los Evangelios, se le presenta como el precursor o precursor de Jesús. Según el Evangelio de Mateo, el mismo Jesús identifica a Juan como \"Elías que ha de venir\", lo cual es una referencia directa al Libro de Malaquías (Malaquías 4:5), como lo confirmó el ángel Gabriel, quien anunció el nacimiento de Juan a su padre Zacarías. Según el Evangelio de Lucas...",
+  "biography_pl": "Jan Chrzciciel (ok. 6 p.n.e. – ok. 30 n.e.) był żydowskim kaznodzieją działającym w rejonie rzeki Jordan na początku I wieku n.e. Znany jest również jako święty Jan Chrzciciel w tradycji prawosławnej i orientalnej, święty Jan Zanurzający w tradycji baptystycznej oraz jako prorok Jahja ibn Zakaria w islamie. Czasami nazywany jest Janem Chrzczącym.\n\nJan jest wspomniany przez rzymskiego żydowskiego historyka Józefa, a także czczony jako ważna postać religijna w chrześcijaństwie, islamie, wierze Bahá’í, religii druzów oraz mandeizmie; w tej ostatniej uważany jest za ostatniego i najważniejszego proroka. Wszystkie wymienione wyznania uznają go za proroka Boga, a w wielu odłamach chrześcijaństwa jest czczony jako święty. Według Nowego Testamentu Jan oczekiwał mesjańskiej postaci większej od siebie; w Ewangeliach przedstawiany jest jako poprzednik lub zwiastun Jezusa. Według Ewangelii Mateusza sam Jezus identyfikuje Jana jako „Eliasza, który ma przyjść”, co jest bezpośrednim odniesieniem do Księgi Malachiasza (Malachiasz 4,5), co potwierdza anioł Gabriel, który zapowiedział narodziny Jana jego ojcu Zachariaszowi. Według Ewangelii Łukasza..."
+}

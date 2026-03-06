@@ -1,0 +1,46 @@
+{
+  "id": "11-26_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-26",
+  "feast": "The Twenty-Sixth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:14:33.794Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:14:34.424Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "303d8a64af0901e42caf4b207be5408766a283adbe6205b974b792b8c4a998c2",
+        "langs": {
+          "es": {
+            "translatedHash": "d5f39be7a3b92b400c43586b5969c2551c386dbe1c721f22023d7dc85cc7eaf3",
+            "updatedAt": "2026-02-25T01:14:35.056Z"
+          },
+          "pl": {
+            "translatedHash": "28e53348d0000d0fe83b214aeca6e12b19c0ce4833e88c5f2352cd8080e5f8cd",
+            "updatedAt": "2026-02-25T01:14:35.736Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo sexto día de noviembre",
+  "feast_pl": "Dwudziesty szósty dzień listopada"
+}

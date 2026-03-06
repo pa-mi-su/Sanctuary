@@ -1,0 +1,48 @@
+{
+  "id": "02-27_saint_gregory_of_narek_abbot_and_doctor_of_the_church_optional_memorial",
+  "name": "Saint Gregory of Narek, Abbot and Doctor of the Church—Optional Memorial",
+  "mmdd": "02-27",
+  "feast": "The Twenty-Seventh Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Narek"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-27_saint_gregory_of_narek_abbot_and_doctor_of_the_church_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "dca5f30829744b0c5137000017356fc90bcb64f47549460a35018875fb9db651",
+        "langs": {
+          "es": {
+            "translatedHash": "9d2dda1af9e4b2fa994f7be8838c51cee41d5f2adab7af608916a1ec69965431",
+            "updatedAt": "2026-02-24T22:43:56.328Z"
+          },
+          "pl": {
+            "translatedHash": "50a40f6efb04662605f1fb9b7cead860e980d62db69eadfb86caf2f5a55b95fa",
+            "updatedAt": "2026-02-24T22:43:57.286Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0cb04827647b3eb6fb6582dbd9bce45a706563dd23e4052b7974dbabdb1f7888",
+        "langs": {
+          "es": {
+            "translatedHash": "08a3337e056ae012c16d823e9782d4436e0ffacee77c5f5136a207480c6e0b59",
+            "updatedAt": "2026-02-24T22:43:57.962Z"
+          },
+          "pl": {
+            "translatedHash": "f15c1e64f393727edbfde013d5d02f0bf9ce3771a8e95ce6418689ab3c0a535d",
+            "updatedAt": "2026-02-24T22:43:58.595Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio de Narek, Abad y Doctor de la Iglesia—Memoria Opcional",
+  "name_pl": "Święty Grzegorz z Nareku, Opat i Doktor Kościoła — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Séptimo Día de Febrero",
+  "feast_pl": "Dwudziesty siódmy dzień lutego"
+}

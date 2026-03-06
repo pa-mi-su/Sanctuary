@@ -1,0 +1,48 @@
+{
+  "id": "02-05_saint_agatha_virgin_and_martyr_memorial_optional_memorial_if_lenten_weekday",
+  "name": "Saint Agatha, Virgin and Martyr—Memorial (Optional Memorial if Lenten weekday)",
+  "mmdd": "02-05",
+  "feast": "The Fifth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agatha_Christie"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-05_saint_agatha_virgin_and_martyr_memorial_optional_memorial_if_lenten_weekday.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e716be9d1a3131a685ab46f88b3a93a30a30e9e2b674f6156aee2b52e4a276f6",
+        "langs": {
+          "es": {
+            "translatedHash": "a22b1154bcd0fbd1ae70734bc1511aa7f599abc8fab2d3c1fe418821899ad5ce",
+            "updatedAt": "2026-02-24T22:29:54.338Z"
+          },
+          "pl": {
+            "translatedHash": "8b4c36c49243ed515234469592725fe350b016f494efc68df71dfa2e5044e7f0",
+            "updatedAt": "2026-02-24T22:29:55.368Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ffed79078bc758053a524d32a4be31bfebc9baa4118df056fe66c1cdfdafccb1",
+        "langs": {
+          "es": {
+            "translatedHash": "9dcf19b601321112e5d3299a82d5d861bc2563777d4bd8fb6d670b5914fa2a7b",
+            "updatedAt": "2026-02-24T22:29:55.994Z"
+          },
+          "pl": {
+            "translatedHash": "4db6c85601eefb104e39a2f4fb4ad03620a45b7f575875bb5d5dc62ce8049527",
+            "updatedAt": "2026-02-24T22:29:56.565Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Águeda, Virgen y Mártir—Memorial (Memorial Opcional si es día laborable de Cuaresma)",
+  "name_pl": "Święta Agata, Dziewica i Męczennica — Wspomnienie (Wspomnienie dowolne w dni powszednie Wielkiego Postu)",
+  "feast_es": "El Quinto Día de Febrero",
+  "feast_pl": "Piąty dzień lutego"
+}

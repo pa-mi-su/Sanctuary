@@ -1,0 +1,63 @@
+{
+  "id": "05-18_saint_dioscorus",
+  "name": "Saint Dioscorus",
+  "mmdd": "05-18",
+  "feast": "The Eighteenth Day of May",
+  "summary": "Dioscorus I, also known as Dioscorus the Great, was the pope of Alexandria and patriarch of the See of St. Mark who was deposed by the Council of Chalcedon in 451. He was recognized as patriarch by the Coptic Church until his death. He died in Gangra, Paphlagonia, in September 454. He is venerated as a saint by the Coptic and other Oriental Orthodox Churches.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Dioscorus_I_of_Alexandria"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-18_saint_dioscorus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "61d654adceca650f52229c353b2af0017f145f43472a85373e93dbcdb7cd0629",
+        "langs": {
+          "es": {
+            "translatedHash": "38dc60e708454321584da4ea653bb60894542ebf4e994f713645ee44f0bea7fa",
+            "updatedAt": "2026-02-24T23:26:59.857Z"
+          },
+          "pl": {
+            "translatedHash": "469b7e925108bdd8aaffb6f8a9552f13685b1cc3ece550adbb2e52b900a3ab0d",
+            "updatedAt": "2026-02-24T23:27:00.479Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d471d3803992b7bb232006a3c67e258da19d46483006d1a81e96967e2b545a2a",
+        "langs": {
+          "es": {
+            "translatedHash": "ba26536df0650798d4c268e0f37350f98eb7e540fbc8a59b2c18df178971ce71",
+            "updatedAt": "2026-02-24T23:27:01.071Z"
+          },
+          "pl": {
+            "translatedHash": "7b8470a4d44cde28175d4f6573f3ed6db48f3ec8e3196269d4e73a06c31e96ba",
+            "updatedAt": "2026-02-24T23:27:01.780Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0b7c4b92c1093e690c67499a1dfeab776fd22c16835bde027d3e55857f06e9ea",
+        "langs": {
+          "es": {
+            "translatedHash": "a330bdaa340c3d301c251a7bed77882398af2d392d1ff6c264af22835991ed9b",
+            "updatedAt": "2026-02-24T23:27:03.747Z"
+          },
+          "pl": {
+            "translatedHash": "bc5af71fae42b932982fbead2a10e2f15187c1431be3374e3c6e70f7b497d467",
+            "updatedAt": "2026-02-24T23:27:05.915Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Dioscoro",
+  "name_pl": "Święty Dioskor",
+  "feast_es": "El Dieciocho de Mayo",
+  "feast_pl": "Osiemnasty dzień maja",
+  "summary_es": "Dioscoro I, también conocido como Dioscoro el Grande, fue el papa de Alejandría y patriarca de la Sede de San Marcos que fue depuesto por el Concilio de Calcedonia en 451. Fue reconocido como patriarca por la Iglesia Copta hasta su muerte. Murió en Gangra, Paflagonia, en septiembre de 454. Es venerado como santo por la Iglesia Copta y otras Iglesias Ortodoxas Orientales.",
+  "summary_pl": "Dioskor I, znany również jako Dioskor Wielki, był papieżem Aleksandrii i patriarchą Stolicy św. Marka, który został usunięty przez Sobór Chalcedoński w 451 roku. Był uznawany za patriarchę przez Kościół Koptyjski aż do swojej śmierci. Zmarł w Gangrze, w Paflagonii, we wrześniu 454 roku. Jest czczony jako święty przez Kościół Koptyjski oraz inne Kościoły Ortodoksyjne Wschodnie."
+}

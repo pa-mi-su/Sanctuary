@@ -1,0 +1,79 @@
+{
+  "id": "03-01_saint_john_cassian",
+  "name": "Saint John Cassian",
+  "mmdd": "03-01",
+  "feast": "The First Day of March",
+  "summary": "John Cassian, also known as John the Ascetic and John Cassian the Roman,, was a Christian monk and theologian celebrated in both the Western and Eastern churches for his mystical writings. Cassian is noted for his role in bringing the ideas and practices of early Christian monasticism to the medieval West.",
+  "biography": "John Cassian, also known as John the Ascetic and John Cassian the Roman,, was a Christian monk and theologian celebrated in both the Western and Eastern churches for his mystical writings. Cassian is noted for his role in bringing the ideas and practices of early Christian monasticism to the medieval West.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Cassian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-01_saint_john_cassian.jpeg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0d86611e437c5a105292a77860888beeec33359182d50220904e5be2524a2bc3",
+        "langs": {
+          "es": {
+            "translatedHash": "ddab8502d3349990028945c040a9a84d0ccabc66379a48e3a34f41f549b9ec2d",
+            "updatedAt": "2026-02-24T22:46:05.011Z"
+          },
+          "pl": {
+            "translatedHash": "02c941a30884b06ad23402cc039701b94571ac51ae2358f8debdaaca07d5c55b",
+            "updatedAt": "2026-02-24T22:46:05.687Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4600f9941905f045445639f7f6ac293ac37cdbda0d81547c3721489fbc459b9c",
+        "langs": {
+          "es": {
+            "translatedHash": "c7cf1017ce22024c8a48b381306415e193bad935858e35842bc506dbb1d69070",
+            "updatedAt": "2026-02-24T22:46:06.304Z"
+          },
+          "pl": {
+            "translatedHash": "a0f532e6339ed3deb190060e1ddd44ebdfbd02417bc6b3606e61276e5a23c2d5",
+            "updatedAt": "2026-02-24T22:46:07.040Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "714a5155537d8337afe7b844f899610bb47c9ca64ec37ca907ccb9a7429c90d0",
+        "langs": {
+          "es": {
+            "translatedHash": "d99cd9529393e23a142279d96c00f48167ec34052d2f6040445420ff194202bf",
+            "updatedAt": "2026-02-24T22:46:08.977Z"
+          },
+          "pl": {
+            "translatedHash": "c3f2479049eb3e230ac3f20f152a761159f7462b735e6d8495bbe30be3a93e3b",
+            "updatedAt": "2026-02-24T22:46:10.981Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "714a5155537d8337afe7b844f899610bb47c9ca64ec37ca907ccb9a7429c90d0",
+        "langs": {
+          "es": {
+            "translatedHash": "0e2e422ccdafb9e7071023543755aa33f04d842c874964645ffb7611074f47c0",
+            "updatedAt": "2026-02-24T22:46:13.174Z"
+          },
+          "pl": {
+            "translatedHash": "86c4f0f0fa959b73eae6933cbc6a0324859c67ebf3a3de0fdfcca0babdd28910",
+            "updatedAt": "2026-02-24T22:46:15.880Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Casiano",
+  "name_pl": "Święty Jan Kasjan",
+  "feast_es": "El Primer Día de Marzo",
+  "feast_pl": "Pierwszy dzień marca",
+  "summary_es": "Juan Casiano, también conocido como Juan el Asceta y Juan Casiano el Romano, fue un monje cristiano y teólogo celebrado tanto en las iglesias de Occidente como de Oriente por sus escritos místicos. Casiano es reconocido por su papel en la transmisión de las ideas y prácticas del monacato cristiano primitivo al Occidente medieval.",
+  "summary_pl": "Jan Kasjan, znany również jako Jan Asceita i Jan Kasjan Rzymski, był chrześcijańskim mnichem i teologiem cenionym zarówno w Kościele Zachodnim, jak i Wschodnim za swoje mistyczne pisma. Kasjan jest znany z roli, jaką odegrał w przekazywaniu idei i praktyk wczesnego chrześcijańskiego monastycyzmu do średniowiecznego Zachodu.",
+  "biography_es": "Juan Casiano, también conocido como Juan el Asceta y Juan Casiano el Romano, fue un monje y teólogo cristiano celebrado tanto en las iglesias de Occidente como de Oriente por sus escritos místicos. Casiano es reconocido por su papel en llevar las ideas y prácticas del monacato cristiano primitivo a la Europa medieval.",
+  "biography_pl": "Jan Kasjan, znany również jako Jan Asce­ta i Jan Kasjan Rzymianin, był chrześcijańskim mnichem i teologiem cenionym zarówno w Kościołach Zachodnim, jak i Wschodnim za swoje mistyczne pisma. Kasjan jest znany z roli, jaką odegrał w przeniesieniu idei i praktyk wczesnego chrześcijańskiego monastycyzmu na średniowieczny Zachód."
+}

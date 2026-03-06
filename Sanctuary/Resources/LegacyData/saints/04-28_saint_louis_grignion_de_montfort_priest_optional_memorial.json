@@ -1,0 +1,48 @@
+{
+  "id": "04-28_saint_louis_grignion_de_montfort_priest_optional_memorial",
+  "name": "Saint Louis Grignion de Montfort, Priest—Optional Memorial",
+  "mmdd": "04-28",
+  "feast": "The Twenty-Eighth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-28_saint_louis_grignion_de_montfort_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "86b4b600b873d39c58a364ea9981f9bfb40b16711546b417d49676f12cde9b52",
+        "langs": {
+          "es": {
+            "translatedHash": "1348b9048ac0b9ebdf486c513ada150f3d64ee9a7ed5eb4caff570f7fa017134",
+            "updatedAt": "2026-02-24T23:16:10.706Z"
+          },
+          "pl": {
+            "translatedHash": "696271e6bf9ca39eed7ca3d70f9ca525512c6002c139efc342e4e495e973959c",
+            "updatedAt": "2026-02-24T23:16:11.493Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ca7fdc2e8e3ac8fe797846621fa3a7d35a9b9828232e5e5d6f48a643afbd494f",
+        "langs": {
+          "es": {
+            "translatedHash": "dc1cc00168cb0b6a3fc92b7d54b012c143a5bcce2ee0eb00543a87b6a654ddd9",
+            "updatedAt": "2026-02-24T23:16:12.180Z"
+          },
+          "pl": {
+            "translatedHash": "ce0ee8b82163821f1532bd204fc5254f9b875194500b0d2894c3d6411659d279",
+            "updatedAt": "2026-02-24T23:16:12.888Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Luis María Grignion de Montfort, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Ludwik Grignion de Montfort, kapłan — wspomnienie dowolne",
+  "feast_es": "El vigésimo octavo día de abril",
+  "feast_pl": "Dwudziesty ósmy dzień kwietnia"
+}

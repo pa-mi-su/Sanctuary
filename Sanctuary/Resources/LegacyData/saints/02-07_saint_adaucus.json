@@ -1,0 +1,79 @@
+{
+  "id": "02-07_saint_adaucus",
+  "name": "Saint Adaucus",
+  "mmdd": "02-07",
+  "feast": "The Seventh Day of February",
+  "summary": "Saint Adaucus is an early Christian martyr remembered in Roman martyrology tradition. In many historical sources, the name is treated as a variant connected with the martyr group Marius, Martha, Audifax, and Abachum.",
+  "biography": "Very little historically certain information survives about Saint Adaucus. Later martyrology traditions preserve his name among early Roman-era martyrs and often relate it to variant spellings found in medieval calendars and devotional lists. Because these traditions were transmitted through later compilations, modern historical reconstruction is limited, but the Church's remembrance of Adaucus reflects the broader witness of Christians who were honored for fidelity under persecution.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marius,_Martha,_Audifax,_and_Abachum",
+    "https://catholicsaints.info/roman-martyrology-february-7th/"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-07_saint_adaucus.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f0b946ba9e8d877cf92c176b4b5b9c2371d54c77b6f4e0ebcd3df8a736bc14b6",
+        "langs": {
+          "es": {
+            "translatedHash": "690ba9e0107be94ab9a00db3d15c6e6a20478f07b4336a0fa3684a66b6f08044",
+            "updatedAt": "2026-02-24T22:30:57.855Z"
+          },
+          "pl": {
+            "translatedHash": "5df87eaf0cf6a4f8fff3022528dfe8955a5e5fc7d20bd33c8eaa7fadbc8a8a00",
+            "updatedAt": "2026-02-24T22:30:58.482Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d7fda1323bd91f8300eee3b027e715dafec5e3f5da10be9f44798b86061113dc",
+        "langs": {
+          "es": {
+            "translatedHash": "15e1b0206a060a059fc5553ed973c0b52dc42f8a765dbc336a6a8b4c7dddccfc",
+            "updatedAt": "2026-02-24T22:30:59.451Z"
+          },
+          "pl": {
+            "translatedHash": "024fa7807aedd64ec25112731b92135daa36f71e5696931a0c35b1faa3b6902a",
+            "updatedAt": "2026-02-24T22:31:00.194Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1f809d8ebd24aad4f99ba8a1a6e31ef04501e342fa5e05458e3ba6b86db73df3",
+        "langs": {
+          "es": {
+            "translatedHash": "375cdaceacacf505bc6bc6fe13a7f5d50d0defa3a4e892fb377c2e5f7a0bb2a7",
+            "updatedAt": "2026-02-24T22:31:01.441Z"
+          },
+          "pl": {
+            "translatedHash": "26a3766a8e56cf321b0a697a603e69502b2ee2361edeeeeeae33d3b798cfcb6e",
+            "updatedAt": "2026-02-24T22:31:03.031Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8af0e0336350b11d18423d30d1409e537fa51cd6dbc0b326e784bb5817775830",
+        "langs": {
+          "es": {
+            "translatedHash": "3d7b21c1c960f678e0a0a7d309ec1fdb685530837aff732c52d471d932178758",
+            "updatedAt": "2026-02-24T22:31:05.549Z"
+          },
+          "pl": {
+            "translatedHash": "91a5593e3205bf71aa8be60cb7ae5a750cfb45e98c9ba54c58e8dee2ba1ba264",
+            "updatedAt": "2026-02-24T22:31:08.518Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Adaucus",
+  "name_pl": "Święty Adaukus",
+  "feast_es": "El séptimo día de febrero",
+  "feast_pl": "Siódmy dzień lutego",
+  "summary_es": "San Adaucus es un mártir cristiano primitivo recordado en la tradición del martirologio romano. En muchas fuentes históricas, el nombre se considera una variante relacionada con el grupo de mártires Mario, Marta, Audifax y Abacum.",
+  "summary_pl": "Święty Adauk jest wczesnochrześcijańskim męczennikiem wspominanym w tradycji rzymskiego martyrologium. W wielu źródłach historycznych imię to traktowane jest jako wariant związany z grupą męczenników: Mariuszem, Martą, Audifaksem i Abachumem.",
+  "biography_es": "Muy poca información históricamente cierta sobrevive acerca de San Adaucus. Las tradiciones posteriores del martirologio conservan su nombre entre los mártires de la época romana temprana y a menudo lo relacionan con variantes ortográficas encontradas en calendarios medievales y listas devocionales. Debido a que estas tradiciones fueron transmitidas a través de compilaciones posteriores, la reconstrucción histórica moderna es limitada, pero el recuerdo de la Iglesia de Adaucus refleja el testimonio más amplio de los cristianos que fueron honrados por su fidelidad bajo la persecución.",
+  "biography_pl": "Bardzo niewiele historycznie pewnych informacji zachowało się o św. Adaucusie. Późniejsze tradycje martyrologiczne zachowują jego imię wśród męczenników z wczesnej ery rzymskiej i często odnoszą je do różnych wariantów pisowni spotykanych w średniowiecznych kalendarzach i wykazach nabożeństw. Ponieważ tradycje te były przekazywane przez późniejsze kompilacje, współczesna rekonstrukcja historyczna jest ograniczona, ale pamięć Kościoła o Adaucusie odzwierciedla szersze świadectwo chrześcijan, którzy byli czczeni za wierność w czasie prześladowań."
+}

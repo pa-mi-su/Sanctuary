@@ -1,0 +1,46 @@
+{
+  "id": "09-10_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "09-10",
+  "feast": "The Tenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:28:16.618Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:28:17.314Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f29c46449bec5298cb7cb236de112e71246c32a4bd70993ddd0d5b13c0549d0d",
+        "langs": {
+          "es": {
+            "translatedHash": "5c08eb407ba52b9493dca4bab95900721c75347891f243ef8382a9596b47a2dd",
+            "updatedAt": "2026-02-25T00:28:17.878Z"
+          },
+          "pl": {
+            "translatedHash": "691c1339fcefb4e5b393074f16a5470e2e1b7d4a69e3c4a2928d5cc142665f9a",
+            "updatedAt": "2026-02-25T00:28:18.724Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Día Diez de Septiembre",
+  "feast_pl": "Dziesiąty dzień września"
+}

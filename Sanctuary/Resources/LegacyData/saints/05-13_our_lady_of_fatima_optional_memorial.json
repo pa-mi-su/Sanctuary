@@ -1,0 +1,48 @@
+{
+  "id": "05-13_our_lady_of_fatima_optional_memorial",
+  "name": "Our Lady of Fatima—Optional Memorial",
+  "mmdd": "05-13",
+  "feast": "The Thirteenth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-13_our_lady_of_fatima_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8c84839eea857c8d0ebcc443292d86341ffeb417e3a17ab26f72b59240e5f31b",
+        "langs": {
+          "es": {
+            "translatedHash": "1352fddfef7d6e9e58907defb279396a74fd2223451c40500339f1369922720f",
+            "updatedAt": "2026-02-24T23:24:04.973Z"
+          },
+          "pl": {
+            "translatedHash": "31413f1450028bd2ecc36702e95ae45939a36a302216894a22b8e3e71f4988c6",
+            "updatedAt": "2026-02-24T23:24:05.911Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "275a40254552a0b6d764a69a2069c744f18e43e5af447b01a2e1c5205be1f4f6",
+        "langs": {
+          "es": {
+            "translatedHash": "7d6f3910611b6df59916b514a973fed10388d1c8f26968d6cc6592477dc45eaa",
+            "updatedAt": "2026-02-24T23:24:06.571Z"
+          },
+          "pl": {
+            "translatedHash": "ad21f4a9b2bf6b221bf3a8a0665fbe39a8af231e92e76b7e5072583c8099d58f",
+            "updatedAt": "2026-02-24T23:24:07.106Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora de Fátima—Memoria Opcional",
+  "name_pl": "Matka Boża Fatimska — Wspomnienie dowolne",
+  "feast_es": "El Decimotercer Día de Mayo",
+  "feast_pl": "Trzynasty Dzień Maja"
+}

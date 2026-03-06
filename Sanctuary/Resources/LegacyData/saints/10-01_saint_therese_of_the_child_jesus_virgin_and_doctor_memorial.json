@@ -1,0 +1,48 @@
+{
+  "id": "10-01_saint_therese_of_the_child_jesus_virgin_and_doctor_memorial",
+  "name": "Saint Thérèse of the Child Jesus, Virgin and Doctor—Memorial",
+  "mmdd": "10-01",
+  "feast": "The First Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Therese_of_the_Child_Jesus_Parish_Church.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-01_saint_therese_of_the_child_jesus_virgin_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "cd508f3245256d1ea22863c02c2cf7da325e7913060b731cec5f41dac49ec190",
+        "langs": {
+          "es": {
+            "translatedHash": "f9bbfd78273f98577d1774a06ffd55d4b6e44a8ceb8e5d0e8536b093366479e1",
+            "updatedAt": "2026-02-25T00:41:43.746Z"
+          },
+          "pl": {
+            "translatedHash": "325cd2efaf5e404158695012d8705068a07af11669cf4a5704be6527cf687dc8",
+            "updatedAt": "2026-02-25T00:41:44.692Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f7898b186597b82eae8255f92cc8561468a5060d1964d3408390e33f0f50e627",
+        "langs": {
+          "es": {
+            "translatedHash": "982a751bcb90b90160a6fbc061420946f528090c3d107025ac4ea90300892075",
+            "updatedAt": "2026-02-25T00:41:45.160Z"
+          },
+          "pl": {
+            "translatedHash": "76522d77a622021ec7e36cc63ee1babfcdd2814d2404d4f116d97190562f549d",
+            "updatedAt": "2026-02-25T00:41:45.867Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Teresa del Niño Jesús, Virgen y Doctora—Memoria",
+  "name_pl": "Święta Teresa od Dzieciątka Jezus, Dziewica i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Primer Día de Octubre",
+  "feast_pl": "Pierwszy Dzień Października"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "10-23_saint_john_of_capistrano",
+  "name": "Saint John of Capistrano",
+  "mmdd": "10-23",
+  "feast": "The Twenty-Third Day of October",
+  "summary": "John of Capistrano, OFM was an Italian Franciscan friar and Catholic priest from the town of Capestrano, Abruzzo. Famous as a preacher, theologian, and inquisitor, he earned himself the nickname \"the Soldier Saint\" when in 1456 at age 70 he led a Crusade against the invading Ottoman Empire at the siege of Belgrade with the Hungarian military commander John Hunyadi.",
+  "biography": "John of Capistrano, OFM (Italian: San Giovanni da Capestrano, Hungarian: Kapisztrán János, Polish: Jan Kapistran, Croatian: Ivan Kapistran Serbian: Јован Капистран, Jovan Kapistran; 24 June 1386 – 23 October 1456) was an Italian Franciscan friar and Catholic priest from the town of Capestrano, Abruzzo. Famous as a preacher, theologian, and inquisitor, he earned himself the nickname \"the Soldier Saint\" when in 1456 at age 70 he led a Crusade against the invading Ottoman Empire at the siege of Belgrade with the Hungarian military commander John Hunyadi. Elevated to sainthood, he is the patron saint of jurists and military chaplains, as well as the namesake of two Franciscan missions, one in Southern California and the other in San Antonio, Texas. Early life As was the custom of this time, John is denoted by the village of Capestrano, in the Diocese of Sulmona, in the Abruzzi region, Kingdom of Naples. His father had come to Italy with the Angevin court of Louis I of Anjou, titular King of Naples. He studied law at the University of Perugia. In 1412, King Ladislaus of Naples appointed him Governor of Perugia, a tumultuous and resentful papal fief held by Ladislas as the pope's champion...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Capistrano",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-23_saint_john_of_capistrano.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7df01abe9c2f485cd9acf19b8b6b2c9bd6791563bb5ac6066fac61649a02aea1",
+        "langs": {
+          "es": {
+            "translatedHash": "d012f64a4c480a4fa379d15b7dc25b00ac55890713d3e5727fb96411ea9f405a",
+            "updatedAt": "2026-02-25T00:55:04.881Z"
+          },
+          "pl": {
+            "translatedHash": "aaa1958e382142f72382de664601a1d8ed50d28e3266c06b40bd1036fcf59ff1",
+            "updatedAt": "2026-02-25T00:55:05.869Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c895310fda5e1f9bf9428ad4507b0b48fc0c58562b094e91e027f81e9895e475",
+        "langs": {
+          "es": {
+            "translatedHash": "4512cc98e5d98b2fdf56dd23e19e2c118c7c1af5def68286f6de570009721467",
+            "updatedAt": "2026-02-25T00:55:06.636Z"
+          },
+          "pl": {
+            "translatedHash": "81b520aa5cec0c425976579afecf4d6f40c82807fc48c98843383d1e92e58a85",
+            "updatedAt": "2026-02-25T00:55:07.787Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "111e7d37be0992d58f1c2a777f924a2bbfb22eef2198c460c1432fdc35dd1311",
+        "langs": {
+          "es": {
+            "translatedHash": "ae6fc58c999f2cb4f2ebf56c64d217df8abe40f50c9879850566ffab037ce1dd",
+            "updatedAt": "2026-02-25T00:55:09.964Z"
+          },
+          "pl": {
+            "translatedHash": "14574ffc6e0fcbda0878cc3d7f77e8dbdbaf0ed65a672785196ef2e93c626e3a",
+            "updatedAt": "2026-02-25T00:55:12.915Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "05f96b8174cdd5f0e826bc759bd1aa660e5085efc960c666bc1c3ba8aaf2f2e8",
+        "langs": {
+          "es": {
+            "translatedHash": "a8a02959a86ec8e6eaff8dcb15169cd53a1c394f3466854ec998412f8aa1e3eb",
+            "updatedAt": "2026-02-25T00:55:17.846Z"
+          },
+          "pl": {
+            "translatedHash": "35a3867ab245355f17c46d5bb28cc415440b9bfc7463255a6f87c48e16808215",
+            "updatedAt": "2026-02-25T00:55:24.460Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Capistrano",
+  "name_pl": "Święty Jan Kapistran",
+  "feast_es": "El Vigésimo Tercer Día de Octubre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Października",
+  "summary_es": "Juan de Capistrano, OFM, fue un fraile franciscano italiano y sacerdote católico de la ciudad de Capestrano, Abruzzo. Famoso como predicador, teólogo e inquisidor, se ganó el apodo de \"el Santo Soldado\" cuando en 1456, a la edad de 70 años, lideró una Cruzada contra el Imperio Otomano invasor en el asedio de Belgrado junto al comandante militar húngaro Juan Hunyadi.",
+  "summary_pl": "Jan Kapistran, OFM, był włoskim franciszkańskim zakonnikiem i katolickim kapłanem z miasta Capestrano w Abruzji. Słynny jako kaznodzieja, teolog i inkwizytor, zyskał przydomek „Święty Żołnierz”, gdy w 1456 roku, mając 70 lat, poprowadził krucjatę przeciwko najeżdżającemu Imperium Osmańskiemu podczas oblężenia Belgradu wraz z węgierskim dowódcą wojskowym Janem Hunyadim.",
+  "biography_es": "Juan de Capistrano, OFM (italiano: San Giovanni da Capestrano, húngaro: Kapisztrán János, polaco: Jan Kapistran, croata: Ivan Kapistran, serbio: Јован Капистран, Jovan Kapistran; 24 de junio de 1386 – 23 de octubre de 1456) fue un fraile franciscano italiano y sacerdote católico de la ciudad de Capestrano, Abruzzo. Famoso como predicador, teólogo e inquisidor, se ganó el apodo de \"el Santo Soldado\" cuando en 1456, a los 70 años, lideró una Cruzada contra el Imperio Otomano invasor en el sitio de Belgrado junto al comandante militar húngaro Juan Hunyadi. Elevado a la santidad, es el santo patrón de los juristas y capellanes militares, así como el nombre de dos misiones franciscanas, una en el sur de California y la otra en San Antonio, Texas.\n\nPrimeros años  \nComo era costumbre en esa época, Juan es nombrado por el pueblo de Capestrano, en la Diócesis de Sulmona, en la región de Abruzzo, Reino de Nápoles. Su padre había llegado a Italia con la corte angevina de Luis I de Anjou, rey titular de Nápoles. Estudió derecho en la Universidad de Perugia. En 1412, el rey Ladislao de Nápoles lo nombró gobernador de Perugia, un feudo papal tumultuoso y resentido que Ladislao sostenía como campeón del papa...",
+  "biography_pl": "Jan Kapistran, OFM (włoski: San Giovanni da Capestrano, węgierski: Kapisztrán János, polski: Jan Kapistran, chorwacki: Ivan Kapistran, serbski: Јован Капистран, Jovan Kapistran; 24 czerwca 1386 – 23 października 1456) był włoskim franciszkaninem i katolickim kapłanem z miasta Capestrano w Abruzji. Słynny jako kaznodzieja, teolog i inkwizytor, zyskał przydomek „Święty Żołnierz”, gdy w 1456 roku, mając 70 lat, poprowadził krucjatę przeciwko najeżdżającemu Imperium Osmańskiemu podczas oblężenia Belgradu wraz z węgierskim dowódcą wojskowym Janem Hunyadim. Kanonizowany, jest patronem prawników i kapelanów wojskowych, a także patronem dwóch misji franciszkańskich, jednej w Południowej Kalifornii, a drugiej w San Antonio w Teksasie.\n\nWczesne życie  \nJak było w zwyczaju w tamtych czasach, Jan jest określany nazwą wioski Capestrano, w diecezji Sulmona, w regionie Abruzja, Królestwo Neapolu. Jego ojciec przybył do Włoch wraz z dworem Andegawenów Ludwika I Andegaweńskiego, tytularnego króla Neapolu. Studiował prawo na Uniwersytecie w Perugii. W 1412 roku król Władysław Neapolitański mianował go gubernatorem Perugii, burzliwego i pełnego niechęci lenna papieskiego, które Władysław trzymał jako obrońca papieża..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "10-23_saint_servandus",
+  "name": "Saint Servandus",
+  "mmdd": "10-23",
+  "feast": "The Twenty-Third Day of October",
+  "summary": "Servandus and Germanus were Spanish martyrs who are venerated as Christian saints.",
+  "biography": "Veneration\nServandus and Germanus are mentioned in the martyrologies of Bede, Usuard, Ado, as well as the Mozarabic breviary, and in the breviaries of Toledo, Seville, Salamanca, among others. They are venerated as patron saints of Cádiz (officially since 1619). On the Sunday closest...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Servandus_and_Germanus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-23_saint_servandus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0402534aa52ab2ae27c0d46d3d605bbe7aad4ce296555b00632f96ca485bbb4b",
+        "langs": {
+          "es": {
+            "translatedHash": "6c681dd409b47333d35d3723ec91150a3695a968f33c951cd06aba77e042c4b3",
+            "updatedAt": "2026-02-25T00:55:28.482Z"
+          },
+          "pl": {
+            "translatedHash": "e3eac2716af72c02d0f574ded2fe41028f0571c1155cd5b1c6179c37d8b88a46",
+            "updatedAt": "2026-02-25T00:55:29.036Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c895310fda5e1f9bf9428ad4507b0b48fc0c58562b094e91e027f81e9895e475",
+        "langs": {
+          "es": {
+            "translatedHash": "4512cc98e5d98b2fdf56dd23e19e2c118c7c1af5def68286f6de570009721467",
+            "updatedAt": "2026-02-25T00:55:29.634Z"
+          },
+          "pl": {
+            "translatedHash": "81b520aa5cec0c425976579afecf4d6f40c82807fc48c98843383d1e92e58a85",
+            "updatedAt": "2026-02-25T00:55:30.386Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "077d98537f461f431350ec7b1c5c8cc1a36dd4dd4713a2119be3e3630e3fc30e",
+        "langs": {
+          "es": {
+            "translatedHash": "324d86d051b530726a76a4a6101c6c9ac18504b00e91fed873ae4edd67c91298",
+            "updatedAt": "2026-02-25T00:55:31.042Z"
+          },
+          "pl": {
+            "translatedHash": "c325a51fcb242df9a47bf97b69fdefe884db7924240f4dcd53c00563b5fe3c05",
+            "updatedAt": "2026-02-25T00:55:32.320Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4fd79c35a1a336d2ebb5a8f5ea09d4315bf3d8b6a929527afc3ba265d554c0dd",
+        "langs": {
+          "es": {
+            "translatedHash": "fb332afcfe528d50e99cc14faf9c403ae5b47f24faa70e6d6f5de59a55544c80",
+            "updatedAt": "2026-02-25T00:55:33.970Z"
+          },
+          "pl": {
+            "translatedHash": "f9ef90bb2c72f405e4e84d4c23c7da80512ec740a5a0354cbb43f115d6d63d2b",
+            "updatedAt": "2026-02-25T00:55:35.521Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Servando",
+  "name_pl": "Święty Serwandusz",
+  "feast_es": "El Vigésimo Tercer Día de Octubre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Października",
+  "summary_es": "Servando y Germán fueron mártires españoles que son venerados como santos cristianos.",
+  "summary_pl": "Servandus i Germanus byli hiszpańskimi męczennikami, którzy są czczeni jako święci chrześcijańscy.",
+  "biography_es": "Veneración  \nServando y Germán son mencionados en los martirologios de Beda, Usuardo, Ado, así como en el breviario mozárabe, y en los breviarios de Toledo, Sevilla, Salamanca, entre otros. Son venerados como santos patronos de Cádiz (oficialmente desde 1619). El domingo más cercano...",
+  "biography_pl": "Cześć  \nServandus i Germanus są wymieniani w martyrologiach Bedy, Usuarda, Ado, a także w brewiarzu mozarabskim oraz w brewiarzach Toledo, Sewilli, Salamanki i innych. Są czczeni jako patroni Kadyksu (oficjalnie od 1619 roku). W niedzielę najbliższą..."
+}

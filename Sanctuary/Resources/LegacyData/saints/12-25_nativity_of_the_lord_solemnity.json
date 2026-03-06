@@ -1,0 +1,48 @@
+{
+  "id": "12-25_nativity_of_the_lord_solemnity",
+  "name": "Nativity of the Lord—Solemnity",
+  "mmdd": "12-25",
+  "feast": "The Twenty-Fifth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemnity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-25_nativity_of_the_lord_solemnity.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0ae5be0a08c0e85dba79e8441db62b017e26c3124e09b29d81c0417784937ca1",
+        "langs": {
+          "es": {
+            "translatedHash": "039310720b07e18d003d97ed17f2b75248f0a88764e06e75f7d565503ce1ff34",
+            "updatedAt": "2026-02-25T01:32:43.840Z"
+          },
+          "pl": {
+            "translatedHash": "14fc3a4c737521dddd3609fdac463656a96a5d03258730e8a40c9707ca54a8c0",
+            "updatedAt": "2026-02-25T01:32:44.459Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54cf51e2e3878f53f611d723f222faa074541e34470af6f791a4227483cdb8fb",
+        "langs": {
+          "es": {
+            "translatedHash": "f2e54945f73c79646ad6e62b9c9be31589c27fb2af491e5c65c64be0912b3173",
+            "updatedAt": "2026-02-25T01:32:45.124Z"
+          },
+          "pl": {
+            "translatedHash": "97a4d46e834d174cc5c2af5b9203898c6a8b6818df196b719e8deb1294f7c444",
+            "updatedAt": "2026-02-25T01:32:45.979Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Natividad del Señor—Solemnidad",
+  "name_pl": "Narodzenie Pańskie — Uroczystość",
+  "feast_es": "El Veinticinco de Diciembre",
+  "feast_pl": "Dwudziesty piąty dzień grudnia"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "06-26_saint_vigilius",
+  "name": "Saint Vigilius",
+  "mmdd": "06-26",
+  "feast": "The Twenty-Sixth day of June",
+  "summary": "Vigilius of Trent is venerated as the patron saint and bishop of Trent.",
+  "biography": "Life\nAccording to tradition, he was a Roman patrician, the son of Maxentia and a man whose name is sometimes given as Theodosius. His brothers, Claudian and Magorian, are also venerated as saints. Vigilius was educated at Athens and seems to have been a friend of John Chrysostom. \nIn 380, Vigilius settled in the city of Trent and was chosen as the city's bishop. He may have been consecrated by either Ambrose of Milan or Valerian (Valerianus) of Aquileia. Ambrose donated the episcopal insignia and showed a paternal solicitude for Vigilius. As bishop, Vigilius attempted to convert Arians and pagans to Nicene Christianity and is said to have founded thirty parishes in his diocese. He is traditionally regarded as the founder of the Church of Santa Maria Maggiore in Trent. A letter attributed to Ambrose encourages Vigilius to oppose marriages between Christians and pagans. Vigilius also preached in Brescia and Verona, which lay outside of his diocese.\nHis companions during his missions were Sisinnius, Martyrius and Alexander (Sisinnio...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vigilius_of_Trent"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-26_saint_vigilius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4e230413736cba2fd7eb256169e24bc80b8bd342af4f428030abdbe2d9311fc6",
+        "langs": {
+          "es": {
+            "translatedHash": "43fa36d51791edc468639526046eb3d9fa9778ec24799775d140ec81b9337a92",
+            "updatedAt": "2026-02-24T23:48:51.146Z"
+          },
+          "pl": {
+            "translatedHash": "dab94e957d2ccbb525934462e8af06646849af47e7bdcbbdda08c771e475adc4",
+            "updatedAt": "2026-02-24T23:48:51.758Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b37bd69e3f629b3a3dc610cb326bce218749ae225709c54a7402759b985e07e5",
+        "langs": {
+          "es": {
+            "translatedHash": "a1fa493d4c3d467e81d1ee49cb27d24ff4809cbb31c6df9b0ceec900c407ee08",
+            "updatedAt": "2026-02-24T23:48:52.450Z"
+          },
+          "pl": {
+            "translatedHash": "48d8d678727465733cb3ba45e2864d0501be2a8c27160e9c439b74a3bc4c75c4",
+            "updatedAt": "2026-02-24T23:48:52.963Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c499767f7bd4d7ddf20fdffe89f6265f82e5003c0ca3fe194fe060ed4d1b97e1",
+        "langs": {
+          "es": {
+            "translatedHash": "45868b6626abc8782baa12515170c47c18bc272fe70b2862c9ee7952d502eb9f",
+            "updatedAt": "2026-02-24T23:48:53.721Z"
+          },
+          "pl": {
+            "translatedHash": "420e0cea24291b089e81e69d69c5ae72eb4e7354d3da5e3d19c8717b04b8871d",
+            "updatedAt": "2026-02-24T23:48:54.537Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "db3d6155d6cc3d633ef965adbd5b9375997c3c7e6deaa6822bbd76373041951e",
+        "langs": {
+          "es": {
+            "translatedHash": "bafd508ddc0423f7c9e72b22427452a73c7fb9fa7493f9804624778d7a9831af",
+            "updatedAt": "2026-02-24T23:48:58.976Z"
+          },
+          "pl": {
+            "translatedHash": "a9014d3fdc4e22c704aa3bdfb9cd4176b570fdccb353e251ea3fbdc0431d5550",
+            "updatedAt": "2026-02-24T23:49:06.343Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vigilio",
+  "name_pl": "Święty Wigiliusz",
+  "feast_es": "El vigésimo sexto día de junio",
+  "feast_pl": "Dwudziesty szósty dzień czerwca",
+  "summary_es": "Vigilio de Trento es venerado como el santo patrón y obispo de Trento.",
+  "summary_pl": "Wigiliusz z Trydentu jest czczony jako patron i biskup Trydentu.",
+  "biography_es": "Vida  \nSegún la tradición, fue un patricio romano, hijo de Maxentia y de un hombre cuyo nombre a veces se da como Teodosio. Sus hermanos, Claudio y Magoriano, también son venerados como santos. Vigilio fue educado en Atenas y parece haber sido amigo de Juan Crisóstomo.  \nEn 380, Vigilio se estableció en la ciudad de Trento y fue elegido obispo de la ciudad. Puede que haya sido consagrado por Ambrosio de Milán o por Valeriano (Valerianus) de Aquilea. Ambrosio donó las insignias episcopales y mostró una solicitud paternal hacia Vigilio. Como obispo, Vigilio intentó convertir a arrianos y paganos al cristianismo niceno y se dice que fundó treinta parroquias en su diócesis. Tradicionalmente se le considera el fundador de la Iglesia de Santa María la Mayor en Trento. Una carta atribuida a Ambrosio anima a Vigilio a oponerse a los matrimonios entre cristianos y paganos. Vigilio también predicó en Brescia y Verona, que estaban fuera de su diócesis.  \nSus compañeros durante sus misiones fueron Sisinnio, Martirio y Alejandro (Sisinnio...",
+  "biography_pl": "Życie  \nWedług tradycji był rzymskim patrycjuszem, synem Maksencji i mężczyzny, którego imię bywa podawane jako Teodozjusz. Jego bracia, Klaudian i Magorian, również są czczeni jako święci. Wigiliusz kształcił się w Atenach i wydaje się, że był przyjacielem Jana Chryzostoma.  \nW 380 roku Wigiliusz osiedlił się w mieście Trydent i został wybrany na biskupa tego miasta. Mógł zostać wyświęcony przez Ambrożego z Mediolanu lub Waleriusza (Valerianusa) z Aquilei. Ambroży podarował mu insygnia biskupie i okazywał ojcowską troskę o Wigiliusza. Jako biskup Wigiliusz starał się nawracać arian i pogan na chrześcijaństwo nicejskie i mówi się, że założył trzydzieści parafii w swojej diecezji. Tradycyjnie uważa się go za założyciela Kościoła Santa Maria Maggiore w Trydencie. List przypisywany Ambrożemu zachęca Wigiliusza do sprzeciwiania się małżeństwom między chrześcijanami a poganami. Wigiliusz głosił także kazania w Brescii i Weronie, które leżały poza jego diecezją.  \nTowarzyszami jego misji byli Sisinniusz, Martyriusz i Aleksander (Sisinnio..."
+}

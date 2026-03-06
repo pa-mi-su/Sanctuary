@@ -1,0 +1,81 @@
+{
+  "id": "02-03_saint_blasius",
+  "name": "Saint Blasius",
+  "mmdd": "02-03",
+  "feast": "The Third Day of February",
+  "summary": "Blaise of Sebaste was a physician and bishop of Sebastea in historical Lesser Armenia who is venerated as a Christian saint and martyr. He is counted as one of the Fourteen Holy Helpers.",
+  "biography": "Blaise of Sebaste (Greek: Ἅγιος Βλάσιος, Hágios Blásios; Armenian: Սուրբ Վլաս; Latin: Blasius martyred 316 AD) was a physician and bishop of Sebastea in historical Lesser Armenia (modern Sivas, Turkey) who is venerated as a Christian saint and martyr. He is counted as one of the Fourteen Holy Helpers.\nBlaise is a saint in the Catholic, Western Rite Orthodoxy, Eastern Orthodox and Oriental Orthodox Churches and is the patron saint of wool combers and of sufferers from ENT illnesses. In the Latin Church, his feast falls on 3 February. In the Eastern Churches, it is on 11 February. According to the Acta Sanctorum, he was martyred by being beaten, tortured with iron combs, and beheaded.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Blaise",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-03_saint_blasius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1f539967899e94ae99f35774a2f136936afbd1535fd2b03329161db546ecdf67",
+        "langs": {
+          "es": {
+            "translatedHash": "bdd3f1ac6f033291b1ce42f11b220087bd7ae90c224e253a41538d3f4b975e78",
+            "updatedAt": "2026-02-24T22:28:31.444Z"
+          },
+          "pl": {
+            "translatedHash": "d2be7b81e60b39edd315feabdd6598ab5ba3c99c5c577f05bc65678b5db330de",
+            "updatedAt": "2026-02-24T22:28:32.526Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ebb46b816625937f7599f0d28daa22e0c415d70120bb4cf34dadc2ded9fecf45",
+        "langs": {
+          "es": {
+            "translatedHash": "450844de212eff2d78cd8ac22c354fc7f30b4c1114a8a1bd423636bc3372a500",
+            "updatedAt": "2026-02-24T22:28:33.254Z"
+          },
+          "pl": {
+            "translatedHash": "49debd6439275dc0436e6ea149506613beae84631287775b9a1674dc04d7f273",
+            "updatedAt": "2026-02-24T22:28:33.825Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3333b94c6ef94686ad87ad3b92439c202b6eaeda2d52393606087097c0a6827c",
+        "langs": {
+          "es": {
+            "translatedHash": "ab93e73589c5d0279b315da56424f4bf69e276d1b06b8d27b01ea20d7c5d58f1",
+            "updatedAt": "2026-02-24T22:28:35.554Z"
+          },
+          "pl": {
+            "translatedHash": "cb3eb2b82052f2b60e44920f8136a760ba5a77e97a12ad7ece13772fb525cf76",
+            "updatedAt": "2026-02-24T22:28:39.052Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "df25ee79bae2ca5b7bd2bc9066cb0dccd1d58ef5cdb50a3fc4eb7f22c767bbf5",
+        "langs": {
+          "es": {
+            "translatedHash": "b6c7241efc95b532e09a4028ffdcf5c2b9ecf3f51c76c9b1c80a826901e04b2d",
+            "updatedAt": "2026-02-24T22:28:42.081Z"
+          },
+          "pl": {
+            "translatedHash": "1b669a0fd6af57242629e26b7aa3435d7dca6c91dadc85187e424dc6b14c7893",
+            "updatedAt": "2026-02-24T22:28:45.470Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Blas",
+  "name_pl": "Święty Błażej",
+  "feast_es": "El Tercer Día de Febrero",
+  "feast_pl": "Trzeci dzień lutego",
+  "summary_es": "Blas de Sebaste fue un médico y obispo de Sebastea en la histórica Armenia Menor, quien es venerado como santo y mártir cristiano. Es contado como uno de los Catorce Santos Auxiliadores.",
+  "summary_pl": "Błażej z Sebasty był lekarzem i biskupem Sebastei w historycznej Małej Armenii, który jest czczony jako święty i męczennik chrześcijański. Jest zaliczany do Czternastu Świętych Wspomożycieli.",
+  "biography_es": "Blas de Sebaste (griego: Ἅγιος Βλάσιος, Hágios Blásios; armenio: Սուրբ Վլաս; latín: Blasius, martirizado en 316 d.C.) fue un médico y obispo de Sebastea en la histórica Armenia Menor (actual Sivas, Turquía) que es venerado como santo y mártir cristiano. Es contado como uno de los Catorce Santos Auxiliadores.\n\nBlas es un santo en la Iglesia Católica, la Ortodoxia de Rito Occidental, las Iglesias Ortodoxas Orientales y las Iglesias Ortodoxas Orientales y es el santo patrón de los peinadores de lana y de los enfermos de enfermedades ORL. En la Iglesia Latina, su fiesta se celebra el 3 de febrero. En las Iglesias Orientales, es el 11 de febrero. Según los Acta Sanctorum, fue martirizado siendo golpeado, torturado con peines de hierro y decapitado.",
+  "biography_pl": "Błażej z Sebasty (grecki: Ἅγιος Βλάσιος, Hágios Blásios; ormiański: Սուրբ Վլաս; łacina: Blasius, męczennik 316 n.e.) był lekarzem i biskupem Sebastei w historycznej Małej Armenii (dzisiejsze Sivas w Turcji), który jest czczony jako święty chrześcijański i męczennik. Jest zaliczany do Czternastu Świętych Wspomożycieli.  \nBłażej jest świętym w Kościele katolickim, prawosławiu zachodnim, prawosławiu wschodnim oraz Kościołach orientalnych i jest patronem czesaczy wełny oraz cierpiących na choroby uszu, nosa i gardła. W Kościele łacińskim jego święto przypada na 3 lutego. W Kościołach wschodnich obchodzone jest 11 lutego. Według Acta Sanctorum został zamęczony przez biczowanie, torturowany żelaznymi grzebieniami i ścięty."
+}

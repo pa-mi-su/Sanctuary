@@ -1,0 +1,79 @@
+{
+  "id": "06-09_saint_ephrem",
+  "name": "Saint Ephrem",
+  "mmdd": "06-09",
+  "feast": "The Nineth Day of June",
+  "summary": "Ephrem the Syrian, also known as Ephraem the Deacon, Ephrem of Edessa or Aprem of Nisibis, was a prominent Syriac-Aramean Christian theologian and writer who is revered as one of the most notable hymnographers of Eastern Christianity. He was born in Nisibis, served as a deacon and later lived in Edessa.",
+  "biography": "Ephrem the Syrian, also known as Ephraem the Deacon, Ephrem of Edessa or Aprem of Nisibis, was a prominent Syriac-Aramean Christian theologian and writer who is revered as one of the most notable hymnographers of Eastern Christianity. He was born in Nisibis, served as a deacon and later lived in Edessa.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ephrem_the_Syrian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-09_saint_ephrem.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "86a823cd9f01df350fa9fb8f5df1dff9840908dfd1d9f6cb60cfb27b21085144",
+        "langs": {
+          "es": {
+            "translatedHash": "0f373c2282a8477dc2bfe2820a00ef88499d9ea0f297130ab8f68a4ce8c5bc69",
+            "updatedAt": "2026-02-24T23:39:49.257Z"
+          },
+          "pl": {
+            "translatedHash": "83796ad057a6f355bf902120d30d8a1004bc646fe89a258bc4bbfab93801f3b9",
+            "updatedAt": "2026-02-24T23:39:50.002Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "05b00ca6d3573ebeae1406b4f1fe00db648920d035e3fc46a16ff678d3c36b40",
+        "langs": {
+          "es": {
+            "translatedHash": "ae2ddf043fb717bc4ce77b435c031fd43763c4ac11d2d25de1cdde036c1ef7af",
+            "updatedAt": "2026-02-24T23:39:50.772Z"
+          },
+          "pl": {
+            "translatedHash": "bd50a264063f2bc6fba6d1c70cc5b2ab0b087093ac7ab4ac3a49cfebc6cb6149",
+            "updatedAt": "2026-02-24T23:39:52.647Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "47179197344297e048b3e2770d5277e4c75b12417b921c091aaea45bcdf9365f",
+        "langs": {
+          "es": {
+            "translatedHash": "cdb76b2232bd8ad850519766943637143f323642711044c82750f52c6b4fac92",
+            "updatedAt": "2026-02-24T23:39:54.763Z"
+          },
+          "pl": {
+            "translatedHash": "a6aead7b7dd9d719efbb724add264e5e4aa0648428dc47da4197d768a34a5e99",
+            "updatedAt": "2026-02-24T23:39:56.585Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "47179197344297e048b3e2770d5277e4c75b12417b921c091aaea45bcdf9365f",
+        "langs": {
+          "es": {
+            "translatedHash": "fd0217b854bcc18721c072d79d9764396d30e493a7488a84a44444ddd0c58ad1",
+            "updatedAt": "2026-02-24T23:39:58.041Z"
+          },
+          "pl": {
+            "translatedHash": "a6aead7b7dd9d719efbb724add264e5e4aa0648428dc47da4197d768a34a5e99",
+            "updatedAt": "2026-02-24T23:40:00.447Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Efrén",
+  "name_pl": "Święty Efrema",
+  "feast_es": "El Noveno Día de Junio",
+  "feast_pl": "Dziewiąty dzień czerwca",
+  "summary_es": "Efrén el Sirio, también conocido como Efraem el Diácono, Efrén de Édesa o Aprem de Nisibis, fue un destacado teólogo y escritor cristiano siríaco-arameo que es venerado como uno de los más notables himnógrafos del cristianismo oriental. Nació en Nisibis, sirvió como diácono y posteriormente vivió en Édesa.",
+  "summary_pl": "Efrema Syryjczyk, znany również jako Efraim Diakon, Efrema z Edessy lub Aprem z Nisibis, był wybitnym syryjsko-aramejskim teologiem chrześcijańskim i pisarzem, który jest czczony jako jeden z najbardziej znanych hymnografów chrześcijaństwa wschodniego. Urodził się w Nisibis, pełnił funkcję diakona, a później mieszkał w Edessie.",
+  "biography_es": "Efrén el Sirio, también conocido como Efraín el Diácono, Efrén de Édesa o Aprem de Nisibis, fue un destacado teólogo y escritor cristiano siríaco-arameo que es venerado como uno de los más notables himnógrafos del cristianismo oriental. Nació en Nisibis, sirvió como diácono y más tarde vivió en Édesa.",
+  "biography_pl": "Efrema Syryjczyk, znany również jako Efraim Diakon, Efrema z Edessy lub Aprem z Nisibis, był wybitnym syryjsko-aramejskim teologiem chrześcijańskim i pisarzem, który jest czczony jako jeden z najbardziej znanych hymnografów chrześcijaństwa wschodniego. Urodził się w Nisibis, pełnił funkcję diakona, a później mieszkał w Edessie."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "11-03_saint_quartus",
+  "name": "Saint Quartus",
+  "mmdd": "11-03",
+  "feast": "The Third Day of November",
+  "summary": "Saint Peter, also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first leaders of the early Christian Church. He appears repeatedly and prominently in all four New Testament gospels, as well as the Acts of the Apostles.",
+  "biography": "Saint Peter, also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first leaders of the early Christian Church. He appears repeatedly and prominently in all four New Testament gospels, as well as the Acts of the Apostles. Catholic and Orthodox tradition treats Peter as the first bishop of Rome – or pope – and also as the first bishop of Antioch. According to Christian tradition, Peter was crucified in Rome under Emperor Nero.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Stephen",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Peter"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-03_saint_quartus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5f11e5fd68ba1e30f90d333dc3f936de70489449d83714935d2a1db1218b0ad2",
+        "langs": {
+          "es": {
+            "translatedHash": "bfd621ca492a83b7ee3cd84ee9bed41fcb987fb1ffb755648e5e2eb2dc8d2845",
+            "updatedAt": "2026-02-25T01:01:25.744Z"
+          },
+          "pl": {
+            "translatedHash": "1966800a37da058ddfe19fec6382d6dba4ea44cda80cc8e467d9f29b256c02b4",
+            "updatedAt": "2026-02-25T01:01:26.347Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0ede6e85eea7ba626d1561d6f76eae8f7e4bbf28148067943860c12341e5a9ae",
+        "langs": {
+          "es": {
+            "translatedHash": "bb3fa1ce8ee18b7e1e4f95b3f5c4ec8e367819a19cd59cb699dfef7ab3281f51",
+            "updatedAt": "2026-02-25T01:01:26.919Z"
+          },
+          "pl": {
+            "translatedHash": "8b723c3ea4cf0d666e74167e62ae570caaca42377b3bc15e2df30501321968ee",
+            "updatedAt": "2026-02-25T01:01:27.543Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "5035959ed0a7ce76985df3c7750a539e975f7602a886510b75edca45cd39e5ae",
+        "langs": {
+          "es": {
+            "translatedHash": "c712f13259902d902b0bc25465fbca5361e39cda619b1db1d73ff39337a40490",
+            "updatedAt": "2026-02-25T01:01:29.431Z"
+          },
+          "pl": {
+            "translatedHash": "d60022c170f4d74361de083f8e19d4031e00f4b9db9028602380bde2bc75c82d",
+            "updatedAt": "2026-02-25T01:01:33.412Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e938e2f3653fa45b793f53b2afe337866cc08fbb4938311b2e1ad4c0f7117ca6",
+        "langs": {
+          "es": {
+            "translatedHash": "a26b4640de2f094d49ccd6aa1ac76eb3d8727fba0f8e2e653af7b52ad9ef8435",
+            "updatedAt": "2026-02-25T01:01:35.916Z"
+          },
+          "pl": {
+            "translatedHash": "de3ee9e6af1b1942c91a421664021a0938d609e872c40fb2e57df90e99d2f296",
+            "updatedAt": "2026-02-25T01:01:39.333Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cuarto",
+  "name_pl": "Święty Quartus",
+  "feast_es": "El Tercer Día de Noviembre",
+  "feast_pl": "Trzeci dzień listopada",
+  "summary_es": "San Pedro, también conocido como Pedro el Apóstol, Simón Pedro, Simeón, Simón o Cefas, fue uno de los Doce Apóstoles de Jesús y uno de los primeros líderes de la Iglesia cristiana primitiva. Aparece repetida y prominentemente en los cuatro evangelios del Nuevo Testamento, así como en los Hechos de los Apóstoles.",
+  "summary_pl": "Święty Piotr, znany również jako Piotr Apostoł, Szymon Piotr, Szymon, czy Kefas, był jednym z Dwunastu Apostołów Jezusa oraz jednym z pierwszych przywódców wczesnego Kościoła Chrześcijańskiego. Pojawia się wielokrotnie i wyraźnie we wszystkich czterech ewangeliach Nowego Testamentu, jak również w Dziejach Apostolskich.",
+  "biography_es": "San Pedro, también conocido como Pedro el Apóstol, Simón Pedro, Simeón, Simón o Cefas, fue uno de los Doce Apóstoles de Jesús y uno de los primeros líderes de la Iglesia cristiana primitiva. Aparece repetida y prominentemente en los cuatro evangelios del Nuevo Testamento, así como en los Hechos de los Apóstoles. La tradición católica y ortodoxa considera a Pedro como el primer obispo de Roma – o papa – y también como el primer obispo de Antioquía. Según la tradición cristiana, Pedro fue crucificado en Roma bajo el emperador Nerón.",
+  "biography_pl": "Święty Piotr, znany również jako Piotr Apostoł, Szymon Piotr, Symeon, Szymon lub Kefas, był jednym z Dwunastu Apostołów Jezusa oraz jednym z pierwszych przywódców wczesnego Kościoła Chrześcijańskiego. Pojawia się wielokrotnie i wyraźnie we wszystkich czterech ewangeliach Nowego Testamentu, jak również w Dziejach Apostolskich. Tradycja katolicka i prawosławna traktuje Piotra jako pierwszego biskupa Rzymu – czyli papieża – oraz jako pierwszego biskupa Antiochii. Według tradycji chrześcijańskiej Piotr został ukrzyżowany w Rzymie za panowania cesarza Nerona."
+}

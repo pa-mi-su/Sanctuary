@@ -1,0 +1,48 @@
+{
+  "id": "05-25_saint_mary_magdalene_de_pazzi_virgin_optional_memorial",
+  "name": "Saint Mary Magdalene de Pazzi, Virgin—Optional Memorial",
+  "mmdd": "05-25",
+  "feast": "The Twenty-Fifth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-25_saint_mary_magdalene_de_pazzi_virgin_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1d008741fafc94f9bf4f4df3c2f3457b71f8bfab610e1480d65d2de3ee28fe34",
+        "langs": {
+          "es": {
+            "translatedHash": "4fc7d7b3ac59cfa36be2a6efcd6ce70f3a85f5fd1b2592f30b57b3652d60e6f8",
+            "updatedAt": "2026-02-24T23:31:51.614Z"
+          },
+          "pl": {
+            "translatedHash": "0fb8613466fd888b02f6c8d4561aab86d578095149cdb9ae00d26181f63adf2f",
+            "updatedAt": "2026-02-24T23:31:52.618Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "122161132b62d9dc09ce59643a656da0ec5039a9478d8107eed1324eff738414",
+        "langs": {
+          "es": {
+            "translatedHash": "f6b257fc9ddef8ccdd4fb9ba62fa222cc44ab69cd8fdf614cc6305aa3ce05ff3",
+            "updatedAt": "2026-02-24T23:31:53.238Z"
+          },
+          "pl": {
+            "translatedHash": "8aba5a2190b380083ec85d79d87bc3cedbbc48a3475506f0f920d72e197bff5f",
+            "updatedAt": "2026-02-24T23:31:53.897Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Magdalena de Pazzi, Virgen—Memoria Opcional",
+  "name_pl": "Święta Maria Magdalena de Pazzi, Dziewica — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Quinto Día de Mayo",
+  "feast_pl": "Dwudziesty piąty dzień maja"
+}

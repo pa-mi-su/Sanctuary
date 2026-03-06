@@ -1,0 +1,48 @@
+{
+  "id": "05-27_saint_augustine_of_canterbury_bishop_optional_memorial",
+  "name": "Saint Augustine of Canterbury, Bishop—Optional Memorial",
+  "mmdd": "05-27",
+  "feast": "The Twenty-Seventh Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calendar_of_saints_(Anglican_Church_of_Canada)"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-27_saint_augustine_of_canterbury_bishop_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "57086cc0ab9ee6354edc086343768fd956203b09bb26f46df89810497101453a",
+        "langs": {
+          "es": {
+            "translatedHash": "d28b1f6fc9fa6ff455dc5abc16d042350ce155159b0656a5fe745b2539ade1dc",
+            "updatedAt": "2026-02-24T23:32:15.060Z"
+          },
+          "pl": {
+            "translatedHash": "7d3159b8848a1054a485196eceebac605094823bf02e9a9a5347bba431b05377",
+            "updatedAt": "2026-02-24T23:32:15.730Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c5dd3074ef36136719ca7157102529f62f43564a7174a97d6a3fa594a3b06adf",
+        "langs": {
+          "es": {
+            "translatedHash": "28c894864ed7f4cf403026f8c0a838bc55cbfef8e340f4f9037d2b433aa45004",
+            "updatedAt": "2026-02-24T23:32:16.663Z"
+          },
+          "pl": {
+            "translatedHash": "862d1b5d69f29a5ab013ff7c666dbd31ea410472fdbebc5278e9303127ecf42b",
+            "updatedAt": "2026-02-24T23:32:17.311Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Agustín de Canterbury, Obispo—Memoria Opcional",
+  "name_pl": "Święty Augustyn z Canterbury, biskup — wspomnienie dowolne",
+  "feast_es": "El Vigésimo Séptimo Día de Mayo",
+  "feast_pl": "Dwudziesty siódmy dzień maja"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "02-29_leap_day_feb_29",
+  "name": "Leap Day (Feb 29)",
+  "mmdd": "02-29",
+  "feast": "Leap Day (Feb 29)",
+  "summary": "February 29 is known as a leap day, which is periodically added as the last day of the month to the Julian and Gregorian calendars, as an intercalary date, to create leap years. Its main function is to keep the calendars aligned with the Earth's seasons, as the planet orbits the sun.",
+  "biography": "February 29 is known as a leap day (or \"leap year day\"), which is periodically added as the last day of the month to the Julian and Gregorian calendars, as an intercalary date, to create leap years. Its main function is to keep the calendars aligned with the Earth's seasons, as the planet orbits the sun. \nIn the older Julian calendar, leap days are added to every year that is evenly divisible by four. However, this causes the calendar to slowly become misaligned with the Earth's seasons, by about 3 days every 400 years. (The Julian calendar continues to be used in some places as the basis for their liturgical calendar).\nThe Gregorian calendar is the standard civil calendar used in most of the world, and is a slight modification of the Julian calendar. In this calendar, a centennial year does not have a February 29 (despite being evenly divisible by 4) unless it is also evenly divisible by 400. Thus, in contrast to the Julian calendar, the years 1700, 1800 and 1900 did not have leap year days but both calendars had a February 29 in the years 1600 and 2000. \nThe convention of adding a \"February 29\" to be the leap day was not widely used before the 15th century. Instead, beginning with...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/February_29"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-29_leap_day_feb_29.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ef674da3f2f07e69d181eca772d5a438cb6f80d66a15c8f32b9ed9bda06307ec",
+        "langs": {
+          "es": {
+            "translatedHash": "d40df09534ac4c0d98b4cb9a5019f3af6b2bf7b18e5296ad90202151951bdc23",
+            "updatedAt": "2026-02-24T22:45:14.884Z"
+          },
+          "pl": {
+            "translatedHash": "f1892e8b99bf628c1c78825a116e0aea899ff0ddade36055c548a2cac841e3ce",
+            "updatedAt": "2026-02-24T22:45:15.920Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ef674da3f2f07e69d181eca772d5a438cb6f80d66a15c8f32b9ed9bda06307ec",
+        "langs": {
+          "es": {
+            "translatedHash": "d40df09534ac4c0d98b4cb9a5019f3af6b2bf7b18e5296ad90202151951bdc23",
+            "updatedAt": "2026-02-24T22:45:16.594Z"
+          },
+          "pl": {
+            "translatedHash": "f1892e8b99bf628c1c78825a116e0aea899ff0ddade36055c548a2cac841e3ce",
+            "updatedAt": "2026-02-24T22:45:17.239Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "995ed11ea441f2ff52217ca7cc4fa183fe7d28bb1da2b84a460c8505a8d35000",
+        "langs": {
+          "es": {
+            "translatedHash": "f3ca57392d792f9b960109881e1b985429cfc66ca5f61d889d88addd8e46263f",
+            "updatedAt": "2026-02-24T22:45:18.803Z"
+          },
+          "pl": {
+            "translatedHash": "b502cafc32c1b7b7f0546d4bd621e55f6ff1621de8eff7f201647a4102ad2a18",
+            "updatedAt": "2026-02-24T22:45:20.964Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "40c9267054f9784dc6b245f3fe16fa62cc80da87177534e652e0b59739521131",
+        "langs": {
+          "es": {
+            "translatedHash": "708fc5b74f9db397e3683ee6a4086795597e2884e4785b37aa4a373ca2e7535c",
+            "updatedAt": "2026-02-24T22:45:26.381Z"
+          },
+          "pl": {
+            "translatedHash": "0c78ddd426ce19e963e05dabdeb1bd619a154c7d05e93067cbc5d69570f660e1",
+            "updatedAt": "2026-02-24T22:45:32.742Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Día Bisiesto (29 de febrero)",
+  "name_pl": "Dzień Przestępny (29 lutego)",
+  "feast_es": "Día Bisiesto (29 de febrero)",
+  "feast_pl": "Dzień Przestępny (29 lutego)",
+  "summary_es": "El 29 de febrero es conocido como un día bisiesto, que se añade periódicamente como el último día del mes en los calendarios juliano y gregoriano, como una fecha intercalares, para crear años bisiestos. Su función principal es mantener los calendarios alineados con las estaciones de la Tierra, mientras el planeta orbita alrededor del sol.",
+  "summary_pl": "29 lutego jest znany jako dzień przestępny, który jest okresowo dodawany jako ostatni dzień miesiąca do kalendarzy juliańskiego i gregoriańskiego, jako data przestępna, aby tworzyć lata przestępne. Jego główną funkcją jest utrzymanie zgodności kalendarzy z porami roku Ziemi, gdy planeta krąży wokół słońca.",
+  "biography_es": "El 29 de febrero es conocido como un día bisiesto (o \"día del año bisiesto\"), que se añade periódicamente como el último día del mes en los calendarios juliano y gregoriano, como una fecha intercalar, para crear años bisiestos.  \nSu función principal es mantener los calendarios alineados con las estaciones de la Tierra, mientras el planeta orbita alrededor del sol.  \n\nEn el antiguo calendario juliano, los días bisiestos se añaden a cada año que es divisible por cuatro de manera exacta. Sin embargo, esto hace que el calendario se desaline lentamente con las estaciones de la Tierra, aproximadamente 3 días cada 400 años. (El calendario juliano continúa usándose en algunos lugares como base para su calendario litúrgico).  \n\nEl calendario gregoriano es el calendario civil estándar utilizado en la mayor parte del mundo, y es una ligera modificación del calendario juliano. En este calendario, un año centenario no tiene 29 de febrero (a pesar de ser divisible por 4) a menos que también sea divisible por 400 de manera exacta. Así, en contraste con el calendario juliano, los años 1700, 1800 y 1900 no tuvieron días bisiestos, pero ambos calendarios tuvieron un 29 de febrero en los años 1600 y 2000.  \n\nLa convención de añadir un \"29 de febrero\" como día bisiesto no se usó ampliamente antes del siglo XV. En cambio, comenzando con...",
+  "biography_pl": "29 lutego jest znany jako dzień przestępny (lub „dzień roku przestępnego”), który okresowo dodawany jest jako ostatni dzień miesiąca do kalendarzy juliańskiego i gregoriańskiego, jako data przestępna, aby tworzyć lata przestępne.  \nJego główną funkcją jest utrzymanie zgodności kalendarzy z porami roku Ziemi, gdy planeta okrąża Słońce.  \n\nW starszym kalendarzu juliańskim dni przestępne dodawane są do każdego roku podzielnego przez cztery bez reszty. Jednak powoduje to, że kalendarz stopniowo staje się niezgodny z porami roku Ziemi, o około 3 dni na każde 400 lat. (Kalendarz juliański nadal jest używany w niektórych miejscach jako podstawa ich kalendarza liturgicznego).  \n\nKalendarz gregoriański jest standardowym kalendarzem cywilnym używanym w większości świata i jest niewielką modyfikacją kalendarza juliańskiego. W tym kalendarzu rok stulecia nie ma 29 lutego (pomimo że jest podzielny przez 4), chyba że jest również podzielny przez 400 bez reszty. Tak więc, w przeciwieństwie do kalendarza juliańskiego, lata 1700, 1800 i 1900 nie miały dni przestępnych, ale oba kalendarze miały 29 lutego w latach 1600 i 2000.  \n\nKonwencja dodawania „29 lutego” jako dnia przestępnego nie była powszechnie stosowana przed XV wiekiem. Zamiast tego, począwszy od..."
+}

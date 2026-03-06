@@ -1,0 +1,48 @@
+{
+  "id": "05-22_saint_rita_of_cascia_optional_memorial",
+  "name": "Saint Rita of Cascia—Optional Memorial",
+  "mmdd": "05-22",
+  "feast": "The Twenty-Second Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patron_saints_of_ailments%2C_illness%2C_and_dangers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-22_saint_rita_of_cascia_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "153c9bc4c0f9e8a628f89c0c41caa7f052254af7a72a27efb7c7210daf82ce57",
+        "langs": {
+          "es": {
+            "translatedHash": "ca7bbf1b8f5276df5566c23427a48a0a9736959d6609664d0a79ac2aa7abc0eb",
+            "updatedAt": "2026-02-24T23:30:20.233Z"
+          },
+          "pl": {
+            "translatedHash": "a26b21b033f3d2c0f1aaced53a8815fcd01efa8bc4e77b985ac48ce985860b03",
+            "updatedAt": "2026-02-24T23:30:21.083Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d3cd321bdc31b18e061f77c4d0c290f02c1cc23346bf8217c50c5f52d92ff0ca",
+        "langs": {
+          "es": {
+            "translatedHash": "24b3ff67592ab646cd0350424efdf050ea5f99ed907d7ac2c2b0213d84a0d5b9",
+            "updatedAt": "2026-02-24T23:30:21.759Z"
+          },
+          "pl": {
+            "translatedHash": "75f6f63538e80ef402b42f2872b7e70d1d10e2b9fe94407770a7fc7b109176d2",
+            "updatedAt": "2026-02-24T23:30:22.300Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Rita de Casia—Memoria Opcional",
+  "name_pl": "Święta Rita z Cascii — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Segundo Día de Mayo",
+  "feast_pl": "Dwudziesty drugi dzień maja"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "03-06_saint_perpetua",
+  "name": "Saint Perpetua",
+  "mmdd": "03-06",
+  "feast": "The Sixth day of March",
+  "summary": "Perpetua and Felicity were Christian martyrs of the third century. Vibia Perpetua was a recently married, well-educated noblewoman, said to have been 22 years old at the time of her death, and mother of an infant son she was nursing. Felicity, a slave woman imprisoned with her and pregnant at the time, was martyred with her. They were put to death along with others at Carthage in the Roman province of Africa.",
+  "biography": "Imprisonment\nPerpetua's account opens with conflict between her and her father, who desires that she recant...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Perpetua_and_Felicity",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-06_saint_perpetua.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8a80d90f6a925c7221c2de099100d952fd507fb94abc95e60f28bfd9a0adf2a4",
+        "langs": {
+          "es": {
+            "translatedHash": "2ae317125bcd248c5dcfa1f53eae68ebfcabab0353883bb588ed438f45a41d12",
+            "updatedAt": "2026-02-24T22:49:18.156Z"
+          },
+          "pl": {
+            "translatedHash": "4d26bcefa32b7dc8665f3f9219bd988b35695414c29ebf2c45726a9ea458dfb1",
+            "updatedAt": "2026-02-24T22:49:18.831Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a54e0c633c22d098a62b0ace0ad3da709ca68ef7219e86afd92c22896eaecc85",
+        "langs": {
+          "es": {
+            "translatedHash": "f9cde655c8d090d768eceea9eb4d238aee5887269c6d1dd5f3012c3f24efcda7",
+            "updatedAt": "2026-02-24T22:49:19.490Z"
+          },
+          "pl": {
+            "translatedHash": "297dca4a74fc1fd6b968c053e69d9c221827ea709c042efca67e451e7b92b529",
+            "updatedAt": "2026-02-24T22:49:20.235Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e2e27ae384e6c9905539f718fee905cc0ee0116af424368626f03297853c93f6",
+        "langs": {
+          "es": {
+            "translatedHash": "7865dafa36c61591b390789cf558d22260c084116844ccc4cbf99f3d261c7bc8",
+            "updatedAt": "2026-02-24T22:49:22.625Z"
+          },
+          "pl": {
+            "translatedHash": "323a8ba96d425e73fbc48e7a97a419c3407798c257d409349531b02ca323352f",
+            "updatedAt": "2026-02-24T22:49:25.059Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2626c4e099f37c044784f22ce2a5b4948a0f9a45addde727ee4da00b9c79ad8b",
+        "langs": {
+          "es": {
+            "translatedHash": "93efc776240b086c16078bd2790b82bcf5ca3a2416729c343e3f8ca0120f6425",
+            "updatedAt": "2026-02-24T22:49:25.940Z"
+          },
+          "pl": {
+            "translatedHash": "fe98e3c91ecb4ccf2adb50d034fa5fffbd08ec2b5cefd0715aad04863dcadc26",
+            "updatedAt": "2026-02-24T22:49:27.021Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Perpetua",
+  "name_pl": "Święta Perpetua",
+  "feast_es": "El sexto día de marzo",
+  "feast_pl": "Szósty dzień marca",
+  "summary_es": "Perpetua y Felicidad fueron mártires cristianas del siglo tercero. Vibia Perpetua era una noble bien educada y recién casada, se dice que tenía 22 años en el momento de su muerte, y madre de un hijo lactante. Felicidad, una esclava encarcelada con ella y embarazada en ese momento, fue martirizada junto a ella. Fueron ejecutadas junto con otros en Cartago, en la provincia romana de África.",
+  "summary_pl": "Perpetua i Felicyta były chrześcijańskimi męczennicami III wieku. Wibia Perpetua była niedawno zamężną, dobrze wykształconą szlachcianką, której wiek w chwili śmierci szacuje się na 22 lata, oraz matką niemowlęcia, które karmiła piersią. Felicyta, niewolnica uwięziona razem z nią i będąca w ciąży, została wraz z nią zamordowana. Zginęły wraz z innymi w Kartaginie, w rzymskiej prowincji Afryki.",
+  "biography_es": "Encarcelamiento  \nEl relato de Perpetua comienza con un conflicto entre ella y su padre, quien desea que ella se retracte...",
+  "biography_pl": "Uwięzienie  \nRelacja Perpetuy rozpoczyna się od konfliktu między nią a jej ojcem, który pragnie, aby się wyrzekła..."
+}

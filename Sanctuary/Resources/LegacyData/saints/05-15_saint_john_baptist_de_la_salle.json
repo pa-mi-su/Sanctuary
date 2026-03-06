@@ -1,0 +1,79 @@
+{
+  "id": "05-15_saint_john_baptist_de_la_salle",
+  "name": "Saint John Baptist de la Salle",
+  "mmdd": "05-15",
+  "feast": "The Fifteenth Day of May",
+  "summary": "Jean-Baptiste de La Salle was a French priest, educational reformer, and founder of the Institute of the Brothers of the Christian Schools. He is a saint of the Catholic Church and the patron saint for teachers of youth.",
+  "biography": "Background\nLa Salle was born to a wealthy family in Reims, France, on 30 April 1651. He was the eldest child of Louis de La Salle and Nicolle Moet de Brouillet. Nicolle's family was a noble one and operated a successful winery business; she was a relative of Claude Moët, founder of Moët & Chandon.\nLa Salle was tonsured at age eleven on 11 March 1662, in an official ceremony that marked a boy's intention, and his parents offer of their young sons, to the service of God. He was named canon of Reims Cathedral when he was sixteen, and at seventeen received minor orders. He was sent to the College des Bons Enfants, where he pursued higher studies and on 10 July 1669 he took the degree of Master of Arts. When De La Salle had completed...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-15_saint_john_baptist_de_la_salle.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8755c8a855f21eb4f22c8de7ddb452e617333c29ee8250894c59ce69fa5b93df",
+        "langs": {
+          "es": {
+            "translatedHash": "92b75baeff0b9d489edc0ac967e84def20f4111459d24766d1070794dc46b47c",
+            "updatedAt": "2026-02-24T23:25:52.941Z"
+          },
+          "pl": {
+            "translatedHash": "e4f2f57287f09916239dab1d7b6495abe2b9244095d9dfdc4dd4b6ee6743a0a5",
+            "updatedAt": "2026-02-24T23:25:53.520Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "386fa1329909227c20bcbd71e4dccd36615030d2a1a47e65152579b9f88f4a3b",
+        "langs": {
+          "es": {
+            "translatedHash": "fda7f5234d21d244d1fbd149db5d3a4fb9ce589a171cfd65e38405817ccdd5d8",
+            "updatedAt": "2026-02-24T23:25:54.144Z"
+          },
+          "pl": {
+            "translatedHash": "e9f97716532cd3221a4e7b26daa51169693b5fe191898cd896df7ed698e04ef8",
+            "updatedAt": "2026-02-24T23:25:54.790Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "25aa28c40a1bdcd7715a75320319a442b464e9d9183a890f8a687274984b4e69",
+        "langs": {
+          "es": {
+            "translatedHash": "5a667f2a76948fa5cd72ccada0b496020cbcc63c095d11212ee236eaaa8bd0bb",
+            "updatedAt": "2026-02-24T23:25:56.165Z"
+          },
+          "pl": {
+            "translatedHash": "ad325cd2fb18082926d041edbb02701e41d27e15ace1573d70c12bc009e9c019",
+            "updatedAt": "2026-02-24T23:25:57.670Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "0d739b900226c9f66502e778717c3cfd0a379a447f6a5c1dd3251261c50d6cca",
+        "langs": {
+          "es": {
+            "translatedHash": "f38c2eae3104efe2620d5ea996ad0ef4eb5e47ba98411473e2573b669a2c2b6f",
+            "updatedAt": "2026-02-24T23:26:01.291Z"
+          },
+          "pl": {
+            "translatedHash": "bc8321a7ca07a39f70e8d4d14d896c0a17c8a3cb06030f05205f45a6cae8a192",
+            "updatedAt": "2026-02-24T23:26:06.170Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bautista de La Salle",
+  "name_pl": "Święty Jan Chrzciciel de la Salle",
+  "feast_es": "El Quince de Mayo",
+  "feast_pl": "Piętnasty Dzień Maja",
+  "summary_es": "Juan Bautista de La Salle fue un sacerdote francés, reformador educativo y fundador del Instituto de los Hermanos de las Escuelas Cristianas. Es un santo de la Iglesia Católica y el santo patrón de los maestros de jóvenes.",
+  "summary_pl": "Jean-Baptiste de La Salle był francuskim księdzem, reformatorem edukacji oraz założycielem Instytutu Braci Szkół Chrześcijańskich. Jest świętym Kościoła katolickiego i patronem nauczycieli młodzieży.",
+  "biography_es": "Antecedentes  \nLa Salle nació en una familia adinerada en Reims, Francia, el 30 de abril de 1651. Fue el hijo mayor de Louis de La Salle y Nicolle Moet de Brouillet. La familia de Nicolle era noble y manejaba un próspero negocio vinícola; ella era pariente de Claude Moët, fundador de Moët & Chandon.  \nLa Salle fue tonsurado a los once años, el 11 de marzo de 1662, en una ceremonia oficial que marcaba la intención del niño, y la oferta de sus padres, de entregar a su joven hijo al servicio de Dios. Fue nombrado canónigo de la Catedral de Reims cuando tenía dieciséis años, y a los diecisiete recibió las órdenes menores. Fue enviado al Colegio de los Buenos Niños, donde cursó estudios superiores y el 10 de julio de 1669 obtuvo el título de Maestro en Artes. Cuando De La Salle había completado...",
+  "biography_pl": "Tło  \nLa Salle urodził się w zamożnej rodzinie w Reims we Francji, 30 kwietnia 1651 roku. Był najstarszym dzieckiem Louisa de La Salle i Nicolle Moet de Brouillet. Rodzina Nicolle była szlachecka i prowadziła dochodowy biznes winiarski; była spokrewniona z Claudem Moëtem, założycielem Moët & Chandon.  \nLa Salle otrzymał tonsurę w wieku jedenastu lat, 11 marca 1662 roku, podczas oficjalnej ceremonii, która oznaczała zamiar chłopca oraz ofiarę jego rodziców na służbę Bogu. Został kanonikiem katedry w Reims mając szesnaście lat, a w siedemnastym roku życia przyjął niższe święcenia. Został wysłany do College des Bons Enfants, gdzie kontynuował naukę wyższą, a 10 lipca 1669 roku uzyskał tytuł magistra sztuk wyzwolonych. Gdy De La Salle ukończył..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-27_saint_cyril_of_alexandria",
+  "name": "Saint Cyril of Alexandria",
+  "mmdd": "06-27",
+  "feast": "The Twenty-Seventh day of June",
+  "summary": "Cyril of Alexandria was the Patriarch of Alexandria from 412 to 444. He was enthroned when the city was at the height of its influence and power within the Roman Empire. Cyril wrote extensively and was a major player in the Christological controversies of the late 4th and 5th centuries. He was a central figure in the Council of Ephesus in 431, which led to the deposition of Nestorius as Patriarch of Constantinople.",
+  "biography": "Cyril of Alexandria was the Patriarch of Alexandria from 412 to 444. He was enthroned when the city was at the height of its influence and power within the Roman Empire. Cyril wrote extensively and was a major player in the Christological controversies of the late 4th and 5th centuries. He was a central figure in the Council of Ephesus in 431, which led to the deposition of Nestorius as Patriarch of Constantinople.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Alexandria",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-27_saint_cyril_of_alexandria.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1192c21659776fcda9a0b30fef8b498b9cb4e8e65e6f2e4b247c8bb4abbb7315",
+        "langs": {
+          "es": {
+            "translatedHash": "af512cd1cb28d3255006b898c131281b7e85bd7e54bff7ad19991301ca50db79",
+            "updatedAt": "2026-02-24T23:49:26.180Z"
+          },
+          "pl": {
+            "translatedHash": "c23df3830b41ae415203fcfbb548786718b6d41d3fd80393d42bfd5a6651fe7c",
+            "updatedAt": "2026-02-24T23:49:26.707Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ff1bdbf303387cdd1751a70e3a2fc29383113cafa221d426331dab116990bbe6",
+        "langs": {
+          "es": {
+            "translatedHash": "a98fb70f2e8d4715cdbd7b66da7b3eccd8c7eeecc0f8bd82d01410a7167a804c",
+            "updatedAt": "2026-02-24T23:49:28.057Z"
+          },
+          "pl": {
+            "translatedHash": "f0ee2c0e5f74d09e029739ceb0db4a422d3d74f0b2d066925af88e3368539b6a",
+            "updatedAt": "2026-02-24T23:49:28.669Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e291c7ff849633948a2dee7c3a3e01fdcb7b352a62040c8cb2d125a063aaabce",
+        "langs": {
+          "es": {
+            "translatedHash": "7fbf7f7657a3749479d12fefad33aed5d9b823420d0d4bdcad880ab0857291e6",
+            "updatedAt": "2026-02-24T23:49:32.088Z"
+          },
+          "pl": {
+            "translatedHash": "72fd6501dfd97b7692c73f03535be41c8f8c9f79a3fed21e0843e8e539a1e1ee",
+            "updatedAt": "2026-02-24T23:49:34.523Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e291c7ff849633948a2dee7c3a3e01fdcb7b352a62040c8cb2d125a063aaabce",
+        "langs": {
+          "es": {
+            "translatedHash": "7fbf7f7657a3749479d12fefad33aed5d9b823420d0d4bdcad880ab0857291e6",
+            "updatedAt": "2026-02-24T23:49:36.254Z"
+          },
+          "pl": {
+            "translatedHash": "72c85539209f75b3399ed92f43a32234ed188b5abd8f74e0e673520196318a03",
+            "updatedAt": "2026-02-24T23:49:38.454Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cirilo de Alejandría",
+  "name_pl": "Święty Cyryl Aleksandryjski",
+  "feast_es": "El vigésimo séptimo día de junio",
+  "feast_pl": "Dwudziesty siódmy dzień czerwca",
+  "summary_es": "Cirilio de Alejandría fue el Patriarca de Alejandría desde 412 hasta 444. Fue entronizado cuando la ciudad estaba en el apogeo de su influencia y poder dentro del Imperio Romano. Cirilio escribió extensamente y fue un actor principal en las controversias cristológicas de finales del siglo IV y V. Fue una figura central en el Concilio de Éfeso en 431, que llevó a la deposición de Nestorio como Patriarca de Constantinopla.",
+  "summary_pl": "Cyryl Aleksandryjski był patriarchą Aleksandrii w latach 412–444. Został intronizowany, gdy miasto znajdowało się u szczytu swojego wpływu i potęgi w ramach Cesarstwa Rzymskiego. Cyryl pisał obficie i był ważną postacią w sporach christologicznych końca IV i V wieku. Był centralną postacią na Soborze w Efezie w 431 roku, który doprowadził do usunięcia Nestoriusza z urzędu patriarchy Konstantynopola.",
+  "biography_es": "Cirilio de Alejandría fue el Patriarca de Alejandría desde 412 hasta 444. Fue entronizado cuando la ciudad estaba en el apogeo de su influencia y poder dentro del Imperio Romano. Cirilio escribió extensamente y fue un actor principal en las controversias cristológicas de finales del siglo IV y V. Fue una figura central en el Concilio de Éfeso en 431, que llevó a la deposición de Nestorio como Patriarca de Constantinopla.",
+  "biography_pl": "Cyryl Aleksandryjski był patriarchą Aleksandrii w latach 412–444. Został intronizowany, gdy miasto znajdowało się u szczytu swojego wpływu i potęgi w ramach Cesarstwa Rzymskiego. Cyryl pisał obficie i był ważną postacią w sporach chrystologicznych końca IV i V wieku. Był centralną postacią Soboru Efeskiego w 431 roku, który doprowadził do usunięcia Nestoriusza z urzędu patriarchy Konstantynopola."
+}

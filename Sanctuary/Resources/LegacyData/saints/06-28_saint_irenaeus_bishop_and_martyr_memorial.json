@@ -1,0 +1,48 @@
+{
+  "id": "06-28_saint_irenaeus_bishop_and_martyr_memorial",
+  "name": "Saint Irenaeus, Bishop and Martyr—Memorial",
+  "mmdd": "06-28",
+  "feast": "The Twenty-Eighth day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-28_saint_irenaeus_bishop_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5b08b4c642472977da760e37b8aa8f4c1f8f0bc1c167ba62e69a8faedd54a7e2",
+        "langs": {
+          "es": {
+            "translatedHash": "23ce76d80652ae9186b840e9e4b7d5aa3c9de5c555c74f6b816a39d38833b7f3",
+            "updatedAt": "2026-02-24T23:49:56.688Z"
+          },
+          "pl": {
+            "translatedHash": "4f8bb73ee3a5a1ac76bb0d285a74223249e8ac3cff5f4546daf542d2411b45e1",
+            "updatedAt": "2026-02-24T23:49:57.334Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bc449ae75252cd455c6d2e7eb61edfd03adc7e54b0478a67c64311ef009d6fa9",
+        "langs": {
+          "es": {
+            "translatedHash": "e271ed14138507afd801e521c6d7c048f960434cf9c870f2905422dd66ede437",
+            "updatedAt": "2026-02-24T23:49:57.921Z"
+          },
+          "pl": {
+            "translatedHash": "f5b0eadff54be8aa6a60264c3379e8d9667a6a7ccd42f7d4540874c85afcc365",
+            "updatedAt": "2026-02-24T23:49:58.615Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ireneo, Obispo y Mártir—Memoria",
+  "name_pl": "Święty Ireneusz, Biskup i Męczennik — Wspomnienie",
+  "feast_es": "El vigésimo octavo día de junio",
+  "feast_pl": "Dwudziesty ósmy dzień czerwca"
+}

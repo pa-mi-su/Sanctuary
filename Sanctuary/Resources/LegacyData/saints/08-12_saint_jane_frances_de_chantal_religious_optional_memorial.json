@@ -1,0 +1,48 @@
+{
+  "id": "08-12_saint_jane_frances_de_chantal_religious_optional_memorial",
+  "name": "Saint Jane Frances de Chantal, Religious—Optional Memorial",
+  "mmdd": "08-12",
+  "feast": "The Twelfth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-12_saint_jane_frances_de_chantal_religious_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "edd2914d798de73faa03e6a9b7c88d3d3586bc1d6bd9f6ff5e964f3c3365f91f",
+        "langs": {
+          "es": {
+            "translatedHash": "6e018483aa8023d676a88514e9234a1c0477752aa0dd73d5ea1bbd6267f531a0",
+            "updatedAt": "2026-02-25T00:14:11.704Z"
+          },
+          "pl": {
+            "translatedHash": "5aeca8a9b270077b06aa80bdcce395859e838c3cc205003aa70d810f08cede79",
+            "updatedAt": "2026-02-25T00:14:12.358Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "257695bad282257fb4d949c3714ede9b0819c762f89164ee854a9da1845338d3",
+        "langs": {
+          "es": {
+            "translatedHash": "8e9c89e31f68ea705592abd63a4902bd6f744894fe1c9e3e5639305441466977",
+            "updatedAt": "2026-02-25T00:14:13.042Z"
+          },
+          "pl": {
+            "translatedHash": "5bbdc9a81137ae775887d76a7e3c52f53995c930c0bb05a85a02fd9e5cf1e78b",
+            "updatedAt": "2026-02-25T00:14:13.688Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Juana Francisca de Chantal, Religiosa—Memoria Opcional",
+  "name_pl": "Święta Joanna Franciszka de Chantal, zakonnica — wspomnienie dowolne",
+  "feast_es": "El Duodécimo Día de Agosto",
+  "feast_pl": "Dwunasty dzień sierpnia"
+}

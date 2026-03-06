@@ -1,0 +1,79 @@
+{
+  "id": "11-20_saint_ampelus",
+  "name": "Saint Ampelus",
+  "mmdd": "11-20",
+  "feast": "The Twentieth Day of November",
+  "summary": "Saint Ampelus is a martyr venerated by the Eastern Orthodox and Roman Catholic churches on November 20. He was killed by Romans with his companion, Gaius, during the reign of Diocletian.",
+  "biography": "Saint Ampelus (died 302) is a martyr venerated by the Eastern Orthodox and Roman Catholic churches on November 20. He was killed by Romans with his companion, Gaius, during the reign of Diocletian. Notes",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ampelus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-20_saint_ampelus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7d8c61a66d346e5b20512c9061b0c2e8281adc0956be7130befa267e25f0ede5",
+        "langs": {
+          "es": {
+            "translatedHash": "34d89beee44c0abb0ba0d5e0994cce477bcc11714599ac579653d65720a3dc3a",
+            "updatedAt": "2026-02-25T01:11:32.614Z"
+          },
+          "pl": {
+            "translatedHash": "c815094913a0cb96e7c61e80a49264f8f28d5f6dfe311081cddf7caee32edc5b",
+            "updatedAt": "2026-02-25T01:11:33.218Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "987dd4cc6913e54e5b23b596aebab11978e250e24a7e05350045b5a377faca08",
+        "langs": {
+          "es": {
+            "translatedHash": "98869f4fa98adf7110f51239cf2405259742d0092b3152fb8b7e2c609429e013",
+            "updatedAt": "2026-02-25T01:11:34.237Z"
+          },
+          "pl": {
+            "translatedHash": "a306d9416a73ebdf83c3c8f6a89fa7b7d2a9bb6b94a1699083f1f69e46f093cd",
+            "updatedAt": "2026-02-25T01:11:35.275Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bdc90793a06847e1c6854fe50d393c8ba0d348917477021064d707c846ea7832",
+        "langs": {
+          "es": {
+            "translatedHash": "94cb70ab6f18a9dc7e1839b58ec3653bf26101dd56b85ff93b8c59c642929777",
+            "updatedAt": "2026-02-25T01:11:36.382Z"
+          },
+          "pl": {
+            "translatedHash": "ddc35f876393d95b06eb38b1df0ad95d511f64431cdad33581c4d4644dd49ab4",
+            "updatedAt": "2026-02-25T01:11:37.849Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "41ff10ff20d3fb725b62add532709d831aa3e46307f6532c07b18b190036a0c7",
+        "langs": {
+          "es": {
+            "translatedHash": "ffa406f0415cd1f259b0db5ff7cfbd7ced95885d5711ece4fa23918dcebc75e6",
+            "updatedAt": "2026-02-25T01:11:39.320Z"
+          },
+          "pl": {
+            "translatedHash": "e87d2350b0bb645f49c71d9f706bdaac36ed29e3a721b547595abb30d807955f",
+            "updatedAt": "2026-02-25T01:11:40.906Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ampelo",
+  "name_pl": "Święty Ampelus",
+  "feast_es": "El Vigésimo Día de Noviembre",
+  "feast_pl": "Dwudziesty dzień listopada",
+  "summary_es": "San Ampelo es un mártir venerado por las iglesias Ortodoxa Oriental y Católica Romana el 20 de noviembre. Fue asesinado por los romanos junto con su compañero, Cayo, durante el reinado de Diocleciano.",
+  "summary_pl": "Święty Ampelus jest męczennikiem czczonym przez Kościoły Wschodnio-prawosławny i Rzymskokatolicki w dniu 20 listopada. Został zabity przez Rzymian wraz ze swoim towarzyszem, Gajuszem, za panowania Dioklecjana.",
+  "biography_es": "San Ampelo (fallecido en 302) es un mártir venerado por las iglesias Ortodoxa Oriental y Católica Romana el 20 de noviembre. Fue asesinado por los romanos junto con su compañero, Gayo, durante el reinado de Diocleciano. Notas",
+  "biography_pl": "Święty Ampelus (zm. 302) jest męczennikiem czczonym przez Kościoły prawosławny i rzymskokatolicki 20 listopada. Został zabity przez Rzymian wraz ze swoim towarzyszem, Gajuszem, za panowania Dioklecjana. Notatki"
+}

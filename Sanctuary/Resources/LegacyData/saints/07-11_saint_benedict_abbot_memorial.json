@@ -1,0 +1,48 @@
+{
+  "id": "07-11_saint_benedict_abbot_memorial",
+  "name": "Saint Benedict, Abbot—Memorial",
+  "mmdd": "07-11",
+  "feast": "The Eleventh Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-11_saint_benedict_abbot_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "256b1f5f42cbe8e31448ded936b1344366c2bc34d6f62a3eca0220e37455d3cc",
+        "langs": {
+          "es": {
+            "translatedHash": "f6ef5391680d0c3815c311b1b6f1449841049f032b11cfaaef653742e338ce06",
+            "updatedAt": "2026-02-24T23:56:11.401Z"
+          },
+          "pl": {
+            "translatedHash": "db7e176db1bd62e4beb334591baf0d1c30295aac1f756bd887ac46fc4f1c9d20",
+            "updatedAt": "2026-02-24T23:56:12.078Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "aba426aa6248f996a32fc8b5d8fac375f15466220af454fe45db2c7e0dcc5d07",
+        "langs": {
+          "es": {
+            "translatedHash": "64378d1b2a15b7658ea1529ea58c9469a0212c698d22ec99421ecb2ea0536a32",
+            "updatedAt": "2026-02-24T23:56:12.549Z"
+          },
+          "pl": {
+            "translatedHash": "0329e745e24f903ac51f9546230faac2810281d8296be0f7435818532619f5cb",
+            "updatedAt": "2026-02-24T23:56:13.656Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Benito, Abad—Memoria",
+  "name_pl": "Święty Benedykt, Opat — Wspomnienie",
+  "feast_es": "El día once de julio",
+  "feast_pl": "Jedenasty dzień lipca"
+}

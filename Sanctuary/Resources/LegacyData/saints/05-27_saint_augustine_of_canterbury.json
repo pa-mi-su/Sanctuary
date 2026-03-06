@@ -1,0 +1,79 @@
+{
+  "id": "05-27_saint_augustine_of_canterbury",
+  "name": "Saint Augustine of Canterbury",
+  "mmdd": "05-27",
+  "feast": "The Twenty-Seventh Day of May",
+  "summary": "Augustine of Canterbury was a Christian monk who became the first archbishop of Canterbury in the year 597.",
+  "biography": "Augustine of Canterbury was a Christian monk who became the first archbishop of Canterbury in the year 597.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augustine_of_Canterbury",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-27_saint_augustine_of_canterbury.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "417d8aeedc4edf8018aadd5a63be686223caf97f93d0aee837deb8f561f43c3c",
+        "langs": {
+          "es": {
+            "translatedHash": "b05cc9a8fc35868429061478f9aee7f4105fec4b522e0a9ec3877333cbf5896c",
+            "updatedAt": "2026-02-24T23:32:08.239Z"
+          },
+          "pl": {
+            "translatedHash": "4f590339a73fe67e9660e94ce432246179a166fb68e7966390f045764b766941",
+            "updatedAt": "2026-02-24T23:32:08.909Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c5dd3074ef36136719ca7157102529f62f43564a7174a97d6a3fa594a3b06adf",
+        "langs": {
+          "es": {
+            "translatedHash": "28c894864ed7f4cf403026f8c0a838bc55cbfef8e340f4f9037d2b433aa45004",
+            "updatedAt": "2026-02-24T23:32:09.547Z"
+          },
+          "pl": {
+            "translatedHash": "862d1b5d69f29a5ab013ff7c666dbd31ea410472fdbebc5278e9303127ecf42b",
+            "updatedAt": "2026-02-24T23:32:10.176Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "da159daf1f0c0fc516db57a14c963088288e576e9af3806acc04328ee6f96ad8",
+        "langs": {
+          "es": {
+            "translatedHash": "d6f5deec704ff0003861a12b09a9f49e3fc2dc0b598e245b9a90dbf118a8b9c2",
+            "updatedAt": "2026-02-24T23:32:11.128Z"
+          },
+          "pl": {
+            "translatedHash": "1e16392b192f9eaea9bc8488f2bb310ad10fb9b773c1fc3aab8a0e5439786791",
+            "updatedAt": "2026-02-24T23:32:12.147Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "da159daf1f0c0fc516db57a14c963088288e576e9af3806acc04328ee6f96ad8",
+        "langs": {
+          "es": {
+            "translatedHash": "d6f5deec704ff0003861a12b09a9f49e3fc2dc0b598e245b9a90dbf118a8b9c2",
+            "updatedAt": "2026-02-24T23:32:13.128Z"
+          },
+          "pl": {
+            "translatedHash": "b9a7238a07b2f84975e1a55e167ad268035d1bf2c2944d1eb0660d8f0bab2b87",
+            "updatedAt": "2026-02-24T23:32:14.342Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Agustín de Canterbury",
+  "name_pl": "Święty Augustyn z Canterbury",
+  "feast_es": "El Vigésimo Séptimo Día de Mayo",
+  "feast_pl": "Dwudziesty siódmy dzień maja",
+  "summary_es": "Agustín de Canterbury fue un monje cristiano que se convirtió en el primer arzobispo de Canterbury en el año 597.",
+  "summary_pl": "Augustyn z Canterbury był chrześcijańskim mnichem, który w roku 597 został pierwszym arcybiskupem Canterbury.",
+  "biography_es": "Agustín de Canterbury fue un monje cristiano que se convirtió en el primer arzobispo de Canterbury en el año 597.",
+  "biography_pl": "Augustyn z Canterbury był chrześcijańskim mnichem, który został pierwszym arcybiskupem Canterbury w roku 597."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-28_saints_lawrence_ruiz_and_companions_martyrs_optional_memorial",
+  "name": "Saints Lawrence Ruiz and Companions, Martyrs—Optional Memorial",
+  "mmdd": "09-28",
+  "feast": "The Twenty-Eighth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-28_saints_lawrence_ruiz_and_companions_martyrs_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "57a29244733f28f08c2a0fdd1c970df24f27b45b59cd88c5b94ac8138ee863e1",
+        "langs": {
+          "es": {
+            "translatedHash": "e5209836d1043e7bd55ab91d7a06247072880761253d9a4212b19ae482d6913e",
+            "updatedAt": "2026-02-25T00:40:27.140Z"
+          },
+          "pl": {
+            "translatedHash": "fbef915b5259493641e57521f62fd69f919e676cd77995d0443d19766d26066d",
+            "updatedAt": "2026-02-25T00:40:27.994Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2c0eefd32bf4fceae204c83b53bc6f77385061f15047bdf1627b513cd0d32468",
+        "langs": {
+          "es": {
+            "translatedHash": "cb543fb3c6f0b3a23d48f7fd32a0374f2fe8af2f7a157885b4788a27f21e6c3d",
+            "updatedAt": "2026-02-25T00:40:29.084Z"
+          },
+          "pl": {
+            "translatedHash": "6b36bf3f43238b0c58ec78d35eb26a88ed1bdb644d02a890b0f5bf1b33432571",
+            "updatedAt": "2026-02-25T00:40:29.688Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Lorenzo Ruiz y Compañeros, Mártires—Memoria Opcional",
+  "name_pl": "Święci Wawrzyniec Ruiz i Towarzysze, Męczennicy — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Octavo Día de Septiembre",
+  "feast_pl": "Dwudziesty ósmy dzień września"
+}

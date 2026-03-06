@@ -1,0 +1,46 @@
+{
+  "id": "05-19_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "05-19",
+  "feast": "The Nineteenth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:27:37.995Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:27:38.762Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "559929730d09d08732c5d2954ce26e4914b5518446b28b7082150d8a532ad8c6",
+        "langs": {
+          "es": {
+            "translatedHash": "6ab64b952020d1acf81fcd34ffb41fa356d7822509535987e8ff680f62cfd0f1",
+            "updatedAt": "2026-02-24T23:27:39.415Z"
+          },
+          "pl": {
+            "translatedHash": "3ffced18cd31815cd066c8c6f6b37c906e9bc9dd813255e5a7dc85a2faf61454",
+            "updatedAt": "2026-02-24T23:27:40.341Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día diecinueve de mayo",
+  "feast_pl": "Dziewiętnasty Dzień Maja"
+}

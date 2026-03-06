@@ -1,0 +1,48 @@
+{
+  "id": "12-04_saint_john_damascene_priest_religious_and_doctor_optional_memorial",
+  "name": "Saint John Damascene, Priest, Religious and Doctor—Optional Memorial",
+  "mmdd": "12-04",
+  "feast": "The Fourth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Damascus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-04_saint_john_damascene_priest_religious_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bfa4ebf305231f3917565dc22bcbebb27447314872f302c5a09b11e097df56f3",
+        "langs": {
+          "es": {
+            "translatedHash": "106e34a37a9676a85382b7a8de00fc69f4eefb3f589359544ed9e0573307712f",
+            "updatedAt": "2026-02-25T01:19:58.154Z"
+          },
+          "pl": {
+            "translatedHash": "b716fe953952468a4a79296d24f37df3486ebb6fd488adfa8cbdac9067945f0a",
+            "updatedAt": "2026-02-25T01:19:59.187Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b6448d5fa0a3003566983df6d56868dfa181469ca5f503c97d400f5d7e500314",
+        "langs": {
+          "es": {
+            "translatedHash": "10de8fa843a824628274d3087142f199566c1f7dfa6e91fe9bfcdefc8750150b",
+            "updatedAt": "2026-02-25T01:19:59.851Z"
+          },
+          "pl": {
+            "translatedHash": "5c8c8fb68828b5ded42178745d67aa620f782bf73a051fa19f48f0bca50399da",
+            "updatedAt": "2026-02-25T01:20:00.602Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Damasceno, Presbítero, Religioso y Doctor—Memoria Opcional",
+  "name_pl": "Święty Jan Damasceński, kapłan, zakonnik i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El Cuarto Día de Diciembre",
+  "feast_pl": "Czwarty dzień grudnia"
+}

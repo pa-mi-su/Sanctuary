@@ -1,0 +1,79 @@
+{
+  "id": "04-08_saint_aedesius",
+  "name": "Saint AEdesius",
+  "mmdd": "04-08",
+  "feast": "The Eighth Day of April",
+  "summary": "Saint Aedesius of Alexandria was an early Christian martyred under Galerius Maximianus. He was the brother of Saint Amphian. According to the martyrology, he publicly rebuked a judge who had been forcing Christian virgins to work in brothels in order to break them of their faith, so he was tortured and drowned.",
+  "biography": "Life and martyrdom\n\n\nWestern tradition\nAt Alexandria, in the time of Emperor Maximian Galerius, the martyr St. Aedesius, brother of the blessed Apphian.  Because he publicly reproved the wicked judge who delivered to coruptors virgins consecrated to God, he was arrested by the soldiers, exposed to the most severe torments, and thrown into the sea for the sake of Christ our Lord.\nThe historian Eusebius of Caesarea elaborates Aedesius' story: like his brother, he was a philosopher that converted to Christianity. Perhaps because of his standing among the educated, he seems to have thought little of professing his faith before magistrates, for which he was imprisoned several times and was sentenced to work in the mines of Palestine. He sought solitude in Egypt after his release, but found the persecution there was harsher under Hierocles. Aedesius...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aedesius_of_Alexandria",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-08_saint_aedesius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3fc38b90bf25e70548c7c82a39976bf77053dd6a775f4ef9c17e487fa917b05b",
+        "langs": {
+          "es": {
+            "translatedHash": "0959f4983c35b53a23ee0ed19470cc0a060d6d8fde0dec87dac754988bc93db7",
+            "updatedAt": "2026-02-24T23:05:56.016Z"
+          },
+          "pl": {
+            "translatedHash": "4de6523120575125a1c3a6b491ab71471c1f83953f027a5ae5acbcdfb31eda2a",
+            "updatedAt": "2026-02-24T23:05:56.725Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0d33d549c91de0272a9b49a8cf0f9114e46c1d8b660c92b7508163d8168d65df",
+        "langs": {
+          "es": {
+            "translatedHash": "19409cfc48c8a9483615d86953a53cac7864a3ec1243035196fa800e7ae8d72c",
+            "updatedAt": "2026-02-24T23:05:57.412Z"
+          },
+          "pl": {
+            "translatedHash": "0b843c10c388ad026af75876500c02bdd7ac52b07536cc64e0c67e28f75eaf67",
+            "updatedAt": "2026-02-24T23:05:59.554Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "47799f16c15f4241913f35de7bf0b6baa2b0337fccfc65f230aebf44f24272f4",
+        "langs": {
+          "es": {
+            "translatedHash": "80232a5521d7de7e35caacff8ceeab46fe017f9b5d5c9fd574976d7124207b30",
+            "updatedAt": "2026-02-24T23:06:01.383Z"
+          },
+          "pl": {
+            "translatedHash": "b9f6e2cabeaafd4dd2e5438d4394bd414babde7234c992fc355efbd437e14016",
+            "updatedAt": "2026-02-24T23:06:03.304Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "df1d2d27061f358a1f859ab88a8edabad95e1763f108dbd56ae23cbe690fecf9",
+        "langs": {
+          "es": {
+            "translatedHash": "a0931668de7d336528a5613d2b9d19b273fdab8d4386a08d933cb39c7c692a77",
+            "updatedAt": "2026-02-24T23:06:06.308Z"
+          },
+          "pl": {
+            "translatedHash": "5b0326cf83e025c7d36962babba94101db8e789bb8e37bcae6e90a27eed8f5c0",
+            "updatedAt": "2026-02-24T23:06:10.716Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San AEdesio",
+  "name_pl": "Święty AEdesius",
+  "feast_es": "El Octavo Día de Abril",
+  "feast_pl": "Ósmy dzień kwietnia",
+  "summary_es": "San Aedesio de Alejandría fue un cristiano primitivo martirizado bajo Galerio Maximiano. Era hermano de San Amfiano. Según el martirologio, reprendió públicamente a un juez que había estado obligando a vírgenes cristianas a trabajar en burdeles para quebrantar su fe, por lo que fue torturado y ahogado.",
+  "summary_pl": "Święty Aedesjusz z Aleksandrii był wczesnym chrześcijańskim męczennikiem, zabitym za panowania Galeriusza Maksymiana. Był bratem świętego Amfiana. Według martyrologium, publicznie upomniał sędziego, który zmuszał chrześcijańskie dziewice do pracy w burdelach, aby złamać ich wiarę, za co został torturowany i utopiony.",
+  "biography_es": "Vida y martirio\n\n\nTradición occidental  \nEn Alejandría, en tiempos del emperador Maximiano Galerio, el mártir San Edesio, hermano del beato Apiano. Porque reprendió públicamente al juez malvado que entregaba a corruptores a vírgenes consagradas a Dios, fue arrestado por los soldados, expuesto a los tormentos más severos y arrojado al mar por causa de Cristo nuestro Señor.  \nEl historiador Eusebio de Cesarea relata la historia de Edesio: al igual que su hermano, fue un filósofo que se convirtió al cristianismo. Quizás debido a su posición entre los educados, parecía no temer profesar su fe ante los magistrados, por lo cual fue encarcelado varias veces y condenado a trabajar en las minas de Palestina. Buscó la soledad en Egipto tras su liberación, pero encontró que la persecución allí era más dura bajo Hierocles. Edesio...",
+  "biography_pl": "Życie i męczeństwo\n\n\nTradycja zachodnia\nW Aleksandrii, za czasów cesarza Maksymiana Galeriusza, męczennik św. Edesiusz, brat błogosławionego Apphiana. Ponieważ publicznie upominał złego sędziego, który wydawał na korupcję dziewice poświęcone Bogu, został aresztowany przez żołnierzy, poddany najcięższym torturom i wrzucony do morza dla Chrystusa, Pana naszego.\nHistoryk Euzebiusz z Cezarei rozwija historię Edesiusza: podobnie jak jego brat, był filozofem, który przeszedł na chrześcijaństwo. Być może ze względu na swoje stanowisko wśród wykształconych, zdawał się nie zważać na wyznawanie wiary przed urzędnikami, za co był wielokrotnie więziony i skazany na pracę w kopalniach Palestyny. Po zwolnieniu szukał samotności w Egipcie, ale tam prześladowania były surowsze pod rządami Hieroklesa. Edesiusz..."
+}

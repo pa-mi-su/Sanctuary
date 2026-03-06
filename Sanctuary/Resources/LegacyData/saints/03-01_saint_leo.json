@@ -1,0 +1,79 @@
+{
+  "id": "03-01_saint_leo",
+  "name": "Saint Leo",
+  "mmdd": "03-01",
+  "feast": "The First Day of March",
+  "summary": "Saint Leo University is a private Catholic university in St. Leo, Florida, United States. It was established in 1889. The university is associated with the Holy Name Monastery, a Benedictine convent, and Saint Leo Abbey, a Benedictine monastery. The university and the abbey are both named for Pope Leo the Great, bishop of Rome from 440 to 461. The name also honors Leo XIII, who was pope at the time the university was founded, and Leo Haid, then abbot of Maryhelp Abbey in North Carolina, now Belmont Abbey, who participated in founding the university and served as its first president.",
+  "biography": "Saint Leo University is a private Catholic university in St. Leo, Florida, United States. It was established in 1889. The university is associated with the Holy Name Monastery, a Benedictine convent, and Saint Leo Abbey, a Benedictine monastery. The university and the abbey are both named for Pope Leo the Great, bishop of Rome from 440 to 461. The name also honors Leo XIII, who was pope at the time the university was founded, and Leo Haid, then abbot of Maryhelp Abbey in North Carolina, now Belmont Abbey, who participated in founding the university and served as its first president.\nThe first Catholic college in Florida, Saint Leo is one of the fifteen largest Catholic colleges in the United States. It enrolls students at the traditional University Campus, through its Center for Online Learning, and at five regional Education Centers. University-wide, Saint Leo educates students from all 50 states, the District of Columbia, three U.S. territories, and more than 80 countries. As of 2023, total enrollment was 10,231.\nSaint Leo was one of the first American universities to provide distance learning opportunities to students, beginning with educating military men and women in 1973 during...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Leo_University",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-01_saint_leo.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a47e89ab84e0e5d816bb06d86dbfe66c11662b3dd5b6901a041ccb6ad25cfb8b",
+        "langs": {
+          "es": {
+            "translatedHash": "5c7d68de57598a2ce42063a7ec42103e75945defd38f13667eab69052b0a1b74",
+            "updatedAt": "2026-02-24T22:46:16.363Z"
+          },
+          "pl": {
+            "translatedHash": "4fcbc6d12ed0c16246b677014f7a9b8fbcf0bb2b96432f42f806ec3f16ed462d",
+            "updatedAt": "2026-02-24T22:46:18.311Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4600f9941905f045445639f7f6ac293ac37cdbda0d81547c3721489fbc459b9c",
+        "langs": {
+          "es": {
+            "translatedHash": "c7cf1017ce22024c8a48b381306415e193bad935858e35842bc506dbb1d69070",
+            "updatedAt": "2026-02-24T22:46:18.983Z"
+          },
+          "pl": {
+            "translatedHash": "d20eaa327b6d941afb337d9b26fa6c92687c96d44306372f74dc9a2374836ab7",
+            "updatedAt": "2026-02-24T22:46:19.606Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bf8f8e1f5e14ed91f48fedf3da3e761c532189f2ea1ea5ad74d3be5228cc6d2c",
+        "langs": {
+          "es": {
+            "translatedHash": "4fb753fb1f63256e6ba951f8f2886f29a93b99579b844386960388ddd08a9e3a",
+            "updatedAt": "2026-02-24T22:46:22.003Z"
+          },
+          "pl": {
+            "translatedHash": "121ab1673491bff2b2aac7728018c03fb3f39c71cb05f122a9aeee5670dda5b1",
+            "updatedAt": "2026-02-24T22:46:25.263Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4e4b571ac5b0c76e5464517580049ed80ab5de9ff3687746b2f56ca296ae03f8",
+        "langs": {
+          "es": {
+            "translatedHash": "f6f3ab1888a2ac4cae05e31afc901aae5272dc34615eb677ad4da5e326020d2d",
+            "updatedAt": "2026-02-24T22:46:29.757Z"
+          },
+          "pl": {
+            "translatedHash": "71fd492050c7ae6e19c604d010b91a2693ee7409fb68b07636818a9cb0ac6944",
+            "updatedAt": "2026-02-24T22:46:37.134Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San León",
+  "name_pl": "Święty Leon",
+  "feast_es": "El Primer Día de Marzo",
+  "feast_pl": "Pierwszy Dzień Marca",
+  "summary_es": "La Universidad Saint Leo es una universidad católica privada en St. Leo, Florida, Estados Unidos. Fue establecida en 1889. La universidad está asociada con el Monasterio del Santo Nombre, un convento benedictino, y la Abadía de Saint Leo, un monasterio benedictino. Tanto la universidad como la abadía llevan el nombre del Papa León Magno, obispo de Roma desde 440 hasta 461. El nombre también honra a León XIII, quien era papa en el momento en que se fundó la universidad, y a Leo Haid, entonces abad de la Abadía Maryhelp en Carolina del Norte, ahora Abadía Belmont, quien participó en la fundación de la universidad y sirvió como su primer presidente.",
+  "summary_pl": "Uniwersytet Świętego Leona jest prywatnym katolickim uniwersytetem w St. Leo na Florydzie, w Stanach Zjednoczonych. Został założony w 1889 roku. Uniwersytet jest związany z klasztorem Świętego Imienia, benedyktyńskim konwentem, oraz Opactwem Świętego Leona, benedyktyńskim klasztorem. Zarówno uniwersytet, jak i opactwo noszą imię papieża Leona Wielkiego, biskupa Rzymu w latach 440–461. Nazwa ta honoruje również Leona XIII, który był papieżem w czasie założenia uniwersytetu, oraz Leona Haida, ówczesnego opata Opactwa Maryhelp w Karolinie Północnej, obecnie Belmont Abbey, który uczestniczył w założeniu uniwersytetu i pełnił funkcję jego pierwszego rektora.",
+  "biography_es": "La Universidad Saint Leo es una universidad católica privada en St. Leo, Florida, Estados Unidos. Fue establecida en 1889. La universidad está asociada con el Monasterio del Santo Nombre, un convento benedictino, y la Abadía de Saint Leo, un monasterio benedictino. Tanto la universidad como la abadía llevan el nombre del Papa León Magno, obispo de Roma desde 440 hasta 461. El nombre también honra a León XIII, quien era papa en el momento de la fundación de la universidad, y a Leo Haid, entonces abad de la Abadía Maryhelp en Carolina del Norte, ahora Abadía Belmont, quien participó en la fundación de la universidad y fue su primer presidente.\n\nSiendo el primer colegio católico en Florida, Saint Leo es una de las quince universidades católicas más grandes de los Estados Unidos. Inscribe estudiantes en el Campus Universitario tradicional, a través de su Centro de Aprendizaje en Línea y en cinco Centros Regionales de Educación. A nivel universitario, Saint Leo educa a estudiantes de los 50 estados, el Distrito de Columbia, tres territorios de EE. UU. y más de 80 países. A partir de 2023, la matrícula total era de 10,231.\n\nSaint Leo fue una de las primeras universidades estadounidenses en ofrecer oportunidades de aprendizaje a distancia a los estudiantes, comenzando con la educación de hombres y mujeres militares en 1973 durante...",
+  "biography_pl": "Uniwersytet Saint Leo to prywatna katolicka uczelnia w St. Leo na Florydzie, w Stanach Zjednoczonych. Została założona w 1889 roku. Uczelnia jest związana z Klasztorem Świętego Imienia, benedyktyńskim konwentem, oraz Opactwem Świętego Leona, benedyktyńskim klasztorem. Zarówno uczelnia, jak i opactwo noszą imię papieża Leona Wielkiego, biskupa Rzymu w latach 440–461. Nazwa ta upamiętnia również Leona XIII, który był papieżem w czasie założenia uczelni, oraz Leona Haida, ówczesnego opata Opactwa Maryhelp w Karolinie Północnej, obecnie Belmont Abbey, który uczestniczył w zakładaniu uczelni i pełnił funkcję jej pierwszego rektora.\n\nSaint Leo, pierwsza katolicka uczelnia na Florydzie, jest jedną z piętnastu największych katolickich uczelni w Stanach Zjednoczonych. Przyjmuje studentów na tradycyjnym kampusie uniwersyteckim, poprzez Centrum Nauki Online oraz w pięciu regionalnych Ośrodkach Edukacyjnych. Na poziomie całej uczelni Saint Leo kształci studentów ze wszystkich 50 stanów, Dystryktu Kolumbii, trzech terytoriów USA oraz ponad 80 krajów. Na rok 2023 łączna liczba studentów wynosiła 10 231.\n\nSaint Leo był jedną z pierwszych amerykańskich uczelni oferujących możliwość nauki na odległość, zaczynając od kształcenia żołnierzy i żołnierek w 1973 roku podczas..."
+}

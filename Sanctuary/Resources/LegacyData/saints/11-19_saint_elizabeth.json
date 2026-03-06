@@ -1,0 +1,78 @@
+{
+  "id": "11-19_saint_elizabeth",
+  "name": "Saint Elizabeth",
+  "mmdd": "11-19",
+  "feast": "The Ninteenth Day of November",
+  "summary": "Saint Elizabeth or Saint Elisabeth may refer to",
+  "biography": "Saint Elizabeth or Saint Elisabeth may refer to",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Elizabeth"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_elizabeth.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b4a849a1f07c8b92cfcc965457750349f63890291a966f90eea9d6bc1d523737",
+        "langs": {
+          "es": {
+            "translatedHash": "068ea51f595e4a5a704b0dc255cec89bac8200b4e9eae77b46a768327eb25354",
+            "updatedAt": "2026-02-25T01:11:06.687Z"
+          },
+          "pl": {
+            "translatedHash": "daa6314025a600f2aa5ceff49853ed4b6d4f5bb201c6c24186ef3fa9c7a9a77e",
+            "updatedAt": "2026-02-25T01:11:07.209Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6f9bb5bc273bc558353709165a8289ece5c0b5fca8d7c356146e7ce08b688f61",
+        "langs": {
+          "es": {
+            "translatedHash": "c9bee9937cffb55a32bd3511edc6f7fd068d52583fdf80f9ddd7700ea45fea33",
+            "updatedAt": "2026-02-25T01:11:07.755Z"
+          },
+          "pl": {
+            "translatedHash": "336eb8af92dc3944b86f906480e43bb62a84d78d67387f16b7e3fc4174367838",
+            "updatedAt": "2026-02-25T01:11:08.328Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6b4ffee8958f1fd511b1db7c6156f58669dbf7bfd9dac690bf50912a6ffb3d35",
+        "langs": {
+          "es": {
+            "translatedHash": "6ddef83885a532dabf4c70b1da6f299887845288271a907902682dad73db54fb",
+            "updatedAt": "2026-02-25T01:11:09.025Z"
+          },
+          "pl": {
+            "translatedHash": "e291d7e8647e44a5d0673fd0e20cc3b8fd70a8f375389435d9c0fdb970bd3d42",
+            "updatedAt": "2026-02-25T01:11:10.096Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6b4ffee8958f1fd511b1db7c6156f58669dbf7bfd9dac690bf50912a6ffb3d35",
+        "langs": {
+          "es": {
+            "translatedHash": "6ddef83885a532dabf4c70b1da6f299887845288271a907902682dad73db54fb",
+            "updatedAt": "2026-02-25T01:11:10.582Z"
+          },
+          "pl": {
+            "translatedHash": "e291d7e8647e44a5d0673fd0e20cc3b8fd70a8f375389435d9c0fdb970bd3d42",
+            "updatedAt": "2026-02-25T01:11:11.570Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Isabel",
+  "name_pl": "Święta Elżbieta",
+  "feast_es": "El día diecinueve de noviembre",
+  "feast_pl": "Dziewiętnasty dzień listopada",
+  "summary_es": "Santa Isabel o Santa Elisabeth puede referirse a",
+  "summary_pl": "Święta Elżbieta lub Święta Elżbieta może odnosić się do",
+  "biography_es": "Santa Isabel o Santa Elisabeth puede referirse a",
+  "biography_pl": "Święta Elżbieta lub Święta Elżbieta może odnosić się do"
+}

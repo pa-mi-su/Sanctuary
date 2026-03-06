@@ -1,0 +1,48 @@
+{
+  "id": "08-15_assumption_of_the_blessed_virgin_mary_solemnity",
+  "name": "Assumption of the Blessed Virgin Mary—Solemnity",
+  "mmdd": "08-15",
+  "feast": "The Fifteenth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemnity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-15_assumption_of_the_blessed_virgin_mary_solemnity.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "60a3817e5645f3c71fc992442c90f11336618fa48c8386d674f8e5dcec47c7d3",
+        "langs": {
+          "es": {
+            "translatedHash": "026a3d139b2c6b842a9188628d72b811b35962f4e436ab3e000e260f085c16b2",
+            "updatedAt": "2026-02-25T00:15:34.638Z"
+          },
+          "pl": {
+            "translatedHash": "b2f52362805e5704b929313c166fca3f8f12447ecabe57855f72b58dffbf64a4",
+            "updatedAt": "2026-02-25T00:15:35.414Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c9c1336c4f4e7cd2321157aecddae2051dbdd8a6d1e42df88449368f4187974f",
+        "langs": {
+          "es": {
+            "translatedHash": "f3707e7e146f1d8afc9b1a1f6ec7ec46cfaccd65a061fe9b11805e7b7c4586b8",
+            "updatedAt": "2026-02-25T00:15:36.010Z"
+          },
+          "pl": {
+            "translatedHash": "50a50370c4e2052a9963672d383b977fb73bf59b3db8e504ae67a71abac533f0",
+            "updatedAt": "2026-02-25T00:15:36.687Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Asunción de la Santísima Virgen María—Solemnidad",
+  "name_pl": "Wniebowzięcie Najświętszej Maryi Panny — Uroczystość",
+  "feast_es": "El Quince de Agosto",
+  "feast_pl": "Piętnasty Dzień Sierpnia"
+}

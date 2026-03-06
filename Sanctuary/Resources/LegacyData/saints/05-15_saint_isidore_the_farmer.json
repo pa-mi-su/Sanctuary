@@ -1,0 +1,79 @@
+{
+  "id": "05-15_saint_isidore_the_farmer",
+  "name": "Saint Isidore (the Farmer)",
+  "mmdd": "05-15",
+  "feast": "The Fifteenth Day of May",
+  "summary": "Isidore the Laborer, born Isidro de Merlo y Quintana, also known as Isidore the Farmer, was a Mozarab farmworker who lived in medieval Madrid. Known for his piety toward the poor and animals, he is venerated as a Catholic patron saint of farmers, and of Madrid; El Gobernador, Jalisco; Condiro Jalisco, La Ceiba, Honduras; and of Tocoa, Honduras. His feast day is celebrated on 15 May.",
+  "biography": "Isidore the Laborer, born Isidro de Merlo y Quintana, also known as Isidore the Farmer (Spanish: San Isidro Labrador) (c. 1070 – 15 May 1130), was a Mozarab farmworker who lived in medieval Madrid. Known for his piety toward the poor and animals, he is venerated as a Catholic patron saint of farmers, and of Madrid; El Gobernador, Jalisco; Condiro Jalisco, La Ceiba, Honduras; and of Tocoa, Honduras. His feast day is celebrated on 15 May. The Spanish profession name labrador comes from the verb labrar (\"to till\", \"to plow\" or, in a broader sense, \"to work the land\"). Hence, to refer to him as simply a \"laborer\" is a poor translation of the Spanish labrador as it makes no reference to the essential farming aspect of his work and his identity. Biography Isidore was born in Madrid around 1070 or 1082 to poor, devout parents and was christened Isidore after the name of their patron, St. Isidore of Seville. In 1083 or 1085, the troops of Alfonso VI of León and Castile conquered Madrid from the Muslim taifa of Toledo. Isidore spent his life as a hired hand in the service of the wealthy Madrilenian landowner, Juan de Vargas, on a farm in the city's vicinity. He shared what he had, even...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isidore_the_Laborer",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-15_saint_isidore_the_farmer.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4b40bbaed4914d309ece05ab8c90d509e3ff36b3dd65d22c02f1779516c928a6",
+        "langs": {
+          "es": {
+            "translatedHash": "9bd45dcca74c6a61f52e596f4f90ec3991af3edec88bcd5df11b7cf8ade14fd6",
+            "updatedAt": "2026-02-24T23:25:28.814Z"
+          },
+          "pl": {
+            "translatedHash": "8eb7c468dd5370e18d10947aae9b98c1e34c0b2e3285234065b76c1e26dd5c0a",
+            "updatedAt": "2026-02-24T23:25:30.646Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "386fa1329909227c20bcbd71e4dccd36615030d2a1a47e65152579b9f88f4a3b",
+        "langs": {
+          "es": {
+            "translatedHash": "fda7f5234d21d244d1fbd149db5d3a4fb9ce589a171cfd65e38405817ccdd5d8",
+            "updatedAt": "2026-02-24T23:25:31.272Z"
+          },
+          "pl": {
+            "translatedHash": "eae911ec85a5e4bc2797572e6716cb406e54915c9c5c776edba8971f1aec64bb",
+            "updatedAt": "2026-02-24T23:25:32.035Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b07d028a16f9488c86673afbfc7a6802cbc9241615265ca4eb6b9f1f67f06ffa",
+        "langs": {
+          "es": {
+            "translatedHash": "844609ef8fba34a0c80b4c4a11479828dba7f00714d19621b4d5426b776a4dbe",
+            "updatedAt": "2026-02-24T23:25:34.667Z"
+          },
+          "pl": {
+            "translatedHash": "c921e6faada569780e80a08de9bed86875cfac71b6dddd3f0a9f6d83378a30e2",
+            "updatedAt": "2026-02-24T23:25:38.308Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b62d9d067436bcf60e5d6c77d933dd7b27794726a8d5824d0dab3d696cd4ecd1",
+        "langs": {
+          "es": {
+            "translatedHash": "3ab4999b0ea99a93f148b75579d0af4c7c7c9b943a7d603d45c69794b3141910",
+            "updatedAt": "2026-02-24T23:25:42.945Z"
+          },
+          "pl": {
+            "translatedHash": "217eec99717399751b083887837374bb63727763945346f10aaa0460a28c8fb1",
+            "updatedAt": "2026-02-24T23:25:49.768Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Isidro (el Labrador)",
+  "name_pl": "Święty Izydor (Rolnik)",
+  "feast_es": "El Quince de Mayo",
+  "feast_pl": "Piętnasty dzień maja",
+  "summary_es": "Isidro el Labrador, nacido Isidro de Merlo y Quintana, también conocido como Isidro el Campesino, fue un jornalero mozárabe que vivió en la Madrid medieval. Conocido por su piedad hacia los pobres y los animales, es venerado como santo patrón católico de los agricultores, y de Madrid; El Gobernador, Jalisco; Condiro Jalisco, La Ceiba, Honduras; y de Tocoa, Honduras. Su fiesta se celebra el 15 de mayo.",
+  "summary_pl": "Izydor Rzemieślnik, urodzony jako Isidro de Merlo y Quintana, znany również jako Izydor Rolnik, był mozarabskim robotnikiem rolnym, który żył w średniowiecznym Madrycie. Znany ze swojej pobożności wobec ubogich i zwierząt, jest czczony jako katolicki patron rolników oraz Madrytu; El Gobernador w Jalisco; Condiro w Jalisco, La Ceiba w Hondurasie; oraz Tocoa w Hondurasie. Jego dzień wspomnienia obchodzony jest 15 maja.",
+  "biography_es": "Isidro el Labrador, nacido Isidro de Merlo y Quintana, también conocido como Isidro el Campesino (español: San Isidro Labrador) (c. 1070 – 15 de mayo de 1130), fue un jornalero mozárabe que vivió en la Madrid medieval. Conocido por su piedad hacia los pobres y los animales, es venerado como santo patrón católico de los agricultores y de Madrid; El Gobernador, Jalisco; Condiro Jalisco, La Ceiba, Honduras; y de Tocoa, Honduras. Su fiesta se celebra el 15 de mayo. El nombre profesional español labrador proviene del verbo labrar (\"cultivar\", \"arar\" o, en un sentido más amplio, \"trabajar la tierra\"). Por lo tanto, referirse a él simplemente como un \"trabajador\" es una mala traducción del español labrador, ya que no hace referencia al aspecto esencial agrícola de su trabajo y su identidad.\n\nBiografía  \nIsidro nació en Madrid alrededor de 1070 o 1082 de padres pobres y devotos, y fue bautizado como Isidro en honor al nombre de su patrón, San Isidro de Sevilla. En 1083 o 1085, las tropas de Alfonso VI de León y Castilla conquistaron Madrid del taifa musulmán de Toledo. Isidro pasó su vida como jornalero al servicio del acaudalado terrateniente madrileño Juan de Vargas, en una finca en las cercanías de la ciudad. Compartía lo que tenía, incluso...",
+  "biography_pl": "Izydor Rzemieślnik, urodzony jako Isidro de Merlo y Quintana, znany również jako Izydor Rolnik (hiszp. San Isidro Labrador) (ok. 1070 – 15 maja 1130), był mozarabskim robotnikiem rolnym, który żył w średniowiecznym Madrycie. Znany ze swojej pobożności wobec ubogich i zwierząt, jest czczony jako katolicki patron rolników oraz Madrytu; El Gobernador w Jalisco; Condiro w Jalisco, La Ceiba w Hondurasie; oraz Tocoa w Hondurasie. Jego dzień wspomnienia obchodzony jest 15 maja. Hiszpańskie słowo zawodowe labrador pochodzi od czasownika labrar („uprawiać”, „orać” lub, w szerszym znaczeniu, „pracować na ziemi”). Dlatego nazywanie go po prostu „robotnikiem” jest złym tłumaczeniem hiszpańskiego labrador, ponieważ nie odnosi się do istotnego rolniczego aspektu jego pracy i tożsamości.\n\nBiografia  \nIzydor urodził się w Madrycie około 1070 lub 1082 roku w ubogiej, pobożnej rodzinie i został ochrzczony imieniem Izydor na cześć ich patrona, św. Izydora z Sewilli. W 1083 lub 1085 roku wojska Alfonsa VI z León i Kastylii zdobyły Madryt od muzułmańskiej taify Toledo. Izydor spędził życie jako najemny pracownik na służbie bogatego madryckiego właściciela ziemskiego, Juana de Vargasa, na farmie w okolicach miasta. Dzielił się tym, co miał, nawet..."
+}

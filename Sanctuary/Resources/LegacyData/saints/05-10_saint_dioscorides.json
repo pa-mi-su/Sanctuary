@@ -1,0 +1,63 @@
+{
+  "id": "05-10_saint_dioscorides",
+  "name": "Saint Dioscorides",
+  "mmdd": "05-10",
+  "feast": "The Tenth Day of May",
+  "summary": "This is a partial list of canonised saints in the Eastern Orthodox Church.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Eastern_Orthodox_saints"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-10_saint_dioscorides.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9e76433c577fa19c88b5250ee1eca9be9392a31498f4b2cc5247eea863541401",
+        "langs": {
+          "es": {
+            "translatedHash": "db203401fee88bf726248012a1f03765e070a90a365965862d5484e92b14b0c6",
+            "updatedAt": "2026-02-24T23:22:41.308Z"
+          },
+          "pl": {
+            "translatedHash": "70a8e72e4d8d3f8dbd9d4aa3e3f2d69c206fc5e350caea2451cf7c7af87aebeb",
+            "updatedAt": "2026-02-24T23:22:41.906Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ac8cba13266de72496d8f1252ca2e669ad57f250ef20f2b01b3830a94a5e44c5",
+        "langs": {
+          "es": {
+            "translatedHash": "4d9f4f2bbce8bfc25a76e351a40f6da31be2c8b7c6a61fa11056897abb93b33b",
+            "updatedAt": "2026-02-24T23:22:42.415Z"
+          },
+          "pl": {
+            "translatedHash": "f72915ee56327a15d5532ff533b4daec2daddd823e44b3df5772a71f4be09ad1",
+            "updatedAt": "2026-02-24T23:22:42.923Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "acc8fb7eb38d6e8468c7559e35bbad6daee7ee00da0fab9c4a54d07a51649ff5",
+        "langs": {
+          "es": {
+            "translatedHash": "6e462bd62a3ce043c5126d051fb1412648c7ca964e5e2c3aaaf7a18b5527431d",
+            "updatedAt": "2026-02-24T23:22:43.734Z"
+          },
+          "pl": {
+            "translatedHash": "4038ab3ca527c6e5036f45359da5b3158186e1b963d3ab107fb6006ac66f13f5",
+            "updatedAt": "2026-02-24T23:22:44.485Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Dioscórides",
+  "name_pl": "Święty Dioskorides",
+  "feast_es": "El décimo día de mayo",
+  "feast_pl": "Dziesiąty dzień maja",
+  "summary_es": "Esta es una lista parcial de santos canonizados en la Iglesia Ortodoxa Oriental.",
+  "summary_pl": "To jest częściowa lista kanonizowanych świętych w Kościele Wschodnioprawosławnym."
+}

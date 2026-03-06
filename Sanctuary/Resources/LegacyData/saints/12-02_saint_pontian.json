@@ -1,0 +1,78 @@
+{
+  "id": "12-02_saint_pontian",
+  "name": "Saint Pontian",
+  "mmdd": "12-02",
+  "feast": "The Second Day of December",
+  "summary": "Lucia of Syracuse, also called Santa Lucia and better known as Saint Lucy, was a Roman Christian martyr who died during the Diocletianic Persecution. She is venerated as a saint in Catholic, Anglican, Lutheran, Eastern Orthodox and Oriental Orthodox Christianity. She is one of eight women explicitly commemorated by Catholics in the Canon of the Mass. Her traditional feast day, known in Europe as Saint Lucy's Day, is observed by Western Christians on 13 December. Lucia of Syracuse was honored in the Middle Ages and remained a well-known saint in early modern England. She is one of the best known virgin martyrs, along with Agatha of Sicily, Agnes of Rome, Cecilia of Rome, and Catherine of Alexandria.",
+  "biography": "Sources\nThe oldest record of her story comes from the fourth century, archaeology and later  Acts of the Martyrs. The single fact upon which various accounts agree is that a disappointed suitor accused Lucy of being a Christian, and she was executed in Syracuse, Sicily, in 304 AD, during the Diocletianic Persecution. Her veneration spread to Rome, and by the sixth century to the whole Church. The oldest archaeological...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lucy"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-02_saint_pontian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f8c03c1b63432fc5936c1928110b598182a932d5e050864c93c4135924f74d96",
+        "langs": {
+          "es": {
+            "translatedHash": "731d5a7f7fdd68af0f82901a2684e4d94e7b663dea3d7a51697c656bc9f7f085",
+            "updatedAt": "2026-02-25T01:18:28.957Z"
+          },
+          "pl": {
+            "translatedHash": "d5dc08d5e7875f99f9d2458095a5dee6d4a82c71352a1db1e7cda72caff2a6fd",
+            "updatedAt": "2026-02-25T01:18:29.469Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8b7ac9577989c843471fd3eb3ccaa91f798eb543927788ca3f7726406425c499",
+        "langs": {
+          "es": {
+            "translatedHash": "badfe496a4684034456068ab247d1c7c24d7289a71c184ad46db3c8a0a407029",
+            "updatedAt": "2026-02-25T01:18:30.069Z"
+          },
+          "pl": {
+            "translatedHash": "f47a267cc8b0ce88a98d1b11546106a581611f5ad7be7cb4a5cb92cc200be622",
+            "updatedAt": "2026-02-25T01:18:30.683Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d5dccbb1c3f99de537439b669317034b4a500b6a43a62d8a5b4e2140e7b33863",
+        "langs": {
+          "es": {
+            "translatedHash": "533d1031e5b7b8afd84fd525f64333f4bc87a8bb0ee59cc637bda88056b40bb8",
+            "updatedAt": "2026-02-25T01:18:33.679Z"
+          },
+          "pl": {
+            "translatedHash": "c84e0b0124d0311f713b5cd080bc8f1e99eb6a7b0585404584ee4bf4597c6194",
+            "updatedAt": "2026-02-25T01:18:38.447Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "867107b42d707b60c96522d96d7f82350fd9bc4cf7d19c2609e875fd709492ef",
+        "langs": {
+          "es": {
+            "translatedHash": "1c3dd6ec0582f4b00b3212fe5e6af2db3483b5bba59f1a5556a7c97286e94c32",
+            "updatedAt": "2026-02-25T01:18:40.247Z"
+          },
+          "pl": {
+            "translatedHash": "dcd199dd92ea5fe24b219750c1a91f4a16954d24ec291bf3ccf147dce84f575c",
+            "updatedAt": "2026-02-25T01:18:43.641Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pontiano",
+  "name_pl": "Święty Pontian",
+  "feast_es": "El Segundo Día de Diciembre",
+  "feast_pl": "Drugi dzień grudnia",
+  "summary_es": "Lucía de Siracusa, también llamada Santa Lucía y mejor conocida como Santa Lucy, fue una mártir cristiana romana que murió durante la persecución de Diocleciano. Es venerada como santa en el catolicismo, anglicanismo, luteranismo, cristianismo ortodoxo oriental y ortodoxo oriental. Es una de las ocho mujeres explícitamente conmemoradas por los católicos en el Canon de la Misa. Su fiesta tradicional, conocida en Europa como el Día de Santa Lucía, es observada por los cristianos occidentales el 13 de diciembre. Lucía de Siracusa fue honrada en la Edad Media y permaneció como una santa muy conocida en la Inglaterra de la época moderna temprana. Es una de las mártires vírgenes más conocidas, junto con Águeda de Sicilia, Inés de Roma, Cecilia de Roma y Catalina de Alejandría.",
+  "summary_pl": "Łucja z Syrakuz, zwana także Świętą Łucją i lepiej znana jako św. Łucja, była rzymską chrześcijańską męczennicą, która zmarła podczas prześladowań Dioklecjana. Jest czczona jako święta w Kościele katolickim, anglikańskim, luterańskim, prawosławnym wschodnim oraz prawosławnym orientalnym. Jest jedną z ośmiu kobiet wyraźnie upamiętnionych przez katolików w Kanonie Mszy Świętej. Jej tradycyjne święto, znane w Europie jako Dzień Świętej Łucji, obchodzone jest przez chrześcijan zachodnich 13 grudnia. Łucja z Syrakuz była czczona w średniowieczu i pozostała dobrze znaną świętą we wczesnej nowożytnej Anglii. Jest jedną z najlepiej znanych dziewic-męczennic, obok Agaty z Sycylii, Agnieszki z Rzymu, Cecylii z Rzymu i Katarzyny Aleksandryjskiej.",
+  "biography_es": "Fuentes  \nEl registro más antiguo de su historia proviene del siglo IV, de la arqueología y de posteriores Actas de los Mártires. El único hecho en el que coinciden las diversas versiones es que un pretendiente rechazado acusó a Lucía de ser cristiana, y ella fue ejecutada en Siracusa, Sicilia, en el año 304 d.C., durante la Persecución de Diocleciano. Su veneración se extendió a Roma y, para el siglo VI, a toda la Iglesia. El registro arqueológico más antiguo...",
+  "biography_pl": "Źródła  \nNajstarszy zapis jej historii pochodzi z IV wieku, archeologii oraz późniejszych Akt Męczenników. Jedynym faktem, co do którego różne relacje się zgadzają, jest to, że zawiedziony zalotnik oskarżył Łucję o bycie chrześcijanką, a ona została stracona w Syrakuzach na Sycylii w 304 roku n.e., podczas prześladowań Dioklecjana. Jej kult rozprzestrzenił się do Rzymu, a do VI wieku objął cały Kościół. Najstarsze znaleziska archeologiczne..."
+}

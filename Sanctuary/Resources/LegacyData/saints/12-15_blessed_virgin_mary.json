@@ -1,0 +1,79 @@
+{
+  "id": "12-15_blessed_virgin_mary",
+  "name": "Blessed Virgin Mary",
+  "mmdd": "12-15",
+  "feast": "The Fifteenth Day of December",
+  "summary": "The House of the Virgin Mary is a Catholic shrine located on Mt. Koressos in the vicinity of Ephesus, 7 kilometres (4.3 mi) from Selçuk in Turkey.",
+  "biography": "The House of the Virgin Mary is a Catholic shrine located on Mt. Koressos in the vicinity of Ephesus, 7 kilometres (4.3 mi) from Selçuk in Turkey.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/House_of_the_Virgin_Mary",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-15_blessed_virgin_mary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "490b595b3b7482adac9422f0a6a2a9d0ed9627f450d5754588556851af9bf2de",
+        "langs": {
+          "es": {
+            "translatedHash": "8da3848851d4e09fa28859d368dfb9258689a4785eb12a139866babe91455ea3",
+            "updatedAt": "2026-02-25T01:26:51.779Z"
+          },
+          "pl": {
+            "translatedHash": "9b0403b626232dd1cd3024139c58fbf6489445f788470a136190437386a58b26",
+            "updatedAt": "2026-02-25T01:26:52.698Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5511d3655b81f87f1d9e7f777a9e82d28aa651aa4b29ce9556e308397fe8550b",
+        "langs": {
+          "es": {
+            "translatedHash": "9bcb62b06546ce2a7b1fc2188215ce14840a5c30a686c2d0a1537b9bab989076",
+            "updatedAt": "2026-02-25T01:26:53.200Z"
+          },
+          "pl": {
+            "translatedHash": "ae4fa12f28ea9ac79c9f8c006d84cb15466a0b55d6c355574e9110fb75073eb8",
+            "updatedAt": "2026-02-25T01:26:53.888Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "41c590cbb7771a9c152225db392468bbbaf0c7550310f79d49413b349576da84",
+        "langs": {
+          "es": {
+            "translatedHash": "03f381f05f726b2a68988ff503771a91b7d4b6fba53c5299231fa673f4a94a51",
+            "updatedAt": "2026-02-25T01:26:55.158Z"
+          },
+          "pl": {
+            "translatedHash": "fc70dcc6341b486339ea20fab7da78240d3bab1f693bca9ba61817d171241872",
+            "updatedAt": "2026-02-25T01:26:56.319Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "41c590cbb7771a9c152225db392468bbbaf0c7550310f79d49413b349576da84",
+        "langs": {
+          "es": {
+            "translatedHash": "03f381f05f726b2a68988ff503771a91b7d4b6fba53c5299231fa673f4a94a51",
+            "updatedAt": "2026-02-25T01:26:57.781Z"
+          },
+          "pl": {
+            "translatedHash": "fc70dcc6341b486339ea20fab7da78240d3bab1f693bca9ba61817d171241872",
+            "updatedAt": "2026-02-25T01:26:59.138Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Virgen María",
+  "name_pl": "Błogosławiona Dziewica Maryja",
+  "feast_es": "El Quince de Diciembre",
+  "feast_pl": "Piętnasty Dzień Grudnia",
+  "summary_es": "La Casa de la Virgen María es un santuario católico ubicado en el Monte Koressos, en las cercanías de Éfeso, a 7 kilómetros (4.3 millas) de Selçuk en Turquía.",
+  "summary_pl": "Dom Najświętszej Maryi Panny jest katolickim sanktuarium położonym na górze Koressos w pobliżu Efezu, 7 kilometrów od Selçuku w Turcji.",
+  "biography_es": "La Casa de la Virgen María es un santuario católico ubicado en el Monte Koressos, en las cercanías de Éfeso, a 7 kilómetros (4.3 millas) de Selçuk en Turquía.",
+  "biography_pl": "Dom Najświętszej Maryi Panny jest katolickim sanktuarium położonym na górze Koressos w pobliżu Efezu, 7 kilometrów od Selçuku w Turcji."
+}

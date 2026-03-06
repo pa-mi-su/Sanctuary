@@ -1,0 +1,48 @@
+{
+  "id": "10-24_saint_evergistus",
+  "name": "Saint Evergistus",
+  "mmdd": "10-24",
+  "feast": "The Twenty-Fourth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Evaristus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-24_saint_evergistus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a5c76b7c15fb6cc625e0c648922cfb19336188a07a07b8ba4302e8979139e98b",
+        "langs": {
+          "es": {
+            "translatedHash": "a6bf1a239fc20f3df45d4cc7b77df2f4ca80fde81ee653c35584767ec5b4e92a",
+            "updatedAt": "2026-02-25T00:55:58.326Z"
+          },
+          "pl": {
+            "translatedHash": "28854e8aafb510c14e2efd21ef476f73395a31c7019ce9f76990e35266e88472",
+            "updatedAt": "2026-02-25T00:55:59.078Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7d7555c70de0ffe67b4ae81bf630761eba6224a27239eb891a0b25188d80a3f7",
+        "langs": {
+          "es": {
+            "translatedHash": "faf25934c39d9a8ea7d4fe0f623276ccbc8d581a3d8f4076c16bb27c2ae3e266",
+            "updatedAt": "2026-02-25T00:55:59.602Z"
+          },
+          "pl": {
+            "translatedHash": "cf6032c353eb51a1cceec5f8d242f787d41ee5e0dfa2605b1ed3eb72f42f73d6",
+            "updatedAt": "2026-02-25T00:56:00.283Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Evergisto",
+  "name_pl": "Święty Ewerzyst",
+  "feast_es": "El Veinticuatro de Octubre",
+  "feast_pl": "Dwudziesty czwarty dzień października"
+}

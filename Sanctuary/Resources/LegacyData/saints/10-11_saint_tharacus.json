@@ -1,0 +1,79 @@
+{
+  "id": "10-11_saint_tharacus",
+  "name": "Saint Tharacus",
+  "mmdd": "10-11",
+  "feast": "The Eleventh Day of October",
+  "summary": "A list of people, who died during the 4th century, who have received recognition as Blessed or Saint from the Catholic Church:",
+  "biography": "A list of people, who died during the 4th century, who have received recognition as Blessed or Saint from the Catholic Church:",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chronological_list_of_saints_in_the_4th_century",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-11_saint_tharacus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b8caa998088ea08da7caae4caa9d0bb2173c8eea25587436d5b45c5ec6f98038",
+        "langs": {
+          "es": {
+            "translatedHash": "2969ac3ebf4a923c43c933c429b546be27da1d11133e6571d270f2d8ce3efac6",
+            "updatedAt": "2026-02-25T00:48:02.190Z"
+          },
+          "pl": {
+            "translatedHash": "700acdd25d529937ef362db58c488b2bdd3551b91fb7ded3580777c9b3b9459a",
+            "updatedAt": "2026-02-25T00:48:02.653Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "619a9a82946eb1ca2c13695daa766092bc139d63a9c001d063ad2df356ab8529",
+        "langs": {
+          "es": {
+            "translatedHash": "9c9a8d0385055d4ed30e0163e36e226956387ee720f70d549cda1e2a1ca2492b",
+            "updatedAt": "2026-02-25T00:48:03.235Z"
+          },
+          "pl": {
+            "translatedHash": "5d1f7b69c7d7b107f279ccba61926a17386b2b8f0d2386ceba000a5f97d676b6",
+            "updatedAt": "2026-02-25T00:48:03.722Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e83a1aafb02f3ae52f29c8682a8f701ee84a960ecc3d2578a451feb426fc72e6",
+        "langs": {
+          "es": {
+            "translatedHash": "a41dc4bb5681fa07bbe417a56d55e4f2862e798445d0e21896e54f6cf3bf2b01",
+            "updatedAt": "2026-02-25T00:48:04.860Z"
+          },
+          "pl": {
+            "translatedHash": "c8490672d465939abab7985d984ac8a9dd27ec3eaed63e6005ad8b973ec52a93",
+            "updatedAt": "2026-02-25T00:48:06.571Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e83a1aafb02f3ae52f29c8682a8f701ee84a960ecc3d2578a451feb426fc72e6",
+        "langs": {
+          "es": {
+            "translatedHash": "a41dc4bb5681fa07bbe417a56d55e4f2862e798445d0e21896e54f6cf3bf2b01",
+            "updatedAt": "2026-02-25T00:48:07.620Z"
+          },
+          "pl": {
+            "translatedHash": "1b51f09effe55c4bf222e995f21665d2bb114f02eb83eb046318e16941651a35",
+            "updatedAt": "2026-02-25T00:48:08.670Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Taraco",
+  "name_pl": "Święty Tarakusz",
+  "feast_es": "El día once de octubre",
+  "feast_pl": "Jedenasty dzień października",
+  "summary_es": "Una lista de personas, que murieron durante el siglo IV, que han recibido reconocimiento como Beatos o Santos por la Iglesia Católica:",
+  "summary_pl": "Lista osób, które zmarły w IV wieku i które otrzymały uznanie jako Błogosławieni lub Święci przez Kościół Katolicki:",
+  "biography_es": "Una lista de personas, que murieron durante el siglo IV, que han recibido reconocimiento como Beatos o Santos por la Iglesia Católica:",
+  "biography_pl": "Lista osób, które zmarły w IV wieku, a które otrzymały uznanie jako Błogosławieni lub Święci przez Kościół katolicki:"
+}

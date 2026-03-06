@@ -1,0 +1,48 @@
+{
+  "id": "05-29_saint_paul_vi_pope_optional_memorial",
+  "name": "Saint Paul VI, Pope—Optional Memorial",
+  "mmdd": "05-29",
+  "feast": "The Twenty-Nineth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-29_saint_paul_vi_pope_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1533ca887cfb108edaeec6c65f80d201974fa885ca16b142135405baa38cb8c1",
+        "langs": {
+          "es": {
+            "translatedHash": "c9b6c86c3e18ed78695e3bd4ac1b767495c1c1222e5e799e06b89210551ecacb",
+            "updatedAt": "2026-02-24T23:33:36.882Z"
+          },
+          "pl": {
+            "translatedHash": "749b0fc06ffd908f22c8a78dba0f5faded57e95e36b75ce51d9381e22ed0a6b0",
+            "updatedAt": "2026-02-24T23:33:37.779Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cd1153c8ab5618a3a54f8a9049cb12fded468dd15acad980ba3992ac475e85c9",
+        "langs": {
+          "es": {
+            "translatedHash": "29b051bd05095ca47fb8371b19d8b77d99a3a9bf5f78fdabba9ab751a8b67016",
+            "updatedAt": "2026-02-24T23:33:38.514Z"
+          },
+          "pl": {
+            "translatedHash": "7da8ba609fb54e40738f2087a1db3241faa389a7b48525dd875fe2478d40cde9",
+            "updatedAt": "2026-02-24T23:33:39.139Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pablo VI, Papa—Memoria Opcional",
+  "name_pl": "Święty Paweł VI, Papież — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Noveno Día de Mayo",
+  "feast_pl": "Dwudziesty dziewiąty dzień maja"
+}

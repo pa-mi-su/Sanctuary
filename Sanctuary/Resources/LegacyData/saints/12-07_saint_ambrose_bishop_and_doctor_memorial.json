@@ -1,0 +1,48 @@
+{
+  "id": "12-07_saint_ambrose_bishop_and_doctor_memorial",
+  "name": "Saint Ambrose, Bishop and Doctor—Memorial",
+  "mmdd": "12-07",
+  "feast": "The Seventh Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-07_saint_ambrose_bishop_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d85dfee20e32f2416a3dcbd85bbd1edffdbf4d1b78a9fa711c74c229b55fde4d",
+        "langs": {
+          "es": {
+            "translatedHash": "5657a5bc6b19e906818d2ac7144f1aeacee8e654581faf4b0b62af0ba1b8f3e4",
+            "updatedAt": "2026-02-25T01:21:23.346Z"
+          },
+          "pl": {
+            "translatedHash": "d84e4113f1555d534982c29944a2cfe6054b107f620405d669a49a56b94663e3",
+            "updatedAt": "2026-02-25T01:21:24.220Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "340a14b7453e447e236ea2da8c9a866be8d0bd84c3befa24eb5155b60bc410a0",
+        "langs": {
+          "es": {
+            "translatedHash": "9b11c709d22afd83b5ebd11773880723d3b70d50e3155f7dfe4926e613df3d73",
+            "updatedAt": "2026-02-25T01:21:24.777Z"
+          },
+          "pl": {
+            "translatedHash": "82a7381acf78723e826d3785f009c1235b69ce5bd03dfb06bb07cba3fc5c0b4c",
+            "updatedAt": "2026-02-25T01:21:25.376Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ambrosio, Obispo y Doctor—Memorial",
+  "name_pl": "Święty Ambroży, Biskup i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El séptimo día de diciembre",
+  "feast_pl": "Siódmy dzień grudnia"
+}

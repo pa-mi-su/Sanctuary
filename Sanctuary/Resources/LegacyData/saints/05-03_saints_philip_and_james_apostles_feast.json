@@ -1,0 +1,48 @@
+{
+  "id": "05-03_saints_philip_and_james_apostles_feast",
+  "name": "Saints Philip and James, Apostles—Feast",
+  "mmdd": "05-03",
+  "feast": "The Third Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Peter"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-03_saints_philip_and_james_apostles_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "24ded88bcc8f1b9172c0e2d60a20af9dff896e700aa2d659b9a85d5bccbba333",
+        "langs": {
+          "es": {
+            "translatedHash": "b781739a84081de7f3d6291e7dbdd0b0f0ec26c7b096b994a279647a4127b1dd",
+            "updatedAt": "2026-02-24T23:19:43.065Z"
+          },
+          "pl": {
+            "translatedHash": "bf50284aba53083ff8365273a618927466b8c7a366864a16e6731e75f3b33a8b",
+            "updatedAt": "2026-02-24T23:19:43.898Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ac230ffbe3c47d910eed24e649408d56aa4fa91c6623d4d5cec086a5941357b5",
+        "langs": {
+          "es": {
+            "translatedHash": "eb29110de8bf941fea65f80120418c5e355481d8513fb2d9568bc3ff9e8cf323",
+            "updatedAt": "2026-02-24T23:19:44.393Z"
+          },
+          "pl": {
+            "translatedHash": "21903ffdec17d975fb588a9a624ee1cc53e6d3124acf293061deccac518924af",
+            "updatedAt": "2026-02-24T23:19:45.455Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Felipe y Santiago, Apóstoles—Fiesta",
+  "name_pl": "Święci Filip i Jakub, Apostołowie — Uroczystość",
+  "feast_es": "El Tercer Día de Mayo",
+  "feast_pl": "Trzeci Dzień Maja"
+}

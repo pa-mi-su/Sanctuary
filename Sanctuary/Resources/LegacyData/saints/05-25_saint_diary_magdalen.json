@@ -1,0 +1,79 @@
+{
+  "id": "05-25_saint_diary_magdalen",
+  "name": "Saint Diary Magdalen",
+  "mmdd": "05-25",
+  "feast": "The Twenty-Fifth Day of May",
+  "summary": "Mount Saint Canice was a Roman Catholic former convent that was located in Sandy Bay, Hobart, Tasmania, Australia and run by the Congregation of Our Lady of Charity of the Good Shepherd, commonly called the Sisters of the Good Shepherd, from 1893 to 1974.",
+  "biography": "Mount Saint Canice was a Roman Catholic former convent that was located in Sandy Bay, Hobart, Tasmania, Australia and run by the Congregation of Our Lady of Charity of the Good Shepherd, commonly called the Sisters of the Good Shepherd, from 1893 to 1974.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Saint_Canice",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-25_saint_diary_magdalen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "38256304db4da98a830aeac0fda8622656dc583e4afa0d0a55cd6e713b28b55f",
+        "langs": {
+          "es": {
+            "translatedHash": "a77cdbb0445e28818b57aa66a7d5c36ce8360ea4fc28c689d4f9644a98b4b39a",
+            "updatedAt": "2026-02-24T23:31:32.961Z"
+          },
+          "pl": {
+            "translatedHash": "70a2dd1faee1255fb125a9170c693f436bc440ae6540c91040d237d8b84cf9dc",
+            "updatedAt": "2026-02-24T23:31:33.620Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "122161132b62d9dc09ce59643a656da0ec5039a9478d8107eed1324eff738414",
+        "langs": {
+          "es": {
+            "translatedHash": "f6b257fc9ddef8ccdd4fb9ba62fa222cc44ab69cd8fdf614cc6305aa3ce05ff3",
+            "updatedAt": "2026-02-24T23:31:34.261Z"
+          },
+          "pl": {
+            "translatedHash": "8aba5a2190b380083ec85d79d87bc3cedbbc48a3475506f0f920d72e197bff5f",
+            "updatedAt": "2026-02-24T23:31:35.062Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3784db768d61f31cbba6bc0eefaa3613af7ffba680620373b714ad1c53a9da3a",
+        "langs": {
+          "es": {
+            "translatedHash": "250aeda592dec1e576e6693a65818e9478276dba5fe39998558aabe0497ce7de",
+            "updatedAt": "2026-02-24T23:31:36.344Z"
+          },
+          "pl": {
+            "translatedHash": "58c73737211066fb2f6c1bd6581cd1e19f7338d85879e0f2a2d6842820dbc6e9",
+            "updatedAt": "2026-02-24T23:31:37.819Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3784db768d61f31cbba6bc0eefaa3613af7ffba680620373b714ad1c53a9da3a",
+        "langs": {
+          "es": {
+            "translatedHash": "250aeda592dec1e576e6693a65818e9478276dba5fe39998558aabe0497ce7de",
+            "updatedAt": "2026-02-24T23:31:39.269Z"
+          },
+          "pl": {
+            "translatedHash": "a8b703cf8e31de02d88737574e7bc9d7380dedb1d248e242d69fd6f333f63ded",
+            "updatedAt": "2026-02-24T23:31:41.395Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Diario de Santa Magdalena",
+  "name_pl": "Święty Pamiętnik Magdaleny",
+  "feast_es": "El Vigésimo Quinto Día de Mayo",
+  "feast_pl": "Dwudziesty piąty dzień maja",
+  "summary_es": "El Monte Santa Canicia fue un antiguo convento católico romano que se encontraba en Sandy Bay, Hobart, Tasmania, Australia, y fue administrado por la Congregación de Nuestra Señora de la Caridad del Buen Pastor, comúnmente llamada las Hermanas del Buen Pastor, desde 1893 hasta 1974.",
+  "summary_pl": "Mount Saint Canice był byłym klasztorem rzymskokatolickim, który znajdował się w Sandy Bay, Hobart, Tasmania, Australia, i był prowadzony przez Zgromadzenie Matki Bożej Miłosierdzia Dobrego Pasterza, powszechnie nazywane Siostrami Dobrego Pasterza, od 1893 do 1974 roku.",
+  "biography_es": "El Monte Santa Canicia fue un antiguo convento católico romano que se encontraba en Sandy Bay, Hobart, Tasmania, Australia, y fue administrado por la Congregación de Nuestra Señora de la Caridad del Buen Pastor, comúnmente llamada las Hermanas del Buen Pastor, desde 1893 hasta 1974.",
+  "biography_pl": "Mount Saint Canice był dawnym klasztorem rzymskokatolickim, który znajdował się w Sandy Bay, Hobart, Tasmania, Australia, i był prowadzony przez Zgromadzenie Matki Bożej Miłosierdzia Dobrego Pasterza, powszechnie zwane Siostrami Dobrego Pasterza, od 1893 do 1974 roku."
+}

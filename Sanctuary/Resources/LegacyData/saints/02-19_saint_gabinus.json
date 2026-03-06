@@ -1,0 +1,78 @@
+{
+  "id": "02-19_saint_gabinus",
+  "name": "Saint Gabinus",
+  "mmdd": "02-19",
+  "feast": "The Ninteenth Day of February",
+  "summary": "Saint Gabinus is the title given to two personages.Saint Gabinus, who died as a martyr at Porto Torres, Sardinia, Italy sometime in the second century under Emperor Hadrian. He was martyred alongside a Saint Crispulus. His feast day is May 30, along with Crispulus, in the Roman Martyrology, the official though professedly incomplete list of saints recognized by the Roman Catholic Church. According to a twelfth-century Passio, Gabinus was a Roman soldier put in charge of a priest and a deacon imprisoned for their faith, they converted him to Christianity, and all three died as martyrs. Each year on 3 May three wooden statues representing the three martyrs are taken in procession from the Basilica of Saint Gabinus, the largest and oldest of the Romanesque church of Sardinia, to a little church where there are three rock-cut tombs of Roman times. in which the statues are placed until Pentecost. The little church then becomes a place of pilgrimage until the statues are return to the basilica in another procession on Pentecost evening, after which the little church remains closed until the following 3 May.\nSaint Gabinus, said to be the father of Saint Susanna and brother of Pope Caius (283-296), and, though a relative of Emperor Diocletian to have been beheaded in 296 for refusing to sacrifice to the pagan gods. His relics are venerated in Holy Trinity church in Lyon, France, where his feast day is celebrated on 19 February and is also included on that date in the Roman Martyrology.",
+  "biography": "Saint Gabinus, who died as a martyr at Porto Torres, Sardinia, Italy (the ancient Turris) sometime in the second century under Emperor Hadrian. He was martyred alongside a Saint Crispulus. His feast day is May 30, along with Crispulus, in the Roman Martyrology, the official though professedly incomplete list of saints recognized by the Roman Catholic Church. According to a twelfth-century Passio, Gabinus was a Roman soldier put in charge of a priest and a deacon imprisoned for their faith, they converted him to Christianity, and all three died as martyrs. Each year on 3 May three wooden statues representing the three martyrs are taken in procession from the Basilica of Saint Gabinus (Basilica di San Gavino), the largest and oldest of the Romanesque church of Sardinia, to a little church where there are three rock-cut tombs of Roman times. in which the statues are placed until Pentecost. The little church then becomes a place of pilgrimage until the statues are return to the basilica in another procession on Pentecost evening, after which the little church remains closed until the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gabinus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-19_saint_gabinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1e9447c3ef85d00dd1be7ad0378231f32b96e953192deec154d4e02ff2aa377f",
+        "langs": {
+          "es": {
+            "translatedHash": "f1e4fcdb2058ace201874adda8ed958ffc605b045fa62bafeb48f76f8972678b",
+            "updatedAt": "2026-02-24T22:37:52.014Z"
+          },
+          "pl": {
+            "translatedHash": "bf57e2666a29ce1d4d83b6be4a1ea2ab094f2c9e3ebbbf821b09e39434cdf5ca",
+            "updatedAt": "2026-02-24T22:37:52.608Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "61241b31bc9c41d15147b44c52bd2d3b268e315d61f690556304863da99d4c48",
+        "langs": {
+          "es": {
+            "translatedHash": "46b764d41dcc46bc7934f7e717f31af6066663067ed9c0522898799b6570cf03",
+            "updatedAt": "2026-02-24T22:37:53.356Z"
+          },
+          "pl": {
+            "translatedHash": "e45258287b005f33d5b772b2a687cb32d5d657c2dd278ef48e3670a9aaef88ff",
+            "updatedAt": "2026-02-24T22:37:54.025Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "48e6ccf0a18d46c10467b675a75c6ff404ead0c6ca0c3a8e4db188fa2cabcc43",
+        "langs": {
+          "es": {
+            "translatedHash": "369397e7bd83801c85f770e5e97359c9e588cdec10f1c891a9d89764a94be694",
+            "updatedAt": "2026-02-24T22:37:59.990Z"
+          },
+          "pl": {
+            "translatedHash": "3f931d29fa4f5dd3e925274370b858d26718bc0b49d22c3e90d7341fe9f38a7e",
+            "updatedAt": "2026-02-24T22:38:08.848Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "5ff1dd5883653780a73e54f6c1bc62136967ea2b0bc9f3aa197a1c968afc4d60",
+        "langs": {
+          "es": {
+            "translatedHash": "8a98ee253d4405a06e2c872492035e0d263f3a3428b8fc7999c7a94c0e973693",
+            "updatedAt": "2026-02-24T22:38:14.031Z"
+          },
+          "pl": {
+            "translatedHash": "f38f83a059d6cd44d954dc77ca641854758718c59075beda83a49d4515291d27",
+            "updatedAt": "2026-02-24T22:38:19.639Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gabino",
+  "name_pl": "Święty Gabin",
+  "feast_es": "El Día Decimonoveno de Febrero",
+  "feast_pl": "Dziewiętnasty Dzień Lutego",
+  "summary_es": "San Gabino es el título dado a dos personajes.  \nSan Gabino, que murió como mártir en Porto Torres, Cerdeña, Italia, en algún momento del siglo II bajo el emperador Adriano. Fue martirizado junto con un San Crispulo. Su fiesta es el 30 de mayo, junto con Crispulo, en el Martirologio Romano, la lista oficial aunque supuestamente incompleta de santos reconocidos por la Iglesia Católica Romana. Según una Passio del siglo XII, Gabino era un soldado romano encargado de un sacerdote y un diácono encarcelados por su fe; ellos lo convirtieron al cristianismo, y los tres murieron como mártires. Cada año, el 3 de mayo, tres estatuas de madera que representan a los tres mártires son llevadas en procesión desde la Basílica de San Gabino, la iglesia románica más grande y antigua de Cerdeña, hasta una pequeña iglesia donde hay tres tumbas excavadas en la roca de época romana, en las cuales se colocan las estatuas hasta Pentecostés. La pequeña iglesia se convierte entonces en un lugar de peregrinación hasta que las estatuas son devueltas a la basílica en otra procesión en la tarde de Pentecostés, después de lo cual la pequeña iglesia permanece cerrada hasta el siguiente 3 de mayo.  \n\nSan Gabino, dicho ser el padre de Santa Susana y hermano del Papa Cayo (283-296), y, aunque pariente del emperador Diocleciano, fue decapitado en 296 por negarse a sacrificar a los dioses paganos. Sus reliquias son veneradas en la iglesia de la Santísima Trinidad en Lyon, Francia, donde su fiesta se celebra el 19 de febrero y también está incluida en esa fecha en el Martirologio Romano.",
+  "summary_pl": "Święty Gabinus to tytuł nadany dwóm postaciom.  \nŚwięty Gabinus, który zginął jako męczennik w Porto Torres na Sardynii we Włoszech, gdzieś w II wieku za panowania cesarza Hadriana. Został zamęczony wraz ze św. Crispulusem. Jego wspomnienie obchodzone jest 30 maja, razem z Crispulusem, w Martyrologium Rzymskim, oficjalnym, choć rzekomo niepełnym wykazie świętych uznawanych przez Kościół katolicki. Według Passio z XII wieku, Gabinus był rzymskim żołnierzem, któremu powierzono opiekę nad kapłanem i diakonem uwięzionymi za wiarę; oni nawrócili go na chrześcijaństwo, a wszyscy trzej zginęli jako męczennicy. Każdego roku 3 maja trzy drewniane figury przedstawiające trzech męczenników są niesione w procesji z Bazyliki św. Gabinusa, największego i najstarszego kościoła romańskiego na Sardynii, do małego kościoła, gdzie znajdują się trzy grobowce wykute w skale z czasów rzymskich. Tam figury pozostają aż do Zielonych Świątek. Mały kościół staje się wtedy miejscem pielgrzymek, aż do powrotu figur do bazyliki w kolejnej procesji w wieczór Zielonych Świątek, po czym mały kościół pozostaje zamknięty aż do następnego 3 maja.  \nŚwięty Gabinus, uważany za ojca św. Susanny i brata papieża Kajusa (283-296), a także, choć był krewnym cesarza Dioklecjana, został ścięty w 296 roku za odmowę składania ofiar pogańskim bogom. Jego relikwie są czczone w kościele Trójcy Świętej w Lyonie we Francji, gdzie jego wspomnienie obchodzone jest 19 lutego i również jest uwzględnione w Martyrologium Rzymskim na ten dzień.",
+  "biography_es": "San Gabino, quien murió como mártir en Porto Torres, Cerdeña, Italia (la antigua Turris) en algún momento del siglo II bajo el emperador Adriano. Fue martirizado junto con un San Crispulo. Su fiesta se celebra el 30 de mayo, junto con Crispulo, en el Martirologio Romano, la lista oficial aunque reconocidamente incompleta de santos reconocidos por la Iglesia Católica Romana. \n\nSegún una Passio del siglo XII, Gabino era un soldado romano encargado de vigilar a un sacerdote y a un diácono encarcelados por su fe; ellos lo convirtieron al cristianismo, y los tres murieron como mártires. \n\nCada año, el 3 de mayo, tres estatuas de madera que representan a los tres mártires son llevadas en procesión desde la Basílica de San Gabino (Basilica di San Gavino), la iglesia románica más grande y antigua de Cerdeña, hasta una pequeña iglesia donde hay tres tumbas excavadas en la roca de época romana, en las cuales se colocan las estatuas hasta Pentecostés. \n\nLa pequeña iglesia se convierte entonces en un lugar de peregrinación hasta que las estatuas son regresadas a la basílica en otra procesión en la tarde de Pentecostés, después de lo cual la pequeña iglesia permanece cerrada hasta el...",
+  "biography_pl": "Święty Gabinus, który zmarł jako męczennik w Porto Torres na Sardynii we Włoszech (dawna Turris) gdzieś w II wieku za panowania cesarza Hadriana. Został zamęczony wraz ze świętym Crispulusem. Jego wspomnienie obchodzone jest 30 maja, razem z Crispulusem, w Martyrologium Rzymskim, oficjalnym, choć świadomie niepełnym wykazie świętych uznawanych przez Kościół katolicki. Według Passio z XII wieku, Gabinus był rzymskim żołnierzem odpowiedzialnym za pilnowanie kapłana i diakona uwięzionych za wiarę, którzy nawrócili go na chrześcijaństwo, a wszyscy trzej zginęli jako męczennicy. Każdego roku 3 maja trzy drewniane figury przedstawiające trzech męczenników są niesione w procesji z Bazyliki św. Gabinusa (Basilica di San Gavino), największego i najstarszego kościoła romańskiego na Sardynii, do małego kościoła, gdzie znajdują się trzy wykute w skale groby z czasów rzymskich, w których figury są umieszczane aż do Zielonych Świątek. Mały kościół staje się wtedy miejscem pielgrzymek, aż do powrotu figur do bazyliki w kolejnej procesji w wieczór Zielonych Świątek, po czym mały kościół pozostaje zamknięty aż do..."
+}

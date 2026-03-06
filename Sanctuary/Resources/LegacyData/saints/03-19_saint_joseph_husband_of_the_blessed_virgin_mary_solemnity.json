@@ -1,0 +1,48 @@
+{
+  "id": "03-19_saint_joseph_husband_of_the_blessed_virgin_mary_solemnity",
+  "name": "Saint Joseph Husband of the Blessed Virgin Mary—Solemnity",
+  "mmdd": "03-19",
+  "feast": "The Nineteenth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Joseph"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-19_saint_joseph_husband_of_the_blessed_virgin_mary_solemnity.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3bf314178ac66be1e3e5c7a22eeacfe4f71bcb22642d7b68b2a4e6940240193a",
+        "langs": {
+          "es": {
+            "translatedHash": "78e0d34b63d1f100d1dc3fdd52b59862552b8d37302429e0f010f0c17e6727e1",
+            "updatedAt": "2026-02-24T22:56:05.057Z"
+          },
+          "pl": {
+            "translatedHash": "e4f9489b6088e6cb88f4cdcefe9f5c218974fd9aa62ae11b5603a24c0a6142fc",
+            "updatedAt": "2026-02-24T22:56:05.927Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2a47ce7612edfe8f3033982c627bfe6bda6860de41bba431a4a17db7d401f4d4",
+        "langs": {
+          "es": {
+            "translatedHash": "cef0493d0a2f1fe71f50e280bb6a65d50ec6980c9350be23be8ef1d898da38eb",
+            "updatedAt": "2026-02-24T22:56:06.535Z"
+          },
+          "pl": {
+            "translatedHash": "ed1e6ec56e736ba32cc92d3eae5b3c7d890405950279b746e10ddb9b39e16de9",
+            "updatedAt": "2026-02-24T22:56:06.986Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San José, esposo de la Santísima Virgen María—Solemnidad",
+  "name_pl": "Święty Józef, Oblubieniec Najświętszej Maryi Panny — Uroczystość",
+  "feast_es": "El Día Diecinueve de Marzo",
+  "feast_pl": "Dziewiętnasty Dzień Marca"
+}

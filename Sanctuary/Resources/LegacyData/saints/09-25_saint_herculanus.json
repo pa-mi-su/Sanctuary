@@ -1,0 +1,79 @@
+{
+  "id": "09-25_saint_herculanus",
+  "name": "Saint Herculanus",
+  "mmdd": "09-25",
+  "feast": "The Twenty-Fifth Day of September",
+  "summary": "Herculanus of Perugia was a bishop of Perugia. He was canonized as a saint by the Catholic Church and is recognised as patron saint of Perugia. His main feast day is November 7; his second feast is celebrated on March 1. According to Pope Gregory the Great in his Dialogues, Herculanus suffered martyrdom when Totila, king of the Ostrogoths, captured Perugia in 549.",
+  "biography": "Herculanus of Perugia was a bishop of Perugia. He was canonized as a saint by the Catholic Church and is recognised as patron saint of Perugia. His main feast day is November 7; his second feast is celebrated on March 1. According to Pope Gregory the Great in his Dialogues, Herculanus suffered martyrdom when Totila, king of the Ostrogoths, captured Perugia in 549.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herculanus_of_Perugia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-25_saint_herculanus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "96bb47bb36d84054966440b75fd9e4568f3c5f75b6a4e0e434b64e94f879e83b",
+        "langs": {
+          "es": {
+            "translatedHash": "cc570e0515171e08afa5bad012b23f7e185c2b1da3fad95301b1f40d04b89fc8",
+            "updatedAt": "2026-02-25T00:36:42.458Z"
+          },
+          "pl": {
+            "translatedHash": "12eca8315a80ed30f9babd7a8f5586e84fca0c78c190cd23470565941c98f03f",
+            "updatedAt": "2026-02-25T00:36:43.075Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "56b60333435ff09bd15655eb7d109a1957cefaffeae8d369a6eb662c7e65b42d",
+        "langs": {
+          "es": {
+            "translatedHash": "8b2d5797339cb1bebb0991eb4437302c92558994897aa4a070c1bd16a7608a04",
+            "updatedAt": "2026-02-25T00:36:43.694Z"
+          },
+          "pl": {
+            "translatedHash": "6048fd0af18f8d2d04880c0193ad93067766cd2d939b2e7af991ac9c914ef003",
+            "updatedAt": "2026-02-25T00:36:44.327Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a65056591b3484353615239b35fb30faa35f85ad4d4e37f8772f2439767e7792",
+        "langs": {
+          "es": {
+            "translatedHash": "43ce7e26b53a54d66f43c22ede1d974d45ed117d2aa0d53dd6d10deb2098bb56",
+            "updatedAt": "2026-02-25T00:36:46.133Z"
+          },
+          "pl": {
+            "translatedHash": "95c79b72d829297808b39fb5eb57766a9f98891fd1aea150b1b6f283ec78b576",
+            "updatedAt": "2026-02-25T00:36:49.273Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a65056591b3484353615239b35fb30faa35f85ad4d4e37f8772f2439767e7792",
+        "langs": {
+          "es": {
+            "translatedHash": "43ce7e26b53a54d66f43c22ede1d974d45ed117d2aa0d53dd6d10deb2098bb56",
+            "updatedAt": "2026-02-25T00:37:23.487Z"
+          },
+          "pl": {
+            "translatedHash": "4c62d6d632467b625a8cd37d509bce1dc362c7a2c6ec1ab6cbfce6c58c5911de",
+            "updatedAt": "2026-02-25T00:37:26.092Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Herculano",
+  "name_pl": "Święty Herculanusz",
+  "feast_es": "El vigésimo quinto día de septiembre",
+  "feast_pl": "Dwudziesty piąty dzień września",
+  "summary_es": "Hercúlano de Perugia fue obispo de Perugia. Fue canonizado como santo por la Iglesia Católica y es reconocido como santo patrón de Perugia. Su fiesta principal es el 7 de noviembre; su segunda fiesta se celebra el 1 de marzo. Según el Papa Gregorio Magno en sus Diálogos, Hercúlano sufrió el martirio cuando Totila, rey de los ostrogodos, capturó Perugia en el año 549.",
+  "summary_pl": "Herculan z Perugii był biskupem Perugii. Został kanonizowany jako święty przez Kościół katolicki i jest uznawany za patrona Perugii. Jego główne święto obchodzone jest 7 listopada; drugie święto przypada na 1 marca. Według papieża Grzegorza Wielkiego w jego Dialogach, Herculan poniósł męczeńską śmierć, gdy Totila, król Ostrogotów, zdobył Perugię w 549 roku.",
+  "biography_es": "Hercúlano de Perugia fue obispo de Perugia. Fue canonizado como santo por la Iglesia Católica y es reconocido como santo patrón de Perugia. Su fiesta principal es el 7 de noviembre; su segunda fiesta se celebra el 1 de marzo. Según el Papa Gregorio Magno en sus Diálogos, Hercúlano sufrió el martirio cuando Totila, rey de los ostrogodos, capturó Perugia en el año 549.",
+  "biography_pl": "Herkulan z Perugii był biskupem Perugii. Został kanonizowany jako święty przez Kościół katolicki i jest uznawany za patrona Perugii. Jego główne święto obchodzone jest 7 listopada; drugie święto przypada na 1 marca. Według papieża Grzegorza Wielkiego w jego Dialogach, Herkulan poniósł męczeńską śmierć, gdy Totila, król Ostrogotów, zdobył Perugię w 549 roku."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "03-01_saint_eudoxia",
+  "name": "Saint Eudoxia",
+  "mmdd": "03-01",
+  "feast": "The First Day of March",
+  "summary": "Eudoxia of Moscow, also known by her monastic name Euphrosyne, was the grand princess of Moscow between 1366 and 1389 during her marriage to Dmitry Donskoy.",
+  "biography": "Eudoxia of Moscow (Russian: Евдокия Дмитриевна, romanized: Yevdokia Dmitriyevna; 1353 – 1407), also known by her monastic name Euphrosyne (Russian: Евфросиния), was the grand princess of Moscow between 1366 and 1389 during her marriage to Dmitry Donskoy.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eudoxia_of_Moscow"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-01_saint_eudoxia.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0364c3909e398b7af811bba0ebf0d2acb7137ca663b216596568252aba7c88b3",
+        "langs": {
+          "es": {
+            "translatedHash": "045e390e3ab5aedfbaed49db585c7d6366f9162ee454d76ae2433f6487313b7e",
+            "updatedAt": "2026-02-24T22:45:54.026Z"
+          },
+          "pl": {
+            "translatedHash": "7e07b9f0ba227fd662fd15d9477e6d4e960677204d4bfa081ec4ad6db7cd95cb",
+            "updatedAt": "2026-02-24T22:45:54.794Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4600f9941905f045445639f7f6ac293ac37cdbda0d81547c3721489fbc459b9c",
+        "langs": {
+          "es": {
+            "translatedHash": "c7cf1017ce22024c8a48b381306415e193bad935858e35842bc506dbb1d69070",
+            "updatedAt": "2026-02-24T22:45:55.447Z"
+          },
+          "pl": {
+            "translatedHash": "d20eaa327b6d941afb337d9b26fa6c92687c96d44306372f74dc9a2374836ab7",
+            "updatedAt": "2026-02-24T22:45:56.115Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ce44d2481b0d4b255e03d98b5dfa1c394b01d4e9c375fd70770bc10619bfa58d",
+        "langs": {
+          "es": {
+            "translatedHash": "fd931ec84a14be52a1e830561571b0c3764740f939d088717ec8dd454aced25c",
+            "updatedAt": "2026-02-24T22:45:57.149Z"
+          },
+          "pl": {
+            "translatedHash": "2c9a1c12ff8df9a33fff5f33e21f5c0e072573fe369d1e5ec1fb8f73f258ceef",
+            "updatedAt": "2026-02-24T22:45:59.976Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f8fab4b047dc7345c04e7380d897652912fde0e0407198ab1ab4230ce045a6ea",
+        "langs": {
+          "es": {
+            "translatedHash": "8b681aa2f6ee479c7637d04c92dfedff3c464a0bd798058cc4c2609d35f33ade",
+            "updatedAt": "2026-02-24T22:46:01.621Z"
+          },
+          "pl": {
+            "translatedHash": "88b2815516cbc21dccf4b4789d3b449000ebd7a3e6bdf6aac348bd3bec0da7c1",
+            "updatedAt": "2026-02-24T22:46:04.278Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Eudoxia",
+  "name_pl": "Święta Eudoksjo",
+  "feast_es": "El Primer Día de Marzo",
+  "feast_pl": "Pierwszy Dzień Marca",
+  "summary_es": "Eudoxia de Moscú, también conocida por su nombre monástico Eufrosina, fue la gran princesa de Moscú entre 1366 y 1389 durante su matrimonio con Dmitri Donskói.",
+  "summary_pl": "Eudoksia Moskiewska, znana również pod swoim imiennikiem zakonnym Eufrozyną, była wielką księżną moskiewską w latach 1366–1389 podczas swojego małżeństwa z Dmitrym Dońskim.",
+  "biography_es": "Eudoxia de Moscú (ruso: Евдокия Дмитриевна, romanizado: Yevdokia Dmitriyevna; 1353 – 1407), también conocida por su nombre monástico Eufrosina (ruso: Евфросиния), fue la gran princesa de Moscú entre 1366 y 1389 durante su matrimonio con Dmitri Donskói.",
+  "biography_pl": "Eudoksia z Moskwy (rosyjski: Евдокия Дмитриевна, romanizacja: Yevdokia Dmitriyevna; 1353 – 1407), znana również pod swoim imieniem zakonnym Eufrozyna (rosyjski: Евфросиния), była wielką księżną moskiewską w latach 1366–1389 podczas swojego małżeństwa z Dmitrijem Dońskim."
+}

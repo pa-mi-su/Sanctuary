@@ -1,0 +1,79 @@
+{
+  "id": "05-23_saint_epitacius",
+  "name": "Saint Epitacius",
+  "mmdd": "05-23",
+  "feast": "The Twenty-Third Day of May",
+  "summary": "This is an incomplete list of humans and angels whom the Catholic Church has canonized as saints. According to Catholic theology, all saints enjoy the beatific vision. Many of the saints listed here are found in the General Roman Calendar, while others may also be found in the Roman Martyrology; still others are particular to local places or religious institutes and their recognition does not extend to the larger worldwide church.",
+  "biography": "This is an incomplete list of humans and angels whom the Catholic Church has canonized as saints. According to Catholic theology, all saints enjoy the beatific vision. Many of the saints listed here are found in the General Roman Calendar, while others may also be found in the Roman Martyrology; still others are particular to local places or religious institutes and their recognition does not extend to the larger worldwide church.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Catholic_saints",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-23_saint_epitacius.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "276ab6d449894f3adebbd8b9616179365502a90f746e70c0b5c62ae1fb26cfb1",
+        "langs": {
+          "es": {
+            "translatedHash": "de0cd62936f06cdddab21d3fc680c5ddc29cceabb2ad6555059bd80b843c50fb",
+            "updatedAt": "2026-02-24T23:30:49.213Z"
+          },
+          "pl": {
+            "translatedHash": "0ddc4138f1fd54a13b03cd8c61479e8051884ddd126ca539f9dc97dc57b257cc",
+            "updatedAt": "2026-02-24T23:30:49.711Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "309584e89cdf4b5043a5536f4601607162762cbd3cf163920426e5aeda3af21d",
+        "langs": {
+          "es": {
+            "translatedHash": "d8b51499f7a9fea2ef156c0d4a42a6a97da8683adc582aa29b379819c40d8f23",
+            "updatedAt": "2026-02-24T23:30:50.604Z"
+          },
+          "pl": {
+            "translatedHash": "2300657aa77f58d33601e77fa65f0fdb26d78d0474d620ea0ddef55cbe7369aa",
+            "updatedAt": "2026-02-24T23:30:51.259Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "79914d22ec496efc6bf3140084758a7b1e44205ef4db2230ca1975becda6bd8b",
+        "langs": {
+          "es": {
+            "translatedHash": "186d8ee1a0014096689c1ec7de44739e53d42a173c3469ff4d9cd59440a16c03",
+            "updatedAt": "2026-02-24T23:30:52.955Z"
+          },
+          "pl": {
+            "translatedHash": "3b02166bd54f791823f42875d246793396aef10ce98a48909c3311388fa8e548",
+            "updatedAt": "2026-02-24T23:30:55.728Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "79914d22ec496efc6bf3140084758a7b1e44205ef4db2230ca1975becda6bd8b",
+        "langs": {
+          "es": {
+            "translatedHash": "0ca731c5effb66c44b9b45f570fcc075f48736745581094133349879dff1cbfc",
+            "updatedAt": "2026-02-24T23:30:58.033Z"
+          },
+          "pl": {
+            "translatedHash": "3b02166bd54f791823f42875d246793396aef10ce98a48909c3311388fa8e548",
+            "updatedAt": "2026-02-24T23:31:00.417Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Epitacio",
+  "name_pl": "Święty Epitacjusz",
+  "feast_es": "El vigésimo tercer día de mayo",
+  "feast_pl": "Dwudziesty Trzeci Dzień Maja",
+  "summary_es": "Esta es una lista incompleta de humanos y ángeles que la Iglesia Católica ha canonizado como santos. Según la teología católica, todos los santos gozan de la visión beatífica. Muchos de los santos aquí listados se encuentran en el Calendario Romano General, mientras que otros también pueden encontrarse en el Martirologio Romano; otros más son particulares de lugares locales o institutos religiosos y su reconocimiento no se extiende a la Iglesia mundial en general.",
+  "summary_pl": "To jest niepełna lista ludzi i aniołów, których Kościół katolicki kanonizował jako świętych. Według teologii katolickiej wszyscy święci cieszą się wizją beatyfikującą. Wielu świętych wymienionych tutaj znajduje się w Ogólnym Kalendarzu Rzymskim, podczas gdy inni mogą być również wymienieni w Martyrologium Rzymskim; jeszcze inni są szczególni dla miejsc lokalnych lub instytutów zakonnych, a ich uznanie nie rozciąga się na szerszy Kościół powszechny.",
+  "biography_es": "Esta es una lista incompleta de humanos y ángeles que la Iglesia Católica ha canonizado como santos. Según la teología católica, todos los santos gozan de la visión beatífica. Muchos de los santos aquí listados se encuentran en el Calendario Romano General, mientras que otros también pueden encontrarse en el Martirologio Romano; otros más son particulares de lugares locales o institutos religiosos y su reconocimiento no se extiende a la iglesia mundial en general.",
+  "biography_pl": "To jest niepełna lista ludzi i aniołów, których Kościół katolicki kanonizował jako świętych. Według teologii katolickiej wszyscy święci cieszą się wizją beatyfikującą. Wielu świętych wymienionych tutaj znajduje się w Ogólnym Kalendarzu Rzymskim, podczas gdy inni mogą być również wymienieni w Martyrologium Rzymskim; jeszcze inni są szczególni dla miejsc lokalnych lub instytutów zakonnych, a ich uznanie nie rozciąga się na szerszy Kościół powszechny."
+}

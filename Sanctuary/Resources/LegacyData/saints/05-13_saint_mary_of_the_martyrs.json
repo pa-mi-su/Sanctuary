@@ -1,0 +1,79 @@
+{
+  "id": "05-13_saint_mary_of_the_martyrs",
+  "name": "Saint Mary of the Martyrs",
+  "mmdd": "05-13",
+  "feast": "The Thirteenth Day of May",
+  "summary": "The Pantheon is an ancient 2nd century Roman temple and, since AD 609, a Catholic church called the Basilica of St. Mary and the Martyrs in Rome, Italy. It is perhaps the most famous, and architecturally most influential, rotunda.",
+  "biography": "The Pantheon (UK: , US: ; Latin: Pantheum, from Ancient Greek  Πάνθειον (Pantheion) '[temple] of all the gods') is an ancient 2nd century Roman temple and, since AD 609, a Catholic church called the Basilica of St. Mary and the Martyrs (Italian: Basilica Santa Maria ad Martyres) in Rome, Italy. It is perhaps the most famous, and architecturally most influential, rotunda.\nThe Pantheon was built on the site of an earlier temple, which had been commissioned by Marcus Vipsanius Agrippa during the reign of Augustus (27 BC–AD 14). After the original burnt down, the present building was ordered by the emperor Hadrian and probably dedicated c. AD 126. Its date of construction is uncertain, because Hadrian chose to re-inscribe the new temple with Agrippa's original date inscription from the older temple.\nThe building is round in plan, except for the portico with large granite Corinthian columns (eight in the first rank and two groups of four behind) under a pediment. A rectangular vestibule links the porch to the rotunda, which is under a coffered concrete dome, with a central opening (oculus) to the sky. Almost two thousand years after it was built, the Pantheon's dome is still the world's...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pantheon%2C_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-13_saint_mary_of_the_martyrs.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9f3123469f8bf9eb12958f32592378851c66a405f5202ead12158a413c5a970b",
+        "langs": {
+          "es": {
+            "translatedHash": "2cfcdf3509a3d3f6eb2a0f8cd7c44a533ac9f64e8fc93b6821577639b1324048",
+            "updatedAt": "2026-02-24T23:24:27.046Z"
+          },
+          "pl": {
+            "translatedHash": "4567885a3c383bcacad705e98e939a874c53a8538bf9ea0829e71f12ebce23b2",
+            "updatedAt": "2026-02-24T23:24:27.776Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "275a40254552a0b6d764a69a2069c744f18e43e5af447b01a2e1c5205be1f4f6",
+        "langs": {
+          "es": {
+            "translatedHash": "7d6f3910611b6df59916b514a973fed10388d1c8f26968d6cc6592477dc45eaa",
+            "updatedAt": "2026-02-24T23:24:28.262Z"
+          },
+          "pl": {
+            "translatedHash": "ad21f4a9b2bf6b221bf3a8a0665fbe39a8af231e92e76b7e5072583c8099d58f",
+            "updatedAt": "2026-02-24T23:24:28.909Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d644520625760bd6152b5fd4ae7ca2dd3fd06db98f1556e22714d994ee3fb113",
+        "langs": {
+          "es": {
+            "translatedHash": "0ca6877256168d1b02d78ede6b80b62b3853da0c8046d7d7fa93cd33d3f986e1",
+            "updatedAt": "2026-02-24T23:24:30.163Z"
+          },
+          "pl": {
+            "translatedHash": "c810a4f0ac4723eb9c4a1a865f02ea7a776cd3dc1d3a423e996b191aa0876dc0",
+            "updatedAt": "2026-02-24T23:24:32.061Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "060e675170661a810541e414b802688be64786fd0c3f2c377c74fa482453161f",
+        "langs": {
+          "es": {
+            "translatedHash": "00fe13215b2dd6c0235d914afe426c7b27082668e2eeb2d766cb6d7ddf5ecf2f",
+            "updatedAt": "2026-02-24T23:24:38.550Z"
+          },
+          "pl": {
+            "translatedHash": "ec91b6c4d6cc1a5296ec245529777dbd1f1ce5c9440ce71236f40615464ead38",
+            "updatedAt": "2026-02-24T23:24:44.854Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María de los Mártires",
+  "name_pl": "Święta Maria Męczenników",
+  "feast_es": "El Decimotercer Día de Mayo",
+  "feast_pl": "Trzynasty Dzień Maja",
+  "summary_es": "El Panteón es un antiguo templo romano del siglo II y, desde el año 609 d.C., una iglesia católica llamada Basílica de Santa María y los Mártires en Roma, Italia. Es quizás la rotonda más famosa y arquitectónicamente más influyente.",
+  "summary_pl": "Panteon to starożytna świątynia rzymska z II wieku, a od 609 roku n.e. katolicki kościół zwany Bazyliką Świętej Marii i Męczenników w Rzymie, we Włoszech. Jest to być może najsłynniejsza i architektonicznie najbardziej wpływowa rotunda.",
+  "biography_es": "El Panteón (Reino Unido: , Estados Unidos: ; Latín: Pantheum, del griego antiguo Πάνθειον (Pantheion) '[templo] de todos los dioses') es un antiguo templo romano del siglo II y, desde el año 609 d.C., una iglesia católica llamada Basílica de Santa María y los Mártires (italiano: Basilica Santa Maria ad Martyres) en Roma, Italia. Es quizás la rotonda más famosa y arquitectónicamente más influyente.\n\nEl Panteón fue construido en el sitio de un templo anterior, que había sido encargado por Marco Vipsanio Agripa durante el reinado de Augusto (27 a.C.–14 d.C.). Después de que el original se incendiara, el edificio actual fue ordenado por el emperador Adriano y probablemente dedicado alrededor del año 126 d.C. Su fecha de construcción es incierta, porque Adriano eligió re-inscribir el nuevo templo con la inscripción de fecha original de Agripa del templo anterior.\n\nEl edificio es circular en planta, excepto por el pórtico con grandes columnas corintias de granito (ocho en la primera fila y dos grupos de cuatro detrás) bajo un frontón. Un vestíbulo rectangular conecta el pórtico con la rotonda, que está bajo una cúpula de concreto con casetones, con una abertura central (óculo) hacia el cielo. Casi dos mil años después de su construcción, la cúpula del Panteón sigue siendo la...",
+  "biography_pl": "Panteon (UK: , US: ; łac. Pantheum, od starogreckiego Πάνθειον (Pantheion) „[świątynia] wszystkich bogów”) jest starożytną świątynią rzymską z II wieku, a od 609 roku n.e. katolickim kościołem zwanym Bazyliką Matki Bożej i Męczenników (wł. Basilica Santa Maria ad Martyres) w Rzymie, we Włoszech. Jest to być może najsłynniejsza i architektonicznie najbardziej wpływowa rotunda.\n\nPanteon został zbudowany na miejscu wcześniejszej świątyni, którą zlecił Marcus Vipsanius Agrippa za panowania Augusta (27 p.n.e.–14 n.e.). Po pożarze oryginalnej budowli, obecny budynek został wzniesiony na rozkaz cesarza Hadriana i prawdopodobnie poświęcony około 126 roku n.e. Data jego budowy jest niepewna, ponieważ Hadrian zdecydował się ponownie umieścić na nowej świątyni oryginalną inskrypcję z datą Agrippy z wcześniejszej świątyni.\n\nBudynek ma plan okrągły, z wyjątkiem portyku z dużymi granitowymi kolumnami korynckimi (osiem w pierwszym rzędzie i dwie grupy po cztery za nimi) pod frontonem. Prostokątny przedsionek łączy ganek z rotundą, która znajduje się pod kasetonową kopułą betonową z centralnym otworem (okulus) na niebo. Prawie dwa tysiące lat po jej zbudowaniu, kopuła Panteonu wciąż jest największą na świecie..."
+}

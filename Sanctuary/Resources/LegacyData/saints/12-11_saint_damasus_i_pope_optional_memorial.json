@@ -1,0 +1,48 @@
+{
+  "id": "12-11_saint_damasus_i_pope_optional_memorial",
+  "name": "Saint Damasus I, Pope—Optional Memorial",
+  "mmdd": "12-11",
+  "feast": "The Eleventh Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_Fathers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-11_saint_damasus_i_pope_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2f7bb993ce4c609d23db2d8b9d1a2b85e152235f7d8686eee2b9271a34ef03c4",
+        "langs": {
+          "es": {
+            "translatedHash": "c2dd5a64ab89e655ca15db641580340cef2f05e5755d0ac6d0cbe4740b58edca",
+            "updatedAt": "2026-02-25T01:24:40.094Z"
+          },
+          "pl": {
+            "translatedHash": "da919c317f29f09f9389c3f35728bbaf7a3d6440b867416155609b08df7472f7",
+            "updatedAt": "2026-02-25T01:24:40.938Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "62f20c390ef4e2caa5cef9f2f90a88e3d7653b83d0671e8a4a3c6996502f84a2",
+        "langs": {
+          "es": {
+            "translatedHash": "00b94364d4747fd3c5c93022191d44be9c9a860a9ecfad69b87649ee270d0e7f",
+            "updatedAt": "2026-02-25T01:24:41.695Z"
+          },
+          "pl": {
+            "translatedHash": "d62152f48ef02c6d8fea6d18008bea6d5f096b3a26486d5d6129f3d64423aa86",
+            "updatedAt": "2026-02-25T01:24:42.329Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Dámaso I, Papa—Memoria Opcional",
+  "name_pl": "Święty Damasz I, papież — wspomnienie dowolne",
+  "feast_es": "El día once de diciembre",
+  "feast_pl": "Jedenasty Dzień Grudnia"
+}

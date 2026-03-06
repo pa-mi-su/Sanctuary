@@ -1,0 +1,79 @@
+{
+  "id": "11-22_saint_cecelia",
+  "name": "Saint Cecelia",
+  "mmdd": "11-22",
+  "feast": "The Twenty-Second Day of November",
+  "summary": "Saint Cecilia, also spelled Cecelia, was a Roman Christian virgin martyr, who is venerated in Catholic, Orthodox, Anglican, and some Lutheran churches, such as the Church of Sweden. She became the patron of music and musicians, it being written that, as the musicians played at her wedding, Cecilia \"sang in her heart to the Lord\". Musical compositions are dedicated to her, and her feast, on 22 November, is the occasion of concerts and musical festivals. She is also known as Cecilia of Rome.",
+  "biography": "Saint Cecilia (Latin: Sancta Caecilia), also spelled Cecelia, was a Roman Christian virgin martyr, who is venerated in Catholic, Orthodox, Anglican, and some Lutheran churches, such as the Church of Sweden. She became the patron of music and musicians, it being written that, as the musicians played at her wedding, Cecilia \"sang in her heart to the Lord\". Musical compositions are dedicated to her, and her feast, on 22 November, is the occasion of concerts and musical festivals. She is also known as Cecilia of Rome. Saint Cecilia is one of several virgin martyrs commemorated by name in the Canon of the Mass in the Latin Church. The church of Santa Cecilia in Trastevere, founded in the 3rd century by Pope Urban I, is believed to be on the site of the house where she lived and died. Life It is popularly supposed that Cecilia was a noble woman of Rome who, with her husband Valerian, his brother Tiburtius, and a Roman soldier named Maximus, was martyred about 230, under the Emperor Alexander Severus. Giovanni Battista de Rossi, however, argues that instead she perished in Sicily under the Emperor Marcus Aurelius between 176 and 180, citing the report of Venantius Fortunatus, Bishop...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Cecilia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-22_saint_cecelia.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4109645cad291fd0a501686d5f734047ff7f398acc41ed6ce99a94c47273cb91",
+        "langs": {
+          "es": {
+            "translatedHash": "1ce68af1d0d9e11dcedb3f8ad2c32b9ad23f255562202ad2c2250f96720c8555",
+            "updatedAt": "2026-02-25T01:12:23.353Z"
+          },
+          "pl": {
+            "translatedHash": "9c58902b1b7e3212f9d97e52ba161f3c403a7d4726ea43a7cf372bd058911ca8",
+            "updatedAt": "2026-02-25T01:12:23.932Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1959b0a1f5eae62f53b1e542500a29c2ceda31a0ea244c57961abf9d4ddcc205",
+        "langs": {
+          "es": {
+            "translatedHash": "47cd441ba183ab5470c9a7db300e2bdf02b19d23b0db33e56b24daf03734d8bf",
+            "updatedAt": "2026-02-25T01:12:24.541Z"
+          },
+          "pl": {
+            "translatedHash": "7c0227bf978af7c5328bf44f945c5455c8ea44c317b822151bb89ec70c19207a",
+            "updatedAt": "2026-02-25T01:12:25.187Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "dcdba48b45a5409724fe222a613b5661b4ad28759911f6771ebd7fb03574d3aa",
+        "langs": {
+          "es": {
+            "translatedHash": "d07a870e85069bc810f00d1d52bd077afc67faeca3e89f72f93c2b1d941727f6",
+            "updatedAt": "2026-02-25T01:12:27.538Z"
+          },
+          "pl": {
+            "translatedHash": "55cb2ea81a1ec4a9625859a0ea8287adbd67eb7e1f0efa2fc38777ff87e5ab37",
+            "updatedAt": "2026-02-25T01:12:30.528Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "65c4f1345ef3da7dba7e3954fdbbebf3c94abce6c7bcac17052e5928c6309298",
+        "langs": {
+          "es": {
+            "translatedHash": "f22fdf5420fb39cba6754f3a140518931d56f27635cf9a7b1c422db0467f90ba",
+            "updatedAt": "2026-02-25T01:12:35.106Z"
+          },
+          "pl": {
+            "translatedHash": "f048097794c81e26ae09626fa7306f49f23161ea81a5d02e8ca9533b1c51f7e5",
+            "updatedAt": "2026-02-25T01:12:40.921Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Cecilia",
+  "name_pl": "Święta Cecylia",
+  "feast_es": "El Vigésimo Segundo Día de Noviembre",
+  "feast_pl": "Dwudziesty drugi dzień listopada",
+  "summary_es": "Santa Cecilia, también escrita Cecelia, fue una virgen mártir cristiana romana, venerada en las iglesias Católica, Ortodoxa, Anglicana y algunas Luteranas, como la Iglesia de Suecia. Se convirtió en la patrona de la música y los músicos, ya que se dice que, mientras los músicos tocaban en su boda, Cecilia \"cantaba en su corazón al Señor\". Composiciones musicales están dedicadas a ella, y su fiesta, el 22 de noviembre, es ocasión de conciertos y festivales musicales. También es conocida como Cecilia de Roma.",
+  "summary_pl": "Święta Cecylia, zwana także Cecelią, była rzymską chrześcijańską męczennicą i dziewicą, czczoną w Kościele katolickim, prawosławnym, anglikańskim oraz w niektórych kościołach luterańskich, takich jak Kościół Szwecji. Została patronką muzyki i muzyków, ponieważ napisano, że gdy muzycy grali na jej weselu, Cecylia „śpiewała w sercu Panu”. Kompozycje muzyczne są jej dedykowane, a jej święto, obchodzone 22 listopada, jest okazją do koncertów i festiwali muzycznych. Znana jest również jako Cecylia Rzymska.",
+  "biography_es": "Santa Cecilia (latín: Sancta Caecilia), también escrita Cecelia, fue una virgen mártir cristiana romana, venerada en las iglesias católica, ortodoxa, anglicana y algunas luteranas, como la Iglesia de Suecia. Se convirtió en la patrona de la música y los músicos, ya que se dice que, mientras los músicos tocaban en su boda, Cecilia \"cantaba en su corazón al Señor\". Composiciones musicales están dedicadas a ella, y su fiesta, el 22 de noviembre, es ocasión de conciertos y festivales musicales. También es conocida como Cecilia de Roma. Santa Cecilia es una de varias vírgenes mártires conmemoradas por su nombre en el Canon de la Misa en la Iglesia Latina. La iglesia de Santa Cecilia en Trastevere, fundada en el siglo III por el Papa Urbano I, se cree que está en el lugar de la casa donde vivió y murió.\n\nVida\n\nSe supone popularmente que Cecilia fue una mujer noble de Roma que, junto con su esposo Valeriano, su hermano Tiburcio y un soldado romano llamado Máximo, fue martirizada alrededor del año 230, bajo el emperador Alejandro Severo. Sin embargo, Giovanni Battista de Rossi sostiene que en realidad pereció en Sicilia bajo el emperador Marco Aurelio entre los años 176 y 180, citando el informe de Venancio Fortunato, obispo...",
+  "biography_pl": "Święta Cecylia (łac. Sancta Caecilia), zwana także Cecelią, była rzymską chrześcijańską dziewicą-męczennicą, czczoną w Kościele katolickim, prawosławnym, anglikańskim oraz w niektórych kościołach luterańskich, takich jak Kościół Szwecji. Została patronką muzyki i muzyków, ponieważ napisano, że gdy muzycy grali na jej weselu, Cecylia „śpiewała w sercu Panu”. Kompozycje muzyczne są jej dedykowane, a jej święto, obchodzone 22 listopada, jest okazją do koncertów i festiwali muzycznych. Znana jest również jako Cecylia Rzymska. Święta Cecylia jest jedną z kilku dziewic-męczennic wspominanych z imienia w Kanonie Mszy w Kościele łacińskim. Kościół Santa Cecilia in Trastevere, założony w III wieku przez papieża Urbana I, uważa się za miejsce, gdzie znajdował się dom, w którym mieszkała i zmarła.\n\nŻycie\n\nPowszechnie uważa się, że Cecylia była szlachcianką z Rzymu, która wraz z mężem Waleryanem, jego bratem Tyburcjuszem oraz rzymskim żołnierzem Maksymem została zamęczona około roku 230 za panowania cesarza Aleksandra Sewera. Giovanni Battista de Rossi twierdzi jednak, że zginęła na Sycylii za panowania cesarza Marka Aureliusza między 176 a 180 rokiem, powołując się na relację Wenancjusza Fortunata, biskupa..."
+}

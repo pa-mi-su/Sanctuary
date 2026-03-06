@@ -1,0 +1,46 @@
+{
+  "id": "03-30_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-30",
+  "feast": "The Thirtieth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:01:11.512Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:01:12.746Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b39466fd8d777f9261770b63d61ba22dc7cb8f32cdbbf8ca426d6c40fec1db0d",
+        "langs": {
+          "es": {
+            "translatedHash": "9733762f12c4b6eed7629b7194dd5d608d7c5cd98fc0ce59fbc1fb5d1f35b007",
+            "updatedAt": "2026-02-24T23:01:13.323Z"
+          },
+          "pl": {
+            "translatedHash": "9c1a2f2cd8dfc4afd80d3708f754c2a1c66f9c5ae310408460025676f26fe236",
+            "updatedAt": "2026-02-24T23:01:13.963Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Trigésimo Día de Marzo",
+  "feast_pl": "Trzydziesty dzień marca"
+}

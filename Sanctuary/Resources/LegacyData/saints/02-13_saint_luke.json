@@ -1,0 +1,81 @@
+{
+  "id": "02-13_saint_luke",
+  "name": "Saint Luke",
+  "mmdd": "02-13",
+  "feast": "The Thirteenth Day of February",
+  "summary": "Luke the Evangelist was one of the Four Evangelists—the four traditionally ascribed authors of the canonical gospels. The Early Church Fathers ascribed to him authorship of both the Gospel of Luke and the Acts of the Apostles. Prominent figures in early Christianity such as Jerome and Eusebius later reaffirmed his authorship, although a lack of conclusive evidence as to the identity of the author of the works has led to discussion in scholarly circles, both secular and religious.",
+  "biography": "Luke the Evangelist was one of the Four Evangelists—the four traditionally ascribed authors of the canonical gospels. The Early Church Fathers ascribed to him authorship of both the Gospel of Luke and the Acts of the Apostles. Prominent figures in early Christianity such as Jerome and Eusebius later reaffirmed his authorship, although a lack of conclusive evidence as to the identity of the author of the works has led to discussion in scholarly circles, both secular and religious.\nThe New Testament mentions Luke briefly a few times, and the Epistle to the Colossians refers to him as a physician (from Greek for 'one who heals'); thus he is thought to have been both a physician and a disciple of Paul.\nSince the early years of the faith, Christians have regarded him as a saint. He is believed to have been a martyr, reportedly having been hanged from an olive tree, though some believe otherwise. The Eastern Orthodox Church, the Roman Catholic church and other major denominations venerate him as Saint Luke the Evangelist and as a patron saint of artists, physicians, bachelors, notaries, butchers, brewers, and others; his feast day is 18 October. \nHe is also described in the New Testament...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-13_saint_luke.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "cb7a8f436f9221cbd398bfdb6717d7dcf2dcfa0a1dfce372980809ef3f5541d5",
+        "langs": {
+          "es": {
+            "translatedHash": "26bd9f44ea458e7ea3aae13b61a50080123959a610caa46be8ebec7b2b6f4dfa",
+            "updatedAt": "2026-02-24T22:34:51.331Z"
+          },
+          "pl": {
+            "translatedHash": "f029bf2f70e0b5cb2bdc42f6b2f57f1bbb91d4364b68b49066f781ece2b97250",
+            "updatedAt": "2026-02-24T22:34:51.935Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c0c0774e22bf6c6e5d5c3eac9805cb9943b8929578d8c1f586b701fbd811f552",
+        "langs": {
+          "es": {
+            "translatedHash": "3570bd96d6f527a9d07717d511de109c34d96df1a3763abb334a2901f15be3a1",
+            "updatedAt": "2026-02-24T22:34:52.616Z"
+          },
+          "pl": {
+            "translatedHash": "24d46e5fba11fd8af34f6e9e21357abc7aa8dcc8b6a39bc23ad417faf528d7c8",
+            "updatedAt": "2026-02-24T22:34:53.398Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "838167701cb4dc9dc87f9e1fcdddba1ff9c12bfc288e944550b44eadd515c2e1",
+        "langs": {
+          "es": {
+            "translatedHash": "585ba621c9d51692b790b470de954119a9819c5a662129ee5570f346147c370d",
+            "updatedAt": "2026-02-24T22:34:55.641Z"
+          },
+          "pl": {
+            "translatedHash": "319d7d2907ed1c4722c99b4bc7f1589d2c357f362d1c3c7c2e2089001c227082",
+            "updatedAt": "2026-02-24T22:34:59.665Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "368c084180b5a9950c69f05cad7202bbb83a8e87f21f57f1a11cbf782f368051",
+        "langs": {
+          "es": {
+            "translatedHash": "8a4bc9ff3c7d281c678f61d413125cc05beb4c923ed12d885564af72958f9758",
+            "updatedAt": "2026-02-24T22:35:04.534Z"
+          },
+          "pl": {
+            "translatedHash": "6cf26dfd7b42faca714ad4bd9d0328b0f93b3bd6a149a513ae83e1755fd5c3c4",
+            "updatedAt": "2026-02-24T22:35:10.973Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Lucas",
+  "name_pl": "Święty Łukasz",
+  "feast_es": "El día trece de febrero",
+  "feast_pl": "Trzynasty dzień lutego",
+  "summary_es": "Lucas el Evangelista fue uno de los Cuatro Evangelistas—los cuatro autores tradicionalmente atribuidos a los evangelios canónicos. Los Padres de la Iglesia primitiva le atribuyeron la autoría tanto del Evangelio de Lucas como de los Hechos de los Apóstoles. Figuras prominentes del cristianismo temprano como Jerónimo y Eusebio reafirmaron posteriormente su autoría, aunque la falta de evidencia concluyente sobre la identidad del autor de estas obras ha dado lugar a discusiones en círculos académicos, tanto seculares como religiosos.",
+  "summary_pl": "Ewangelista Łukasz był jednym z Czterech Ewangelistów — czterech tradycyjnie przypisywanych autorów kanonicznych ewangelii. Ojcowie Kościoła wczesnego przypisywali mu autorstwo zarówno Ewangelii według Łukasza, jak i Dziejów Apostolskich. Wybitne postacie wczesnego chrześcijaństwa, takie jak Hieronim i Euzebiusz, później potwierdziły jego autorstwo, chociaż brak jednoznacznych dowodów co do tożsamości autora tych dzieł prowadził do dyskusji w kręgach naukowych, zarówno świeckich, jak i religijnych.",
+  "biography_es": "Lucas el Evangelista fue uno de los Cuatro Evangelistas—los cuatro autores tradicionalmente atribuidos a los evangelios canónicos. Los Padres de la Iglesia primitiva le atribuyeron la autoría tanto del Evangelio de Lucas como de los Hechos de los Apóstoles. Figuras prominentes del cristianismo temprano como Jerónimo y Eusebio reafirmaron posteriormente su autoría, aunque la falta de evidencia concluyente sobre la identidad del autor de estas obras ha dado lugar a debates en círculos académicos, tanto seculares como religiosos.\n\nEl Nuevo Testamento menciona brevemente a Lucas en varias ocasiones, y la Epístola a los Colosenses se refiere a él como médico (del griego, ‘el que cura’); por lo tanto, se piensa que fue tanto médico como discípulo de Pablo.\n\nDesde los primeros años de la fe, los cristianos lo han considerado un santo. Se cree que fue mártir, supuestamente colgado de un olivo, aunque algunos piensan lo contrario. La Iglesia Ortodoxa Oriental, la Iglesia Católica Romana y otras denominaciones importantes lo veneran como San Lucas Evangelista y como santo patrón de artistas, médicos, solteros, notarios, carniceros, cerveceros y otros; su fiesta se celebra el 18 de octubre.\n\nTambién se le describe en el Nuevo Testamento...",
+  "biography_pl": "Ewangelista Łukasz był jednym z Czterech Ewangelistów — czterech tradycyjnie przypisywanych autorów kanonicznych Ewangelii. Ojcowie Kościoła wczesnego przypisywali mu autorstwo zarówno Ewangelii Łukasza, jak i Dziejów Apostolskich. Wybitne postacie wczesnego chrześcijaństwa, takie jak Hieronim i Euzebiusz, później potwierdziły jego autorstwo, chociaż brak jednoznacznych dowodów co do tożsamości autora tych dzieł prowadził do dyskusji w kręgach naukowych, zarówno świeckich, jak i religijnych.\n\nNowy Testament wspomina Łukasza krótko kilka razy, a List do Kolosan nazywa go lekarzem (od greckiego słowa oznaczającego „ten, który leczy”); dlatego uważa się, że był zarówno lekarzem, jak i uczniem Pawła.\n\nOd wczesnych lat wiary chrześcijanie uważali go za świętego. Wierzy się, że był męczennikiem, podobno powieszonym na drzewie oliwnym, choć niektórzy mają inne zdanie. Kościół prawosławny, Kościół rzymskokatolicki oraz inne główne wyznania czczą go jako św. Łukasza Ewangelistę oraz jako patrona artystów, lekarzy, kawalerów, notariuszy, rzeźników, piwowarów i innych; jego wspomnienie liturgiczne przypada na 18 października.\n\nJest również opisany w Nowym Testamencie..."
+}

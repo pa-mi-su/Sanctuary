@@ -1,0 +1,63 @@
+{
+  "id": "10-12_saint_edistius",
+  "name": "Saint Edistius",
+  "mmdd": "10-12",
+  "feast": "The Twelfth Day of October",
+  "summary": "Saint Edistus is venerated as a martyr and saint by the Roman Catholic and Eastern Orthodox churches. His legend states that he was martyred on the Via Laurentina and his passio places his martyrdom during the reign of Nero, on October 12, 60 AD.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edistus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/_fallback/default-saint.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "055d52c247b8efef2ce1b3f3855425aa08795aed5c6aed43b3391b851d0dfb7f",
+        "langs": {
+          "es": {
+            "translatedHash": "ff961eea79d851a7e5dac466310217a62600e90f12d50c497b883522a9b2c6b3",
+            "updatedAt": "2026-02-25T00:48:12.229Z"
+          },
+          "pl": {
+            "translatedHash": "5db05e4c50c9f76acff1776d43cb5d0632ffc6557949e79bf15d1fc5c358fb34",
+            "updatedAt": "2026-02-25T00:48:12.910Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6136094aa6fae54ed3e4ded671a89021f08ad3dc471ac3d2bc76e86b965aa906",
+        "langs": {
+          "es": {
+            "translatedHash": "ae8e2dddb2e48144bb6194de02ce7df77103c9ec98036db5cdfe58fe0fa5dfdc",
+            "updatedAt": "2026-02-25T00:48:13.476Z"
+          },
+          "pl": {
+            "translatedHash": "95d95ff7bb971a9f275459c76bc5d9677f301806c53157e907795e070b96e82c",
+            "updatedAt": "2026-02-25T00:48:14.363Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "81ca8c643134f37df2871c67f41680b70986086b234f540043418c6cbf7232a8",
+        "langs": {
+          "es": {
+            "translatedHash": "a9617456d9ebabebbbfebd9659d0dbb93d2bfe151b57b6a275cb0e0148c01157",
+            "updatedAt": "2026-02-25T00:48:16.489Z"
+          },
+          "pl": {
+            "translatedHash": "0c8c8d19de4f29a36772a4e0cc02c22a33287f37d2f3fa052da01756d9797d09",
+            "updatedAt": "2026-02-25T00:48:19.818Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Edistio",
+  "name_pl": "Święty Edystus",
+  "feast_es": "El Duodécimo Día de Octubre",
+  "feast_pl": "Dwunasty Dzień Października",
+  "summary_es": "San Edisto es venerado como mártir y santo por las iglesias católica romana y ortodoxa oriental. Su leyenda afirma que fue martirizado en la Vía Laurentina y su passio sitúa su martirio durante el reinado de Nerón, el 12 de octubre del año 60 d.C.",
+  "summary_pl": "Święty Edystus jest czczony jako męczennik i święty przez Kościoły rzymskokatolicki i wschodnio-prawosławny. Jego legenda głosi, że został zamęczony na Via Laurentina, a jego passio umieszcza jego męczeństwo za panowania Nerona, 12 października roku 60 n.e."
+}

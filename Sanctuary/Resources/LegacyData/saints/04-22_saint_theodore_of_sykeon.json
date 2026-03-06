@@ -1,0 +1,79 @@
+{
+  "id": "04-22_saint_theodore_of_sykeon",
+  "name": "Saint Theodore of Sykeon",
+  "mmdd": "04-22",
+  "feast": "The Twenty-Second Day of April",
+  "summary": "Saint Theodore of Sykeon, also known as Theodore the Sykeote, was a revered Byzantine ascetic, who lived between the first half of the 6th century and the thirteenth year of the Emperor Heraclius' rule in the early 7th century. His hagiography, written after 641, is a key primary source for the reign of Emperor Heraclius. His feast day is 22 April.",
+  "biography": "Saint Theodore of Sykeon, also known as Theodore the Sykeote (Greek: Θεόδωρος ό Συκεώτης), was a revered Byzantine ascetic, who lived between the first half of the 6th century and the thirteenth year of the Emperor Heraclius' rule (i. e. 623) in the early 7th century (or on 22 April 613). His hagiography, written after 641, is a key primary source for the reign of Emperor Heraclius (r. 610–641). His feast day is 22 April. Life Early life Theodore was born in Sykeon, a village in Galatia. The public highway of the imperial post ran through this village, and on the road stood an inn kept by a very beautiful girl, Mary, her mother, Elpidia, and a sister Despoinia. These women lived in the inn and followed the profession of courtesans. Theodore was the son of Mary and Cosmas, who had become popular in the hippodrome of Constantinople in the corps of those who performed acrobatic feats on camels and was appointed to carry out the emperor's orders. The biography of St Theodore depicts the women in his household as strong who have some choices in their life and are able to make a living through the proceeds from the inn. When Theodore was about twelve years old an epidemic of bubonic...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_of_Sykeon",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-22_saint_theodore_of_sykeon.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2ab0db587424d662f796b0a7d67da7a11fbfde1654a7f5e89899c2a174946ebd",
+        "langs": {
+          "es": {
+            "translatedHash": "5e5735b5324f91d75c6a5a4ab91fb432c37feb34368303aee8ca947bcd528f98",
+            "updatedAt": "2026-02-24T23:12:48.992Z"
+          },
+          "pl": {
+            "translatedHash": "85e2c9d30714d4f6aa3a1c4b020048aa7f12b13e996208f43ce5b9c8d62b1216",
+            "updatedAt": "2026-02-24T23:12:49.639Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "34c14ea5a82b90323659f826c50960d110a2d24617942c6da7a006e427888643",
+        "langs": {
+          "es": {
+            "translatedHash": "a1732a7758ee2069dab5e0d41ecb4143b4d87e0eb449ce1530c544b52ab1f12c",
+            "updatedAt": "2026-02-24T23:12:50.118Z"
+          },
+          "pl": {
+            "translatedHash": "b9016dde9be10616a0181e221df7545100fb0016169bf0a932d45318987d5607",
+            "updatedAt": "2026-02-24T23:12:50.744Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "176dd7aa6ecebe8f4c33e5b8316e53f29b984ae0b00c00a6d73b41ac855f8b4a",
+        "langs": {
+          "es": {
+            "translatedHash": "9d714c5491daec4ca400d63a984a189707014b72d18da38a90500803a7850ae0",
+            "updatedAt": "2026-02-24T23:12:52.756Z"
+          },
+          "pl": {
+            "translatedHash": "7ae20ad19dab3818e6999cb34d5bff48ff31ffa433ee1aae72f3cb14a3599ce8",
+            "updatedAt": "2026-02-24T23:12:55.017Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "874489a05a5cfad1b76fdb23ecc828f38d0ce013f86779733f6c67152e2e927c",
+        "langs": {
+          "es": {
+            "translatedHash": "85b6d1510c3e0db5a5802e1200a12e0dbf688d3125d8945cc6b136bc07c493d3",
+            "updatedAt": "2026-02-24T23:13:01.650Z"
+          },
+          "pl": {
+            "translatedHash": "517ae99d073c6da0223ff1d527af8dfa9622cbd114cf85a09feca92bd1569313",
+            "updatedAt": "2026-02-24T23:13:10.957Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Teodoro de Siceón",
+  "name_pl": "Święty Teodor z Sykeonu",
+  "feast_es": "El Vigésimo Segundo Día de Abril",
+  "feast_pl": "Dwudziesty drugi dzień kwietnia",
+  "summary_es": "San Teodoro de Sykeon, también conocido como Teodoro el Siceota, fue un asceta bizantino venerado, que vivió entre la primera mitad del siglo VI y el decimotercer año del reinado del emperador Heraclio a principios del siglo VII. Su hagiografía, escrita después del año 641, es una fuente primaria clave para el reinado del emperador Heraclio. Su fiesta se celebra el 22 de abril.",
+  "summary_pl": "Święty Teodor z Sykeonu, znany również jako Teodor Sykeota, był czczonym bizantyjskim ascetą, który żył w pierwszej połowie VI wieku oraz do trzynastego roku panowania cesarza Herakliusza na początku VII wieku. Jego hagiografia, napisana po 641 roku, jest kluczowym źródłem pierwotnym dotyczącym panowania cesarza Herakliusza. Jego dzień wspomnienia przypada na 22 kwietnia.",
+  "biography_es": "San Teodoro de Sykeon, también conocido como Teodoro el Sykeote (griego: Θεόδωρος ό Συκεώτης), fue un asceta bizantino venerado, que vivió entre la primera mitad del siglo VI y el decimotercer año del reinado del emperador Heraclio (es decir, 623) a principios del siglo VII (o el 22 de abril de 613). Su hagiografía, escrita después del 641, es una fuente primaria clave para el reinado del emperador Heraclio (r. 610–641). Su fiesta se celebra el 22 de abril.\n\nVida\n\nPrimeros años\n\nTeodoro nació en Sykeon, un pueblo en Galacia. La carretera pública del correo imperial atravesaba este pueblo, y en el camino había una posada regentada por una joven muy hermosa, María, su madre, Elpidia, y una hermana, Despoinia. Estas mujeres vivían en la posada y ejercían la profesión de cortesanas. Teodoro era hijo de María y Cosmas, quien se había hecho popular en el hipódromo de Constantinopla en el cuerpo de aquellos que realizaban acrobacias sobre camellos y fue designado para cumplir las órdenes del emperador. La biografía de San Teodoro describe a las mujeres de su hogar como fuertes, que tenían algunas opciones en su vida y podían ganarse la vida con los ingresos de la posada.\n\nCuando Teodoro tenía alrededor de doce años, una epidemia de peste bubónica...",
+  "biography_pl": "Święty Teodor z Sykeon, znany również jako Teodor Sykeota (grecki: Θεόδωρος ό Συκεώτης), był czczonym bizantyjskim ascetą, który żył między pierwszą połową VI wieku a trzynastym rokiem panowania cesarza Herakliusza (tj. 623) na początku VII wieku (lub 22 kwietnia 613). Jego hagiografia, napisana po 641 roku, jest kluczowym źródłem pierwotnym dotyczącym panowania cesarza Herakliusza (pan. 610–641). Jego dzień wspomnienia przypada na 22 kwietnia.\n\nŻycie\n\nWczesne lata\n\nTeodor urodził się w Sykeon, wiosce w Galacji. Przez tę wioskę przebiegała publiczna droga pocztowa cesarstwa, a przy drodze stał zajazd prowadzony przez bardzo piękną dziewczynę, Marię, jej matkę Elpidię oraz siostrę Despoinię. Kobiety te mieszkały w zajazdzie i trudniły się zawodem kurtyzan. Teodor był synem Marii i Kosmy, który zdobył popularność na hipodromie Konstantynopola w korpusie osób wykonujących akrobatyczne popisy na wielbłądach i został mianowany do wykonywania rozkazów cesarza. Biografia św. Teodora przedstawia kobiety w jego domu jako silne, które mają pewne wybory w życiu i potrafią utrzymać się z dochodów z zajazdu.\n\nGdy Teodor miał około dwunastu lat, wybuchła epidemia dżumy..."
+}

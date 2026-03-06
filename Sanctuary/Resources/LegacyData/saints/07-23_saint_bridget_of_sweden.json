@@ -1,0 +1,79 @@
+{
+  "id": "07-23_saint_bridget_of_sweden",
+  "name": "Saint Bridget (of Sweden)",
+  "mmdd": "07-23",
+  "feast": "The Twenty-Third Day of July",
+  "summary": "Bridget of Sweden, OSsS, also known as Birgitta Birgersdotter and Birgitta of Vadstena, was a Swedish Catholic mystic and the founder of the Bridgettines. Outside Sweden, she was also known as the Princess of Nericia and was the mother of Catherine of Vadstena.",
+  "biography": "Bridget of Sweden, OSsS (c. 1304 – 23 July 1373), also known as Birgitta Birgersdotter and Birgitta of Vadstena (Swedish: heliga Birgitta), was a Swedish Catholic mystic and the founder of the Bridgettines. Outside Sweden, she was also known as the Princess of Nericia and was the mother of Catherine of Vadstena. Bridget is one of the six patron saints of Europe, together with Benedict of Nursia, Cyril and Methodius, Catherine of Siena and Teresa Benedicta of the Cross. Biography The most celebrated saint of Sweden, Bridget was the daughter of the knight Birger Persson of the family of Finsta, governor and lawspeaker of Uppland, and one of the richest landowners of the country, and his wife Ingeborg Bengtsdotter, a member of the so-called Lawspeaker branch of the Folkunga family. Through her mother, Bridget was related to the Swedish kings of her era. She was born in 1304. The exact date of her birth is not recorded. In 1316, at the age of 13 she married Ulf Gudmarsson of the family of Ulvåsa, a noble and lawspeaker of Östergötland, to whom she bore eight children, four daughters and four sons. Six of her children survived infancy, which was rare at that time. Her eldest daughter...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bridget_of_Sweden",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-23_saint_bridget_of_sweden.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "13cfa539c2ded7ce397656d719e1b8f3cc2e043ceb7c9dbda49e79eb4f94e2e6",
+        "langs": {
+          "es": {
+            "translatedHash": "f117d52bf77ea00589170678ef2fa9377b3411e249612ff597dd3d98b3d1fe95",
+            "updatedAt": "2026-02-25T00:02:17.008Z"
+          },
+          "pl": {
+            "translatedHash": "3c2cda505ff18c0317dd07a95dafa44ed0909a1dc3898ec64dbec15ff1672121",
+            "updatedAt": "2026-02-25T00:02:17.747Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6cbcf30b0fc35577947490bf1e43b1aa2cdc9c4f9ab5a24ba63c5af128df5f80",
+        "langs": {
+          "es": {
+            "translatedHash": "d27ff4714989c8bdb4b899ba493e78f210d002808f65442372c1feab47010c7e",
+            "updatedAt": "2026-02-25T00:02:18.350Z"
+          },
+          "pl": {
+            "translatedHash": "50e74ef271b69918e3b89bb87995a75c44a69745743669bdfb614a11036b40fd",
+            "updatedAt": "2026-02-25T00:02:19.622Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9aa80ed249ae5559c1581f7b5610fd878b3ac0f1e8944c453792f236e9e338b7",
+        "langs": {
+          "es": {
+            "translatedHash": "41561c7c11d00a809d6a9dd7fec2a10fb466625f45adc3b331ea6e28edc5873a",
+            "updatedAt": "2026-02-25T00:02:21.073Z"
+          },
+          "pl": {
+            "translatedHash": "d24540943206cf3bf56c01b2b872fd29b2a8e4b3ab7f1b1c5314e83cc6bb9030",
+            "updatedAt": "2026-02-25T00:02:22.756Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "49f5d8d3f82dd028ba2633981b0c8a44242dc665f1c8c5509d22c3cf5c728103",
+        "langs": {
+          "es": {
+            "translatedHash": "f975da9367d5fead8b3bee7c044009423d6b0d2e2b0face2d3f387aaad4d7eb7",
+            "updatedAt": "2026-02-25T00:02:27.250Z"
+          },
+          "pl": {
+            "translatedHash": "d010ecbddca1edf1bb18dc31bd8103a259f2132ff80aa4be8e74c2336816647b",
+            "updatedAt": "2026-02-25T00:02:31.550Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Brígida (de Suecia)",
+  "name_pl": "Święta Brygida (ze Szwecji)",
+  "feast_es": "El Vigésimo Tercer Día de Julio",
+  "feast_pl": "Dwudziesty Trzeci Dzień Lipca",
+  "summary_es": "Brígida de Suecia, OSsS, también conocida como Birgitta Birgersdotter y Birgitta de Vadstena, fue una mística católica sueca y la fundadora de las Brigidinas. Fuera de Suecia, también fue conocida como la Princesa de Nericia y fue la madre de Catalina de Vadstena.",
+  "summary_pl": "Brygida ze Szwecji, OSsS, znana również jako Birgitta Birgersdotter oraz Brygida z Vadsteny, była szwedzką katolicką mistyczką i założycielką zgromadzenia brygidek. Poza Szwecją znana była także jako Księżniczka Nericii i była matką Katarzyny z Vadsteny.",
+  "biography_es": "Brígida de Suecia, OSsS (c. 1304 – 23 de julio de 1373), también conocida como Birgitta Birgersdotter y Birgitta de Vadstena (sueco: heliga Birgitta), fue una mística católica sueca y fundadora de las Brigidinas. Fuera de Suecia, también se la conocía como la Princesa de Nericia y fue madre de Catalina de Vadstena. Brígida es una de las seis santas patronas de Europa, junto con Benito de Nursia, Cirilo y Metodio, Catalina de Siena y Teresa Benedicta de la Cruz.\n\nBiografía\n\nLa santa más célebre de Suecia, Brígida fue hija del caballero Birger Persson de la familia de Finsta, gobernador y portavoz legal de Uppland, y uno de los terratenientes más ricos del país, y de su esposa Ingeborg Bengtsdotter, miembro de la llamada rama de los Portavoces Legales de la familia Folkunga. Por parte de su madre, Brígida estaba emparentada con los reyes suecos de su época. Nació en 1304. No se registra la fecha exacta de su nacimiento.\n\nEn 1316, a la edad de 13 años, se casó con Ulf Gudmarsson de la familia de Ulvåsa, un noble y portavoz legal de Östergötland, con quien tuvo ocho hijos, cuatro hijas y cuatro hijos. Seis de sus hijos sobrevivieron a la infancia, lo cual era raro en esa época. Su hija mayor...",
+  "biography_pl": "Brygida ze Szwecji, OSsS (ok. 1304 – 23 lipca 1373), znana także jako Birgitta Birgersdotter oraz Brygida z Vadsteny (szw. heliga Birgitta), była szwedzką katolicką mistyczką i założycielką zakonu brygidek. Poza Szwecją znana była również jako Księżniczka Nericii oraz matka Katarzyny z Vadsteny. Brygida jest jedną z sześciu patronów Europy, obok Benedykta z Nursji, Cyryla i Metodego, Katarzyny ze Sieny oraz Teresy Benedykty od Krzyża.\n\nBiografia  \nNajbardziej znana święta Szwecji, Brygida była córką rycerza Birgera Perssona z rodu Finsta, gubernatora i prawodawcy Uppland, jednego z najbogatszych właścicieli ziemskich w kraju, oraz jego żony Ingeborg Bengtsdotter, członkini tzw. gałęzi prawodawców rodu Folkunga. Dzięki matce Brygida była spokrewniona z ówczesnymi królami Szwecji. Urodziła się w 1304 roku. Dokładna data jej urodzin nie jest znana. W 1316 roku, mając 13 lat, wyszła za mąż za Ulfa Gudmarssona z rodu Ulvåsa, szlachcica i prawodawcę Östergötland, z którym miała ośmioro dzieci, cztery córki i czterech synów. Sześć z jej dzieci przeżyło niemowlęctwo, co było wówczas rzadkością. Jej najstarsza córka..."
+}

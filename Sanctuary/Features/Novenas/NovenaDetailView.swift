@@ -1,0 +1,580 @@
+import Foundation
+import SwiftUI
+
+struct NovenaDetailView: View {
+    let novena: Novena
+    var displayYear: Int? = nil
+    var onClose: (() -> Void)? = nil
+
+    @Environment(\.dismiss) private var dismiss
+    @EnvironmentObject private var localization: LocalizationManager
+    @EnvironmentObject private var progressStore: UserProgressStore
+
+    @State private var selectedDay = 1
+    @State private var isFavorite = false
+    @State private var relatedSaints: [RelatedSaint] = []
+    @State private var selectedSaintSelection: IDSelection?
+    @State private var sourceDoc: NovenaDocument?
+    @State private var hydratedNovena: Novena?
+    @State private var showCompletionModal = false
+
+    private var locale: ContentLocale { localization.language.contentLocale }
+    private var effectiveNovena: Novena { hydratedNovena ?? novena }
+
+    private var title: String {
+        effectiveNovena.titleByLocale[locale] ?? effectiveNovena.titleByLocale[.en] ?? effectiveNovena.slug
+    }
+
+    private var description: String {
+        effectiveNovena.descriptionByLocale[locale] ?? effectiveNovena.descriptionByLocale[.en] ?? ""
+    }
+
+    private var orderedDays: [NovenaDay] {
+        effectiveNovena.days.sorted { $0.dayNumber < $1.dayNumber }
+    }
+
+    private var selectedDayContent: String {
+        guard let day = orderedDays.first(where: { $0.dayNumber == selectedDay }) else {
+            return ""
+        }
+        return day.bodyByLocale[locale] ?? day.bodyByLocale[.en] ?? ""
+    }
+
+    private var selectedDayTitle: String {
+        guard let day = orderedDays.first(where: { $0.dayNumber == selectedDay }) else { return "" }
+        return day.titleByLocale[locale] ?? day.titleByLocale[.en] ?? ""
+    }
+
+    private var selectedDayScripture: String {
+        guard let day = orderedDays.first(where: { $0.dayNumber == selectedDay }) else { return "" }
+        return day.scriptureByLocale[locale] ?? day.scriptureByLocale[.en] ?? ""
+    }
+
+    private var selectedDayPrayer: String {
+        guard let day = orderedDays.first(where: { $0.dayNumber == selectedDay }) else { return "" }
+        return day.prayerByLocale[locale] ?? day.prayerByLocale[.en] ?? ""
+    }
+
+    private var selectedDayReflection: String {
+        guard let day = orderedDays.first(where: { $0.dayNumber == selectedDay }) else { return "" }
+        return day.reflectionByLocale[locale] ?? day.reflectionByLocale[.en] ?? ""
+    }
+
+    private var feastDateString: String? {
+        let year = displayYear ?? Calendar.current.component(.year, from: Date())
+        guard let date = ContentStore.novenaFeastDate(id: effectiveNovena.id, year: year) else {
+            return nil
+        }
+        let calendar = Calendar(identifier: .gregorian)
+        let month = calendar.component(.month, from: date)
+        let day = calendar.component(.day, from: date)
+        return String(format: "%04d-%02d-%02d", year, month, day)
+    }
+
+    private var currentCommitment: UserNovenaCommitment? {
+        progressStore.activeCommitment(for: effectiveNovena.id)
+    }
+
+    private var latestCommitment: UserNovenaCommitment? {
+        progressStore.commitments
+            .filter { $0.novenaID == effectiveNovena.id }
+            .sorted { $0.updatedAt > $1.updatedAt }
+            .first
+    }
+
+    private var completionButtonTitle: String {
+        if let active = currentCommitment {
+            return "\(localization.t("novena.completeDay")) \(active.currentDay)"
+        }
+        if latestCommitment?.status == .completed {
+            return localization.t("novena.completed")
+        }
+        return "\(localization.t("novena.completeDay")) 1"
+    }
+
+    private var canStartNovena: Bool {
+        currentCommitment == nil && latestCommitment?.status != .completed
+    }
+
+    private var hasActiveNovena: Bool {
+        currentCommitment != nil
+    }
+
+    var body: some View {
+        ZStack {
+            AppTheme.backgroundGradient.ignoresSafeArea()
+
+            ScrollView(showsIndicators: false) {
+                VStack(alignment: .leading, spacing: 12) {
+                    HStack(spacing: 16) {
+                        Button {
+                            if let onClose {
+                                onClose()
+                            } else {
+                                dismiss()
+                            }
+                        } label: {
+                            Image(systemName: "arrow.left")
+                                .font(.system(size: 20, weight: .bold))
+                                .foregroundStyle(.white)
+                                .frame(width: 52, height: 52)
+                                .background(Color.black.opacity(0.15))
+                                .clipShape(Circle())
+                        }
+                        .buttonStyle(.plain)
+                        .contentShape(Circle())
+                        Text(title)
+                            .font(.system(size: 20, weight: .bold))
+                            .foregroundStyle(.white)
+                            .lineLimit(2)
+                    }
+                    .padding(.top, 8)
+
+                    if let imageURL = effectiveNovena.imageURL {
+                        RemoteHeroImage(url: imageURL)
+                    }
+
+                    Text(title)
+                        .font(.system(size: 50, weight: .heavy))
+                        .minimumScaleFactor(0.58)
+                        .foregroundStyle(.white)
+
+                    Button {
+                        Task {
+                            await progressStore.toggleFavorite(itemType: .novena, itemID: effectiveNovena.id)
+                            isFavorite = progressStore.isFavorite(itemType: .novena, itemID: effectiveNovena.id)
+                        }
+                    } label: {
+                        HStack(spacing: 10) {
+                            Image(systemName: isFavorite ? "heart.fill" : "heart")
+                            Text(isFavorite ? localization.t("detail.savedFavorites") : localization.t("detail.addFavorites"))
+                        }
+                        .font(.system(size: 18, weight: .semibold))
+                        .foregroundStyle(.white)
+                        .padding(.horizontal, 22)
+                        .padding(.vertical, 14)
+                        .background(isFavorite ? AppTheme.purpleButton : Color.white.opacity(0.2))
+                        .clipShape(Capsule())
+                    }
+
+                    if let feastDateString {
+                        Text("\(localization.t("detail.feastDate")): \(feastDateString)")
+                            .font(.system(size: 18, weight: .medium))
+                            .foregroundStyle(.white.opacity(0.92))
+                    }
+
+                    if !description.isEmpty {
+                        Text(description)
+                            .font(.system(size: 18, weight: .medium))
+                            .foregroundStyle(.white.opacity(0.95))
+                            .padding(.top, 4)
+                    }
+
+                    Text(localization.t("novena.chooseDay"))
+                        .font(.system(size: 42, weight: .heavy))
+                        .foregroundStyle(.white)
+                        .padding(.top, 4)
+
+                    LazyVGrid(columns: [GridItem(.adaptive(minimum: 95), spacing: 10)], spacing: 10) {
+                        ForEach(orderedDays, id: \.dayNumber) { day in
+                            let active = day.dayNumber == selectedDay
+                            Button {
+                                selectedDay = day.dayNumber
+                            } label: {
+                                Text("\(localization.t("novena.dayLabel")) \(day.dayNumber)")
+                                    .font(.system(size: 20, weight: .bold))
+                                    .foregroundStyle(.white)
+                                    .frame(maxWidth: .infinity)
+                                    .padding(.vertical, 11)
+                                    .background(active ? Color.white.opacity(0.24) : Color.white.opacity(0.12))
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 26, style: .continuous)
+                                            .stroke(Color.white.opacity(active ? 0.7 : 0.3), lineWidth: active ? 2 : 1)
+                                    )
+                                    .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
+                            }
+                            .buttonStyle(.plain)
+                        }
+                    }
+
+                    if hasActiveNovena {
+                        Button(localization.t("novena.stop")) {
+                            Task {
+                                await progressStore.stopNovena(novenaID: effectiveNovena.id)
+                                selectedDay = 1
+                            }
+                        }
+                        .buttonStyle(SecondaryPillButtonStyle())
+                        .padding(.top, 4)
+                    } else if canStartNovena {
+                        Button(localization.t("novena.start")) {
+                            Task {
+                                await progressStore.startNovena(novenaID: effectiveNovena.id)
+                                selectedDay = 1
+                            }
+                        }
+                        .buttonStyle(PrimaryPillButtonStyle())
+                        .padding(.top, 4)
+                    }
+
+                    Divider()
+                        .background(Color.white.opacity(0.35))
+                        .padding(.top, 6)
+
+                    DetailCard(title: "\(localization.t("novena.dayLabel")) \(selectedDay)") {
+                        if selectedDayContent.isEmpty && selectedDayScripture.isEmpty && selectedDayPrayer.isEmpty && selectedDayReflection.isEmpty {
+                            Text(localization.t("novena.noDayContent"))
+                                .font(.system(size: 17, weight: .medium))
+                                .foregroundStyle(AppTheme.cardText.opacity(0.84))
+                        } else {
+                            VStack(alignment: .leading, spacing: 12) {
+                                if !selectedDayTitle.isEmpty {
+                                    Text(selectedDayTitle)
+                                        .font(.system(size: 21, weight: .bold))
+                                        .foregroundStyle(AppTheme.cardText)
+                                }
+                                if !selectedDayScripture.isEmpty {
+                                    Text(localization.t("novena.scripture"))
+                                        .font(.system(size: 17, weight: .heavy))
+                                        .foregroundStyle(AppTheme.cardText)
+                                    Text(selectedDayScripture)
+                                        .font(.system(size: 17, weight: .medium))
+                                        .foregroundStyle(AppTheme.cardText.opacity(0.9))
+                                }
+                                if !selectedDayPrayer.isEmpty {
+                                    Text(localization.t("novena.prayer"))
+                                        .font(.system(size: 17, weight: .heavy))
+                                        .foregroundStyle(AppTheme.cardText)
+                                    Text(selectedDayPrayer)
+                                        .font(.system(size: 17, weight: .medium))
+                                        .foregroundStyle(AppTheme.cardText.opacity(0.9))
+                                }
+                                if !selectedDayReflection.isEmpty {
+                                    Text(localization.t("novena.reflection"))
+                                        .font(.system(size: 17, weight: .heavy))
+                                        .foregroundStyle(AppTheme.cardText)
+                                    Text(selectedDayReflection)
+                                        .font(.system(size: 17, weight: .medium))
+                                        .foregroundStyle(AppTheme.cardText.opacity(0.9))
+                                }
+                                if selectedDayScripture.isEmpty && selectedDayPrayer.isEmpty && selectedDayReflection.isEmpty && !selectedDayContent.isEmpty {
+                                    Text(selectedDayContent)
+                                        .font(.system(size: 17, weight: .medium))
+                                        .foregroundStyle(AppTheme.cardText.opacity(0.9))
+                                }
+                            }
+                        }
+                    }
+
+                    if currentCommitment != nil || latestCommitment?.status == .completed {
+                        Button(completionButtonTitle) {
+                            Task {
+                                guard let active = currentCommitment else { return }
+                                let total = max(1, effectiveNovena.durationDays)
+                                let justCompletedFinalDay = active.currentDay >= total
+                                await progressStore.completeCurrentDay(
+                                    novenaID: effectiveNovena.id,
+                                    totalDays: total
+                                )
+                                if justCompletedFinalDay {
+                                    selectedDay = total
+                                    showCompletionModal = true
+                                } else if let next = progressStore.activeCommitment(for: effectiveNovena.id)?.currentDay {
+                                    selectedDay = min(max(1, next), total)
+                                } else {
+                                    selectedDay = total
+                                }
+                            }
+                        }
+                        .buttonStyle(PrimaryPillButtonStyle())
+                        .disabled(latestCommitment?.status == .completed)
+                        .padding(.top, 4)
+                    }
+
+                    if !relatedSaints.isEmpty {
+                        DetailCard(title: localization.t("detail.relatedSaints")) {
+                            VStack(alignment: .leading, spacing: 10) {
+                                ForEach(relatedSaints) { saint in
+                                    Button {
+                                        selectedSaintSelection = IDSelection(id: saint.id)
+                                    } label: {
+                                        Text(saint.name)
+                                            .font(.system(size: 18, weight: .semibold))
+                                            .foregroundStyle(.white)
+                                            .frame(maxWidth: .infinity)
+                                            .padding(.vertical, 14)
+                                            .background(AppTheme.purpleButton)
+                                            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+                                    }
+                                    .buttonStyle(.plain)
+                                }
+                            }
+                        }
+                    }
+                }
+                .padding(.horizontal, 16)
+                .padding(.bottom, 26)
+            }
+        }
+        .toolbar(.hidden, for: .navigationBar)
+        .onAppear {
+            sourceDoc = ContentStore.novena(id: novena.id)
+            if let sourceDoc {
+                hydratedNovena = mapSourceNovena(sourceDoc)
+            }
+            isFavorite = progressStore.isFavorite(itemType: .novena, itemID: novena.id)
+            if let day = currentCommitment?.currentDay {
+                selectedDay = min(max(1, day), max(1, effectiveNovena.durationDays))
+            }
+            if selectedDay < 1 {
+                selectedDay = orderedDays.first?.dayNumber ?? 1
+            }
+        }
+        .task {
+            await loadRelatedSaints()
+        }
+        .sheet(item: $selectedSaintSelection) { selection in
+            if let saintDoc = ContentStore.saint(id: selection.id) {
+                SaintDetailView(
+                    saint: mapSourceSaint(saintDoc),
+                    displayYear: displayYear,
+                    onClose: { selectedSaintSelection = nil }
+                )
+            }
+        }
+        .alert(localization.t("novena.completedTitle"), isPresented: $showCompletionModal) {
+            Button(localization.t("common.done")) {
+                selectedDay = 1
+                Task(priority: .userInitiated) {
+                    await progressStore.stopNovena(novenaID: effectiveNovena.id)
+                }
+            }
+        } message: {
+            Text("\(localization.t("novena.completedMessagePrefix")) \(title) \(localization.t("novena.completedMessageSuffix"))")
+        }
+    }
+
+    private func loadRelatedSaints() async {
+        let id = effectiveNovena.id
+        let related = await Task.detached(priority: .userInitiated) {
+            RelationResolver.relatedSaints(forNovenaID: id)
+        }.value
+        relatedSaints = related
+    }
+
+    private func mapSourceNovena(_ doc: NovenaDocument) -> Novena {
+        let titleByLocale: [ContentLocale: String] = [
+            .en: doc.title ?? doc.id,
+            .es: doc.title_es ?? doc.title ?? doc.id,
+            .pl: doc.title_pl ?? doc.title ?? doc.id,
+        ]
+        let descriptionByLocale: [ContentLocale: String] = [
+            .en: doc.description ?? "",
+            .es: doc.description_es ?? doc.description ?? "",
+            .pl: doc.description_pl ?? doc.description ?? "",
+        ]
+        let days = (doc.days ?? []).map { d in
+            let title: [ContentLocale: String] = [
+                .en: d.title ?? "",
+                .es: d.title_es ?? d.title ?? "",
+                .pl: d.title_pl ?? d.title ?? "",
+            ]
+            let scripture: [ContentLocale: String] = [
+                .en: d.scripture ?? "",
+                .es: d.scripture_es ?? d.scripture ?? "",
+                .pl: d.scripture_pl ?? d.scripture ?? "",
+            ]
+            let prayer: [ContentLocale: String] = [
+                .en: d.prayer ?? "",
+                .es: d.prayer_es ?? d.prayer ?? "",
+                .pl: d.prayer_pl ?? d.prayer ?? "",
+            ]
+            let reflection: [ContentLocale: String] = [
+                .en: d.reflection ?? "",
+                .es: d.reflection_es ?? d.reflection ?? "",
+                .pl: d.reflection_pl ?? d.reflection ?? "",
+            ]
+            return NovenaDay(
+                dayNumber: d.day ?? 1,
+                titleByLocale: title,
+                scriptureByLocale: scripture,
+                prayerByLocale: prayer,
+                reflectionByLocale: reflection,
+                bodyByLocale: [
+                    .en: [title[.en], scripture[.en], prayer[.en], reflection[.en]].compactMap { $0 }.joined(separator: "\n\n"),
+                    .es: [title[.es], scripture[.es], prayer[.es], reflection[.es]].compactMap { $0 }.joined(separator: "\n\n"),
+                    .pl: [title[.pl], scripture[.pl], prayer[.pl], reflection[.pl]].compactMap { $0 }.joined(separator: "\n\n"),
+                ]
+            )
+        }
+        return Novena(
+            id: doc.id,
+            slug: doc.id,
+            titleByLocale: titleByLocale,
+            descriptionByLocale: descriptionByLocale,
+            durationDays: doc.durationDays ?? max(1, days.count),
+            tags: doc.tags ?? [],
+            imageURL: urlFromString(doc.image),
+            days: days
+        )
+    }
+
+    private func mapSourceSaint(_ doc: SaintDocument) -> Saint {
+        let mmdd = doc.mmdd ?? "01-01"
+        let parts = mmdd.split(separator: "-")
+        let month = parts.count == 2 ? Int(parts[0]) ?? 1 : 1
+        let day = parts.count == 2 ? Int(parts[1]) ?? 1 : 1
+        return Saint(
+            id: doc.id,
+            slug: doc.id,
+            name: doc.name ?? doc.id,
+            feastMonth: month,
+            feastDay: day,
+            imageURL: urlFromString(doc.photoUrl),
+            tags: [],
+            patronages: [],
+            feastLabelByLocale: [
+                .en: doc.feast ?? "",
+                .es: doc.feast_es ?? doc.feast ?? "",
+                .pl: doc.feast_pl ?? doc.feast ?? "",
+            ],
+            summaryByLocale: [
+                .en: doc.summary ?? "",
+                .es: doc.summary_es ?? doc.summary ?? "",
+                .pl: doc.summary_pl ?? doc.summary ?? "",
+            ],
+            biographyByLocale: [
+                .en: doc.biography ?? "",
+                .es: doc.biography_es ?? doc.biography ?? "",
+                .pl: doc.biography_pl ?? doc.biography ?? "",
+            ],
+            prayersByLocale: [.en: doc.prayers ?? [], .es: doc.prayers ?? [], .pl: doc.prayers ?? []],
+            sources: doc.sources ?? []
+        )
+    }
+
+    private func urlFromString(_ raw: String?) -> URL? {
+        guard let raw, !raw.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
+            return nil
+        }
+        if let direct = URL(string: raw) { return direct }
+        return raw.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed).flatMap(URL.init(string:))
+    }
+}
+
+private struct NovenaIndexCache {
+    struct MonthDay {
+        let month: Int
+        let day: Int
+    }
+
+    static let shared = load()
+
+    let fixedFeastDateByID: [String: MonthDay]
+
+    private struct IndexEntry: Decodable {
+        let id: String
+        let feastRule: FeastRule?
+    }
+
+    private struct FeastRule: Decodable {
+        let type: String
+        let month: Int?
+        let day: Int?
+    }
+
+    private static func load() -> NovenaIndexCache {
+        guard
+            let url = Bundle.main.url(forResource: "novenas_index", withExtension: "json", subdirectory: "Resources/LegacyData")
+                ?? Bundle.main.url(forResource: "novenas_index", withExtension: "json", subdirectory: "LegacyData")
+                ?? Bundle.main.url(forResource: "novenas_index", withExtension: "json"),
+            let data = try? Data(contentsOf: url),
+            let entries = try? JSONDecoder().decode([IndexEntry].self, from: data)
+        else {
+            return NovenaIndexCache(fixedFeastDateByID: [:])
+        }
+
+        var map: [String: MonthDay] = [:]
+        for entry in entries {
+            guard
+                let rule = entry.feastRule,
+                rule.type == "fixed",
+                let month = rule.month,
+                let day = rule.day
+            else {
+                continue
+            }
+            map[entry.id] = MonthDay(month: month, day: day)
+        }
+        return NovenaIndexCache(fixedFeastDateByID: map)
+    }
+}
+
+private struct IDSelection: Identifiable {
+    let id: String
+}
+
+private struct DetailCard<Content: View>: View {
+    let title: String
+    @ViewBuilder let content: Content
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            Text(title)
+                .font(.system(size: 22, weight: .heavy))
+                .foregroundStyle(AppTheme.cardText)
+
+            Divider().background(AppTheme.cardText.opacity(0.2))
+
+            content
+        }
+        .padding(16)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(AppTheme.cardBackground)
+        .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
+    }
+}
+
+private struct RemoteHeroImage: View {
+    let url: URL
+
+    var body: some View {
+        ZStack {
+            RoundedRectangle(cornerRadius: 0)
+                .fill(Color.white.opacity(0.12))
+
+            AsyncImage(url: url) { phase in
+                switch phase {
+                case .empty:
+                    ProgressView().tint(.white)
+                case .success(let image):
+                    image
+                        .resizable()
+                        .scaledToFit()
+                        .padding(.horizontal, 8)
+                case .failure:
+                    Color.gray.opacity(0.25)
+                @unknown default:
+                    Color.gray.opacity(0.25)
+                }
+            }
+        }
+        .frame(maxWidth: .infinity)
+        .frame(height: 260)
+        .clipShape(RoundedRectangle(cornerRadius: 0, style: .continuous))
+        .overlay(
+            RoundedRectangle(cornerRadius: 0, style: .continuous)
+                .stroke(Color.black.opacity(0.08), lineWidth: 1)
+        )
+    }
+}
+
+struct NovenaDetailView_Previews: PreviewProvider {
+    static var previews: some View {
+        NovenaDetailView(novena: LocalSeedData.novenas[0])
+            .environmentObject(LocalizationManager())
+            .environmentObject(
+                UserProgressStore(userProgressRepository: AppEnvironment.local().userProgressRepository)
+            )
+    }
+}

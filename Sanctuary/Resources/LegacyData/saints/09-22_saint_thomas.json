@@ -1,0 +1,79 @@
+{
+  "id": "09-22_saint_thomas",
+  "name": "Saint Thomas",
+  "mmdd": "09-22",
+  "feast": "The Twenty-Second Day of September",
+  "summary": "Thomas the Apostle also known as Didymus, was one of the Twelve Apostles of Jesus according to the New Testament. Thomas is commonly known as \"doubting Thomas\" because he initially doubted the resurrection of Jesus when he was told of it ; he later confessed his faith on seeing the places where the wounds appeared still fresh on the holy body of Jesus after the Crucifixion of Jesus.",
+  "biography": "According to traditional accounts of the Saint Thomas Christians of Kerala, Thomas travelled outside the Roman Empire to preach the Gospel, travelling through southern India in the modern states of Kerala and Tamil Nadu, and eventually reached Muziris (modern-day North Paravur and Kodungalloor) in 52 AD. He started the Church of the East in the region around the Van Province, Edessa, and Hakkari regions of Upper Mesopotamia (modern-day southeastern Turkey), presumably sometime between mid-late 30s and 45, and spent many years evangelizing both Jews and non-christians in the area before heading further east in the late 40s. In 1258, some of the relics were brought to Ortona, in Abruzzo, Italy...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-22_saint_thomas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c86f7fa2b0724849de82c48655a1049ce545375a129d868ecce0a886a5bfa1a4",
+        "langs": {
+          "es": {
+            "translatedHash": "f5bc1fdc3d327789f64a43175eba998cf4c7cb99454b4280c8d4389bec2ceba5",
+            "updatedAt": "2026-02-25T00:35:17.443Z"
+          },
+          "pl": {
+            "translatedHash": "e24241afc20acabc73c02d15496a523eb7eb0afc9e1e0933df4864ff3d23c01e",
+            "updatedAt": "2026-02-25T00:35:18.588Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "33a02aaf48155de15c143fa28ae93f52f70695c808bf7cfc836cdff3fd7275b1",
+        "langs": {
+          "es": {
+            "translatedHash": "937ea24d518bf0e08a41bac303641c230660f5864e97af861d32151c8e6db9f7",
+            "updatedAt": "2026-02-25T00:35:19.244Z"
+          },
+          "pl": {
+            "translatedHash": "1282df54f0e162fe8945bb99e252e563f3c459ad806345a339af65a29c4b68ae",
+            "updatedAt": "2026-02-25T00:35:19.916Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8a64a4aae45c52c70c7a15738091de99b95a33376760b6e9c7f11fca7065feb3",
+        "langs": {
+          "es": {
+            "translatedHash": "f020fe0ceecf2ed9e1cb73d2a8bc93e763a232b00ab6c03dece90b597c0076de",
+            "updatedAt": "2026-02-25T00:35:22.296Z"
+          },
+          "pl": {
+            "translatedHash": "21efbf11555f8fba20362a0a28bf36021a043df4e26644eb8ae4d9778e467e8d",
+            "updatedAt": "2026-02-25T00:35:24.301Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ad6754b76785d9498e6bff1377e21ac2392bc21df08f2b4ba1c7fc2b0ec6428b",
+        "langs": {
+          "es": {
+            "translatedHash": "21ca9c6ca27da7fcfe00c11e0a971d2d0f0e085eec85e77ef3237208cd668d30",
+            "updatedAt": "2026-02-25T00:35:27.760Z"
+          },
+          "pl": {
+            "translatedHash": "57a27baabe3aacd859820c96228cf7d78332d09824b40bce470bbef66b5d1c4a",
+            "updatedAt": "2026-02-25T00:35:32.308Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás",
+  "name_pl": "Święty Tomasz",
+  "feast_es": "El Vigésimo Segundo Día de Septiembre",
+  "feast_pl": "Dwudziesty drugi dzień września",
+  "summary_es": "Tomás el Apóstol, también conocido como Dídimo, fue uno de los Doce Apóstoles de Jesús según el Nuevo Testamento. Tomás es comúnmente conocido como \"Tomás el incrédulo\" porque inicialmente dudó de la resurrección de Jesús cuando se lo dijeron; más tarde confesó su fe al ver los lugares donde las heridas aparecían aún frescas en el santo cuerpo de Jesús después de la Crucifixión de Jesús.",
+  "summary_pl": "Tomasz Apostoł, znany również jako Didymus, był jednym z Dwunastu Apostołów Jezusa według Nowego Testamentu. Tomasz jest powszechnie znany jako „Tomasz niewierny”, ponieważ początkowo wątpił w zmartwychwstanie Jezusa, gdy mu o tym powiedziano; później wyznał swoją wiarę, widząc miejsca, gdzie rany na świętym ciele Jezusa po ukrzyżowaniu były nadal świeże.",
+  "biography_es": "Según los relatos tradicionales de los cristianos de Santo Tomás de Kerala, Tomás viajó fuera del Imperio Romano para predicar el Evangelio, recorriendo el sur de la India en los estados modernos de Kerala y Tamil Nadu, y finalmente llegó a Muziris (la actual North Paravur y Kodungalloor) en el año 52 d.C.  \nFundó la Iglesia del Este en la región alrededor de la provincia de Van, Edessa y las regiones de Hakkari en la Alta Mesopotamia (la actual sureste de Turquía), presumiblemente en algún momento entre mediados y finales de los años 30 y 45, y pasó muchos años evangelizando tanto a judíos como a no cristianos en la zona antes de dirigirse más al este a finales de los años 40.  \nEn 1258, algunas de las reliquias fueron llevadas a Ortona, en Abruzzo, Italia...",
+  "biography_pl": "Według tradycyjnych relacji Świętych Tomaszowych Chrześcijan z Kerali, Tomasz podróżował poza granice Cesarstwa Rzymskiego, aby głosić Ewangelię, przemierzając południowe Indie w dzisiejszych stanach Kerala i Tamil Nadu, aż w końcu dotarł do Muziris (dzisiejszy North Paravur i Kodungalloor) w 52 roku n.e.  \nZałożył Kościół Wschodni w regionie wokół prowincji Van, Edessy i Hakkari w Górnej Mezopotamii (dzisiejsza południowo-wschodnia Turcja), przypuszczalnie w okresie między połową lat 30. a 45., i spędził wiele lat na ewangelizacji zarówno Żydów, jak i niechrześcijan w tym obszarze, zanim pod koniec lat 40. udał się dalej na wschód.  \nW 1258 roku niektóre relikwie zostały przeniesione do Ortony, w Abruzji, we Włoszech..."
+}

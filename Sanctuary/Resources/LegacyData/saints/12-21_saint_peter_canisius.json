@@ -1,0 +1,79 @@
+{
+  "id": "12-21_saint_peter_canisius",
+  "name": "Saint Peter Canisius",
+  "mmdd": "12-21",
+  "feast": "The Twenty-first Day of December",
+  "summary": "Peter Canisius was a Dutch Jesuit priest known for his strong support for the Catholic faith during the Protestant Reformation in Germany, Austria, Bohemia, Moravia, Switzerland and the British Isles. The restoration of the Catholic Church in Germany is largely attributed to the work there of the Jesuits, which Canisius led. He is venerated in the Catholic Church as a saint and as a Doctor of the Church.",
+  "biography": "Peter Canisius (Dutch: Pieter Kanis; 8 May 1521 – 21 December 1597) was a Dutch Jesuit priest known for his strong support for the Catholic faith during the Protestant Reformation in Germany, Austria, Bohemia, Moravia, Switzerland and the British Isles. The restoration of the Catholic Church in Germany is largely attributed to the work there of the Jesuits, which Canisius led. He is venerated in the Catholic Church as a saint and as a Doctor of the Church. Life He was born in 1521 in Nijmegen in the Duchy of Guelders, which, until 1549, was part of the Habsburg Netherlands within the Holy Roman Empire and is now the Netherlands. His father was a wealthy burgermeister, Jacob Kanis. His mother, Ægidia van Houweningen, died shortly after Peter's birth. He was sent to study at the University of Cologne, where he earned a master's degree in 1540, at the age of 19. While there, he met Peter Faber, one of the founders of the Society of Jesus. Through him, Canisius became the first Dutchman to join the newly founded Society of Jesus in 1543. Canisius finished his studies in theology and then was ordained in 1546. Through his preaching and writings, Peter Canisius became one of the most...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Canisius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-21_saint_peter_canisius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6a9dc1face2165efe906361d4e3cc3e2ea58a89f263023ec8c6bd29d0da862a4",
+        "langs": {
+          "es": {
+            "translatedHash": "d874bf5732b4bf2d233b5c6fe4de6e4e05578e710619c7b8cb9d14e756bfb363",
+            "updatedAt": "2026-02-25T01:30:32.397Z"
+          },
+          "pl": {
+            "translatedHash": "6d140b1c33e07ad186de93157b779ea04fc38a73aaae96fea7abbe42de081e14",
+            "updatedAt": "2026-02-25T01:30:33.122Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6853974ceba1fe3bc2a402ade5814e3037b27f0ab716990d7e86a8a9f2eb2d65",
+        "langs": {
+          "es": {
+            "translatedHash": "71a4b6652aed48c3aae34400e7ec8fe4272a7babf822ca041310b3525e0a10d3",
+            "updatedAt": "2026-02-25T01:30:34.242Z"
+          },
+          "pl": {
+            "translatedHash": "e7fe4d85e63a434ddfb6b30e6f8c27f01d6ed40240459cf19ff2306b160201fc",
+            "updatedAt": "2026-02-25T01:30:34.845Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "89639cc0e315b9d47c4f77e91e79ae7fc58d9e33e0f4a362b508f188209ca8bd",
+        "langs": {
+          "es": {
+            "translatedHash": "d6c4d291329c7efed0e3fb6929d9b5e5a84e1fbeed6a50613f2c82ea02077583",
+            "updatedAt": "2026-02-25T01:30:36.788Z"
+          },
+          "pl": {
+            "translatedHash": "ea46ddf14db2fdb9dbe92c845330a2cdeaab9c2470fd31ece7865909045c0319",
+            "updatedAt": "2026-02-25T01:30:39.694Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2ebf94e511b0bd9cd2863c357970a5e5b05d9c7c567f76527683e24ab622b662",
+        "langs": {
+          "es": {
+            "translatedHash": "2bf8b4095934317a9f2e854aa61513dc3cd880706b53afd705713bc8a1d1bb74",
+            "updatedAt": "2026-02-25T01:30:45.215Z"
+          },
+          "pl": {
+            "translatedHash": "278c826e44c7f70b7643feadd3999986ab6d5a9a21c695b4540abc42d950ef03",
+            "updatedAt": "2026-02-25T01:30:51.791Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Canisio",
+  "name_pl": "Święty Piotr Kanizjusz",
+  "feast_es": "El vigésimo primer día de diciembre",
+  "feast_pl": "Dwudziesty pierwszy dzień grudnia",
+  "summary_es": "Pedro Canisio fue un sacerdote jesuita holandés conocido por su firme apoyo a la fe católica durante la Reforma Protestante en Alemania, Austria, Bohemia, Moravia, Suiza y las Islas Británicas. La restauración de la Iglesia Católica en Alemania se atribuye en gran medida al trabajo de los jesuitas allí, que Canisio dirigió. Es venerado en la Iglesia Católica como santo y como Doctor de la Iglesia.",
+  "summary_pl": "Piotr Kanizjusz był holenderskim jezuitą, znanym ze swojego zdecydowanego wsparcia dla wiary katolickiej podczas reformacji protestanckiej w Niemczech, Austrii, Czechach, Morawach, Szwajcarii i na Wyspach Brytyjskich. Przywrócenie Kościoła katolickiego w Niemczech przypisuje się w dużej mierze pracy jezuitów, którymi kierował Kanizjusz. Jest czczony w Kościele katolickim jako święty i Doktor Kościoła.",
+  "biography_es": "Pedro Canisio (neerlandés: Pieter Kanis; 8 de mayo de 1521 – 21 de diciembre de 1597) fue un sacerdote jesuita neerlandés conocido por su firme apoyo a la fe católica durante la Reforma protestante en Alemania, Austria, Bohemia, Moravia, Suiza y las Islas Británicas. La restauración de la Iglesia Católica en Alemania se atribuye en gran medida al trabajo de los jesuitas allí, que Canisio dirigió. Es venerado en la Iglesia Católica como santo y Doctor de la Iglesia.\n\nVida  \nNació en 1521 en Nijmegen, en el Ducado de Güeldres, que hasta 1549 formaba parte de los Países Bajos de los Habsburgo dentro del Sacro Imperio Romano Germánico y que ahora es parte de los Países Bajos. Su padre era un rico burgomaestre, Jacob Kanis. Su madre, Ægidia van Houweningen, murió poco después del nacimiento de Pedro. Fue enviado a estudiar a la Universidad de Colonia, donde obtuvo una maestría en 1540, a la edad de 19 años. Allí conoció a Pedro Faber, uno de los fundadores de la Compañía de Jesús. A través de él, Canisio se convirtió en el primer neerlandés en unirse a la recién fundada Compañía de Jesús en 1543. Canisio terminó sus estudios en teología y luego fue ordenado en 1546. A través de su predicación y escritos, Pedro Canisio se convirtió en uno de los más...",
+  "biography_pl": "Piotr Kanizjusz (niderlandzki: Pieter Kanis; 8 maja 1521 – 21 grudnia 1597) był holenderskim jezuitą, znanym z gorącego poparcia wiary katolickiej podczas reformacji protestanckiej w Niemczech, Austrii, Czechach, Morawach, Szwajcarii i na Wyspach Brytyjskich. Przywrócenie Kościoła katolickiego w Niemczech przypisuje się w dużej mierze działalności jezuitów, którą kierował Kanizjusz. Jest czczony w Kościele katolickim jako święty i Doktor Kościoła.\n\nŻycie  \nUrodził się w 1521 roku w Nijmegen w księstwie Geldern, które do 1549 roku było częścią Niderlandów Habsburskich w obrębie Świętego Cesarstwa Rzymskiego, a obecnie należy do Holandii. Jego ojciec, Jacob Kanis, był zamożnym burmistrzem. Matka, Ægidia van Houweningen, zmarła niedługo po narodzinach Piotra. Został wysłany na studia na Uniwersytet w Kolonii, gdzie w 1540 roku, mając 19 lat, uzyskał tytuł magistra. Podczas pobytu tam poznał Piotra Faber, jednego z założycieli Towarzystwa Jezusowego. Dzięki niemu Kanizjusz został pierwszym Holendrem, który wstąpił do nowo powstałego Towarzystwa Jezusowego w 1543 roku. Kanizjusz ukończył studia teologiczne, a następnie został wyświęcony w 1546 roku. Poprzez swoje kazania i pisma Piotr Kanizjusz stał się jednym z najbardziej..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "12-17_saint_florian",
+  "name": "Saint Florian",
+  "mmdd": "12-17",
+  "feast": "The Seventeenth Day of December",
+  "summary": "Florian was a Christian holy man and the patron saint of chimney sweeps, soapmakers, and firefighters. His feast day is 4 May. Florian is also the patron saint of Poland; the city of Linz, Austria; and Upper Austria, jointly with Leopold III, Margrave of Austria.",
+  "biography": "Life\nFlorian was born around AD 250 in the ancient Roman city of Aelium Cetium, present-day Sankt Pölten, Austria. He joined the Roman Army and advanced in the ranks, rising to commander of the imperial army in the Roman province of Noricum. In addition to his military duties, he was also responsible for organizing and leading firefighting brigades. Florian organized and trained an elite group of soldiers whose sole duty was to fight fires.\nDuring the Diocletianic Persecution of Christians, reports reached Rome that Florian was not enforcing the proscriptions against Christians in his territory. Aquilinus was sent to investigate these reports. When Aquilinus ordered Florian to offer sacrifice to the Roman gods in accordance with Roman religion, Florian refused. Florian was sentenced to be burned at the stake. Standing on the funeral pyre, Florian is reputed to have challenged the Roman...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Florian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-17_saint_florian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c57f4ae8353499dd0aa2b59ab7e48997e3c669df3a7195992932c5790423d62c",
+        "langs": {
+          "es": {
+            "translatedHash": "8e2a9bc40faa7489f1f694010b4422587da1dddade7b64e15955af49098d754e",
+            "updatedAt": "2026-02-25T01:27:47.089Z"
+          },
+          "pl": {
+            "translatedHash": "8cbf2036eaaf4d857e13fa18205807ecf64a90b1d2d8420bc37daaef503b722a",
+            "updatedAt": "2026-02-25T01:27:47.603Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "48ae33dfc1bcf5363a398eda0e6106f8003d4dcedc239dc8689943911ab6754e",
+        "langs": {
+          "es": {
+            "translatedHash": "65bf0cf035f452469b1f05b41adc2d6fa776e0b8ad42f907c92387bfddc64cde",
+            "updatedAt": "2026-02-25T01:27:48.273Z"
+          },
+          "pl": {
+            "translatedHash": "d720e27b83d91092420078b624945c4f7c65929d182dd70d771018d4adcb4e20",
+            "updatedAt": "2026-02-25T01:27:48.868Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a7346dfed737c0f0cc18c474ed5579d549d87d29b1657d45e099af8fde721b0e",
+        "langs": {
+          "es": {
+            "translatedHash": "02714a7e715343858117b71543d55bc2b9353506cadff76b4bf1091da3fafe2c",
+            "updatedAt": "2026-02-25T01:27:50.237Z"
+          },
+          "pl": {
+            "translatedHash": "afa6ea97630739f24f6c9e9847c2022ce1982cbb92d60482f1fbf229c0624830",
+            "updatedAt": "2026-02-25T01:27:51.776Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2ce3faa48cfa270508b6957120f4af810d4cc495e57a605bbdb4a2312895c328",
+        "langs": {
+          "es": {
+            "translatedHash": "e044a4174dc66423e456a11cb1667b7f6fb78dfeaee9530f472ff1c6c94ab856",
+            "updatedAt": "2026-02-25T01:27:55.537Z"
+          },
+          "pl": {
+            "translatedHash": "e7f41c8423e685cd71529694e9f5d1898b28c192b870cfc3430fece0c58ffb6f",
+            "updatedAt": "2026-02-25T01:28:00.121Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Florián",
+  "name_pl": "Święty Florian",
+  "feast_es": "El Decimoséptimo Día de Diciembre",
+  "feast_pl": "Siedemnasty Dzień Grudnia",
+  "summary_es": "Florián fue un santo cristiano y el patrón de los deshollinadores, fabricantes de jabón y bomberos. Su fiesta se celebra el 4 de mayo. Florián también es el santo patrón de Polonia; de la ciudad de Linz, Austria; y de Alta Austria, junto con Leopoldo III, margrave de Austria.",
+  "summary_pl": "Florian był chrześcijańskim świętym i patronem kominiarzy, mydlarzy oraz strażaków. Jego dzień obchodów przypada na 4 maja. Florian jest także patronem Polski; miasta Linz w Austrii; oraz Górnej Austrii, wspólnie z Leopoldem III, margrabią Austrii.",
+  "biography_es": "Vida  \nFlorián nació alrededor del año 250 d.C. en la antigua ciudad romana de Aelium Cetium, la actual Sankt Pölten, Austria. Se unió al ejército romano y ascendió en las filas, llegando a ser comandante del ejército imperial en la provincia romana de Noricum. Además de sus deberes militares, también era responsable de organizar y dirigir brigadas de bomberos. Florián organizó y entrenó a un grupo élite de soldados cuya única tarea era combatir incendios.  \nDurante la persecución diocesiana de los cristianos, llegaron a Roma informes de que Florián no estaba haciendo cumplir las prohibiciones contra los cristianos en su territorio. Aquilino fue enviado para investigar estos informes. Cuando Aquilino ordenó a Florián ofrecer sacrificios a los dioses romanos conforme a la religión romana, Florián se negó. Florián fue condenado a ser quemado en la hoguera. De pie sobre la pira funeraria, se dice que Florián desafió a los romanos...",
+  "biography_pl": "Życie  \nFlorian urodził się około 250 roku n.e. w starożytnym rzymskim mieście Aelium Cetium, obecnie Sankt Pölten w Austrii. Wstąpił do armii rzymskiej i awansował w szeregach, zostając dowódcą armii cesarskiej w rzymskiej prowincji Noricum. Oprócz obowiązków wojskowych odpowiadał także za organizację i dowodzenie strażami pożarnymi. Florian zorganizował i wyszkolił elitarną grupę żołnierzy, których jedynym zadaniem było gaszenie pożarów.  \nPodczas prześladowań chrześcijan za panowania Dioklecjana do Rzymu dotarły doniesienia, że Florian nie egzekwuje zakazów wobec chrześcijan na swoim terenie. Aquilinus został wysłany, aby zbadać te doniesienia. Gdy Aquilinus nakazał Florianowi złożyć ofiarę rzymskim bogom zgodnie z religią rzymską, Florian odmówił. Florian został skazany na spalenie na stosie. Stojąc na stosie pogrzebowym, Florian podobno wyzwał Rzymian..."
+}

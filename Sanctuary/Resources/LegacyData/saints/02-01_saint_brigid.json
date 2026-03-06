@@ -1,0 +1,79 @@
+{
+  "id": "02-01_saint_brigid",
+  "name": "Saint Brigid",
+  "mmdd": "02-01",
+  "feast": "The First Day of February",
+  "summary": "Brigid or Brigit, also Bríg, is a goddess of pre-Christian Ireland. She appears in Irish mythology as a member of the Tuatha Dé Danann, the daughter of the Dagda and wife of Bres, with whom she had a son named Ruadán.",
+  "biography": "Brigid or Brigit ( BRIJ-id, BREE-id, Irish: [ˈbʲɾʲiːdʲ]; meaning 'exalted one'), also Bríg, is a goddess of pre-Christian Ireland. She appears in Irish mythology as a member of the Tuatha Dé Danann, the daughter of the Dagda and wife of Bres, with whom she had a son named Ruadán. She is associated with wisdom, poetry, healing, protection, smithing and domesticated animals. Cormac's Glossary, written in the 9th century by Christian monks, says that Brigid was \"the goddess whom poets adored\" and that she had two sisters: Brigid the healer and Brigid the smith. This suggests she may have been a triple deity. She is also thought to have some relation to the British Celtic goddess Brigantia. Saint Brigid shares many of the goddess's attributes and her feast day, 1 February, was originally a festival called Imbolc. It has thus been argued that the saint is a Christianization of the goddess, or that the lore of the goddess was transferred to her, and that Imbolc was originally associated with the goddess. Name Middle Irish Brigit [ˈbʲɾʲiʝidʲ] evolved into early modern Irish Brighid [bʲɾʲiːdʲ] and, after a spelling reform in 1948, the spelling was standardised as Bríd [bʲɾʲiːdʲ]. The...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brigid",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-01_saint_brigid.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d163fb0872f83ca1992cd6aeb5d5c215db8287929d417fc8a19f7386ae84059f",
+        "langs": {
+          "es": {
+            "translatedHash": "03604e03ef9d8a208d04d44f5432735e35e05a7afc7e3a9489e3bdc2ffe403e1",
+            "updatedAt": "2026-02-24T22:26:58.289Z"
+          },
+          "pl": {
+            "translatedHash": "69088048b2883f3eb0eaba673b31e0841f4d6a98994beac459bf0f7acf9c7cf1",
+            "updatedAt": "2026-02-24T22:26:58.808Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "01d6878c996c3f9962363e0e89f162c490f531eafddd8954285d9237ea7fb673",
+        "langs": {
+          "es": {
+            "translatedHash": "88edbae6f3cdc8ceb441a026463af8bb0e98e5677509b3ad2ae3c7d9b787ca6e",
+            "updatedAt": "2026-02-24T22:26:59.529Z"
+          },
+          "pl": {
+            "translatedHash": "2ed68285aba5dcfeffcc9e16fb1c4cdf30a333b544b6dabcffef129b858ba6c3",
+            "updatedAt": "2026-02-24T22:27:00.061Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "fc9230590ffdd28c8156cbf4619817e93677c4e1f14feb39701d7374f7c640a5",
+        "langs": {
+          "es": {
+            "translatedHash": "3cc121cbadc13b0867bb89f252d1c0229c348acbd8bcb6f48bd10e496dc2592b",
+            "updatedAt": "2026-02-24T22:27:01.344Z"
+          },
+          "pl": {
+            "translatedHash": "b7a536cfb85c76562f6f839826fb01175a1d3f8b80f680029d0f20cf61760653",
+            "updatedAt": "2026-02-24T22:27:02.833Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "632362a4b5cffccc3fbce09d7f0272690956cfaf13eaa1526daf9e3bea11953a",
+        "langs": {
+          "es": {
+            "translatedHash": "65f5920c330f586557a09dace4ee1a12d919a1efe25dc61cba5b812257c82060",
+            "updatedAt": "2026-02-24T22:27:08.974Z"
+          },
+          "pl": {
+            "translatedHash": "53362744060172921b4f1db5b034cb302cd3eddf06ab818c999508af4e023cbe",
+            "updatedAt": "2026-02-24T22:27:18.037Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Brígida",
+  "name_pl": "Święta Brygida",
+  "feast_es": "El Primer Día de Febrero",
+  "feast_pl": "Pierwszy dzień lutego",
+  "summary_es": "Brigid o Brigit, también Bríg, es una diosa de la Irlanda precristiana. Aparece en la mitología irlandesa como miembro de los Tuatha Dé Danann, hija del Dagda y esposa de Bres, con quien tuvo un hijo llamado Ruadán.",
+  "summary_pl": "Brigid lub Brigit, także Bríg, jest boginią przedchrześcijańskiej Irlandii. Pojawia się w mitologii irlandzkiej jako członkini Tuatha Dé Danann, córka Dagdy i żona Bresa, z którym miała syna o imieniu Ruadán.",
+  "biography_es": "Brigid o Brigit (BRIJ-id, BREE-id, irlandés: [ˈbʲɾʲiːdʲ]; que significa 'la exaltada'), también Bríg, es una diosa de la Irlanda precristiana. Aparece en la mitología irlandesa como miembro de los Tuatha Dé Danann, hija del Dagda y esposa de Bres, con quien tuvo un hijo llamado Ruadán. Está asociada con la sabiduría, la poesía, la curación, la protección, la herrería y los animales domesticados. El Glosario de Cormac, escrito en el siglo IX por monjes cristianos, dice que Brigid era \"la diosa a quien adoraban los poetas\" y que tenía dos hermanas: Brigid la sanadora y Brigid la herrera. Esto sugiere que podría haber sido una deidad triple. También se piensa que tiene alguna relación con la diosa celta británica Brigantia. Santa Brigid comparte muchos de los atributos de la diosa y su día de fiesta, el 1 de febrero, fue originalmente un festival llamado Imbolc. Por ello se ha argumentado que la santa es una cristianización de la diosa, o que la tradición de la diosa fue transferida a ella, y que Imbolc estaba originalmente asociado con la diosa.  \nNombre  \nEl irlandés medio Brigit [ˈbʲɾʲiʝidʲ] evolucionó al irlandés moderno temprano Brighid [bʲɾʲiːdʲ] y, tras una reforma ortográfica en 1948, la grafía se estandarizó como Bríd [bʲɾʲiːdʲ]. El...",
+  "biography_pl": "Brigid lub Brigit (BRIJ-id, BREE-id, irlandzki: [ˈbʲɾʲiːdʲ]; oznaczające „wyniesiona”), także Bríg, jest boginią przedchrześcijańskiej Irlandii. Pojawia się w mitologii irlandzkiej jako członkini Tuatha Dé Danann, córka Dagdy i żona Bresa, z którym miała syna o imieniu Ruadán. Jest związana z mądrością, poezją, uzdrawianiem, ochroną, kowalstwem i zwierzętami udomowionymi. Słownik Cormaca, napisany w IX wieku przez chrześcijańskich mnichów, mówi, że Brigid była „boginią, którą czcili poeci” i że miała dwie siostry: Brigid uzdrowicielkę i Brigid kowala. Sugeruje to, że mogła być bóstwem potrójnym. Uważa się również, że miała pewien związek z brytyjską celtycką boginią Brigantią. Święta Brygida dzieli wiele cech z boginią, a jej dzień święta, 1 lutego, był pierwotnie świętem zwanym Imbolc. W związku z tym argumentowano, że święta jest chrystianizacją bogini lub że wiedza o bogini została na nią przeniesiona, a Imbolc pierwotnie wiązał się z boginią.  \nNazwa średnioirlandzka Brigit [ˈbʲɾʲiʝidʲ] przekształciła się w wczesno-nowoirlandzką Brighid [bʲɾʲiːdʲ], a po reformie ortograficznej w 1948 roku pisownia została ujednolicona jako Bríd [bʲɾʲiːdʲ]. The..."
+}

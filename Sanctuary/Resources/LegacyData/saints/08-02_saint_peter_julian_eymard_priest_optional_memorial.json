@@ -1,0 +1,48 @@
+{
+  "id": "08-02_saint_peter_julian_eymard_priest_optional_memorial",
+  "name": "Saint Peter Julian Eymard, Priest—Optional Memorial",
+  "mmdd": "08-02",
+  "feast": "The Second Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Julian_Eymard"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-02_saint_peter_julian_eymard_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "86819ff6e76db2bda889699b544280a9526d3c99da0e1db93f0524886374392b",
+        "langs": {
+          "es": {
+            "translatedHash": "bdd6ef90e53044ce4c395763672859e066d61eb2ac9ded031236b3692183de1b",
+            "updatedAt": "2026-02-25T00:09:06.641Z"
+          },
+          "pl": {
+            "translatedHash": "a8ce556bf70faaa578084a51e593abbdaeee1f8a297c52c1caacaeb14e61766e",
+            "updatedAt": "2026-02-25T00:09:07.768Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "52ae4ca2761c5f9a8fbe65b138d17ceb9f3d9e2b6c87e9148a241a7bd92eff27",
+        "langs": {
+          "es": {
+            "translatedHash": "6c17c77ae86aae92875cc9fd01567037237b6b6bc489a668860294fdaaa5facd",
+            "updatedAt": "2026-02-25T00:09:08.347Z"
+          },
+          "pl": {
+            "translatedHash": "b2b8a507a726726a8aa6cc333c67facd286dc629dea0c74e6d0bff7246b9d9ea",
+            "updatedAt": "2026-02-25T00:09:08.927Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Julián Eymard, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Piotr Julian Eymard, kapłan — wspomnienie dowolne",
+  "feast_es": "El Segundo Día de Agosto",
+  "feast_pl": "Drugi dzień sierpnia"
+}

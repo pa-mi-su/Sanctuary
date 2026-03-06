@@ -1,0 +1,48 @@
+{
+  "id": "08-28_saint_augustine_of_hippo_bishop_and_doctor_of_the_church_memorial",
+  "name": "Saint Augustine of Hippo, Bishop and Doctor of the Church—Memorial",
+  "mmdd": "08-28",
+  "feast": "The Twenty-Eighth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-28_saint_augustine_of_hippo_bishop_and_doctor_of_the_church_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ffc2b7d0d9a0208937c9f1978bce0bb41492867c1ee6210b12d20ea2da35a8ff",
+        "langs": {
+          "es": {
+            "translatedHash": "af00476ef3fb7ee8cdbe743ba0e786bc6e244aea3e95dbbba943f61e21b91ea5",
+            "updatedAt": "2026-02-25T00:23:13.191Z"
+          },
+          "pl": {
+            "translatedHash": "16f1819114c714dfe4b94ada9c45771c163b7b7bc2039c884bdf855206409a39",
+            "updatedAt": "2026-02-25T00:23:14.651Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b1da3237490177b8b31b47c3c51847121a9475245e85b1694079cb0130c69a41",
+        "langs": {
+          "es": {
+            "translatedHash": "6afce59845a882c56eea986c6285c453b852057c272536bbbb378821eb381a6a",
+            "updatedAt": "2026-02-25T00:23:16.357Z"
+          },
+          "pl": {
+            "translatedHash": "88455e4a8c24bad39ccfb95e87f052c5b20b771bf6f463e04a5c8d7efe1d6ac2",
+            "updatedAt": "2026-02-25T00:23:17.229Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Agustín de Hipona, Obispo y Doctor de la Iglesia—Memoria",
+  "name_pl": "Święty Augustyn z Hippony, Biskup i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Vigésimo Octavo Día de Agosto",
+  "feast_pl": "Dwudziesty ósmy dzień sierpnia"
+}

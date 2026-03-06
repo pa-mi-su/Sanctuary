@@ -1,0 +1,79 @@
+{
+  "id": "10-19_saint_caprasius",
+  "name": "Saint Caprasius",
+  "mmdd": "10-19",
+  "feast": "The Nineteenth Day of October",
+  "summary": "Saint Caprasius of Agen is venerated as a Christian martyr and saint of the fourth century. Relics associated with him were discovered at Agen in south-west France in the fifth century. Local legends dating from the 14th century make him the first bishop of Agen, though, as Alban Butler writes, the only evidence to support his existence is the dedication of a church to him in the 6th century.",
+  "biography": "In the year 866, Faith's remains had been transferred to Conques, which was along the pilgrimage route to Compostela.  Her cult, centered at the Abbatiale Sainte-Foy de Conques, spread along the pilgrim routes on the Way of St. James.  The Church of San Caprasio, built in the beginning of the 11th century, is a First Romanesque church located at Santa Cruz de la Serós, which was on the Way of St. James.\n\n\nLegend\nDuring the persecutions of Christians by the prefect Dacian, Caprasius fled to Mont-Saint-Vincent, near Agen.  He witnessed the execution of Faith...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caprasius_of_Agen",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-19_saint_caprasius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1aee410502a6577fe4f208c475d3782f0dfad0523f9debf6d9b436e3de922342",
+        "langs": {
+          "es": {
+            "translatedHash": "9cb0360214916b4382d5ed8e00273253891703b806f29908c2050209fd964023",
+            "updatedAt": "2026-02-25T00:52:11.703Z"
+          },
+          "pl": {
+            "translatedHash": "3fa8ed9263e3f51704f9bdb79051c47af90bc36bfa1360bd61a8e0ee85d30a39",
+            "updatedAt": "2026-02-25T00:52:12.405Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "86a76aa27de04935898f89a5611b96a67bb33dab2fb116b200aa6bdb1626d97d",
+        "langs": {
+          "es": {
+            "translatedHash": "10bafa45d2b6d326a5a281fd9d9d825e42f07fa4840aaeff6451322f909c319a",
+            "updatedAt": "2026-02-25T00:52:13.312Z"
+          },
+          "pl": {
+            "translatedHash": "b146ed56fad0b16b84d176b50b32b8fd33be3f062212312da83c90cb175cccf4",
+            "updatedAt": "2026-02-25T00:52:14.922Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ad7bcf4bceac468ba4154e0a81d28df82035a04a68be054d4be562f92f7ae428",
+        "langs": {
+          "es": {
+            "translatedHash": "91ac9e9900b868a191fdd51af00b85143ac04afccfccdc89036d0ec38a384b18",
+            "updatedAt": "2026-02-25T00:52:17.261Z"
+          },
+          "pl": {
+            "translatedHash": "6715203be44cb54bd496c8607f263a11a330d9f4608aa4378b9f9bd8d08b586b",
+            "updatedAt": "2026-02-25T00:52:20.033Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b23777003043260c0edffab284c77fb3f067d84199178bddce90566a848f471d",
+        "langs": {
+          "es": {
+            "translatedHash": "e190fbf2183eba8197ed1b6cd50baf75881f2f5acbc4cf572169d7e772bda1b5",
+            "updatedAt": "2026-02-25T00:52:22.002Z"
+          },
+          "pl": {
+            "translatedHash": "7092681b733fe52a332cab18de36d75e6a551097b7c584c91bc9bdecbd69aee5",
+            "updatedAt": "2026-02-25T00:52:25.820Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Caprasio",
+  "name_pl": "Święty Kapracy",
+  "feast_es": "El Diecinueve de Octubre",
+  "feast_pl": "Dziewiętnasty Dzień Października",
+  "summary_es": "San Caprasio de Agen es venerado como un mártir cristiano y santo del siglo IV. Reliquias asociadas con él fueron descubiertas en Agen, en el suroeste de Francia, en el siglo V. Leyendas locales que datan del siglo XIV lo presentan como el primer obispo de Agen, aunque, como escribe Alban Butler, la única evidencia que respalda su existencia es la dedicación de una iglesia en su honor en el siglo VI.",
+  "summary_pl": "Święty Kapracy z Agen jest czczony jako chrześcijański męczennik i święty IV wieku. Relikwie z nim związane zostały odkryte w Agen na południowym zachodzie Francji w V wieku. Lokalne legendy pochodzące z XIV wieku przedstawiają go jako pierwszego biskupa Agen, choć, jak pisze Alban Butler, jedynym dowodem na jego istnienie jest poświęcenie mu kościoła w VI wieku.",
+  "biography_es": "En el año 866, los restos de Fe fueron trasladados a Conques, que estaba en la ruta de peregrinación a Compostela. Su culto, centrado en la Abadía de Sainte-Foy de Conques, se difundió a lo largo de las rutas de peregrinación del Camino de Santiago. La Iglesia de San Caprasio, construida a principios del siglo XI, es una iglesia de primer románico situada en Santa Cruz de la Serós, que estaba en el Camino de Santiago.\n\nLeyenda  \nDurante las persecuciones de cristianos por el prefecto Daciano, Caprasio huyó a Mont-Saint-Vincent, cerca de Agen. Fue testigo de la ejecución de Fe...",
+  "biography_pl": "W roku 866 relikwie Wiary zostały przeniesione do Conques, które leżało na pielgrzymim szlaku do Composteli. Jej kult, skupiony wokół Opactwa Sainte-Foy de Conques, rozprzestrzenił się wzdłuż tras pielgrzymkowych na Drodze św. Jakuba. Kościół San Caprasio, zbudowany na początku XI wieku, jest pierwszym kościołem romańskim położonym w Santa Cruz de la Serós, które znajdowało się na Drodze św. Jakuba.\n\nLegenda  \nPodczas prześladowań chrześcijan przez prefekta Dacjana, Kaprazjusz uciekł na Mont-Saint-Vincent, niedaleko Agen. Był świadkiem egzekucji Wiary..."
+}

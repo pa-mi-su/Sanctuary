@@ -1,0 +1,82 @@
+{
+  "id": "11-07_saint_prosdocimus",
+  "name": "Saint Prosdocimus",
+  "mmdd": "11-07",
+  "feast": "The Seventh Day of November",
+  "summary": "This is a list of people, who died just prior to the Massacre of the Innocents or during the 1st century, who have received recognition from the Catholic Church as saints.",
+  "biography": "This is a list of people, who died just prior to the Massacre of the Innocents or during the 1st century, who have received recognition from the Catholic Church as saints.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justina_of_Padua",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Daniel_of_Padua",
+    "https://en.wikipedia.org/wiki/Saint_symbolism%3A_Saints_(I%E2%80%93P)",
+    "https://en.wikipedia.org/wiki/Chronological_list_of_saints_in_the_1st_century"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-07_saint_prosdocimus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8308c230faef005032c88395d4b64c09a7f0d618883506542907664318f77d32",
+        "langs": {
+          "es": {
+            "translatedHash": "80de9e542e5fa183bb249d7cfc0873135dac077d769fa8e4eea51111f45b2b50",
+            "updatedAt": "2026-02-25T01:03:21.492Z"
+          },
+          "pl": {
+            "translatedHash": "be6163b7f8851f67b185036a71572eefbfdd0f625c27a0f4061329eab40bcdd0",
+            "updatedAt": "2026-02-25T01:03:22.102Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ce65948a6c9e074491a134b4ebd314bf4bea362f905d3b8904ac9a0edb54bbed",
+        "langs": {
+          "es": {
+            "translatedHash": "fef9adbf540972b75826446a6d1b29bd45aefc031455f892bc4c07875761a26d",
+            "updatedAt": "2026-02-25T01:03:23.229Z"
+          },
+          "pl": {
+            "translatedHash": "ce1c1c28a6930d1892b05dfe4a21922c2aceedb6f8962de4f6487226c79ad0bc",
+            "updatedAt": "2026-02-25T01:03:23.816Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "511277bde46a704200d6ca45540dc036a6d99841d7af9342ad00c9fb57a10277",
+        "langs": {
+          "es": {
+            "translatedHash": "5d78b6ebb6736cd18bd23d72168b442061ad376feca08bd4f003e887e40e6f2d",
+            "updatedAt": "2026-02-25T01:03:25.193Z"
+          },
+          "pl": {
+            "translatedHash": "1bbaf3e2671925beea9b57be76dced3a3d00eb4037de8949e16dd426a2e387a3",
+            "updatedAt": "2026-02-25T01:03:26.668Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "511277bde46a704200d6ca45540dc036a6d99841d7af9342ad00c9fb57a10277",
+        "langs": {
+          "es": {
+            "translatedHash": "e9fd89b46eb172aa6c86f54248cdeb196ff41a1b16a30321d891f267c56462a4",
+            "updatedAt": "2026-02-25T01:03:27.762Z"
+          },
+          "pl": {
+            "translatedHash": "189bfa3a4cee854c82c8fde254508e7834aa32d9c8604f1d1131af6e2ade5c41",
+            "updatedAt": "2026-02-25T01:03:29.343Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Prosdocimo",
+  "name_pl": "Święty Prosdokym",
+  "feast_es": "El Séptimo Día de Noviembre",
+  "feast_pl": "Siódmy dzień listopada",
+  "summary_es": "Esta es una lista de personas, que murieron justo antes de la Matanza de los Inocentes o durante el siglo I, que han recibido reconocimiento de la Iglesia Católica como santos.",
+  "summary_pl": "Jest to lista osób, które zmarły tuż przed Rzezią Niewiniątek lub w I wieku, które otrzymały uznanie Kościoła katolickiego jako święci.",
+  "biography_es": "Esta es una lista de personas que murieron justo antes de la Matanza de los Inocentes o durante el siglo I, y que han recibido reconocimiento de la Iglesia Católica como santos.",
+  "biography_pl": "To jest lista osób, które zmarły tuż przed Rzezią Niewiniątek lub w I wieku, które otrzymały uznanie Kościoła katolickiego jako święci."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "09-14_saint_cyprian",
+  "name": "Saint Cyprian",
+  "mmdd": "09-14",
+  "feast": "The Fourteenth Day of September",
+  "summary": "Cyprian was a bishop of Carthage and an early Christian writer of Berber descent, many of whose Latin works are extant. He is recognized as a saint in the Western and Eastern churches.",
+  "biography": "Early life\nCyprian was born into a rich pagan Roman African Carthaginian family sometime during the early third century. His original name was Thascius; he took the additional name Caecilius in memory of the priest to whom he owed his conversion. Before his conversion, he was a leading member of a legal...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyprian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-14_saint_cyprian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "36295a1d3e1f22a1545ddbe0c92c16e9c075d20782df17fb23dbaf17ad112bfa",
+        "langs": {
+          "es": {
+            "translatedHash": "62dd3030dd7ac300f1450444008714cdc252dc7b7b52655df3b5689d8b6fce2d",
+            "updatedAt": "2026-02-25T00:30:37.835Z"
+          },
+          "pl": {
+            "translatedHash": "0a3994dc421d67641c73a5a7655ea6e1e6a2365ab88f4e8f9f97ad4051a8faf6",
+            "updatedAt": "2026-02-25T00:30:39.120Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bae09a3bcdaa61870cf1d9bcf3b49e414bbc93dcd53e4e9933861c43aba44145",
+        "langs": {
+          "es": {
+            "translatedHash": "6c41d1d329b8e4d0f465b9b70174d6f8efcb617ba5d1bedc0081f827d2a979eb",
+            "updatedAt": "2026-02-25T00:30:39.806Z"
+          },
+          "pl": {
+            "translatedHash": "44c7a8cf4be441bb77d4d6ee34e8ec2e888b7027d87b9c1916800d55a3a4991f",
+            "updatedAt": "2026-02-25T00:30:40.472Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b996342e8ce9035235ac21214d332788d30f3180a6dcb27670695a213389b513",
+        "langs": {
+          "es": {
+            "translatedHash": "7546f250eebca8721d2edb5334ce338a62a1871c12a0991783adf2b164c50903",
+            "updatedAt": "2026-02-25T00:30:41.692Z"
+          },
+          "pl": {
+            "translatedHash": "62696eeb3f397d49fb1ceeb734f6d62d412f2aa90648a00452001131e694184a",
+            "updatedAt": "2026-02-25T00:30:44.313Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a14732eaeef310df12f04c93fa58adacc33fc2486091c9cc25ef29c1a747f903",
+        "langs": {
+          "es": {
+            "translatedHash": "da50d576d38d5b523d7d75d0a013052760bfe928323e16c53a72bafd9407600e",
+            "updatedAt": "2026-02-25T00:30:45.781Z"
+          },
+          "pl": {
+            "translatedHash": "c1b58350fcb58483756b1836d13777f3fec6f97707269e388ff68b6f39031f50",
+            "updatedAt": "2026-02-25T00:30:48.213Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cipriano",
+  "name_pl": "Święty Cyprian",
+  "feast_es": "El catorce de septiembre",
+  "feast_pl": "Czternasty Dzień Września",
+  "summary_es": "Cipriano fue un obispo de Cartago y un escritor cristiano temprano de ascendencia bereber, de cuyos escritos latinos muchos se conservan. Es reconocido como santo en las iglesias Occidental y Oriental.",
+  "summary_pl": "Cyprian był biskupem Kartaginy i wczesnym chrześcijańskim pisarzem pochodzenia berberyjskiego, z których wiele łacińskich dzieł zachowało się do dziś. Jest uznawany za świętego w Kościołach zachodnim i wschodnim.",
+  "biography_es": "Vida temprana  \nCipriano nació en una rica familia pagana romana africana de Cartago en algún momento durante el inicio del siglo III. Su nombre original era Tascio; tomó el nombre adicional de Cecilio en memoria del sacerdote a quien debía su conversión. Antes de su conversión, fue un miembro destacado de una asociación legal...",
+  "biography_pl": "Wczesne życie  \nCyprian urodził się w bogatej, pogańskiej rzymsko-afrykańskiej rodzinie kartagińskiej gdzieś na początku III wieku. Jego pierwotne imię brzmiało Thascius; przyjął dodatkowe imię Caecilius na pamiątkę kapłana, któremu zawdzięczał swoje nawrócenie. Przed nawróceniem był czołowym członkiem środowiska prawnego..."
+}

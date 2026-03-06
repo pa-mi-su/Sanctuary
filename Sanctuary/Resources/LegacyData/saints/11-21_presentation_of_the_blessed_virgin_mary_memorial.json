@@ -1,0 +1,48 @@
+{
+  "id": "11-21_presentation_of_the_blessed_virgin_mary_memorial",
+  "name": "Presentation of the Blessed Virgin Mary—Memorial",
+  "mmdd": "11-21",
+  "feast": "The Twenty-First Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Veneration_of_Mary_in_the_Catholic_Church"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-21_presentation_of_the_blessed_virgin_mary_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "29f4f4535ce29394295a0842c6a96546e74482f8c7d1a9b2d3e53cbeafe872f8",
+        "langs": {
+          "es": {
+            "translatedHash": "52762dc4ebe103c07d20d7b59892a5661c2691dd618588b1be93dcf0eee37d63",
+            "updatedAt": "2026-02-25T01:12:05.988Z"
+          },
+          "pl": {
+            "translatedHash": "7cd113ea744e967e562d0ae1ef21af446410835b412e8e3f9722893819c00b0e",
+            "updatedAt": "2026-02-25T01:12:06.777Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d5e26719356f489d7aed5f014e3c339a178bed4f0e15523f96cc6b82dd954d5d",
+        "langs": {
+          "es": {
+            "translatedHash": "3771851aebe15bb011ead0894839ab8dca6a1c9d6612bf7eb81b90fe2c37b783",
+            "updatedAt": "2026-02-25T01:12:07.330Z"
+          },
+          "pl": {
+            "translatedHash": "2db0b78e85adae81cac46dbf4f418ca35f823498f759bdb3365ffeaa28df9267",
+            "updatedAt": "2026-02-25T01:12:07.871Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Presentación de la Santísima Virgen María—Memoria",
+  "name_pl": "Ofiarowanie Najświętszej Maryi Panny — Wspomnienie",
+  "feast_es": "El Vigésimo Primer Día de Noviembre",
+  "feast_pl": "Dwudziesty pierwszy dzień listopada"
+}

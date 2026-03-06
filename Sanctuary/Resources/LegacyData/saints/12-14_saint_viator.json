@@ -1,0 +1,78 @@
+{
+  "id": "12-14_saint_viator",
+  "name": "Saint Viator",
+  "mmdd": "12-14",
+  "feast": "The Fourteenth Day of December",
+  "summary": "Saint Viator High School is a private Catholic co-educational secondary school run by the Clerics of Saint Viator in Arlington Heights, Illinois, United States. It was founded by Father Louis Querbes and opened in 1961 to serve as a college-preparatory school for students from the northwest suburbs of Chicago, which is part of the Archdiocese of Chicago.",
+  "biography": "History\nThe Archdiocese of Chicago reallocated some land it had already owned — tentatively designated for a future cemetery — for educational purposes, and assigned the Clerics of St. Viator to build and run a boys' secondary school. It opened in 1961 to a small class of freshmen and a few sophomores, graduating its first class in 1965.\nEnrollments waxed and waned over the next few decades. Faced with declining numbers in 1987, the choice was made to merge with Sacred Heart of Mary High School of Rolling Meadows, with which Saint Viator already had a sister school relationship.  The merger occurred in the summer of 1987; Saint Viator absorbed the faculty, staff, and student body of Sacred Heart beginning with the 1987–88 school year, and admitted a co-educational freshman class (the class of 1991).\nThe physical plant remained...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Viator_High_School"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-14_saint_viator.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a03338bef8c5a62412165b9837c0145e30cd419102023722fa146d3f494e87f9",
+        "langs": {
+          "es": {
+            "translatedHash": "b7a77b29c4fd707bda0323ccf2a65572a4cf99cc4fdb1d9bec275ef5555918a5",
+            "updatedAt": "2026-02-25T01:26:32.554Z"
+          },
+          "pl": {
+            "translatedHash": "92ea6a69788fe2dd471b16d4fb4064c69348a28b93b57503aed3aa4797c428da",
+            "updatedAt": "2026-02-25T01:26:33.190Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b049a592c6fdcdde86e6d188a8d64a4a983949f7aad3d53e5d51359ac3638555",
+        "langs": {
+          "es": {
+            "translatedHash": "9bee1c6538124f427742c883ae2087d426fba2a07be0f1ef982ee96252fb26d7",
+            "updatedAt": "2026-02-25T01:26:34.130Z"
+          },
+          "pl": {
+            "translatedHash": "b00a6020b6dec762b6c7d0bc892ea7dcfa63d69b1f34fc17bd106db419d9f141",
+            "updatedAt": "2026-02-25T01:26:35.160Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3dfb32af2529aa318f3bddb32179fbf4f36dade3a755e9a1874435ba75fbf028",
+        "langs": {
+          "es": {
+            "translatedHash": "d0153185143feec512babb4b3bb4150eef026047cb36873012a84f69bdf475a2",
+            "updatedAt": "2026-02-25T01:26:36.881Z"
+          },
+          "pl": {
+            "translatedHash": "2d223fac4d30d15fd919808431de9d26cfc1fe4197cd0db03a1d1ec3b1cd2911",
+            "updatedAt": "2026-02-25T01:26:39.049Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "0343fb45c5929186a1527696a1f1af24732967f83804b099b7248312478ed5fb",
+        "langs": {
+          "es": {
+            "translatedHash": "cea0dab5719c606fa508997bfff52dd5f9251ff9fc83e94c61cde89f9d18354f",
+            "updatedAt": "2026-02-25T01:26:42.314Z"
+          },
+          "pl": {
+            "translatedHash": "1844e90e145c60e5008101813b7fe7ea80b2ed3412aabc9e3b5415acbb86cb38",
+            "updatedAt": "2026-02-25T01:26:47.303Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Viator",
+  "name_pl": "Święty Wiator",
+  "feast_es": "El día catorce de diciembre",
+  "feast_pl": "Czternasty dzień grudnia",
+  "summary_es": "La Escuela Secundaria Saint Viator es una escuela secundaria privada católica mixta dirigida por los Clérigos de San Viator en Arlington Heights, Illinois, Estados Unidos. Fue fundada por el Padre Louis Querbes y se inauguró en 1961 para servir como una escuela preparatoria para la universidad para estudiantes de los suburbios noroeste de Chicago, que forma parte de la Arquidiócesis de Chicago.",
+  "summary_pl": "Saint Viator High School to prywatna katolicka szkoła średnia koedukacyjna prowadzona przez Klerków Świętego Viatora w Arlington Heights, Illinois, Stany Zjednoczone. Została założona przez Ojca Louisa Querbesa i otwarta w 1961 roku, aby służyć jako szkoła przygotowująca do studiów dla uczniów z północno-zachodnich przedmieść Chicago, które są częścią Archidiecezji Chicago.",
+  "biography_es": "Historia  \nLa Arquidiócesis de Chicago reasignó un terreno que ya poseía — designado tentativamente para un futuro cementerio — para fines educativos, y asignó a los Clérigos de San Viator la tarea de construir y administrar una escuela secundaria para varones. Se inauguró en 1961 con una pequeña clase de estudiantes de primer año y algunos de segundo, graduando su primera promoción en 1965.  \nLas inscripciones aumentaron y disminuyeron durante las siguientes décadas. Ante la disminución de alumnos en 1987, se tomó la decisión de fusionarse con la Escuela Secundaria Sagrado Corazón de María de Rolling Meadows, con la cual San Viator ya tenía una relación de escuela hermana. La fusión se realizó en el verano de 1987; San Viator absorbió al profesorado, personal y alumnado de Sagrado Corazón a partir del año escolar 1987–88, y admitió una clase de primer año mixta (la clase de 1991).  \nLa planta física permaneció...",
+  "biography_pl": "Historia  \nArchidiecezja Chicago przeznaczyła ponownie część ziemi, którą już posiadała — wstępnie wyznaczoną na przyszły cmentarz — na cele edukacyjne i powierzyła Klerikom św. Viatora budowę i prowadzenie szkoły średniej dla chłopców. Szkoła została otwarta w 1961 roku dla niewielkiej klasy pierwszaków i kilku drugoklasistów, a pierwszy rocznik ukończył ją w 1965 roku.  \nLiczba uczniów wahała się w ciągu następnych kilku dekad. Wobec spadku liczby uczniów w 1987 roku podjęto decyzję o połączeniu się z Sacred Heart of Mary High School w Rolling Meadows, z którą Saint Viator już miał relację szkoły siostrzanej. Fuzja nastąpiła latem 1987 roku; Saint Viator przejął kadrę nauczycielską, personel i uczniów Sacred Heart począwszy od roku szkolnego 1987–88 i przyjął pierwszą klasę pierwszaków koedukacyjnych (rocznik 1991).  \nObiekt pozostał..."
+}

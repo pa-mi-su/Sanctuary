@@ -1,0 +1,48 @@
+{
+  "id": "11-16_saint_gertrude_the_great_virgin_optional_memorial",
+  "name": "Saint Gertrude the Great, Virgin—Optional Memorial",
+  "mmdd": "11-16",
+  "feast": "The Sixteenth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregorio_Vasquez_de_Arce_y_Ceballos_-_Saint_Gertrude_the_Great.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-16_saint_gertrude_the_great_virgin_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "35c621842bd63ae19640afcc77ad317db33e80a75965325f3eff0fd0625ca2bb",
+        "langs": {
+          "es": {
+            "translatedHash": "afabf4afb725a675af9d36823b82a70d1106c82aa68e10313b32dbc959ad4ebe",
+            "updatedAt": "2026-02-25T01:09:02.383Z"
+          },
+          "pl": {
+            "translatedHash": "8cc94a3468c05789c13f4bb3d6cfcfc238b28f3f9630422d8d86cdcec2c16b0a",
+            "updatedAt": "2026-02-25T01:09:03.056Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b975fffb69e23b03b0c1711ba88cb23c5a0dd596e304118b34e6e0a901f62aab",
+        "langs": {
+          "es": {
+            "translatedHash": "990b88acd75a64bd4c248d4251858d8ed0cc27aaf3c85b4d2ed387e7a5ac53dd",
+            "updatedAt": "2026-02-25T01:09:03.876Z"
+          },
+          "pl": {
+            "translatedHash": "057d3f733b3c22415fa31955d32514c49fdef704561cecbe8de158818cf1f44f",
+            "updatedAt": "2026-02-25T01:09:04.562Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Gertrudis la Grande, Virgen—Memoria Opcional",
+  "name_pl": "Święta Gertruda Wielka, Dziewica — Wspomnienie dowolne",
+  "feast_es": "El Dieciséis de Noviembre",
+  "feast_pl": "Szesnasty Dzień Listopada"
+}

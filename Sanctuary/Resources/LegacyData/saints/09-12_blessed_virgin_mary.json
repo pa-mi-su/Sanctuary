@@ -1,0 +1,79 @@
+{
+  "id": "09-12_blessed_virgin_mary",
+  "name": "Blessed Virgin Mary",
+  "mmdd": "09-12",
+  "feast": "The Twelfth Day of September",
+  "summary": "The Feast of the Most Holy Name of the Blessed Virgin Mary is an optional memorial celebrated in the liturgical calendar of the Catholic Church on 12 September. It has been a universal Roman Rite feast since 1684, when Pope Innocent XI included it in the General Roman Calendar to commemorate the victory at the Battle of Vienna in 1683. It was initially removed from the current Church calendar in the liturgical reform following Vatican II, but it was restored by Pope John Paul II in 2002 along with the Feast of the Holy Name of Jesus in January.",
+  "biography": "Mary was a first-century Jewish woman of Nazareth, the wife of Joseph and the mother of Jesus. She is an important figure of Christianity, venerated under various titles such as virgin or queen, many of which are mentioned in the Litany of Loreto. The Eastern and Oriental Orthodox, Catholic, Evangelical Lutheran, Reformed, Anglican, Methodist and Baptist churches believe that Mary, as mother of Jesus, is the Mother of God. The Church of the East historically regarded her as Christotokos, a term still used in the liturgy of the Assyrian Church of the East. She has the highest position in Islam among all women and is mentioned numerous times in the Quran, including in a chapter (surah) named after her. She is also revered in the Baháʼí and Druze faiths.\nThe synoptic Gospels name Mary as the mother of Jesus. The gospels of Matthew and Luke describe Mary as a virgin who was chosen by God to conceive Jesus through the Holy Spirit. After giving birth to Jesus in Bethlehem, she and her husband Joseph raised him in the city of Nazareth in Galilee, and she was in Jerusalem at his crucifixion and with the apostles after his ascension. Although her later life is not accounted in the Bible; Catholic...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Most_Holy_Name_of_the_Blessed_Virgin_Mary",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-12_blessed_virgin_mary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "490b595b3b7482adac9422f0a6a2a9d0ed9627f450d5754588556851af9bf2de",
+        "langs": {
+          "es": {
+            "translatedHash": "8da3848851d4e09fa28859d368dfb9258689a4785eb12a139866babe91455ea3",
+            "updatedAt": "2026-02-25T00:29:17.731Z"
+          },
+          "pl": {
+            "translatedHash": "9b0403b626232dd1cd3024139c58fbf6489445f788470a136190437386a58b26",
+            "updatedAt": "2026-02-25T00:29:18.623Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2b349472f953953d4cf63ef950f58065085342659bb34c0db88cf28da9249247",
+        "langs": {
+          "es": {
+            "translatedHash": "08af7972e248dd9aa8f8de3252a87629375c3ef723d1183bba7d4efec7d82bdf",
+            "updatedAt": "2026-02-25T00:29:19.720Z"
+          },
+          "pl": {
+            "translatedHash": "05a979bae4b5b6ab240c58c9b9a05b4f783819215c382ca0146128ed13801b5a",
+            "updatedAt": "2026-02-25T00:29:20.388Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "51a5cd8b1a07fde0a7da21ad3d0eb85465d1a3d99ed5f48a32130fa48e949d67",
+        "langs": {
+          "es": {
+            "translatedHash": "0bea88df673d251eb5e53a9729737e0442485e3efd58789b36704b6749d396e0",
+            "updatedAt": "2026-02-25T00:29:23.197Z"
+          },
+          "pl": {
+            "translatedHash": "3512d9ef42388237203428504351d3c14537e675cf26241e234066344a463e5c",
+            "updatedAt": "2026-02-25T00:29:26.563Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "77aa3f972f77180148b05808da06722399fef8f0ef1eb285f8e3b02e06b28816",
+        "langs": {
+          "es": {
+            "translatedHash": "6360d4198ba3bc03aedc65b16a27de2fc2f81f7e788477d443369c714366707c",
+            "updatedAt": "2026-02-25T00:29:31.549Z"
+          },
+          "pl": {
+            "translatedHash": "49e31ab91ea0a345be3259afd24a72f497d8286037575df522ddc0d37726f70d",
+            "updatedAt": "2026-02-25T00:29:37.873Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Virgen María",
+  "name_pl": "Błogosławiona Dziewica Maryja",
+  "feast_es": "El Duodécimo Día de Septiembre",
+  "feast_pl": "Dwunasty Dzień Września",
+  "summary_es": "La Fiesta del Santísimo Nombre de la Santísima Virgen María es una memoria opcional celebrada en el calendario litúrgico de la Iglesia Católica el 12 de septiembre. Ha sido una fiesta universal del Rito Romano desde 1684, cuando el Papa Inocencio XI la incluyó en el Calendario Romano General para conmemorar la victoria en la Batalla de Viena en 1683. Inicialmente fue eliminada del calendario actual de la Iglesia en la reforma litúrgica posterior al Vaticano II, pero fue restaurada por el Papa Juan Pablo II en 2002 junto con la Fiesta del Santo Nombre de Jesús en enero.",
+  "summary_pl": "Uroczystość Najświętszego Imienia Najświętszej Maryi Panny jest wspomnieniem dowolnym obchodzonym w kalendarzu liturgicznym Kościoła katolickiego 12 września. Jest to powszechne święto rytu rzymskiego od 1684 roku, kiedy to papież Innocenty XI włączył je do Ogólnego Kalendarza Rzymskiego na pamiątkę zwycięstwa w bitwie pod Wiedniem w 1683 roku. Początkowo zostało usunięte z obecnego kalendarza Kościoła w reformie liturgicznej po Soborze Watykańskim II, ale zostało przywrócone przez papieża Jana Pawła II w 2002 roku wraz z Uroczystością Najświętszego Imienia Jezus obchodzoną w styczniu.",
+  "biography_es": "María fue una mujer judía del siglo primero de Nazaret, esposa de José y madre de Jesús. Es una figura importante del cristianismo, venerada bajo varios títulos como virgen o reina, muchos de los cuales se mencionan en la Letanía de Loreto. Las iglesias ortodoxas orientales y orientales, católica, evangélica luterana, reformada, anglicana, metodista y bautista creen que María, como madre de Jesús, es la Madre de Dios. La Iglesia del Este la consideró históricamente como Christotokos, un término que aún se usa en la liturgia de la Iglesia Asiria del Este. Ella tiene la posición más alta en el islam entre todas las mujeres y es mencionada numerosas veces en el Corán, incluyendo en un capítulo (surah) que lleva su nombre. También es venerada en las religiones baháʼí y drusa.\n\nLos evangelios sinópticos nombran a María como la madre de Jesús. Los evangelios de Mateo y Lucas describen a María como una virgen que fue elegida por Dios para concebir a Jesús por medio del Espíritu Santo. Después de dar a luz a Jesús en Belén, ella y su esposo José lo criaron en la ciudad de Nazaret en Galilea, y ella estuvo en Jerusalén en su crucifixión y con los apóstoles después de su ascensión. Aunque su vida posterior no está relatada en la Biblia; católica...",
+  "biography_pl": "Maria była żydowską kobietą z I wieku z Nazaretu, żoną Józefa i matką Jezusa. Jest ważną postacią chrześcijaństwa, czczoną pod różnymi tytułami, takimi jak dziewica czy królowa, z których wiele wymienionych jest w Litanii Loretańskiej. Kościoły wschodnie i orientalne prawosławne, katolickie, ewangelicko-luterańskie, reformowane, anglikańskie, metodystyczne i baptystyczne wierzą, że Maria jako matka Jezusa jest Matką Bożą. Kościół Wschodu historycznie uważał ją za Christotokos, termin ten jest nadal używany w liturgii Asyryjskiego Kościoła Wschodu. Ma najwyższą pozycję w islamie spośród wszystkich kobiet i jest wielokrotnie wspominana w Koranie, w tym w rozdziale (surze) nazwanym jej imieniem. Jest również czczona w wierze Baháʼí i druzów.\n\nSynoptyczne Ewangelie nazywają Marię matką Jezusa. Ewangelie Mateusza i Łukasza opisują Marię jako dziewicę wybraną przez Boga, aby począć Jezusa przez Ducha Świętego. Po urodzeniu Jezusa w Betlejem, ona i jej mąż Józef wychowywali go w mieście Nazaret w Galilei, a ona była w Jerozolimie podczas jego ukrzyżowania oraz z apostołami po jego wniebowstąpieniu. Chociaż jej późniejsze życie nie jest opisane w Biblii; katolickie..."
+}
