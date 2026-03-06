@@ -74,41 +74,43 @@ struct NovenasSearchView: View {
 
     var body: some View {
         NavigationStack {
-            if mode == .intentions {
-                List(filteredIntentionItems) { item in
-                    NavigationLink {
-                        NovenaDetailView(novena: item.novena)
-                    } label: {
-                        VStack(alignment: .leading, spacing: 6) {
-                            Text(item.title).font(.headline)
-                            Text(localization.t("search.novenaType"))
-                                .font(.subheadline)
-                                .foregroundStyle(.secondary)
-                            Divider()
-                            Text("\(localization.t("search.intentionsLabel")): \(item.intentions.joined(separator: ", "))")
-                                .font(.subheadline)
-                                .foregroundStyle(.secondary)
-                                .lineLimit(3)
+            Group {
+                if mode == .intentions {
+                    List(filteredIntentionItems) { item in
+                        NavigationLink {
+                            NovenaDetailView(novena: item.novena)
+                        } label: {
+                            VStack(alignment: .leading, spacing: 6) {
+                                Text(item.title).font(.headline)
+                                Text(localization.t("search.novenaType"))
+                                    .font(.subheadline)
+                                    .foregroundStyle(.secondary)
+                                Divider()
+                                Text("\(localization.t("search.intentionsLabel")): \(item.intentions.joined(separator: ", "))")
+                                    .font(.subheadline)
+                                    .foregroundStyle(.secondary)
+                                    .lineLimit(3)
+                            }
                         }
                     }
-                }
-                .searchable(text: $intentionsQuery, prompt: localization.t("search.intentionsPrompt"))
-            } else {
-                List(viewModel.novenas) { novena in
-                    NavigationLink {
-                        NovenaDetailView(novena: novena)
-                    } label: {
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text(viewModel.title(for: novena)).font(.headline)
-                            Text(viewModel.summary(for: novena))
-                                .font(.subheadline)
-                                .foregroundStyle(.secondary)
-                                .lineLimit(2)
+                    .searchable(text: $intentionsQuery, prompt: localization.t("search.intentionsPrompt"))
+                } else {
+                    List(viewModel.novenas) { novena in
+                        NavigationLink {
+                            NovenaDetailView(novena: novena)
+                        } label: {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text(viewModel.title(for: novena)).font(.headline)
+                                Text(viewModel.summary(for: novena))
+                                    .font(.subheadline)
+                                    .foregroundStyle(.secondary)
+                                    .lineLimit(2)
+                            }
                         }
                     }
+                    .searchable(text: $viewModel.query, prompt: localization.t("search.novenasPrompt"))
+                    .onSubmit(of: .search) { Task { await viewModel.search() } }
                 }
-                .searchable(text: $viewModel.query, prompt: localization.t("search.novenasPrompt"))
-                .onSubmit(of: .search) { Task { await viewModel.search() } }
             }
             .task {
                 viewModel.setLocale(localization.language.contentLocale)
