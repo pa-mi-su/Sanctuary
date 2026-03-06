@@ -380,6 +380,7 @@ enum ContentStore {
     }
 
     private static func novenaCalendarMap(forYear year: Int, bundle: Bundle) -> [String: NovenaIndexEntry] {
+        let calendar = Calendar(identifier: .gregorian)
         cacheLock.lock()
         if let cached = novenaCalendarByYearCache[year] {
             cacheLock.unlock()
@@ -401,11 +402,11 @@ enum ContentStore {
             }
 
             if let start {
-                let key = monthDayKey(month: Calendar.current.component(.month, from: start), day: Calendar.current.component(.day, from: start))
+                let key = monthDayKey(month: calendar.component(.month, from: start), day: calendar.component(.day, from: start))
                 if dayMap[key] == nil { dayMap[key] = entry }
             }
             if let feast {
-                let key = monthDayKey(month: Calendar.current.component(.month, from: feast), day: Calendar.current.component(.day, from: feast))
+                let key = monthDayKey(month: calendar.component(.month, from: feast), day: calendar.component(.day, from: feast))
                 if dayMap[key] == nil { dayMap[key] = entry }
             }
         }
