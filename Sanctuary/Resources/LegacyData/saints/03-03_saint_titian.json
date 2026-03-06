@@ -1,0 +1,78 @@
+{
+  "id": "03-03_saint_titian",
+  "name": "Saint Titian",
+  "mmdd": "03-03",
+  "feast": "The Third day of March",
+  "summary": "The Pesaro Madonna is a painting by the late Italian Renaissance master Titian, commissioned by Jacopo Pesaro, whose family acquired in 1518 the chapel in the Frari Basilica in Venice for which the work was painted, and where it remains today. Jacopo was Bishop of Paphos, in Cyprus, and had been named commander of the papal fleet by the Borgia pope, Alexander VI. This painting recalls one of Titian's earliest paintings, Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter, c. 1510-11",
+  "biography": "Aesthetics\n\nTitian depicts his patron in a devotional stance, kneeling before the Virgin and presented to her by Saint Peter.  Prominently displayed on the step is Saint Peter's key; its diagonal plane, leading toward the Virgin, parallels that of Jacopo.  The Virgin's position at the top of the steps alludes to her celestial role as Madonna della Scala (Madonna of the Stairs) and as the Stairway to Heaven. Titian used his wife, who died in childbirth soon after, as the model for the Virgin Mary in this work.\nThe large red banner at the far left prominently displays the papal arms in the center and those of Jacopo below...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pesaro_Madonna"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-03_saint_titian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3b054bd3ef820e3a3943d73990113a5bd87e1a612d7d3fe330df4215a53aa367",
+        "langs": {
+          "es": {
+            "translatedHash": "ff5cc8b4a305535fe39dff440231e0031591e2547c0c50a94a44f75fd9bf85f4",
+            "updatedAt": "2026-02-24T22:47:38.768Z"
+          },
+          "pl": {
+            "translatedHash": "8f7e2d028bfa67d55e469610b7d4224af4f20dd44b3bb3de5efc3a09c9ee39a2",
+            "updatedAt": "2026-02-24T22:47:39.396Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "27a6e4b0e7f7a75fbb82512388e793ccc1d123924e49f9c17e5d0f6a17e7ab1e",
+        "langs": {
+          "es": {
+            "translatedHash": "5c049afe82bb390d35ee00f6464e6bf319feca104b5cfb9cdc8ce4cbd0c620f1",
+            "updatedAt": "2026-02-24T22:47:39.989Z"
+          },
+          "pl": {
+            "translatedHash": "736366cc539b671fd98a5faa7e931d0bb8df25bed4e22d7d74398dafb0a36241",
+            "updatedAt": "2026-02-24T22:47:40.555Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "96a22f54591db072ec19c5fe4fde6e4f925376451667cadfba0b68bda11d24d2",
+        "langs": {
+          "es": {
+            "translatedHash": "66c61c7c0057ed802b9542e93c8194eb6a9e3b8ee6652db3a25f12a017a5580f",
+            "updatedAt": "2026-02-24T22:47:43.101Z"
+          },
+          "pl": {
+            "translatedHash": "9804dc338bec2ee20e1facf23589e3b9d1e2f4b125456fd732cd7793b9e1b5be",
+            "updatedAt": "2026-02-24T22:47:45.677Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f04174d3c7503ce912d806a1424dae5a78961e7d3a41d77ede47a605a99ce8ea",
+        "langs": {
+          "es": {
+            "translatedHash": "e9167c3ae233bca94c82529c59ce617ed61a0bf03bedee5ecfbc10d73c08a13c",
+            "updatedAt": "2026-02-24T22:47:51.273Z"
+          },
+          "pl": {
+            "translatedHash": "17c890a71fab017f5a338be12b6c9b859ae4d39810f19bd3f6a85e5f9a0d644b",
+            "updatedAt": "2026-02-24T22:47:55.522Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Titiano",
+  "name_pl": "Święty Tycjan",
+  "feast_es": "El tercer día de marzo",
+  "feast_pl": "Trzeci dzień marca",
+  "summary_es": "La Madonna de Pesaro es una pintura del maestro del Renacimiento italiano tardío Tiziano, encargada por Jacopo Pesaro, cuya familia adquirió en 1518 la capilla en la Basílica de los Frari en Venecia para la cual se pintó la obra, y donde permanece hoy. Jacopo era obispo de Pafos, en Chipre, y había sido nombrado comandante de la flota papal por el papa Borgia, Alejandro VI. Esta pintura recuerda una de las primeras obras de Tiziano, en la que Jacopo Pesaro es presentado por el papa Alejandro VI a San Pedro, c. 1510-11.",
+  "summary_pl": "Madonna z Pesaro to obraz późnego mistrza włoskiego renesansu Tycjana, zamówiony przez Jacopo Pesaro, którego rodzina nabyła w 1518 roku kaplicę w bazylice Frari w Wenecji, dla której dzieło zostało namalowane i gdzie pozostaje do dziś. Jacopo był biskupem Pafos na Cyprze i został mianowany dowódcą floty papieskiej przez papieża Borgia, Aleksandra VI. Ten obraz przypomina jedno z najwcześniejszych dzieł Tycjana, przedstawiające Jacopo Pesaro wprowadzającego go papież Aleksander VI do św. Piotra, ok. 1510-11.",
+  "biography_es": "Estética\n\nTiziano representa a su patrón en una postura devocional, arrodillado ante la Virgen y presentado a ella por San Pedro. En el escalón, de manera prominente, se muestra la llave de San Pedro; su plano diagonal, que conduce hacia la Virgen, es paralelo al de Jacopo. La posición de la Virgen en la cima de los escalones alude a su papel celestial como Madonna della Scala (Madonna de las Escaleras) y como la Escalera al Cielo. Tiziano utilizó a su esposa, que murió en el parto poco después, como modelo para la Virgen María en esta obra.  \nLa gran bandera roja en el extremo izquierdo exhibe de manera destacada las armas papales en el centro y las de Jacopo debajo...",
+  "biography_pl": "Estetyka\n\nTycjan przedstawia swojego patrona w postawie pobożnej, klęczącego przed Najświętszą Maryją Panną i przedstawionego jej przez św. Piotra. Na stopniu wyraźnie widoczny jest klucz św. Piotra; jego ukośna płaszczyzna, prowadząca w stronę Maryi, jest równoległa do płaszczyzny Jacopa. Pozycja Maryi na szczycie schodów nawiązuje do jej niebiańskiej roli jako Madonna della Scala (Madonna ze Schodów) oraz jako Schody do Nieba. Tycjan użył swojej żony, która wkrótce potem zmarła przy porodzie, jako modelki do postaci Najświętszej Maryi Panny w tym dziele.  \nDuży czerwony baner po lewej stronie wyraźnie prezentuje w centrum papieskie godło, a poniżej godło Jacopa..."
+}

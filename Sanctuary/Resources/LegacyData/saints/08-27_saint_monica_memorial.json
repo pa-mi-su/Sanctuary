@@ -1,0 +1,48 @@
+{
+  "id": "08-27_saint_monica_memorial",
+  "name": "Saint Monica—Memorial",
+  "mmdd": "08-27",
+  "feast": "The Twenty-Seventh Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Monica-Kalamazoo.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-27_saint_monica_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f9bee1aabb43bb6857977cd9441a204f1f3b545381ebdd01e22871e82810fa03",
+        "langs": {
+          "es": {
+            "translatedHash": "6987acf023c5c2d9ec823cb7203dc1da0974d7c04be505207b1528801bb7d6c7",
+            "updatedAt": "2026-02-25T00:22:53.333Z"
+          },
+          "pl": {
+            "translatedHash": "96bccd88dfaf410d735db4e7b1aa0f6213f2d9dc97ea2a463ce7679c4fc2747b",
+            "updatedAt": "2026-02-25T00:22:54.009Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "256435720e11ba332af745abe6cc69caa2c50148b2734fa577c6021bf1fcd951",
+        "langs": {
+          "es": {
+            "translatedHash": "7a2ec6fe2ea13455309fc391731a2a0722934eb81a8c6977c0f229a067136d1b",
+            "updatedAt": "2026-02-25T00:22:54.696Z"
+          },
+          "pl": {
+            "translatedHash": "66257a40d0f9e41c8d9dae23bfe9bb689cb6072551ae0fcf393c20813f7788bb",
+            "updatedAt": "2026-02-25T00:22:55.404Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Mónica—Memorial",
+  "name_pl": "Święta Monika — Wspomnienie",
+  "feast_es": "El Vigésimo Séptimo Día de Agosto",
+  "feast_pl": "Dwudziesty siódmy dzień sierpnia"
+}

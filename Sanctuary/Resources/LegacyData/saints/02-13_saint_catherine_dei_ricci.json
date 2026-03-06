@@ -1,0 +1,79 @@
+{
+  "id": "02-13_saint_catherine_dei_ricci",
+  "name": "Saint Catherine dei Ricci",
+  "mmdd": "02-13",
+  "feast": "The Thirteenth Day of February",
+  "summary": "Catherine de' Ricci, OP, was an Italian Catholic nun in the Third Order of St. Dominic. She is believed to have had miraculous visions and corporeal encounters with Jesus Christ. She is also said to have spontaneously bled with the wounds of the crucified Christ. She is venerated for her mystic visions and is venerated as a saint by the Catholic Church.",
+  "biography": "Catherine de' Ricci, OP (Italian: Caterina de' Ricci) (23 April 1522 – 2 February 1590), was an Italian Catholic nun in the Third Order of St. Dominic. She is believed to have had miraculous visions and corporeal encounters with Jesus Christ. She is also said to have spontaneously bled with the wounds of the crucified Christ. She is venerated for her mystic visions and is venerated as a saint by the Catholic Church. Life She was born Alessandra Lucrezia Romola de' Ricci in the Manelli Palace in Florence to Pier Francesco de' Ricci, of a patrician banking family, and his wife, Caterina Bonza, who died soon after. At age 6 or 7, her father enrolled her in a school run by the Benedictine nuns of San Pietro de Monticelli near their home, where Alessandra's aunt, Luisa de' Ricci, was the abbess. There she developed a lifelong devotion to the Passion of Christ. After a short time outside the monastery, at the age of thirteen she entered the Convent of St Vincent in Prato, Tuscany, a cloistered community of the Third Order of St. Dominic. They were disciples of the noted Dominican friar Girolamo Savonarola, who followed the strict regimen of life she desired. In May 1535 she received...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_de'_Ricci",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-13_saint_catherine_dei_ricci.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7e323fdea3f13a701fc879465089017dd684d1f893c8fd3bcbe25d1a87e3d61f",
+        "langs": {
+          "es": {
+            "translatedHash": "89022c4e1f5255884664e1730806cc972f43630b08f50c4151214599dff9f91a",
+            "updatedAt": "2026-02-24T22:34:29.620Z"
+          },
+          "pl": {
+            "translatedHash": "46aa23f1d5140b636154183e5cb8b0b8f7e97bb11faacbd3b215d644dc17ad85",
+            "updatedAt": "2026-02-24T22:34:30.438Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c0c0774e22bf6c6e5d5c3eac9805cb9943b8929578d8c1f586b701fbd811f552",
+        "langs": {
+          "es": {
+            "translatedHash": "3570bd96d6f527a9d07717d511de109c34d96df1a3763abb334a2901f15be3a1",
+            "updatedAt": "2026-02-24T22:34:31.044Z"
+          },
+          "pl": {
+            "translatedHash": "24d46e5fba11fd8af34f6e9e21357abc7aa8dcc8b6a39bc23ad417faf528d7c8",
+            "updatedAt": "2026-02-24T22:34:31.565Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ae3208f82e71928b2e5f3866a2ed22c8e591b1bbef6c34ba9a47f697e6e43320",
+        "langs": {
+          "es": {
+            "translatedHash": "c0ea5983643036b11b4c389e7df9599f759c6cdd346163e6ef4b6bcbd28725de",
+            "updatedAt": "2026-02-24T22:34:33.979Z"
+          },
+          "pl": {
+            "translatedHash": "3fd8ceb46e0e0fe12edfec19e9b93d4aa1f69002fbb6d27cf64710c0722b30af",
+            "updatedAt": "2026-02-24T22:34:36.048Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1a7c3a5012fba0060cbd20011b18b8bcb8cfe074a8a75789ff6c19698a4f7790",
+        "langs": {
+          "es": {
+            "translatedHash": "4f4e7f21cd69a522ed241b94600d0a751f160f254f6e4ccfa75031de315693cb",
+            "updatedAt": "2026-02-24T22:34:42.319Z"
+          },
+          "pl": {
+            "translatedHash": "514556fbf1417f2f032c984ef74be6d2fe8ce30f09a5359cad4f8c48c73a4fb8",
+            "updatedAt": "2026-02-24T22:34:50.809Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Catalina de Ricci",
+  "name_pl": "Święta Katarzyna dei Ricci",
+  "feast_es": "El día trece de febrero",
+  "feast_pl": "Trzynasty dzień lutego",
+  "summary_es": "Catarina de' Ricci, OP, fue una monja católica italiana de la Tercera Orden de San Domingo. Se cree que tuvo visiones milagrosas y encuentros corporales con Jesucristo. También se dice que sangraba espontáneamente con las heridas del Cristo crucificado. Es venerada por sus visiones místicas y es venerada como santa por la Iglesia Católica.",
+  "summary_pl": "Katarzyna de' Ricci, OP, była włoską katolicką zakonnicą z Trzeciego Zakonu św. Dominika. Uważa się, że miała cudowne wizje i cielesne spotkania z Jezusem Chrystusem. Mówi się również, że spontanicznie krwawiła z ran ukrzyżowanego Chrystusa. Jest czczona za swoje mistyczne wizje i jest czczona jako święta przez Kościół katolicki.",
+  "biography_es": "Caterina de' Ricci, OP (italiano: Caterina de' Ricci) (23 de abril de 1522 – 2 de febrero de 1590), fue una monja católica italiana de la Tercera Orden de San Domingo. Se cree que tuvo visiones milagrosas y encuentros corporales con Jesucristo. También se dice que sangró espontáneamente con las heridas del Cristo crucificado. Es venerada por sus visiones místicas y es venerada como santa por la Iglesia Católica.\n\nVida  \nNació como Alessandra Lucrezia Romola de' Ricci en el Palacio Manelli en Florencia, hija de Pier Francesco de' Ricci, de una familia patricia bancaria, y de su esposa, Caterina Bonza, quien murió poco después. A los 6 o 7 años, su padre la inscribió en una escuela dirigida por las monjas benedictinas de San Pietro de Monticelli cerca de su casa, donde la tía de Alessandra, Luisa de' Ricci, era la abadesa. Allí desarrolló una devoción de por vida a la Pasión de Cristo.\n\nDespués de un breve tiempo fuera del monasterio, a la edad de trece años ingresó al Convento de San Vicente en Prato, Toscana, una comunidad clausurada de la Tercera Orden de San Domingo. Eran discípulas del célebre fraile dominico Girolamo Savonarola, quien seguía el estricto régimen de vida que ella deseaba. En mayo de 1535 recibió...",
+  "biography_pl": "Katarzyna de’ Ricci, OP (włoski: Caterina de’ Ricci) (23 kwietnia 1522 – 2 lutego 1590), była włoską zakonnicą katolicką z Trzeciego Zakonu św. Dominika. Uważa się, że miała cudowne wizje i cielesne spotkania z Jezusem Chrystusem. Mówi się również, że spontanicznie krwawiła ranami ukrzyżowanego Chrystusa. Jest czczona za swoje mistyczne wizje i jest czczona jako święta przez Kościół katolicki.\n\nŻycie  \nUrodziła się jako Alessandra Lucrezia Romola de’ Ricci w Pałacu Manelli we Florencji, jako córka Piera Francesca de’ Ricci, pochodzącego z patrycjuszowskiej rodziny bankierskiej, oraz jego żony, Katarzyny Bonza, która zmarła niedługo po narodzinach córki. W wieku 6 lub 7 lat ojciec zapisał ją do szkoły prowadzonej przez benedyktyńskie zakonnice z San Pietro de Monticelli niedaleko ich domu, gdzie przeoryszą była ciotka Alessandry, Luisa de’ Ricci. Tam rozwinęła dożywotnie nabożeństwo do Męki Chrystusa.  \n\nPo krótkim czasie poza klasztorem, w wieku trzynastu lat wstąpiła do klasztoru św. Wincentego w Prato w Toskanii, zamkniętej wspólnoty Trzeciego Zakonu św. Dominika. Były one uczennicami znanego dominikańskiego zakonnika Girolama Savonaroli, który podążał za surowym trybem życia, jakiego pragnęła. W maju 1535 roku otrzymała..."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "08-18_saint_firmin",
+  "name": "Saint Firmin",
+  "mmdd": "08-18",
+  "feast": "The Eighteenth Day of August",
+  "summary": "Fermin was a holy man and martyr, traditionally venerated as the co-patron saint of Navarre, Spain. He was born in the mid 3rd century, so his death may be associated with the Diocletianic Persecution (303).",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fermin"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-18_saint_firmin.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0baf80b6443f8378ffef3cbd89d93c9890111a3474b531a4e8ebd77c5c67e913",
+        "langs": {
+          "es": {
+            "translatedHash": "6fd8429f5af119647b4efb6bdf21b205f76df0a0a800d16bc730c75dc00bb86c",
+            "updatedAt": "2026-02-25T00:17:21.272Z"
+          },
+          "pl": {
+            "translatedHash": "d60aa3c0d0ddbd72fd1ff6cbd87303d2265698e33da544f24239c2641ca557dc",
+            "updatedAt": "2026-02-25T00:17:21.817Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4f09b48e23e3fd086d1275fcaf04c803a2172f21d97a81ab95038f97f07ea822",
+        "langs": {
+          "es": {
+            "translatedHash": "5dd467b13d4db2174fa47ca7f946c875a88e658f3b34735f7be11cbb4f35b23e",
+            "updatedAt": "2026-02-25T00:17:22.380Z"
+          },
+          "pl": {
+            "translatedHash": "7dd91fbec79ebf6da3c3ecf3f72232990b15eb1408cf941728631b0fc0c0c354",
+            "updatedAt": "2026-02-25T00:17:22.857Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "efb7639a04f3c5432858da373f864ea8ee5e6b2e09350b3b028c26a9dca7239b",
+        "langs": {
+          "es": {
+            "translatedHash": "145a4b2f500d3a2845b7d369115658093dacc28b39a0c157b3122756ee05faab",
+            "updatedAt": "2026-02-25T00:17:24.201Z"
+          },
+          "pl": {
+            "translatedHash": "59c1af2a1e9a48574c6cbcba3708b9b437c77ee7ab51622c061868c01ef7b841",
+            "updatedAt": "2026-02-25T00:17:25.572Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Fermín",
+  "name_pl": "Święty Firmin",
+  "feast_es": "El día dieciocho de agosto",
+  "feast_pl": "Osiemnasty dzień sierpnia",
+  "summary_es": "Fermín fue un hombre santo y mártir, tradicionalmente venerado como copatrón de Navarra, España. Nació a mediados del siglo III, por lo que su muerte puede estar asociada con la Persecución Diocleciana (303).",
+  "summary_pl": "Fermin był świętym i męczennikiem, tradycyjnie czczonym jako współpatron Nawarry w Hiszpanii. Urodził się w połowie III wieku, więc jego śmierć może być związana z prześladowaniami dioklecjańskimi (303)."
+}

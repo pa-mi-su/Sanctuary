@@ -1,0 +1,48 @@
+{
+  "id": "08-07_saint_cajetan_priest_optional_memorial",
+  "name": "Saint Cajetan, Priest—Optional Memorial",
+  "mmdd": "08-07",
+  "feast": "The Seventh Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Henry_Newman"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-07_saint_cajetan_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4594705dbb9eb3f9a35bf5b917d36653c37ab568df2c085d42409b065f116627",
+        "langs": {
+          "es": {
+            "translatedHash": "6584c98814d65bcc7af4a9e81d34870e70b1fb85e1404bb80736294d008b1443",
+            "updatedAt": "2026-02-25T00:11:37.444Z"
+          },
+          "pl": {
+            "translatedHash": "2c98fa446b45c54247a727017f8f090519baa43fa82d1c61bfd8d495cab709ad",
+            "updatedAt": "2026-02-25T00:11:38.127Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0b1ce8aeb4df85c4730b1c03f29ab96241744702612e48e46a1920f7575fd913",
+        "langs": {
+          "es": {
+            "translatedHash": "73e2434d502e09859c89b34439b5cd938c5bb8deec65ce1b0b00eb3c31961fa0",
+            "updatedAt": "2026-02-25T00:11:38.769Z"
+          },
+          "pl": {
+            "translatedHash": "00c4cc0f8a7e7d278c9c400f64bfc4013aa4a3560fef56b41b523e3ab66cbd91",
+            "updatedAt": "2026-02-25T00:11:39.313Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cayetano, sacerdote—Memoria opcional",
+  "name_pl": "Święty Kajetan, kapłan — wspomnienie dowolne",
+  "feast_es": "El séptimo día de agosto",
+  "feast_pl": "Siódmy dzień sierpnia"
+}

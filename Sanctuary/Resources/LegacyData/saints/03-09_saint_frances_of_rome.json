@@ -1,0 +1,79 @@
+{
+  "id": "03-09_saint_frances_of_rome",
+  "name": "Saint Frances of Rome",
+  "mmdd": "03-09",
+  "feast": "The Ninth day of March",
+  "summary": "Francesca Bussa de' Leoni, known as Frances of Rome, was an Italian Catholic mystic, organizer of charitable services and a Benedictine oblate who founded a religious community of oblates, who share a common life without religious vows. She was canonized in 1608.",
+  "biography": "Francesca Bussa de' Leoni (1384 – 9 March 1440), known as Frances of Rome (Italian: Francesca Romana; Latin: Francisca Rōmāna), was an Italian Catholic mystic, organizer of charitable services and a Benedictine oblate who founded a religious community of oblates, who share a common life without religious vows. She was canonized in 1608. Life Frances was born in 1384 in Rome to a wealthy and aristocratic couple, Paolo Bussa and Iacobella dei Roffredeschi, in the up-and-coming district of Parione and christened in the nearby Church of St. Agnes on the famed Piazza Navona. When she was eleven years old, she wanted to be a nun, but, at about the age of twelve, her parents forced her to marry Lorenzo Ponziani, commander of the papal troops of Rome and member of an extremely wealthy family. Although the marriage had been arranged, it was a happy one that lasted for forty years. With her sister-in-law Vannozza, Frances visited the poor and cared for the sick, inspiring other wealthy women in the city to do the same. Soon after her marriage, Frances fell seriously ill. Her husband called a man in who dabbled in magic, but Frances drove him away, saying, \"Begone, thou servant of Satan...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frances_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-09_saint_frances_of_rome.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "04ead374c8e35e28a57da53d7e1fdec199ea1ee449b283dc83186aad922bc316",
+        "langs": {
+          "es": {
+            "translatedHash": "13d26df22df56e9a7d84ec3eb627c61251babec57658ad08fe286aaa3cc3ca9f",
+            "updatedAt": "2026-02-24T22:50:44.991Z"
+          },
+          "pl": {
+            "translatedHash": "93277e3534c3e437754283e6a0f97f60ffc1ad0dccc152675460a38328f420c6",
+            "updatedAt": "2026-02-24T22:50:46.365Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ddddf16c795380c9e932615da6403d2859475efce11d2ff2b1f7f2d537b1b13",
+        "langs": {
+          "es": {
+            "translatedHash": "a09e0dad487066a82956ce319c17c9aaf1c44a36ddd1066dccadcd383234ce69",
+            "updatedAt": "2026-02-24T22:50:47.002Z"
+          },
+          "pl": {
+            "translatedHash": "54545ca63a8276d2edea39ebe841b67261b1c2c5870a4247217f433bb282eabc",
+            "updatedAt": "2026-02-24T22:50:47.604Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c889532b3b603049cc1472b32853bc47fdfaf5340b626cbdfec23cb52c564dd3",
+        "langs": {
+          "es": {
+            "translatedHash": "cd080f295dc96e63bd816a6d1fd93ceca3dbc99a767dc7c1e8427586e0c777ed",
+            "updatedAt": "2026-02-24T22:50:49.158Z"
+          },
+          "pl": {
+            "translatedHash": "1cddd7e8a86181c74ebc0d488529ef592f6e52cae233db89a4ba4068229dd7d8",
+            "updatedAt": "2026-02-24T22:50:50.776Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f0ef92d74ce18af910c1a4a80e25836b3541b334177d1e721883f253131f068b",
+        "langs": {
+          "es": {
+            "translatedHash": "f6124aa1d01a6b7879014f1afaa23359cdeb3237c17373ccd3d6e9c951be8100",
+            "updatedAt": "2026-02-24T22:50:57.684Z"
+          },
+          "pl": {
+            "translatedHash": "be7405ae56b3fa158fdc93cfe33dfeb1093d437e6facb9ecdf8c938972d21199",
+            "updatedAt": "2026-02-24T22:51:04.731Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Francisca de Roma",
+  "name_pl": "Święta Franciszka Rzymska",
+  "feast_es": "El noveno día de marzo",
+  "feast_pl": "Dziewiąty dzień marca",
+  "summary_es": "Francesca Bussa de' Leoni, conocida como Francisca de Roma, fue una mística católica italiana, organizadora de servicios caritativos y oblata benedictina que fundó una comunidad religiosa de oblatas, que comparten una vida común sin votos religiosos. Fue canonizada en 1608.",
+  "summary_pl": "Francesca Bussa de' Leoni, znana jako Franciszka Rzymska, była włoską katolicką mistyczką, organizatorką służb charytatywnych oraz benedyktyńską oblacką, która założyła wspólnotę zakonną oblatów, dzielących wspólne życie bez ślubów zakonnych. Została kanonizowana w 1608 roku.",
+  "biography_es": "Francesca Bussa de' Leoni (1384 – 9 de marzo de 1440), conocida como Francisca de Roma (italiano: Francesca Romana; latín: Francisca Rōmāna), fue una mística católica italiana, organizadora de servicios caritativos y oblata benedictina que fundó una comunidad religiosa de oblatas, que comparten una vida común sin votos religiosos. Fue canonizada en 1608.\n\nVida\n\nFrancisca nació en 1384 en Roma, en una pareja rica y aristocrática, Paolo Bussa e Iacobella dei Roffredeschi, en el barrio emergente de Parione y fue bautizada en la cercana Iglesia de Santa Inés en la famosa Piazza Navona. Cuando tenía once años, quiso ser monja, pero, alrededor de los doce años, sus padres la obligaron a casarse con Lorenzo Ponziani, comandante de las tropas papales de Roma y miembro de una familia extremadamente rica. Aunque el matrimonio había sido arreglado, fue feliz y duró cuarenta años.\n\nCon su cuñada Vannozza, Francisca visitaba a los pobres y cuidaba a los enfermos, inspirando a otras mujeres adineradas de la ciudad a hacer lo mismo. Poco después de su matrimonio, Francisca cayó gravemente enferma. Su esposo llamó a un hombre que practicaba la magia, pero Francisca lo ahuyentó diciendo: \"¡Vete, siervo de Satanás...",
+  "biography_pl": "Francesca Bussa de' Leoni (1384 – 9 marca 1440), znana jako Franciszka Rzymska (włoski: Francesca Romana; łacina: Francisca Rōmāna), była włoską katolicką mistyczką, organizatorką służb charytatywnych oraz benedyktyńską oblacką, która założyła wspólnotę oblacką, dzielącą wspólne życie bez ślubów zakonnych. Została kanonizowana w 1608 roku.\n\nŻycie\n\nFranciszka urodziła się w 1384 roku w Rzymie w zamożnej i arystokratycznej rodzinie, Paola Bussy i Iacobelli dei Roffredeschi, w rozwijającej się dzielnicy Parione i została ochrzczona w pobliskim Kościele św. Agnieszki na słynnym Piazza Navona. \n\nGdy miała jedenaście lat, pragnęła zostać zakonnicą, lecz około dwunastego roku życia rodzice zmusili ją do poślubienia Lorenzo Ponzianiego, dowódcy papieskich wojsk rzymskich i członka niezwykle bogatej rodziny. Choć małżeństwo było aranżowane, było szczęśliwe i trwało czterdzieści lat. \n\nRazem z szwagierką Vannozzą Franciszka odwiedzała ubogich i opiekowała się chorymi, inspirując inne zamożne kobiety w mieście do podobnych działań. Niedługo po ślubie Franciszka poważnie zachorowała. Jej mąż wezwał człowieka zajmującego się magią, lecz Franciszka odprawiła go słowami: „Idź precz, sługo szatana..."
+}

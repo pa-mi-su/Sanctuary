@@ -1,0 +1,48 @@
+{
+  "id": "11-09_dedication_of_the_lateran_basilica_feast",
+  "name": "Dedication of the Lateran Basilica—Feast",
+  "mmdd": "11-09",
+  "feast": "The Ninth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-09_dedication_of_the_lateran_basilica_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "050e89b0518f80527137425d007022b65346c967d98bf0360213329ed5a92dbb",
+        "langs": {
+          "es": {
+            "translatedHash": "1f4f8c594c2db524b5e9c69d95952ed79697de2926ca2eaf5aec5c85a63b031f",
+            "updatedAt": "2026-02-25T01:04:21.276Z"
+          },
+          "pl": {
+            "translatedHash": "8e442342ccec485b43ea5c7d4a8dc7ec16ca19443de8b67f5c66473ce7000d1d",
+            "updatedAt": "2026-02-25T01:04:22.046Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e30e5df2e1bc6a4a7aff34178b039bad044647326da736a419d1f8b6a5293903",
+        "langs": {
+          "es": {
+            "translatedHash": "aa614c36a536c6e0fa219e358cd51345e716181658527b4a4a1913963ba43221",
+            "updatedAt": "2026-02-25T01:04:22.764Z"
+          },
+          "pl": {
+            "translatedHash": "8a547055227dbdc663e76fa8e1d8ab871566d6b7fe3bd959d1ad8bb772682fa8",
+            "updatedAt": "2026-02-25T01:04:23.423Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Dedicación de la Basílica de Letrán—Fiesta",
+  "name_pl": "Poświęcenie Bazyliki Laterańskiej — Uroczystość",
+  "feast_es": "El Noveno Día de Noviembre",
+  "feast_pl": "Dziewiąty dzień listopada"
+}

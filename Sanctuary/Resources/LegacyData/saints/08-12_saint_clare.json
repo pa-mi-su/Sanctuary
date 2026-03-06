@@ -1,0 +1,79 @@
+{
+  "id": "08-12_saint_clare",
+  "name": "Saint Clare",
+  "mmdd": "08-12",
+  "feast": "The Twelfth Day of August",
+  "summary": "Chiara Offreduccio, known as Clare of Assisi, is an Italian saint who was one of the first followers of Francis of Assisi.",
+  "biography": "Early life\n\nClare was born in Assisi to the Offreduccio household during the High Middle Ages, the eldest daughter of Favarone or Favorino Sciffi, Count of Sasso-Rosso, and his wife Ortolana. Traditional accounts say that Clare's father was a wealthy representative of an ancient Roman family, who owned a large palace in Assisi and a castle on the slope of Mount Subasio. Ortolana belonged to the noble...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clare_of_Assisi",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-12_saint_clare.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1283d6a6681ac76e86decf84dc3a570646778be57caa3d6ec936f126c5ec7c12",
+        "langs": {
+          "es": {
+            "translatedHash": "cf3c4aed0ee923f9a0597754403098a276465bd9e080a22c380e87d9305f3b31",
+            "updatedAt": "2026-02-25T00:13:47.427Z"
+          },
+          "pl": {
+            "translatedHash": "4dee24dee91fe0402cac37316f5f35c000edec720962933e2e5778312497d48e",
+            "updatedAt": "2026-02-25T00:13:47.891Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "257695bad282257fb4d949c3714ede9b0819c762f89164ee854a9da1845338d3",
+        "langs": {
+          "es": {
+            "translatedHash": "8e9c89e31f68ea705592abd63a4902bd6f744894fe1c9e3e5639305441466977",
+            "updatedAt": "2026-02-25T00:13:48.835Z"
+          },
+          "pl": {
+            "translatedHash": "5bbdc9a81137ae775887d76a7e3c52f53995c930c0bb05a85a02fd9e5cf1e78b",
+            "updatedAt": "2026-02-25T00:13:49.406Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8740c969f91f5e07cc2abb1a2e88685dac7047f7552f104251fa87a7cff2bd42",
+        "langs": {
+          "es": {
+            "translatedHash": "45451379a02b746aac55120e0d1a990690c3946b37c93454527df439e20d0580",
+            "updatedAt": "2026-02-25T00:13:50.888Z"
+          },
+          "pl": {
+            "translatedHash": "d78faea8e4f22be658b9ea01b4491f903351fbbd8b0492cb8b99147db181dfbd",
+            "updatedAt": "2026-02-25T00:13:51.810Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "71ae01db39cb5da7c296f386880cb0e26b680e374f697606fdd5d5deb96a13c4",
+        "langs": {
+          "es": {
+            "translatedHash": "28da36d5355bf24024b3cfdf43119f5edd8ceed08fa3a0e31081d1457d3511e3",
+            "updatedAt": "2026-02-25T00:13:53.268Z"
+          },
+          "pl": {
+            "translatedHash": "1889ba6d26c9a8250a526276e44aa7cfe6c5253060c208bfbe98b782650ccf51",
+            "updatedAt": "2026-02-25T00:13:55.701Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Clara",
+  "name_pl": "Święta Klara",
+  "feast_es": "El Duodécimo Día de Agosto",
+  "feast_pl": "Dwunasty dzień sierpnia",
+  "summary_es": "Chiara Offreduccio, conocida como Clara de Asís, es una santa italiana que fue una de las primeras seguidoras de Francisco de Asís.",
+  "summary_pl": "Chiara Offreduccio, znana jako Klara z Asyżu, jest włoską świętą, która była jedną z pierwszych naśladowczyń Franciszka z Asyżu.",
+  "biography_es": "Primera vida\n\nClara nació en Asís en la casa de los Offreduccio durante la Alta Edad Media, siendo la hija mayor de Favarone o Favorino Sciffi, conde de Sasso-Rosso, y su esposa Ortolana. Los relatos tradicionales dicen que el padre de Clara era un rico representante de una antigua familia romana, que poseía un gran palacio en Asís y un castillo en la ladera del Monte Subasio. Ortolana pertenecía a la noble...",
+  "biography_pl": "Wczesne życie\n\nKlara urodziła się w Asyżu w domu Offreduccio w okresie wysokiego średniowiecza, jako najstarsza córka Favarone lub Favorino Sciffi, hrabiego Sasso-Rosso, i jego żony Ortolany. Tradycyjne przekazy mówią, że ojciec Klary był zamożnym przedstawicielem starożytnej rzymskiej rodziny, która posiadała duży pałac w Asyżu oraz zamek na zboczu góry Subasio. Ortolana należała do szlacheckiego..."
+}

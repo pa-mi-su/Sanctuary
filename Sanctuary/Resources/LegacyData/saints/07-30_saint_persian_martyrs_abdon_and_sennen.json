@@ -1,0 +1,78 @@
+{
+  "id": "07-30_saint_persian_martyrs_abdon_and_sennen",
+  "name": "Saint Persian martyrs Abdon and Sennen",
+  "mmdd": "07-30",
+  "feast": "The Thirtieth Day of July",
+  "summary": "Abdon and Sennen, variously written in early calendars and martyrologies Abdo, Abdus, and Sennes, Sennis, Zennen, are recognized by the Catholic Church and Eastern Orthodox Church as Christian martyrs, with a feast day on 30 July. In some places they have been honoured on 20 March, and the first Sunday of May.",
+  "biography": "Veneration\nTheir Acts, written for the most part prior to the 9th century, describe them as Persian nobles, captured and taken...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abdon_and_Sennen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-30_saint_persian_martyrs_abdon_and_sennen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c26b73c98553dd112698420598df598065265269695f2abab940909ae1601839",
+        "langs": {
+          "es": {
+            "translatedHash": "50f06099d60e603ad19f096505b693f5ddb806950661f40c5f15ee5e9fedeb0a",
+            "updatedAt": "2026-02-25T00:06:36.217Z"
+          },
+          "pl": {
+            "translatedHash": "5e999c42d0d1608a30c2459ef055f33bc1943227bc291a2c9dfe2753cd16b474",
+            "updatedAt": "2026-02-25T00:06:36.859Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54249ce7c9acdb362a3bc0b2aef5b1119451eb4d601a52b917311baaf4e7e300",
+        "langs": {
+          "es": {
+            "translatedHash": "c11a0d62e039b6ff1767f9bd1e703da342df0b1605df8b0c65b2fc466b6c8a6f",
+            "updatedAt": "2026-02-25T00:06:37.400Z"
+          },
+          "pl": {
+            "translatedHash": "aac70162e4ed6b460a4c4082a5f1688571e356033ea276118454934ceeb9655b",
+            "updatedAt": "2026-02-25T00:06:37.868Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "762ab16fd47801cc2578562257592404f9b31b70847bb2f4813f0626bb11918a",
+        "langs": {
+          "es": {
+            "translatedHash": "9ddeeeecbd4b11bbd24b9229cde670083907945b85b129f6ae9c2740b0c90b24",
+            "updatedAt": "2026-02-25T00:06:39.649Z"
+          },
+          "pl": {
+            "translatedHash": "7bfc9626026bd7aa6fbb94b8a026387614dad27abe6b08aefaec42428e782a15",
+            "updatedAt": "2026-02-25T00:06:42.287Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b016bd9f4e60732c0f4af566712027de0a4d89923cf90508fca77e75339d7666",
+        "langs": {
+          "es": {
+            "translatedHash": "2a3124af8a37452a0a282a7c41faa48a3427fbca6b357bda5fb1cc64cbbb77bf",
+            "updatedAt": "2026-02-25T00:06:43.321Z"
+          },
+          "pl": {
+            "translatedHash": "b75e1dfc63f5ec7ae0c67e9fdddf0cb1520e5337794c744c1919f27878f0af1f",
+            "updatedAt": "2026-02-25T00:06:44.299Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos mártires persas Abdón y Senén",
+  "name_pl": "Święci męczennicy perscy Abdon i Sennen",
+  "feast_es": "El Trigésimo Día de Julio",
+  "feast_pl": "Trzydziesty dzień lipca",
+  "summary_es": "Abdón y Senén, escritos de diversas formas en los primeros calendarios y martirologios como Abdo, Abdus, y Sennes, Sennis, Zennen, son reconocidos por la Iglesia Católica y la Iglesia Ortodoxa Oriental como mártires cristianos, con una fiesta el 30 de julio. En algunos lugares han sido honrados el 20 de marzo y el primer domingo de mayo.",
+  "summary_pl": "Abdon i Sennen, różnie zapisywani we wczesnych kalendarzach i martyrologiach jako Abdo, Abdus oraz Sennes, Sennis, Zennen, są uznawani przez Kościół katolicki i Kościół prawosławny za męczenników chrześcijańskich, a ich wspomnienie przypada na 30 lipca. W niektórych miejscach czczeni byli 20 marca oraz w pierwszą niedzielę maja.",
+  "biography_es": "Veneración  \nSus Actas, escritas en su mayoría antes del siglo IX, los describen como nobles persas, capturados y llevados...",
+  "biography_pl": "Cześć  \nIch Akty, napisane w większości przed IX wiekiem, opisują ich jako perskich szlachciców, pojmanych i zabranych..."
+}

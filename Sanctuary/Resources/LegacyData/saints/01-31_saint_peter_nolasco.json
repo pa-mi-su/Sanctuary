@@ -1,0 +1,80 @@
+{
+  "id": "01-31_saint_peter_nolasco",
+  "name": "Saint Peter Nolasco",
+  "mmdd": "01-31",
+  "feast": "The Thirty-First Day of January",
+  "summary": "Peter Nolasco, O. de M. was a Catholic nobleman known for founding the Royal and Military Order of Our Lady of Mercy of the Redemption of the Captives with approval by Pope Gregory IX on 17 January 1235.",
+  "biography": "Background\nBetween the eighth and the fifteenth centuries, medieval Europe was in a state of intermittent warfare between the Christian kingdoms of southern Europe and the Muslim polities of North Africa, Southern France, Sicily and portions of Spain. According to James W. Brodman, the threat of capture, whether by pirates or coastal raiders or during one of the region's intermittent wars, was a continuous threat to residents of Catalonia, Languedoc and the other coastal provinces of medieval Christian Europe. Raids by militias, bands, and armies from both sides was an almost annual occurrence. \nAlfonso...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Nolasco",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-31_saint_peter_nolasco.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1ff0eb5f756e0732ec60c96321e0e0e2fedaa31edf4fa5c6d031e2472322eb10",
+        "langs": {
+          "es": {
+            "translatedHash": "afc39bac8ab491a153d0744ab1fed00d3fa949858225110cfbb96d69916c883d",
+            "updatedAt": "2026-02-24T22:26:32.415Z"
+          },
+          "pl": {
+            "translatedHash": "6ec467709b5ef571464d653b2b1828d3db3275b43ccfaebd4516a41b7bc01c67",
+            "updatedAt": "2026-02-24T22:26:33.110Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8b84cf42c88740fee77b58a5fa563e5fdc6d8ae431b626f9606eac80a364a480",
+        "langs": {
+          "es": {
+            "translatedHash": "aaadffb069fb1a5c529d5c45b3271a1c8ab71560534cdb61764195f450285c2a",
+            "updatedAt": "2026-02-24T22:26:33.564Z"
+          },
+          "pl": {
+            "translatedHash": "d609216b1a9b8485dd0cfe197d892baf9ad1f4e8ed7f6a3ee9cc82a48d7d6227",
+            "updatedAt": "2026-02-24T22:26:34.319Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8dbeebbd09e26528fea7b4f583351145668513070540d690548cdb8159a21696",
+        "langs": {
+          "es": {
+            "translatedHash": "1697f995cdebfc704844d5f76e0bc338091bfbb5fd3db14fb3b762f3b4f0c0ec",
+            "updatedAt": "2026-02-24T22:26:35.565Z"
+          },
+          "pl": {
+            "translatedHash": "0d9c0515da009ad5adae0db419cee59351283829f67ccb68cdd74ef1da103206",
+            "updatedAt": "2026-02-24T22:26:37.282Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c711f9565540a6876121ba4a656a7316a805d4824bf5657e01c235e6bc89ff76",
+        "langs": {
+          "es": {
+            "translatedHash": "fcc54facb570979b5e34d6556cb088dd36ade48a13826ab83ba46d2a0cd9ab79",
+            "updatedAt": "2026-02-24T22:26:39.474Z"
+          },
+          "pl": {
+            "translatedHash": "638bc8dc227fd7aee87248471bc80233dfe273b51302433f0820708b4ca7266d",
+            "updatedAt": "2026-02-24T22:26:42.444Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Nolasco",
+  "name_pl": "Święty Piotr Nolasco",
+  "feast_es": "El treinta y uno de enero",
+  "feast_pl": "Trzydziesty pierwszy dzień stycznia",
+  "summary_es": "Pedro Nolasco, O. de M., fue un noble católico conocido por fundar la Real y Militar Orden de Nuestra Señora de la Merced de la Redención de los Cautivos con la aprobación del Papa Gregorio IX el 17 de enero de 1235.",
+  "summary_pl": "Piotr Nolasco, O. de M. był katolickim szlachcicem znanym z założenia Królewskiego i Wojskowego Zakonu Najświętszej Maryi Panny Miłosierdzia Odkupienia Więźniów za zgodą papieża Grzegorza IX dnia 17 stycznia 1235 roku.",
+  "biography_es": "Antecedentes  \nEntre los siglos VIII y XV, la Europa medieval estuvo en un estado de guerra intermitente entre los reinos cristianos del sur de Europa y las entidades musulmanas del norte de África, el sur de Francia, Sicilia y partes de España. Según James W. Brodman, la amenaza de captura, ya fuera por piratas, saqueadores costeros o durante alguna de las guerras intermitentes de la región, era una amenaza constante para los habitantes de Cataluña, Languedoc y las demás provincias costeras de la Europa cristiana medieval. Las incursiones de milicias, bandas y ejércitos de ambos bandos eran un acontecimiento casi anual.  \nAlfonso...",
+  "biography_pl": "Tło  \nMiędzy VIII a XV wiekiem średniowieczna Europa znajdowała się w stanie przerywanej wojny między chrześcijańskimi królestwami południowej Europy a muzułmańskimi państwami Afryki Północnej, południowej Francji, Sycylii i części Hiszpanii. Według Jamesa W. Brodmana, groźba pojmania, czy to przez piratów, czy napastników przybrzeżnych, czy podczas jednej z przerywanych wojen regionu, była stałym zagrożeniem dla mieszkańców Katalonii, Langwedocji i innych nadmorskich prowincji średniowiecznej chrześcijańskiej Europy. Najazdy milicji, band i armii z obu stron były niemal corocznym zjawiskiem.  \nAlfonso..."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "05-21_saint_christopher_magallanes_priest_and_martyr_and_companions_martyrs_optional_m",
+  "name": "Saint Christopher Magallanes, Priest and Martyr and Companions, Martyrs—Optional Memorial",
+  "mmdd": "05-21",
+  "feast": "The Twenty-First Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Magallanes"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-21_saint_christopher_magallanes_priest_and_martyr_and_companions_martyrs_optional_m.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b0c329e0e7a6537e873ee048372263c9468b591db0ca90fce5bd4c41f033e9d5",
+        "langs": {
+          "es": {
+            "translatedHash": "33306357bcea593ea677fd5023970430cf01edb986fc1d16d30a6119d43a742c",
+            "updatedAt": "2026-02-24T23:28:59.913Z"
+          },
+          "pl": {
+            "translatedHash": "2f9a08641ab3b664b226156dbd76c2deaa643d10dee904aebb770a793c59ac92",
+            "updatedAt": "2026-02-24T23:29:01.440Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2124350a534237b24a3dcc556d18f2c9f9ffdbdeb9bf5a2e4325fe2316d7c1f1",
+        "langs": {
+          "es": {
+            "translatedHash": "7367b8c3531f4b2a809df056d44d5492a0e858ed1b0b0337da90308447652524",
+            "updatedAt": "2026-02-24T23:29:02.106Z"
+          },
+          "pl": {
+            "translatedHash": "a7eebe1a54daf66fda2ce54d10d2c7a1d845cd345315e2f187979b62a6948bdd",
+            "updatedAt": "2026-02-24T23:29:02.759Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cristóbal Magallanes, sacerdote y mártir, y compañeros, mártires—Memoria opcional",
+  "name_pl": "Święty Krzysztof Magallanes, kapłan i męczennik oraz towarzysze, męczennicy — wspomnienie dowolne",
+  "feast_es": "El Vigésimo Primer Día de Mayo",
+  "feast_pl": "Dwudziesty pierwszy dzień maja"
+}

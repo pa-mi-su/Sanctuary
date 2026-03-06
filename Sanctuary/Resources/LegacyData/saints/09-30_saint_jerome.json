@@ -1,0 +1,79 @@
+{
+  "id": "09-30_saint_jerome",
+  "name": "Saint Jerome",
+  "mmdd": "09-30",
+  "feast": "The Thirtieth Day of September",
+  "summary": "Jerome, also known as Jerome of Stridon, was an early Christian priest, confessor, theologian, translator, and historian; he is commonly known as Saint Jerome.",
+  "biography": "Jerome, also known as Jerome of Stridon, was an early Christian priest, confessor, theologian, translator, and historian; he is commonly known as Saint Jerome.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jerome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-30_saint_jerome.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ec2e090e03deb7c57e562537d37d66eeb6d6a81ce1e370862aa8df29f708b5f6",
+        "langs": {
+          "es": {
+            "translatedHash": "4636004ffe98049b5b1a7da3a630e647d0816ddb891e9e119599b6dee1560ae5",
+            "updatedAt": "2026-02-25T00:41:09.453Z"
+          },
+          "pl": {
+            "translatedHash": "dcae66d3a807666be854b1597b62aeb1cfc57f5444f367eef7dee5fa1a6d5ace",
+            "updatedAt": "2026-02-25T00:41:10.025Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "696aed93d7ec14091ad6dcf3b12e4bfdf0dbbc64f709489ccc14e73416639aac",
+        "langs": {
+          "es": {
+            "translatedHash": "16c1a2f9729a8841ecf8c5089c1a5c5dc65c8b9baae1198cfe1a5286bb968516",
+            "updatedAt": "2026-02-25T00:41:10.672Z"
+          },
+          "pl": {
+            "translatedHash": "c4ed0e1bbc29d9fd10540c3423fa6e58b52b7302595d914cf1cc18b5c352a8f7",
+            "updatedAt": "2026-02-25T00:41:11.276Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e417a3f3d26ce9b0e9f144a1416bca6c3a9c2fa489430dc126609bff72dd5981",
+        "langs": {
+          "es": {
+            "translatedHash": "d8227959aa46c695b283eab2251f5a0f8fd3f607dccd95416b09002078c1c4b9",
+            "updatedAt": "2026-02-25T00:41:12.762Z"
+          },
+          "pl": {
+            "translatedHash": "36eda958e255852748eafc096191f0e4bf2c7db07d9d7ae2f102c0c7993d3fe4",
+            "updatedAt": "2026-02-25T00:41:14.186Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e417a3f3d26ce9b0e9f144a1416bca6c3a9c2fa489430dc126609bff72dd5981",
+        "langs": {
+          "es": {
+            "translatedHash": "d8227959aa46c695b283eab2251f5a0f8fd3f607dccd95416b09002078c1c4b9",
+            "updatedAt": "2026-02-25T00:41:15.274Z"
+          },
+          "pl": {
+            "translatedHash": "36eda958e255852748eafc096191f0e4bf2c7db07d9d7ae2f102c0c7993d3fe4",
+            "updatedAt": "2026-02-25T00:41:16.694Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jerónimo",
+  "name_pl": "Święty Hieronim",
+  "feast_es": "El Trigésimo Día de Septiembre",
+  "feast_pl": "Trzydziesty dzień września",
+  "summary_es": "Jerónimo, también conocido como Jerónimo de Estridón, fue un sacerdote cristiano primitivo, confesor, teólogo, traductor e historiador; es comúnmente conocido como San Jerónimo.",
+  "summary_pl": "Hieronim, znany również jako Hieronim ze Stridonu, był wczesnochrześcijańskim kapłanem, wyznawcą, teologiem, tłumaczem i historykiem; powszechnie znany jest jako święty Hieronim.",
+  "biography_es": "Jerónimo, también conocido como Jerónimo de Estridón, fue un sacerdote cristiano primitivo, confesor, teólogo, traductor e historiador; es comúnmente conocido como San Jerónimo.",
+  "biography_pl": "Hieronim, znany również jako Hieronim ze Stridonu, był wczesnochrześcijańskim kapłanem, wyznawcą, teologiem, tłumaczem i historykiem; powszechnie znany jest jako święty Hieronim."
+}

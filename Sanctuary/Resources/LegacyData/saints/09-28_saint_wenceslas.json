@@ -1,0 +1,78 @@
+{
+  "id": "09-28_saint_wenceslas",
+  "name": "Saint Wenceslas",
+  "mmdd": "09-28",
+  "feast": "The Twenty Eighth Day of September",
+  "summary": "Wenceslaus I, Wenceslas I or Václav the Good was the Prince (kníže) of Bohemia from 921 until his death, probably in 935. According to the legend, he was assassinated by his younger brother, Boleslaus the Cruel.",
+  "biography": "Wenceslaus I (Czech: Václav [ˈvaːtslaf] ; c. 907 – 28 September 935), Wenceslas I or Václav the Good was the Prince (kníže) of Bohemia from 921 until his death, probably in 935.  According to the legend, he was assassinated by his younger brother, Boleslaus the Cruel.\nHis martyrdom and the popularity of several biographies gave rise to a reputation for heroic virtue that resulted in his sainthood. He was posthumously declared to be a king and patron saint of the Czech state. He is the subject of the well-known \"Good King Wenceslas\", a carol for Saint Stephen's Day.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wenceslaus_I%2C_Duke_of_Bohemia"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-28_saint_wenceslas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f5e4a9e87c09c8139184dd027684c4ec4e7cf48d6c8416a351b787ece6acad54",
+        "langs": {
+          "es": {
+            "translatedHash": "6ea8ac0c62215ecf54805de430c704ae8ebfff6dc68e0aafafacfb285d79e71a",
+            "updatedAt": "2026-02-25T00:39:56.796Z"
+          },
+          "pl": {
+            "translatedHash": "879c674cbc8e614c6464e293ad57f78b619768ef5689a2bbc69e44b6da70db8d",
+            "updatedAt": "2026-02-25T00:39:58.856Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "22ea3dc4a49987621341a2c89b2dd1ea97b6c0c6bee9f553299a22f731e612a7",
+        "langs": {
+          "es": {
+            "translatedHash": "cb543fb3c6f0b3a23d48f7fd32a0374f2fe8af2f7a157885b4788a27f21e6c3d",
+            "updatedAt": "2026-02-25T00:39:59.517Z"
+          },
+          "pl": {
+            "translatedHash": "6b36bf3f43238b0c58ec78d35eb26a88ed1bdb644d02a890b0f5bf1b33432571",
+            "updatedAt": "2026-02-25T00:40:00.096Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "418178da5c72064274fd32f443f68b7be452a56460de3a72d1744b955485ab2d",
+        "langs": {
+          "es": {
+            "translatedHash": "49d0a4479139b37962117cb1126405ffbe20afb9cf122c7baa1cfa078183be72",
+            "updatedAt": "2026-02-25T00:40:01.740Z"
+          },
+          "pl": {
+            "translatedHash": "569f9b6b1a0b9ff977e93f842d0117c969f690cd761fdf94447a4f4996973a08",
+            "updatedAt": "2026-02-25T00:40:03.430Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9a70c18a7313ee9839d3e1f728afb2df339395ea96a3185dd68941e2eb61d17d",
+        "langs": {
+          "es": {
+            "translatedHash": "526027a19ca513a7b9bb42930d8475eac47814a0064b98c440d552cac5efbe3b",
+            "updatedAt": "2026-02-25T00:40:06.024Z"
+          },
+          "pl": {
+            "translatedHash": "cefca43b287ca072124785e65a5c873f8e178d90e62d119edf9a71246e16a17f",
+            "updatedAt": "2026-02-25T00:40:09.231Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Wenceslao",
+  "name_pl": "Święty Wacław",
+  "feast_es": "El Vigésimo Octavo Día de Septiembre",
+  "feast_pl": "Dwudziesty ósmy dzień września",
+  "summary_es": "Wenceslao I, Wenceslao I o Václav el Bueno fue el Príncipe (kníže) de Bohemia desde 921 hasta su muerte, probablemente en 935. Según la leyenda, fue asesinado por su hermano menor, Boleslao el Cruel.",
+  "summary_pl": "Wacław I, Wacław I lub Wacław Dobry był księciem (knížetem) Czech od 921 roku aż do swojej śmierci, prawdopodobnie w 935 roku. Według legendy został zamordowany przez swojego młodszego brata, Bolesława Okrutnego.",
+  "biography_es": "Wenceslao I (checo: Václav [ˈvaːtslaf]; c. 907 – 28 de septiembre de 935), Wenceslao I o Václav el Bueno fue el Príncipe (kníže) de Bohemia desde 921 hasta su muerte, probablemente en 935. Según la leyenda, fue asesinado por su hermano menor, Boleslao el Cruel.  \nSu martirio y la popularidad de varias biografías dieron lugar a una reputación de virtud heroica que resultó en su santidad. Fue declarado póstumamente rey y santo patrón del estado checo. Es el sujeto del conocido villancico \"Buen Rey Wenceslao\", una canción para el Día de San Esteban.",
+  "biography_pl": "Wacław I (czeski: Václav [ˈvaːtslaf]; ok. 907 – 28 września 935), Wacław I lub Wacław Dobry był księciem (knížetem) Czech od 921 roku aż do swojej śmierci, prawdopodobnie w 935 roku. Według legendy został zamordowany przez swojego młodszego brata, Bolesława Okrutnego.  \nJego męczeństwo oraz popularność kilku biografii przyczyniły się do powstania reputacji bohatera cnoty, co zaowocowało jego świętością. Pośmiertnie został ogłoszony królem i patronem państwa czeskiego. Jest bohaterem znanej kolędy „Dobry król Wacław” na Dzień Świętego Szczepana."
+}

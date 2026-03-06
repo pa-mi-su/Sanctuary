@@ -1,0 +1,48 @@
+{
+  "id": "05-01_saint_joseph_the_worker_optional_memorial",
+  "name": "Saint Joseph the Worker—Optional Memorial",
+  "mmdd": "05-01",
+  "feast": "The First Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Joseph's_Day"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-01_saint_joseph_the_worker_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "282428c174c17899831b3515533d8f871144cfad3277d5089e95ef5c2b4dc141",
+        "langs": {
+          "es": {
+            "translatedHash": "efa3220af22c169e6d789189fca81188931d22a31ed9c1a410dbf938054aa1d5",
+            "updatedAt": "2026-02-24T23:18:15.268Z"
+          },
+          "pl": {
+            "translatedHash": "18b578d3a90c1fe6e63d9cdd943102b84885a8e47c8c6dee7244d8bff11c88d8",
+            "updatedAt": "2026-02-24T23:18:15.921Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "64c26137e590cd5a7c7c8a69f6611ac260af84be289693732030f15b346d8593",
+        "langs": {
+          "es": {
+            "translatedHash": "f332ef5745be127be48fe78d073bc915a262615900bb3ffd644fdd12bcef5144",
+            "updatedAt": "2026-02-24T23:18:16.444Z"
+          },
+          "pl": {
+            "translatedHash": "f20bda78b50abc5e6f21449b9c2a03c60a7260faee16a0a381697fa3487312c6",
+            "updatedAt": "2026-02-24T23:18:17.062Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San José Obrero—Memoria Opcional",
+  "name_pl": "Święty Józef Rzemieślnik — Wspomnienie dowolne",
+  "feast_es": "El Primer Día de Mayo",
+  "feast_pl": "Pierwszy Dzień Maja"
+}

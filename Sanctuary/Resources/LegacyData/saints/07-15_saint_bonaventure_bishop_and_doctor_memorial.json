@@ -1,0 +1,48 @@
+{
+  "id": "07-15_saint_bonaventure_bishop_and_doctor_memorial",
+  "name": "Saint Bonaventure, Bishop and Doctor—Memorial",
+  "mmdd": "07-15",
+  "feast": "The Fifteenth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Bonaventure_Qu%C3%A9bec_01.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-15_saint_bonaventure_bishop_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c150a00c21f6a90cada8d38e078c3e02b3d1d00cde2396b55d8d8e9a5d8c7cc5",
+        "langs": {
+          "es": {
+            "translatedHash": "4c8f992e7fae2a62ea7e61409e7f64240bce190adafa6b8f321115a74684fa28",
+            "updatedAt": "2026-02-24T23:58:23.546Z"
+          },
+          "pl": {
+            "translatedHash": "8a9f4416bbec551d8f85627d56ba0af0af7eb4a360bb9a3f4b13e2b8a5ffd875",
+            "updatedAt": "2026-02-24T23:58:24.360Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "56a2acf2338e454bfdc76bf5647e252adfacf3a8120a3608055e1fe7d974f0d3",
+        "langs": {
+          "es": {
+            "translatedHash": "44f37d9055716093c58a08d103ec2dfad1d3e2cf85e1cede804a1deb3c8968a9",
+            "updatedAt": "2026-02-24T23:58:25.010Z"
+          },
+          "pl": {
+            "translatedHash": "8529aaa615a15eded0a1f4cb3c04e4300cb7e07d485ced3ca86f89a075df5d72",
+            "updatedAt": "2026-02-24T23:58:25.583Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Buenaventura, Obispo y Doctor—Memorial",
+  "name_pl": "Święty Bonawentura, Biskup i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Quince de Julio",
+  "feast_pl": "Piętnasty Dzień Lipca"
+}

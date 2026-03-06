@@ -1,0 +1,48 @@
+{
+  "id": "11-22_saint_cecilia_virgin_and_martyr_memorial",
+  "name": "Saint Cecilia, Virgin and Martyr—Memorial",
+  "mmdd": "11-22",
+  "feast": "The Twenty-Second Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-22_saint_cecilia_virgin_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3b3f156850eec30fef4a94b1dcd1ad49c0baa1369bbaa9d0382b1f5d14649f26",
+        "langs": {
+          "es": {
+            "translatedHash": "6037d97f95160971e6d61c655cab21a841b1e948ee4fe0bfefebe4ab0f45e1bc",
+            "updatedAt": "2026-02-25T01:12:53.194Z"
+          },
+          "pl": {
+            "translatedHash": "cc8d5f55d719ff0300a21b2707e3045319333c87bd3a915c4af6cac8806185c8",
+            "updatedAt": "2026-02-25T01:12:53.931Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1959b0a1f5eae62f53b1e542500a29c2ceda31a0ea244c57961abf9d4ddcc205",
+        "langs": {
+          "es": {
+            "translatedHash": "bfc608ddf829784628d6c080cf3a664b610939f6d51174fe023261daffb24f35",
+            "updatedAt": "2026-02-25T01:12:54.588Z"
+          },
+          "pl": {
+            "translatedHash": "7c0227bf978af7c5328bf44f945c5455c8ea44c317b822151bb89ec70c19207a",
+            "updatedAt": "2026-02-25T01:12:55.296Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Cecilia, Virgen y Mártir—Memoria",
+  "name_pl": "Święta Cecylia, Dziewica i Męczennica — Wspomnienie",
+  "feast_es": "El Veintidós de Noviembre",
+  "feast_pl": "Dwudziesty drugi dzień listopada"
+}

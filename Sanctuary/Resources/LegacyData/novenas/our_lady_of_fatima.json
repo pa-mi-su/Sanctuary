@@ -1,0 +1,273 @@
+{
+  "id": "our_lady_of_fatima",
+  "title": "Our Lady of Fatima Novena",
+  "description": "The Blessed Virgin Mary appeared in 1917 to three children in the little village of Fatima, Portugal. She told them to pray the Rosary for peace, for sinners, for World War I to end, and for the conversion of Russia.",
+  "category": "Marian",
+  "tags": [
+    "Novena",
+    "Marian",
+    "Mary",
+    "Our Lady of Fatima"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 4
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 13
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/our-lady-of-fatima-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger los frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencione aquí la petición…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todos los pueblos. Amén. Reza el… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przybyć do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, o którą usilnie proszę, (wymień prośbę tutaj…) którą Ci błagam w tej nowennie, ku większej chwale Boga, ku Twojej czci i ku dobremu wszystkich ludzi. Amen.\n\nMódl się… Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pastorcitos los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger los frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencione la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todos los pueblos. Amén. Reza el… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, o którą gorąco proszę, (wymień prośbę tutaj…) którą Ci błagam w tej nowennie, na większą chwałę Boga, na Twoją własną cześć i na dobro wszystkich ludzi. Amen.\n\nMódl się… Ojcze Nasz, Zdrowaś Maryjo, Chwała Ojcu (po trzy razy każde)\n\nOjcze Nasz, Zdrowaś Maryjo, Chwała Ojcu (po trzy razy każde)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todas las personas. Amén.\n\nRezar… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, której tak usilnie szukam, (wymień prośbę tutaj…) której Cię proszę w tej nowennie, na większą chwałę Boga, na Twoją własną cześć i na dobro wszystkich ludzi. Amen.\n\nMódl się… Ojcze Nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nOjcze Nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todas las personas. Amén. Rezar el… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, której tak usilnie szukam, (wymień prośbę tutaj…), której Cię proszę w tej nowennie, ku większej chwale Bożej, ku Twojej własnej czci i ku dobremu wszystkich ludzi. Amen. Odmów… Ojcze Nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nOjcze Nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todos. Amén.\n\nRezar… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, o którą gorąco proszę, (wymień prośbę tutaj…) którą Ci błagam w tej nowennie, na większą chwałę Bożą, na Twoją własną cześć i dla dobra wszystkich ludzi. Amen.\n\nMódl się… Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pastorcitos los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todos. Amén. Rezar el… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy rozważając tajemnice naszego odkupienia w nim wspominane, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, której tak usilnie szukam, (wymień prośbę tutaj…) której Cię proszę w tej nowennie, ku większej chwale Bożej, ku Twojej czci i ku dobremu wszystkich ludzi. Amen. Módl się… Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu (po trzy razy każde)\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu (po trzy razy każde)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todos. Amén.\n\nRezar… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, której tak usilnie szukam, (wymień prośbę tutaj…) której Cię proszę w tej nowennie, na większą chwałę Boga, na Twoją własną cześć i dla dobra wszystkich ludzi. Amen.\n\nMódl się… Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu (po trzy razy każde)\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu (po trzy razy każde)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero a esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que tan fervientemente busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todos. Amén. Rezar… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołuje, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, o którą tak usilnie proszę, (wymień prośbę tutaj…) którą Ci błagam w tej nowennie, na większą chwałę Boga, na Twoją własną cześć i na pożytek wszystkich ludzi. Amen.\n\nMódl się… Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nMost Holy Virgin, who deigned to come to Fatima to reveal to the three little shepherds the treasures of graces hidden in the recitation of the Rosary, inspire our hearts with a sincere love of this devotion, so that by meditating on the mysteries of our redemption that are recalled in it, we may gather the fruits and obtain the conversion of sinners, the conversion of Russia and this favor which I so earnestly seek, (mention request here…) which I ask of thee in this novena, for the greater Glory of God, for thine own honor and for the good of all people. Amen. Pray the… Our Father, Hail Mary Glory Be (three times each)\n\nOur Father, Hail Mary Glory Be (three times each)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSantísima Virgen, que te dignaste venir a Fátima para revelar a los tres pequeños pastores los tesoros de gracias escondidos en la recitación del Rosario, inspira nuestros corazones con un amor sincero por esta devoción, para que meditando en los misterios de nuestra redención que en él se recuerdan, podamos recoger sus frutos y obtener la conversión de los pecadores, la conversión de Rusia y este favor que con tanto empeño busco, (mencionar la petición aquí…) que te pido en esta novena, para la mayor Gloria de Dios, para tu propio honor y para el bien de todas las personas. Amén. Rezar… Padre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nPadre Nuestro, Ave María, Gloria (tres veces cada uno)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n---",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nNajświętsza Dziewico, która raczyłaś przyjść do Fatimy, aby objawić trzem małym pastuszkom skarby łask ukryte w odmawianiu Różańca, natchnij nasze serca szczerym umiłowaniem tego nabożeństwa, abyśmy przez rozważanie tajemnic naszego odkupienia, które się w nim przywołują, mogli zbierać owoce i uzyskać nawrócenie grzeszników, nawrócenie Rosji oraz tę łaskę, o którą gorąco proszę, (wymień tutaj prośbę…) którą Ci błagam w tej nowennie, na większą chwałę Boga, na Twoją cześć i na dobro wszystkich ludzi. Amen.\n\nMódl się… Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu (trzykrotnie każde)\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen.\n\n---"
+    }
+  ],
+  "sourceFacts": {
+    "starts": "May 4Feastday:May 13Birth:16 BCDeath:Assumed to HeavenPatron saint of Diocese of Leiria-Fátima 📱",
+    "feast": "May 13Birth:16 BCDeath:Assumed to HeavenPatron saint of Diocese of Leiria-Fátima 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/our_lady_of_fatima.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "443242fde28ccb32c3823d5da6c8cc1b06dc81a9f4432a18b12ace7ce461487a",
+        "langs": {
+          "es": {
+            "translatedHash": "7ebb0359f540001af48e4df8d23a1c00968fa6f015530172a55ff726b1556deb",
+            "updatedAt": "2026-02-25T09:52:04.139Z"
+          },
+          "pl": {
+            "translatedHash": "85ddcae561cfed8daf9623a46662fc71ad13ef2a321db6a2cad9f378d4b62e39",
+            "updatedAt": "2026-02-25T09:52:04.794Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "0ac2a7539e51ceb3fd48e2e72c0bc3202bed29a5134349fa99d2e478942c4ceb",
+        "langs": {
+          "es": {
+            "translatedHash": "9493a211d7d3fb225d1c0fe7e50696633f5783c66e8a04c10ebe50feedbea642",
+            "updatedAt": "2026-02-25T09:52:06.068Z"
+          },
+          "pl": {
+            "translatedHash": "f19b7b24d8d4cc77b54384be8b745118f3d98badad9feea7f116365692796014",
+            "updatedAt": "2026-02-25T09:52:07.890Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "df235760a7fa24a2f03cbc11c2928d1e8cf6d62d08d9c78aa255af24f7e46922",
+        "langs": {
+          "es": {
+            "translatedHash": "dd69379768aacebf1f7599e469d34c8f10560c8fdceba22ff711cb4cbd92f0e6",
+            "updatedAt": "2026-02-25T09:52:13.317Z"
+          },
+          "pl": {
+            "translatedHash": "f84247953e67bc9a40b34c13187814dbf2db67a234fbc8d71aa4f2524e1f4124",
+            "updatedAt": "2026-02-25T09:52:17.503Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "888517acd323888b772ba5504b3505574e3bf0310ff1dd2823a48f6b5bb267e1",
+        "langs": {
+          "es": {
+            "translatedHash": "f5cc6c96a2ecf5a4033409766427b59d306365f97efc51b0405a47e439b111a0",
+            "updatedAt": "2026-02-25T09:52:22.683Z"
+          },
+          "pl": {
+            "translatedHash": "db8a4b2b08f0b4a019938b424cf874d87c2b8dd43d20fd55b37998c633c294e0",
+            "updatedAt": "2026-02-25T09:52:27.697Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "7bea12b97be4b9cdf85291207bbba2f945e7e9df7a0d9393e3fe7c12286b7c7f",
+        "langs": {
+          "es": {
+            "translatedHash": "c12b364d79d474a7a9f7980d9085c2faaf2ed3a34e86621c2d863e57a263bb0c",
+            "updatedAt": "2026-02-25T09:52:31.570Z"
+          },
+          "pl": {
+            "translatedHash": "cd0a1cfaae1a0bfb3e14c5af8919053ab5469f23867dee63a7eef66c758ee348",
+            "updatedAt": "2026-02-25T09:52:37.632Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "e23ff71e58a5950d9b92de85510be74f02903a35f988c84e9fd89eb6ece92177",
+        "langs": {
+          "es": {
+            "translatedHash": "8335c5c23c207d0175278104d7e716707d01561c6b65b38da0495cc471b5164f",
+            "updatedAt": "2026-02-25T09:52:42.163Z"
+          },
+          "pl": {
+            "translatedHash": "c702b7bbfe0accdd7726f12e0492b45e5ad09771bf14bfa191ce3f7a7fb00737",
+            "updatedAt": "2026-02-25T09:52:46.605Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "d98c40ebc09b931a36f0aa2512077910ebcf39bfb780518e7c2d9c2182f9b07a",
+        "langs": {
+          "es": {
+            "translatedHash": "0b2f37662918b7d1c39b29a3943d90f388a4f353f544b64c5956f4b91574bb25",
+            "updatedAt": "2026-02-25T09:52:53.069Z"
+          },
+          "pl": {
+            "translatedHash": "3ad3856bc110b93fb0bfc84b2c8002e988bb2e8b0b127480489ba965b55643d5",
+            "updatedAt": "2026-02-25T09:52:57.075Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "497a8240548309e6828caa2195b474e8a2ddcdc5f3deeccafab605fcb6258564",
+        "langs": {
+          "es": {
+            "translatedHash": "acdc60882ab0d9d992e229cea23194b10e5ba2e9a404667c78fafcbfd3e82fe2",
+            "updatedAt": "2026-02-25T09:53:01.688Z"
+          },
+          "pl": {
+            "translatedHash": "04ccad61069079ff27a50b18fd913a740c8f8aa8c5e9b7acc1bcb74f3e15f653",
+            "updatedAt": "2026-02-25T09:53:06.986Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "e43791e31396ff9f3858958b1b389e6d0b4ea1f005843f7f62cfeb55587c7890",
+        "langs": {
+          "es": {
+            "translatedHash": "0b2f37662918b7d1c39b29a3943d90f388a4f353f544b64c5956f4b91574bb25",
+            "updatedAt": "2026-02-25T09:53:10.809Z"
+          },
+          "pl": {
+            "translatedHash": "b85d5891d669070d8c1597dd9e2c0c62827162ee559420e066726edf996c8e8c",
+            "updatedAt": "2026-02-25T09:53:15.290Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "e2f7065c959a3be785607fcce02bf77e577bc4304593b4433e2758f8137a3971",
+        "langs": {
+          "es": {
+            "translatedHash": "4138e4ea73f59067edcdfab36cf461499fd96a635207151acbbf47ff6d385b3d",
+            "updatedAt": "2026-02-25T09:53:18.785Z"
+          },
+          "pl": {
+            "translatedHash": "fd80060a000cdeb806c466107217620fa1d518e99467adf28fac9b7521583f12",
+            "updatedAt": "2026-02-25T09:53:24.514Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "ec1fec887a281f8ffd49d24f5a5b2db76b67e8da81829d3370211a392ada37d7",
+        "langs": {
+          "es": {
+            "translatedHash": "ab563e8e33f896935e2e5607a8f5bec7b0dd379343bd0892bee42bc22570fc1b",
+            "updatedAt": "2026-02-25T09:53:38.332Z"
+          },
+          "pl": {
+            "translatedHash": "8c4358131c13556b61c6366f69f25017d8c76d462d6d1fd7ad87bb7f18f903e4",
+            "updatedAt": "2026-02-25T09:53:55.224Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Nuestra Señora de Fátima",
+  "title_pl": "Nowenna do Matki Bożej Fatimskiej",
+  "description_es": "La Santísima Virgen María se apareció en 1917 a tres niños en el pequeño pueblo de Fátima, Portugal. Les dijo que rezaran el Rosario por la paz, por los pecadores, para que terminara la Primera Guerra Mundial y por la conversión de Rusia.",
+  "description_pl": "Błogosławiona Dziewica Maryja ukazała się w 1917 roku trójce dzieci w małej wiosce Fatima w Portugalii. Poleciła im modlić się Różańcem o pokój, za grzeszników, o zakończenie I wojny światowej oraz o nawrócenie Rosji.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-our-lady-of-fatima/"
+  ]
+}

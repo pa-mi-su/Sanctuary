@@ -1,0 +1,63 @@
+{
+  "id": "12-28_saint_troadius",
+  "name": "Saint Troadius",
+  "mmdd": "12-28",
+  "feast": "The Twenty-Eighth Day of December",
+  "summary": "A list of people, who died during the 3rd century, who have received recognition as Saints from the Catholic Church:",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chronological_list_of_Catholic_saints_in_the_3rd_century"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/_fallback/default-saint.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "89942e41dcc931ceab2f52211612a497a081588b03188fea690b19b752e7712a",
+        "langs": {
+          "es": {
+            "translatedHash": "05aa7c2bf26fce34f2ddd729c381edb70160d42d83771cee13cfc9ac64e87e8c",
+            "updatedAt": "2026-02-25T01:34:34.882Z"
+          },
+          "pl": {
+            "translatedHash": "8516ce1fff21a819f8c38636d12b805474d032ed1af53267e62dcab5f2f7f347",
+            "updatedAt": "2026-02-25T01:34:35.479Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "31d5ef0c417a965c8cb46a9b6f62b635af2e62a41c559782bbeb217756a45ccd",
+        "langs": {
+          "es": {
+            "translatedHash": "168c5d736c325faf0bfd761bdf482dd913227d92b6b9f341441c1eb9f1690d1f",
+            "updatedAt": "2026-02-25T01:34:36.145Z"
+          },
+          "pl": {
+            "translatedHash": "b0cff59a29d5357bd070731ea14148031c2a3339d7a10a10e8b0305c73d82856",
+            "updatedAt": "2026-02-25T01:34:36.855Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3b7a8db41d809970a7286ae31f1e6c8c0607d601dc20f6861d1db7fb2455b159",
+        "langs": {
+          "es": {
+            "translatedHash": "f014aac4893e81339c569b656e8737f0a6629a45953144dc971dff537b7b8f22",
+            "updatedAt": "2026-02-25T01:34:37.909Z"
+          },
+          "pl": {
+            "translatedHash": "1794bf0a7e87cbed927d0d827b96069a91d65bf25b1fe230455f663b90b5d6e3",
+            "updatedAt": "2026-02-25T01:34:38.605Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Troadio",
+  "name_pl": "Święty Troadius",
+  "feast_es": "El Vigésimo Octavo Día de Diciembre",
+  "feast_pl": "Dwudziesty ósmy dzień grudnia",
+  "summary_es": "Una lista de personas, que murieron durante el siglo III, que han recibido reconocimiento como Santos por la Iglesia Católica:",
+  "summary_pl": "Lista osób, które zmarły w III wieku i zostały uznane za świętych przez Kościół katolicki:"
+}

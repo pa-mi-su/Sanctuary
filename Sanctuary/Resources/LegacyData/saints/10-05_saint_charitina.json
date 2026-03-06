@@ -1,0 +1,78 @@
+{
+  "id": "10-05_saint_charitina",
+  "name": "Saint Charitina",
+  "mmdd": "10-05",
+  "feast": "The Fifth Day of October",
+  "summary": "St. Charitina of Amisus was a virgin martyr from Asia Minor, distinguished by strict chastity and piety. Charitina spent her life in fasting, prayer and study. By her example she converted many to Christianity during the reign of Emperor Diocletian and was seized in the city of Amisus in Pontus. After torture and death, her body was thrown into the sea in the year 304.",
+  "biography": "Life\nCharitina was born in Amisus around 287. Orphaned young, she was the servant of an eminent Christian man called Claudius the pious, who brought her up as his own daughter.  The young woman was very pretty, sensible, and kind. She imparted her love for Christ to others, and by her example converted many. Charitina was meek, humble, obedient and silent. Although not as yet baptized, she was a Christian at heart. She studied the law of God and vowed to live in perpetual virginity as a bride of Christ.\nThe Emperor Diocletian's governor, Dometius, heard of her and sent soldiers to take her from her foster-father for trial. The judge asked her: \"Is it true, little girl, that you are a Christian, and that you delude others by bringing them to this dishonourable faith?\" Charitina courageously...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charitina_of_Amisus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-05_saint_charitina.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "36685aae02e0f43c8f471f6660ee5b80a8b1155af5690e4151502b83c42191d7",
+        "langs": {
+          "es": {
+            "translatedHash": "cbdef7632d3b1f59336e62c6f09c900c61afade4e446ed4749fd553d70c80030",
+            "updatedAt": "2026-02-25T00:43:56.267Z"
+          },
+          "pl": {
+            "translatedHash": "2cd204cf7a3642033f0133e2d01db355a76b3747d2c0e8f257ea4ab394351bd9",
+            "updatedAt": "2026-02-25T00:43:56.967Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "940e13d9330b7514bdc8457b5f95d13b11a04810d144d71672ea18e1f8a4a2b1",
+        "langs": {
+          "es": {
+            "translatedHash": "47f8c11ee31a7e0415ce8c8829fab8f07b3b1342e4a7bbc92e190dce19e2d290",
+            "updatedAt": "2026-02-25T00:43:57.501Z"
+          },
+          "pl": {
+            "translatedHash": "20e560ab0ef0d92f8f57a8d4982c9a58f3267f7227ed0cad45789e3d7136aeca",
+            "updatedAt": "2026-02-25T00:43:58.098Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6945ceb9bf23ad685625618fab89b44ca7dfb646e2eea3d2ed3d4b960f1cd0d5",
+        "langs": {
+          "es": {
+            "translatedHash": "c6743d18c2300bc79ebe532a80d305846d699976b8d16e0695d0bf85d3014efd",
+            "updatedAt": "2026-02-25T00:44:00.681Z"
+          },
+          "pl": {
+            "translatedHash": "3d5df21aa4daccda05845e640264ede44104d2aa19320789fba2bc26102e8b43",
+            "updatedAt": "2026-02-25T00:44:03.546Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bafb89b1a7a30b9fdbdebb67d820ddbbff977a8512df9aa0c887899bd36d029a",
+        "langs": {
+          "es": {
+            "translatedHash": "196928407db2dd1e0f511dfd13114fd8d2ba291d7e49c1bcefd4f05906760a73",
+            "updatedAt": "2026-02-25T00:44:06.862Z"
+          },
+          "pl": {
+            "translatedHash": "8c84df338a23f1da287c840ea090e6bba47d58c4d55a77fec36505bd594bca21",
+            "updatedAt": "2026-02-25T00:44:11.251Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Caritina",
+  "name_pl": "Święta Charitina",
+  "feast_es": "El Quinto Día de Octubre",
+  "feast_pl": "Piąty dzień października",
+  "summary_es": "Santa Caritina de Amiso fue una virgen mártir de Asia Menor, distinguida por su estricta castidad y piedad. Caritina pasó su vida en ayuno, oración y estudio. Por su ejemplo convirtió a muchos al cristianismo durante el reinado del emperador Diocleciano y fue capturada en la ciudad de Amiso en Ponto. Después de ser torturada y morir, su cuerpo fue arrojado al mar en el año 304.",
+  "summary_pl": "Św. Charitina z Amisus była dziewicą-męczennicą z Azji Mniejszej, wyróżniającą się surową czystością i pobożnością. Charitina spędziła swoje życie na poście, modlitwie i nauce. Swoim przykładem nawróciła wielu na chrześcijaństwo za panowania cesarza Dioklecjana i została pojmana w mieście Amisus w Pontus. Po torturach i śmierci jej ciało zostało wrzucone do morza w roku 304.",
+  "biography_es": "Vida  \nCharitina nació en Amisus alrededor del año 287. Huérfana desde joven, fue sirvienta de un eminente cristiano llamado Claudio el piadoso, quien la crió como a su propia hija. La joven era muy hermosa, sensata y amable. Transmitía su amor por Cristo a los demás y, con su ejemplo, convirtió a muchos. Charitina era mansa, humilde, obediente y silenciosa. Aunque aún no estaba bautizada, era cristiana de corazón. Estudió la ley de Dios y prometió vivir en perpetua virginidad como esposa de Cristo.  \nEl gobernador del emperador Diocleciano, Dometio, se enteró de ella y envió soldados para llevarla ante su padre adoptivo para ser juzgada. El juez le preguntó: \"¿Es cierto, niña, que eres cristiana y que engañas a otros llevándolos a esta fe deshonrosa?\" Charitina valientemente...",
+  "biography_pl": "Życie  \nCharitina urodziła się w Amisus około roku 287. Osierocona w młodym wieku, była służącą znamienitego chrześcijanina o imieniu Klaudiusz Pobożny, który wychowywał ją jak własną córkę. Młoda kobieta była bardzo piękna, rozumna i dobra. Przekazywała innym swoją miłość do Chrystusa i swoim przykładem nawróciła wielu. Charitina była cicha, pokorna, posłuszna i milcząca. Choć jeszcze nie ochrzczona, była chrześcijanką w sercu. Studiowała prawo Boże i złożyła ślub życia w wieczystej dziewiczości jako oblubienica Chrystusa.  \nGubernator cesarza Dioklecjana, Dometiusz, usłyszał o niej i posłał żołnierzy, by zabrali ją od jej ojca zastępczego na proces. Sędzia zapytał ją: „Czy to prawda, dziewczynko, że jesteś chrześcijanką i że zwodzisz innych, wprowadzając ich w tę hańbiącą wiarę?” Charitina odważnie..."
+}

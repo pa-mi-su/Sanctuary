@@ -1,0 +1,79 @@
+{
+  "id": "10-02_guardian_angels",
+  "name": "Guardian Angels",
+  "mmdd": "10-02",
+  "feast": "The Second Day of October",
+  "summary": "A guardian angel is a type of angel that is assigned to protect and guide a particular person, group or nation. Belief in tutelary beings can be traced throughout all antiquity. The idea of angels that guard over people played a major role in Ancient Judaism. In Christianity, the hierarchy of angels was extensively developed in the 5th century by Pseudo-Dionysius the Areopagite. The theology of angels and tutelary spirits has undergone many changes since the 5th century. The belief is that guardian angels serve to protect whichever person God assigns them to. The Memorial of the Holy Guardian Angels is celebrated on 2 October.",
+  "biography": "A guardian angel is a type of angel that is assigned to protect and guide a particular person, group or nation. Belief in tutelary beings can be traced throughout all antiquity. The idea of angels that guard over people played a major role in Ancient Judaism. In Christianity, the hierarchy of angels was extensively developed in the 5th century by Pseudo-Dionysius the Areopagite. The theology of angels and tutelary spirits has undergone many changes since the 5th century. The belief is that guardian angels serve to protect whichever person God assigns them to. The Memorial of the Holy Guardian Angels is celebrated on 2 October. The idea of a guardian angel is central to the 15th-century book The Book of the Sacred Magic of Abramelin the Mage by Abraham of Worms, a German Cabalist. In 1897, this book was translated into English by Samuel Liddell MacGregor Mathers (1854–1918), a co-founder of the Hermetic Order of the Golden Dawn, who styled the guardian angel as the Holy Guardian Angel. Aleister Crowley (1875–1947), the founder of the esoteric religion Thelema, considered the Holy Guardian Angel to be representative of one's truest divine nature and the equivalent of the Genius of the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guardian_angel",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-02_guardian_angels.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "015d030f387bb8af48210f0d1fd4ed772acb4c9bd4bf98f9be6c6ec34c577140",
+        "langs": {
+          "es": {
+            "translatedHash": "0a813513bc2ffe7f2385be77a8ef16d8ff574b9a1220ed12475500e7e2a20596",
+            "updatedAt": "2026-02-25T00:41:46.448Z"
+          },
+          "pl": {
+            "translatedHash": "13a6972dc52c4d23ed9d2c9cbeafbf373b918b0aa5a6df355b898a0615a5e7e5",
+            "updatedAt": "2026-02-25T00:41:47.935Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cccb92348ceeea65036a67544bf4ca9398a4fd96cceb84f5e458c7cdf6c20c14",
+        "langs": {
+          "es": {
+            "translatedHash": "226ef99722329396b8e28bcf9c964267f1cb4bdb20f13e288ed844164ddd4bae",
+            "updatedAt": "2026-02-25T00:41:48.526Z"
+          },
+          "pl": {
+            "translatedHash": "4269ecb738eecda468d9b51910179cbbdc3a56c1f8c6f8a642e3d3855443023e",
+            "updatedAt": "2026-02-25T00:41:49.136Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4346f41885fdc4ca1e7b10c946cc5ff8f998bd1c072a4bb3a5327bb01abe4801",
+        "langs": {
+          "es": {
+            "translatedHash": "e9e725ef529e1239a88ce6dafc2f7764e97d443ace739bf43bcf624a88e3745b",
+            "updatedAt": "2026-02-25T00:41:51.672Z"
+          },
+          "pl": {
+            "translatedHash": "37f37b1f0d43761639ffdf0f3071a6e4eca789a208e65e7418abb552da1ccf03",
+            "updatedAt": "2026-02-25T00:41:55.578Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2fdcfc8bc2f2ee484121ac413849af0eaf36f175aee431db90841e3faab1a982",
+        "langs": {
+          "es": {
+            "translatedHash": "fe727f958c496c6050c712394bf52deb2cad5d9d686ceb53fe023130b513aad7",
+            "updatedAt": "2026-02-25T00:42:02.432Z"
+          },
+          "pl": {
+            "translatedHash": "640d5ff0495f432560d732c734d436f5ec5fca42bb4db46a98e0b6c5134306a9",
+            "updatedAt": "2026-02-25T00:42:07.759Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Ángeles Guardianes",
+  "name_pl": "Aniołowie Stróżowie",
+  "feast_es": "El Segundo Día de Octubre",
+  "feast_pl": "Drugi Dzień Października",
+  "summary_es": "Un ángel guardián es un tipo de ángel que es asignado para proteger y guiar a una persona, grupo o nación en particular. La creencia en seres tutelares se puede rastrear a lo largo de toda la antigüedad. La idea de ángeles que cuidan a las personas tuvo un papel importante en el judaísmo antiguo. En el cristianismo, la jerarquía de los ángeles fue desarrollada extensamente en el siglo V por Pseudo-Dionisio el Areopagita. La teología de los ángeles y los espíritus tutelares ha experimentado muchos cambios desde el siglo V. La creencia es que los ángeles guardianes sirven para proteger a la persona que Dios les asigna. El Memorial de los Santos Ángeles Custodios se celebra el 2 de octubre.",
+  "summary_pl": "Anioł stróż to rodzaj anioła, który zostaje przypisany do ochrony i prowadzenia konkretnej osoby, grupy lub narodu. Wiara w opiekuńcze istoty sięga całej starożytności. Idea aniołów strzegących ludzi odegrała ważną rolę w starożytnym judaizmie. W chrześcijaństwie hierarchia aniołów została szeroko rozwinięta w V wieku przez Pseudo-Dionizego Areopagitę. Teologia aniołów i duchów opiekuńczych przeszła wiele zmian od V wieku. Wierzy się, że aniołowie stróżowie służą do ochrony osoby, którą Bóg im powierzy. Wspomnienie Świętych Aniołów Stróżów obchodzone jest 2 października.",
+  "biography_es": "Un ángel guardián es un tipo de ángel que es asignado para proteger y guiar a una persona, grupo o nación en particular. La creencia en seres tutelares se puede rastrear a lo largo de toda la antigüedad. La idea de ángeles que cuidan a las personas tuvo un papel importante en el judaísmo antiguo. En el cristianismo, la jerarquía de los ángeles fue desarrollada extensamente en el siglo V por Pseudo-Dionisio el Areopagita. La teología de los ángeles y los espíritus tutelares ha sufrido muchos cambios desde el siglo V. La creencia es que los ángeles guardianes sirven para proteger a la persona que Dios les asigna. El Memorial de los Santos Ángeles Guardianes se celebra el 2 de octubre. La idea de un ángel guardián es central en el libro del siglo XV El Libro de la Sagrada Magia de Abramelín el Mago, de Abraham de Worms, un cabalista alemán. En 1897, este libro fue traducido al inglés por Samuel Liddell MacGregor Mathers (1854–1918), cofundador de la Orden Hermética del Amanecer Dorado, quien denominó al ángel guardián como el Santo Ángel Guardián. Aleister Crowley (1875–1947), fundador de la religión esotérica Thelema, consideraba que el Santo Ángel Guardián representaba la naturaleza divina más verdadera de uno mismo y el equivalente al Genio de la...",
+  "biography_pl": "Anioł stróż to rodzaj anioła, który zostaje przypisany do ochrony i prowadzenia konkretnej osoby, grupy lub narodu. Wiara w opiekuńcze byty sięga całej starożytności. Idea aniołów, które strzegą ludzi, odegrała ważną rolę w starożytnym judaizmie. W chrześcijaństwie hierarchia aniołów została szeroko rozwinięta w V wieku przez Pseudo-Dionizego Areopagitę. Teologia aniołów i duchów opiekuńczych przeszła wiele zmian od V wieku. Wierzy się, że aniołowie stróżowie służą do ochrony osoby, którą Bóg im powierzy. Wspomnienie Świętych Aniołów Stróżów obchodzone jest 2 października. Idea anioła stróża jest centralnym motywem XV-wiecznej księgi Księga Świętej Magii Abramelina Maga autorstwa Abrahama z Wormacji, niemieckiego kabały. W 1897 roku książka ta została przetłumaczona na angielski przez Samuela Liddella MacGregora Mathersa (1854–1918), współzałożyciela Hermetycznego Zakonu Złotego Brzasku, który określił anioła stróża jako Świętego Anioła Stróża. Aleister Crowley (1875–1947), założyciel ezoterycznej religii Thelema, uważał Świętego Anioła Stróża za reprezentację najprawdziwszej boskiej natury człowieka oraz odpowiednik Geniusza..."
+}

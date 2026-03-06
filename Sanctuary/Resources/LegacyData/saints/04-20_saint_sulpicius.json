@@ -1,0 +1,79 @@
+{
+  "id": "04-20_saint_sulpicius",
+  "name": "Saint Sulpicius",
+  "mmdd": "04-20",
+  "feast": "The Twentieth Day of April",
+  "summary": "Sulpicius II. the Pious was a 7th-century bishop of Bourges and saint.",
+  "biography": "Sulpicius II. the Pious was a 7th-century bishop of Bourges and saint.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sulpicius_the_Pious",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-20_saint_sulpicius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bdfe0a3bc7eb3f6546757e648678947bd4250b2416d91c0056d1ac14e64340c0",
+        "langs": {
+          "es": {
+            "translatedHash": "521207530e8a5ccdb9bb7cb9d625d8a4874708987d180820e57f33a973b468bb",
+            "updatedAt": "2026-02-24T23:12:08.132Z"
+          },
+          "pl": {
+            "translatedHash": "50fe58ee20811f3521ef5eccf917fb7f187a632ca292fc6b609d2bec5bac8f1b",
+            "updatedAt": "2026-02-24T23:12:08.980Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4fe563fc90c8b78d68497cff52dd619e41e04f9c2efeef3511e06417aceb4b02",
+        "langs": {
+          "es": {
+            "translatedHash": "2375455e0bcc3925aa286f474b38e624848f94a579c6dc8d59c39064c843d862",
+            "updatedAt": "2026-02-24T23:12:09.619Z"
+          },
+          "pl": {
+            "translatedHash": "ec2d73774e9f7547285dad167567698ea4c927029ad8cee870a62f3911619e20",
+            "updatedAt": "2026-02-24T23:12:10.363Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1e7a178f4ca8061b254164e06465ea602fb2040646272f80a996d32832a264f4",
+        "langs": {
+          "es": {
+            "translatedHash": "1f6d1ccad2de5fb860c16184009ad292153936d1c2105fc8ed174337a9ae4376",
+            "updatedAt": "2026-02-24T23:12:11.005Z"
+          },
+          "pl": {
+            "translatedHash": "36cda6a1e1254dcb26a72ef7937a6183b4e451d3eaedaccdde70ff5ce0f67fe7",
+            "updatedAt": "2026-02-24T23:12:12.256Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1e7a178f4ca8061b254164e06465ea602fb2040646272f80a996d32832a264f4",
+        "langs": {
+          "es": {
+            "translatedHash": "e8c2e0af07e7eabd6e8317f02e6ee32eeada58c5e8ff56efb7d39b3ad15aa392",
+            "updatedAt": "2026-02-24T23:12:13.194Z"
+          },
+          "pl": {
+            "translatedHash": "36cda6a1e1254dcb26a72ef7937a6183b4e451d3eaedaccdde70ff5ce0f67fe7",
+            "updatedAt": "2026-02-24T23:12:14.128Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Sulpicio",
+  "name_pl": "Święty Sulpicjusz",
+  "feast_es": "El Vigésimo Día de Abril",
+  "feast_pl": "Dwudziesty dzień kwietnia",
+  "summary_es": "Sulpicio II el Piadoso fue un obispo de Bourges y santo del siglo VII.",
+  "summary_pl": "Sulpicjusz II Pobożny był biskupem Bourges i świętym VII wieku.",
+  "biography_es": "Sulpicio II el Piadoso fue un obispo y santo de Bourges del siglo VII.",
+  "biography_pl": "Sulpicjusz II Pobożny był biskupem Bourges i świętym VII wieku."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "02-11_blessed_virgin_mary_immaculate",
+  "name": "Blessed Virgin Mary Immaculate",
+  "mmdd": "02-11",
+  "feast": "The Eleventh Day of February",
+  "summary": "The Solemnity of the Immaculate Conception celebrates the Immaculate Conception of the Blessed Virgin Mary, on 8 December, nine months before the feast of the Nativity of Mary on 8 September. It is one of the most important Marian feasts in the liturgical calendar of the Latin Church.",
+  "biography": "History\n\nThe Eastern Church first celebrated a Feast of the Conception of the Most Holy and All Pure Mother of God on 9 December, perhaps as early as the 5th century in Syria. The original title of the feast focused...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_the_Immaculate_Conception",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-11_blessed_virgin_mary_immaculate.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e223246ab35c39a448dfff3b734615446171d995df96c53cc82f060a49735b21",
+        "langs": {
+          "es": {
+            "translatedHash": "794542a92eaa2106e4b3a6cdf16844d18183d68b9109dfcfcad1a9a7df965b03",
+            "updatedAt": "2026-02-24T22:32:56.742Z"
+          },
+          "pl": {
+            "translatedHash": "eda760adcb2698453e14fa60573ad5242c321b231300f1f0d02e644a7481167f",
+            "updatedAt": "2026-02-24T22:32:57.493Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a5e7e38b5b0f9afefe3ea8f0de643222ed7bf60d75aac23c5669039261a46da4",
+        "langs": {
+          "es": {
+            "translatedHash": "e1d02dd2a178e27d7052e7fe1bdb2754933a2be21a033e05434f511662f2d6eb",
+            "updatedAt": "2026-02-24T22:32:58.112Z"
+          },
+          "pl": {
+            "translatedHash": "b7642d59f038f997d37a9123fd4940d5080bc0442a022f9671a5541f40937fe7",
+            "updatedAt": "2026-02-24T22:32:58.725Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "34e973f7df7e023c5283c166cc44d63622686ed6370223a1c944d6bfaa34688b",
+        "langs": {
+          "es": {
+            "translatedHash": "fedd49f55dbdded1be76235a8ad859a3129729e00ca94a55823c09d5363fdade",
+            "updatedAt": "2026-02-24T22:32:59.969Z"
+          },
+          "pl": {
+            "translatedHash": "b9f5faf5affa767e32feaa9ced6672510828d094dae75b9e121655100e29c7bc",
+            "updatedAt": "2026-02-24T22:33:02.333Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9b6e01e8e1c7ed8ffaac2a92d56a31901e85ac165665568086b4cae9bcd0b3c1",
+        "langs": {
+          "es": {
+            "translatedHash": "0e4c6072345bc9ee49a4e8c385f4c75c75889b265759950657ef241d2b594b1d",
+            "updatedAt": "2026-02-24T22:33:03.804Z"
+          },
+          "pl": {
+            "translatedHash": "bd184a94310a694f7b9d2d552c30057757d78e35438afb7d2c88934c7d7db37e",
+            "updatedAt": "2026-02-24T22:33:05.193Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Bienaventurada Virgen María Inmaculada",
+  "name_pl": "Błogosławiona Dziewica Maryja Niepokalana",
+  "feast_es": "El Día Once de Febrero",
+  "feast_pl": "Jedenasty dzień lutego",
+  "summary_es": "La Solemnidad de la Inmaculada Concepción celebra la Inmaculada Concepción de la Santísima Virgen María, el 8 de diciembre, nueve meses antes de la fiesta de la Natividad de María el 8 de septiembre. Es una de las fiestas marianas más importantes en el calendario litúrgico de la Iglesia Latina.",
+  "summary_pl": "Uroczystość Niepokalanego Poczęcia obchodzona jest 8 grudnia i upamiętnia Niepokalane Poczęcie Najświętszej Maryi Panny, na dziewięć miesięcy przed świętem Narodzenia Maryi, które przypada 8 września. Jest to jedno z najważniejszych świąt maryjnych w kalendarzu liturgicznym Kościoła łacińskiego.",
+  "biography_es": "Historia\n\nLa Iglesia Oriental celebró por primera vez una Fiesta de la Concepción de la Santísima y Purísima Madre de Dios el 9 de diciembre, quizás ya en el siglo V en Siria. El título original de la fiesta se centraba...",
+  "biography_pl": "Historia\n\nKościół Wschodni po raz pierwszy obchodził Uroczystość Poczęcia Najświętszej i Najczystszej Matki Bożej 9 grudnia, być może już w V wieku w Syrii. Oryginalny tytuł uroczystości skupiał się..."
+}

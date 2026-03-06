@@ -1,0 +1,79 @@
+{
+  "id": "05-21_saint_constantine",
+  "name": "Saint Constantine",
+  "mmdd": "05-21",
+  "feast": "The Twenty-First Day of May",
+  "summary": "Constantine I, also known as Constantine the Great, or known mononymously as Constantine, was Roman emperor from AD 306 to 337 and the first Roman emperor to convert to Christianity. He played a pivotal role in elevating the status of Christianity in Rome, the Edict of Milan decriminalising Christian practice and ceasing Christian persecution. This was a turning point in the Christianisation of the Roman Empire. He founded the city of Constantinople and made it the capital of the Empire, which it remained for over a millennium.",
+  "biography": "Constantine I, also known as Constantine the Great, or known mononymously as Constantine, was Roman emperor from AD 306 to 337 and the first Roman emperor to convert to Christianity. He played a pivotal role in elevating the status of Christianity in Rome, the Edict of Milan decriminalising Christian practice and ceasing Christian persecution. This was a turning point in the Christianisation of the Roman Empire. He founded the city of Constantinople and made it the capital of the Empire, which it remained for over a millennium.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantine_the_Great",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-21_saint_constantine.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "17af1508ed0ce873755926f2a5494b9451851b75c29ac7e9db74efca816c08bf",
+        "langs": {
+          "es": {
+            "translatedHash": "2fe798ec34c70d5ea36f0095f1d3d8032f7776aa9b3f4367c51a7c8b104a395e",
+            "updatedAt": "2026-02-24T23:29:03.274Z"
+          },
+          "pl": {
+            "translatedHash": "545a5494df77e0bf87a05a4b7a3041b6bbb7d5b09912a4a7ebf851186c58711c",
+            "updatedAt": "2026-02-24T23:29:03.883Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2124350a534237b24a3dcc556d18f2c9f9ffdbdeb9bf5a2e4325fe2316d7c1f1",
+        "langs": {
+          "es": {
+            "translatedHash": "9bc9bcd8ccf728effa2c68e38b26b81501c2bdc430a5042736f682c8a6511873",
+            "updatedAt": "2026-02-24T23:29:04.546Z"
+          },
+          "pl": {
+            "translatedHash": "a7eebe1a54daf66fda2ce54d10d2c7a1d845cd345315e2f187979b62a6948bdd",
+            "updatedAt": "2026-02-24T23:29:05.122Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a963741554d27d9c3b93ef5dcce842b6530fa4137ad88546b9254870cdc598d8",
+        "langs": {
+          "es": {
+            "translatedHash": "f3d9f41136c77d3edc43606dcd222a517600e013d4091433f80c7bed9f282fbc",
+            "updatedAt": "2026-02-24T23:29:07.590Z"
+          },
+          "pl": {
+            "translatedHash": "9fc70742fc135bcef5f5fa5db6ecd80d15dc2fb475962c352aa5cf1740a5fb23",
+            "updatedAt": "2026-02-24T23:29:10.555Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a963741554d27d9c3b93ef5dcce842b6530fa4137ad88546b9254870cdc598d8",
+        "langs": {
+          "es": {
+            "translatedHash": "18ec4d0dd000470d4f12546cb1e3e8aedad619c914c40169fc38d02ba2602022",
+            "updatedAt": "2026-02-24T23:29:13.004Z"
+          },
+          "pl": {
+            "translatedHash": "4cd776fc3a79b9fe86f7374685af02842d8031d59864fe0edc6d856f67f8cbc9",
+            "updatedAt": "2026-02-24T23:29:21.251Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Constantino",
+  "name_pl": "Święty Konstantyn",
+  "feast_es": "El vigésimo primer día de mayo",
+  "feast_pl": "Dwudziesty pierwszy dzień maja",
+  "summary_es": "Constantino I, también conocido como Constantino el Grande, o conocido monónimamente como Constantino, fue emperador romano desde el año 306 hasta el 337 y el primer emperador romano en convertirse al cristianismo. Desempeñó un papel fundamental en la elevación del estatus del cristianismo en Roma, con el Edicto de Milán que despenalizó la práctica cristiana y puso fin a la persecución de los cristianos. Este fue un punto de inflexión en la cristianización del Imperio Romano. Fundó la ciudad de Constantinopla y la convirtió en la capital del Imperio, lo que permaneció así durante más de un milenio.",
+  "summary_pl": "Konstantyn I, znany również jako Konstantyn Wielki, lub mononimicznie jako Konstantyn, był cesarzem rzymskim od 306 do 337 roku n.e. i pierwszym cesarzem rzymskim, który przeszedł na chrześcijaństwo. Odegrał kluczową rolę w podniesieniu statusu chrześcijaństwa w Rzymie, Edykt mediolański zdekryminalizował praktykowanie chrześcijaństwa i zakończył prześladowania chrześcijan. Był to punkt zwrotny w chrystianizacji Cesarstwa Rzymskiego. Założył miasto Konstantynopol i uczynił je stolicą Cesarstwa, którą pozostało przez ponad tysiąc lat.",
+  "biography_es": "Constantino I, también conocido como Constantino el Grande, o conocido monónimamente como Constantino, fue emperador romano desde el año 306 hasta el 337 y el primer emperador romano en convertirse al cristianismo. Desempeñó un papel fundamental en la elevación del estatus del cristianismo en Roma, con el Edicto de Milán que despenalizó la práctica cristiana y puso fin a la persecución de los cristianos. Este fue un punto de inflexión en la cristianización del Imperio Romano. Fundó la ciudad de Constantinopla y la convirtió en la capital del Imperio, lo que permaneció así por más de un milenio.",
+  "biography_pl": "Konstantyn I, znany również jako Konstantyn Wielki, lub po prostu Konstantyn, był cesarzem rzymskim od 306 do 337 roku n.e. i pierwszym cesarzem rzymskim, który przeszedł na chrześcijaństwo. Odegrał kluczową rolę w podniesieniu statusu chrześcijaństwa w Rzymie, Edykt mediolański zdekryminalizował praktykowanie chrześcijaństwa i zakończył prześladowania chrześcijan. Był to punkt zwrotny w chrystianizacji Cesarstwa Rzymskiego. Założył miasto Konstantynopol i uczynił je stolicą Cesarstwa, którą pozostało przez ponad tysiąc lat."
+}

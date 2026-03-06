@@ -1,0 +1,48 @@
+{
+  "id": "12-12_our_lady_of_guadalupe_usa_feast",
+  "name": "Our Lady of Guadalupe—USA Feast",
+  "mmdd": "12-12",
+  "feast": "The Twelfth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sanctuary_of_Our_Lady_of_Guadalupe-2.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-12_our_lady_of_guadalupe_usa_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e0fb6f90beb63f76c4559a35003eda39429439703dfca4b448ffeb3bb7df85de",
+        "langs": {
+          "es": {
+            "translatedHash": "b34d924dfc6b20bd33c377d0e03533d816fddcb402df3842bbabd50a0db2d143",
+            "updatedAt": "2026-02-25T01:24:53.644Z"
+          },
+          "pl": {
+            "translatedHash": "efe29e86e4f412990aa83583c4f01f0a2d60dbebeaffcda5028eca2138f189cb",
+            "updatedAt": "2026-02-25T01:24:54.454Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "435353312e1e249425021a38573de85e2fb8aef929b3c552b25a787dad8d0439",
+        "langs": {
+          "es": {
+            "translatedHash": "cf922c262956d51524d7478d5a3d57f6a5505b8e3e8d082ce46c1bdea0436baf",
+            "updatedAt": "2026-02-25T01:24:55.098Z"
+          },
+          "pl": {
+            "translatedHash": "0bd55adca1bbd1c66ea19e4016ee29c0f1b7cc83f4a2e86b5a9500b566f16406",
+            "updatedAt": "2026-02-25T01:24:55.685Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora de Guadalupe—Fiesta en EE. UU.",
+  "name_pl": "Matka Boża z Guadalupe — USA Uroczystość",
+  "feast_es": "El duodécimo día de diciembre",
+  "feast_pl": "Dwunasty Dzień Grudnia"
+}

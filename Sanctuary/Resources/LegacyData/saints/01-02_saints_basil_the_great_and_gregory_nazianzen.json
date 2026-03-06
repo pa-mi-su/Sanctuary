@@ -1,0 +1,79 @@
+{
+  "id": "01-02_saints_basil_the_great_and_gregory_nazianzen",
+  "name": "Saints Basil the Great and Gregory Nazianzen",
+  "mmdd": "01-02",
+  "feast": "The Second Day of January",
+  "summary": "Basil of Caesarea, also called Saint Basil the Great, was an early Roman Christian prelate who served as Bishop of Caesarea Mazaca in Cappadocia from 370 until his death in 379. He was an influential theologian who supported the Nicene Creed and opposed heresies within the early Christian church such as Arianism and Apollinarianism.",
+  "biography": "Basil of Caesarea, also called Saint Basil the Great (330 – 1 or 2 January 379), was an early Roman Christian prelate who served as Bishop of Caesarea Mazaca in Cappadocia from 370 until his death in 379. He was an influential theologian who supported the Nicene Creed and opposed heresies within the early Christian church such as Arianism and Apollinarianism. In addition to his work as a theologian, Basil was known for his care of the poor and underprivileged. Basil established guidelines for monastic life which focus on community life, liturgical prayer, and manual labor. Together with Pachomius, he is remembered as a father of communal monasticism in Eastern Christianity. He is considered a saint by the traditions of both Eastern and Western Christianity. Basil, together with his brother Gregory of Nyssa and his friend Gregory of Nazianzus, are collectively referred to as the Cappadocian Fathers. The Eastern Orthodox Church and Eastern Catholic Churches have given him, together with Gregory of Nazianzus and John Chrysostom, the title of Great Hierarch. He is recognized as a Doctor of the Church in the Roman Catholic Church. He is sometimes referred to by the epithet Ouranophantor...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Caesarea",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-02_saints_basil_the_great_and_gregory_nazianzen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d1a8ad6f00252cc35e92cb0eb48df3b6f68f7cf0b896d69eb0ab4fbf8743ca18",
+        "langs": {
+          "es": {
+            "translatedHash": "eee37be9214f1cb32b862ef98ff9ddfc31465e9eed9d984cf355d9f81846596f",
+            "updatedAt": "2026-02-24T22:04:32.660Z"
+          },
+          "pl": {
+            "translatedHash": "00cc6edeee5b78caeb99d9948cd9f0af18a8cce068bb235627f80e5c5e16e653",
+            "updatedAt": "2026-02-24T22:04:33.512Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b9a14b7ba62d41cfca03eada83f5b56b3f98eea199631f3448cf52f55ce0410d",
+        "langs": {
+          "es": {
+            "translatedHash": "8f4e5531cc618d4ad162db05082c098fd70e67463839c7c6928e5302690f74e5",
+            "updatedAt": "2026-02-24T22:04:34.110Z"
+          },
+          "pl": {
+            "translatedHash": "ec4b5fdb2510837d0f94e8dc5aad3d5cd5af2fcda8aff69f986f1a59434e315c",
+            "updatedAt": "2026-02-24T22:04:34.729Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4951d52c00adf39ebca9b64dd053046a20fd28490d053f6eb8c2bbdbd5ec6423",
+        "langs": {
+          "es": {
+            "translatedHash": "d96d9b6f9537fcc75b4872148385e7e131ad075113d7f4bf8c9eae62632edfb4",
+            "updatedAt": "2026-02-24T22:04:36.832Z"
+          },
+          "pl": {
+            "translatedHash": "db695f2075efbea0851de91cd46a2df4342f6c2ecce5a62b18ebd9aa69dc2645",
+            "updatedAt": "2026-02-24T22:04:38.745Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bb6e7e519feb97fb0e4d7731ae07fd574db2530e05084ffef3f57014d457fb86",
+        "langs": {
+          "es": {
+            "translatedHash": "a4c1150f252c1d1a175da91a9fa0f086efe5ebf888c597dc69076522363aa0b9",
+            "updatedAt": "2026-02-24T22:04:43.565Z"
+          },
+          "pl": {
+            "translatedHash": "ee0b083077cc27bbc7ff36ce1e5a3d46defbd0526aa13641c89add3d605c4de9",
+            "updatedAt": "2026-02-24T22:04:50.481Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Basilio Magno y Gregorio Nacianceno",
+  "name_pl": "Święci Bazyli Wielki i Grzegorz z Nazjanzu",
+  "feast_es": "El Segundo Día de Enero",
+  "feast_pl": "Drugi dzień stycznia",
+  "summary_es": "Basilio de Cesarea, también llamado San Basilio Magno, fue un prelado cristiano romano temprano que sirvió como Obispo de Cesarea de Mazaca en Capadocia desde el año 370 hasta su muerte en 379. Fue un teólogo influyente que apoyó el Credo Niceno y se opuso a las herejías dentro de la iglesia cristiana primitiva como el arrianismo y el apolinarismo.",
+  "summary_pl": "Bazyli z Cezarei, zwany także św. Bazylim Wielkim, był wczesnym rzymskim chrześcijańskim dostojnikiem, który pełnił funkcję biskupa Cezarei Mazaki w Kapadocji od 370 roku aż do swojej śmierci w 379 roku. Był wpływowym teologiem, który popierał Credo nicejskie i sprzeciwiał się herezjom we wczesnym Kościele chrześcijańskim, takim jak arianizm i apollinaryzm.",
+  "biography_es": "Basilio de Cesarea, también llamado San Basilio el Grande (330 – 1 o 2 de enero de 379), fue un prelado cristiano romano temprano que sirvió como obispo de Cesarea de Mazaca en Capadocia desde 370 hasta su muerte en 379. Fue un teólogo influyente que apoyó el Credo Niceno y se opuso a las herejías dentro de la iglesia cristiana primitiva, como el arrianismo y el apolinarismo. \n\nAdemás de su trabajo como teólogo, Basilio fue conocido por su cuidado de los pobres y desfavorecidos. Basilio estableció directrices para la vida monástica que se centran en la vida comunitaria, la oración litúrgica y el trabajo manual. Junto con Pacomio, es recordado como un padre del monacato comunitario en el cristianismo oriental. \n\nEs considerado santo por las tradiciones tanto del cristianismo oriental como occidental. Basilio, junto con su hermano Gregorio de Nisa y su amigo Gregorio de Nazianzo, son colectivamente conocidos como los Padres Capadocios. La Iglesia Ortodoxa Oriental y las Iglesias Católicas Orientales le han otorgado, junto con Gregorio de Nazianzo y Juan Crisóstomo, el título de Gran Hierarca. Es reconocido como Doctor de la Iglesia en la Iglesia Católica Romana. A veces se le denomina con el epíteto Ouranophantor...",
+  "biography_pl": "Bazyli z Cezarei, zwany także św. Bazylim Wielkim (330 – 1 lub 2 stycznia 379), był wczesnym rzymskim chrześcijańskim dostojnikiem, który pełnił funkcję biskupa Cezarei Mazaki w Kapadocji od 370 roku aż do swojej śmierci w 379 roku. Był wpływowym teologiem, który popierał Credo nicejskie i sprzeciwiał się herezjom wczesnego Kościoła chrześcijańskiego, takim jak arianizm i apollinaryzm. \n\nOprócz pracy teologicznej, Bazyli był znany z troski o ubogich i potrzebujących. Ustanowił zasady życia monastycznego, które koncentrują się na życiu wspólnotowym, modlitwie liturgicznej oraz pracy fizycznej. Razem z Pachomiuszem jest uważany za ojca wspólnotowego monastycyzmu w chrześcijaństwie wschodnim. \n\nJest czczony jako święty zarówno w tradycji chrześcijaństwa wschodniego, jak i zachodniego. Bazyli, wraz ze swoim bratem Grzegorzem z Nyssy i przyjacielem Grzegorzem z Nazjanzu, są łącznie nazywani Ojcami Kapadockimi. Kościół prawosławny i Kościoły katolickie wschodnie nadały mu, wraz z Grzegorzem z Nazjanzu i Janem Chryzostomem, tytuł Wielkiego Hierarchy. W Kościele rzymskokatolickim jest uznawany za Doktora Kościoła. Czasami bywa określany przydomkiem Ouranophantor..."
+}

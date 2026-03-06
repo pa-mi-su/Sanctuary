@@ -1,0 +1,48 @@
+{
+  "id": "08-08_saint_dominic_priest_memorial",
+  "name": "Saint Dominic, Priest—Memorial",
+  "mmdd": "08-08",
+  "feast": "The Eighth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vietnamese_Martyrs"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-08_saint_dominic_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ad9bbccaf26c1f507b27a863e82958cf953f45c5d262e6be6f56ae1e1fe886aa",
+        "langs": {
+          "es": {
+            "translatedHash": "3c5c57719728db508676e9f8f3e388f8002686788a90bec55ca3fed8e273328e",
+            "updatedAt": "2026-02-25T00:11:50.329Z"
+          },
+          "pl": {
+            "translatedHash": "e7d4d9de67d1aef1392da4685e1a2f3fa2283636c49e15222ff5360e60e17cf3",
+            "updatedAt": "2026-02-25T00:11:51.006Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "14155bf91e090caef53b0ea14c50d968be043686e6bd2071bbe634c466464892",
+        "langs": {
+          "es": {
+            "translatedHash": "3dd789d9fd530d05abf2251518dfde9d262ae516a857623f8166679db40cc685",
+            "updatedAt": "2026-02-25T00:11:51.597Z"
+          },
+          "pl": {
+            "translatedHash": "11246b0c0def661b7e1382eca64288309aa6c337b8c5d2e3fad7f99c8eef2dd9",
+            "updatedAt": "2026-02-25T00:11:52.168Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Domingo, Presbítero—Memoria",
+  "name_pl": "Święty Dominik, kapłan — wspomnienie",
+  "feast_es": "El octavo día de agosto",
+  "feast_pl": "Ósmy dzień sierpnia"
+}

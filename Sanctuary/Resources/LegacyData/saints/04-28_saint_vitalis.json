@@ -1,0 +1,79 @@
+{
+  "id": "04-28_saint_vitalis",
+  "name": "Saint Vitalis",
+  "mmdd": "04-28",
+  "feast": "The Twenty-Eighth Day of April",
+  "summary": "Saint Vitalis of Gaza was a hermit venerated as a saint in the Eastern Orthodox Church and the Catholic Church. He is the patron saint of prostitutes and day-laborers.",
+  "biography": "Life\nA monk of the monastery of Seridus close to Gaza, Vitalis travelled to the city of Alexandria at the age of sixty. His legend states that after obtaining the name and address of every prostitute in the city, he hired himself out as a day laborer, and took his wage to one of these women at the end of the day. He would hire the woman for the night and, according to legend, spend the night awake and praying. As he approached the homes of the prostitutes, however, Vitalis would supposedly loudly proclaim where he was intending to visit. When questioned regarding why he was visiting prostitutes, he would respond by saying, \"Have I not a body like everyone else? Are monks not like other men? Mind your own business!\"\n\n\nDeath and veneration\nVitalis was killed when a man, misunderstanding the nature of the monk's visit to a brothel, struck him on the head. Vitalis managed to return to his hut where he died. Apparently during his burial, former prostitutes came out to explain his works...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vitalis_of_Gaza",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-28_saint_vitalis.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2c699fc93ee722fddf344cd70d7892431c74a8f626ab71ec4784a3922bae0237",
+        "langs": {
+          "es": {
+            "translatedHash": "9140cb1e0ddeacc800c4eaadf84e7ccae94f26eed9ced17b665e839d3961ee4b",
+            "updatedAt": "2026-02-24T23:16:13.458Z"
+          },
+          "pl": {
+            "translatedHash": "2302faaed1b81fa3c5ccd37ec68f3a07dbc99e08f3ebe92b6ddb56097857ba76",
+            "updatedAt": "2026-02-24T23:16:13.932Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ca7fdc2e8e3ac8fe797846621fa3a7d35a9b9828232e5e5d6f48a643afbd494f",
+        "langs": {
+          "es": {
+            "translatedHash": "dc1cc00168cb0b6a3fc92b7d54b012c143a5bcce2ee0eb00543a87b6a654ddd9",
+            "updatedAt": "2026-02-24T23:16:14.682Z"
+          },
+          "pl": {
+            "translatedHash": "ce0ee8b82163821f1532bd204fc5254f9b875194500b0d2894c3d6411659d279",
+            "updatedAt": "2026-02-24T23:16:15.457Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7f040adaaa833c914cc82023cae45c8887894322cb2ae89a5d1f55ea4d2990b0",
+        "langs": {
+          "es": {
+            "translatedHash": "2fb37d7a2c98489e4d4037c7dd53e9d6df9a6da8406545a5907367ac672f7586",
+            "updatedAt": "2026-02-24T23:16:16.495Z"
+          },
+          "pl": {
+            "translatedHash": "c85a6e09682948c8276fe2833a120d8dd389f1610f14cc5cb5dd8754f9df71c3",
+            "updatedAt": "2026-02-24T23:16:17.581Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1f780433dd1ae38e40e380f06a6851e18e0a7e4908c03d104e795ff6de30e834",
+        "langs": {
+          "es": {
+            "translatedHash": "f6540ae7cd19ff6635f9112b04ddba818536f0aba8ae60db1d787b928f6b777f",
+            "updatedAt": "2026-02-24T23:16:21.724Z"
+          },
+          "pl": {
+            "translatedHash": "8a06b4291dccc7a5c6fd0fa72d39ad5f86fc35de48c4541d1494801e48b83f13",
+            "updatedAt": "2026-02-24T23:16:25.840Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vitales",
+  "name_pl": "Święty Witalis",
+  "feast_es": "El vigésimo octavo día de abril",
+  "feast_pl": "Dwudziesty ósmy dzień kwietnia",
+  "summary_es": "San Vital de Gaza fue un ermitaño venerado como santo en la Iglesia Ortodoxa Oriental y en la Iglesia Católica. Es el santo patrón de las prostitutas y los jornaleros.",
+  "summary_pl": "Święty Witalis z Gazy był pustelnikiem czczonym jako święty w Kościele Wschodnim i Kościele Katolickim. Jest patronem prostytutek i pracowników dorywczych.",
+  "biography_es": "Vida  \nUn monje del monasterio de Seridus, cerca de Gaza, Vitalis viajó a la ciudad de Alejandría a la edad de sesenta años. Su leyenda dice que, después de obtener el nombre y la dirección de cada prostituta de la ciudad, se contrataba como jornalero, y al final del día llevaba su salario a una de estas mujeres. Contrataba a la mujer para la noche y, según la leyenda, pasaba la noche despierto y orando. Sin embargo, al acercarse a las casas de las prostitutas, Vitalis supuestamente proclamaba en voz alta a dónde se dirigía. Cuando le preguntaban por qué visitaba a prostitutas, respondía diciendo: \"¿No tengo acaso un cuerpo como todos los demás? ¿No son los monjes como otros hombres? ¡Ocúpate de tus asuntos!\"\n\nMuerte y veneración  \nVitalis fue asesinado cuando un hombre, malinterpretando la naturaleza de la visita del monje a un burdel, le golpeó en la cabeza. Vitalis logró regresar a su choza, donde murió. Al parecer, durante su entierro, antiguas prostitutas salieron para explicar sus obras...",
+  "biography_pl": "Życie  \nMnich z klasztoru Seridus niedaleko Gazy, Vitalis, w wieku sześćdziesięciu lat udał się do miasta Aleksandrii. Jego legenda głosi, że po zdobyciu imienia i adresu każdej prostytutki w mieście, zatrudnił się jako robotnik na dzień, a zarobione pieniądze oddawał jednej z tych kobiet pod koniec dnia. Wynajmował ją na noc i, według legendy, spędzał noc na czuwaniu i modlitwie. Zbliżając się jednak do domów prostytutek, Vitalis miał głośno oznajmiać, gdzie zamierza się udać. Gdy pytano go, dlaczego odwiedza prostytutki, odpowiadał: „Czyż nie mam ciała jak wszyscy inni? Czy mnisi nie są jak inni ludzie? Pilnuj swoich spraw!”\n\nŚmierć i kult  \nVitalis został zabity, gdy mężczyzna, nie rozumiejąc celu wizyty mnicha w burdelu, uderzył go w głowę. Vitalis zdołał wrócić do swojej chaty, gdzie zmarł. Podczas jego pogrzebu, jak się zdaje, byłe prostytutki wyszły, by opowiedzieć o jego dziełach..."
+}

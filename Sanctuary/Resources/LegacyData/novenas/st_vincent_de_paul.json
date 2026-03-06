@@ -1,0 +1,272 @@
+{
+  "id": "st_vincent_de_paul",
+  "title": "St Vincent de Paul Novena",
+  "description": "St Vincent de Paul was a French Catholic priest who dedicated himself to serving the poor. Pray this novena for charities, horses, hospitals, leprosy, lost articles, prisoners, spiritual help, Saint Vincent de Paul Societies, and volunteers.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Vincent de Paul"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 18
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 27
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-vincent-de-paul-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre sugiere una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También evoca las maravillosas organizaciones caritativas que estableciste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que otorgaste a tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencione aquí la petición…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wymienienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina również o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością wspomina Twoje wspieranie kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym materialnie, jak i duchowo ubogim. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy potrafili odrzucić pokusy rzeczy materialnych i prowadzili życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre sugiere una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También evoca las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que otorgaste a tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny święty Wincenty à Paulo, wspomnienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością pamięta o Twoim wspieraniu kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy odrzucili pokusę rzeczy materialnych i mogli prowadzić życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre evoca una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También nos recuerda las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres materiales o espirituales. Oh Señor, concédenos la gracia que otorgaste a tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencione aquí la petición…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wspomnienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością pamięta o Twoim wspieraniu kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy odrzucili pokusę rzeczy materialnych i mogli prowadzić życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre evoca una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También trae a la memoria las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que diste a tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wspomnienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością pamięta o Twoim wspieraniu kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy odrzucili pokusy rzeczy materialnych i mogli prowadzić życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre evoca una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También recuerda las maravillosas organizaciones caritativas que estableciste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que otorgaste a tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wspomnienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością pamięta o Twoim wspieraniu kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy potrafili odrzucić pokusy rzeczy materialnych i prowadzili życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre sugiere una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También evoca las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que Tú otorgaste a Tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wymienienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach charytatywnych, które założyłeś dla uczynków miłosierdzia. Kościół z wdzięcznością wspomina Twoje wspieranie kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, czy to ubogim materialnie, czy duchowo. Panie, daj nam łaskę, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy odrzucili pokusę rzeczy materialnych i mogli żyć życiem hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre evoca una letanía de tus virtudes: humildad, celo, misericordia y entrega. También recuerda las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia agradecida recuerda tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que diste a Tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny święty Wincenty à Paulo, wymienienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością wspomina Twoje wspieranie kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy odrzucili pokusę rzeczy materialnych i mogli prowadzić życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre sugiere una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También evoca las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que Tú otorgaste a Tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wymienienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością pamięta o Twoim wspieraniu kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy odrzucili pokusę rzeczy materialnych i mogli prowadzić życie hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Glorious Saint Vincent de Paul, the mention of your name suggests a litany of your virtues, humility, zeal, mercy, and self-sacrifice. It also calls to mind the wonderful charitable organizations that you established for works of mercy. The Church gratefully remembers your promotion of the priesthood. Inspire me and all Catholics in their service to the poor, whether they are poor materially or spiritually. O Lord, give us the grace that You bestowed upon Your humble servant St. Vincent de Paul to relinquish the temptation of material things so that we may live a life of generous service, not counting the cost. (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Vincent de Paul, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso San Vicente de Paúl, la mención de tu nombre evoca una letanía de tus virtudes: humildad, celo, misericordia y sacrificio. También trae a la memoria las maravillosas organizaciones caritativas que fundaste para obras de misericordia. La Iglesia recuerda con gratitud tu promoción del sacerdocio. Inspírame a mí y a todos los católicos en su servicio a los pobres, ya sean pobres material o espiritualmente. Oh Señor, concédenos la gracia que otorgaste a tu humilde siervo San Vicente de Paúl para renunciar a la tentación de las cosas materiales, para que podamos vivir una vida de servicio generoso, sin contar el costo. (mencionar petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Vicente de Paúl, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Chwalebny Święty Wincenty à Paulo, wymienienie Twojego imienia przywołuje litanię Twoich cnót: pokory, gorliwości, miłosierdzia i poświęcenia. Przypomina także o wspaniałych dziełach miłosierdzia, które założyłeś. Kościół z wdzięcznością wspomina Twoje wspieranie kapłaństwa. Natchnij mnie i wszystkich katolików do służby ubogim, zarówno tym ubogim materialnie, jak i duchowo. Panie, udziel nam łaski, którą obdarzyłeś swojego pokornego sługę św. Wincentego à Paulo, abyśmy potrafili odrzucić pokusę rzeczy materialnych i prowadzili życie pełne hojnej służby, nie licząc kosztów. (wymień tutaj swoją prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Wincenty à Paulo, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_vincent_de_paul.png",
+  "sourceFacts": {
+    "starts": "September 18Feastday:September 27Birth:1581Death:1660Patron saint of charities, horses, hospitals, leprosy, lost articles, prisoners, spiritual help, Saint Vincent de Paul Societies, and volunteers 📱",
+    "feast": "September 27Birth:1581Death:1660Patron saint of charities, horses, hospitals, leprosy, lost articles, prisoners, spiritual help, Saint Vincent de Paul Societies, and volunteers 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "d222c970f52773f9833c955ece8a0c0b50d4c81e3efdcc87219fb41455b446f7",
+        "langs": {
+          "es": {
+            "translatedHash": "02da47e0103524e6e1ae4211485da63a1e30885232c8501cd422899951b7de14",
+            "updatedAt": "2026-02-25T18:27:46.754Z"
+          },
+          "pl": {
+            "translatedHash": "142443449a5ff9cb09f855606279b11c0fe8603a868bfdd413fcb2a40713c03c",
+            "updatedAt": "2026-02-25T18:27:47.934Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "1342373c7c41521d446fe1d3b48a80adfa146048888ceef0ef551261ce5a6fc9",
+        "langs": {
+          "es": {
+            "translatedHash": "d82b3f5035e5f193ac295ec19697cd1152ed21643a180dc5cf4684b45599487e",
+            "updatedAt": "2026-02-25T18:27:49.437Z"
+          },
+          "pl": {
+            "translatedHash": "6646942b599c592b090af77a2148d60660a0fc1bf2dc6ad0b15c850bad28511a",
+            "updatedAt": "2026-02-25T18:27:51.157Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "9da959bd5a07bc5a62f2afe72dd39d13e03ec35ef5c9f49421ddbf58228f767f",
+        "langs": {
+          "es": {
+            "translatedHash": "94db7d351237878f0d71507fcd9a7001f9566a47dc305b7679e2f49dffd470f7",
+            "updatedAt": "2026-02-25T18:27:54.259Z"
+          },
+          "pl": {
+            "translatedHash": "c4765e35b7bc09d64ff86d50b3921e4cfc1567dc0cfcbaed74c3dd9f909d2dfb",
+            "updatedAt": "2026-02-25T18:27:58.988Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "692396fe6825295454cd32450d98e631de2a670d83d2dc596b863a424d5a9cee",
+        "langs": {
+          "es": {
+            "translatedHash": "2d358de2c18071f5c0f75e93791feba5609f0d1cc7034127918d62ff37d80448",
+            "updatedAt": "2026-02-25T18:28:04.652Z"
+          },
+          "pl": {
+            "translatedHash": "b3ef03695de177e00e577a9feab7ad738621e02c6007c533f255a87f26709490",
+            "updatedAt": "2026-02-25T18:28:09.223Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "b3a8ae3fa3bf60ab8223c094f6b652959ad77f25db86123862a499517542fe44",
+        "langs": {
+          "es": {
+            "translatedHash": "7b665731a471455d71bffb86f392514d0e5958de04a15d3527cd1d40728971c7",
+            "updatedAt": "2026-02-25T18:28:14.048Z"
+          },
+          "pl": {
+            "translatedHash": "2eac27a48693fe03be3277c4bbbbfe5f7e7dbbe714b9fa25e9449a080315b320",
+            "updatedAt": "2026-02-25T18:28:18.214Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "76273028411f6bd0caadec0fac4b4bdf08cade66e2d0dfadf6ad331de1f10746",
+        "langs": {
+          "es": {
+            "translatedHash": "d275431e0665150b0173f9d4c4ccc69dc60a77941fbabb13abd0d34f9a80e7a7",
+            "updatedAt": "2026-02-25T18:28:22.501Z"
+          },
+          "pl": {
+            "translatedHash": "e72a27dbba1eb235bbbec689dd189594224506fa8e722f53b8bd240cc34b84f1",
+            "updatedAt": "2026-02-25T18:28:27.349Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "83eaa50efbe229468f750827859fee0ea454fb5e414f58c35e6909be6e1c7261",
+        "langs": {
+          "es": {
+            "translatedHash": "6fd7aac754dcf6299827c8c5958e8553ceb3a167ecd6bee674214cc227150be6",
+            "updatedAt": "2026-02-25T18:28:30.323Z"
+          },
+          "pl": {
+            "translatedHash": "235bb2e0dca760e68f682166b5a98fcebb269b3e950db67c0aaeacff9ae236b3",
+            "updatedAt": "2026-02-25T18:28:36.672Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "9a333a87091ec10a6ab6eb7280c020ef06965c680c8b58a7e85c829f0b187f57",
+        "langs": {
+          "es": {
+            "translatedHash": "d67153b745f1a922121da5ca844f8721f98915890ffd7b5a0d4a201576fc401e",
+            "updatedAt": "2026-02-25T18:28:40.748Z"
+          },
+          "pl": {
+            "translatedHash": "bb484c59e4236c0f1c0bc7b554e47159c41012aa905eb0b45168fe5efecf7b5b",
+            "updatedAt": "2026-02-25T18:28:47.095Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "7466bfc45b8778114ae9683fc439814ea2018b2db34331188b7243ceaf57c46b",
+        "langs": {
+          "es": {
+            "translatedHash": "684a16b522fe540a5bac012bb02920182e905946e8d1b13252464a342a2a4248",
+            "updatedAt": "2026-02-25T18:28:50.096Z"
+          },
+          "pl": {
+            "translatedHash": "b0f603f3398a0fbaad8b8c478c3e65e5306b77d6acc1131fb91f8f37c299fd2c",
+            "updatedAt": "2026-02-25T18:28:53.994Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "3d005d6c64a7df96dfb810de8cc3de47cba4d060db785ab349532eb527013ec1",
+        "langs": {
+          "es": {
+            "translatedHash": "d67153b745f1a922121da5ca844f8721f98915890ffd7b5a0d4a201576fc401e",
+            "updatedAt": "2026-02-25T18:28:57.726Z"
+          },
+          "pl": {
+            "translatedHash": "308668c76c1a4211261e66a2a4741f4178207bda396345644c3c05d0ebfac9e2",
+            "updatedAt": "2026-02-25T18:29:02.295Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "1da3fcb92662a4013005abbdad63bc86e1596d45f36ac3a394c16dc1eb994931",
+        "langs": {
+          "es": {
+            "translatedHash": "103d2c90887bf970e58a05647adceaba82ec2d6db0b31ffdee2cf077b44139b2",
+            "updatedAt": "2026-02-25T18:29:05.252Z"
+          },
+          "pl": {
+            "translatedHash": "049087cfa89a8d1efc102ca1f735fdf31ff6f28238217b9fec44a8b9811c417c",
+            "updatedAt": "2026-02-25T18:29:10.196Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Vicente de Paúl",
+  "title_pl": "Nowenna do św. Wincentego à Paulo",
+  "description_es": "San Vicente de Paúl fue un sacerdote católico francés que se dedicó a servir a los pobres. Reza esta novena por las obras de caridad, los caballos, los hospitales, la lepra, los objetos perdidos, los presos, la ayuda espiritual, las Sociedades de San Vicente de Paúl y los voluntarios.",
+  "description_pl": "Święty Wincenty à Paulo był francuskim księdzem katolickim, który poświęcił się służbie ubogim. Módl się tę nowennę za organizacje charytatywne, konie, szpitale, trąd, zagubione przedmioty, więźniów, pomoc duchową, Stowarzyszenia św. Wincentego à Paulo oraz wolontariuszy.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-st-vincent-de-paul/"
+  ]
+}

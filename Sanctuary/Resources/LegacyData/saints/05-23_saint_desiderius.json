@@ -1,0 +1,78 @@
+{
+  "id": "05-23_saint_desiderius",
+  "name": "Saint Desiderius",
+  "mmdd": "05-23",
+  "feast": "The Twenty-Third Day of May",
+  "summary": "The Saint Benedict Medal is a Christian sacramental medal containing symbols and text related to the life of Saint Benedict of Nursia, used by Roman Catholics, Old Catholics, Lutherans, Western Orthodox, Anglicans and Methodists, in the Benedictine Christian tradition, especially votarists and oblates.",
+  "biography": "History\n\nThe exact time and date of the making of the first Saint Benedict Medal are not clear. The medal was originally a cross, dedicated to the devotion in honour of St. Benedict. At some point medals were struck that bore the image of St. Benedict holding a cross...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Benedict_Medal"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-23_saint_desiderius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a2176612696b5eeed3cea6c97e19409e0e056c779d8319ea732e8c969800159b",
+        "langs": {
+          "es": {
+            "translatedHash": "fa971893411f71d052b4922c86e20e758b7fa92340acd094ae39e6111fe8aebd",
+            "updatedAt": "2026-02-24T23:30:39.769Z"
+          },
+          "pl": {
+            "translatedHash": "ffff906fd638c5995612268a78e260d6fbc9cf91d771d4470a5ab53c76cb2446",
+            "updatedAt": "2026-02-24T23:30:40.576Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "309584e89cdf4b5043a5536f4601607162762cbd3cf163920426e5aeda3af21d",
+        "langs": {
+          "es": {
+            "translatedHash": "e99aefd24ee648160c1336605bba9e27dcbb5c44b36f51c782ce0cbfad4afad4",
+            "updatedAt": "2026-02-24T23:30:41.263Z"
+          },
+          "pl": {
+            "translatedHash": "2300657aa77f58d33601e77fa65f0fdb26d78d0474d620ea0ddef55cbe7369aa",
+            "updatedAt": "2026-02-24T23:30:42.051Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bfde6ab831c6df3ef961196eedc50f98ed8bb7ff96215d00d9ac4b325ab956b7",
+        "langs": {
+          "es": {
+            "translatedHash": "d3ed5ba8480ea94eb13d26d2aaafb86788b123bac86f9a73cee0e5f793ef65af",
+            "updatedAt": "2026-02-24T23:30:43.642Z"
+          },
+          "pl": {
+            "translatedHash": "f1a3955d8dcfed21d0bdeeb86899d72285e5878a0da81a73ee3618659a0f6af8",
+            "updatedAt": "2026-02-24T23:30:45.610Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "57ba4bd168ec854bbcc3ed3837204042e8481b269fb8e4947f9a72185f712565",
+        "langs": {
+          "es": {
+            "translatedHash": "7b85568f1bde641650c36c17e131267762943988018ee6ae7483d16dd0bef0c9",
+            "updatedAt": "2026-02-24T23:30:46.940Z"
+          },
+          "pl": {
+            "translatedHash": "a92057583e9df79464215416c50fcf24f1f518e13fa380add62f4f62a283b7b7",
+            "updatedAt": "2026-02-24T23:30:48.633Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Desiderio",
+  "name_pl": "Święty Desideriusz",
+  "feast_es": "El Vigésimo Tercer Día de Mayo",
+  "feast_pl": "Dwudziesty Trzeci Dzień Maja",
+  "summary_es": "La Medalla de San Benito es una medalla sacramental cristiana que contiene símbolos y textos relacionados con la vida de San Benito de Nursia, utilizada por católicos romanos, católicos antiguos, luteranos, ortodoxos occidentales, anglicanos y metodistas, en la tradición cristiana benedictina, especialmente por votantes y oblatos.",
+  "summary_pl": "Medal św. Benedykta jest chrześcijańskim medalikiem sakramentalnym zawierającym symbole i teksty związane z życiem św. Benedykta z Nursji, używanym przez katolików rzymskich, starokatolików, luteran, zachodnich prawosławnych, anglikańskich oraz metodystów, w tradycji benedyktyńskiej, szczególnie przez wotystów i oblatusów.",
+  "biography_es": "Historia\n\nNo está claro el momento y la fecha exacta de la creación de la primera Medalla de San Benito. La medalla era originalmente una cruz, dedicada a la devoción en honor a San Benito. En algún momento se acuñaron medallas que llevaban la imagen de San Benito sosteniendo una cruz...",
+  "biography_pl": "Historia\n\nDokładny czas i data wykonania pierwszego Medalu św. Benedykta nie są jasne. Medal pierwotnie był krzyżem, poświęconym nabożeństwu na cześć św. Benedykta. W pewnym momencie wybito medale, które przedstawiały wizerunek św. Benedykta trzymającego krzyż..."
+}

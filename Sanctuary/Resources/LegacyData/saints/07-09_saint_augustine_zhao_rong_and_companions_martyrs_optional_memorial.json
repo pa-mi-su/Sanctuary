@@ -1,0 +1,48 @@
+{
+  "id": "07-09_saint_augustine_zhao_rong_and_companions_martyrs_optional_memorial",
+  "name": "Saint Augustine Zhao Rong and Companions, Martyrs—Optional Memorial",
+  "mmdd": "07-09",
+  "feast": "The Ninth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-09_saint_augustine_zhao_rong_and_companions_martyrs_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "998b79afd41d6de3b649807cfdab8ae118c67d7d74bb6b941fd519a8c9030b8d",
+        "langs": {
+          "es": {
+            "translatedHash": "becd1c64745285fd4301e0db87b1731d3c2a2b30aed804e04b0a70d2a3b52035",
+            "updatedAt": "2026-02-24T23:54:49.254Z"
+          },
+          "pl": {
+            "translatedHash": "f21789a2732a2782d136fc7928d3054e926eae7343a65aadf9235b0f24802dcb",
+            "updatedAt": "2026-02-24T23:54:50.028Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b537ded4ff613b68f697afde2ac4f12deb711485689e94aeb6db811c6d6586ab",
+        "langs": {
+          "es": {
+            "translatedHash": "359191bfd0ea65491bb046edeb7c5caa67288e5c8897e29c923340683173f15c",
+            "updatedAt": "2026-02-24T23:54:50.597Z"
+          },
+          "pl": {
+            "translatedHash": "2149edea926d6a282edccced8ec271d196710f06d56e0ed557514e9329a21778",
+            "updatedAt": "2026-02-24T23:54:51.230Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Agustín Zhao Rong y Compañeros, Mártires—Memoria Opcional",
+  "name_pl": "Święty Augustyn Zhao Rong i Towarzysze, Męczennicy — Wspomnienie dowolne",
+  "feast_es": "El Noveno Día de Julio",
+  "feast_pl": "Dziewiąty dzień lipca"
+}

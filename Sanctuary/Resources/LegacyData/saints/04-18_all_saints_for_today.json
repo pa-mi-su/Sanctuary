@@ -1,0 +1,46 @@
+{
+  "id": "04-18_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-18",
+  "feast": "The Eighteenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:11:14.029Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:11:14.681Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "fee54520de659cb1724047e8e1c73573bb33aa763dfac93e6af112e6e76e06b9",
+        "langs": {
+          "es": {
+            "translatedHash": "b96421a6bf7394dba6ef644157e559827a1b12b45ea491ea9742762fdcd485a5",
+            "updatedAt": "2026-02-24T23:11:15.691Z"
+          },
+          "pl": {
+            "translatedHash": "36da512b203eae08a969cdf280286da7517735e93a4e1cac98d4319417741d23",
+            "updatedAt": "2026-02-24T23:11:16.331Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día dieciocho de abril",
+  "feast_pl": "Osiemnasty dzień kwietnia"
+}

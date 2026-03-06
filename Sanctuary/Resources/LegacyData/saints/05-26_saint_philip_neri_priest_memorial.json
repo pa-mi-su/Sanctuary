@@ -1,0 +1,48 @@
+{
+  "id": "05-26_saint_philip_neri_priest_memorial",
+  "name": "Saint Philip Neri, Priest—Memorial",
+  "mmdd": "05-26",
+  "feast": "The Twenty-Sixth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philip_Neri"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-26_saint_philip_neri_priest_memorial.gif",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a45a917f0dffd66d6eb84cabd47a1a45aacdeb73691a78bbed162e8151b804d5",
+        "langs": {
+          "es": {
+            "translatedHash": "61232d2cf38252a690fc0a33da332e9b8f1832e946a216e022131457ccd67763",
+            "updatedAt": "2026-02-24T23:32:05.068Z"
+          },
+          "pl": {
+            "translatedHash": "5e0fac80ecdbbb5d274d6341862ee22f41924eafa46b67f735e2a90b702708ef",
+            "updatedAt": "2026-02-24T23:32:05.990Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9ee5665019234230a9c7bcc23c87b68445a1eb0ecf020207e4ebf6565222c9da",
+        "langs": {
+          "es": {
+            "translatedHash": "861d7bc99bf67b53db1e5bf478f4813d65f6258e720ba132a3bb3fad733dd4b7",
+            "updatedAt": "2026-02-24T23:32:06.727Z"
+          },
+          "pl": {
+            "translatedHash": "07329d7043b24e24c7c3020ae945a5090d87412c2399fe877e422b9e34324ebe",
+            "updatedAt": "2026-02-24T23:32:07.404Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Felipe Neri, Presbítero—Memoria",
+  "name_pl": "Święty Filip Neri, kapłan — wspomnienie",
+  "feast_es": "El Vigésimo Sexto Día de Mayo",
+  "feast_pl": "Dwudziesty szósty dzień maja"
+}

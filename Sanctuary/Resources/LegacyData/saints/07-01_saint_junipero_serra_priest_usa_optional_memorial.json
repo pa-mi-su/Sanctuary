@@ -1,0 +1,48 @@
+{
+  "id": "07-01_saint_junipero_serra_priest_usa_optional_memorial",
+  "name": "Saint Junipero Serra, Priest—USA Optional Memorial",
+  "mmdd": "07-01",
+  "feast": "The First Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jun%C3%ADpero_Serra.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-01_saint_junipero_serra_priest_usa_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "652578a6c2dd4640e6eaa7535d12f903083c56c08a73d865c9e64573f7686b9c",
+        "langs": {
+          "es": {
+            "translatedHash": "648dd16ca550cdf8fe19dbe5f17dddbee8df0ba520f4de18f19ae81cad855040",
+            "updatedAt": "2026-02-24T23:52:00.712Z"
+          },
+          "pl": {
+            "translatedHash": "2b7a63618094412a278d32ca394d8dc59ae461502c401cd1fd9da51289a8aa7b",
+            "updatedAt": "2026-02-24T23:52:01.398Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c45765f648a124552e099ef252ee3ef86ce399933e1e58a92fbc8ebd04318327",
+        "langs": {
+          "es": {
+            "translatedHash": "baa1bf6dbeea1c41269164d54e5082968ad97cf9773045437c6f07fe9ba832fb",
+            "updatedAt": "2026-02-24T23:52:01.937Z"
+          },
+          "pl": {
+            "translatedHash": "40a78ed1b5abfcfdab0083377a31ba506045ee829938c0b562eb628b3fefbd1c",
+            "updatedAt": "2026-02-24T23:52:02.540Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Junípero Serra, Presbítero—Memoria Opcional de Estados Unidos",
+  "name_pl": "Święty Junipero Serra, kapłan — wspomnienie dowolne w USA",
+  "feast_es": "El Primer Día de Julio",
+  "feast_pl": "Pierwszy dzień lipca"
+}

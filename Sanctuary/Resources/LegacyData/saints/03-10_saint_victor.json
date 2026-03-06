@@ -1,0 +1,78 @@
+{
+  "id": "03-10_saint_victor",
+  "name": "Saint Victor",
+  "mmdd": "03-10",
+  "feast": "The Tenth Day of March",
+  "summary": "Lawrence Saint-Victor is an American actor and writer, who was on the cast of the soap opera Guiding Light, playing Remy Boudreau from April 2006 until the soap's ending in September 2009. As of 2013, Saint-Victor is playing attorney Carter Walton on the American CBS Daytime soap opera The Bold and the Beautiful.",
+  "biography": "Lawrence Saint-Victor (born June 14, 1982) is an American actor and writer, who was on the cast of the soap opera Guiding Light, playing Remy Boudreau from April 2006 until the soap's ending in September 2009. As of 2013, Saint-Victor is playing attorney Carter Walton on the American CBS Daytime soap opera The Bold and the Beautiful.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lawrence_Saint-Victor"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-10_saint_victor.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bd75ad39e52a92fef4f02948ca4a925c8201a1ca3a189d7c6ee5617449497a21",
+        "langs": {
+          "es": {
+            "translatedHash": "e70158ccd3cdcbd1a04be16b96bfeae5ae9be125ccdce174c5624bfd1759e93f",
+            "updatedAt": "2026-02-24T22:51:26.278Z"
+          },
+          "pl": {
+            "translatedHash": "0e73a1bbe94630e87796b6fa792d221ff8a5762c3bb4e73133e574a0ac3e24ea",
+            "updatedAt": "2026-02-24T22:51:26.949Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1e799f7b154232fd4ebc5645dd82cb0d8b33b96b83b1b947b8cc74dbb26ccb05",
+        "langs": {
+          "es": {
+            "translatedHash": "76d4e7acb4484e830ef6a32e7afa572f6a06f5b102c65158f7d136ecfaeb99e4",
+            "updatedAt": "2026-02-24T22:51:27.518Z"
+          },
+          "pl": {
+            "translatedHash": "3b7ab36783ccb9d49526a3512a38b03e2891b002c3486e22c6f04db43b248e43",
+            "updatedAt": "2026-02-24T22:51:28.172Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d20bf4da0655a6068572cf8eb5bce824c702b4466081b72de9ae34a90c6818bb",
+        "langs": {
+          "es": {
+            "translatedHash": "d3e5de87416addccb3b8ca377e3094ab3c4df2061e7196fa00588881e89619c0",
+            "updatedAt": "2026-02-24T22:51:30.016Z"
+          },
+          "pl": {
+            "translatedHash": "8fee48777f5739ce7139321edc966cfa9bc04449b9852a3d84cf2e0f44c384d3",
+            "updatedAt": "2026-02-24T22:51:31.570Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "11ad71c9ac8371a215f853852266cee90b7211fffa2712ced45898eb1519327b",
+        "langs": {
+          "es": {
+            "translatedHash": "d004e4c782443e5aafd3b0522aad8eef4e5b8818205ba39bec7ac74f39d1fcff",
+            "updatedAt": "2026-02-24T22:51:33.859Z"
+          },
+          "pl": {
+            "translatedHash": "b879e0f933f5f13f76a1e442c54acc69e1a3feb93b273c36f355d568e4b2158f",
+            "updatedAt": "2026-02-24T22:51:35.841Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Víctor",
+  "name_pl": "Święty Wiktor",
+  "feast_es": "El décimo día de marzo",
+  "feast_pl": "Dziesiąty dzień marca",
+  "summary_es": "Lawrence Saint-Victor es un actor y escritor estadounidense, que formó parte del elenco de la telenovela Guiding Light, interpretando a Remy Boudreau desde abril de 2006 hasta el final de la telenovela en septiembre de 2009. A partir de 2013, Saint-Victor interpreta al abogado Carter Walton en la telenovela estadounidense de CBS Daytime The Bold and the Beautiful.",
+  "summary_pl": "Lawrence Saint-Victor jest amerykańskim aktorem i pisarzem, który występował w obsadzie opery mydlanej Guiding Light, grając Remy'ego Boudreau od kwietnia 2006 aż do zakończenia serialu we wrześniu 2009 roku. Od 2013 roku Saint-Victor gra adwokata Cartera Waltona w amerykańskiej operze mydlanej CBS Daytime The Bold and the Beautiful.",
+  "biography_es": "Lawrence Saint-Victor (nacido el 14 de junio de 1982) es un actor y escritor estadounidense, que formó parte del elenco de la telenovela Guiding Light, interpretando a Remy Boudreau desde abril de 2006 hasta el final de la telenovela en septiembre de 2009. A partir de 2013, Saint-Victor interpreta al abogado Carter Walton en la telenovela diurna estadounidense de CBS The Bold and the Beautiful.",
+  "biography_pl": "Lawrence Saint-Victor (ur. 14 czerwca 1982) jest amerykańskim aktorem i pisarzem, który występował w obsadzie opery mydlanej Guiding Light, grając Remy'ego Boudreau od kwietnia 2006 aż do zakończenia serialu we wrześniu 2009. Od 2013 roku Saint-Victor wciela się w rolę prawnika Cartera Waltona w amerykańskiej operze mydlanej CBS Daytime The Bold and the Beautiful."
+}

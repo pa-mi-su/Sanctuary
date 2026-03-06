@@ -1,0 +1,48 @@
+{
+  "id": "10-04_saint_francis_of_assisi_memorial",
+  "name": "Saint Francis of Assisi—Memorial",
+  "mmdd": "10-04",
+  "feast": "The Fourth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clare_of_Assisi"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-04_saint_francis_of_assisi_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c6ae41dd62de62a1d0ddff2f582367a806fcc5feccd8aa79dc37ad26bc410dfd",
+        "langs": {
+          "es": {
+            "translatedHash": "647f704a7f28443dd28949bff9bdaa44349fb8520ce509b1cfb8ee777ab09f73",
+            "updatedAt": "2026-02-25T00:43:53.284Z"
+          },
+          "pl": {
+            "translatedHash": "f35146d33a9f2687526195ce278fe63d9e6fad93aa9b5b9194eae62514159862",
+            "updatedAt": "2026-02-25T00:43:53.952Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "63bf48eebbc5a473870f8e0d02871510dbd99d89e4e6bce0f302e1d5c472711c",
+        "langs": {
+          "es": {
+            "translatedHash": "da4235895cf86815ab281790a1aede378928d641855704fd0336d6710452df9a",
+            "updatedAt": "2026-02-25T00:43:54.582Z"
+          },
+          "pl": {
+            "translatedHash": "0d42fc56bddb908d6c83354220a700b9ce2d33c6b795877626b43af2a2fcec9c",
+            "updatedAt": "2026-02-25T00:43:55.747Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Francisco de Asís—Memorial",
+  "name_pl": "Święty Franciszek z Asyżu — Wspomnienie",
+  "feast_es": "El Cuarto Día de Octubre",
+  "feast_pl": "Czwarty dzień października"
+}

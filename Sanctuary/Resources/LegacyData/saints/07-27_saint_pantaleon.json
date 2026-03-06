@@ -1,0 +1,79 @@
+{
+  "id": "07-27_saint_pantaleon",
+  "name": "Saint Pantaleon",
+  "mmdd": "07-27",
+  "feast": "The Twenty-Seventh Day of July",
+  "summary": "Saint Pantaleon, counted in Western Christianity as among the Fourteen Holy Helpers of the Late Middle Ages, and in Eastern Christianity as one of the Holy Unmercenary Healers, was a martyr of Nicomedia in Bithynia during the Diocletianic Persecution of 305 AD.",
+  "biography": "Life of Pantaleon\nAccording to the martyrologies, Pantaleon was the son of a rich pagan, Eustorgius of Nicomedia, and had been instructed in Christianity by his Christian mother, Saint Eubula; however, after her death he fell away from the Christian church, while he studied medicine with a renowned physician Euphrosinos; under the patronage of Euphrosinos he became physician to the emperor, Maximian (or alternatively Galerius).\nHe was won back to Christianity by Saint Hermolaus (characterized as a bishop of the church at Nicomedia in the later literature), who convinced him that Christ was the better physician, signalling the significance of the exemplum of Pantaleon that faith is to be trusted over medical advice.\nSt. Alphonsus Liguori wrote regarding this incident:\n\nHe studied medicine with such success, that the Emperor Maximian appointed him his...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pantaleon",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-27_saint_pantaleon.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ca86729a6f143dc65cb95fa1625a5e0a284b6de3c8fd5755e3d9cb33574c1488",
+        "langs": {
+          "es": {
+            "translatedHash": "1d663489e31229b17a24a1a82b4e492df8136f83ef3ef798fdc940832235597f",
+            "updatedAt": "2026-02-25T00:05:13.027Z"
+          },
+          "pl": {
+            "translatedHash": "ff5de2b56c3b3d3680bc462d1eacc05a6991892f7877fb60ae85cdcd9e657127",
+            "updatedAt": "2026-02-25T00:05:13.637Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "25c89ecc90434e410a7233b726d1f9bf36f971205911c31da6a70292163fc531",
+        "langs": {
+          "es": {
+            "translatedHash": "7cc36b923cd9c3004837d522c12296410d9e5d18787e6d745fac4cb7523e7b52",
+            "updatedAt": "2026-02-25T00:05:14.254Z"
+          },
+          "pl": {
+            "translatedHash": "b6dac6bf77ab9c0f50ce7fd84f0c9cefda8b5280ba52e100ec2c4c4f541f32e0",
+            "updatedAt": "2026-02-25T00:05:15.033Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3562e55c0324a46ac56b81ea2f256bd6a192604d9bea1a2e27bfaa2c2ea55b5a",
+        "langs": {
+          "es": {
+            "translatedHash": "e4e1f99645b0dd4aad322e538b94bfcf0504c077e20c8af7d13a7a0d19a60f36",
+            "updatedAt": "2026-02-25T00:05:16.552Z"
+          },
+          "pl": {
+            "translatedHash": "760ecaaf078a52835799371054442edbcd17ac11229d9ada6ea8f09944572bad",
+            "updatedAt": "2026-02-25T00:05:19.178Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a4a657fec6e46844e3c5ad3ad90025b13874439fb515f405520e57d1ac08b4d1",
+        "langs": {
+          "es": {
+            "translatedHash": "64b1563676ebced7f3dcc8ab53358a60cbb170a0598c44e039f58c690165b5ed",
+            "updatedAt": "2026-02-25T00:05:22.194Z"
+          },
+          "pl": {
+            "translatedHash": "9bcdbfb1a01a82540f77d957bd4537cce86ed85fecfd4c055af1dc5befab09ef",
+            "updatedAt": "2026-02-25T00:05:25.918Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pantaleón",
+  "name_pl": "Święty Pantaleon",
+  "feast_es": "El Vigésimo Séptimo Día de Julio",
+  "feast_pl": "Dwudziesty siódmy dzień lipca",
+  "summary_es": "San Pantaleón, contado en el cristianismo occidental entre los Catorce Santos Auxiliadores de la Baja Edad Media, y en el cristianismo oriental como uno de los Santos Incurables, fue un mártir de Nicomedia en Bitinia durante la persecución de Diocleciano en el año 305 d.C.",
+  "summary_pl": "Święty Pantaleon, zaliczany w chrześcijaństwie zachodnim do Czternastu Świętych Wspomożycieli późnego średniowiecza, a w chrześcijaństwie wschodnim do Świętych Niezłomnych Lekarzy, był męczennikiem z Nikomedii w Bitynii podczas prześladowań Dioklecjana w 305 roku.",
+  "biography_es": "Vida de Pantaleón  \nSegún los martirologios, Pantaleón fue hijo de un rico pagano, Eustorgio de Nicomedia, y había sido instruido en el cristianismo por su madre cristiana, Santa Eubula; sin embargo, tras la muerte de ella se apartó de la iglesia cristiana, mientras estudiaba medicina con un renombrado médico, Eufrosino; bajo el patrocinio de Eufrosino se convirtió en médico del emperador Maximiano (o alternativamente Galerio).  \nFue reconducido al cristianismo por San Hermolao (caracterizado como obispo de la iglesia en Nicomedia en la literatura posterior), quien le convenció de que Cristo era el mejor médico, señalando la importancia del ejemplo de Pantaleón de que la fe debe confiarse por encima del consejo médico.  \nSan Alfonso María de Ligorio escribió respecto a este incidente:  \n\nEstudió medicina con tanto éxito, que el emperador Maximiano lo nombró su...",
+  "biography_pl": "Życie Pantaleona  \nWedług martyrologiów, Pantaleon był synem bogatego poganina, Eustorgiusza z Nikomedii, i został wychowany w chrześcijaństwie przez swoją chrześcijańską matkę, świętą Ebulę; jednak po jej śmierci odszedł od Kościoła chrześcijańskiego, studiując medycynę u znanego lekarza Eufrozynosa; pod patronatem Eufrozynosa został lekarzem cesarza Maksymiana (lub alternatywnie Galeriusza).  \nDo chrześcijaństwa nawrócił go święty Hermolaus (w późniejszej literaturze określany jako biskup kościoła w Nikomedii), który przekonał go, że Chrystus jest lepszym lekarzem, co podkreśla znaczenie przykładu Pantaleona, że wiara powinna być zaufana ponad radą medyczną.  \nŚw. Alfons Liguori napisał o tym wydarzeniu:  \n\nStudiował medycynę z takim powodzeniem, że cesarz Maksymian mianował go swoim..."
+}

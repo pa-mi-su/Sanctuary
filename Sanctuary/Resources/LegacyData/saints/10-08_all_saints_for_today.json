@@ -1,0 +1,46 @@
+{
+  "id": "10-08_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-08",
+  "feast": "The Eighth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:45:56.232Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:45:56.807Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "33aadf413eace22010d1c94a339ff643ddea6b535db0d5cf6b9d84e381ca0d4e",
+        "langs": {
+          "es": {
+            "translatedHash": "b48c202949ab3f0b147208695dfe4d2a828f589dc4768418ac1d3ac5ed8710af",
+            "updatedAt": "2026-02-25T00:45:57.407Z"
+          },
+          "pl": {
+            "translatedHash": "13ce091e706754e3277b067ac44c19be4bd3c1146c60a94199c28a8a0532c33a",
+            "updatedAt": "2026-02-25T00:45:58.161Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Octavo Día de Octubre",
+  "feast_pl": "Ósmy dzień października"
+}

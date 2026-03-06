@@ -1,0 +1,79 @@
+{
+  "id": "09-21_saint_matthew",
+  "name": "Saint Matthew",
+  "mmdd": "09-21",
+  "feast": "The Twenty-First Day of September",
+  "summary": "Matthew the Apostle was one of the twelve apostles of Jesus. According to Christian traditions, he was also one of the four Evangelists as author of the Gospel of Matthew, and thus is also known as Matthew the Evangelist.",
+  "biography": "Matthew the Apostle was one of the twelve apostles of Jesus. According to Christian traditions, he was also one of the four Evangelists as author of the Gospel of Matthew, and thus is also known as Matthew the Evangelist.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-21_saint_matthew.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5a1edbdf03148c8987277f6f7b5e17683d83520e5d9c4684ffb950f231b013d9",
+        "langs": {
+          "es": {
+            "translatedHash": "3a9e62ce02f38782d012604741e62cbb43298adc311a04299333a05551bb01c3",
+            "updatedAt": "2026-02-25T00:35:03.639Z"
+          },
+          "pl": {
+            "translatedHash": "9355795de8779b71a3f940d0521d2027a074e9d7a89a557f6c7338b0b84657a9",
+            "updatedAt": "2026-02-25T00:35:04.272Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3aa82970b8b19a1cf512dc6d1c7f6a4779a025384f13b4f2decee93e3286022b",
+        "langs": {
+          "es": {
+            "translatedHash": "fa6f01136b522f684df5b4e4855ca5882feab3712f10267c843e4abd4dcb0a15",
+            "updatedAt": "2026-02-25T00:35:04.942Z"
+          },
+          "pl": {
+            "translatedHash": "299a5b3ec4793f68d7d456b1556417818c3325c2712c4f72966816c64800ed8a",
+            "updatedAt": "2026-02-25T00:35:05.510Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3b93a22fe733efb8dbb5ba9646c68c6186b6f13baf7fb0ba99d287672b9ca0ac",
+        "langs": {
+          "es": {
+            "translatedHash": "7ee03846180e9767f6b3b8df4dd9dff0baa4932515d0128f09ede2c4b40d5d8e",
+            "updatedAt": "2026-02-25T00:35:06.715Z"
+          },
+          "pl": {
+            "translatedHash": "153a26290f41b7b9be14d1864b961d62f6ea3b5b7811b66a323311cf2b322568",
+            "updatedAt": "2026-02-25T00:35:08.177Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3b93a22fe733efb8dbb5ba9646c68c6186b6f13baf7fb0ba99d287672b9ca0ac",
+        "langs": {
+          "es": {
+            "translatedHash": "7ee03846180e9767f6b3b8df4dd9dff0baa4932515d0128f09ede2c4b40d5d8e",
+            "updatedAt": "2026-02-25T00:35:09.378Z"
+          },
+          "pl": {
+            "translatedHash": "4d01f7aa68b309cd228976e2f7622eab5db48b5391370a937afe55d6529a6360",
+            "updatedAt": "2026-02-25T00:35:11.589Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Mateo",
+  "name_pl": "Święty Mateusz",
+  "feast_es": "El Vigésimo Primer Día de Septiembre",
+  "feast_pl": "Dwudziesty pierwszy dzień września",
+  "summary_es": "Mateo el Apóstol fue uno de los doce apóstoles de Jesús. Según las tradiciones cristianas, también fue uno de los cuatro Evangelistas como autor del Evangelio de Mateo, y por lo tanto también es conocido como Mateo el Evangelista.",
+  "summary_pl": "Mateusz Apostoł był jednym z dwunastu apostołów Jezusa. Według tradycji chrześcijańskiej był także jednym z czterech Ewangelistów jako autor Ewangelii Mateusza, i dlatego znany jest również jako Mateusz Ewangelista.",
+  "biography_es": "Mateo el Apóstol fue uno de los doce apóstoles de Jesús. Según las tradiciones cristianas, también fue uno de los cuatro Evangelistas como autor del Evangelio de Mateo, y por lo tanto también es conocido como Mateo el Evangelista.",
+  "biography_pl": "Mateusz Apostoł był jednym z dwunastu apostołów Jezusa. Według tradycji chrześcijańskiej, był także jednym z czterech Ewangelistów jako autor Ewangelii Mateusza, i dlatego znany jest również jako Mateusz Ewangelista."
+}

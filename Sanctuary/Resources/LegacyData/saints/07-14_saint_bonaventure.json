@@ -1,0 +1,79 @@
+{
+  "id": "07-14_saint_bonaventure",
+  "name": "Saint Bonaventure",
+  "mmdd": "07-14",
+  "feast": "The Fourteenth Day of July",
+  "summary": "The Église Saint-Bonaventure is one of the churches of the quarter Presqu'île, located on the Place des Cordeliers, in the 2nd arrondissement of Lyon. This is the only medieval building not demolished after the creation of the rue Impériale, under the Second Empire by the prefect Claude-Marius Vaïsse.",
+  "biography": "History\nThe church's history, now known under the name of St. Bonaventure, is intimately related to the convent of the Cordeliers, for which it was constructed.\nTo meet the needs of the community of Franciscan friars, named Cordeliers, installed at this place since the seneschal Grolée bequeathed them a space for the installation of their convent, the construction of a bigger church was decided by Jacques de Grolée, grandson of the seneschal, to overcome the narrowness of the first convent church, which was apparent when the crowd was gathered at ceremonies for the Cardinal Bonaventure's death, on the night of 14 and 15 July 1274, at the age of 57.\nThe new church was oriented towards the south, which is rare at the time.\nThe church was built in just two years between 1325 and 1327. It housed the remains of...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%89glise_Saint-Bonaventure",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-14_saint_bonaventure.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "62e925a540b805f87e47f211a0481a2685ce503a914befbdf6204d90e0c73eb4",
+        "langs": {
+          "es": {
+            "translatedHash": "fc06c9cfdac6a8f3665b3dc7a509e7ec74f7b5468d3b4b23f4b269301945de0f",
+            "updatedAt": "2026-02-24T23:57:39.479Z"
+          },
+          "pl": {
+            "translatedHash": "5a6bc2d5087c76b896e51007c10132090bad1a111dd1b6765c09a66aa376f237",
+            "updatedAt": "2026-02-24T23:57:40.079Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d2cd2d15c22d28922948c7b9eee50b11468fe5207159aa42e5b5d1ea6a4a3433",
+        "langs": {
+          "es": {
+            "translatedHash": "64ed9b2d278ee25522965b61e672df91de3c289ae391fd160380d882ec25df60",
+            "updatedAt": "2026-02-24T23:57:40.677Z"
+          },
+          "pl": {
+            "translatedHash": "73b360e1ea1b423a3885e11ae9dbee5273eb6865e8507e11cd5e9c6b63975372",
+            "updatedAt": "2026-02-24T23:57:41.650Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0373ddce75104168f02c790370fb4f55529543b959a42480b337d5351209a52a",
+        "langs": {
+          "es": {
+            "translatedHash": "179fa93ce55586b8fce3acb93676c870dc33707e4bde765332883914e5e42f6b",
+            "updatedAt": "2026-02-24T23:57:42.952Z"
+          },
+          "pl": {
+            "translatedHash": "026b43687e67706c5c87858c6cc72d17ab87386104d613a65ff627aa37e09b58",
+            "updatedAt": "2026-02-24T23:57:44.649Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "776c03606426475281d18ece9a338ff574cda16524c891ced2261acbe0553ca1",
+        "langs": {
+          "es": {
+            "translatedHash": "c96aba02708391eb1ac4cd36c4f49989ef20b732744abaa1079997d4f80b7bee",
+            "updatedAt": "2026-02-24T23:57:48.274Z"
+          },
+          "pl": {
+            "translatedHash": "91c3cc700eedb2e62cfcd45077b69668d29beed8e896649a446642224f204b66",
+            "updatedAt": "2026-02-24T23:57:51.894Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Buenaventura",
+  "name_pl": "Święty Bonawentura",
+  "feast_es": "El catorce de julio",
+  "feast_pl": "Czternasty dzień lipca",
+  "summary_es": "La Église Saint-Bonaventure es una de las iglesias del barrio Presqu'île, situada en la Place des Cordeliers, en el 2º arrondissement de Lyon. Es el único edificio medieval que no fue demolido tras la creación de la rue Impériale, bajo el Segundo Imperio por el prefecto Claude-Marius Vaïsse.",
+  "summary_pl": "Église Saint-Bonaventure jest jednym z kościołów dzielnicy Presqu'île, położonym na Place des Cordeliers, w 2. dzielnicy Lyonu. Jest to jedyny średniowieczny budynek, który nie został zburzony po utworzeniu rue Impériale, za czasów II Cesarstwa przez prefekta Claude-Mariusa Vaïsse.",
+  "biography_es": "Historia  \nLa historia de la iglesia, ahora conocida bajo el nombre de San Buenaventura, está íntimamente relacionada con el convento de los Cordeliers, para el cual fue construida.  \nPara satisfacer las necesidades de la comunidad de frailes franciscanos, llamados Cordeliers, instalados en este lugar desde que el senescal Grolée les legó un espacio para la instalación de su convento, se decidió la construcción de una iglesia más grande por Jacques de Grolée, nieto del senescal, para superar la estrechez de la primera iglesia conventual, que se hizo evidente cuando la multitud se reunió en las ceremonias por la muerte del Cardenal Buenaventura, en la noche del 14 al 15 de julio de 1274, a la edad de 57 años.  \nLa nueva iglesia fue orientada hacia el sur, lo cual es raro en esa época.  \nLa iglesia fue construida en solo dos años, entre 1325 y 1327. Albergaba los restos de...",
+  "biography_pl": "Historia  \nHistoria kościoła, obecnie znanego pod nazwą św. Bonawentury, jest ściśle związana z konwentem Kordelierów, dla którego został zbudowany.  \nAby sprostać potrzebom wspólnoty franciszkańskich zakonników, zwanych Kordelierami, osiedlonych w tym miejscu od czasu, gdy seneszal Grolée przekazał im teren na założenie ich konwentu, Jacques de Grolée, wnuk seneszala, podjął decyzję o budowie większego kościoła, aby przezwyciężyć ciasnotę pierwszego kościoła konwentualnego, która ujawniła się podczas zgromadzenia tłumu na uroczystościach po śmierci kardynała Bonawentury, w nocy z 14 na 15 lipca 1274 roku, w wieku 57 lat.  \nNowy kościół został zorientowany na południe, co było rzadkością w tamtym czasie.  \nKościół zbudowano w zaledwie dwa lata, w latach 1325–1327. Mieścił on szczątki..."
+}

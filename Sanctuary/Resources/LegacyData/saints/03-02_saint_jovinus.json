@@ -1,0 +1,79 @@
+{
+  "id": "03-02_saint_jovinus",
+  "name": "Saint Jovinus",
+  "mmdd": "03-02",
+  "feast": "The Second day of March",
+  "summary": "Jovita and Faustinus were said to be Christian martyrs under Hadrian, traditionally held to have died in 120 AD. Together, they are patron saints of the Italian city of Brescia. Faustinus is the patron saint of Pietradefusi.",
+  "biography": "Jovita and Faustinus were said to be Christian martyrs under Hadrian, traditionally held to have died in 120 AD. Together, they are patron saints of the Italian city of Brescia. Faustinus is the patron saint of Pietradefusi.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustinus_and_Jovita",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-02_saint_jovinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4f8bafd7a0e942e10c04ecdba138121912eaad8b2df9d5955fd32629e1fa4d29",
+        "langs": {
+          "es": {
+            "translatedHash": "8db3a9e48dd7d1761db080968b78c5e25a885fd0bdc2f77652704068073181a8",
+            "updatedAt": "2026-02-24T22:46:39.635Z"
+          },
+          "pl": {
+            "translatedHash": "e2e8d7fbb8d94108b051c5f0b5234d04faab37642f958f81e5c4e168b358b072",
+            "updatedAt": "2026-02-24T22:46:40.314Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6c725872857aacc9409664071985a8ae7869ba068dda603f1c1ccdbfda4f192b",
+        "langs": {
+          "es": {
+            "translatedHash": "ee4a2b6e664b07d7b5e72194ff9aa1bacb3fedb8262269c5d1973dd890621512",
+            "updatedAt": "2026-02-24T22:46:40.792Z"
+          },
+          "pl": {
+            "translatedHash": "9dfcdb312b94ac7f81cd3c8934e14ee7972bd22024fcc45e9ec70b3c8af11b47",
+            "updatedAt": "2026-02-24T22:46:41.288Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1b52c1eebe53348a1aee9476de34804666f63a7be665937f2c047c270fd1a74c",
+        "langs": {
+          "es": {
+            "translatedHash": "739c05b5901d3808a8444176228765ae46b0e1e15b1035c52b8c1dbc56689f8d",
+            "updatedAt": "2026-02-24T22:46:42.797Z"
+          },
+          "pl": {
+            "translatedHash": "368f2056c3953fb5257580979d19ce94642cd3397a45022379ceb2bfa96ab28f",
+            "updatedAt": "2026-02-24T22:46:44.192Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1b52c1eebe53348a1aee9476de34804666f63a7be665937f2c047c270fd1a74c",
+        "langs": {
+          "es": {
+            "translatedHash": "739c05b5901d3808a8444176228765ae46b0e1e15b1035c52b8c1dbc56689f8d",
+            "updatedAt": "2026-02-24T22:46:45.742Z"
+          },
+          "pl": {
+            "translatedHash": "368f2056c3953fb5257580979d19ce94642cd3397a45022379ceb2bfa96ab28f",
+            "updatedAt": "2026-02-24T22:46:47.077Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jovino",
+  "name_pl": "Święty Jowinusz",
+  "feast_es": "El segundo día de marzo",
+  "feast_pl": "Drugi dzień marca",
+  "summary_es": "Jovita y Faustino se dice que fueron mártires cristianos bajo Adriano, tradicionalmente se considera que murieron en el año 120 d.C. Juntos, son los santos patronos de la ciudad italiana de Brescia. Faustino es el santo patrón de Pietradefusi.",
+  "summary_pl": "Jowita i Faustyn byli uważani za chrześcijańskich męczenników za panowania Hadriana, tradycyjnie uznawani za zmarłych w 120 roku n.e.  \nRazem są patronami włoskiego miasta Brescia.  \nFaustyn jest patronem Pietradefusi.",
+  "biography_es": "Jovita y Faustino se dice que fueron mártires cristianos bajo Adriano, tradicionalmente se considera que murieron en el año 120 d.C. Juntos, son los santos patronos de la ciudad italiana de Brescia. Faustino es el santo patrón de Pietradefusi.",
+  "biography_pl": "Jowita i Faustyn byli uważani za chrześcijańskich męczenników za panowania Hadriana, tradycyjnie uznawani za zmarłych w 120 roku n.e.  \nRazem są patronami włoskiego miasta Brescia.  \nFaustyn jest patronem Pietradefusi."
+}

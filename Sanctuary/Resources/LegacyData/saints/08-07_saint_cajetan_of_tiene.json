@@ -1,0 +1,79 @@
+{
+  "id": "08-07_saint_cajetan_of_tiene",
+  "name": "Saint Cajetan of Tiene",
+  "mmdd": "08-07",
+  "feast": "The Seventh Day of August",
+  "summary": "Gaetano dei Conti di Thiene, known in English as Saint Cajetan, was an Italian Catholic priest and religious reformer, co-founder of the Theatines. He is recognised as a saint in the Catholic Church, and his feast day is 7 August.",
+  "biography": "Gaetano dei Conti di Thiene, known in English as Saint Cajetan, was an Italian Catholic priest and religious reformer, co-founder of the Theatines. He is recognised as a saint in the Catholic Church, and his feast day is 7 August.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Cajetan",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-07_saint_cajetan_of_tiene.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2cf92ebbc80f952aa282452d0df8893c85dcfb38a78271c98344e7d901fcf409",
+        "langs": {
+          "es": {
+            "translatedHash": "a8a9681b34a73fb8c81b5f2ddb4952630d480576560b1f42f35246d5db9ca12a",
+            "updatedAt": "2026-02-25T00:11:28.260Z"
+          },
+          "pl": {
+            "translatedHash": "425544e81d9fd452b16a3ff8bda63b568a729d02e0db3ae7622543ca07876c6f",
+            "updatedAt": "2026-02-25T00:11:28.938Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0b1ce8aeb4df85c4730b1c03f29ab96241744702612e48e46a1920f7575fd913",
+        "langs": {
+          "es": {
+            "translatedHash": "b86e3775b2b9191e1b1fe27d5502b975d1053424afd80802089a4713f5657e13",
+            "updatedAt": "2026-02-25T00:11:29.427Z"
+          },
+          "pl": {
+            "translatedHash": "00c4cc0f8a7e7d278c9c400f64bfc4013aa4a3560fef56b41b523e3ab66cbd91",
+            "updatedAt": "2026-02-25T00:11:30.039Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3bd4b9168befcbb1023664d91d172fa451f7afac76c6821d355c0bc3612291be",
+        "langs": {
+          "es": {
+            "translatedHash": "eb191baf21c5134c7a65345121671b1c9bd93bf215f56c0c67402ec80dc7c3ca",
+            "updatedAt": "2026-02-25T00:11:31.337Z"
+          },
+          "pl": {
+            "translatedHash": "0252a8b79b3f6297083ba4b8d2929fb0c6cebc26048de3131a1a43f90604e2ee",
+            "updatedAt": "2026-02-25T00:11:33.164Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3bd4b9168befcbb1023664d91d172fa451f7afac76c6821d355c0bc3612291be",
+        "langs": {
+          "es": {
+            "translatedHash": "eb191baf21c5134c7a65345121671b1c9bd93bf215f56c0c67402ec80dc7c3ca",
+            "updatedAt": "2026-02-25T00:11:35.040Z"
+          },
+          "pl": {
+            "translatedHash": "73c1991c16cd9604e99c576be4818c78eb0175984f345fa80489d7a9157078e3",
+            "updatedAt": "2026-02-25T00:11:36.717Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cayetano de Tiene",
+  "name_pl": "Święty Kajetan z Thiene",
+  "feast_es": "El Séptimo Día de Agosto",
+  "feast_pl": "Siódmy dzień sierpnia",
+  "summary_es": "Gaetano dei Conti di Thiene, conocido en inglés como San Cayetano, fue un sacerdote católico italiano y reformador religioso, cofundador de los Teatinos. Es reconocido como santo en la Iglesia Católica, y su fiesta se celebra el 7 de agosto.",
+  "summary_pl": "Gaetano dei Conti di Thiene, znany po angielsku jako św. Kajetan, był włoskim księdzem katolickim i reformatorem religijnym, współzałożycielem teatynów. Jest uznawany za świętego w Kościele katolickim, a jego dzień wspomnienia przypada na 7 sierpnia.",
+  "biography_es": "Gaetano dei Conti di Thiene, conocido en inglés como San Cayetano, fue un sacerdote católico italiano y reformador religioso, cofundador de los Teatinos. Es reconocido como santo en la Iglesia Católica, y su fiesta se celebra el 7 de agosto.",
+  "biography_pl": "Gaetano dei Conti di Thiene, znany po angielsku jako św. Kajetan, był włoskim księdzem katolickim i reformatorem religijnym, współzałożycielem teatynów. Jest uznawany za świętego w Kościele katolickim, a jego wspomnienie liturgiczne przypada na 7 sierpnia."
+}

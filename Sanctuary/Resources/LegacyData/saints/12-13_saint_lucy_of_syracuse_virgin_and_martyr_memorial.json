@@ -1,0 +1,48 @@
+{
+  "id": "12-13_saint_lucy_of_syracuse_virgin_and_martyr_memorial",
+  "name": "Saint Lucy of Syracuse, Virgin and Martyr—Memorial",
+  "mmdd": "12-13",
+  "feast": "The Thirteenth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lucy"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-13_saint_lucy_of_syracuse_virgin_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9d2bdfcf10a7df8b47531d12980d2a46a3aa4d479ced88c13c678cfdcae7a24f",
+        "langs": {
+          "es": {
+            "translatedHash": "cf72cf74d0b8e2f2e38f928f4ae36db39b0978f627f7893362e19361b93daac0",
+            "updatedAt": "2026-02-25T01:25:52.115Z"
+          },
+          "pl": {
+            "translatedHash": "2b29120b268992caf527ae795b782394bb9d974c0522508d61a54eb389baea2d",
+            "updatedAt": "2026-02-25T01:25:53.132Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3f1cea89b19f0d3bba5a3a91c143e7343a17fcbd9e7cfaed7aa7634054daa255",
+        "langs": {
+          "es": {
+            "translatedHash": "5800156737f1a7679aaee95299a0f8a62e0a020f0af1d6aa1f686ebff105447c",
+            "updatedAt": "2026-02-25T01:25:53.880Z"
+          },
+          "pl": {
+            "translatedHash": "5b93204ebfa688681a17e5365ce89b20c6eb32a0c20903125a9c3e859dc5e8fc",
+            "updatedAt": "2026-02-25T01:25:54.519Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Lucía de Siracusa, Virgen y Mártir—Memorial",
+  "name_pl": "Święta Łucja z Syrakuz, Dziewica i Męczennica — Wspomnienie",
+  "feast_es": "El Decimotercer Día de Diciembre",
+  "feast_pl": "Trzynasty dzień grudnia"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "10-18_saint_luke_the_evangelist_feast",
+  "name": "Saint Luke the Evangelist—Feast",
+  "mmdd": "10-18",
+  "feast": "The Eighteenth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-18_saint_luke_the_evangelist_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "058ffaf895d275e0ca663b20f6c838775af6de39530c5d8b5fef995e41ac0c95",
+        "langs": {
+          "es": {
+            "translatedHash": "0d14e30a9e1b0710643f5b7f696970081ebf59243ec5eade6cf344624d418da6",
+            "updatedAt": "2026-02-25T00:52:08.180Z"
+          },
+          "pl": {
+            "translatedHash": "9145272379c5b77e599845dba52bf5181e0d39e19367a2b9d126c7fe333991ae",
+            "updatedAt": "2026-02-25T00:52:09.034Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "296262361dc712277d49517f668431557da21105adec264c0ebd8391ebb6dc3d",
+        "langs": {
+          "es": {
+            "translatedHash": "ae4c7cb045f459c0b631236cc10e48789bfb330ab3800e4eb51a8d08ba3a6cdf",
+            "updatedAt": "2026-02-25T00:52:09.652Z"
+          },
+          "pl": {
+            "translatedHash": "4ee84607f42165fbfa94b06e81c1993a1a0953d2f915a0332bba9b04e3e9d09f",
+            "updatedAt": "2026-02-25T00:52:11.156Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Lucas Evangelista—Fiesta",
+  "name_pl": "Święty Łukasz Ewangelista — Uroczystość",
+  "feast_es": "El Dieciocho de Octubre",
+  "feast_pl": "Osiemnasty dzień października"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "04-14_saint_justin",
+  "name": "Saint Justin",
+  "mmdd": "04-14",
+  "feast": "The Fourteenth Day of April",
+  "summary": "Saint-Justin is a municipality in the Mauricie region of the province of Quebec in Canada.",
+  "biography": "Saint-Justin (French pronunciation: [sɛ̃ ʒystɛ̃]) is a municipality in the Mauricie region of the province of Quebec in Canada. On December 6, 2014, Saint-Justin changed from parish municipality to a (regular) municipality. References",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Justin%2C_Quebec",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-14_saint_justin.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e7ddfae0dccffc88ebcfcd131511bf9a63175872ac30deb651e76efe22034524",
+        "langs": {
+          "es": {
+            "translatedHash": "3b5426d5f2fd23084cf52004b59469a4a140315a705e56ed2221b61a30fbe52b",
+            "updatedAt": "2026-02-24T23:09:23.451Z"
+          },
+          "pl": {
+            "translatedHash": "0c16b0bb0233ac4485e8b659ae3a50f0b2683c56e98a45b471b8b8f49e409cef",
+            "updatedAt": "2026-02-24T23:09:24.257Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "57fc672ee912d0bf67e19f65612bce2a928c7df26879b39bb8ff92914b9ffa84",
+        "langs": {
+          "es": {
+            "translatedHash": "1716ec1609774ff59064bb5d986bf9eaf361dc4523db4bb4e3b0fd18af14cadf",
+            "updatedAt": "2026-02-24T23:09:24.844Z"
+          },
+          "pl": {
+            "translatedHash": "cb5450b6326ac53046c229624e94de59179d39f80bd8ab59e8364b2acc35b2bb",
+            "updatedAt": "2026-02-24T23:09:25.903Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b9c45d1dc21a37a788c6f9b44f23d98feda2f0a8008d01d9a1b8fbcac8c3a775",
+        "langs": {
+          "es": {
+            "translatedHash": "010b9b1e817ccfbc6d35910f9d957fc0d81121fcd0afb584f392a787830f17d4",
+            "updatedAt": "2026-02-24T23:09:26.612Z"
+          },
+          "pl": {
+            "translatedHash": "4eddf286f9313888eee1f8bfd450b175f4deaa56f22614b26d33cd66468f0114",
+            "updatedAt": "2026-02-24T23:09:28.017Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "25d7bfb8e66b5f0b390a84efe319b2b751cfd72ed674a5bf11cbeee61019d2f1",
+        "langs": {
+          "es": {
+            "translatedHash": "733aa25c138a54afd3852208c9a48da8fa161323851443377086d135666265d0",
+            "updatedAt": "2026-02-24T23:09:29.215Z"
+          },
+          "pl": {
+            "translatedHash": "e22c039a474fa35b6d97ea28d2f7fef3d9655d2149f6f62580b038be83f98139",
+            "updatedAt": "2026-02-24T23:09:31.408Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Justino",
+  "name_pl": "Święty Justyn",
+  "feast_es": "El día catorce de abril",
+  "feast_pl": "Czternasty dzień kwietnia",
+  "summary_es": "San Justin es un municipio en la región de Mauricie de la provincia de Quebec en Canadá.",
+  "summary_pl": "Saint-Justin jest gminą w regionie Mauricie w prowincji Quebec w Kanadzie.",
+  "biography_es": "San Justiniano (pronunciación en francés: [sɛ̃ ʒystɛ̃]) es un municipio en la región de Mauricie de la provincia de Quebec en Canadá. El 6 de diciembre de 2014, San Justiniano cambió de municipio parroquial a un municipio (regular). Referencias",
+  "biography_pl": "Saint-Justin (wymowa francuska: [sɛ̃ ʒystɛ̃]) jest gminą w regionie Mauricie w prowincji Quebec w Kanadzie. 6 grudnia 2014 roku Saint-Justin zmienił status z gminy parafialnej na (zwykłą) gminę. Referencje"
+}

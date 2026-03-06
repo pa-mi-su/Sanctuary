@@ -1,0 +1,79 @@
+{
+  "id": "05-31_saint_angela_merici",
+  "name": "Saint Angela Merici",
+  "mmdd": "05-31",
+  "feast": "The Thirty-First Day of May",
+  "summary": "Angela Merici was an Italian Catholic religious educator who founded the Company of St. Ursula in 1535 in Brescia, in which women dedicated their lives to the service of the church through the education of girls.",
+  "biography": "Life\nMerici was born in 1474 on a farm near Desenzano del Garda, a small town on the southwestern shore of Lake Garda in Lombardy, Italy. She and her older sister, Giana Maria, were left orphans when she was ten years old. They went to live with their uncle in the town of Salò. Young Angela was very distressed when her sister suddenly died without receiving the last rites of the church and prayed that her sister's soul rest in peace. It is said that in a vision she received a response that her sister was in heaven in the company of the saints. She joined the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Angela_Merici",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-31_saint_angela_merici.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "cc40e20bbfe908387db136ddb436991530ddad7f4f8f80175878e139f8bbbf2b",
+        "langs": {
+          "es": {
+            "translatedHash": "289957b7850a6859a7990aceb75dfec28bccd49a3c815f908c75c72f92776353",
+            "updatedAt": "2026-02-24T23:34:20.776Z"
+          },
+          "pl": {
+            "translatedHash": "45f3e0691fbf15ce7b52088298e39112da98b9630cbd55fde27b4774a52093cf",
+            "updatedAt": "2026-02-24T23:34:21.467Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "91a951e4f0ab278df1a65869437d603e0f3c7e2b66bba8e4a5dd58d4a739a772",
+        "langs": {
+          "es": {
+            "translatedHash": "dd589201c8a2917c028edfedb371d2a53d6973dab44121e9bb506a638e379173",
+            "updatedAt": "2026-02-24T23:34:22.092Z"
+          },
+          "pl": {
+            "translatedHash": "4d689cc9b43ab6ed24420ad9c25f119b32f45655021113ee1c3621f0e84017ae",
+            "updatedAt": "2026-02-24T23:34:22.856Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "58cac3a11bab39703cf7e42e3f8bb40d6d8576eee6a2130969cd7c8ae431083e",
+        "langs": {
+          "es": {
+            "translatedHash": "f36da7084383cc5fd3e314b38168ec046e9a9bc09cfecc134482a2e5a53a2c97",
+            "updatedAt": "2026-02-24T23:34:24.627Z"
+          },
+          "pl": {
+            "translatedHash": "cc3cfc93251c90e6088f345320bbcbc1a44b385bd71ffa8c35da214cba378487",
+            "updatedAt": "2026-02-24T23:34:26.890Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "18176a7b0677160335c86e76feeb8c78cfdf65483e9e3ed7a8ac1977887e08ee",
+        "langs": {
+          "es": {
+            "translatedHash": "bf53a9c9c41b5e7e08ea402f0cf50f675a6ba44f4ed14c74bd164730b2ffdb4e",
+            "updatedAt": "2026-02-24T23:34:29.579Z"
+          },
+          "pl": {
+            "translatedHash": "ab3a595f31148d3e76b7966232a9339fc1c7c5175182041d572aa92a3e257ab7",
+            "updatedAt": "2026-02-24T23:34:32.910Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Ángela de Mérici",
+  "name_pl": "Święta Angela Merici",
+  "feast_es": "El Trigésimo Primer Día de Mayo",
+  "feast_pl": "Trzydziesty pierwszy dzień maja",
+  "summary_es": "Ángela de Mérici fue una educadora religiosa católica italiana que fundó la Compañía de Santa Úrsula en 1535 en Brescia, en la cual las mujeres dedicaban sus vidas al servicio de la iglesia mediante la educación de las niñas.",
+  "summary_pl": "Angela Merici była włoską katolicką wychowawczynią religijną, która założyła Towarzystwo św. Urszuli w 1535 roku w Brescii, w którym kobiety poświęcały swoje życie służbie Kościołowi poprzez wychowanie dziewcząt.",
+  "biography_es": "Vida  \nMerici nació en 1474 en una granja cerca de Desenzano del Garda, un pequeño pueblo en la orilla suroeste del Lago de Garda en Lombardía, Italia. Ella y su hermana mayor, Giana María, quedaron huérfanas cuando tenía diez años. Fueron a vivir con su tío en la ciudad de Salò. La joven Ángela estaba muy afligida cuando su hermana murió repentinamente sin recibir los últimos sacramentos de la iglesia y rezó para que el alma de su hermana descansara en paz. Se dice que en una visión recibió la respuesta de que su hermana estaba en el cielo en compañía de los santos. Ella se unió a la...",
+  "biography_pl": "Życie  \nMerici urodziła się w 1474 roku na farmie w pobliżu Desenzano del Garda, małego miasteczka na południowo-zachodnim brzegu Jeziora Garda w Lombardii, Włochy. Ona i jej starsza siostra, Giana Maria, zostały sierotami, gdy miała dziesięć lat. Zamieszkały u swojego wujka w mieście Salò. Młoda Angela była bardzo zmartwiona, gdy jej siostra nagle zmarła, nie przyjmując sakramentu ostatniego namaszczenia, i modliła się, aby dusza jej siostry zaznała spokoju. Mówi się, że w wizji otrzymała odpowiedź, iż jej siostra jest w niebie w towarzystwie świętych. Dołączyła do..."
+}

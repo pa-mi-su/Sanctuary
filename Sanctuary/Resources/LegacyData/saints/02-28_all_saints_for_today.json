@@ -1,0 +1,46 @@
+{
+  "id": "02-28_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "02-28",
+  "feast": "The Twenty-Eighth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:44:13.380Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:44:14.070Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a58c88d77841e10add3e6744cfd1f38be0db69958d64770d66eaa244e8e4b2ff",
+        "langs": {
+          "es": {
+            "translatedHash": "e6ad7697d43302979dba288e65cf4bbb9a60ce5e19ced2c4585e0635b9d2cbfe",
+            "updatedAt": "2026-02-24T22:44:14.749Z"
+          },
+          "pl": {
+            "translatedHash": "12edf4446be3f9a0d421e9593e0226fead50d9367d55abb0387f6649ca17d5de",
+            "updatedAt": "2026-02-24T22:44:15.453Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Vigésimo Octavo Día de Febrero",
+  "feast_pl": "Dwudziesty ósmy dzień lutego"
+}

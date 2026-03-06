@@ -1,0 +1,79 @@
+{
+  "id": "10-19_saints_john_de_brebeuf_isaac_jogues_and_companions",
+  "name": "Saints John de Brébeuf, Isaac Jogues, and Companions",
+  "mmdd": "10-19",
+  "feast": "The Nineteenth Day of October",
+  "summary": "Isaac Jogues was a French missionary and martyr who traveled and worked among the Iroquois, Huron, and other Native populations in North America. He was the first European to name Lake George, calling it Lac du Saint Sacrement. In 1646, Jogues was martyred by the Mohawk at their village of Ossernenon, near the Mohawk River.",
+  "biography": "Isaac Jogues was a French missionary and martyr who traveled and worked among the Iroquois, Huron, and other Native populations in North America. He was the first European to name Lake George, calling it Lac du Saint Sacrement. In 1646, Jogues was martyred by the Mohawk at their village of Ossernenon, near the Mohawk River.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isaac_Jogues",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-19_saints_john_de_brebeuf_isaac_jogues_and_companions.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "397196048ff77b69ed29de8e88ed5b6f4bf87d322256e99fa959eafb308d506c",
+        "langs": {
+          "es": {
+            "translatedHash": "8f2381bbbf5611b89a6bb66254e5b08563df7740ebbf8fb623f345ffd53dac1d",
+            "updatedAt": "2026-02-25T00:52:47.347Z"
+          },
+          "pl": {
+            "translatedHash": "b44aa49c3ce985dc8253366a2d025266e82f516b3b5fbf9ddebb1e697b075ee3",
+            "updatedAt": "2026-02-25T00:52:48.102Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "86a76aa27de04935898f89a5611b96a67bb33dab2fb116b200aa6bdb1626d97d",
+        "langs": {
+          "es": {
+            "translatedHash": "10bafa45d2b6d326a5a281fd9d9d825e42f07fa4840aaeff6451322f909c319a",
+            "updatedAt": "2026-02-25T00:52:48.636Z"
+          },
+          "pl": {
+            "translatedHash": "b146ed56fad0b16b84d176b50b32b8fd33be3f062212312da83c90cb175cccf4",
+            "updatedAt": "2026-02-25T00:52:49.312Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ea3eab5412f0e011e4589f4e306a114097ad7eef0d70cdd659f9db0de3571f6d",
+        "langs": {
+          "es": {
+            "translatedHash": "9eb2c174a3d0177b9414bf31bbb6d9bb7eca609a0e3b6c09aaa6b8167d4add07",
+            "updatedAt": "2026-02-25T00:52:51.147Z"
+          },
+          "pl": {
+            "translatedHash": "e1dd3e4ecd425e4101bbd7647e2b5e20d1fc967a2e928f8e995a3ebff193aacf",
+            "updatedAt": "2026-02-25T00:52:53.386Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ea3eab5412f0e011e4589f4e306a114097ad7eef0d70cdd659f9db0de3571f6d",
+        "langs": {
+          "es": {
+            "translatedHash": "339eb4a78469db2751839792a8b18d137494ef9cc94d46d72db7409a4e64df9d",
+            "updatedAt": "2026-02-25T00:52:56.119Z"
+          },
+          "pl": {
+            "translatedHash": "e1dd3e4ecd425e4101bbd7647e2b5e20d1fc967a2e928f8e995a3ebff193aacf",
+            "updatedAt": "2026-02-25T00:52:59.122Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Juan de Brébeuf, Isaac Jogues y Compañeros",
+  "name_pl": "Święci Jan de Brébeuf, Izaak Jogues i Towarzysze",
+  "feast_es": "El Diecinueve de Octubre",
+  "feast_pl": "Dziewiętnasty Dzień Października",
+  "summary_es": "Isaac Jogues fue un misionero y mártir francés que viajó y trabajó entre los iroqueses, hurones y otras poblaciones nativas de América del Norte. Fue el primer europeo en nombrar el Lago George, llamándolo Lac du Saint Sacrement. En 1646, Jogues fue martirizado por los mohawks en su aldea de Ossernenon, cerca del río Mohawk.",
+  "summary_pl": "Isaac Jogues był francuskim misjonarzem i męczennikiem, który podróżował i pracował wśród Irokezów, Huronów oraz innych rdzennych ludów Ameryki Północnej. Był pierwszym Europejczykiem, który nazwał Jezioro George’a, nazywając je Lac du Saint Sacrement. W 1646 roku Jogues został zamęczony przez Mohawków w ich wiosce Ossernenon, niedaleko rzeki Mohawk.",
+  "biography_es": "Isaac Jogues fue un misionero y mártir francés que viajó y trabajó entre los iroqueses, hurones y otras poblaciones nativas de América del Norte. Fue el primer europeo en nombrar el Lago George, llamándolo Lac du Saint Sacrement. En 1646, Jogues fue martirizado por los mohawk en su aldea de Ossernenon, cerca del río Mohawk.",
+  "biography_pl": "Isaac Jogues był francuskim misjonarzem i męczennikiem, który podróżował i pracował wśród Irokezów, Huronów oraz innych rdzennych ludów Ameryki Północnej. Był pierwszym Europejczykiem, który nazwał Jezioro George’a, nazywając je Lac du Saint Sacrement. W 1646 roku Jogues został zamęczony przez Mohawków w ich wiosce Ossernenon, niedaleko rzeki Mohawk."
+}

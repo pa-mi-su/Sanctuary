@@ -1,0 +1,48 @@
+{
+  "id": "03-17_saint_patrick_bishop_optional_memorial",
+  "name": "Saint Patrick, Bishop—Optional Memorial",
+  "mmdd": "03-17",
+  "feast": "The Seventeenth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Patrick"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-17_saint_patrick_bishop_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "af646dfac9a4aae2e3800570adb5392ca41a3ace807621c1f512a2a70032d515",
+        "langs": {
+          "es": {
+            "translatedHash": "8345263df246c5133f8ad21db56df924a2229d3d3ae84a54aedd584c978ff400",
+            "updatedAt": "2026-02-24T22:55:21.351Z"
+          },
+          "pl": {
+            "translatedHash": "8072cdac0a4081afcae0fcc08062bed92c3b1c94ad0059c62bf07bf7abee509e",
+            "updatedAt": "2026-02-24T22:55:22.150Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0309e91a1323a0b3181dbcdc3b3d8ae949324aad17c63824013cd1722545e4d7",
+        "langs": {
+          "es": {
+            "translatedHash": "46aa7571602db79f621545426fe6107ffbdd709f08685f572b7e5695dbdc49d7",
+            "updatedAt": "2026-02-24T22:55:22.774Z"
+          },
+          "pl": {
+            "translatedHash": "0486f5a8628333ff83c5e6c4b4d998fc70a21db3aff06a7c4dfc39e0c6a4c8ec",
+            "updatedAt": "2026-02-24T22:55:23.356Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Patricio, Obispo—Memoria Opcional",
+  "name_pl": "Święty Patryk, Biskup — Wspomnienie dowolne",
+  "feast_es": "El decimoséptimo día de marzo",
+  "feast_pl": "Siedemnasty Dzień Marca"
+}

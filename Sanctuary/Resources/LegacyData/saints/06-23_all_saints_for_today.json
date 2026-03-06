@@ -1,0 +1,46 @@
+{
+  "id": "06-23_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "06-23",
+  "feast": "The Twenty-Third day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:46:42.788Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:46:43.467Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4b9ff04e0e92125c835b02e6d1f4d2800ed2395544a13b8c0a8a54158b87864a",
+        "langs": {
+          "es": {
+            "translatedHash": "8fb9fceaef0faafdeb22f6dacc3a77a7494a9701ce3774bae7b743b418f151c2",
+            "updatedAt": "2026-02-24T23:46:44.081Z"
+          },
+          "pl": {
+            "translatedHash": "292d62903c76930eb23bb59195cd7ac213ce38670cfb6c0dfdbd6b214b3c3545",
+            "updatedAt": "2026-02-24T23:46:44.857Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo tercer día de junio",
+  "feast_pl": "Dwudziesty trzeci dzień czerwca"
+}

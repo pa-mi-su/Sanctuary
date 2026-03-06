@@ -1,0 +1,79 @@
+{
+  "id": "10-22_saint_philip",
+  "name": "Saint Philip",
+  "mmdd": "10-22",
+  "feast": "The Twenty-Second Day of October",
+  "summary": "Saint Philip Neri, born Filippo Romolo Neri, pronounced [fiˈlippo ˈrɔːmolo ˈneːri] was an Italian Catholic priest who founded the Congregation of the Oratory, a society of secular clergy dedicated to pastoral care and charitable work. He is sometimes referred to as the \"Second Apostle of Rome\" after Saint Peter, and sometimes as the \"Third Apostle of Rome\", after Saint Peter and Saint Paul. Neri's spiritual mission emphasised personal holiness and direct service to others, particularly through the education of young people and care for the poor and sick. His work played a significant role in the Counter-Reformation, especially within the city of Rome.",
+  "biography": "Saint Philip Neri , born Filippo Romolo Neri, pronounced [fiˈlippo ˈrɔːmolo ˈneːri] (22 July 1515 – 26 May 1595) was an Italian Catholic priest who founded the Congregation of the Oratory, a society of secular clergy dedicated to pastoral care and charitable work. He is sometimes referred to as the \"Second Apostle of Rome\" after Saint Peter, and sometimes as the \"Third Apostle of Rome\", after Saint Peter and Saint Paul. Neri's spiritual mission emphasised personal holiness and direct service to others, particularly through the education of young people and care for the poor and sick. His work played a significant role in the Counter-Reformation, especially within the city of Rome. \nNeri's early life in Florence and later move to Rome in 1533 marked the beginning of his dedication to missionary work. He initially gained prominence for his pastoral care and efforts to minister to marginalised communities, including prostitutes and the destitute. His passion for reform and personal holiness drew many followers, leading to the formation of the Church of the Most Holy Trinity of the Pilgrims and the Congregation of the Oratory. The Oratory became a centre of spiritual renewal and pastoral...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philip_Neri",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-22_saint_philip.gif",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4298d0b5d606fb51a715f4fc840abc0165df1f6dcf8fc07a337fd919d3e4caaf",
+        "langs": {
+          "es": {
+            "translatedHash": "ed0411a5f6d9e1a9f8aefffcabcaa5fbab955cfdc2e49ef314b43ae7dfecce3e",
+            "updatedAt": "2026-02-25T00:54:31.354Z"
+          },
+          "pl": {
+            "translatedHash": "fff3062f2d17c6dcee0db6a01236343f925c3fbc8302b9fe84d49c72eca085a1",
+            "updatedAt": "2026-02-25T00:54:31.878Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9d86b580cc59b808913899ced2ca476c81ec29f6c1bffef55709b5701f1888d3",
+        "langs": {
+          "es": {
+            "translatedHash": "b98f422df20637d3706572c40ac81d980e99e9dc723a20b88fc0dbc166114950",
+            "updatedAt": "2026-02-25T00:54:32.502Z"
+          },
+          "pl": {
+            "translatedHash": "a16e121e7eba03c29311a0131518e464fa271bfc99ec588340896ce92ab72bf5",
+            "updatedAt": "2026-02-25T00:54:33.242Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e5bca7f554c0ccc5cfe5508523b8476ff80f7bef37a02db3a74c08bd80496571",
+        "langs": {
+          "es": {
+            "translatedHash": "a69396b1a931b4aae7c2aa462c0d36cef6da89b6dadc7f7e5ff7467f4675cdb8",
+            "updatedAt": "2026-02-25T00:54:35.734Z"
+          },
+          "pl": {
+            "translatedHash": "b549ea1c9495fd70ecb1ed60b420430469a99241b5ac7be7a4460f45adb12140",
+            "updatedAt": "2026-02-25T00:54:39.522Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "df8877561a37d0d8e4378a9cdeb48bc408dad3eb437739f796154a8fe2843220",
+        "langs": {
+          "es": {
+            "translatedHash": "bf9207fb42217accd6c295190bfcef7b4bbab99acb3125121ee7aeaa8437ec9a",
+            "updatedAt": "2026-02-25T00:54:43.926Z"
+          },
+          "pl": {
+            "translatedHash": "52262a60d904df82edc33d8a31665853191dbbb3eff49ac329e5244b542706ec",
+            "updatedAt": "2026-02-25T00:54:50.838Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Felipe",
+  "name_pl": "Święty Filip",
+  "feast_es": "El Veintidós de Octubre",
+  "feast_pl": "Dwudziesty drugi dzień października",
+  "summary_es": "San Felipe Neri, nacido Filippo Romolo Neri, pronunciado [fiˈlippo ˈrɔːmolo ˈneːri], fue un sacerdote católico italiano que fundó la Congregación del Oratorio, una sociedad de clérigos seculares dedicada al cuidado pastoral y al trabajo caritativo. A veces se le llama el \"Segundo Apóstol de Roma\" después de San Pedro, y a veces el \"Tercer Apóstol de Roma\", después de San Pedro y San Pablo. La misión espiritual de Neri enfatizaba la santidad personal y el servicio directo a los demás, particularmente a través de la educación de los jóvenes y el cuidado de los pobres y enfermos. Su obra desempeñó un papel significativo en la Contrarreforma, especialmente dentro de la ciudad de Roma.",
+  "summary_pl": "Święty Filip Neri, urodzony jako Filippo Romolo Neri, wymawiany [fiˈlippo ˈrɔːmolo ˈneːri], był włoskim księdzem katolickim, który założył Kongregację Oratorium, stowarzyszenie duchowieństwa świeckiego poświęcone opiece duszpasterskiej i działalności charytatywnej. Bywa nazywany „Drugim Apostołem Rzymu” po św. Piotrze, a czasem „Trzecim Apostołem Rzymu” po św. Piotrze i św. Pawle. Misja duchowa Neriego podkreślała osobistą świętość i bezpośrednią służbę innym, szczególnie poprzez wychowanie młodzieży oraz opiekę nad ubogimi i chorymi. Jego działalność odegrała znaczącą rolę w kontrreformacji, zwłaszcza w mieście Rzym.",
+  "biography_es": "San Felipe Neri, nacido Filippo Romolo Neri, pronunciado [fiˈlippo ˈrɔːmolo ˈneːri] (22 de julio de 1515 – 26 de mayo de 1595) fue un sacerdote católico italiano que fundó la Congregación del Oratorio, una sociedad de clérigos seglares dedicada al cuidado pastoral y al trabajo caritativo. A veces se le llama el \"Segundo Apóstol de Roma\" después de San Pedro, y en ocasiones el \"Tercer Apóstol de Roma\", después de San Pedro y San Pablo. La misión espiritual de Neri enfatizaba la santidad personal y el servicio directo a los demás, particularmente a través de la educación de los jóvenes y el cuidado de los pobres y enfermos. Su obra desempeñó un papel significativo en la Contrarreforma, especialmente dentro de la ciudad de Roma.\n\nLa vida temprana de Neri en Florencia y su posterior traslado a Roma en 1533 marcaron el inicio de su dedicación al trabajo misionero. Inicialmente ganó prominencia por su cuidado pastoral y sus esfuerzos por ministrar a comunidades marginadas, incluyendo prostitutas y personas indigentes. Su pasión por la reforma y la santidad personal atrajo a muchos seguidores, lo que llevó a la formación de la Iglesia de la Santísima Trinidad de los Peregrinos y la Congregación del Oratorio. El Oratorio se convirtió en un centro de renovación espiritual y pastoral...",
+  "biography_pl": "Święty Filip Neri, urodzony jako Filippo Romolo Neri, wymawiany [fiˈlippo ˈrɔːmolo ˈneːri] (22 lipca 1515 – 26 maja 1595) był włoskim księdzem katolickim, który założył Kongregację Oratorium, stowarzyszenie duchowieństwa świeckiego poświęcone opiece duszpasterskiej i działalności charytatywnej. Bywa nazywany „Drugim Apostołem Rzymu” po św. Piotrze, a czasem „Trzecim Apostołem Rzymu” po św. Piotrze i św. Pawle. Misja duchowa Neriego podkreślała osobistą świętość i bezpośrednią służbę innym, szczególnie poprzez wychowanie młodzieży oraz opiekę nad ubogimi i chorymi. Jego działalność odegrała znaczącą rolę w kontrreformacji, zwłaszcza w mieście Rzym.  \nWczesne życie Neriego we Florencji oraz późniejsza przeprowadzka do Rzymu w 1533 roku oznaczały początek jego poświęcenia pracy misyjnej. Początkowo zyskał sławę dzięki opiece duszpasterskiej i wysiłkom na rzecz marginalizowanych społeczności, w tym prostytutek i osób bezdomnych. Jego pasja do reformy i osobistej świętości przyciągnęła wielu naśladowców, co doprowadziło do powstania Kościoła Najświętszej Trójcy Pielgrzymów oraz Kongregacji Oratorium. Oratorium stało się centrum duchowego odnowienia i duszpasterstwa..."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "03-11_saint_eulogius",
+  "name": "Saint Eulogius",
+  "mmdd": "03-11",
+  "feast": "The Eleventh Day of March",
+  "summary": "Saint Eulogius of Córdoba was one of the Martyrs of Córdoba. He lived during the reigns of the Cordovan emirs Abd ar-Rahman II and Muhammad I.",
+  "biography": "Background\nIn the ninth century, the Moorish conquerors of the southern half of the Iberian Peninsula made Córdoba their capital. Christians were accorded a subaltern status, and subject to a monthly tax. Though restricted, they were permitted to worship. Some, like Eulogius's younger brother, rose to high positions in the government. In the large cities like Toledo and Córdoba, Christians in some cases observed the civil laws that applied during the time of Visigothic rule. The government was exercised by the comes (count), president of the council of senators.\nDuring this time, the faithful could, it is true, worship freely, and retained their churches and property on condition of paying a tribute for every parish, cathedral, and monastery; frequently such tribute was increased at the will of the conqueror, and often the living had to pay for the dead. Many of the faithful then fled to Northern Spain; others took refuge in the monasteries of Sierras, and thus the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-11_saint_eulogius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0d0ee0ccaa7acc9e299fde69e6175444c3c42b3d8e83e9f051895435977de991",
+        "langs": {
+          "es": {
+            "translatedHash": "4cdbe5c7c31626e787d0561d378b7e9b62761449b9d8ded1cab8ab507201d266",
+            "updatedAt": "2026-02-24T22:51:48.897Z"
+          },
+          "pl": {
+            "translatedHash": "08559c4a9a19f947e0a3f2d7c0f8fff0cb09691c2cf1fa51cd3da8854a11af16",
+            "updatedAt": "2026-02-24T22:51:49.726Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e561c4be213f2932cf19c72011f9848a1092ed50224e2b371240a4a8da75a6b8",
+        "langs": {
+          "es": {
+            "translatedHash": "1490e033301ace5ea87ebc47e7b2502b316eb38e22291b2c6e07da09599b33f9",
+            "updatedAt": "2026-02-24T22:51:50.312Z"
+          },
+          "pl": {
+            "translatedHash": "ead39c807f58214a22aed1a629187167f1de60e82b68f1793404a0990ba8457c",
+            "updatedAt": "2026-02-24T22:51:50.987Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "85cdf8443032374d6fbfe84da7f1af06421537f70fd58899ed189a516b553420",
+        "langs": {
+          "es": {
+            "translatedHash": "713b71beeb02d2631e1bcebd95fe5b00164d8278b37fbbcd4cdf4a08b79b03cb",
+            "updatedAt": "2026-02-24T22:51:52.005Z"
+          },
+          "pl": {
+            "translatedHash": "5f07d41ca77c29a6a09a85c72def9d5b4ad587715c7770a2c4d06f4b1e08660e",
+            "updatedAt": "2026-02-24T22:51:53.069Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7efb12e372236adeb697d66077f31d2c3894a6c489a2941a3514042e961044e1",
+        "langs": {
+          "es": {
+            "translatedHash": "fdd0096a65b7e9c7bfcfb6ba12e7cdbebbf4750fcbbee5bbdaebd3c667907238",
+            "updatedAt": "2026-02-24T22:51:56.615Z"
+          },
+          "pl": {
+            "translatedHash": "dd8a2129630ddaa053dd2098f532348a28773ebfe2223b303efc5b2903ecb9b1",
+            "updatedAt": "2026-02-24T22:52:00.471Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Eulogio",
+  "name_pl": "Święty Eulogiusz",
+  "feast_es": "El Undécimo Día de Marzo",
+  "feast_pl": "Jedenasty Dzień Marca",
+  "summary_es": "San Eulogio de Córdoba fue uno de los Mártires de Córdoba. Vivió durante los reinados de los emires cordobeses Abd ar-Rahman II y Muhammad I.",
+  "summary_pl": "Święty Eulogiusz z Kordoby był jednym z Męczenników z Kordoby. Żył za panowania kordobańskich emirów Abd ar-Rahmana II i Muhammada I.",
+  "biography_es": "Antecedentes  \nEn el siglo IX, los conquistadores moros de la mitad sur de la Península Ibérica hicieron de Córdoba su capital. A los cristianos se les otorgó un estatus subalterno y estaban sujetos a un impuesto mensual. Aunque con restricciones, se les permitió el culto. Algunos, como el hermano menor de Eulogio, alcanzaron altos cargos en el gobierno. En las grandes ciudades como Toledo y Córdoba, en algunos casos los cristianos observaban las leyes civiles que aplicaban durante la época del dominio visigodo. El gobierno era ejercido por el comes (conde), presidente del consejo de senadores.  \nDurante este tiempo, los fieles podían, es cierto, adorar libremente, y conservaron sus iglesias y propiedades con la condición de pagar un tributo por cada parroquia, catedral y monasterio; frecuentemente dicho tributo se aumentaba a voluntad del conquistador, y a menudo los vivos tenían que pagar por los muertos. Muchos de los fieles entonces huyeron al norte de España; otros se refugiaron en los monasterios de las Sierras, y así...",
+  "biography_pl": "Tło  \nW IX wieku mauretańscy zdobywcy południowej połowy Półwyspu Iberyjskiego uczynili Kordobę swoją stolicą. Chrześcijanie mieli status podrzędny i byli obciążeni miesięcznym podatkiem. Choć ograniczeni, mogli oddawać cześć Bogu. Niektórzy, jak młodszy brat Eulogiusza, zajmowali wysokie stanowiska w rządzie. W dużych miastach, takich jak Toledo i Kordoba, chrześcijanie w niektórych przypadkach przestrzegali praw cywilnych obowiązujących za panowania Wizygotów. Władzę sprawował comes (hrabia), przewodniczący rady senatorów.  \nW tym czasie wierni mogli, co prawda, swobodnie się modlić i zachowali swoje kościoły oraz majątki pod warunkiem płacenia daniny za każdą parafię, katedrę i klasztor; często taka danina była zwiększana według woli zdobywcy, a żyjący często musieli płacić za zmarłych. Wielu wiernych wtedy uciekło na północ Hiszpanii; inni schronili się w klasztorach w górach Sierras, i tak..."
+}

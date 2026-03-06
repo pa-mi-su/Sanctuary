@@ -1,0 +1,270 @@
+{
+  "id": "our_lady_of_charity",
+  "title": "Our Lady of Charity Novena",
+  "description": "Our Lady of Charity, known also as La Vírgen de la Caridad del Cobre, is a title and image of Our Lady in Cuba. Pray this novena for Cuba, Cuban peoples, salt and copper miners.",
+  "category": "Marian",
+  "tags": [
+    "Novena",
+    "Marian",
+    "Mary",
+    "Our Lady of Charity"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/our-lady-of-charity-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencione la petición aquí…) Amén.\n\nMemorare\nAcuérdate, oh piadosísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o pedido tu intercesión haya sido abandonado. Animado por esta confianza, acudo a ti, Virgen de las vírgenes, Madre mía. A ti vengo, ante ti estoy, pecador y afligido. Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\n¡Nuestra Señora de la Caridad, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz sił cierpiącym, strzeżesz naszych rodzin przed hańbą, ochraniasz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyliczyć wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o łaskawa Dziewico Maryjo, że nigdy nie słyszano, aby ktokolwiek, kto uciekał się do Twojej opieki, prosił o pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze Nasz\nZdrowaś Maryjo\nChwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencionar la petición aquí…) Amén.\n\nMemorare\nAcuérdate, oh piadosísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o pedido tu intercesión haya sido abandonado. Animado con esta confianza, a ti me acojo, Virgen de las vírgenes, Madre mía. A ti vengo, ante ti estoy, pecador y afligido. Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\nNuestra Señora de la Caridad, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz sił cierpiącym, strzeżesz naszych rodzin przed hańbą, ochraniasz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyliczyć wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nigdy nie było wiadomo, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o Twoją pomoc lub szukał Twego wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu Matko Miłosierdzia, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, tú curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencione aquí la petición…) Amén.\n\nMemorare\nAcuérdate, oh piadosísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o pedido tu intercesión haya sido abandonado. Animado con esta confianza, acudo a ti, Virgen de las vírgenes, Madre mía. A ti vengo, delante de ti estoy, pecador y afligido. Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\n¡Nuestra Señora de la Caridad, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz siły cierpiącym, strzeżesz naszych rodzin przed hańbą, chronisz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyjaśnić wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nigdy nie było wiadomo, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o Twoją pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze Nasz\nZdrowaś Maryjo\nChwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te agradecemos por todas tus gracias. (mencionar la petición aquí…) Amén.\n\nMemorare\nAcuérdate, oh piadosísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o buscado tu intercesión haya sido abandonado. Inspirado con esta confianza, acudo a ti, oh Virgen de las vírgenes, mi Madre. A ti vengo, ante ti estoy, pecador y afligido. Oh Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\n¡Nuestra Señora de la Caridad, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dajesz siłę cierpiącym, strzeżesz naszych rodzin przed hańbą, chronisz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyliczyć wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nigdy nie było wiadomo, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o Twoją pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencione aquí la petición…) Amén.\n\nMemorare\nAcuérdate, oh clementísima Virgen María, que jamás se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o pedido tu intercesión haya sido abandonado. Animado con esta confianza, acudo a ti, Virgen de las vírgenes, Madre mía. A ti vengo, ante ti estoy, pecador y afligido. Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\n¡Nuestra Señora de la Caridad, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, leczysz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz sił cierpiącym, strzeżesz naszych rodzin przed hańbą, ochraniasz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyliczyć wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nigdy nie było wiadomo, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o Twoją pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze nasz\nZdrowaś Maryjo\nChwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fortaleza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros niños. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te agradecemos por todas tus gracias. (mencionar petición aquí…) Amén.\n\nMemorare\nAcuérdate, oh clementísima Virgen María, que jamás se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu auxilio o buscado tu intercesión haya sido abandonado. Animado con esta confianza, a ti me acojo, Virgen de las vírgenes, Madre mía. A ti vengo, delante de ti estoy, pecador y afligido. Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\n¡Nuestra Señora de la Caridad, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz sił cierpiącym, strzeżesz naszych rodzin od hańby, ochraniasz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyliczyć wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nigdy nie było wiadomo, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o Twoją pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y guardas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencione aquí la petición…) Amén.\n\nMemorare\nAcuérdate, oh piadosísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu auxilio o buscado tu intercesión haya sido abandonado. Animado con esta confianza, a ti me acojo, Virgen de las vírgenes, Madre mía. A ti vengo, delante de ti estoy, pecador y afligido. Oh Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\nNuestra Señora de la Caridad, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz sił cierpiącym, strzeżesz naszych rodzin przed hańbą, ochraniasz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyjaśnić wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nigdy nie słyszano, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros hijos. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencionar la petición aquí…) Amén.\n\nMemorare\nAcuérdate, oh clementísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o pedido tu intercesión haya sido abandonado. Inspirado con esta confianza, acudo a ti, oh Virgen de las vírgenes, mi Madre. A ti vengo, ante ti estoy, pecador y afligido. Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndeme con tu misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\n¡Nuestra Señora de la Caridad, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie panuje rozpacz, dodajesz sił cierpiącym, strzeżesz naszych rodzin od hańby, ochraniasz młodzież i czuwasz nad naszymi dziećmi. Nikt nie potrafi wyliczyć wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o najłaskawsza Dziewico Maryjo, że nie było jeszcze znane, aby ktokolwiek, kto uciekał się do Twej opieki, błagał o pomoc lub szukał Twego wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Holy Virgin, Our Lady of Charity, with happiness and humility I come to your feet! Virgin of Miracles, you cure the sick, give hope where there is despair, give strength to the afflicted, preserve from disgrace our families, protect the youth, and guard our children. No one can explain all the miracles and fortitude you give to the souls that come to you. We, your children, thank you for all your graces. (mention request here…) Amen.\n\nMemorare Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired with this confidence, I fly to thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. Our Father Hail Mary Glory Be Our Lady of Charity, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Oh Santa Virgen, Nuestra Señora de la Caridad, con alegría y humildad vengo a tus pies! Virgen de los Milagros, curas a los enfermos, das esperanza donde hay desesperación, das fuerza a los afligidos, preservas de la desgracia a nuestras familias, proteges a la juventud y cuidas a nuestros niños. Nadie puede explicar todos los milagros y la fortaleza que das a las almas que acuden a ti. Nosotros, tus hijos, te damos gracias por todas tus gracias. (mencione aquí la petición…) Amén.\n\nMemorare\nAcuérdate, oh piadosísima Virgen María, que nunca se ha oído decir que ninguno de los que han acudido a tu protección, implorado tu ayuda o pedido tu intercesión haya sido abandonado. Animado por esta confianza, acudo a ti, Virgen de las vírgenes, Madre mía. A ti vengo, delante de ti estoy, pecador y afligido. Oh Madre del Verbo Encarnado, no desprecies mis súplicas, sino escucha y atiéndelas con misericordia. Amén.\nPadre Nuestro\nAve María\nGloria\nNuestra Señora de la Caridad, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Święta Dziewico, Matko Miłosierdzia, z radością i pokorą przychodzę do Twoich stóp! Dziewico Cudów, uzdrawiasz chorych, dajesz nadzieję tam, gdzie jest rozpacz, dodajesz siły cierpiącym, strzeżesz naszych rodzin przed hańbą, chroń młodzież i czuwaj nad naszymi dziećmi. Nikt nie potrafi wyjaśnić wszystkich cudów i wytrwałości, które dajesz duszom, które do Ciebie przychodzą. My, Twoje dzieci, dziękujemy Ci za wszystkie Twoje łaski. (wymień prośbę tutaj…) Amen.\n\nMemorare\nPamiętaj, o Najłaskawsza Dziewico Maryjo, że nigdy nie było wiadomo, aby ktokolwiek, kto uciekał się do Twojej opieki, błagał o Twoją pomoc lub szukał Twojej wstawiennictwa, został opuszczony. Natchniony tym zaufaniem, uciekam się do Ciebie, o Dziewico dziewic, moja Matko. Do Ciebie przychodzę, przed Tobą stoję, grzeszny i smutny. O Matko Słowa Wcielonego, nie gardź moimi prośbami, ale z miłosierdzia wysłuchaj mnie i odpowiedz. Amen.\nOjcze Nasz\nZdrowaś Maryjo\nChwała Ojcu\nMatko Miłosierdzia, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "August 30Feastday:September 8Birth:0Death:50Patron saint of Cuba, Cuban peoples, salt and copper miners 📱",
+    "feast": "September 8Birth:0Death:50Patron saint of Cuba, Cuban peoples, salt and copper miners 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/our_lady_of_charity.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "abc569ae6d37f10f2a4ae405f6689ba9eb73c1521bb45862142921b77644ffa5",
+        "langs": {
+          "es": {
+            "translatedHash": "41bc981154e86e5c9198505b50b35d6509d45c9596d6c14420ec935aa23ad0d2",
+            "updatedAt": "2026-02-25T09:46:47.015Z"
+          },
+          "pl": {
+            "translatedHash": "ee9fa58dc1541234eb49c759040529a3dca29b0bbae143068ca62a43c2c9a7a5",
+            "updatedAt": "2026-02-25T09:46:47.887Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "e84bb1abe8ab2bf978908ecae502eacadd5504432dedb80b7a007d7e58383bba",
+        "langs": {
+          "es": {
+            "translatedHash": "b2eb1ba71ef00d89b462958dfcc01ec1eeabc6dbd49e0707837d5af27422dec7",
+            "updatedAt": "2026-02-25T09:46:49.523Z"
+          },
+          "pl": {
+            "translatedHash": "b2ab77903874bf437a406343e555611dcf3eaaa51b2bbdd2e658fff0c662636f",
+            "updatedAt": "2026-02-25T09:46:51.117Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "1481595cc030aaf085b82c7b1b3382fa6d98e4d32a7effaf3f2c197d9fe55f74",
+        "langs": {
+          "es": {
+            "translatedHash": "3598e2cec6c39edc955f5ce20d994fbb94e27ab3e26e547c01a4e376a0800044",
+            "updatedAt": "2026-02-25T09:46:56.096Z"
+          },
+          "pl": {
+            "translatedHash": "252757e5b9c5d254e037b59f7b9f38d935e9a8b96f5da1f13816c959ca356814",
+            "updatedAt": "2026-02-25T09:47:02.715Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "e0a394fbc24e0f92998f9c666003d1787418819388ae5e958f1c9d035f42c5cc",
+        "langs": {
+          "es": {
+            "translatedHash": "d63dce68245baf7b1bd37454c38e4887aa7192ec825af509428fe14238c78d66",
+            "updatedAt": "2026-02-25T09:47:07.039Z"
+          },
+          "pl": {
+            "translatedHash": "84a1154b547f4414ca0bf2928a8746b4976849b0cc6a4064357aa118cd983c57",
+            "updatedAt": "2026-02-25T09:47:13.961Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "288a08c9d625316bb7472bedfc13dcf8d9183bf00c1cf2105c86f9ebe1f8b8e3",
+        "langs": {
+          "es": {
+            "translatedHash": "96e411d58ac824ca74e7664a3093c48ff7590f02434dcc35e31557dfb441c336",
+            "updatedAt": "2026-02-25T09:47:20.707Z"
+          },
+          "pl": {
+            "translatedHash": "168be6ed75dd69e773f8f9a355a16da1d558c8f430efd80827b9a64c88f886bd",
+            "updatedAt": "2026-02-25T09:47:28.010Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "4408ceaff860fccfe631ce23165559abc4cacdeeda9c6a27143a6400ad5e8026",
+        "langs": {
+          "es": {
+            "translatedHash": "11c833f595cb7501c6036e093c3a304f91a5dadee15b5eb5e5328df53e81b630",
+            "updatedAt": "2026-02-25T09:47:32.444Z"
+          },
+          "pl": {
+            "translatedHash": "76eeebbedfb63babd11556e9cc94ec125c136e5afda33ad22d26c0432e01283c",
+            "updatedAt": "2026-02-25T09:47:41.321Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "4585136fa0c69077d34398b900cc637b8b0da25e3b0692ea8b0bd771b61e83dc",
+        "langs": {
+          "es": {
+            "translatedHash": "aa068becb05370850fb78cf4c01b78658983c35966238940bf518de11f6c3309",
+            "updatedAt": "2026-02-25T09:47:46.929Z"
+          },
+          "pl": {
+            "translatedHash": "7cb4f31cecd0f26e98cf7423e0a6663e2fe0175b26aad722fd8c94a53aa033c7",
+            "updatedAt": "2026-02-25T09:47:53.437Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "6d715e2e411861c42f4a6d5b9701117c21ac96ec342610c311da9ad6d79ec88f",
+        "langs": {
+          "es": {
+            "translatedHash": "4f3998a8dd4ee975489b1ce307c0d9fe00837bba2f42b01fa2b10bf9a5ca822d",
+            "updatedAt": "2026-02-25T09:48:00.462Z"
+          },
+          "pl": {
+            "translatedHash": "9df19923b94ff0c18d2790c0173e71e5b6fa3b2282ff2646e0ac030943ddae52",
+            "updatedAt": "2026-02-25T09:48:09.093Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "f0f3a185454d8cc24bcb8bdce8e990e85eaa9aed15d7956818ce5f673d8a06a7",
+        "langs": {
+          "es": {
+            "translatedHash": "414c723d26df4eb3a6e40ae7eb5c88f554264973a05683d4b28b5b7442b80f39",
+            "updatedAt": "2026-02-25T09:48:15.020Z"
+          },
+          "pl": {
+            "translatedHash": "6718edf3d779e3162bbf40a8c89f2b96d2052204ef96c3829c37c2dbc6d1243d",
+            "updatedAt": "2026-02-25T09:48:22.967Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "0147e47654292aa5297a54ea55f082f21f8db97839fb71840c8916b7613659f8",
+        "langs": {
+          "es": {
+            "translatedHash": "449d5085c6626899fa0a7834f8c4ffb07443151a65dcee1a813c083421b60631",
+            "updatedAt": "2026-02-25T09:48:27.595Z"
+          },
+          "pl": {
+            "translatedHash": "2e06f13204b26c8b646e8cc844b8a608534aa889fcfb4431cac36ca41e5dfd7f",
+            "updatedAt": "2026-02-25T09:48:33.620Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "dac727456e32702d050cd144b7c3678afe02c2544f023312c53cd8b168542e57",
+        "langs": {
+          "es": {
+            "translatedHash": "13266018f5b5c84ac2607afa49e0b0b9eb0826df492811fbb869596563c6bb2b",
+            "updatedAt": "2026-02-25T09:48:38.691Z"
+          },
+          "pl": {
+            "translatedHash": "b10b96a489518c4efd5c4049d9ced5713617d4a2652696f3a099768b64d563b1",
+            "updatedAt": "2026-02-25T09:48:44.237Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Nuestra Señora de la Caridad",
+  "title_pl": "Nowenna do Matki Bożej Miłosierdzia",
+  "description_es": "Nuestra Señora de la Caridad, conocida también como La Virgen de la Caridad del Cobre, es un título e imagen de Nuestra Señora en Cuba. Reza esta novena por Cuba, el pueblo cubano, los mineros de sal y cobre.",
+  "description_pl": "Nasza Pani Miłosierdzia, znana również jako La Vírgen de la Caridad del Cobre, to tytuł i wizerunek Matki Bożej na Kubie. Módl się tę nowennę za Kubę, Kubańczyków, górników soli i miedzi.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

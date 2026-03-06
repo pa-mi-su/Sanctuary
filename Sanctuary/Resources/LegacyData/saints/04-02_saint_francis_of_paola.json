@@ -1,0 +1,79 @@
+{
+  "id": "04-02_saint_francis_of_paola",
+  "name": "Saint Francis of Paola",
+  "mmdd": "04-02",
+  "feast": "The Second Day of April",
+  "summary": "Francis of Paola, O.M., was a Roman Catholic friar from the town of Paola in Calabria who founded the Order of Minims. He was named after Francis of Assisi and like him Francis of Paola was never ordained a priest.",
+  "biography": "Francis of Paola, O.M., was a Roman Catholic friar from the town of Paola in Calabria who founded the Order of Minims. He was named after Francis of Assisi and like him Francis of Paola was never ordained a priest.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francis_of_Paola",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-02_saint_francis_of_paola.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "625e6ed30f8e246e1f2f08fa3d587375925dadb6e8856702165c70ecb4a62c88",
+        "langs": {
+          "es": {
+            "translatedHash": "36323c7e2ac48f20480c4e469d32149eb8145fc62d9c736845b960af9103dcc8",
+            "updatedAt": "2026-02-24T23:03:11.207Z"
+          },
+          "pl": {
+            "translatedHash": "93741817d1579520debd81ed30a1ba41d79fbc8299d8ffa3b9177779ec505561",
+            "updatedAt": "2026-02-24T23:03:11.867Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1e95dcb3d9cb015bc0cad4a0402f49ca951599fd373faa439d60271d0d25d777",
+        "langs": {
+          "es": {
+            "translatedHash": "4decb41548e19ce1d213a001fef3b8fb9c01c2def37c282c8885492ea1108daa",
+            "updatedAt": "2026-02-24T23:03:12.552Z"
+          },
+          "pl": {
+            "translatedHash": "b1d365f57c6b7c9752a8397c8696e48abdab9cd7fb97fd5bd483b9342bbdb4aa",
+            "updatedAt": "2026-02-24T23:03:13.346Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ffae982c1005c9a9bd8f85fc6e0145d41618fefae0844a831d32de395de3f206",
+        "langs": {
+          "es": {
+            "translatedHash": "affba98118bf028aea320571afd0c38ac553d010ca08d6050fd7bff7f04335af",
+            "updatedAt": "2026-02-24T23:03:14.832Z"
+          },
+          "pl": {
+            "translatedHash": "12d3c8e96b23f3fdd3ea1bae528413af7841ddeccd639fa4aa63772502f65f14",
+            "updatedAt": "2026-02-24T23:03:16.443Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ffae982c1005c9a9bd8f85fc6e0145d41618fefae0844a831d32de395de3f206",
+        "langs": {
+          "es": {
+            "translatedHash": "affba98118bf028aea320571afd0c38ac553d010ca08d6050fd7bff7f04335af",
+            "updatedAt": "2026-02-24T23:03:17.729Z"
+          },
+          "pl": {
+            "translatedHash": "5d26a6f32aa85f53dc6f9140db68125dd85a8498bc4fdd76ec3bb48c65208712",
+            "updatedAt": "2026-02-24T23:03:19.955Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Francisco de Paula",
+  "name_pl": "Święty Franciszek z Paoli",
+  "feast_es": "El Segundo Día de Abril",
+  "feast_pl": "Drugi dzień kwietnia",
+  "summary_es": "Francisco de Paula, O.M., fue un fraile católico romano de la ciudad de Paola en Calabria que fundó la Orden de los Mínimos. Fue nombrado en honor a Francisco de Asís y, al igual que él, Francisco de Paula nunca fue ordenado sacerdote.",
+  "summary_pl": "Franciszek z Paoli, O.M., był rzymskokatolickim zakonnikiem z miasta Paola w Kalabrii, który założył Zakon Minimów. Został nazwany na cześć Franciszka z Asyżu i podobnie jak on, Franciszek z Paoli nigdy nie został wyświęcony na kapłana.",
+  "biography_es": "Francisco de Paula, O.M., fue un fraile católico romano de la ciudad de Paola en Calabria que fundó la Orden de los Mínimos. Fue nombrado en honor a Francisco de Asís y, al igual que él, Francisco de Paula nunca fue ordenado sacerdote.",
+  "biography_pl": "Franciszek z Paoli, O.M., był zakonnikiem rzymskokatolickim z miasta Paola w Kalabrii, który założył Zakon Minimów. Został nazwany na cześć św. Franciszka z Asyżu i podobnie jak on, Franciszek z Paoli nigdy nie został wyświęcony na kapłana."
+}

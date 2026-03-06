@@ -1,0 +1,276 @@
+{
+  "id": "st_agnes",
+  "title": "St. Agnes Novena",
+  "description": "Virgin and martyr, St. Agnes was born around 290 AD to a faithful Catholic family.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Agnes"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 21
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-agnes-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener nuestra santa fe pura dentro de nosotros y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando el prefecto romano te condenó a ver la azucena de tu pureza manchada y pisoteada en el lodo, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión nos obtengas del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que nos concederá la vida eterna y los medios necesarios para merecerla. Oh doncella valiente, Santa Inés la más pura, por el ardiente amor con que tu corazón estaba encendido, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y que solo el fuego del Amor Divino arda en nuestro interior. Para que, después de pasar una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała cię od najmłodszych lat i czyniła cię tak miłą Bogu, że zasłużyłaś na koronę męczeństwa: wyproś nam łaskę zachowania naszej świętej wiary czystej w nas i wyznawania się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez twoje zaufanie w Bożą pomoc, gdy skazana przez rzymskiego prefekta miałaś ujrzeć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Prosimy cię przez twoją wstawiennictwo, abyś wyprosiła nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami potrzebnymi, by je sobie zasłużyć. O odważna dziewico, św. Agnieszko najczystsza, przez płonącą miłość, którą twoje serce było rozpalone i która uchroniła cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli cię zniszczyć. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w naszych sercach. Abyśmy po bezskazytnym życiu w praktykowaniu tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś przez czystość swojego serca i chwalebne męczeństwo. (wymień tutaj prośbę…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de conservar pura dentro de nosotros nuestra santa fe y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su eterno Padre. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando siendo condenada por el prefecto romano a ver el lirio de tu pureza manchado y pisoteado en el lodo, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión nos obtengas del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que nos concederá la vida eterna y los medios necesarios para merecerla. Oh doncella valiente, Santa Inés más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y que solo el fuego del Amor Divino arda dentro de nosotros. Para que, después de haber pasado una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar la petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała cię od najmłodszych lat i czyniła cię tak miłą Bogu, że zasłużyłaś na koronę męczeństwa: wyproś nam łaskę zachowania naszej świętej wiary czystej w nas samych i wyznawania się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży na nas świadectwo pomyślne przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez twoje zaufanie w Bożą pomoc, gdy skazana przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Błagamy cię, przez twoją wstawienniczą modlitwę, wyproś nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami niezbędnymi, by je zasłużyć. O odważna dziewico, św. Agnieszko najczystsza, przez płonącą miłość, którą ogarnięte było twoje serce, i która uchroniła cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli cię zgładzić. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w naszych sercach. Abyśmy po bezbłędnym życiu w praktykowaniu tej cnoty byli godni uczestniczyć w chwale, którą zasłużyłaś przez czystość serca i chwalebne męczeństwo. (wymień tutaj prośbę…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener nuestra santa fe pura dentro de nosotros y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando el prefecto romano te condenó a ver la azucena de tu pureza manchada y pisoteada en el barro, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión obtengas para nosotros de Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que Él nos concederá la vida eterna y los medios necesarios para merecerla. Oh valiente doncella, Santa Inés más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros de Dios Todopoderoso que toda llama impura se extinga en nosotros y que solo arda en nuestro interior el fuego del Amor Divino. Para que, después de haber pasado una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała cię od najmłodszych lat i uczyniła cię tak miłą Bogu, że zasłużyłaś na koronę męczeństwa: wyproś nam łaskę zachowania naszej świętej wiary czystej w nas samych i wyznawania się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez twoje zaufanie w Bożą pomoc, gdy skazana przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Prosimy cię przez twoją wstawiennictwo, abyś wyprosiła nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami niezbędnymi, by je zasłużyć. O odważna dziewico, św. Agnieszko najczystsza, przez płomienną miłość, którą twoje serce było rozpalone, i która uchroniła cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli cię zniszczyć. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w naszych sercach. Abyśmy po bez skazy przeżytym życiu w praktyce tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś przez czystość swojego serca i twoje chwalebne męczeństwo. (wymień prośbę tutaj…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener nuestra santa fe pura dentro de nosotros y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante Su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando siendo condenada por el prefecto romano a ver el lirio de tu pureza manchado y pisoteado en el barro, no desesperaste, confiando firmemente en Dios. Te suplicamos por tu intercesión que obtengas para nosotros del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que Él nos concederá la vida eterna y los medios necesarios para merecerla. Oh doncella valiente, Santa Inés la más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y solo el fuego del Amor Divino arda dentro de nosotros. Para que después de pasar una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała Cię od najmłodszych lat i uczyniła Cię tak miłą Bogu, że zasłużyłaś na koronę męczeństwa: wyproś nam łaskę, abyśmy zachowali naszą świętą wiarę czystą w sobie i wyznawali się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezłomna Męczenniczko, św. Agnieszko, przez Twoje zaufanie w Bożą pomoc, gdy skazany przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, nadal mocno ufając Bogu. Prosimy Cię przez Twoją wstawienniczą modlitwę, abyś wyprosiła nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami potrzebnymi, by je zasłużyć. O odważna dziewico, św. Agnieszko najczystsza, przez płomienną miłość, którą Twoje serce było rozpalone i która uchroniła Cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli Cię zgładzić. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w nas. Abyśmy po bez skazy przeżytym życiu w praktykowaniu tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś przez czystość swojego serca i Twoje chwalebne męczeństwo. (wymień tutaj prośbę…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener pura dentro de nosotros nuestra santa fe y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando siendo condenada por el prefecto romano a ver la azucena de tu pureza manchada y pisoteada en el barro, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión nos obtengas del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que Él nos concederá la vida eterna y los medios necesarios para merecerla. Oh valiente doncella, Santa Inés más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y que solo el fuego del Amor Divino arda en nuestro interior. Para que, después de pasar una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała Cię od najmłodszych lat i czyniła Cię tak miłą Bogu, że zasłużyłaś na koronę męczeńską: wyproś nam łaskę, abyśmy zachowali naszą świętą wiarę czystą w sobie i wyznawali się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez Twoje zaufanie w Bożą pomoc, gdy skazana przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Prosimy Cię, przez Twoją wstawiennictwo, wyproś nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami potrzebnymi, by je zasłużyć. O odważna dziewico, najczystsza św. Agnieszko, przez płonącą miłość, którą Twoje serce było rozpalone, i która uchroniła Cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli Cię zgładzić. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w nas. Abyśmy po bezgrzesznym życiu w praktykowaniu tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś przez czystość serca i Twoje chwalebne męczeństwo. (wymień prośbę tutaj…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona del martirio: obtén para nosotros la gracia de conservar pura dentro de nosotros nuestra santa fe y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando siendo condenada por el prefecto romano a ver la azucena de tu pureza manchada y pisoteada en el lodo, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión nos obtengas del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que nos concederá la vida eterna y los medios necesarios para merecerla. Oh doncella valiente, Santa Inés más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y que solo arda en nuestro interior el fuego del Amor Divino. Para que, después de haber pasado una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała Cię od najmłodszych lat i czyniła Cię tak miłą Bogu, że zasłużyłaś na koronę męczeńską: wyproś nam łaskę, abyśmy zachowali naszą świętą wiarę czystą w sobie i wyznawali się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez Twoje zaufanie w Bożą pomoc, gdy skazana przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Prosimy Cię przez Twoją wstawiennictwo, wyproś nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami niezbędnymi, by je zasłużyć. O odważna dziewico, najczystsza św. Agnieszko, przez płomienną miłość, którą płonęło Twoje serce i która uchroniła Cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli Cię zniszczyć. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w nas. Abyśmy po bez skazy przeżytym życiu w praktyce tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś przez czystość swojego serca i chwalebne męczeństwo. (wymień tutaj prośbę…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener pura dentro de nosotros nuestra santa fe y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando el prefecto romano te condenó a ver la azucena de tu pureza manchada y pisoteada en el lodo, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión obtengas para nosotros del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que nos concederá la vida eterna y los medios necesarios para merecerla. Oh valiente doncella, Santa Inés más pura, por el ardiente amor con que tu corazón estaba encendido, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y que solo el fuego del Amor Divino arda en nuestro interior. Para que, después de haber vivido una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała cię od najmłodszych lat i czyniła cię tak miłą Bogu, że zasłużyłaś na koronę męczeńską: wyproś nam łaskę, abyśmy zachowali naszą świętą wiarę czystą w sobie i wyznawali się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez twoje zaufanie w Bożą pomoc, gdy skazany przez rzymskiego prefekta miałaś patrzeć, jak lilia twojej czystości zostaje splamiona i podeptana w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Prosimy cię przez twoją wstawiennictwo, abyś wyprosiła u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami niezbędnymi, by je zasłużyć. O odważna dziewico, najczystsza św. Agnieszko, przez płonącą miłość, którą twoje serce było rozpalone i która uchroniła cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli cię zniszczyć. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a płonął w nas tylko ogień Boskiej Miłości. Abyśmy po bezskazytnym życiu w praktykowaniu tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś czystością serca i chwalebnym męczeństwem. (wymień prośbę tutaj…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener nuestra santa fe pura dentro de nosotros y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante Su eterno Padre. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando siendo condenada por el prefecto romano a ver la azucena de tu pureza manchada y pisoteada en el lodo, no desesperaste, confiando firmemente en Dios. Te suplicamos por tu intercesión que nos obtengas del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que Él nos concederá la vida eterna y los medios necesarios para merecerla. Oh valiente doncella, Santa Inés más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y solo el fuego del Amor Divino arda dentro de nosotros. Para que después de pasar una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała cię od najmłodszych lat i uczyniła cię tak miłą Bogu, że zasłużyłaś na koronę męczeńską: wyproś nam łaskę, abyśmy zachowali naszą świętą wiarę czystą w sobie i wyznawali się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezłomna Męczenniczko, św. Agnieszko, przez twoje zaufanie w Bożą pomoc, gdy skazany przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie popadłaś w rozpacz, lecz nadal mocno ufałaś Bogu. Prosimy cię przez twoją wstawiennictwo, abyś wyprosiła nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami niezbędnymi do jego zasłużenia. O odważna dziewico, św. Agnieszko najczystsza, przez płonącą miłość, którą twoje serce było rozpalone, a która uchroniła cię od szkody pośród płomieni namiętności i stosu, na którym wrogowie Chrystusa chcieli cię zgładzić. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w nas. Abyśmy po przeżyciu bez skazy życia w praktyce tej cnoty byli godni mieć udział w chwale, którą zasłużyłaś przez czystość serca i chwalebne męczeństwo. (wymień tutaj prośbę…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious St. Agnes, by the living faith which animated thee from thy tender years and rendered thee so pleasing to God that thou did merit a martyr’s crown: obtain for us the grace to keep our holy faith pure within us and to profess ourselves Christians in both word and work. May our open confession of Jesus before men cause Him to bear a favorable witness to us before His eternal Father. O invincible Martyr, St. Agnes, by thy confidence in God’s help, when being condemned by the Roman prefect to see the lily of thy purity stained and trampled in the mud, thou did not despair, still trusting firmly in God. We beseech thee by thine intercession to obtain for us from Almighty God the forgiveness of our sins and sure confidence that He will bestow upon us life everlasting and the means necessary to merit it. O courageous maiden, St. Agnes most pure, by the burning love with which thy heart was on fire, and which preserved thee from harm in the midst of the flames of passion and of the stake with which the enemies of Christ sought to destroy thee. Obtain for us from Almighty God that every unclean flame may be extinguished in us and only the fire of Divine Love may burn within us. So that after spending a blameless life in practice of this virtue we may be worthy to have a share in the glory thou did merit by the purity of thy heart and thy glorious martyrdom. (mention request here…) Amen.\n\nSt. Agnes, virgin and martyr, pray for us.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh gloriosa Santa Inés, por la fe viva que te animó desde tus tiernos años y te hizo tan agradable a Dios que mereciste la corona de mártir: obtén para nosotros la gracia de mantener nuestra santa fe pura dentro de nosotros y de profesarnos cristianos tanto en palabra como en obra. Que nuestra confesión abierta de Jesús ante los hombres haga que Él dé testimonio favorable de nosotros ante su Padre eterno. Oh invencible Mártir, Santa Inés, por tu confianza en la ayuda de Dios, cuando siendo condenada por el prefecto romano a ver la azucena de tu pureza manchada y pisoteada en el barro, no desesperaste, confiando firmemente en Dios. Te suplicamos que por tu intercesión nos obtengas del Dios Todopoderoso el perdón de nuestros pecados y la segura confianza de que Él nos concederá la vida eterna y los medios necesarios para merecerla. Oh valiente doncella, Santa Inés más pura, por el ardiente amor con que tu corazón estaba en llamas, y que te preservó del daño en medio de las llamas de la pasión y de la hoguera con que los enemigos de Cristo buscaron destruirte. Obtén para nosotros del Dios Todopoderoso que toda llama impura se extinga en nosotros y solo el fuego del Amor Divino arda dentro de nosotros. Para que después de pasar una vida irreprochable en la práctica de esta virtud, seamos dignos de tener parte en la gloria que tú mereciste por la pureza de tu corazón y tu glorioso martirio. (mencionar petición aquí…) Amén.\n\nSanta Inés, virgen y mártir, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebna św. Agnieszko, przez żywą wiarę, która ożywiała cię od najmłodszych lat i uczyniła cię tak miłą Bogu, że zasłużyłaś na koronę męczeńską: wyproś nam łaskę, abyśmy zachowali naszą świętą wiarę czystą w sobie i wyznawali się za chrześcijan zarówno słowem, jak i czynem. Niech nasze otwarte wyznanie Jezusa przed ludźmi sprawi, że On złoży nam pomyślne świadectwo przed swoim wiecznym Ojcem. O niezwyciężona Męczenniczko, św. Agnieszko, przez twoje zaufanie w Bożą pomoc, gdy skazany przez rzymskiego prefekta miałaś widzieć lilię swojej czystości splamioną i podeptaną w błocie, nie zwątpiłaś, lecz nadal mocno ufałaś Bogu. Prosimy cię, przez twoją wstawiennictwo, wyproś nam u Wszechmogącego Boga przebaczenie naszych grzechów i pewność, że obdarzy nas życiem wiecznym oraz środkami niezbędnymi, by je zasłużyć. O odważna dziewico, najczystsza św. Agnieszko, przez płomienną miłość, którą twoje serce było rozpalone, i która uchroniła cię od szkody pośród płomieni namiętności i stosu, którym wrogowie Chrystusa chcieli cię zniszczyć. Wyproś nam u Wszechmogącego Boga, aby każdy nieczysty płomień został w nas ugaszony, a jedynie ogień Boskiej Miłości płonął w nas. Abyśmy po przeżyciu bez skazy życia w praktyce tej cnoty byli godni uczestniczyć w chwale, którą zasłużyłaś przez czystość serca i twoje chwalebne męczeństwo. (wymień prośbę tutaj…) Amen.\n\nŚw. Agnieszko, dziewico i męczenniczko, módl się za nami.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_agnes.jpg",
+  "sourceFacts": {
+    "starts": "January 12Feastday:January 21Birth:~290 ADPatron saint of young girls, of purity, of rape survivors, of the Children of Mary 📱",
+    "feast": "January 21Birth:~290 ADPatron saint of young girls, of purity, of rape survivors, of the Children of Mary 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "c7e11e464a6e7304ceaa73edae337feeb0c7f63060f5b4b952970e37084acf44",
+        "langs": {
+          "es": {
+            "translatedHash": "881c4e9a79987e0df45a461e195e542cfbc1b4af780b2addd87bff1a2ba989f8",
+            "updatedAt": "2026-02-25T11:34:22.059Z"
+          },
+          "pl": {
+            "translatedHash": "1d03e6f2d9a084273692b1996d5649dfa80039f06010706a1ae768e2edd73003",
+            "updatedAt": "2026-02-25T11:34:22.748Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "f70436a74bc08b1d1b4c77b1958fcc754ebf3c04f0f828c9083778dc85384593",
+        "langs": {
+          "es": {
+            "translatedHash": "4064f4e372da6e94f37c290395dccdef6329d7dab76e74c4fa26eb5cc4cc3058",
+            "updatedAt": "2026-02-25T11:34:23.484Z"
+          },
+          "pl": {
+            "translatedHash": "c925f07ec1fd057b4ba7dc61f75d34a475c044d15cec2f97233a231540adcf43",
+            "updatedAt": "2026-02-25T11:34:24.452Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "12c2d1a81c917740353c90193defbfbadbd30a4863050e9df18ab9910f682b00",
+        "langs": {
+          "es": {
+            "translatedHash": "ae4f27ce89145c5d2c12de1eaefc5d85bd0ad60b8d616eea89fc7f033d8a0b2c",
+            "updatedAt": "2026-02-25T11:34:32.092Z"
+          },
+          "pl": {
+            "translatedHash": "64da34bf355e3cd4eca94772336ae51b05e8ea33bb70c1697daf7388d77e3796",
+            "updatedAt": "2026-02-25T11:34:39.785Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "cfec60b6f89385f4d89f76c2a2912a3cadca8c483754e188189a3866f3b102eb",
+        "langs": {
+          "es": {
+            "translatedHash": "8fd6d7571cd3039aea7e9c3458b7172baeb874058c7d017210eb82bdc0dd3972",
+            "updatedAt": "2026-02-25T11:34:48.950Z"
+          },
+          "pl": {
+            "translatedHash": "2dc6d2344db0f6dd1e41de763172d985977f901909c971cc4bab1b71c29462ed",
+            "updatedAt": "2026-02-25T11:34:57.222Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "aa79ad7aa184172e1a198b51da0e6ba8cfd74a22f6ae822fbc58fbda964e6eff",
+        "langs": {
+          "es": {
+            "translatedHash": "965ad9c5b4f91ba95256885cb92d0992875e06151b7019d070f9027f416e1592",
+            "updatedAt": "2026-02-25T11:35:03.711Z"
+          },
+          "pl": {
+            "translatedHash": "2f7fcd829d1164337bd21249f67291644404585de3617782aa64ebb7307b70d2",
+            "updatedAt": "2026-02-25T11:35:12.046Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "86c93f029426ad0540fd97a2ae14d8b613ca17fd8a20b492b1d8879444a68297",
+        "langs": {
+          "es": {
+            "translatedHash": "22c978fdf70bb152e5fef38ea9bc25afcd448288e4304e92822854c46544cd57",
+            "updatedAt": "2026-02-25T11:35:18.699Z"
+          },
+          "pl": {
+            "translatedHash": "ad1678f404658d1f451f1b29912f0c0dac28831fe6e3bd8d631af0483b68a072",
+            "updatedAt": "2026-02-25T11:35:26.150Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "7c855666841c1e161f8403edb52e349c44aa02ef7f01ed0a13a1cc96e5b21966",
+        "langs": {
+          "es": {
+            "translatedHash": "b5e042665f17703052d9038781731e72fc4d669122e1f779991a25b6754d44c4",
+            "updatedAt": "2026-02-25T11:35:32.847Z"
+          },
+          "pl": {
+            "translatedHash": "e2579e1a01baed8e4086e2fb8ecf7803ddf3aed5a562f44ee3d0e6a5225cdec7",
+            "updatedAt": "2026-02-25T11:35:46.119Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "0cd8d33cf29131aed5c6c6ddefcc5eba1af9915be77c79ad7d9979b90b27d80c",
+        "langs": {
+          "es": {
+            "translatedHash": "e09086ff178a343dc421e5ca21b655ca5505acd2b0ebeadd9e72676b18c72b32",
+            "updatedAt": "2026-02-25T11:35:52.744Z"
+          },
+          "pl": {
+            "translatedHash": "9d747f5e2969989361bebde644d1680fe5f083f877e5eea8ffe44bc98035a2fe",
+            "updatedAt": "2026-02-25T11:35:59.904Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "ab7c1fd3bec18d3a3ded729fb7c38b5afaee08bd1ecd6337b528ca6035e01740",
+        "langs": {
+          "es": {
+            "translatedHash": "d6b045d855cc140fc27702cddbd053ed9ac36e383ce1366ab80b26dc52c1c3a6",
+            "updatedAt": "2026-02-25T11:36:08.699Z"
+          },
+          "pl": {
+            "translatedHash": "e655437e0254db691c2527057886f46976a23e9f4bc8c8ab3d330f90d6625121",
+            "updatedAt": "2026-02-25T11:36:16.982Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "42880c0576bb044b198bac0e107f5a0038bbb2adc3cf2ef07ff323399a59b6b3",
+        "langs": {
+          "es": {
+            "translatedHash": "eb54304452a2d4d4710ce438cbb3690e1cbb25372d95b38ff2cf8ceaa8cbb283",
+            "updatedAt": "2026-02-25T11:36:22.243Z"
+          },
+          "pl": {
+            "translatedHash": "a89868514fe4f382ce497f1c21c9b389e2cfdcd44e0430afd542f56031ac38b1",
+            "updatedAt": "2026-02-25T11:36:30.349Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "5efcc49fd0b56dcb213d08078b6f01cf15b8284501907b612c946d3c7732c924",
+        "langs": {
+          "es": {
+            "translatedHash": "9d318902e0e36a2d319064378d85cca8b0481bdc6fbffe102b16adbdb50da518",
+            "updatedAt": "2026-02-25T11:36:36.444Z"
+          },
+          "pl": {
+            "translatedHash": "8404efd8237a2576e10c12adb0c58f518b0932ff19c2f2f37093e32816b5c5f5",
+            "updatedAt": "2026-02-25T11:36:46.095Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a Santa Inés",
+  "title_pl": "Nowenna do św. Agnieszki",
+  "description_es": "Virgen y mártir, Santa Inés nació alrededor del año 290 d.C. en una familia católica fiel.",
+  "description_pl": "Dziewica i męczennica, św. Agnieszka urodziła się około 290 roku n.e. w wiernej katolickiej rodzinie.",
+  "intentions": [
+    "young girls",
+    "chastity",
+    "and the children of Mary"
+  ],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-agnes-novena/"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "09-13_saint_eugenia",
+  "name": "Saint Eugenia",
+  "mmdd": "09-13",
+  "feast": "The Thirteenth Day of September",
+  "summary": "Eugenia of Alsace, was the second abbess of the Hohenburg Abbey, in Alsace from 721 to 735 who is venerated as a Christian saint. She was a niece of Saint Odile and sister of Saint Attalus. Saint Eugenia's feast day is celebrated on 16 September, which was the day she died of natural causes in 735 in Hohenburg.",
+  "biography": "Biography\n\nEugenia was born into nobility as the daughter of Adalbert of Alsace, Duke of Alsace. She followed in the footsteps of her aunt, Saint Odile (died about 720), the first abbess of Hohenburg, who is known as the patron saint of good eyesight and for whom the mountain top is named. Mont Sainte-Odile Abbey became a well-known destination for pilgrims. \nEugenia's signature as abbess of Hohenburg (Alsace) appears in a document from 722. Like Odile, she gave the example of all the virtues to her holy community. The spirit of the pious founder reigned in these two houses and it was a very edifying spectacle for Lower Alsace to see young virgins from the first families of the country renounce the sweetness of a comfortable and pleasant life to go to devote to the practices of penance. Eugenia governed her monastery for...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eugenia_of_Alsace",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-13_saint_eugenia.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "91cf897c19da39a833b5da1a066834f974bd28655d02b3642a7f9b1d77e818ff",
+        "langs": {
+          "es": {
+            "translatedHash": "22377d86b1d34f41bfe82c66f8cc161bf27fa1198bec0111b2f9b1bcf80112e6",
+            "updatedAt": "2026-02-25T00:29:59.015Z"
+          },
+          "pl": {
+            "translatedHash": "e2a257918c174bac669cf9b5400eba692df13ddeb49e7ffb712907d3c6d0e0bc",
+            "updatedAt": "2026-02-25T00:30:01.046Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bf8bc3fba1d10079e536526a59ce71d9dd4d00b26d3812e6c9f5b422d02f2ad5",
+        "langs": {
+          "es": {
+            "translatedHash": "225091e5ce4cd642b81ab3f21cfde323f64f623909de1c4b1c763a6adae3ed9c",
+            "updatedAt": "2026-02-25T00:30:01.669Z"
+          },
+          "pl": {
+            "translatedHash": "a81f71a2bfacbf4d92a679ac707e6922fd8d7116c98cc6dcc420e273ac4a9208",
+            "updatedAt": "2026-02-25T00:30:02.374Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "eebd8ec3faae62a801ae16d51a970820fc7f2bf21d450722ff53ffde28172bea",
+        "langs": {
+          "es": {
+            "translatedHash": "46032c6839ea31bc56a57fe96926fcc47f1de21d7fe77d237ca7efcae748cefe",
+            "updatedAt": "2026-02-25T00:30:05.242Z"
+          },
+          "pl": {
+            "translatedHash": "f0687e832614c552b313981ac35721e73f32ae81d83c443cb8d51b635efd9422",
+            "updatedAt": "2026-02-25T00:30:07.387Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c771c04cfe1cb12742c4d40536c1e5ee93231c1e1fbcc9468dc2bfae0a2e2680",
+        "langs": {
+          "es": {
+            "translatedHash": "3e05e8c90d92bd74f7968eae6d510fdd1ac17fcc025201267cd4c99e7fd46ff2",
+            "updatedAt": "2026-02-25T00:30:11.041Z"
+          },
+          "pl": {
+            "translatedHash": "b4a95baa7f00fcf3bab21d57ea34f182fb9740f1069b8ba457b6af3aaabb9c56",
+            "updatedAt": "2026-02-25T00:30:15.020Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Eugenia",
+  "name_pl": "Święta Eugenia",
+  "feast_es": "El Decimotercer Día de Septiembre",
+  "feast_pl": "Trzynasty dzień września",
+  "summary_es": "Eugenia de Alsacia, fue la segunda abadesa de la Abadía de Hohenburg, en Alsacia desde 721 hasta 735, y es venerada como santa cristiana. Fue sobrina de Santa Odilia y hermana de San Atalo. La fiesta de Santa Eugenia se celebra el 16 de septiembre, día en que murió por causas naturales en 735 en Hohenburg.",
+  "summary_pl": "Eugenia z Alzacji była drugą opatką opactwa Hohenburg w Alzacji w latach 721–735, czczoną jako święta chrześcijańska. Była siostrzenicą świętej Odylii i siostrą świętego Attalusa. Uroczystość świętej Eugenii obchodzona jest 16 września, w dniu jej naturalnej śmierci w 735 roku w Hohenburgu.",
+  "biography_es": "Biografía\n\nEugenia nació en la nobleza como hija de Adalberto de Alsacia, duque de Alsacia. Siguió los pasos de su tía, Santa Odilia (fallecida alrededor del año 720), la primera abadesa de Hohenburg, quien es conocida como la patrona de la buena vista y por quien se nombra la cima de la montaña. La Abadía de Mont Sainte-Odile se convirtió en un destino muy conocido para los peregrinos.  \nLa firma de Eugenia como abadesa de Hohenburg (Alsacia) aparece en un documento de 722. Al igual que Odilia, dio el ejemplo de todas las virtudes a su santa comunidad. El espíritu de la piadosa fundadora reinaba en estas dos casas y era un espectáculo muy edificante para la Baja Alsacia ver a jóvenes vírgenes de las primeras familias del país renunciar a la dulzura de una vida cómoda y placentera para dedicarse a las prácticas de la penitencia. Eugenia gobernó su monasterio por...",
+  "biography_pl": "Biografia\n\nEugenia urodziła się w szlacheckiej rodzinie jako córka Adalberta z Alzacji, księcia Alzacji. Podążała śladami swojej ciotki, św. Odilii (zm. około 720), pierwszej przeoryszy Hohenburga, która jest znana jako patronka dobrego wzroku, a dla której szczyt góry został nazwany. Opactwo Mont Sainte-Odile stało się znanym miejscem pielgrzymek.  \nPodpis Eugenii jako przeoryszy Hohenburga (Alzacja) pojawia się w dokumencie z 722 roku. Podobnie jak Odilia, dawała przykład wszystkich cnót swojej świętej wspólnocie. Duch pobożnej założycielki panował w tych dwóch domach i był to bardzo budujący widok dla Dolnej Alzacji, gdy młode dziewice z pierwszych rodzin kraju wyrzekały się słodyczy wygodnego i przyjemnego życia, aby poświęcić się praktykom pokutnym. Eugenia rządziła swoim klasztorem przez..."
+}

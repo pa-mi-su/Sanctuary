@@ -1,0 +1,79 @@
+{
+  "id": "05-09_saint_gregory",
+  "name": "Saint Gregory",
+  "mmdd": "05-09",
+  "feast": "The Ninth Day of May",
+  "summary": "Gregory of Nazianzus, also known as Gregory the Theologian or Gregory Nazianzen, was an early Roman Christian theologian and prelate who served as Archbishop of Constantinople from 380 to 381. He is widely considered the most accomplished rhetorical stylist of the patristic age. As a classically trained orator and philosopher, he infused Hellenism into the early Church, establishing the paradigm of Byzantine theologians and church officials.",
+  "biography": "Gregory of Nazianzus (Koine Greek: Γρηγόριος ὁ Ναζιανζηνός, romanized: Grēgórios ho Nazianzēnós, IPA: [ɣriˈɣori.os o nazi.anziˈnos]; c. 329 – 25 January 390), also known as Gregory the Theologian or Gregory Nazianzen, was an early Roman Christian theologian and prelate who served as Archbishop of Constantinople from 380 to 381. He is widely considered the most accomplished rhetorical stylist of the patristic age. As a classically trained orator and philosopher, he infused Hellenism into the early Church, establishing the paradigm of Byzantine theologians and church officials. Gregory made a significant impact on the shape of Trinitarian theology among both Greek and Latin-speaking theologians, and he is remembered as the \"Trinitarian Theologian\". Much of his theological work continues to influence modern theologians, especially in regard to the relationship among the three Persons of the Trinity. Along with the brothers Basil of Caesarea and Gregory of Nyssa, he is known as one of the Cappadocian Fathers. Gregory of Nazianzus is a saint in both Eastern and Western Christianity. In the Catholic Church he is numbered among the Doctors of the Church; in the Eastern Orthodox Church and...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-09_saint_gregory.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2d4aa8513446b3ef68a9d1300516792dd332e6c6aea2d3cd7977011c30588276",
+        "langs": {
+          "es": {
+            "translatedHash": "af48e8077cb15de91225f83cc3256e06d8c40647b5b6857778fe7118e369458c",
+            "updatedAt": "2026-02-24T23:22:01.233Z"
+          },
+          "pl": {
+            "translatedHash": "5aa1be30f51578c61d1eb0dd7bf78f595bb58493dd82d6f60bd7603613c3ab32",
+            "updatedAt": "2026-02-24T23:22:01.926Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4414d64447b939c4e8cf6dac0dbf4f5b5593a3258e4ac5c1a7be05f7de8b80d3",
+        "langs": {
+          "es": {
+            "translatedHash": "1dab80df5d8f37b1b57c6232ad31b116a8649144eb4365b7208402ad9a248b54",
+            "updatedAt": "2026-02-24T23:22:02.552Z"
+          },
+          "pl": {
+            "translatedHash": "049e76e4e53aeb68b56d1ffdc8f2b4264841cb6e7cd18c099d2888e315a00528",
+            "updatedAt": "2026-02-24T23:22:03.176Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9be87f86d9d2a0724af8a3b08f320fdc2e99c72e97e4d60bf16dba016c6caff2",
+        "langs": {
+          "es": {
+            "translatedHash": "baa3021875047261db082d30af1e60ad832fb1dc5c9ab28818d0308449d73d7a",
+            "updatedAt": "2026-02-24T23:22:05.581Z"
+          },
+          "pl": {
+            "translatedHash": "9424a964d21e31d0c65af55f15ea421ed85d4842e91559d08f747b69c447ef8e",
+            "updatedAt": "2026-02-24T23:22:08.408Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6663d47125250c12b24703937de61fe874773eb20df418df8a0e5cce5cab9305",
+        "langs": {
+          "es": {
+            "translatedHash": "9cb51bf2fb8901ad2f4a6bcf3cf2e0c89492d660617b09028cf0e6563d5c7096",
+            "updatedAt": "2026-02-24T23:22:15.584Z"
+          },
+          "pl": {
+            "translatedHash": "74a0ded339bb2d74ceb6ae810f1e9d580468183ddf47d4435da18eabd3e0db34",
+            "updatedAt": "2026-02-24T23:22:21.244Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio",
+  "name_pl": "Święty Grzegorz",
+  "feast_es": "El Noveno Día de Mayo",
+  "feast_pl": "Dziewiąty Dzień Maja",
+  "summary_es": "Gregorio de Nacianzo, también conocido como Gregorio el Teólogo o Gregorio Nacianzeno, fue un temprano teólogo cristiano romano y prelado que sirvió como arzobispo de Constantinopla desde 380 hasta 381. Es ampliamente considerado el estilista retórico más destacado de la época patrística. Como orador y filósofo formado clásicamente, infundió el helenismo en la Iglesia primitiva, estableciendo el paradigma de los teólogos y funcionarios eclesiásticos bizantinos.",
+  "summary_pl": "Grzegorz z Nazjanzu, znany również jako Grzegorz Teolog lub Grzegorz Nazjanzanin, był wczesnym rzymskim teologiem chrześcijańskim i dostojnikiem kościelnym, który pełnił funkcję arcybiskupa Konstantynopola w latach 380–381. Jest powszechnie uważany za najbardziej wybitnego stylistę retorycznego epoki patrystycznej. Jako klasycznie wykształcony mówca i filozof, wprowadził hellenizm do wczesnego Kościoła, ustanawiając wzorzec dla bizantyjskich teologów i urzędników kościelnych.",
+  "biography_es": "Gregorio de Nacianzo (griego koiné: Γρηγόριος ὁ Ναζιανζηνός, romanizado: Grēgórios ho Nazianzēnós, IPA: [ɣriˈɣori.os o nazi.anziˈnos]; c. 329 – 25 de enero de 390), también conocido como Gregorio el Teólogo o Gregorio Nazianzeno, fue un temprano teólogo cristiano romano y prelado que sirvió como arzobispo de Constantinopla desde 380 hasta 381. Es ampliamente considerado el estilista retórico más destacado de la época patrística. Como orador y filósofo formado clásicamente, infundió el helenismo en la Iglesia primitiva, estableciendo el paradigma de los teólogos y funcionarios eclesiásticos bizantinos. Gregorio tuvo un impacto significativo en la configuración de la teología trinitaria tanto entre teólogos de habla griega como latina, y es recordado como el \"Teólogo Trinitario\". Gran parte de su obra teológica continúa influyendo en los teólogos modernos, especialmente en lo que respecta a la relación entre las tres Personas de la Trinidad. Junto con los hermanos Basilio de Cesarea y Gregorio de Nisa, es conocido como uno de los Padres Capadocios. Gregorio de Nacianzo es santo tanto en el cristianismo oriental como en el occidental. En la Iglesia Católica está contado entre los Doctores de la Iglesia; en la Iglesia Ortodoxa Oriental y...",
+  "biography_pl": "Grzegorz z Nazjanzu (greka koiné: Γρηγόριος ὁ Ναζιανζηνός, romanizacja: Grēgórios ho Nazianzēnós, IPA: [ɣriˈɣori.os o nazi.anziˈnos]; ok. 329 – 25 stycznia 390), znany również jako Grzegorz Teolog lub Grzegorz z Nazjanzu, był wczesnym rzymskim chrześcijańskim teologiem i dostojnikiem kościelnym, który pełnił funkcję arcybiskupa Konstantynopola w latach 380–381. Jest powszechnie uważany za najbardziej wybitnego stylistę retorycznego epoki patrystycznej. Jako klasycznie wykształcony mówca i filozof, wprowadził hellenizm do wczesnego Kościoła, ustanawiając wzorzec dla bizantyjskich teologów i urzędników kościelnych. Grzegorz wywarł znaczący wpływ na kształt teologii trynitarnej zarówno wśród teologów greckojęzycznych, jak i łacińskojęzycznych, i jest pamiętany jako „Teolog Trójcy Świętej”. Znaczna część jego pracy teologicznej nadal wpływa na współczesnych teologów, zwłaszcza w odniesieniu do relacji między trzema Osobami Trójcy. Razem z braćmi Bazylim z Cezarei i Grzegorzem z Nyssy jest znany jako jeden z Ojców Kapadockich. Grzegorz z Nazjanzu jest świętym zarówno w chrześcijaństwie wschodnim, jak i zachodnim. W Kościele katolickim zaliczany jest do Doktorów Kościoła; w Kościele prawosławnym..."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "12-19_saint_timothy",
+  "name": "Saint Timothy",
+  "mmdd": "12-19",
+  "feast": "The Nineteenth Day of December",
+  "summary": "Timothy was an early Christian evangelist and the first Catholic bishop of Ephesus, whom the Acts of Timothy relates died around the year AD 97.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Timothy"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-19_saint_timothy.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7a71fc4176185782f4588038bd6c817ee50950ded1359cbf97816020ac7ba589",
+        "langs": {
+          "es": {
+            "translatedHash": "e1d44a23bf1e1c8237936934f67ad92641783f8f10d13d0e5f70b59bcccb6688",
+            "updatedAt": "2026-02-25T01:29:48.599Z"
+          },
+          "pl": {
+            "translatedHash": "d206babbc7328c7e0bb79a3245cb8afaf24cd1e64c969a5f7f753886ad0762fc",
+            "updatedAt": "2026-02-25T01:29:49.253Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cc33b0451f1abacabb744589f39949705b465f6121547a7178d23770834f55f5",
+        "langs": {
+          "es": {
+            "translatedHash": "44c4995ceec1bc0137bcf9f21cd8af994d72818da6c5c44fdf92e7041ea0ed06",
+            "updatedAt": "2026-02-25T01:29:49.909Z"
+          },
+          "pl": {
+            "translatedHash": "542b58061b9f564de2dde7ad9de46ae90b5f213f17990c862759855abd552cb1",
+            "updatedAt": "2026-02-25T01:29:50.541Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "118facf82c2754e7585baf307518c14cc1b958867a9752dd7ed9419c8bcfeafa",
+        "langs": {
+          "es": {
+            "translatedHash": "15c24e1150fe67247bce77e88ba468dbbc83e0189dd9016312fd0f2957526b72",
+            "updatedAt": "2026-02-25T01:29:51.841Z"
+          },
+          "pl": {
+            "translatedHash": "fde826586fc34a5dc27ba48a2766c31d5cd27d6ccb809b39f02a2e14e5c1a99b",
+            "updatedAt": "2026-02-25T01:29:52.954Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Timoteo",
+  "name_pl": "Święty Tymoteusz",
+  "feast_es": "El día diecinueve de diciembre",
+  "feast_pl": "Dziewiętnasty Dzień Grudnia",
+  "summary_es": "Timoteo fue un primer evangelista cristiano y el primer obispo católico de Éfeso, quien según los Hechos de Timoteo murió alrededor del año 97 d.C.",
+  "summary_pl": "Tymoteusz był wczesnym chrześcijańskim ewangelistą i pierwszym katolickim biskupem Efezu, o którym Dzieje Tymoteusza mówią, że zmarł około roku 97 n.e."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "05-30_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "05-30",
+  "feast": "The Thirtieth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:33:39.712Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:33:40.443Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7f14e927d7ad81d01b78e85e6db0e3bfee2ef9062cd5889fd5a74b883d5268e4",
+        "langs": {
+          "es": {
+            "translatedHash": "bc62568ff576935d808c886aa4f7619d02355b07b7dc4ee6876b1c3c9c44bb26",
+            "updatedAt": "2026-02-24T23:33:41.058Z"
+          },
+          "pl": {
+            "translatedHash": "99750c5b55cb9e4afcf407267beca35aca402abc8f31a8d363426de11361d9ea",
+            "updatedAt": "2026-02-24T23:33:41.723Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Trigésimo Día de Mayo",
+  "feast_pl": "Trzydziesty dzień maja"
+}

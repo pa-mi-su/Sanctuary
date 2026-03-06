@@ -1,0 +1,46 @@
+{
+  "id": "04-12_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-12",
+  "feast": "The Twelfth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:08:16.525Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-24T23:08:17.165Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d39314d10e48c3c6aabe22dae405f7ca9216decc6f3e26da34d96c36f205c34c",
+        "langs": {
+          "es": {
+            "translatedHash": "5c5e7b05cf248089a172f84255be81c4b9408f7599df0ee6c4fa079f7f9d81ee",
+            "updatedAt": "2026-02-24T23:08:18.999Z"
+          },
+          "pl": {
+            "translatedHash": "5ef4d1766411c42f5eb217825497c2633b6f03d853962192640de1e0fc6bda1d",
+            "updatedAt": "2026-02-24T23:08:19.612Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El Duodécimo Día de Abril",
+  "feast_pl": "Dwunasty Dzień Kwietnia"
+}

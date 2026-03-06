@@ -1,0 +1,79 @@
+{
+  "id": "05-26_saint_philip_neri",
+  "name": "Saint Philip Neri",
+  "mmdd": "05-26",
+  "feast": "The Twenty-Sixth Day of May",
+  "summary": "The Confederation of Oratories of Saint Philip Neri, abbreviated C.O. and commonly known as the Oratorians, is a Catholic society of apostolic life of pontifical right for men who live together in a community bound together by no formal vows but only with the bond of charity.",
+  "biography": "The Confederation of Oratories of Saint Philip Neri, abbreviated C.O. and commonly known as the Oratorians, is a Catholic society of apostolic life of pontifical right for men who live together in a community bound together by no formal vows but only with the bond of charity.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oratory_of_Saint_Philip_Neri",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-26_saint_philip_neri.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d46af9f5278d742536df006b24b076b4b7bf863e74041eee976e61c3f3391641",
+        "langs": {
+          "es": {
+            "translatedHash": "5b31b56d2c6760e9eeae1fe2a6195d911d63af6c533a1bbe37b15c87b2106544",
+            "updatedAt": "2026-02-24T23:31:55.453Z"
+          },
+          "pl": {
+            "translatedHash": "f396458b4e8ad462a66cd6ccdb40ed0e4a6bcd493d3870f61e9a750b9faacc17",
+            "updatedAt": "2026-02-24T23:31:56.075Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9ee5665019234230a9c7bcc23c87b68445a1eb0ecf020207e4ebf6565222c9da",
+        "langs": {
+          "es": {
+            "translatedHash": "861d7bc99bf67b53db1e5bf478f4813d65f6258e720ba132a3bb3fad733dd4b7",
+            "updatedAt": "2026-02-24T23:31:57.047Z"
+          },
+          "pl": {
+            "translatedHash": "07329d7043b24e24c7c3020ae945a5090d87412c2399fe877e422b9e34324ebe",
+            "updatedAt": "2026-02-24T23:31:58.198Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "503d5382bc9b5bf26d2d9dd8f92d67868b568161f0593c1733a21b0339b1c45f",
+        "langs": {
+          "es": {
+            "translatedHash": "4e1934304ea5a55871d7f9d521da08ffd51ef2547e6a066a223eec34c1aa397d",
+            "updatedAt": "2026-02-24T23:31:59.470Z"
+          },
+          "pl": {
+            "translatedHash": "df502e6480252b9cf50a6a20b23088bfcbdec758ba57d8bab209af876d664578",
+            "updatedAt": "2026-02-24T23:32:01.169Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "503d5382bc9b5bf26d2d9dd8f92d67868b568161f0593c1733a21b0339b1c45f",
+        "langs": {
+          "es": {
+            "translatedHash": "4e1934304ea5a55871d7f9d521da08ffd51ef2547e6a066a223eec34c1aa397d",
+            "updatedAt": "2026-02-24T23:32:02.540Z"
+          },
+          "pl": {
+            "translatedHash": "e425ab9dd7e294f00e1205aa477b8221701c08484636bd1eb59b9bf47498e0f1",
+            "updatedAt": "2026-02-24T23:32:04.420Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Felipe Neri",
+  "name_pl": "Święty Filip Neri",
+  "feast_es": "El Vigésimo Sexto Día de Mayo",
+  "feast_pl": "Dwudziesty szósty dzień maja",
+  "summary_es": "La Confederación de Oratorios de San Felipe Neri, abreviada C.O. y comúnmente conocida como los Oratorianos, es una sociedad católica de vida apostólica de derecho pontificio para hombres que viven juntos en comunidad, unidos no por votos formales sino únicamente por el vínculo de la caridad.",
+  "summary_pl": "Konfederacja Oratoriów św. Filipa Neri, w skrócie C.O. i powszechnie znana jako Oratorianie, jest katolickim stowarzyszeniem życia apostolskiego o prawie pontyfikalnym dla mężczyzn, którzy żyją razem we wspólnocie nie związanej żadnymi formalnymi ślubami, lecz jedynie więzią miłości.",
+  "biography_es": "La Confederación de Oratorios de San Felipe Neri, abreviada C.O. y comúnmente conocida como los Oratorianos, es una sociedad católica de vida apostólica de derecho pontificio para hombres que viven juntos en comunidad, unidos no por votos formales sino únicamente por el vínculo de la caridad.",
+  "biography_pl": "Konfederacja Oratoriów św. Filipa Neri, w skrócie C.O. i powszechnie znana jako Oratorianie, jest katolickim stowarzyszeniem życia apostolskiego o prawie pontyfikalnym dla mężczyzn, którzy żyją razem we wspólnocie nie związani żadnymi formalnymi ślubami, lecz jedynie więzią miłości."
+}

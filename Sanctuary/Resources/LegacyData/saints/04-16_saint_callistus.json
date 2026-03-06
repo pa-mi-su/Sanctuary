@@ -1,0 +1,79 @@
+{
+  "id": "04-16_saint_callistus",
+  "name": "Saint Callistus",
+  "mmdd": "04-16",
+  "feast": "The Sixteenth Day of April",
+  "summary": "Pope Callixtus I, also called Callistus I, was the bishop of Rome from c. 218 to his death c. 222 or 223. He lived during the reigns of the Roman emperors Elagabalus and Alexander Severus. Eusebius and the Liberian catalogue list his episcopate as having lasted five years (217–222). In 217, when Callixtus followed Zephyrinus as Bishop of Rome, he started to admit into the Church converts from sects or schisms. He was killed for being Christian and is venerated as a saint and martyr by the Catholic Church.",
+  "biography": "Life\nCallixtus I's contemporaries and enemies, Tertullian and Hippolytus of Rome, the author of Philosophumena, relate that Callixtus, as a young slave from Rome, was put in charge of collected funds by his master Carpophorus, funds which were given as alms by other Christians for the care of widows and orphans; Callixtus lost the funds and fled from the city, but was caught near Portus. According to the tale, Callixtus jumped overboard to avoid capture but was rescued and taken back to his master. He was released at the request of the creditors, who hoped he might be able to recover...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Callixtus_I",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-16_saint_callistus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b02d2a0eaa83f5d83b8951390ba5b95aed08e09929bc0ac0c8482e2935adfd69",
+        "langs": {
+          "es": {
+            "translatedHash": "9b3fbb180b3568d43055a938d73c4f77c739fbce44347ba10d7608aac78977c3",
+            "updatedAt": "2026-02-24T23:10:25.066Z"
+          },
+          "pl": {
+            "translatedHash": "d2124a6461956c39ad70b2b27a0c50eee080cc66dd661c7c5f97c8613fb74508",
+            "updatedAt": "2026-02-24T23:10:26.056Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b80de3737b686df5fd38abfa821eb89db5f424399cd1bf0d74506426d9d2e523",
+        "langs": {
+          "es": {
+            "translatedHash": "461c2f8bfaada637d42c606b0592eb338fe2c72f57ebba2360e0e88b4f504d4b",
+            "updatedAt": "2026-02-24T23:10:26.741Z"
+          },
+          "pl": {
+            "translatedHash": "c2c74021d58125a26e67ca1ee908e679348d3d1d4ca6860a6be29f1e72664a76",
+            "updatedAt": "2026-02-24T23:10:27.429Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ab1a7dd0a6b3ff25e304213c5bbb0404cae9a1f460713aaa087d1da38585af4a",
+        "langs": {
+          "es": {
+            "translatedHash": "a391ce980922f62bb4d1652c890535c0a865688b52f11d14e515fdaab37b4b53",
+            "updatedAt": "2026-02-24T23:10:30.901Z"
+          },
+          "pl": {
+            "translatedHash": "f0c72b101e9cdd72bc30f2ed979300813ff985a989b9943c37d9c2e9295cc13b",
+            "updatedAt": "2026-02-24T23:10:34.532Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f1cc436b92ae82c3c328b7a43d5cd25c82e3abda0c0d3b2e4a0a6cb9abc53a03",
+        "langs": {
+          "es": {
+            "translatedHash": "81aadae340a31bec32c92984f75bf6afa89dfd16339820aea2390d2adda10a86",
+            "updatedAt": "2026-02-24T23:10:37.907Z"
+          },
+          "pl": {
+            "translatedHash": "15d03b7f62db751d70c34d84807264a5d9ce75696bdcc9b5574dc924c99d0dcb",
+            "updatedAt": "2026-02-24T23:10:41.444Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Calixto",
+  "name_pl": "Święty Kalikst",
+  "feast_es": "El día dieciséis de abril",
+  "feast_pl": "Szesnasty Dzień Kwietnia",
+  "summary_es": "El Papa Calixto I, también llamado Calixto I, fue el obispo de Roma desde aproximadamente el año 218 hasta su muerte alrededor del 222 o 223. Vivió durante los reinados de los emperadores romanos Elagábalo y Alejandro Severo. Eusebio y el catálogo Liberiano registran su episcopado como de cinco años (217–222). En 217, cuando Calixto sucedió a Zeferino como Obispo de Roma, comenzó a admitir en la Iglesia a conversos de sectas o cismas. Fue asesinado por ser cristiano y es venerado como santo y mártir por la Iglesia Católica.",
+  "summary_pl": "Papież Kalikst I, zwany także Kalikstem I, był biskupem Rzymu od około 218 roku aż do swojej śmierci około 222 lub 223 roku. Żył za panowania cesarzy rzymskich Elagabala i Aleksandra Sewera. Euzebiusz oraz katalog liberiański podają, że jego episkopat trwał pięć lat (217–222). W 217 roku, gdy Kalikst objął urząd biskupa Rzymu po Zefirynie, zaczął przyjmować do Kościoła nawróconych z sekt lub schizmy. Zginął za wiarę chrześcijańską i jest czczony jako święty i męczennik przez Kościół katolicki.",
+  "biography_es": "Vida  \nLos contemporáneos y enemigos de Calixto I, Tertuliano e Hipólito de Roma, autor de Philosophumena, relatan que Calixto, siendo un joven esclavo de Roma, fue puesto a cargo de los fondos recaudados por su amo Carpóforo, fondos que otros cristianos entregaban como limosnas para el cuidado de viudas y huérfanos; Calixto perdió los fondos y huyó de la ciudad, pero fue capturado cerca de Portus. Según la historia, Calixto se lanzó al agua para evitar la captura, pero fue rescatado y llevado de regreso a su amo. Fue liberado a petición de los acreedores, quienes esperaban que pudiera recuperar...",
+  "biography_pl": "Życie  \nWspółcześni i przeciwnicy Kaliksta I, Tertulian i Hipolit z Rzymu, autor Philosophumena, opowiadają, że Kalikst, będąc młodym niewolnikiem z Rzymu, został powierzony przez swego pana Karporfora do zarządzania zebranymi funduszami, które były przekazywane jako jałmużna przez innych chrześcijan na opiekę nad wdowami i sierotami; Kalikst stracił te fundusze i uciekł z miasta, ale został schwytany w pobliżu Portus. Według opowieści Kalikst wskoczył do morza, aby uniknąć pojmania, lecz został uratowany i odprowadzony z powrotem do swego pana. Został uwolniony na prośbę wierzycieli, którzy mieli nadzieję, że będzie w stanie odzyskać..."
+}

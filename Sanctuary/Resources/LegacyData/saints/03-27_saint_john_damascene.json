@@ -1,0 +1,79 @@
+{
+  "id": "03-27_saint_john_damascene",
+  "name": "Saint John Damascene",
+  "mmdd": "03-27",
+  "feast": "The Twenty-Seventh Day of March",
+  "summary": "John of Damascus or John Damascene, born Yūḥana ibn Manṣūr ibn Sarjūn, was a Christian monk, priest, hymnographer, and apologist. He was born and raised in Damascus c. AD 675 or AD 676; the precise date and place of his death is not known, though tradition places it at his monastery, Mar Saba, near Jerusalem, on 4 December AD 749. A polymath whose fields of interest and contribution included law, theology, philosophy, and music, he was given the by-name of Chrysorroas. He wrote works expounding the Christian faith, and composed hymns which are still used both liturgically in Eastern Christian practice throughout the world as well as in western Lutheranism at Easter.",
+  "biography": "John of Damascus or John Damascene, born Yūḥana ibn Manṣūr ibn Sarjūn, was a Christian monk, priest, hymnographer, and apologist. He was born and raised in Damascus c. AD 675 or AD 676; the precise date and place of his death is not known, though tradition places it at his monastery, Mar Saba, near Jerusalem, on 4 December AD 749. A polymath whose fields of interest and contribution included law, theology, philosophy, and music, he was given the by-name of Chrysorroas (Χρυσορρόας, literally \"streaming with gold\", i.e. \"the golden speaker\"). He wrote works expounding the Christian faith, and composed hymns which are still used both liturgically in Eastern Christian practice throughout the world as well as in western Lutheranism at Easter. He is one of the Fathers of the Eastern Orthodox Church and is best known for his strong defence of icons. The Catholic Church regards him as a Doctor of the Church, often referred to as the Doctor of the Assumption due to his writings on the Assumption of Mary. He was also a prominent exponent of perichoresis, and employed the concept as a technical term to describe both the interpenetration of the divine and human natures of Christ and the relationship...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Damascus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-27_saint_john_damascene.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a1a37ba16d9a988de5362cf4671233c193af0830574feff81e1084c3d94f1c6c",
+        "langs": {
+          "es": {
+            "translatedHash": "5430165ddfa786a59831de534adff484caf09b6a8b8c52210e80d6e5f6d8d120",
+            "updatedAt": "2026-02-24T22:59:55.577Z"
+          },
+          "pl": {
+            "translatedHash": "9993680357f342bc3f2fce95f24321cf0e2c421702e964c1061df8510dbfab07",
+            "updatedAt": "2026-02-24T22:59:56.237Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f0bac4242827fb1f1815180171ec075d232135dc0f68cf25577d4735f607cf00",
+        "langs": {
+          "es": {
+            "translatedHash": "07503028ec1b6b585ed2741b64d929bbaaf13e3d7ca42b12fa531b724a65becd",
+            "updatedAt": "2026-02-24T22:59:57.157Z"
+          },
+          "pl": {
+            "translatedHash": "890cf4e47fd626a78bf739a25465e66b0e1eb731c5a3da2e25d5596126d02bbe",
+            "updatedAt": "2026-02-24T22:59:57.767Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bdb1064c17548afc4df7d24b0829cfa7de80a1c733e54d411b0e4c488eb7c603",
+        "langs": {
+          "es": {
+            "translatedHash": "481532f83c5e6cf8e9501d8def012c6f0505ffe7e08fb90c5c4dfa7f5e9e3430",
+            "updatedAt": "2026-02-24T23:00:01.254Z"
+          },
+          "pl": {
+            "translatedHash": "2adf595ed132b41fc15f28dd93837afe4a5f98122b657b1f2e9bb6bbde06ff0c",
+            "updatedAt": "2026-02-24T23:00:05.099Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "000b993d7b692dc0dbe532f4cc57a4baaadffc0d81a00fb46a0a632b53692c74",
+        "langs": {
+          "es": {
+            "translatedHash": "c3e29c910fcbd5ed47736b455d52397799a444c4ae79c32d2c3e89e59185ea1e",
+            "updatedAt": "2026-02-24T23:00:09.407Z"
+          },
+          "pl": {
+            "translatedHash": "1f1e5792fd59a1e779923ac499e04358d964dd1b419ade0f749a63e39f57cb41",
+            "updatedAt": "2026-02-24T23:00:14.891Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Damasceno",
+  "name_pl": "Święty Jan Damasceński",
+  "feast_es": "El Vigésimo Séptimo Día de Marzo",
+  "feast_pl": "Dwudziesty siódmy dzień marca",
+  "summary_es": "Juan de Damasco o Juan Damasceno, nacido Yūḥana ibn Manṣūr ibn Sarjūn, fue un monje cristiano, sacerdote, himnógrafo y apologista. Nació y creció en Damasco alrededor del año 675 o 676 d.C.; la fecha y lugar exactos de su muerte no se conocen, aunque la tradición la sitúa en su monasterio, Mar Saba, cerca de Jerusalén, el 4 de diciembre del año 749 d.C. Polímata cuyos campos de interés y contribución incluyeron el derecho, la teología, la filosofía y la música, recibió el sobrenombre de Crisorróas. Escribió obras que exponen la fe cristiana y compuso himnos que todavía se usan tanto litúrgicamente en la práctica cristiana oriental en todo el mundo como en el luteranismo occidental durante la Pascua.",
+  "summary_pl": "Jan z Damaszku, zwany także Janem Damascenem, urodzony jako Yūḥana ibn Manṣūr ibn Sarjūn, był chrześcijańskim mnichem, kapłanem, hymnografem i apologetą. Urodził się i wychował w Damaszku około 675 lub 676 roku n.e.; dokładna data i miejsce jego śmierci nie są znane, choć tradycja umieszcza ją w jego klasztorze Mar Saba, niedaleko Jerozolimy, 4 grudnia 749 roku n.e. Był polimatą, którego zainteresowania i wkład obejmowały prawo, teologię, filozofię i muzykę, za co otrzymał przydomek Chrysorroas. Pisał dzieła wyjaśniające wiarę chrześcijańską oraz komponował hymny, które są nadal używane zarówno liturgicznie w praktyce Kościołów wschodnich na całym świecie, jak i w zachodnim luteraństwie podczas Wielkanocy.",
+  "biography_es": "Juan de Damasco o Juan Damasceno, nacido Yūḥana ibn Manṣūr ibn Sarjūn, fue un monje cristiano, sacerdote, himnógrafo y apologista. Nació y creció en Damasco alrededor del año 675 o 676 d.C.; la fecha y lugar exactos de su muerte no se conocen, aunque la tradición la sitúa en su monasterio, Mar Saba, cerca de Jerusalén, el 4 de diciembre del año 749 d.C. Polímata cuyos campos de interés y contribución incluyeron el derecho, la teología, la filosofía y la música, recibió el sobrenombre de Chrysorroas (Χρυσορρόας, literalmente \"fluyendo oro\", es decir, \"el orador dorado\"). Escribió obras que exponían la fe cristiana y compuso himnos que aún se usan tanto litúrgicamente en la práctica cristiana oriental en todo el mundo como en el luteranismo occidental en Pascua. Es uno de los Padres de la Iglesia Ortodoxa Oriental y es más conocido por su fuerte defensa de los iconos. La Iglesia Católica lo considera Doctor de la Iglesia, a menudo referido como el Doctor de la Asunción debido a sus escritos sobre la Asunción de María. También fue un destacado exponente de la perichoresis, y empleó el concepto como un término técnico para describir tanto la interpenetración de las naturalezas divina y humana de Cristo como la relación...",
+  "biography_pl": "Jan z Damaszku, zwany także Janem Damascenem, urodzony jako Yūḥana ibn Manṣūr ibn Sarjūn, był chrześcijańskim mnichem, kapłanem, hymnografem i apologetą. Urodził się i wychował w Damaszku około roku 675 lub 676 n.e.; dokładna data i miejsce jego śmierci nie są znane, choć tradycja umieszcza ją w jego klasztorze Mar Saba, niedaleko Jerozolimy, 4 grudnia 749 roku n.e. Był polimatą, którego dziedziny zainteresowań i wkładu obejmowały prawo, teologię, filozofię i muzykę, dlatego nadano mu przydomek Chrysorroas (Χρυσορρόας, dosłownie „płynący złotem”, czyli „złoty mówca”). Pisał dzieła wyjaśniające wiarę chrześcijańską oraz komponował hymny, które są nadal używane zarówno liturgicznie w praktyce Kościołów wschodnich na całym świecie, jak i w zachodnim luteraństwie podczas Wielkanocy. Jest jednym z Ojców Kościoła Wschodniego i najbardziej znany z mocnej obrony ikon. Kościół katolicki uważa go za Doktora Kościoła, często nazywanego Doktorem Wniebowzięcia ze względu na jego pisma dotyczące Wniebowzięcia Maryi. Był także wybitnym propagatorem pojęcia perichorezy, które stosował jako termin techniczny do opisania zarówno przenikania się boskiej i ludzkiej natury Chrystusa, jak i relacji..."
+}

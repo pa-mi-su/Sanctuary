@@ -1,0 +1,79 @@
+{
+  "id": "06-21_saint_aloysius_gonzaga",
+  "name": "Saint Aloysius Gonzaga",
+  "mmdd": "06-21",
+  "feast": "The Twenty-First Day of June",
+  "summary": "Aloysius de Gonzaga, SJ was an Italian aristocrat who became a member of the Society of Jesus. While still a student at the Roman College, he died as a result of caring for the victims of a serious epidemic. He was beatified in 1605 and canonized in 1726.",
+  "biography": "Aloysius de Gonzaga, SJ was an Italian aristocrat who became a member of the Society of Jesus. While still a student at the Roman College, he died as a result of caring for the victims of a serious epidemic. He was beatified in 1605 and canonized in 1726.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aloysius_Gonzaga",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-21_saint_aloysius_gonzaga.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3336e5aefb4b6d2c074eb64df940188460cd3ebe3fd6f29bd43dcba5aa54e826",
+        "langs": {
+          "es": {
+            "translatedHash": "276a7ec9f60bf29f36c2b3772648e6fc61c6a868bc229624b4a8b6d07eb97048",
+            "updatedAt": "2026-02-24T23:45:58.361Z"
+          },
+          "pl": {
+            "translatedHash": "90ba766f175ab40044488ab42b31b5fd3673193918f0beca0b1e0cf74885f87e",
+            "updatedAt": "2026-02-24T23:45:59.007Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4c108875e7e7a8341df938aed6880202e977b2a17e89ea5d5a3ed078e062f3af",
+        "langs": {
+          "es": {
+            "translatedHash": "1c6c9049bedaf967d286c925a2df3d79cafa4fb838563a833577a73a695cabea",
+            "updatedAt": "2026-02-24T23:45:59.658Z"
+          },
+          "pl": {
+            "translatedHash": "f4251347a3388e2b856296ffbd5eee3a133e3690a96cd3919742895b92051f2d",
+            "updatedAt": "2026-02-24T23:46:00.412Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "dfc61529dd476bb8876b328d3c32848910ee97830ab4de6ed9ac94bcc732ee2c",
+        "langs": {
+          "es": {
+            "translatedHash": "e0aee499145dde64af7356e1e40a787a6a4d21e359e0f0b3b40cf1739019d968",
+            "updatedAt": "2026-02-24T23:46:01.908Z"
+          },
+          "pl": {
+            "translatedHash": "0ca96924f4e8b1334c593a814cc6918539e682342ffb183fc8def47d08de16f9",
+            "updatedAt": "2026-02-24T23:46:03.542Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "dfc61529dd476bb8876b328d3c32848910ee97830ab4de6ed9ac94bcc732ee2c",
+        "langs": {
+          "es": {
+            "translatedHash": "e0aee499145dde64af7356e1e40a787a6a4d21e359e0f0b3b40cf1739019d968",
+            "updatedAt": "2026-02-24T23:46:05.591Z"
+          },
+          "pl": {
+            "translatedHash": "0ca96924f4e8b1334c593a814cc6918539e682342ffb183fc8def47d08de16f9",
+            "updatedAt": "2026-02-24T23:46:07.825Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Luis Gonzaga",
+  "name_pl": "Święty Alojzy Gonzaga",
+  "feast_es": "El Vigésimo Primer Día de Junio",
+  "feast_pl": "Dwudziesty pierwszy dzień czerwca",
+  "summary_es": "Aloysius de Gonzaga, SJ fue un aristócrata italiano que se convirtió en miembro de la Compañía de Jesús. Mientras aún era estudiante en el Colegio Romano, murió como resultado de cuidar a las víctimas de una grave epidemia. Fue beatificado en 1605 y canonizado en 1726.",
+  "summary_pl": "Alojzy Gonzaga, SJ, był włoskim arystokratą, który został członkiem Towarzystwa Jezusowego. Jeszcze jako student Rzymskiego Kolegium zmarł w wyniku opieki nad ofiarami poważnej epidemii. Został beatyfikowany w 1605 roku, a kanonizowany w 1726 roku.",
+  "biography_es": "Aloysius de Gonzaga, SJ fue un aristócrata italiano que se convirtió en miembro de la Compañía de Jesús. Mientras aún era estudiante en el Colegio Romano, murió como resultado de cuidar a las víctimas de una grave epidemia. Fue beatificado en 1605 y canonizado en 1726.",
+  "biography_pl": "Alojzy Gonzaga, SJ, był włoskim arystokratą, który został członkiem Towarzystwa Jezusowego. Jeszcze jako student Rzymskiego Kolegium zmarł w wyniku opieki nad ofiarami poważnej epidemii. Został beatyfikowany w 1605 roku, a kanonizowany w 1726 roku."
+}

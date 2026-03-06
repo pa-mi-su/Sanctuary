@@ -1,0 +1,79 @@
+{
+  "id": "02-25_saint_ethelbert",
+  "name": "Saint Ethelbert",
+  "mmdd": "02-25",
+  "feast": "The Twenty-Fifth Day of February",
+  "summary": "Saint Ethelbert is commonly identified with King Ethelbert of Kent (c. 550-616), an early Anglo-Saxon ruler who welcomed Saint Augustine of Canterbury's mission and became one of the first Christian kings in England.",
+  "biography": "Ethelbert ruled the Kingdom of Kent and was a major figure in the early Christianization of the English peoples. His marriage to Bertha, a Christian Frankish princess, and his support of Augustine's mission helped establish the Church in Kent. He is remembered in Christian tradition for promoting the faith and helping found an enduring Christian presence in southern England.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aethelberht_of_Kent",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-25_saint_ethelbert.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c2262fd124814a76fa6a1241f2bd13291b037dd29ddc71048240360d0e55244d",
+        "langs": {
+          "es": {
+            "translatedHash": "f603249a1fd0744fa41f9452c6ce1a9700c665e9ef9c6711737237abec4c8aff",
+            "updatedAt": "2026-02-24T22:42:08.381Z"
+          },
+          "pl": {
+            "translatedHash": "eb5d8200e08e1c1451b6e260c5e71bdb11e63bf114ae136df9253aa50e8f7876",
+            "updatedAt": "2026-02-24T22:42:08.983Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f5a6f0837cf0a0dff2775fa680f8e5c2bd153fd544333b5ace8557c35f9d1eb6",
+        "langs": {
+          "es": {
+            "translatedHash": "0910c5849390a31d23e2eaa3cac1db2090031ef78320da5911da71ab76a68c7f",
+            "updatedAt": "2026-02-24T22:42:09.836Z"
+          },
+          "pl": {
+            "translatedHash": "9400220e0f5fc6ed70d19cd76836fbedafdd547573e6f2865a4294628dc8f320",
+            "updatedAt": "2026-02-24T22:42:10.617Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "35b30a3787659a2018f6790b54e5218fe93a4645112cff0b1e9dc6411e90d336",
+        "langs": {
+          "es": {
+            "translatedHash": "134255e1a98c0dabc03f672d3a2a58c6ad15551d006e16ffd42376107937a445",
+            "updatedAt": "2026-02-24T22:42:11.885Z"
+          },
+          "pl": {
+            "translatedHash": "14cfb3a177ec48afc32c5c7590543d44f534f873e4031242fe8d862fc6de05c9",
+            "updatedAt": "2026-02-24T22:42:14.016Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d2baa5c81dcb305af61cec0b2e2479f8969a93871dc5b6cca59fb827b1b6924f",
+        "langs": {
+          "es": {
+            "translatedHash": "0e39e4d05ed518f4bf38f84c8ed38a80ba2eea4e3aab76b132985826b6a18cfc",
+            "updatedAt": "2026-02-24T22:42:16.393Z"
+          },
+          "pl": {
+            "translatedHash": "8a461dce718e60344f3133c62765784e77023f4590597c6d7f9e049d490fc1bf",
+            "updatedAt": "2026-02-24T22:42:18.598Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ethelberto",
+  "name_pl": "Święty Ethelbert",
+  "feast_es": "El vigésimo quinto día de febrero",
+  "feast_pl": "Dwudziesty piąty dzień lutego",
+  "summary_es": "San Ethelberto es comúnmente identificado con el rey Ethelberto de Kent (c. 550-616), un temprano gobernante anglosajón que acogió la misión de San Agustín de Canterbury y se convirtió en uno de los primeros reyes cristianos en Inglaterra.",
+  "summary_pl": "Święty Ethelbert jest powszechnie utożsamiany z królem Ethelbertem z Kentu (ok. 550-616), wczesnym władcą anglosaskim, który przyjął misję świętego Augustyna z Canterbury i stał się jednym z pierwszych chrześcijańskich królów w Anglii.",
+  "biography_es": "Ethelberto gobernó el Reino de Kent y fue una figura importante en la cristianización temprana de los pueblos ingleses. Su matrimonio con Berta, una princesa franca cristiana, y su apoyo a la misión de Agustín ayudaron a establecer la Iglesia en Kent. Es recordado en la tradición cristiana por promover la fe y ayudar a fundar una presencia cristiana duradera en el sur de Inglaterra.",
+  "biography_pl": "Ethelbert rządził Królestwem Kent i był ważną postacią we wczesnej chrystianizacji ludów angielskich. Jego małżeństwo z Bertą, chrześcijańską frankońską księżniczką, oraz jego wsparcie dla misji Augustyna pomogły ustanowić Kościół w Kent. W tradycji chrześcijańskiej pamięta się go za promowanie wiary i pomoc w założeniu trwałej chrześcijańskiej obecności w południowej Anglii."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-27_saint_vincent_de_paul_priest_memorial",
+  "name": "Saint Vincent de Paul, Priest—Memorial",
+  "mmdd": "09-27",
+  "feast": "The Twenty-Seventh Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Vincent-de-Paul_33_Mairie.JPG"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-27_saint_vincent_de_paul_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "55e50f7ba72e7a503e9e5280c8a40b9fd52b1892ca1ca41ac7e1742140074d89",
+        "langs": {
+          "es": {
+            "translatedHash": "972ddf3ce72a78dfaf2146147db11bbfc592eabb6a0163b3ff56a2f4db5d2107",
+            "updatedAt": "2026-02-25T00:38:57.928Z"
+          },
+          "pl": {
+            "translatedHash": "4240fc7d5ea532cfe7080f8cdc69ccd957128f91fd69472e6663f8875bf01868",
+            "updatedAt": "2026-02-25T00:38:58.655Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0404f4f298890f4b46cba4a6de9a7ba6d13f5e5e12d97358783219b2bf42b44e",
+        "langs": {
+          "es": {
+            "translatedHash": "8642af1793e677012bfe4b71834c429523d29f6d9965a55b50de3f2fde64e4de",
+            "updatedAt": "2026-02-25T00:38:59.786Z"
+          },
+          "pl": {
+            "translatedHash": "e6707493f8f5ca9e98a615bc36aa0d90c7e9fb6b4e8583260c877b7d63fb9649",
+            "updatedAt": "2026-02-25T00:39:00.613Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vicente de Paúl, Presbítero—Memorial",
+  "name_pl": "Święty Wincenty à Paulo, kapłan — wspomnienie",
+  "feast_es": "El Vigésimo Séptimo Día de Septiembre",
+  "feast_pl": "Dwudziesty siódmy dzień września"
+}

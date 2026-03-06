@@ -1,0 +1,48 @@
+{
+  "id": "07-04_saint_elizabeth_of_portugal_optional_memorial_celebrated_july_5_in_the_usa",
+  "name": "Saint Elizabeth of Portugal—Optional Memorial (Celebrated July 5 in the USA)",
+  "mmdd": "07-04",
+  "feast": "The Fourth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miami"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-04_saint_elizabeth_of_portugal_optional_memorial_celebrated_july_5_in_the_usa.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ebbd472f399f01bbb1b159293f8f7943a21a6bb43afe91769254cbe2a148a349",
+        "langs": {
+          "es": {
+            "translatedHash": "eada2b6d7941658aafb003253378ea5c7ce6bb97ffad5c987e2b5529a082f344",
+            "updatedAt": "2026-02-24T23:52:50.260Z"
+          },
+          "pl": {
+            "translatedHash": "93b373d415727c1335fcb1867811c201042cb316892271b7f80dde6b6acb270a",
+            "updatedAt": "2026-02-24T23:52:51.108Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "532f0099ad806c763ee9f4a274f88bace36b8886995f4ee3038c30459f7d6b97",
+        "langs": {
+          "es": {
+            "translatedHash": "0a633a04cd957d7472574db75cb013e11df26c79a552cb2960a48341ef973b3d",
+            "updatedAt": "2026-02-24T23:52:51.779Z"
+          },
+          "pl": {
+            "translatedHash": "f48c001b631e840adf5a88dcf7e1a0dbc710daa579d939173e83350312de2b5d",
+            "updatedAt": "2026-02-24T23:52:52.451Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Isabel de Portugal—Memoria Opcional (Celebrada el 5 de julio en los EE. UU.)",
+  "name_pl": "Święta Elżbieta Portugalska — Wspomnienie dowolne (obchodzone 5 lipca w USA)",
+  "feast_es": "El Cuarto Día de Julio",
+  "feast_pl": "Czwarty dzień lipca"
+}

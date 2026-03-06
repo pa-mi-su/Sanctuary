@@ -1,0 +1,48 @@
+{
+  "id": "10-22_saint_john_paul_ii_pope_optional_memorial",
+  "name": "Saint John Paul II, Pope—Optional Memorial",
+  "mmdd": "10-22",
+  "feast": "The Twenty-Second Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-22_saint_john_paul_ii_pope_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9dc913f794ec99b21ad76494182b86f57a77c4b94052e3ebab9ecd827a43b1b0",
+        "langs": {
+          "es": {
+            "translatedHash": "be8fb9844e5a6c4d5b5f17acb7dd72fd166634b1e1e04362da6941784bee9cd8",
+            "updatedAt": "2026-02-25T00:54:28.042Z"
+          },
+          "pl": {
+            "translatedHash": "0b71884f96d3f75dc145a713155706b21b5ec1dc909685ec97a686c6faf56096",
+            "updatedAt": "2026-02-25T00:54:28.910Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9d86b580cc59b808913899ced2ca476c81ec29f6c1bffef55709b5701f1888d3",
+        "langs": {
+          "es": {
+            "translatedHash": "b98f422df20637d3706572c40ac81d980e99e9dc723a20b88fc0dbc166114950",
+            "updatedAt": "2026-02-25T00:54:29.610Z"
+          },
+          "pl": {
+            "translatedHash": "a16e121e7eba03c29311a0131518e464fa271bfc99ec588340896ce92ab72bf5",
+            "updatedAt": "2026-02-25T00:54:30.629Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Pablo II, Papa—Memoria Opcional",
+  "name_pl": "Święty Jan Paweł II, Papież — Wspomnienie dowolne",
+  "feast_es": "El Veintidós de Octubre",
+  "feast_pl": "Dwudziesty drugi dzień października"
+}

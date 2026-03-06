@@ -1,0 +1,79 @@
+{
+  "id": "11-04_saint_charles_borromeo",
+  "name": "Saint Charles Borromeo",
+  "mmdd": "11-04",
+  "feast": "The Fourth Day of November",
+  "summary": "Charles Borromeo was an Italian Catholic prelate who served as Archbishop of Milan from 1564 to 1584. He was made a cardinal in 1560.",
+  "biography": "Early life\nBorromeo was a descendant of nobility; the Borromeo family was one of the most ancient and wealthiest in Lombardy, made famous by several notable men, both in the church and state. The family coat of arms included the Borromean rings, which are sometimes taken to symbolize the Holy Trinity. Borromeo's father, Gilbert, was Count of Arona. His mother, Margaret, was a member of the Milanese branch of the House of Medici. The second son in a family of six children, he was born in the castle of Arona on Lake Maggiore 36 miles from Milan on 2 October 1538.\nBorromeo received the tonsure when he was...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charles_Borromeo",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-04_saint_charles_borromeo.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "94e0a577d7d8142845b40e90aa4b5c26eba64c1a52937e68680fa08dac6ae5cc",
+        "langs": {
+          "es": {
+            "translatedHash": "002f38cb74fe1f10c62ebe5cb701f03023910dd45a6203be3c2e54317669b079",
+            "updatedAt": "2026-02-25T01:01:40.393Z"
+          },
+          "pl": {
+            "translatedHash": "ddb6a723e8116b14610d9e18c5cd549b36a7513a08d63c54f6dea826133f75cd",
+            "updatedAt": "2026-02-25T01:01:41.545Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "412689caef4f1de655c1005326dd765da85924e489246358f7f77bcf1e75d8ce",
+        "langs": {
+          "es": {
+            "translatedHash": "fc3e57d0c5605e5ec175522f55bc689f13039fa554a9059f3f2713e79dac156f",
+            "updatedAt": "2026-02-25T01:01:42.174Z"
+          },
+          "pl": {
+            "translatedHash": "7ce20734963284b5174d9fddf3bf82e840548f8d8796ddd69652e8a179d45932",
+            "updatedAt": "2026-02-25T01:01:42.785Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a804435c79e5a5df3c9727bbaafe4c8e9ec056aa0af5c1694bcedf14b1f90576",
+        "langs": {
+          "es": {
+            "translatedHash": "ee66e044fdc1475006b2bf6ca6d010bc4dbc7f66ec31c5755522c5f5471d587d",
+            "updatedAt": "2026-02-25T01:01:43.964Z"
+          },
+          "pl": {
+            "translatedHash": "1ed9be4b59891f008431e4bd1ad570c0be85185260d52e092c6b8be6446c8ba6",
+            "updatedAt": "2026-02-25T01:01:45.590Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b862d04f00b3ee784257c5e09bffd29d197ae9be9b694453186460980fcae571",
+        "langs": {
+          "es": {
+            "translatedHash": "9b9a4cf75a42093bb9244e62b9cbbc174adb81eddcf2b9b3262a015c5798ba46",
+            "updatedAt": "2026-02-25T01:01:49.160Z"
+          },
+          "pl": {
+            "translatedHash": "3fe1174124812f1e6c1b203df30963cd9a7067fef15b8a6f744da24df6923846",
+            "updatedAt": "2026-02-25T01:01:52.703Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Carlos Borromeo",
+  "name_pl": "Święty Karol Boromeusz",
+  "feast_es": "El Cuarto Día de Noviembre",
+  "feast_pl": "Czwarty dzień listopada",
+  "summary_es": "Carlos Borromeo fue un prelado católico italiano que sirvió como Arzobispo de Milán desde 1564 hasta 1584. Fue nombrado cardenal en 1560.",
+  "summary_pl": "Karol Boromeusz był włoskim katolickim duchownym, który pełnił funkcję arcybiskupa Mediolanu od 1564 do 1584 roku. Został mianowany kardynałem w 1560 roku.",
+  "biography_es": "Vida temprana  \nBorromeo era descendiente de la nobleza; la familia Borromeo era una de las más antiguas y ricas de Lombardía, famosa por varios hombres notables, tanto en la iglesia como en el estado. El escudo de armas de la familia incluía los anillos Borromeos, que a veces se toman como símbolo de la Santísima Trinidad. El padre de Borromeo, Gilberto, era Conde de Arona. Su madre, Margarita, era miembro de la rama milanesa de la Casa de Médici. Segundo hijo en una familia de seis hijos, nació en el castillo de Arona, en el Lago Mayor, a 36 millas de Milán, el 2 de octubre de 1538.  \nBorromeo recibió la tonsura cuando tenía...",
+  "biography_pl": "Wczesne życie  \nBorromeo pochodził z rodu szlacheckiego; rodzina Borromeo była jedną z najstarszych i najbogatszych w Lombardii, słynącą z kilku wybitnych postaci, zarówno w Kościele, jak i państwie. Herb rodziny zawierał pierścienie borromejskie, które czasami są uważane za symbol Trójcy Świętej. Ojciec Borromeo, Gilbert, był hrabią Arony. Jego matka, Małgorzata, pochodziła z mediolańskiej gałęzi rodu Medyceuszy. Był drugim synem w rodzinie sześciorga dzieci, urodził się w zamku Arona nad jeziorem Maggiore, 36 mil od Mediolanu, 2 października 1538 roku.  \nBorromeo otrzymał tonsurę, gdy miał..."
+}

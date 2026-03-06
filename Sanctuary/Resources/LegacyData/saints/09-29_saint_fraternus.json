@@ -1,0 +1,46 @@
+{
+  "id": "09-29_saint_fraternus",
+  "name": "Saint Fraternus",
+  "mmdd": "09-29",
+  "feast": "The Twenty Ninth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/_fallback/default-saint.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2eab5f7d52d071789ba03b77231041c0eaed92a4cc260becb49f0236d363bda3",
+        "langs": {
+          "es": {
+            "translatedHash": "648dff3140d0c77895650282e5ae5927872ab5d1998e16cb7c41ee83603d5aea",
+            "updatedAt": "2026-02-25T00:40:30.245Z"
+          },
+          "pl": {
+            "translatedHash": "33c7b41d9a2c5ae17aa4d80659cc33bf09d1de0d595a0f0073ef31586d94afe8",
+            "updatedAt": "2026-02-25T00:40:31.027Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4f7cc1daafb4ea87a83c6a329368855a3a368e135ac1b77f1b6944565afdeba9",
+        "langs": {
+          "es": {
+            "translatedHash": "98ded3cdeaf15aa657188bb8a148c82e4cd31bf3f03cf50d75724bb1b04f9f8d",
+            "updatedAt": "2026-02-25T00:40:31.670Z"
+          },
+          "pl": {
+            "translatedHash": "267cb8a8649cd3923c2ec9f26c1791f42410a18177ca35af88a8c8cf356e2850",
+            "updatedAt": "2026-02-25T00:40:32.365Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Fraterno",
+  "name_pl": "Święty Fraternus",
+  "feast_es": "El Vigésimo Noveno Día de Septiembre",
+  "feast_pl": "Dwudziesty dziewiąty dzień września"
+}

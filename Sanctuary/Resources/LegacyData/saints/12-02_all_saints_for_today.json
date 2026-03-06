@@ -1,0 +1,46 @@
+{
+  "id": "12-02_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "12-02",
+  "feast": "The Second Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:17:56.107Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:17:56.851Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8b7ac9577989c843471fd3eb3ccaa91f798eb543927788ca3f7726406425c499",
+        "langs": {
+          "es": {
+            "translatedHash": "badfe496a4684034456068ab247d1c7c24d7289a71c184ad46db3c8a0a407029",
+            "updatedAt": "2026-02-25T01:17:57.431Z"
+          },
+          "pl": {
+            "translatedHash": "f47a267cc8b0ce88a98d1b11546106a581611f5ad7be7cb4a5cb92cc200be622",
+            "updatedAt": "2026-02-25T01:17:58.002Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Segundo Día de Diciembre",
+  "feast_pl": "Drugi dzień grudnia"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "07-15_saint_bonaventure",
+  "name": "Saint Bonaventure",
+  "mmdd": "07-15",
+  "feast": "The Fifteenth Day of July",
+  "summary": "Bonaventure was an Italian Catholic Franciscan bishop, cardinal, scholastic theologian and philosopher.",
+  "biography": "Bonaventure was an Italian Catholic Franciscan bishop, cardinal, scholastic theologian and philosopher.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bonaventure",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-15_saint_bonaventure.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "62e925a540b805f87e47f211a0481a2685ce503a914befbdf6204d90e0c73eb4",
+        "langs": {
+          "es": {
+            "translatedHash": "fc06c9cfdac6a8f3665b3dc7a509e7ec74f7b5468d3b4b23f4b269301945de0f",
+            "updatedAt": "2026-02-24T23:58:15.845Z"
+          },
+          "pl": {
+            "translatedHash": "5a6bc2d5087c76b896e51007c10132090bad1a111dd1b6765c09a66aa376f237",
+            "updatedAt": "2026-02-24T23:58:16.408Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "56a2acf2338e454bfdc76bf5647e252adfacf3a8120a3608055e1fe7d974f0d3",
+        "langs": {
+          "es": {
+            "translatedHash": "44f37d9055716093c58a08d103ec2dfad1d3e2cf85e1cede804a1deb3c8968a9",
+            "updatedAt": "2026-02-24T23:58:16.974Z"
+          },
+          "pl": {
+            "translatedHash": "8529aaa615a15eded0a1f4cb3c04e4300cb7e07d485ced3ca86f89a075df5d72",
+            "updatedAt": "2026-02-24T23:58:17.902Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e4ec93c3d00d4457bd0820c5fbc64c343548393d96c2a74283af1fdeba900073",
+        "langs": {
+          "es": {
+            "translatedHash": "f6384b963f0639deaaab325c5e331f89a089055d6fb8bdbf1989b0bed2179cf8",
+            "updatedAt": "2026-02-24T23:58:18.749Z"
+          },
+          "pl": {
+            "translatedHash": "f819624d63b960651b2363827837bef96b3620deeb2e22dd9f9edcd84b898346",
+            "updatedAt": "2026-02-24T23:58:19.638Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e4ec93c3d00d4457bd0820c5fbc64c343548393d96c2a74283af1fdeba900073",
+        "langs": {
+          "es": {
+            "translatedHash": "f6384b963f0639deaaab325c5e331f89a089055d6fb8bdbf1989b0bed2179cf8",
+            "updatedAt": "2026-02-24T23:58:20.516Z"
+          },
+          "pl": {
+            "translatedHash": "f819624d63b960651b2363827837bef96b3620deeb2e22dd9f9edcd84b898346",
+            "updatedAt": "2026-02-24T23:58:22.859Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Buenaventura",
+  "name_pl": "Święty Bonawentura",
+  "feast_es": "El Quince de Julio",
+  "feast_pl": "Piętnasty Dzień Lipca",
+  "summary_es": "Bonaventura fue un obispo franciscano católico italiano, cardenal, teólogo escolástico y filósofo.",
+  "summary_pl": "Bonaventura był włoskim katolickim franciszkańskim biskupem, kardynałem, scholastycznym teologiem i filozofem.",
+  "biography_es": "Bonaventura fue un obispo franciscano católico italiano, cardenal, teólogo escolástico y filósofo.",
+  "biography_pl": "Bonaventura był włoskim katolickim franciszkańskim biskupem, kardynałem, scholastycznym teologiem i filozofem."
+}

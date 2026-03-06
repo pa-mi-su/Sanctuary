@@ -1,0 +1,79 @@
+{
+  "id": "05-27_saint_john",
+  "name": "Saint John",
+  "mmdd": "05-27",
+  "feast": "The Twenty-Seventh Day of May",
+  "summary": "Pope John I was the bishop of Rome from 13 August 523 to his death on 18 May 526. He was a native of Siena, in Italy. He was sent on a diplomatic mission to Constantinople by the Ostrogoth King Theoderic to negotiate better treatment for Arians. Although John was relatively successful, upon his return to Ravenna, Theoderic had him imprisoned for allegedly conspiring with Constantinople. The frail pope died of neglect and ill-treatment.",
+  "biography": "Early life\nWhile a deacon in Rome, John  is known to have been a partisan of the Antipope Laurentius, for in a libellus written to Pope Symmachus in 506, John confessed his error in opposing him, condemned Peter of Altinum and Laurentius, and begged pardon of Symmachus. He would then be the \"Deacon John\" who signed the acta (ecclesiastic publication) of the Roman synod of 499 and 502; the fact the Roman church only had seven deacons at the time makes identifying him with this person very likely. He may also be the \"Deacon John\" to whom Boethius, the 6th-Century philosopher, dedicated three of his five religious tractates, or treatises, written between 512 and 520....",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_I",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-27_saint_john.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "83ff8096fefa3709f95a4e063a5fa1ab88a96cf05e0b368c3deba4f54c21cccf",
+        "langs": {
+          "es": {
+            "translatedHash": "0c754c271376cd8bdaf8e93edba2c6e034afa14925d617aab4f4a3be48f4525d",
+            "updatedAt": "2026-02-24T23:32:18.110Z"
+          },
+          "pl": {
+            "translatedHash": "8f1513263a11b34323a50ba3aa56a22c7feb89574bf58123b1d6f547cb3affb7",
+            "updatedAt": "2026-02-24T23:32:18.720Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c5dd3074ef36136719ca7157102529f62f43564a7174a97d6a3fa594a3b06adf",
+        "langs": {
+          "es": {
+            "translatedHash": "28c894864ed7f4cf403026f8c0a838bc55cbfef8e340f4f9037d2b433aa45004",
+            "updatedAt": "2026-02-24T23:32:19.458Z"
+          },
+          "pl": {
+            "translatedHash": "862d1b5d69f29a5ab013ff7c666dbd31ea410472fdbebc5278e9303127ecf42b",
+            "updatedAt": "2026-02-24T23:32:20.103Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c983b51416f295155296aa828a01913a18f0fe0f63b6708348c9fe013f3a8c17",
+        "langs": {
+          "es": {
+            "translatedHash": "8522f3ba911680dd1800ad60c44175d5e149c425f96790e8c86c2ec5c12d5e4c",
+            "updatedAt": "2026-02-24T23:32:22.314Z"
+          },
+          "pl": {
+            "translatedHash": "84fc81ddde9df675c6982e57e3b4e27cf6f78db4658f8a472772db141374616c",
+            "updatedAt": "2026-02-24T23:32:25.250Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8b4d07f7548144c7987b45896a4c33d76165c75070257263864d825e6502f303",
+        "langs": {
+          "es": {
+            "translatedHash": "352d8f9a54af5802bfdc149a73fb2f79e76d3c114c6b57d050fe418cedfa4e8a",
+            "updatedAt": "2026-02-24T23:32:28.734Z"
+          },
+          "pl": {
+            "translatedHash": "93639912cc95aa3b32891ebd3c3ba365c6e9e50c30014bc236cf2b6bc28a7917",
+            "updatedAt": "2026-02-24T23:32:34.055Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan",
+  "name_pl": "Święty Jan",
+  "feast_es": "El Vigésimo Séptimo Día de Mayo",
+  "feast_pl": "Dwudziesty siódmy dzień maja",
+  "summary_es": "El Papa Juan I fue el obispo de Roma desde el 13 de agosto de 523 hasta su muerte el 18 de mayo de 526. Era originario de Siena, en Italia. Fue enviado en una misión diplomática a Constantinopla por el rey ostrogodo Teodorico para negociar un mejor trato para los arrianos. Aunque Juan tuvo un éxito relativo, al regresar a Rávena, Teodorico lo hizo encarcelar por supuestamente conspirar con Constantinopla. El frágil papa murió por negligencia y maltrato.",
+  "summary_pl": "Papież Jan I był biskupem Rzymu od 13 sierpnia 523 do swojej śmierci 18 maja 526. Był rodowitym mieszkańcem Sieny we Włoszech. Został wysłany na misję dyplomatyczną do Konstantynopola przez króla Ostrogotów Teodoryka, aby negocjować lepsze traktowanie ariańskich heretyków. Chociaż Jan odniósł stosunkowo sukces, po powrocie do Rawenny Teodoryk uwięził go pod zarzutem spisku z Konstantynopolem. Słaby papież zmarł z powodu zaniedbania i złego traktowania.",
+  "biography_es": "Vida temprana  \nMientras era diácono en Roma, se sabe que Juan fue partidario del antipapa Laurencio, pues en un libelo escrito al Papa Symmachus en 506, Juan confesó su error al oponerse a él, condenó a Pedro de Altinum y a Laurencio, y pidió perdón a Symmachus. Luego sería el \"Diácono Juan\" que firmó las actas (publicación eclesiástica) del sínodo romano de 499 y 502; el hecho de que la iglesia romana solo tuviera siete diáconos en ese momento hace muy probable identificarlo con esta persona. También podría ser el \"Diácono Juan\" a quien Boecio, el filósofo del siglo VI, dedicó tres de sus cinco tratados religiosos, escritos entre 512 y 520....",
+  "biography_pl": "Wczesne życie  \nBędąc diakonem w Rzymie, Jan był znany jako zwolennik Antypapieża Laurencjusza, ponieważ w libellusie napisanym do papieża Symmachusa w 506 roku, Jan wyznał swój błąd w sprzeciwianiu się mu, potępił Piotra z Altinum i Laurencjusza oraz prosił Symmachusa o przebaczenie. Mógł być zatem „diakonem Janem”, który podpisał acta (publikację kościelną) synodu rzymskiego z lat 499 i 502; fakt, że Kościół rzymski miał wówczas tylko siedmiu diakonów, czyni identyfikację go z tą osobą bardzo prawdopodobną. Może być również tym „diakonem Janem”, któremu Boecjusz, filozof VI wieku, dedykował trzy ze swoich pięciu traktatów religijnych, napisanych między 512 a 520 rokiem...."
+}

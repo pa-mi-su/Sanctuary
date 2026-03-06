@@ -1,0 +1,79 @@
+{
+  "id": "04-21_saint_anselm",
+  "name": "Saint Anselm",
+  "mmdd": "04-21",
+  "feast": "The Twenty-First Day of April",
+  "summary": "Anselm of Canterbury OSB, also known as Anselm of Aosta after his birthplace and Anselm of Bec after his monastery, was an Italian Benedictine monk, abbot, philosopher, and theologian of the Catholic Church, who served as Archbishop of Canterbury from 1093 to 1109.",
+  "biography": "Anselm of Canterbury OSB, also known as Anselm of Aosta after his birthplace and Anselm of Bec after his monastery, was an Italian Benedictine monk, abbot, philosopher, and theologian of the Catholic Church, who served as Archbishop of Canterbury from 1093 to 1109.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-21_saint_anselm.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9ce9eb974d418d0efdc1ee5de59ccb7e80f5e462121883abfa7579291426fbee",
+        "langs": {
+          "es": {
+            "translatedHash": "111bee68fe38f17a7b361ce9db512e3ba4233f73ee2469a0bd0160ed15bc4d08",
+            "updatedAt": "2026-02-24T23:12:18.019Z"
+          },
+          "pl": {
+            "translatedHash": "632b3f775c2c72b957c546f20ad0e54f1876c307b15225a96a6756b405984a51",
+            "updatedAt": "2026-02-24T23:12:18.544Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b568cbc4dca9fd61331311f6e3baa14a33ce9c5ef21af072ada8f0cf3eca7370",
+        "langs": {
+          "es": {
+            "translatedHash": "aa7e1a08977d3cc154f3f8a4df5fb9f30d8073afde24c70e054b1d7535868669",
+            "updatedAt": "2026-02-24T23:12:19.211Z"
+          },
+          "pl": {
+            "translatedHash": "b227b6e13804f83a8d842d901be530a78e934eb9bbaf649546124639f9e47f1e",
+            "updatedAt": "2026-02-24T23:12:19.987Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d8303ee676db574e21bf16d181709240c30b199d250a30c237ec0ef5cf95463d",
+        "langs": {
+          "es": {
+            "translatedHash": "398b788a8d3f6b38fa69daa6dbe165c59338b08c7b4f3ecedeb7f1813253b808",
+            "updatedAt": "2026-02-24T23:12:21.463Z"
+          },
+          "pl": {
+            "translatedHash": "f40403340e67729e9ab680320c099a332420cc0fceb1f84533d8a663ab56beda",
+            "updatedAt": "2026-02-24T23:12:23.179Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d8303ee676db574e21bf16d181709240c30b199d250a30c237ec0ef5cf95463d",
+        "langs": {
+          "es": {
+            "translatedHash": "398b788a8d3f6b38fa69daa6dbe165c59338b08c7b4f3ecedeb7f1813253b808",
+            "updatedAt": "2026-02-24T23:12:25.007Z"
+          },
+          "pl": {
+            "translatedHash": "8d1cdc8dfce1afdce135255ab9cf1368ccc380e1e64b4a796da7309e52668847",
+            "updatedAt": "2026-02-24T23:12:26.730Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Anselmo",
+  "name_pl": "Święty Anzelm",
+  "feast_es": "El Vigésimo Primer Día de Abril",
+  "feast_pl": "Dwudziesty pierwszy dzień kwietnia",
+  "summary_es": "Anselmo de Canterbury OSB, también conocido como Anselmo de Aosta por su lugar de nacimiento y Anselmo de Bec por su monasterio, fue un monje benedictino italiano, abad, filósofo y teólogo de la Iglesia Católica, que sirvió como Arzobispo de Canterbury desde 1093 hasta 1109.",
+  "summary_pl": "Anzelm z Canterbury OSB, znany również jako Anzelm z Aosty od miejsca urodzenia oraz Anzelm z Bec od swojego klasztoru, był włoskim benedyktyńskim mnichem, opatem, filozofem i teologiem Kościoła katolickiego, który pełnił funkcję arcybiskupa Canterbury w latach 1093–1109.",
+  "biography_es": "Anselmo de Canterbury OSB, también conocido como Anselmo de Aosta por su lugar de nacimiento y Anselmo de Bec por su monasterio, fue un monje benedictino italiano, abad, filósofo y teólogo de la Iglesia Católica, que sirvió como Arzobispo de Canterbury desde 1093 hasta 1109.",
+  "biography_pl": "Anzelm z Canterbury OSB, znany również jako Anzelm z Aosty od miejsca urodzenia oraz Anzelm z Bec od nazwy swojego klasztoru, był włoskim benedyktyńskim mnichem, opatem, filozofem i teologiem Kościoła katolickiego, który pełnił funkcję arcybiskupa Canterbury w latach 1093–1109."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-08_saint_maximin",
+  "name": "Saint Maximin",
+  "mmdd": "06-08",
+  "feast": "The Eighth Day of June",
+  "summary": "Maximin was the sixth bishop of Trier. His feast is 29 May.",
+  "biography": "Saint-Maximin-la-Sainte-Baume is a commune in the southeastern French department of Var, in the Provence-Alpes-Côte d'Azur region. Located 40 km (25 mi) east of Aix-en-Provence, the town lies at the foot of the Sainte-Baume mountains. Baume or bama is the Provençal equivalent of cave. The town's basilica is dedicated to Mary Magdalene.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximin_of_Trier",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-08_saint_maximin.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "62cb3e98b4c36e3a156bdb0074cf0daaf644e0960cb836074e6eff2f20b185a5",
+        "langs": {
+          "es": {
+            "translatedHash": "92f6bdd15c70c651d6d3c8df653ab83e0b44b3027ae71a93c23a19a6d2309b3c",
+            "updatedAt": "2026-02-24T23:39:41.047Z"
+          },
+          "pl": {
+            "translatedHash": "8859ab5f5e3ef595631f2382b74c9c39a2169f14d45f2a073e621838d5c20160",
+            "updatedAt": "2026-02-24T23:39:41.544Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "979734ee5440cb7df3e464df93504ee3dbb0059dfc980b0b9ba8bb5583011da2",
+        "langs": {
+          "es": {
+            "translatedHash": "1a8ca2a7a387e83c24a785b80fade721ea7663b2b1e6eba6549114b50eab1345",
+            "updatedAt": "2026-02-24T23:39:42.141Z"
+          },
+          "pl": {
+            "translatedHash": "e2a9d5ddfdcc7a70988ba3fa6b9841da6251958a4349da693df28ae07c32f274",
+            "updatedAt": "2026-02-24T23:39:42.768Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b3b329faee850639d1d61470ae56d48acf503096f76268d611d168264d311a95",
+        "langs": {
+          "es": {
+            "translatedHash": "145e08b7eb5e612a5b9b5fda90d3f29ff3508cf878f9af4257d1ac30ecfee1f6",
+            "updatedAt": "2026-02-24T23:39:43.595Z"
+          },
+          "pl": {
+            "translatedHash": "88c2dd6b66b0282a4ac506c7871e1ad85407541dcfd4f6c146ffc39a8e4acf7b",
+            "updatedAt": "2026-02-24T23:39:44.621Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "57b0fba233504d2b9ee5ddaea87f41d7877ffe79af8d2884064d81e838a93753",
+        "langs": {
+          "es": {
+            "translatedHash": "28498af573d31862f6428deff6db749b490d59d5d645dd10195aa655ecb2e90f",
+            "updatedAt": "2026-02-24T23:39:46.818Z"
+          },
+          "pl": {
+            "translatedHash": "54118f8d66f12e42339502d2af7be9c1dd69142c021359695120826d23a5ac32",
+            "updatedAt": "2026-02-24T23:39:48.818Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Maximino",
+  "name_pl": "Święty Maksymin",
+  "feast_es": "El Octavo Día de Junio",
+  "feast_pl": "Ósmy dzień czerwca",
+  "summary_es": "Maximino fue el sexto obispo de Tréveris. Su fiesta es el 29 de mayo.",
+  "summary_pl": "Maximin był szóstym biskupem Trewiru. Jego wspomnienie przypada na 29 maja.",
+  "biography_es": "Saint-Maximin-la-Sainte-Baume es una comuna en el departamento sureste francés de Var, en la región de Provenza-Alpes-Costa Azul. Ubicada a 40 km (25 mi) al este de Aix-en-Provence, la ciudad se encuentra al pie de las montañas de la Sainte-Baume. Baume o bama es el equivalente provenzal de cueva. La basílica de la ciudad está dedicada a María Magdalena.",
+  "biography_pl": "Saint-Maximin-la-Sainte-Baume to gmina w południowo-wschodnim francuskim departamencie Var, w regionie Prowansja-Alpy-Lazurowe Wybrzeże. Położona 40 km na wschód od Aix-en-Provence, miejscowość leży u stóp gór Sainte-Baume. Baume lub bama to prowansalski odpowiednik słowa jaskinia. Bazylika w mieście jest poświęcona Marii Magdalenie."
+}

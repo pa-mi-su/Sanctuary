@@ -1,0 +1,48 @@
+{
+  "id": "08-11_saint_clare_virgin_memorial",
+  "name": "Saint Clare, Virgin—Memorial",
+  "mmdd": "08-11",
+  "feast": "The Eleventh Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clare_Balding"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-11_saint_clare_virgin_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "fa89424d61db6df885ff77b5fe3107e8d4c60a238e2cd3ec3596bbe28ff5802a",
+        "langs": {
+          "es": {
+            "translatedHash": "0c20b70b62450f726510f46fb9950269e3eb6ba19c312fbbc8dfa147d7df138a",
+            "updatedAt": "2026-02-25T00:13:30.344Z"
+          },
+          "pl": {
+            "translatedHash": "5fd732364a2f3027d651039b32f7b3957341d6d8a24de95daa20d6918de06e03",
+            "updatedAt": "2026-02-25T00:13:31.544Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "84c6c0bcb526c856ace7965b408c141464929c8c6803b63d522883ffd5e0dfa2",
+        "langs": {
+          "es": {
+            "translatedHash": "6d148b3f107527e6c7d45eaf96d6b081de95238487eecd4beab8aa074d9ef09f",
+            "updatedAt": "2026-02-25T00:13:32.501Z"
+          },
+          "pl": {
+            "translatedHash": "5622ee44e479bff14aaab64a33c242a707824a1985236890fcb62a64aa9d3f85",
+            "updatedAt": "2026-02-25T00:13:33.260Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Clara, Virgen—Memorial",
+  "name_pl": "Święta Klara, dziewica — wspomnienie",
+  "feast_es": "El día once de agosto",
+  "feast_pl": "Jedenasty dzień sierpnia"
+}

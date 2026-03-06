@@ -1,0 +1,79 @@
+{
+  "id": "03-05_saint_phocas",
+  "name": "Saint Phocas",
+  "mmdd": "03-05",
+  "feast": "The Fifth day of March",
+  "summary": "Hieromartyr Phocas was born in the city of Sinope in northern Anatolia. His life and legend may have been a fusion of three men with the same name: a Phocas of Antioch, Phocas, Bishop of Sinope, and Phocas the Gardener. Only the last seems authentic.",
+  "biography": "Hieromartyr Phocas was born in the city of Sinope in northern Anatolia. His life and legend may have been a fusion of three men with the same name: a Phocas of Antioch, Phocas, Bishop of Sinope, and Phocas the Gardener. Only the last seems authentic.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phocas%2C_Bishop_of_Sinope",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-05_saint_phocas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "691f924dad1942b6d9a35edd8fb78a6531f2bb0f1443a51e4c92a48edda0dc62",
+        "langs": {
+          "es": {
+            "translatedHash": "87b44e47bf645ea1368cff5c9ce27909a3a0d762e29a8acecb64c2847194cc8d",
+            "updatedAt": "2026-02-24T22:48:36.353Z"
+          },
+          "pl": {
+            "translatedHash": "fc4eacf0591ecf283ce01206db10dd2a963ab60e1606187df4f03e00ab59b5c3",
+            "updatedAt": "2026-02-24T22:48:36.924Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a4c1dbf279865dcd3ceb20e3ab16ceefa36b621097cc3c5eaa99c4043c37f0c7",
+        "langs": {
+          "es": {
+            "translatedHash": "cb65db26e911808a0e0c94bca3d8e67f655cc58bacaa10983bfa8ec7c2b89cd8",
+            "updatedAt": "2026-02-24T22:48:37.797Z"
+          },
+          "pl": {
+            "translatedHash": "d69109746a4a8efe609db26464e31d8412b033f9aa258a9bed2c2e55a50c2017",
+            "updatedAt": "2026-02-24T22:48:38.679Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e7f7135e244aeabbd43fdab6004b0cfad2de6a04f7d559b693cfa249490837d8",
+        "langs": {
+          "es": {
+            "translatedHash": "6f958e7b85b214c0689884fbd32ca30bbffa028fb59e037fbc578a796af74b2d",
+            "updatedAt": "2026-02-24T22:48:40.361Z"
+          },
+          "pl": {
+            "translatedHash": "cdecf9813d5c75d02773ab2bd454983fc376f1cdab18d9fdce0a09ac834d4dd9",
+            "updatedAt": "2026-02-24T22:48:41.913Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e7f7135e244aeabbd43fdab6004b0cfad2de6a04f7d559b693cfa249490837d8",
+        "langs": {
+          "es": {
+            "translatedHash": "6f958e7b85b214c0689884fbd32ca30bbffa028fb59e037fbc578a796af74b2d",
+            "updatedAt": "2026-02-24T22:48:43.993Z"
+          },
+          "pl": {
+            "translatedHash": "cdecf9813d5c75d02773ab2bd454983fc376f1cdab18d9fdce0a09ac834d4dd9",
+            "updatedAt": "2026-02-24T22:48:46.110Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Focas",
+  "name_pl": "Święty Fokas",
+  "feast_es": "El quinto día de marzo",
+  "feast_pl": "Piąty dzień marca",
+  "summary_es": "El Hieromártir Focas nació en la ciudad de Sinope, en el norte de Anatolia. Su vida y leyenda pueden haber sido una fusión de tres hombres con el mismo nombre: un Focas de Antioquía, Focas, Obispo de Sinope, y Focas el Jardinero. Solo este último parece auténtico.",
+  "summary_pl": "Hieromęczennik Fokas urodził się w mieście Sinope w północnej Anatolii. Jego życie i legenda mogą być połączeniem trzech mężczyzn o tym samym imieniu: Fokasa z Antiochii, Fokasa, biskupa Sinope, oraz Fokasa Ogrodnika. Tylko ten ostatni wydaje się autentyczny.",
+  "biography_es": "El Hieromártir Focas nació en la ciudad de Sinope, en el norte de Anatolia. Su vida y leyenda pueden haber sido una fusión de tres hombres con el mismo nombre: un Focas de Antioquía, Focas, Obispo de Sinope, y Focas el Jardinero. Solo este último parece auténtico.",
+  "biography_pl": "Hieromęczennik Fokas urodził się w mieście Sinope w północnej Anatolii. Jego życie i legenda mogą być połączeniem trzech mężczyzn o tym samym imieniu: Fokasa z Antiochii, Fokasa, biskupa Sinope, oraz Fokasa Ogrodnika. Tylko ten ostatni wydaje się autentyczny."
+}

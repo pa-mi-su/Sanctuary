@@ -1,0 +1,79 @@
+{
+  "id": "09-15_blessed_virgin_mary",
+  "name": "Blessed Virgin Mary",
+  "mmdd": "09-15",
+  "feast": "The Fifteenth Day of September",
+  "summary": "Our Lady of Sorrows, Our Lady of Dolours, the Sorrowful Mother or Mother of Sorrows, and Our Lady of Piety, Our Lady of the Seven Sorrows or Our Lady of the Seven Dolours are names by which Mary, mother of Jesus, is referred to in relation to sorrows in life. As Mater Dolorosa, it is also a key subject for Marian art in the Catholic Church.",
+  "biography": "Seven Sorrows of Mary\nThe Seven Sorrows (or Dolors/dolours) are events in the life of Mary that are a popular devotion and are frequently depicted in art.\nThese Seven Sorrows...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-15_blessed_virgin_mary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "490b595b3b7482adac9422f0a6a2a9d0ed9627f450d5754588556851af9bf2de",
+        "langs": {
+          "es": {
+            "translatedHash": "8da3848851d4e09fa28859d368dfb9258689a4785eb12a139866babe91455ea3",
+            "updatedAt": "2026-02-25T00:31:06.583Z"
+          },
+          "pl": {
+            "translatedHash": "9b0403b626232dd1cd3024139c58fbf6489445f788470a136190437386a58b26",
+            "updatedAt": "2026-02-25T00:31:07.215Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "07e8fc315add980aef9f3b6cc09abc5d00ac552b83834a7c2f94b15f24359f9d",
+        "langs": {
+          "es": {
+            "translatedHash": "d9abc2eeb501f432b9e9c8a7a8fb36b2d5e866d25c29208f31ce85ba1c0131ca",
+            "updatedAt": "2026-02-25T00:31:07.778Z"
+          },
+          "pl": {
+            "translatedHash": "f5896a93c7c6b0a3bcd775d5245c0fd37e660840fc999449941ab7471996b72a",
+            "updatedAt": "2026-02-25T00:31:08.477Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6e050306d99820a494357b85d65c187ffd5505bad536bcd89cfa5f0b8f24a26d",
+        "langs": {
+          "es": {
+            "translatedHash": "5a5e92805f451e1a3d82f51697bd31327d2c44970584a7c8a7b76643a70f6d2b",
+            "updatedAt": "2026-02-25T00:31:10.910Z"
+          },
+          "pl": {
+            "translatedHash": "968865226c742d478016eb1a117cc82a8cff2eb35cf9250958ed0c3491bd5ccb",
+            "updatedAt": "2026-02-25T00:31:13.073Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c5d995190820d13ec6547731b0a32d3e498ffc37f1d31eb422763a03d95480f2",
+        "langs": {
+          "es": {
+            "translatedHash": "a35f7b44ee5326dd8600636642e62dea82a348206f1929ebc5ba50db4d90c08c",
+            "updatedAt": "2026-02-25T00:31:14.403Z"
+          },
+          "pl": {
+            "translatedHash": "3da646e602dac1f2ae162990fb7ff2a229660ba1cd85efef7858fb1a92da51b1",
+            "updatedAt": "2026-02-25T00:31:18.879Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Virgen María",
+  "name_pl": "Błogosławiona Dziewica Maryja",
+  "feast_es": "El Quince de Septiembre",
+  "feast_pl": "Piętnasty Dzień Września",
+  "summary_es": "Nuestra Señora de los Dolores, Nuestra Señora de los Dolores, la Madre Dolorosa o Madre de los Dolores, y Nuestra Señora de la Piedad, Nuestra Señora de los Siete Dolores o Nuestra Señora de los Siete Dolores son nombres por los cuales se refiere a María, madre de Jesús, en relación con los dolores en la vida. Como Mater Dolorosa, también es un tema clave para el arte mariano en la Iglesia Católica.",
+  "summary_pl": "Matka Boża Bolesna, Matka Boleści, Matka Bolesna lub Matka Cierpiąca oraz Matka Boża Pobożna, Matka Siedmiu Boleści lub Matka Siedmiu Cierpień to nazwy, pod którymi Maryja, matka Jezusa, jest nazywana w odniesieniu do cierpień w życiu. Jako Mater Dolorosa jest także ważnym tematem sztuki maryjnej w Kościele katolickim.",
+  "biography_es": "Siete Dolores de María  \nLos Siete Dolores (o Dolores) son acontecimientos en la vida de María que constituyen una devoción popular y que con frecuencia se representan en el arte.  \nEstos Siete Dolores...",
+  "biography_pl": "Siedem Boleści Maryi  \nSiedem Boleści (lub Dolorów/dolourów) to wydarzenia z życia Maryi, które są popularną formą nabożeństwa i często przedstawiane są w sztuce.  \nTe Siedem Boleści..."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "12-23_saint_john_of_kanty_priest_optional_memorial",
+  "name": "Saint John of Kanty, Priest—Optional Memorial",
+  "mmdd": "12-23",
+  "feast": "The Twenty-Third Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jan_Kanty.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-23_saint_john_of_kanty_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b03662e44bdd06a1c23ac5a6aa0d06be594ecf1bfc1a0901498910a3494e9b8d",
+        "langs": {
+          "es": {
+            "translatedHash": "482dd40d9cdb35993ffbd0c759c680f7306e9e7dc88a8ce045ef2f1559b859d8",
+            "updatedAt": "2026-02-25T01:31:53.460Z"
+          },
+          "pl": {
+            "translatedHash": "1bac38be6ebe2020913ebb1b15d5cde146d30b0e434b4fbdb063350b3c3a33f5",
+            "updatedAt": "2026-02-25T01:31:54.154Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b16cdaaff2cd1accd4e6eed546019038ed3dac044a4f1c26ec6572843e7576d2",
+        "langs": {
+          "es": {
+            "translatedHash": "b603f39c6d83dbbbb74b123685769cd6a0f72d564bb77d231b593772a7e18188",
+            "updatedAt": "2026-02-25T01:31:54.761Z"
+          },
+          "pl": {
+            "translatedHash": "6e38c5c20fdf825291078ac211ac5a82335a3b57fb30c34c1908e3f3bfaa3859",
+            "updatedAt": "2026-02-25T01:31:55.401Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Kanty, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Jan Kanty, kapłan — wspomnienie dowolne",
+  "feast_es": "El Vigésimo Tercer Día de Diciembre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Grudnia"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "12-12_the_twelfth_day_of_december",
+  "name": "The Twelfth Day of December",
+  "mmdd": "12-12",
+  "feast": "The Twelfth Day of December",
+  "summary": "Twelfth Night is a Christian festival on the last night of the Twelve Days of Christmas, marking the end of Christmastide and the coming of the Epiphany. Different traditions mark the date of Twelfth Night as either 5 January or 6 January, depending on whether the counting begins on Christmas Day or 26 December. 6 January is celebrated as the feast of Epiphany, which begins the Epiphanytide season.",
+  "biography": "Twelfth Night (also known as Epiphany Eve depending upon the tradition) is a Christian festival on the last night of the Twelve Days of Christmas, marking the end of Christmastide and the coming of the Epiphany. Different traditions mark the date of Twelfth Night as either 5 January or 6 January, depending on whether the counting begins on Christmas Day or 26 December. 6 January is celebrated as the feast of Epiphany, which begins the Epiphanytide season.\nA superstition in English-speaking countries suggests it is unlucky to remove Christmas decorations before Twelfth Night (or to leave them up after Twelfth Night). Other popular customs include eating king cake, singing Christmas carols, chalking the door, having one's house blessed, merrymaking, and attending church services.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Twelfth_Night_(holiday)"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-12_the_twelfth_day_of_december.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "435353312e1e249425021a38573de85e2fb8aef929b3c552b25a787dad8d0439",
+        "langs": {
+          "es": {
+            "translatedHash": "ce2782bd43fa90ac5010de276cba4b3196a3bf291c52f5a96ccebc969ef73251",
+            "updatedAt": "2026-02-25T01:25:07.962Z"
+          },
+          "pl": {
+            "translatedHash": "8a2b10f0f6eb2f4aed07c42550fddc88bbc7c64d9477e6dc82dd57f9884d21c8",
+            "updatedAt": "2026-02-25T01:25:08.464Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "435353312e1e249425021a38573de85e2fb8aef929b3c552b25a787dad8d0439",
+        "langs": {
+          "es": {
+            "translatedHash": "cf922c262956d51524d7478d5a3d57f6a5505b8e3e8d082ce46c1bdea0436baf",
+            "updatedAt": "2026-02-25T01:25:09.071Z"
+          },
+          "pl": {
+            "translatedHash": "0bd55adca1bbd1c66ea19e4016ee29c0f1b7cc83f4a2e86b5a9500b566f16406",
+            "updatedAt": "2026-02-25T01:25:10.836Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "05c4d0756e13601556f0571916f4fa8cbbb9bf9f418b676bf5a1cfeaa5b01522",
+        "langs": {
+          "es": {
+            "translatedHash": "e0d7a1ae89df6294de79293fbe213237c981a44141f0f3712986a5caf8144465",
+            "updatedAt": "2026-02-25T01:25:13.164Z"
+          },
+          "pl": {
+            "translatedHash": "071aa498f09ca6d3e0d2459f56322f3620eb7ce0515c8995665ee2c481c9c508",
+            "updatedAt": "2026-02-25T01:25:15.951Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b2cf27428b6638b3a47898b5025c9e35a4ddc4ad22ea2bd6f27c4d99543b17ef",
+        "langs": {
+          "es": {
+            "translatedHash": "303e0f7c109af811132cf1482572dc954c26075b217d00ec576763dd7d80c220",
+            "updatedAt": "2026-02-25T01:25:21.277Z"
+          },
+          "pl": {
+            "translatedHash": "3d50b7bcc372b3c31dfd6ec835c1ad4f7d69e2f6cb56bb5b9087154a2ef07155",
+            "updatedAt": "2026-02-25T01:25:26.160Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "El Duodécimo Día de Diciembre",
+  "name_pl": "Dwunasty dzień grudnia",
+  "feast_es": "El duodécimo día de diciembre",
+  "feast_pl": "Dwunasty Dzień Grudnia",
+  "summary_es": "La Noche de Reyes es una festividad cristiana en la última noche de los Doce Días de Navidad, que marca el fin del tiempo de Navidad y la llegada de la Epifanía. Diferentes tradiciones señalan la fecha de la Noche de Reyes como el 5 de enero o el 6 de enero, dependiendo de si el conteo comienza el día de Navidad o el 26 de diciembre. El 6 de enero se celebra como la fiesta de la Epifanía, que da inicio al tiempo de la Epifanía.",
+  "summary_pl": "Dwunasta Noc jest chrześcijańskim świętem obchodzonym w ostatnią noc Dwunastu Dni Bożego Narodzenia, oznaczającym koniec okresu Bożego Narodzenia i nadejście Objawienia Pańskiego. Różne tradycje ustalają datę Dwunastej Nocy na 5 stycznia lub 6 stycznia, w zależności od tego, czy liczenie rozpoczyna się w Boże Narodzenie, czy 26 grudnia. 6 stycznia obchodzone jest święto Objawienia Pańskiego, które rozpoczyna okres Objawienia.",
+  "biography_es": "La Noche de Reyes (también conocida como la Víspera de la Epifanía, según la tradición) es una festividad cristiana en la última noche de los Doce Días de Navidad, que marca el fin del tiempo navideño y la llegada de la Epifanía. Diferentes tradiciones señalan la fecha de la Noche de Reyes ya sea el 5 de enero o el 6 de enero, dependiendo de si el conteo comienza el día de Navidad o el 26 de diciembre. El 6 de enero se celebra la fiesta de la Epifanía, que da inicio al tiempo de la Epifanía.\n\nUna superstición en los países de habla inglesa sugiere que es de mala suerte quitar las decoraciones navideñas antes de la Noche de Reyes (o dejarlas después de la Noche de Reyes). Otras costumbres populares incluyen comer rosca de reyes, cantar villancicos, marcar la puerta con tiza, bendecir la casa, celebrar con alegría y asistir a los servicios religiosos.",
+  "biography_pl": "Dwunasta Noc (znana również jako Wigilia Objawienia Pańskiego, w zależności od tradycji) jest chrześcijańskim świętem obchodzonym w ostatnią noc Dwunastu Dni Bożego Narodzenia, oznaczającym koniec okresu Bożego Narodzenia i nadejście Objawienia Pańskiego. Różne tradycje wyznaczają datę Dwunastej Nocy na 5 stycznia lub 6 stycznia, w zależności od tego, czy liczenie rozpoczyna się w Boże Narodzenie, czy 26 grudnia. 6 stycznia obchodzone jest święto Objawienia Pańskiego, które rozpoczyna okres Objawienia.\n\nW krajach anglojęzycznych istnieje przesąd, że przynoszenie do domu lub usuwanie dekoracji bożonarodzeniowych przed Dwunastą Nocą jest pechowe (lub pozostawianie ich po Dwunastej Nocy). Inne popularne zwyczaje to jedzenie ciasta królewskiego, śpiewanie kolęd, kreślenie kredą na drzwiach, poświęcanie domu, zabawy i uczestnictwo w nabożeństwach."
+}

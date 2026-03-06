@@ -1,0 +1,79 @@
+{
+  "id": "09-01_saint_giles",
+  "name": "Saint Giles",
+  "mmdd": "09-01",
+  "feast": "The First Day of September",
+  "summary": "Saint Giles, also known as Giles the Hermit, was a hermit or monk active in the lower Rhône most likely in the 7th century. Revered as a saint, his cult became widely diffused but his hagiography is mostly legendary. A town that bears his name grew up around the monastery he purportedly founded, which became a pilgrimage centre and a stop on the Way of Saint James.",
+  "biography": "Saint Giles (, Latin: Aegidius, French: Gilles, Italian: Egidio, Spanish: Gil; c. 650 - c. 710), also known as Giles the Hermit, was a hermit or monk active in the lower Rhône most likely in the 7th century. Revered as a saint, his cult became widely diffused but his hagiography is mostly legendary. A town that bears his name grew up around the monastery he purportedly founded, which became a pilgrimage centre and a stop on the Way of Saint James. Historicity The legend of Giles connects him to Caesarius of Arles, who died in 543. In 514, Caesarius sent a messenger, Messianus, to Pope Symmachus in the company of an abbot named Aegidius. It is possible that this abbot is the historical figure at the basis of the legend of Saint Giles. There are two forged Papal bulls purporting to have been issued by Pope John VIII in 878. Sometimes taken as authentic, they record that the Visigothic king Wamba founded a monastery for Giles and that Pope Benedict II granted a charter to this foundation in 684–685. In actuality, the monastery was not dedicated to Saint Giles before c. 910. The tomb of Giles dates to the correct historical period, but the inscription is from the 10th century. �...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Giles",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-01_saint_giles.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c698ed35b3a2c18e357915e745c92fbd87bdda546479e41f582d833dd35028ee",
+        "langs": {
+          "es": {
+            "translatedHash": "a1b34b475091c66e19d1d7e12a08720a1ce30e4141612262b22a57d153b78666",
+            "updatedAt": "2026-02-25T00:24:16.845Z"
+          },
+          "pl": {
+            "translatedHash": "70cbff4d0335c9a0a72199a5ece2af686ab654fb25e3b4fae507e1115cc6b8e5",
+            "updatedAt": "2026-02-25T00:24:17.284Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "93569ca5a1756d2f7783976ed25e42154a7ca8786804be2ce223b13d606c6350",
+        "langs": {
+          "es": {
+            "translatedHash": "4dffad0a8a88a00590afb7c9f0cc4a0dededf8575d92849551067a58a6b7a899",
+            "updatedAt": "2026-02-25T00:24:17.847Z"
+          },
+          "pl": {
+            "translatedHash": "6c33b8c4e3056984f7d059bd132c1f57eefd8f9c6354d26c32bff9f51f4266a5",
+            "updatedAt": "2026-02-25T00:24:18.437Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "27a174184225d738607d139530e7b3f253804b901b0e2638dc5c721909d58abe",
+        "langs": {
+          "es": {
+            "translatedHash": "56e408c3214924e2229459f3e8429a19561f01e7cbe14a1d202605fbd7636f86",
+            "updatedAt": "2026-02-25T00:24:20.471Z"
+          },
+          "pl": {
+            "translatedHash": "c4d2fac7f49debf05585f8301343716d80c9d51fd895cfb0d6d902b78c061443",
+            "updatedAt": "2026-02-25T00:24:22.533Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "5095cda47147401682d7a9e39c98662faf1e43770bdacc68aef99912adc96bc6",
+        "langs": {
+          "es": {
+            "translatedHash": "8c99ec0be2cc475a7852a3995a7c6306af93ecfd4bd312c5e692d99a1bd24b1c",
+            "updatedAt": "2026-02-25T00:24:26.775Z"
+          },
+          "pl": {
+            "translatedHash": "57b92690c990992d4cc2eb92d4470ca42121c010dc51cf803a4b475b01dc594e",
+            "updatedAt": "2026-02-25T00:24:31.935Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gil",
+  "name_pl": "Święty Aegidiusz",
+  "feast_es": "El Primer Día de Septiembre",
+  "feast_pl": "Pierwszy dzień września",
+  "summary_es": "San Gil, también conocido como Gil el Ermitaño, fue un ermitaño o monje activo en el bajo Ródano, probablemente en el siglo VII. Reverenciado como santo, su culto se difundió ampliamente, pero su hagiografía es mayormente legendaria. Una ciudad que lleva su nombre creció alrededor del monasterio que supuestamente fundó, el cual se convirtió en un centro de peregrinación y una parada en el Camino de Santiago.",
+  "summary_pl": "Święty Aegidiusz, znany również jako Aegidiusz Pustelnik, był pustelnikiem lub mnichem działającym w dolnym biegu Rodanu, najprawdopodobniej w VII wieku. Czczony jako święty, jego kult rozprzestrzenił się szeroko, jednak jego hagiografia jest w dużej mierze legendarna. Miasto noszące jego imię rozwinęło się wokół klasztoru, który rzekomo założył, stając się centrum pielgrzymkowym i przystankiem na Drodze św. Jakuba.",
+  "biography_es": "San Gil (latín: Aegidius, francés: Gilles, italiano: Egidio, español: Gil; c. 650 - c. 710), también conocido como Gil el Ermitaño, fue un ermitaño o monje activo en el bajo Ródano, probablemente en el siglo VII. Reverenciado como santo, su culto se difundió ampliamente, pero su hagiografía es mayormente legendaria. Una ciudad que lleva su nombre creció alrededor del monasterio que supuestamente fundó, el cual se convirtió en un centro de peregrinación y una parada en el Camino de Santiago.\n\nHistoricidad\n\nLa leyenda de Gil lo conecta con Cesáreo de Arlés, quien murió en 543. En 514, Cesáreo envió un mensajero, Messianus, al Papa Symmachus en compañía de un abad llamado Egidio. Es posible que este abad sea la figura histórica en la base de la leyenda de San Gil.\n\nExisten dos bulas papales falsificadas que supuestamente fueron emitidas por el Papa Juan VIII en 878. A veces tomadas como auténticas, registran que el rey visigodo Wamba fundó un monasterio para Gil y que el Papa Benedicto II concedió una carta a esta fundación en 684–685. En realidad, el monasterio no fue dedicado a San Gil antes de c. 910. La tumba de Gil data del período histórico correcto, pero la inscripción es del siglo X.  \n�...",
+  "biography_pl": "Święty Idzi (łac. Aegidius, fr. Gilles, wł. Egidio, hiszp. Gil; ok. 650 - ok. 710), znany również jako Idzi Pustelnik, był pustelnikiem lub mnichem działającym w dolnym biegu Rodanu, najprawdopodobniej w VII wieku. Czczony jako święty, jego kult stał się szeroko rozpowszechniony, jednak jego hagiografia jest w dużej mierze legendarna. Miasto noszące jego imię powstało wokół klasztoru, który rzekomo założył, a który stał się ośrodkiem pielgrzymkowym i przystankiem na Drodze św. Jakuba.\n\nHistoryczność  \nLegenda o Idzim łączy go z Cezarym z Arles, który zmarł w 543 roku. W 514 roku Cezary wysłał posłańca, Messianusa, do papieża Symmacha w towarzystwie opata o imieniu Egidiusz. Możliwe, że ten opat jest historyczną postacią będącą podstawą legendy o św. Idzim.  \n\nIstnieją dwie sfałszowane bulle papieskie rzekomo wydane przez papieża Jana VIII w 878 roku. Czasami uznawane za autentyczne, odnotowują one, że wizygocki król Wamba założył klasztor dla Idziego oraz że papież Benedykt II nadał tej fundacji przywilej w latach 684–685. W rzeczywistości klasztor nie był poświęcony św. Idziemu przed około 910 rokiem. Grób Idziego pochodzi z właściwego okresu historycznego, jednak inskrypcja jest z X wieku.  \n�..."
+}

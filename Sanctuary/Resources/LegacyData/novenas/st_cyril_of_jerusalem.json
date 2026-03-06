@@ -1,0 +1,272 @@
+{
+  "id": "st_cyril_of_jerusalem",
+  "title": "St Cyril of Jerusalem Novena",
+  "description": "St Cyril of Jerusalem was priest then bishop of the Church in the 300s. Pray this novena for catechists and catechumens wanting to enter the Church.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Cyril of Jerusalem"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 10
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-cyril-of-jerusalem-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y con el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También pedimos en particular por la intención de esta novena (mencionar la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, Boże, swój Kościół w sakramentach swojej łaski, abyśmy w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego mogli pełniej uczestniczyć w Twojej tajemnicy Paschalnej, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu wiary katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do ukształtowania naszego rozumu w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También pedimos en particular por la intención de esta novena (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, o Boże, swój Kościół w sakramentach swojej łaski, abyśmy, w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego, mogli pełniej uczestniczyć w Twojej tajemnicy Paschalnej, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu wiary katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do kształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo San Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, valiente defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También te pedimos en particular por la intención de esta novena (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, Boże, swój Kościół w sakramentach swojej łaski, abyśmy, w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego, mogli pełniej wejść w Twoją Paschalną tajemnicę, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu Wiary Katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do kształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También pedimos en particular por la intención de esta novena (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, o Boże, swój Kościół w sakramentach swojej łaski, abyśmy, w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego, mogli pełniej uczestniczyć w Twojej Paschalnej tajemnicy, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu Wiary Katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do ukształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y las oraciones de tu siervo San Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, valiente defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También te pedimos en particular por la intención de esta novena (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, Boże, swój Kościół w sakramentach swojej łaski, abyśmy, w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego, mogli pełniej wejść w Twoją Paschalną tajemnicę, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu wiary katolickiej przeciw heretykom i poganom, wyproś nam u Boga potrzebne łaski, abyśmy kształtowali nasze umysły w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También pedimos en particular por la intención de esta novena (mencionar petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, o Boże, swój Kościół w sakramentach swojej łaski, abyśmy w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego mogli pełniej uczestniczyć w Twojej tajemnicy Paschalnej, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu wiary katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do kształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestro intelecto en Su verdad, por Cristo nuestro Señor. También te pedimos en particular por la intención de esta novena (mencionar la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ruega por nosotros.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWzmocnij, Boże, swój Kościół w sakramentach swojej łaski, abyśmy, w jedności z nauczaniem i modlitwami Twojego sługi Cyryla Jerozolimskiego, mogli pełniej uczestniczyć w Twojej Paschalnej tajemnicy, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu Wiary Katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do kształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y oraciones de tu siervo Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También te pedimos en particular por la intención de esta novena (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, o Boże, swój Kościół w sakramentach swojej łaski, abyśmy, w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego, mogli pełniej wejść w Twoją Paschalną tajemnicę, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu Wiary Katolickiej przeciw heretykom i poganom, wyproś nam u Boga łaski potrzebne do ukształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nStrengthen, O God, your Church in the sacraments of your grace, that we, in union with the teaching and prayers of your servant Cyril of Jerusalem, may enter more fully into your Paschal mystery, through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen St Cyril, dauntless defender and teacher of the Catholic Faith against heretics and pagans, obtain for us the graces we need from God to form our intellects in His truth, through Christ our Lord. We also ask in particular for the intention of this novena (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Cyril of Jerusalem, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nFortalece, oh Dios, a tu Iglesia en los sacramentos de tu gracia, para que nosotros, en unión con la enseñanza y las oraciones de tu siervo San Cirilo de Jerusalén, podamos entrar más plenamente en tu misterio Pascual, por Jesucristo nuestro Señor, que vive y reina contigo y el Espíritu Santo, un solo Dios, por los siglos de los siglos. Amén.\n\nSan Cirilo, intrépido defensor y maestro de la Fe Católica contra herejes y paganos, obtén para nosotros las gracias que necesitamos de Dios para formar nuestros intelectos en Su verdad, por Cristo nuestro Señor. También te pedimos en particular por la intención de esta novena (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Cirilo de Jerusalén, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nUmocnij, o Boże, swój Kościół w sakramentach swojej łaski, abyśmy w jedności z nauką i modlitwami Twojego sługi Cyryla Jerozolimskiego mogli pełniej uczestniczyć w Twojej tajemnicy Paschalnej, przez Jezusa Chrystusa, Pana naszego, który żyje i króluje z Tobą i Duchem Świętym, jednym Bogiem, na wieki wieków. Amen.\n\nŚwięty Cyrylu, niezłomny obrońco i nauczycielu wiary katolickiej przeciwko heretykom i poganom, wyproś nam u Boga łaski potrzebne do kształtowania naszych umysłów w Jego prawdzie, przez Chrystusa Pana naszego. Prosimy także szczególnie o intencję tej nowenny (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Cyrylu Jerozolimski, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_cyril_of_jerusalem.jpg",
+  "sourceFacts": {
+    "starts": "March 10Feastday:March 19Birth:313Death:386Patron saint of catechists and catechumens wanting to enter the Church 📱",
+    "feast": "March 19Birth:313Death:386Patron saint of catechists and catechumens wanting to enter the Church 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "52f3d7aa9528529549452ed302af12ac6d97ef39dfb730dec02f7445624384d3",
+        "langs": {
+          "es": {
+            "translatedHash": "6a44d88f1e3ae4af8971e748efd5405573e0a78d039d81edd119eaae699b32cc",
+            "updatedAt": "2026-02-25T13:06:11.524Z"
+          },
+          "pl": {
+            "translatedHash": "9eb49f2e6c9d60506d46d16fbebd08e49f2ee90a71e26fc97d24392fb6f12c5b",
+            "updatedAt": "2026-02-25T13:06:12.393Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "7677081be2f4a989ee3f9d71e3df9eaeaf07f7e25d7a9c62fe00d67498c4833b",
+        "langs": {
+          "es": {
+            "translatedHash": "095cad8d19ccd7b9afe13f481835eee0cf6288b626fc75477c50fe370a88e1a6",
+            "updatedAt": "2026-02-25T13:06:13.508Z"
+          },
+          "pl": {
+            "translatedHash": "bacc6e6abd9bd4db1a0c3116fa34c0e27a9e78d6bc0242fdc9f29d099fa00420",
+            "updatedAt": "2026-02-25T13:06:14.990Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "baaa4c145dfabaad2aae242fdff48721d849095151c49c043c4cc1dd9ecf0a8b",
+        "langs": {
+          "es": {
+            "translatedHash": "ebb5bc6f055af9b992fe4d7f8c85fcc2693b63dcb7e6ac7c0a71a161604c0e53",
+            "updatedAt": "2026-02-25T13:06:18.572Z"
+          },
+          "pl": {
+            "translatedHash": "a49a1cbb51e62d45c5340e7c6d3633e4d408847c382b85a1cebe459ed7ffaabe",
+            "updatedAt": "2026-02-25T13:06:23.282Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "67a4709d4ac818b0b7f28dd01a2c9e3475fb6b65941afcc628ae4fb12c38709a",
+        "langs": {
+          "es": {
+            "translatedHash": "2485624448acfc22c3d420324dd5b6883bdcd16e47b5498205513514efbf9788",
+            "updatedAt": "2026-02-25T13:06:27.012Z"
+          },
+          "pl": {
+            "translatedHash": "6fc24b9cb76992423222a67877a0f66dfc65c942266689cf725c24c5f2050b94",
+            "updatedAt": "2026-02-25T13:06:33.199Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "97d9092d1141b6391ee3b97d05e979d5f69dbed0707192fa10f703a5ae332665",
+        "langs": {
+          "es": {
+            "translatedHash": "a917d963afe9b53ae0e4bcce4c5c3473f0c44b9dcbec743b10592f2eeacd9073",
+            "updatedAt": "2026-02-25T13:06:36.753Z"
+          },
+          "pl": {
+            "translatedHash": "a9f0fb039687793138418be80c9d61c95e7fe08266935e144823d8122839492b",
+            "updatedAt": "2026-02-25T13:06:42.582Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "65194b48e68f279d79cbe22416bdda80cb12b22098fcfade0f9c864abedec5ef",
+        "langs": {
+          "es": {
+            "translatedHash": "2485624448acfc22c3d420324dd5b6883bdcd16e47b5498205513514efbf9788",
+            "updatedAt": "2026-02-25T13:06:46.835Z"
+          },
+          "pl": {
+            "translatedHash": "0511e478a225a4006e4e81f510c4314b95238b35171f95b86d9d5d8028c95887",
+            "updatedAt": "2026-02-25T13:06:50.497Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "0ddcbcbb99f67eb008e5a27629f03bea7be726814ffb780ca844799d26695dee",
+        "langs": {
+          "es": {
+            "translatedHash": "c67fc775ff6a8ce550a99104ae48de03c143cdfd6c99c015b430b5371c830224",
+            "updatedAt": "2026-02-25T13:06:54.269Z"
+          },
+          "pl": {
+            "translatedHash": "02e68bc1c74aa7b63c1edaea2c0536c91ef5c3e5c710ac39895003870289cb26",
+            "updatedAt": "2026-02-25T13:06:58.781Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "ae77d644e8dba370b90483b7fd65a740a9cebf216d70408fafadd5d6350abc69",
+        "langs": {
+          "es": {
+            "translatedHash": "5ee663eda74292bdec9eafbc9901b1835fb369d3ffe90948c2dca0d9d4b65a5d",
+            "updatedAt": "2026-02-25T13:07:02.764Z"
+          },
+          "pl": {
+            "translatedHash": "ebf138c6ff6e467a3b5e4221256da5beaf4a4507fd7665d24962996d1e61d029",
+            "updatedAt": "2026-02-25T13:07:07.591Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "0b281474ef74dc47293ecc8f8fdff619b715e96a877b80e2c5409d8ffb564eb6",
+        "langs": {
+          "es": {
+            "translatedHash": "1f410561dc11693e5a3a698bb0ca8563a9364f6bcc5fe17806983cc6fc73008d",
+            "updatedAt": "2026-02-25T13:07:10.761Z"
+          },
+          "pl": {
+            "translatedHash": "f81489ec6597c5861e0ed13bd6032d3b0e7e248f174bec0e5d24fcdc9b5af932",
+            "updatedAt": "2026-02-25T13:07:17.069Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "dc11ccf823b9d247ddb7e5e1e2411174cceab1e584878c20e1ac4821192eaf45",
+        "langs": {
+          "es": {
+            "translatedHash": "b9c287e96811b831c932ed0468a8207599319eaca9bc455df79395b5fed78e8d",
+            "updatedAt": "2026-02-25T13:07:20.682Z"
+          },
+          "pl": {
+            "translatedHash": "f2eb1575323fe5cd9949c0690fb1fbfea583beabbeceeda4ad6a07b9567091f7",
+            "updatedAt": "2026-02-25T13:07:28.665Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "c2fff1d9c82fb4a71dd614448d202ff9b8e8f38e5ffcea9e0db0b8cb2e11516f",
+        "langs": {
+          "es": {
+            "translatedHash": "2427347d01b8fb8ad0ea6436ead2afdd0982a0b299b9dc4e05cbb9ec359fba0c",
+            "updatedAt": "2026-02-25T13:07:32.500Z"
+          },
+          "pl": {
+            "translatedHash": "9327a2fd2e528c77ef54437eba733a04e30cf1acfe0a78c87bc4df5b8d4d38dc",
+            "updatedAt": "2026-02-25T13:07:36.354Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Cirilo de Jerusalén",
+  "title_pl": "Nowenna św. Cyryla Jerozolimskiego",
+  "description_es": "San Cirilo de Jerusalén fue sacerdote y luego obispo de la Iglesia en el siglo III. Reza esta novena por los catequistas y catecúmenos que desean ingresar a la Iglesia.",
+  "description_pl": "Św. Cyryl Jerozolimski był kapłanem, a następnie biskupem Kościoła w IV wieku. Módl się tę nowennę za katechetów i katechumenów pragnących wejść do Kościoła.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-cyril-of-jerusalem-novena/"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "12-20_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "12-20",
+  "feast": "The Twentieth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:29:53.545Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:29:54.205Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "501295a61c387877b840945f38eb91121400e46debd0ff6d6b11a792906294f1",
+        "langs": {
+          "es": {
+            "translatedHash": "245178935e1d5e3d976571207d27ed9c736ff185cbb27cb9e0194c5a6685e458",
+            "updatedAt": "2026-02-25T01:29:54.861Z"
+          },
+          "pl": {
+            "translatedHash": "3af01699e328c5462b6b265cca3b315c0c5ebbf280798e9cd5f4c947cd4d773c",
+            "updatedAt": "2026-02-25T01:29:55.609Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo día de diciembre",
+  "feast_pl": "Dwudziesty dzień grudnia"
+}

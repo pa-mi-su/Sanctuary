@@ -1,0 +1,48 @@
+{
+  "id": "09-23_saint_pio_of_pietrelcina_padre_pio_priest_memorial",
+  "name": "Saint Pio of Pietrelcina (Padre Pio), Priest—Memorial",
+  "mmdd": "09-23",
+  "feast": "The Twenty-Third Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_XXIII"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-23_saint_pio_of_pietrelcina_padre_pio_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "10f766d9211ae78ac2c2631344dfe1824c386d3429a3c5a7d1e577032e65a0e4",
+        "langs": {
+          "es": {
+            "translatedHash": "534cee65ab4b569c1a225cd8a45fd68cb0e7a436f7235b09f3976428227dac41",
+            "updatedAt": "2026-02-25T00:36:13.888Z"
+          },
+          "pl": {
+            "translatedHash": "8fc15d241d5b1e3ed8c450afe4897dd6b97c28241e9a2e594729189c1b7079cc",
+            "updatedAt": "2026-02-25T00:36:14.922Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ae7abb0b9a7a369cac9977e452ebaa889f4a0b1138adf9113f423662349685b8",
+        "langs": {
+          "es": {
+            "translatedHash": "60a8522d087704884be4967b0bfe99e86c97c55e1dea3a96ada92bc8e7ed6522",
+            "updatedAt": "2026-02-25T00:36:15.431Z"
+          },
+          "pl": {
+            "translatedHash": "995de0853797ea53d211b2590475d4c9f27f59322aae112675a517aa44bc991b",
+            "updatedAt": "2026-02-25T00:36:16.479Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pío de Pietrelcina (Padre Pío), Sacerdote—Memoria",
+  "name_pl": "Święty Pio z Pietrelciny (Ojciec Pio), kapłan — wspomnienie",
+  "feast_es": "El vigésimo tercer día de septiembre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Września"
+}

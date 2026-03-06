@@ -1,0 +1,48 @@
+{
+  "id": "11-01_all_saints_solemnity",
+  "name": "All Saints—Solemnity",
+  "mmdd": "11-01",
+  "feast": "The First Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemnity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-01_all_saints_solemnity.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7ad700e7f67213b2427aa7a312f1e7a3ed0f15bbb9ade9c6483230cfd42a5439",
+        "langs": {
+          "es": {
+            "translatedHash": "21b677be3f107c7cb156844e981fd265582196d8fe825ee54e294ed22997d41d",
+            "updatedAt": "2026-02-25T00:59:54.260Z"
+          },
+          "pl": {
+            "translatedHash": "74fb135cd2c0cc9b38ead0ff4fb57d89dedce64fc4ef5b4737ed18de3f0e9d5f",
+            "updatedAt": "2026-02-25T00:59:55.058Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e991bd093212abe26868ced6046329366c3e9a543f65cdc2155264f2d5fac81c",
+        "langs": {
+          "es": {
+            "translatedHash": "e3d6ecf4bfcf62e7bc0ed0b6b610b77c3c875cef7a06ad8109b426436d2594cf",
+            "updatedAt": "2026-02-25T00:59:55.889Z"
+          },
+          "pl": {
+            "translatedHash": "a6601d89417eeebcf47d1e98b3ba4d0ad56d1e120ee915e89c4c2c000281f144",
+            "updatedAt": "2026-02-25T00:59:56.857Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos—Solemnidad",
+  "name_pl": "Wszystkich Świętych — Uroczystość",
+  "feast_es": "El Primero de Noviembre",
+  "feast_pl": "Pierwszy dzień listopada"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "11-08_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-08",
+  "feast": "The Eighth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:03:46.335Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:03:47.337Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f874555a6bb44a6264da326c21334ac86e59b5f53f39c00f71378c3add1dbdf9",
+        "langs": {
+          "es": {
+            "translatedHash": "66fae4d65ccc92313ea50077636104d927e18a309dfb70a6c815724659838d74",
+            "updatedAt": "2026-02-25T01:03:48.156Z"
+          },
+          "pl": {
+            "translatedHash": "72cd5555d528f64cd3f65bb0ecbd900ce5833cfe07b9b002fddf08c4f2101c08",
+            "updatedAt": "2026-02-25T01:03:48.794Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El octavo día de noviembre",
+  "feast_pl": "Ósmy dzień listopada"
+}

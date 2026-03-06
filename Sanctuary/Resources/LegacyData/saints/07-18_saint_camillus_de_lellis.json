@@ -1,0 +1,79 @@
+{
+  "id": "07-18_saint_camillus_de_lellis",
+  "name": "Saint Camillus de Lellis",
+  "mmdd": "07-18",
+  "feast": "The Eighteenth Day of July",
+  "summary": "Camillus de Lellis, M.I., was an Italian Catholic priest who founded the Camillians, a religious order dedicated to the care of the sick. He was beatified by Pope Benedict XIV in the year 1742, and canonized by him four years later in 1746. De Lellis is the patron saint of the sick, hospitals, nurses and physicians. His assistance is also invoked against gambling.",
+  "biography": "Camillus de Lellis, M.I., was an Italian Catholic priest who founded the Camillians, a religious order dedicated to the care of the sick. He was beatified by Pope Benedict XIV in the year 1742, and canonized by him four years later in 1746. De Lellis is the patron saint of the sick, hospitals, nurses and physicians. His assistance is also invoked against gambling.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Camillus_de_Lellis",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-18_saint_camillus_de_lellis.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "172e82518ba80209e0f31283ffbae4105bc4b99e4a4e758740ee04e3411b784f",
+        "langs": {
+          "es": {
+            "translatedHash": "1ae1021c4218933ed299ba4731df2db703c5ad40e1fbb11fcfdc4c1185ce78fe",
+            "updatedAt": "2026-02-24T23:59:42.562Z"
+          },
+          "pl": {
+            "translatedHash": "fd57b53af749f10681f0902443299d741b014b909f73098aadb2983851a59bd1",
+            "updatedAt": "2026-02-24T23:59:43.145Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1330bcfacaa4930b6d5d4e7a9b872f9ddb152fd46a2e625270248f634d66d588",
+        "langs": {
+          "es": {
+            "translatedHash": "dd5ea02670a43e7e829e43ad6488c73408b980aa8a54fe674427690e21757036",
+            "updatedAt": "2026-02-24T23:59:43.686Z"
+          },
+          "pl": {
+            "translatedHash": "833163a175ab83a6b46cadf46a615d6be4e5a0bd1736a0d4b9b075fe6c0e605e",
+            "updatedAt": "2026-02-24T23:59:44.495Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "888133022b6f857a022be20bac53d1d48faef9c0d53c99f576700941869d603e",
+        "langs": {
+          "es": {
+            "translatedHash": "10b1aa68b416714d8e20e27a1f9f37e369cc315e2c51018bc80ed3531a8abb4c",
+            "updatedAt": "2026-02-24T23:59:46.386Z"
+          },
+          "pl": {
+            "translatedHash": "ac49ff5735c0bee421a2e006d37a0807638af7a9a6e9b1d58b24357de49fd6ce",
+            "updatedAt": "2026-02-24T23:59:48.915Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "888133022b6f857a022be20bac53d1d48faef9c0d53c99f576700941869d603e",
+        "langs": {
+          "es": {
+            "translatedHash": "10b1aa68b416714d8e20e27a1f9f37e369cc315e2c51018bc80ed3531a8abb4c",
+            "updatedAt": "2026-02-24T23:59:50.446Z"
+          },
+          "pl": {
+            "translatedHash": "c337453847ca7435541c7255e2cc7b2e77f1ca9132a4cb212068b991f0f5888f",
+            "updatedAt": "2026-02-24T23:59:54.010Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Camilo de Lelis",
+  "name_pl": "Święty Kamil de Lellis",
+  "feast_es": "El día dieciocho de julio",
+  "feast_pl": "Osiemnasty dzień lipca",
+  "summary_es": "Camilo de Lelis, M.I., fue un sacerdote católico italiano que fundó a los Camilos, una orden religiosa dedicada al cuidado de los enfermos. Fue beatificado por el Papa Benedicto XIV en el año 1742, y canonizado por él cuatro años después, en 1746. De Lelis es el santo patrón de los enfermos, hospitales, enfermeros y médicos. También se invoca su ayuda contra el juego.",
+  "summary_pl": "Camillus de Lellis, M.I., był włoskim księdzem katolickim, który założył zakon kamilianów, zakon poświęcony opiece nad chorymi. Został beatyfikowany przez papieża Benedykta XIV w roku 1742, a kanonizowany przez niego cztery lata później, w 1746 roku. De Lellis jest patronem chorych, szpitali, pielęgniarek i lekarzy. Jego pomoc jest również wzywana przeciwko hazardowi.",
+  "biography_es": "Camilo de Lelis, M.I., fue un sacerdote católico italiano que fundó a los Camilos, una orden religiosa dedicada al cuidado de los enfermos. Fue beatificado por el Papa Benedicto XIV en el año 1742, y canonizado por él cuatro años después, en 1746. De Lelis es el santo patrón de los enfermos, hospitales, enfermeros y médicos. También se invoca su ayuda contra el juego.",
+  "biography_pl": "Kamil de Lellis, M.I., był włoskim księdzem katolickim, który założył zakon kamilianów, zakon poświęcony opiece nad chorymi. Został beatyfikowany przez papieża Benedykta XIV w roku 1742, a kanonizowany przez niego cztery lata później, w 1746 roku. De Lellis jest patronem chorych, szpitali, pielęgniarek i lekarzy. Jego wstawiennictwo jest również wzywane przeciwko hazardowi."
+}

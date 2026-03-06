@@ -1,0 +1,79 @@
+{
+  "id": "07-25_saint_james",
+  "name": "Saint James",
+  "mmdd": "07-25",
+  "feast": "The Twenty-Fifth Day of July",
+  "summary": "James the Great was one of the Twelve Apostles of Jesus. According to the New Testament, he was the second of the apostles to die, after Judas Iscariot, and the first to be martyred. Saint James is the patron saint of Spain and, according to tradition, what are believed to be his remains are held in Santiago de Compostela in Galicia, Spain.",
+  "biography": "James the Great (Koine Greek: Ἰάκωβος, romanized: Iákōbos; Classical Syriac: ܝܥܩܘܒ, romanized: Yaʿqōḇ; died c. 44) was one of the Twelve Apostles of Jesus. According to the New Testament, he was the second of the apostles to die, after Judas Iscariot, and the first to be martyred. Saint James is the patron saint of Spain and, according to tradition, what are believed to be his remains are held in Santiago de Compostela in Galicia, Spain. He is also known as James, son of Zebedee, James, brother of John, Saint James the Great, Saint James the Greater, St. James Son of Thunder, St. James the Major, Saint James the Elder, or Saint Jacob, James the Apostle or Santiago. In the New Testament James was born into a family of Jewish fishermen on the Sea of Galilee. His parents were Zebedee and Salome. Salome was a sister of Mary (mother of Jesus) which made James the Great a cousin of Jesus. James is styled \"the Greater\" to distinguish him from the other apostle James \"the Lesser,\" with \"greater\" meaning older or taller, rather than more important. James the Great was the brother of John the Apostle. James is described as one of the first disciples to join Jesus. The Synoptic Gospels...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/James_the_Great",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-25_saint_james.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a4618abcf7c2e65a97fa77cc1a12b97851918ffb2aa1a40356ea876c95b5a2c0",
+        "langs": {
+          "es": {
+            "translatedHash": "db6c447d9696c437981fc38a044e9f3a11e0867c438c006dfea7d8f1275ef251",
+            "updatedAt": "2026-02-25T00:03:49.356Z"
+          },
+          "pl": {
+            "translatedHash": "9941380fb29fb6c31745ecf0013a47213c14e91f8cfa06a32c66afec8f9eff94",
+            "updatedAt": "2026-02-25T00:03:50.179Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cbeb4a4ec2511c61007c61abe6da854eed6620dc6e3c3478212dd650b553cb4b",
+        "langs": {
+          "es": {
+            "translatedHash": "d0c08089626fb73b1abf7dce4bf31cd3d38cbfa3e0a531b7bc3d67c3d34729f4",
+            "updatedAt": "2026-02-25T00:03:51.353Z"
+          },
+          "pl": {
+            "translatedHash": "f5edb0d23581c07c286d5e1058412a26cc49401d39144d9e39c8d2a704029ba4",
+            "updatedAt": "2026-02-25T00:03:52.048Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4b5daf33579e689cceacc7e4572c9616bbfc197d617ece1f6032a2b0ffc6fdb3",
+        "langs": {
+          "es": {
+            "translatedHash": "dc6a0d5e4a57f56b57d5ad475b3a80a7ddb3499f084c41931cd4d3bf36c3663c",
+            "updatedAt": "2026-02-25T00:03:53.861Z"
+          },
+          "pl": {
+            "translatedHash": "62f6ad25985f719426f5b1632122da05d37c27d51b00bfcbae8339f614e9114d",
+            "updatedAt": "2026-02-25T00:03:55.819Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ec488c1f51918d13f9fff67f8a6085271ee5b99502007b6dcae33a9ab3fc2f18",
+        "langs": {
+          "es": {
+            "translatedHash": "51e1eeac09b7b5f7ccff78c114c7a1b05494401578414f06671b35008b4dbfa6",
+            "updatedAt": "2026-02-25T00:04:01.296Z"
+          },
+          "pl": {
+            "translatedHash": "53c383a280dc151497837e6dfeef7911a283b85150344ac8578abd92e29902d5",
+            "updatedAt": "2026-02-25T00:04:07.866Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Santiago",
+  "name_pl": "Święty Jakub",
+  "feast_es": "El vigésimo quinto día de julio",
+  "feast_pl": "Dwudziesty piąty dzień lipca",
+  "summary_es": "Santiago el Mayor fue uno de los Doce Apóstoles de Jesús. Según el Nuevo Testamento, fue el segundo de los apóstoles en morir, después de Judas Iscariote, y el primero en ser martirizado. San Santiago es el santo patrón de España y, según la tradición, lo que se cree que son sus restos se conservan en Santiago de Compostela en Galicia, España.",
+  "summary_pl": "Jakub Większy był jednym z Dwunastu Apostołów Jezusa. Według Nowego Testamentu był drugim z apostołów, który zmarł, po Judaszu Iskariocie, i pierwszym, który poniósł męczeńską śmierć. Święty Jakub jest patronem Hiszpanii, a według tradycji, to co uważa się za jego relikwie, przechowywane są w Santiago de Compostela w Galicji, w Hiszpanii.",
+  "biography_es": "Santiago el Mayor (griego koiné: Ἰάκωβος, romanizado: Iákōbos; siríaco clásico: ܝܥܩܘܒ, romanizado: Yaʿqōḇ; fallecido c. 44) fue uno de los Doce Apóstoles de Jesús. Según el Nuevo Testamento, fue el segundo de los apóstoles en morir, después de Judas Iscariote, y el primero en ser martirizado. San Santiago es el santo patrón de España y, según la tradición, lo que se cree que son sus restos se conservan en Santiago de Compostela, en Galicia, España. También es conocido como Santiago, hijo de Zebedeo, Santiago, hermano de Juan, Santiago el Mayor, Santiago el Grande, Santiago el Hijo del Trueno, Santiago el Mayor, Santiago el Viejo o San Jacobo, Santiago el Apóstol o Santiago. En el Nuevo Testamento, Santiago nació en una familia de pescadores judíos en el Mar de Galilea. Sus padres fueron Zebedeo y Salomé. Salomé era hermana de María (madre de Jesús), lo que hacía a Santiago el Mayor primo de Jesús. Santiago es llamado \"el Mayor\" para distinguirlo del otro apóstol Santiago \"el Menor\", siendo \"mayor\" un término que indica mayor edad o estatura, más que mayor importancia. Santiago el Mayor fue hermano del apóstol Juan. Santiago es descrito como uno de los primeros discípulos en unirse a Jesús. Los Evangelios sinópticos...",
+  "biography_pl": "Jakub Większy (grecka koiné: Ἰάκωβος, romanizowane: Iákōbos; klasyczna syryjska: ܝܥܩܘܒ, romanizowane: Yaʿqōḇ; zmarł ok. 44) był jednym z Dwunastu Apostołów Jezusa. Według Nowego Testamentu był drugim z apostołów, który zginął, po Judaszu Iskariocie, i pierwszym, który poniósł męczeńską śmierć. Święty Jakub jest patronem Hiszpanii, a według tradycji jego szczątki przechowywane są w Santiago de Compostela w Galicji, Hiszpania. Znany jest również jako Jakub, syn Zebedeusza, Jakub, brat Jana, św. Jakub Większy, św. Jakub Starszy, św. Jakub Syn Gromu, św. Jakub Główny, św. Jakub Starszy, lub św. Jakub Apostoł, czy Santiago. W Nowym Testamencie Jakub urodził się w rodzinie żydowskich rybaków nad Jeziorem Galilejskim. Jego rodzicami byli Zebedeusz i Salome. Salome była siostrą Maryi (matki Jezusa), co czyniło Jakuba Większego kuzynem Jezusa. Jakub nazywany jest „Większym”, aby odróżnić go od drugiego apostoła Jakuba „Mniejszego”, gdzie „większy” oznacza starszy lub wyższy, a nie ważniejszy. Jakub Większy był bratem Jana Apostoła. Jakub jest opisany jako jeden z pierwszych uczniów, którzy dołączyli do Jezusa. Ewangelie synoptyczne..."
+}

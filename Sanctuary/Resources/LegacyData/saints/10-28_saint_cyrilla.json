@@ -1,0 +1,79 @@
+{
+  "id": "10-28_saint_cyrilla",
+  "name": "Saint Cyrilla",
+  "mmdd": "10-28",
+  "feast": "The Twenty-Eighth Day of October",
+  "summary": "Cyrilla Mozenter is a New York-based artist known for her hand stitched industrial wool felt freestanding and wall pieces that include the transplantation of cutout letters, letter-derived, and pictogram-like shapes, as well as her hybrid works on paper, incorporating drawing, writing, painting, and collage. Her works make reference to the writings of Gertrude Stein. Awarded a Guggenheim Fellowship in 2020, her work is represented in many public collections including The Brooklyn Museum and The Yale University Art Gallery.",
+  "biography": "Justin the Confessor was a Christian martyr in the Roman Empire. He is honoured as a saint by the Roman Catholic Church and Eastern Orthodox Church.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyrilla_Mozenter",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-28_saint_cyrilla.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e9925194dbe781a90333d2aee429f64bcf0e5cbf2165ec0245eb4b659f6804a2",
+        "langs": {
+          "es": {
+            "translatedHash": "a8c02d41c43fffc5d8688975868dec9d041648dd34e7f1ab0cb75ebcf924c6d8",
+            "updatedAt": "2026-02-25T00:57:26.068Z"
+          },
+          "pl": {
+            "translatedHash": "2c679dc5d4fb63ccdf9a5a96c5bb59cda06a30272a10d924ff2378230830307c",
+            "updatedAt": "2026-02-25T00:57:26.701Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5ac823fd4befab6bfdd4e990aeb7223db8904071d91648fa4da8aeddaff2f769",
+        "langs": {
+          "es": {
+            "translatedHash": "d678a5c749b77263c170e4cca950fc35864412d07d0c887cd6bb07079930db3d",
+            "updatedAt": "2026-02-25T00:57:27.373Z"
+          },
+          "pl": {
+            "translatedHash": "b304e7fe078a3ec0375d9fb03d82811b2965cb6642dc75bb5722e33962e9c0b3",
+            "updatedAt": "2026-02-25T00:57:28.242Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "10a18efbf5ea32bf0b0667bd574ba97f8744c4c8afd8afe7c9def398b25fad96",
+        "langs": {
+          "es": {
+            "translatedHash": "cffb9a4b088b19b238b9fa9bfd558b9bcb6382fcee2245b41d4270ab46d2e914",
+            "updatedAt": "2026-02-25T00:57:31.202Z"
+          },
+          "pl": {
+            "translatedHash": "7d36e2043b901e50482e0a987f108e84f4023a59fd579b55513a25f288a65299",
+            "updatedAt": "2026-02-25T00:57:34.303Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "17ce667dedc59c3134f0fd364356a8534e8035a2dde2fcda1c080db243cd0009",
+        "langs": {
+          "es": {
+            "translatedHash": "9156d317977972602c17f63e7ef60e2532757a7355806aea1704218abf282c13",
+            "updatedAt": "2026-02-25T00:57:35.296Z"
+          },
+          "pl": {
+            "translatedHash": "5095ff781405a94f4733e46522c865b02d6187dfc5f75870183c1f1c7b88cd93",
+            "updatedAt": "2026-02-25T00:57:36.497Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Cirila",
+  "name_pl": "Święta Cyrilla",
+  "feast_es": "El Vigésimo Octavo Día de Octubre",
+  "feast_pl": "Dwudziesty ósmy dzień października",
+  "summary_es": "Cyrilla Mozenter es una artista radicada en Nueva York, conocida por sus piezas independientes y murales de fieltro industrial de lana cosidas a mano, que incluyen el trasplante de letras recortadas, formas derivadas de letras y formas similares a pictogramas, así como por sus obras híbridas sobre papel, que incorporan dibujo, escritura, pintura y collage. Sus obras hacen referencia a los escritos de Gertrude Stein. Galardonada con una beca Guggenheim en 2020, su trabajo está representado en muchas colecciones públicas, incluyendo el Museo de Brooklyn y la Galería de Arte de la Universidad de Yale.",
+  "summary_pl": "Cyrilla Mozenter jest artystką z Nowego Jorku, znaną z ręcznie szytych, przemysłowych filcowych prac wolnostojących i ściennych, które obejmują przeszczepianie wyciętych liter, kształtów pochodzących od liter oraz przypominających piktogramy, a także jej hybrydowych dzieł na papierze, łączących rysunek, pisanie, malarstwo i kolaż. Jej prace nawiązują do pism Gertrude Stein. W 2020 roku otrzymała stypendium Guggenheima, a jej dzieła znajdują się w wielu kolekcjach publicznych, w tym w Brooklyn Museum oraz Yale University Art Gallery.",
+  "biography_es": "Justino el Confesor fue un mártir cristiano en el Imperio Romano. Es honrado como santo por la Iglesia Católica Romana y la Iglesia Ortodoxa Oriental.",
+  "biography_pl": "Justyn Męczennik był chrześcijańskim męczennikiem w Cesarstwie Rzymskim. Jest czczony jako święty przez Kościół rzymskokatolicki i Kościół prawosławny."
+}

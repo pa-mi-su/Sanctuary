@@ -1,0 +1,78 @@
+{
+  "id": "03-02_saint_simplicius",
+  "name": "Saint Simplicius",
+  "mmdd": "03-02",
+  "feast": "The Second day of March",
+  "summary": "Pope Simplicius was the bishop of Rome from 468 to his death on 10 March 483. He combated the Eutychian heresy, ended the practice of consecrating bishops only in December, and sought to offset the effects of Germanic invasions. His pontificate coincided with the fall of the Western Roman Empire in 476, when Odoacer deposed the last Western Roman emperor, Romulus Augustulus, though it had little impact on the Church's administration of Rome.",
+  "biography": "Election\nSimplicius was born in Tivoli, Italy, the son of a citizen named Castinus. After a vacancy of 10 days following the death of Pope Hilarius, Simplicius was consecrated on 25 February 468.\n\n\nPontificate\nSimplicius defended the decisions of the Council of Chalcedon against the Eutychian heresy. When the Eutychians rose up in Antioch and installed Petrus Mongus, Simplicius made repeated complaints for action to Basiliscus and Leo I, emperors of the Eastern Roman Empire, for the restoration of the Catholic bishop; he did the same when Petrus Fullo usurped the seat of the patriarch of Alexandria. He rehabilitated Patriarch Timotheos Solofaciolus.\nIn 476, he saw the Heruliian mercenaries revolt, depose Romulus...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Simplicius"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-02_saint_simplicius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a0e54f406d710338294e09f17da150fc7f25555be30aa2ec09d85e592b849e72",
+        "langs": {
+          "es": {
+            "translatedHash": "4a82362ec0717b9343b13ba681c071405914ca9b9d0edcc2fdb860f87088ee7d",
+            "updatedAt": "2026-02-24T22:46:47.705Z"
+          },
+          "pl": {
+            "translatedHash": "1fe138be8b77b11052c1bba3f840545ec909735533909b606928b1a625bddfc7",
+            "updatedAt": "2026-02-24T22:46:49.308Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6c725872857aacc9409664071985a8ae7869ba068dda603f1c1ccdbfda4f192b",
+        "langs": {
+          "es": {
+            "translatedHash": "ee4a2b6e664b07d7b5e72194ff9aa1bacb3fedb8262269c5d1973dd890621512",
+            "updatedAt": "2026-02-24T22:46:49.878Z"
+          },
+          "pl": {
+            "translatedHash": "9dfcdb312b94ac7f81cd3c8934e14ee7972bd22024fcc45e9ec70b3c8af11b47",
+            "updatedAt": "2026-02-24T22:46:50.399Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9b1c622cb170453cc78db964b6a00c223f5b0d09fd7b9cc4af3e7bc1ec60269a",
+        "langs": {
+          "es": {
+            "translatedHash": "4816498b57c9fcd916cd910dc2dac0254c8af52eb332c2c3a6a877d5dfbd8e4b",
+            "updatedAt": "2026-02-24T22:46:52.437Z"
+          },
+          "pl": {
+            "translatedHash": "c342349652cb39c68ba9e280d890abd3c0147b7542b39b4707d2d36ff659165e",
+            "updatedAt": "2026-02-24T22:46:55.253Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "49d9091a2d65dbfdf9bdbb026fc6bd3a558a0e2ff7b892c3ce9ee715a262e321",
+        "langs": {
+          "es": {
+            "translatedHash": "59c306d463edb682724b777043189a870abfe8c41eb7554f333dc654f01c50b6",
+            "updatedAt": "2026-02-24T22:46:58.680Z"
+          },
+          "pl": {
+            "translatedHash": "7c3174df33d4cf0d28022ad33aa99a18e23e522f0ccf7601c89d0344ed3040db",
+            "updatedAt": "2026-02-24T22:47:02.411Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Simplicio",
+  "name_pl": "Święty Symplicjusz",
+  "feast_es": "El segundo día de marzo",
+  "feast_pl": "Drugi dzień marca",
+  "summary_es": "El Papa Simplicio fue el obispo de Roma desde 468 hasta su muerte el 10 de marzo de 483. Combatió la herejía eutiquiana, puso fin a la práctica de consagrar obispos solo en diciembre, y buscó contrarrestar los efectos de las invasiones germánicas. Su pontificado coincidió con la caída del Imperio Romano de Occidente en 476, cuando Odoacro depuso al último emperador romano de Occidente, Rómulo Augústulo, aunque esto tuvo poco impacto en la administración de la Iglesia en Roma.",
+  "summary_pl": "Papież Symplicjusz był biskupem Rzymu od 468 roku aż do swojej śmierci 10 marca 483 roku. Zwalczał herezję eutychiańską, zakończył praktykę konsekracji biskupów wyłącznie w grudniu oraz starał się złagodzić skutki najazdów germańskich. Jego pontyfikat zbiegł się z upadkiem Cesarstwa Zachodniorzymskiego w 476 roku, kiedy to Odoaker obalił ostatniego cesarza zachodniorzymskiego, Romulusa Augustulusa, choć nie miało to większego wpływu na administrację Kościoła w Rzymie.",
+  "biography_es": "Elección  \nSimplicio nació en Tivoli, Italia, hijo de un ciudadano llamado Castino. Tras una vacante de 10 días después de la muerte del Papa Hilario, Simplicio fue consagrado el 25 de febrero de 468.\n\nPontificado  \nSimplicio defendió las decisiones del Concilio de Calcedonia contra la herejía eutiquiana. Cuando los eutiquianos se levantaron en Antioquía e instalaron a Pedro Mongus, Simplicio presentó repetidas quejas para que Basilisco y León I, emperadores del Imperio Romano de Oriente, tomaran medidas para la restauración del obispo católico; hizo lo mismo cuando Pedro Fullo usurpó la sede del patriarca de Alejandría. Rehabilitó al patriarca Timoteo Solofaciolo.  \nEn 476, presenció la revuelta de los mercenarios herulios, que depusieron a Rómulo...",
+  "biography_pl": "Wybór  \nSimplicjusz urodził się w Tivoli we Włoszech, jako syn obywatela o imieniu Castinus. Po dziesięciodniowej przerwie po śmierci papieża Hilarego, Simplicjusz został konsekrowany 25 lutego 468 roku.\n\nPontyfikat  \nSimplicjusz bronił decyzji Soboru Chalcedońskiego przed herezją eutychesową. Gdy eutychesi powstali w Antiochii i ustanowili Piotra Mongusa, Simplicjusz wielokrotnie składał skargi do Bazyliskusa i Leona I, cesarzy Cesarstwa Wschodniorzymskiego, domagając się przywrócenia katolickiego biskupa; uczynił to samo, gdy Piotr Fullo uzurpował sobie tron patriarchy Aleksandrii. Przywrócił do godności patriarchę Tymoteusza Solofaciolusa.  \nW 476 roku był świadkiem buntu najemników Herulów, którzy obalili Romulusa..."
+}

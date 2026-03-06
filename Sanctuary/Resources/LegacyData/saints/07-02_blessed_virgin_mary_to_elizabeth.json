@@ -1,0 +1,79 @@
+{
+  "id": "07-02_blessed_virgin_mary_to_elizabeth",
+  "name": "Blessed Virgin Mary to Elizabeth",
+  "mmdd": "07-02",
+  "feast": "The Second Day of July",
+  "summary": "St Mary's Cathedral, Port Elizabeth is a religious building that is affiliated with the Anglican Church of South Africa and is located at St Mary's Terrace, Central in the city of Gqeberha in Eastern Cape province, South Africa.",
+  "biography": "St Mary's Cathedral, Port Elizabeth is a religious building that is affiliated with the Anglican Church of South Africa and is located at St Mary's Terrace, Central in the city of Gqeberha in Eastern Cape province, South Africa. It serves as the main church and seat of the Diocese of Port Elizabeth which was created in 1970. The current incumbent is The Ven. Fumanekile Witness Kula. References External links Media related to The Cathedral Church of St Mary the Virgin at Wikimedia Commons",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St_Mary's_Cathedral%2C_Port_Elizabeth",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-02_blessed_virgin_mary_to_elizabeth.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a73a9d0fbfd04d593e48a00f11cd99907576f91a49dd14a6d9b74477172c2a89",
+        "langs": {
+          "es": {
+            "translatedHash": "69c7c6b6b56d1a19febbd4979a525d9e18116403a567473d6c80108215fa23c8",
+            "updatedAt": "2026-02-24T23:52:06.097Z"
+          },
+          "pl": {
+            "translatedHash": "39f80c399b89645bd6c854bde18303e54a802846bafb821a605b73ef048ea4c5",
+            "updatedAt": "2026-02-24T23:52:06.828Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bf4b64fa18d99a8e04ae73dc3db4a94f8f94ebaef286254be3215df81a705146",
+        "langs": {
+          "es": {
+            "translatedHash": "f3eac9ac20722ee19fe23f3516fe66f266d9d92b6c3349851c7168ed90f4b3b4",
+            "updatedAt": "2026-02-24T23:52:07.439Z"
+          },
+          "pl": {
+            "translatedHash": "176ef4c7e14551dc75c266a1b3b1f033db8e48e4aa2159b9c72ed205e4299a72",
+            "updatedAt": "2026-02-24T23:52:08.204Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "25a939c81c9f4b58765fc0e4160f4b3a35ed65d36f7873d8de9e4935893be134",
+        "langs": {
+          "es": {
+            "translatedHash": "01804f1fb8d5ee94cfa7b39b2b4a68a2337b60693342b1169173a306a9899c58",
+            "updatedAt": "2026-02-24T23:52:09.331Z"
+          },
+          "pl": {
+            "translatedHash": "7e288e52cce4e1ee38786c6744ec4fab8ca22253a760871ae926424ee10001ae",
+            "updatedAt": "2026-02-24T23:52:10.680Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "93271e377ef2f1c7530943b406c8b762656b735ed1daf93bccef9fa5c69b2a2e",
+        "langs": {
+          "es": {
+            "translatedHash": "f339d64d5289f76216d2d5679239fafa3ba7f24f6daa4712d6e5d4043c7860c9",
+            "updatedAt": "2026-02-24T23:52:12.587Z"
+          },
+          "pl": {
+            "translatedHash": "8fa8b29ce590a514a54f00b122859d255c1dca81c8e8045d241cccb2f62658f6",
+            "updatedAt": "2026-02-24T23:52:14.751Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Bienaventurada Virgen María a Isabel",
+  "name_pl": "Błogosławiona Dziewica Maryja do Elżbiety",
+  "feast_es": "El Segundo Día de Julio",
+  "feast_pl": "Drugi dzień lipca",
+  "summary_es": "La Catedral de Santa María, Port Elizabeth, es un edificio religioso que está afiliado a la Iglesia Anglicana de Sudáfrica y se encuentra en St Mary's Terrace, Central, en la ciudad de Gqeberha, en la provincia del Cabo Oriental, Sudáfrica.",
+  "summary_pl": "Katedra św. Marii w Port Elizabeth jest budynkiem sakralnym związanym z Kościołem anglikańskim Południowej Afryki i znajduje się przy St Mary's Terrace, Central w mieście Gqeberha w prowincji Eastern Cape, Republika Południowej Afryki.",
+  "biography_es": "La Catedral de Santa María, Port Elizabeth, es un edificio religioso afiliado a la Iglesia Anglicana de Sudáfrica y está ubicada en St Mary's Terrace, Central, en la ciudad de Gqeberha, en la provincia del Cabo Oriental, Sudáfrica. Sirve como la iglesia principal y sede de la Diócesis de Port Elizabeth, que fue creada en 1970. El actual titular es el Venerable Fumanekile Witness Kula.\n\nReferencias\n\nEnlaces externos\n\nMedios relacionados con la Iglesia Catedral de Santa María la Virgen en Wikimedia Commons",
+  "biography_pl": "Katedra św. Marii w Port Elizabeth jest budynkiem sakralnym związanym z Kościołem anglikańskim Południowej Afryki i znajduje się przy St Mary's Terrace, Central w mieście Gqeberha w prowincji Eastern Cape, Republika Południowej Afryki. Służy jako główny kościół i siedziba Diecezji Port Elizabeth, która została utworzona w 1970 roku. Obecnym proboszczem jest The Ven. Fumanekile Witness Kula.  \n\nBibliografia  \n\nLinki zewnętrzne  \n\nMedia związane z Katedrą św. Marii Dziewicy na Wikimedia Commons"
+}

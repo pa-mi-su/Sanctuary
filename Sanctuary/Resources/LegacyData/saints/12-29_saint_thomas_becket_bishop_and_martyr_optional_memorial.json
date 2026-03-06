@@ -1,0 +1,48 @@
+{
+  "id": "12-29_saint_thomas_becket_bishop_and_martyr_optional_memorial",
+  "name": "Saint Thomas Becket, Bishop and Martyr—Optional Memorial",
+  "mmdd": "12-29",
+  "feast": "The Twenty-Ninth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/BecketHenryII_(Thomas_Becket).jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-29_saint_thomas_becket_bishop_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "30d8ce9bb67cceddcbb9ff55915d3e9bf953188bc96ebe1e9089d49df7bc6201",
+        "langs": {
+          "es": {
+            "translatedHash": "f456a2896a3e526bc0e7d0cddacdfb5b9831608354492d22e2fa1c6d0125a6ac",
+            "updatedAt": "2026-02-25T01:35:07.181Z"
+          },
+          "pl": {
+            "translatedHash": "1a76dba1777534f643cc8059958b68bb6ec28072ae0279beb4a6bd2d4c279580",
+            "updatedAt": "2026-02-25T01:35:08.333Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e2d154ac24d4f428488b75f07f96250e90c8418988b71fc6687422367d8b3746",
+        "langs": {
+          "es": {
+            "translatedHash": "df1ba3af73ea7b9c6ba508b6467c5630e0ad7d02770a673dc9351a8b47c7d8c9",
+            "updatedAt": "2026-02-25T01:35:08.932Z"
+          },
+          "pl": {
+            "translatedHash": "89ee6b7fe94c3ca6fbab481bdb0952739331bf76cbd4f4dc3b32c2ffcbd2f2d0",
+            "updatedAt": "2026-02-25T01:35:09.699Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás Becket, Obispo y Mártir—Memoria Opcional",
+  "name_pl": "Święty Tomasz Becket, Biskup i Męczennik — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Noveno Día de Diciembre",
+  "feast_pl": "Dwudziesty dziewiąty dzień grudnia"
+}

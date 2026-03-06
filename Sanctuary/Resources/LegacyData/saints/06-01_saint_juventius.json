@@ -1,0 +1,79 @@
+{
+  "id": "06-01_saint_juventius",
+  "name": "Saint Juventius",
+  "mmdd": "06-01",
+  "feast": "The First Day of June",
+  "summary": "Saint Juventius, sometimes spelled Eventius, Iventius, or Inventius, was a bishop of Pavia during the 4th century, holding the position for 39 years. Together with Syrus of Pavia, he was sent to Pavia by Saint Hermagoras to evangelize the city, founding a bishopric there. Syrus subsequently served as first bishop of Pavia.",
+  "biography": "References\n\n\nExternal links\n8 february and 12 september at Dominican Martyrology\n\"1st century saints at Orthodox England\". Archived from the original on 2012-09-10.\nCatholic Online: St. Juventius of Pavia",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juventius_of_Pavia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-01_saint_juventius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bfcc4fe95ca7b1c9044c3d94f92b82de8e1e1e123558df4234e1ce70aec1663b",
+        "langs": {
+          "es": {
+            "translatedHash": "e30088f6a6a9bc456eb9e7b03cd7e330a8e0cc06d26e65cbf22f642afeb9227c",
+            "updatedAt": "2026-02-24T23:35:18.052Z"
+          },
+          "pl": {
+            "translatedHash": "89cc25d0c8e71282180395c240e0320ff3461d44e4cad09dff2a79664e0cf96e",
+            "updatedAt": "2026-02-24T23:35:18.592Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5900f1b9e8f0747da45c44f40136fdd1a0d8b30591f9fbe0a2715b703da61cbd",
+        "langs": {
+          "es": {
+            "translatedHash": "d59de63fcfade12118deb3bbc9b3f8b612011ee9b0285207a3d68bb2a3fbb078",
+            "updatedAt": "2026-02-24T23:35:19.201Z"
+          },
+          "pl": {
+            "translatedHash": "beb7c3748237ccfd576026294a19471444c767123daf076220b0ce5aa13c55f3",
+            "updatedAt": "2026-02-24T23:35:19.779Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "69b2db7f3fbbe90d942cfb63c8f13d8be0fe2b3e535af27b380f502540c0a1ff",
+        "langs": {
+          "es": {
+            "translatedHash": "297b1b413f9589e506749662d09ffac8ecd8f1e6bef4ba2711e8947c7503eab8",
+            "updatedAt": "2026-02-24T23:35:21.438Z"
+          },
+          "pl": {
+            "translatedHash": "1e15e1365390f92c54a01812536e958eee3603a01be541a0992afc8945471c54",
+            "updatedAt": "2026-02-24T23:35:24.051Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ba79dc2e657f683ed0606f9bac8e0cf575490add696c75d54d33e6df498fd1a4",
+        "langs": {
+          "es": {
+            "translatedHash": "6188a92b8e239fc3c251507058ab41f26349c4ab7130656ef3949e3fd98551d2",
+            "updatedAt": "2026-02-24T23:35:26.185Z"
+          },
+          "pl": {
+            "translatedHash": "89357bf567aa4844713abdff7348e32d02ce6b3e4162a0a715c78c6d60b4e5bd",
+            "updatedAt": "2026-02-24T23:35:27.677Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juventio",
+  "name_pl": "Święty Juwencjusz",
+  "feast_es": "El Primer Día de Junio",
+  "feast_pl": "Pierwszy dzień czerwca",
+  "summary_es": "San Juventio, a veces escrito Eventio, Iventio o Inventio, fue obispo de Pavía durante el siglo IV, ocupando el cargo durante 39 años. Junto con San Siro de Pavía, fue enviado a Pavía por San Hermágoras para evangelizar la ciudad, fundando allí una diócesis. Posteriormente, Siro sirvió como primer obispo de Pavía.",
+  "summary_pl": "Święty Juventius, czasami zapisywany jako Eventius, Iventius lub Inventius, był biskupem Pawii w IV wieku, pełniąc tę funkcję przez 39 lat. Razem z Syrem z Pawii został posłany do Pawii przez św. Hermagorasa, aby ewangelizować miasto, zakładając tam biskupstwo. Syrus następnie pełnił funkcję pierwszego biskupa Pawii.",
+  "biography_es": "Referencias\n\n\nEnlaces externos\n8 de febrero y 12 de septiembre en el Martirologio Dominicano\n\"Santos del siglo I en Orthodox England\". Archivado desde el original el 10 de septiembre de 2012.\nCatholic Online: San Juventio de Pavía",
+  "biography_pl": "Bibliografia\n\n\nLinki zewnętrzne\n8 lutego i 12 września w Martyrologium Dominikańskim\n„Święci I wieku w Orthodox England”. Archiwum oryginału z 2012-09-10.\nCatholic Online: św. Juventiusz z Pawii"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "07-10_saint_januarius",
+  "name": "Saint Januarius",
+  "mmdd": "07-10",
+  "feast": "The Tenth Day of July",
+  "summary": "Januarius, also known as Januarius I of Benevento, was Bishop of Benevento and is a martyr and saint of the Catholic Church. While no contemporary sources on his life are preserved, later sources and legends say he died during the Great Persecution, which ended with Diocletian's retirement in 305.",
+  "biography": "Januarius ( JAN-yoo-AIR-ee-əs; Latin: Ianuarius; Neapolitan and Italian: Gennaro), also known as Januarius I of Benevento, was Bishop of Benevento and is a martyr and saint of the Catholic Church. While no contemporary sources on his life are preserved, later sources and legends say he died during the Great Persecution, which ended with Diocletian's retirement in 305. Januarius is the patron saint of Naples, where the faithful gather three times a year in Naples Cathedral to witness the liquefaction of what is claimed to be a sample of his blood kept in a sealed ampoule. Life Little is known of Januarius's life. What follows mostly derives from later Christian sources, such as the Acta Bononensia (BHL 4132, not earlier than 6th century) and the Acta Vaticana (BHL 4115, 9th century), and later folk traditions. Legend According to various hagiographies, Januarius was born in Benevento to a rich patrician family that traced its descent to the Caudini tribe of the Samnites. At age 15, he became local priest of his parish in Benevento, which at the time had only a small Christian community. When Januarius was 20, he became Bishop of Naples and befriended Juliana of Nicomedia...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Januarius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-10_saint_januarius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2e48d8f944ceb764a1da4d863a7e6237da1e81c0026ecf24363e68ccf8194b97",
+        "langs": {
+          "es": {
+            "translatedHash": "8fa0724c8ba792bfedf17b4e69e7beb8ac23dae8b92566752819677a5bdac42a",
+            "updatedAt": "2026-02-24T23:55:39.745Z"
+          },
+          "pl": {
+            "translatedHash": "98fccad29fdd6975c791035e5fa6e132e30a39c3a4ba40720e2afcb58147f0fc",
+            "updatedAt": "2026-02-24T23:55:40.828Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "225f2e34695dbe4843b26bebe01feff7dcd1213cd59f8928a808c09ac22f3fed",
+        "langs": {
+          "es": {
+            "translatedHash": "9b611e5989e1f45c16abc0cf023120ee9f95f8cfc7ceda562e19a667b1917c8c",
+            "updatedAt": "2026-02-24T23:55:41.458Z"
+          },
+          "pl": {
+            "translatedHash": "1f3475849e5750fd77b13a98b1b9d06a178793fe7404cfd3b16ab5acf96d1247",
+            "updatedAt": "2026-02-24T23:55:42.047Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e355447edccae42c252edb623d7768d66072242a50a595c67e4f0d2f59d83530",
+        "langs": {
+          "es": {
+            "translatedHash": "3ca3a0756d58272e84426f1d015bbf2bedd2d81474c37738bbebb133be1912e5",
+            "updatedAt": "2026-02-24T23:55:43.541Z"
+          },
+          "pl": {
+            "translatedHash": "86894596f944007c67b219bc694ce1babd735e5295452bedfa6bef8a6dc112d7",
+            "updatedAt": "2026-02-24T23:55:45.422Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "94d3766a0d165fba0333fbecb39cb98f1600bb0b44911db8d5f9283a78a34bc5",
+        "langs": {
+          "es": {
+            "translatedHash": "95463b9afb64c8c385ed1e6c85290fdc071b88c0d4ee186586dc3b105fa1a28c",
+            "updatedAt": "2026-02-24T23:55:49.658Z"
+          },
+          "pl": {
+            "translatedHash": "a03249a79eb1ffbe63469660fc36ae862ae83ffe460ddc1e33b76e8be7bbeebc",
+            "updatedAt": "2026-02-24T23:55:54.688Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jenaro",
+  "name_pl": "Święty Januaryusz",
+  "feast_es": "El Día Diez de Julio",
+  "feast_pl": "Dziesiąty dzień lipca",
+  "summary_es": "Januario, también conocido como Januario I de Benevento, fue obispo de Benevento y es mártir y santo de la Iglesia Católica. Aunque no se conservan fuentes contemporáneas sobre su vida, fuentes y leyendas posteriores dicen que murió durante la Gran Persecución, que terminó con la retirada de Diocleciano en el año 305.",
+  "summary_pl": "Januariusz, znany również jako Januariusz I z Benevento, był biskupem Benevento i jest męczennikiem oraz świętym Kościoła katolickiego. Choć nie zachowały się żadne współczesne źródła dotyczące jego życia, późniejsze źródła i legendy mówią, że zginął podczas Wielkiego Prześladowania, które zakończyło się wraz z abdykacją Dioklecjana w 305 roku.",
+  "biography_es": "Januario (JAN-yoo-AIR-ee-əs; latín: Ianuarius; napolitano e italiano: Gennaro), también conocido como Januario I de Benevento, fue obispo de Benevento y es mártir y santo de la Iglesia Católica. Aunque no se conservan fuentes contemporáneas sobre su vida, fuentes y leyendas posteriores dicen que murió durante la Gran Persecución, que terminó con la retirada de Diocleciano en el año 305. Januario es el santo patrón de Nápoles, donde los fieles se reúnen tres veces al año en la Catedral de Nápoles para presenciar la licuefacción de lo que se dice es una muestra de su sangre conservada en una ampolla sellada.\n\nVida  \nSe sabe poco sobre la vida de Januario. Lo que sigue deriva principalmente de fuentes cristianas posteriores, como los Acta Bononensia (BHL 4132, no anteriores al siglo VI) y los Acta Vaticana (BHL 4115, siglo IX), y tradiciones populares posteriores.\n\nLeyenda  \nSegún varias hagiografías, Januario nació en Benevento en una familia patricia rica que trazaba su descendencia a la tribu Caudina de los Samnitas. A los 15 años, se convirtió en sacerdote local de su parroquia en Benevento, que en ese momento tenía solo una pequeña comunidad cristiana. Cuando Januario tenía 20 años, se convirtió en obispo de Nápoles y entabló amistad con Juliana de Nicomedia...",
+  "biography_pl": "Januarius (JAN-yoo-AIR-ee-əs; łac. Ianuarius; neapolitański i włoski: Gennaro), znany również jako Januarius I z Benevento, był biskupem Benevento i jest męczennikiem oraz świętym Kościoła katolickiego. Choć nie zachowały się żadne współczesne źródła dotyczące jego życia, późniejsze źródła i legendy mówią, że zginął podczas Wielkiego Prześladowania, które zakończyło się wraz z abdykacją Dioklecjana w 305 roku. Januarius jest patronem Neapolu, gdzie wierni gromadzą się trzy razy w roku w katedrze neapolitańskiej, aby być świadkami upłynnienia tego, co uważa się za próbkę jego krwi przechowywaną w zapieczętowanej ampułce.\n\nŻycie  \nNiewiele wiadomo o życiu Januariusa. To, co następuje, pochodzi głównie z późniejszych chrześcijańskich źródeł, takich jak Acta Bononensia (BHL 4132, nie wcześniej niż VI wiek) oraz Acta Vaticana (BHL 4115, IX wiek), a także z późniejszych tradycji ludowych.\n\nLegenda  \nWedług różnych hagiografii, Januarius urodził się w Benevento w bogatej rodzinie patrycjuszy, która wywodziła się z plemienia Caudini Samnitów. W wieku 15 lat został lokalnym księdzem swojej parafii w Benevento, które wówczas miało tylko niewielką wspólnotę chrześcijańską. Gdy Januarius miał 20 lat, został biskupem Neapolu i zaprzyjaźnił się z Julianą z Nikomedii..."
+}

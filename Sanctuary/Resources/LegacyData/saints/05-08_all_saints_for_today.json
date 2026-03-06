@@ -1,0 +1,46 @@
+{
+  "id": "05-08_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "05-08",
+  "feast": "The Eighth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:21:18.925Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:21:19.613Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5f13712d481150252f0dc1beea5852a86e1b46422100c70bb794028096cbebf6",
+        "langs": {
+          "es": {
+            "translatedHash": "be04faf465f828b91e797999e5045e12a5982d961aa954eb8ecb4dffa0f78ad8",
+            "updatedAt": "2026-02-24T23:21:20.201Z"
+          },
+          "pl": {
+            "translatedHash": "6c469ecbe7f74106c3e5ebe644b9e4e03bd7d5ced84e722d47e351bd113279ae",
+            "updatedAt": "2026-02-24T23:21:20.839Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Octavo Día de Mayo",
+  "feast_pl": "Ósmy dzień maja"
+}

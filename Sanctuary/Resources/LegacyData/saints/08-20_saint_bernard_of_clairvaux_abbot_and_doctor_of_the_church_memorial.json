@@ -1,0 +1,48 @@
+{
+  "id": "08-20_saint_bernard_of_clairvaux_abbot_and_doctor_of_the_church_memorial",
+  "name": "Saint Bernard of Clairvaux, Abbot and Doctor of the Church—Memorial",
+  "mmdd": "08-20",
+  "feast": "The Twentieth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-20_saint_bernard_of_clairvaux_abbot_and_doctor_of_the_church_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a16b9864b71aef1c4703301f3460986500f88b6ff64de542b9db5f9db31e10f0",
+        "langs": {
+          "es": {
+            "translatedHash": "0f644267006916f2687b42f93847b3304fa4526ce28751e462f18bbb428c1697",
+            "updatedAt": "2026-02-25T00:18:50.686Z"
+          },
+          "pl": {
+            "translatedHash": "7a86a612beca76be7297ea8058e63691afb64f810fcea74351ae9fba34c86339",
+            "updatedAt": "2026-02-25T00:18:51.400Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "137c3375f3a16e3806bc5413995d852d3638ceae697464cba9be668cafd568a1",
+        "langs": {
+          "es": {
+            "translatedHash": "b1af302ef56c41ee832b7aca7925854f2a9ff97340260e84c94f0d1958936996",
+            "updatedAt": "2026-02-25T00:18:52.154Z"
+          },
+          "pl": {
+            "translatedHash": "bb46b72f17b7118482f982474fc2d6cf6de588c9fc6ae4c8102abc782a356d0c",
+            "updatedAt": "2026-02-25T00:18:52.757Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bernardo de Claraval, Abad y Doctor de la Iglesia—Memoria",
+  "name_pl": "Święty Bernard z Clairvaux, opat i doktor Kościoła — wspomnienie",
+  "feast_es": "El vigésimo día de agosto",
+  "feast_pl": "Dwudziesty dzień sierpnia"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-02_saint_tiburtius",
+  "name": "Saint Tiburtius",
+  "mmdd": "06-02",
+  "feast": "The Second Day of June",
+  "summary": "Sebastian was an early Christian saint and martyr. According to traditional belief, he was killed during the Diocletianic Persecution of Christians. He was initially tied to a post or tree and shot with arrows, though this did not kill him. He was, according to tradition, rescued and healed by Irene of Rome, which became a popular subject in 17th-century painting. In all versions of the story, shortly after his recovery he went to Diocletian to warn him about his sins, and as a result he was clubbed to death. He is venerated in the Catholic Church and the Orthodox Church as the patron saint of athletics, archery, and plagues.",
+  "biography": "Sebastian (Latin: Sebastianus; c. AD 255 – c. AD 288) was an early Christian saint and martyr. According to traditional belief, he was killed during the Diocletianic Persecution of Christians. He was initially tied to a post or tree and shot with arrows, though this did not kill him. He was, according to tradition, rescued and healed by Irene of Rome, which became a popular subject in 17th-century painting. In all versions of the story, shortly after his recovery he went to Diocletian to warn him about his sins, and as a result he was clubbed to death. He is venerated in the Catholic Church and the Orthodox Church as the patron saint of athletics, archery, and plagues. \nThe oldest mention of Sebastian's martyrdom is in the Chronograph of 354, which says he is venerated on January 20. He is also mentioned in a sermon on Psalm 118 by 4th-century bishop Ambrose of Milan: in his sermon, Ambrose stated that Sebastian came from Milan and that he was already venerated there at that time. The full account of his martyrdom comes from the Passio Sancti Sebastiani, a 5th-century text written by an anonymous author, possibly Arnobius the Younger.\nSebastian is a popular male saint, especially today...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sebastian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-02_saint_tiburtius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "36c17899722fd37136ef26622a594e6b8b6baa1790c54827dd340f9620e5b1f2",
+        "langs": {
+          "es": {
+            "translatedHash": "6d2812dcd98fc523e5a2d165ad9c4bdceb008eeea645f758f9ec12ada09c331a",
+            "updatedAt": "2026-02-24T23:35:28.300Z"
+          },
+          "pl": {
+            "translatedHash": "25b0e93bde794f25f563bc75db2591b300530a1fd5df9c5e1db54655fd3c3790",
+            "updatedAt": "2026-02-24T23:35:29.519Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9829e5cbaf9c534d267257b30c4c8ecf00cfc30627ac203ce2909eeffde9bdaf",
+        "langs": {
+          "es": {
+            "translatedHash": "21e1aaa616630bb4d03ae9a5fc06cf1eb4b1577ce279b0ccbf3a2add0469a222",
+            "updatedAt": "2026-02-24T23:35:30.152Z"
+          },
+          "pl": {
+            "translatedHash": "1214525f3c3b288e6207023295a94d618f0b351b23a22d11e4227cad3e4a22ee",
+            "updatedAt": "2026-02-24T23:35:30.773Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f987be0772f6aa986b261e2ae23b953ce439c646a08883a882ffb83670c90d67",
+        "langs": {
+          "es": {
+            "translatedHash": "0afc618a1bc40a09dc9bd173c5257715ca21a16e78efcecfc19161ba112e9ffd",
+            "updatedAt": "2026-02-24T23:35:34.060Z"
+          },
+          "pl": {
+            "translatedHash": "8c52d827c0bdd6e6819f8e8b292e1d7cba0d3959e215291f2ff0a4cac8ecbb0e",
+            "updatedAt": "2026-02-24T23:35:38.457Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9a9d3c2b24eafca5c11d5a2d4ab292ca11be822924616939776c90af4bd930ed",
+        "langs": {
+          "es": {
+            "translatedHash": "184f8e61ed3d150510329bc223f80c009b2bc56e0ef867a8c5dd935d9afccd40",
+            "updatedAt": "2026-02-24T23:35:45.593Z"
+          },
+          "pl": {
+            "translatedHash": "c12965ee967f5d69947233432b2d683e7371fd42495364b9066a2e8749087607",
+            "updatedAt": "2026-02-24T23:35:51.330Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Tiburcio",
+  "name_pl": "Święty Tyburcjusz",
+  "feast_es": "El Segundo Día de Junio",
+  "feast_pl": "Drugi dzień czerwca",
+  "summary_es": "Sebastián fue un santo y mártir cristiano temprano. Según la creencia tradicional, fue asesinado durante la Persecución de Diocleciano contra los cristianos. Inicialmente fue atado a un poste o árbol y disparado con flechas, aunque esto no lo mató. Según la tradición, fue rescatado y curado por Irene de Roma, lo que se convirtió en un tema popular en la pintura del siglo XVII. En todas las versiones de la historia, poco después de su recuperación fue a ver a Diocleciano para advertirle sobre sus pecados, y como resultado fue golpeado hasta la muerte con garrotes. Es venerado en la Iglesia Católica y la Iglesia Ortodoxa como el santo patrón de los atletas, la arquería y las plagas.",
+  "summary_pl": "Sebastian był wczesnochrześcijańskim świętym i męczennikiem. Według tradycyjnego przekazu, został zabity podczas prześladowań chrześcijan za panowania Dioklecjana. Początkowo był przywiązany do słupa lub drzewa i ostrzeliwany strzałami, jednak nie zginął. Według tradycji został uratowany i wyleczony przez Irenę Rzymską, co stało się popularnym tematem malarstwa XVII wieku. We wszystkich wersjach opowieści, krótko po wyzdrowieniu udał się do Dioklecjana, aby ostrzec go przed jego grzechami, w wyniku czego został zabity pałką. Jest czczony w Kościele katolickim i prawosławnym jako patron sportowców, łucznictwa i zaraz.",
+  "biography_es": "Sebastián (latín: Sebastianus; c. 255 d.C. – c. 288 d.C.) fue un santo y mártir cristiano temprano. Según la creencia tradicional, fue asesinado durante la persecución de cristianos bajo Diocleciano. Inicialmente fue atado a un poste o árbol y disparado con flechas, aunque esto no lo mató. Según la tradición, fue rescatado y curado por Irene de Roma, lo que se convirtió en un tema popular en la pintura del siglo XVII. En todas las versiones de la historia, poco después de su recuperación fue a ver a Diocleciano para advertirle sobre sus pecados, y como resultado fue golpeado hasta la muerte con garrotes. Es venerado en la Iglesia Católica y en la Iglesia Ortodoxa como el santo patrón de los atletas, la arquería y las plagas.  \nLa mención más antigua del martirio de Sebastián está en el Cronógrafo de 354, que dice que se le venera el 20 de enero. También se le menciona en un sermón sobre el Salmo 118 por el obispo Ambrosio de Milán del siglo IV: en su sermón, Ambrosio afirmó que Sebastián provenía de Milán y que ya era venerado allí en ese tiempo. El relato completo de su martirio proviene de la Passio Sancti Sebastiani, un texto del siglo V escrito por un autor anónimo, posiblemente Arnobio el Joven.  \nSebastián es un santo masculino popular, especialmente hoy...",
+  "biography_pl": "Sebastian (łac. Sebastianus; ok. 255 – ok. 288 n.e.) był wczesnochrześcijańskim świętym i męczennikiem. Według tradycyjnego przekazu został zabity podczas prześladowań chrześcijan za panowania Dioklecjana. Początkowo był przywiązany do słupa lub drzewa i ostrzeliwany strzałami, jednak nie zginął. Według tradycji został uratowany i wyleczony przez Irenę Rzymską, co stało się popularnym tematem malarstwa XVII wieku. We wszystkich wersjach opowieści, niedługo po wyzdrowieniu, udał się do Dioklecjana, aby ostrzec go przed jego grzechami, w wyniku czego został zabity pałką. Jest czczony w Kościele katolickim i prawosławnym jako patron sportowców, łucznictwa i zaraz.\n\nNajstarsza wzmianka o męczeństwie Sebastiana znajduje się w Kronografie z 354 roku, gdzie podano, że jest czczony 20 stycznia. Wspomina o nim także kazanie nad Psalmem 118 biskupa Ambrożego z Mediolanu z IV wieku: w swoim kazaniu Ambroży stwierdził, że Sebastian pochodził z Mediolanu i że już wtedy był tam czczony. Pełny opis jego męczeństwa pochodzi z Passio Sancti Sebastiani, tekstu z V wieku napisanego przez anonimowego autora, być może Arnobiusa Młodszego.\n\nSebastian jest popularnym świętym męskim, zwłaszcza dzisiaj..."
+}

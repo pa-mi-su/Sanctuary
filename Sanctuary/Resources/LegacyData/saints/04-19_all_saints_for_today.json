@@ -1,0 +1,46 @@
+{
+  "id": "04-19_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-19",
+  "feast": "The Nineteenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:11:27.728Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:11:29.698Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bc0e79f634976b1bbcd6f80935b3f8d39aa71a139d6c6134d1b0d4e2e32363b7",
+        "langs": {
+          "es": {
+            "translatedHash": "ea5abb22f01593f88888551da70dd236ace0265e46ec88b5ae5a4b39d4e7453c",
+            "updatedAt": "2026-02-24T23:11:30.282Z"
+          },
+          "pl": {
+            "translatedHash": "49f85b3168df3a7dc906d68927c47d50bbd402450276777e03d902caff943c09",
+            "updatedAt": "2026-02-24T23:11:30.971Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Día Diecinueve de Abril",
+  "feast_pl": "Dziewiętnasty Dzień Kwietnia"
+}

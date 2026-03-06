@@ -1,0 +1,48 @@
+{
+  "id": "04-11_saint_stanislaus_bishop_and_martyr_memorial_optional_memorial_if_lenten_weekday",
+  "name": "Saint Stanislaus, Bishop and Martyr—Memorial (Optional Memorial if Lenten weekday)",
+  "mmdd": "04-11",
+  "feast": "The Eleventh Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-11_saint_stanislaus_bishop_and_martyr_memorial_optional_memorial_if_lenten_weekday.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b94d2c40aabb3dbdd6a2948d244681f6516c269e11b4135f50166d4777fbd30d",
+        "langs": {
+          "es": {
+            "translatedHash": "8fee4c0b497bdfb77356178c173b0920ec01c437e4557ea0b57b1058a5b5ae7c",
+            "updatedAt": "2026-02-24T23:08:13.261Z"
+          },
+          "pl": {
+            "translatedHash": "2988e8f742c7655f8acf19599c84fd0ab287a0cfc76d761a1bd06ffe1bade5d3",
+            "updatedAt": "2026-02-24T23:08:14.279Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "70b2ad77028d08c277a5e7705e91df06ec313bfe21cab72a535029c4c90590e4",
+        "langs": {
+          "es": {
+            "translatedHash": "0749675d16add4746ee8688987a7625bb3f25c72f38442b59c7cfe62ce7eb318",
+            "updatedAt": "2026-02-24T23:08:15.036Z"
+          },
+          "pl": {
+            "translatedHash": "94fa61bb371b8c637a4592e93fa418ee77fe29fd00fdd554865a89a1a4cc36c8",
+            "updatedAt": "2026-02-24T23:08:15.928Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Estanislao, Obispo y Mártir—Memorial (Memorial Opcional si es día entre semana de Cuaresma)",
+  "name_pl": "Święty Stanisław, Biskup i Męczennik — Wspomnienie (Wspomnienie dowolne w dni powszednie Wielkiego Postu)",
+  "feast_es": "El día once de abril",
+  "feast_pl": "Jedenasty dzień kwietnia"
+}

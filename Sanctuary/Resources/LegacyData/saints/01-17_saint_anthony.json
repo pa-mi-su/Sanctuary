@@ -1,0 +1,79 @@
+{
+  "id": "01-17_saint_anthony",
+  "name": "Saint Anthony",
+  "mmdd": "01-17",
+  "feast": "The Seventeenth Day of January",
+  "summary": "Anthony the Great was a Christian monk from Egypt, revered since his death as a saint. He is distinguished from other saints named Anthony, such as Anthony of Padua, by various epithets: Anthony of Egypt, Anthony the Abbot, Anthony of the Desert, Anthony the Anchorite, Anthony the Hermit, and Anthony of Thebes. For his importance among the Desert Fathers and to all later Christian monasticism, he is also known as the Father of All Monks. His feast day is celebrated on 17 January among the Eastern Orthodox and Catholic churches and on Tobi 22 in the Coptic calendar.",
+  "biography": "Anthony the Great (c. 12 January 251 – 17 January 356) was a Christian monk from Egypt, revered since his death as a saint. He is distinguished from other saints named Anthony, such as Anthony of Padua, by various epithets: Anthony of Egypt, Anthony the Abbot, Anthony of the Desert, Anthony the Anchorite, Anthony the Hermit, and Anthony of Thebes. For his importance among the Desert Fathers and to all later Christian monasticism, he is also known as the Father of All Monks. His feast day is celebrated on 17 January among the Eastern Orthodox and Catholic churches and on Tobi 22 in the Coptic calendar. The biography of Anthony's life by Athanasius of Alexandria helped to spread the concept of Christian monasticism, particularly in Western Europe via its Latin translations. He is often erroneously considered the first Christian monk, but as his biography and other sources make clear, there were many ascetics before him. Anthony was, however, among the first known to go into the wilderness (about AD 270), which seems to have contributed to his renown. Accounts of Anthony enduring supernatural temptation during his sojourn in the Eastern Desert of Egypt inspired the depiction of his temptations...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_the_Great",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-17_saint_anthony.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b6a532ef92f2b9cea0121ab89c90f90def538fc9c316307b1e8f7350e65ca0a3",
+        "langs": {
+          "es": {
+            "translatedHash": "e30cf5214afcd65e33c00de802bb4eb4415992338a99782ad538326bfe7688ab",
+            "updatedAt": "2026-02-24T22:15:48.928Z"
+          },
+          "pl": {
+            "translatedHash": "e5b2fdd3f74ce891d55f13d756a59757b1a21a2690333ea6b83ac1cab3009241",
+            "updatedAt": "2026-02-24T22:15:49.902Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0e1aaa985ffcc6bed9a62c3aa26d5a66b7c0c07009e17e123186b267dc0810f1",
+        "langs": {
+          "es": {
+            "translatedHash": "1f606152372e9e986f0e39f424cf650388fa289af4da7910526f73ad278fb367",
+            "updatedAt": "2026-02-24T22:15:50.528Z"
+          },
+          "pl": {
+            "translatedHash": "51cd15b58dbf581df0a8282caed8cd31ed718c009deb5fc19d7a2d20b176bb06",
+            "updatedAt": "2026-02-24T22:15:51.311Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8d9157b308585d5be52305678dc9bc70a2e8821774d93e202e8e1469ba1edc40",
+        "langs": {
+          "es": {
+            "translatedHash": "165ce51934f32ff36069bf2b6f474d698420d014a217ae7455965493cd0dda23",
+            "updatedAt": "2026-02-24T22:15:53.944Z"
+          },
+          "pl": {
+            "translatedHash": "2d8e8c0c4ddf36c7a280aac5e0e5fde863bc967e67f540c558615339fdf9abd6",
+            "updatedAt": "2026-02-24T22:15:57.158Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e23fd1711177c7707976b9580e2673df73e67bc85bf1752a71304959cf0ebd7b",
+        "langs": {
+          "es": {
+            "translatedHash": "4ffd0d3d84f3f073733e22f5b1813d46acc452c1953a080a1000f99ce8f9c0b9",
+            "updatedAt": "2026-02-24T22:16:03.099Z"
+          },
+          "pl": {
+            "translatedHash": "5a239cb902ba64b36a30c41d233be982fc91a616ea35338ae8a22c9616482fbe",
+            "updatedAt": "2026-02-24T22:16:07.757Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Antonio",
+  "name_pl": "Święty Antoni",
+  "feast_es": "El día diecisiete de enero",
+  "feast_pl": "Siedemnasty Dzień Stycznia",
+  "summary_es": "Antonio el Grande fue un monje cristiano de Egipto, venerado desde su muerte como santo. Se le distingue de otros santos llamados Antonio, como Antonio de Padua, por varios epítetos: Antonio de Egipto, Antonio el Abad, Antonio del Desierto, Antonio el Anacoreta, Antonio el Ermitaño y Antonio de Tebas. Por su importancia entre los Padres del Desierto y para todo el monacato cristiano posterior, también es conocido como el Padre de Todos los Monjes. Su fiesta se celebra el 17 de enero entre las iglesias ortodoxa oriental y católica, y el 22 de Tobi en el calendario copto.",
+  "summary_pl": "Antoni Wielki był chrześcijańskim mnichem z Egiptu, czczonym jako święty od czasu swojej śmierci. Wyróżnia się spośród innych świętych o imieniu Antoni, takich jak Antoni z Padwy, różnymi epitetami: Antoni Egipski, Antoni Opatem, Antoni Pustelnik, Antoni Anachoreta, Antoni Pustelnik i Antoni z Teb. Ze względu na jego znaczenie wśród Ojcow Pustyni oraz dla całego późniejszego chrześcijańskiego monastycyzmu, znany jest również jako Ojciec Wszystkich Mnichów. Jego dzień wspomnienia obchodzony jest 17 stycznia w Kościołach prawosławnym i katolickim oraz 22 Tobi w kalendarzu koptyjskim.",
+  "biography_es": "Antonio el Grande (c. 12 de enero de 251 – 17 de enero de 356) fue un monje cristiano de Egipto, venerado desde su muerte como santo. Se le distingue de otros santos llamados Antonio, como Antonio de Padua, por varios epítetos: Antonio de Egipto, Antonio el Abad, Antonio del Desierto, Antonio el Anacoreta, Antonio el Ermitaño y Antonio de Tebaida. Por su importancia entre los Padres del Desierto y para todo el monacato cristiano posterior, también es conocido como el Padre de Todos los Monjes. Su fiesta se celebra el 17 de enero entre las iglesias ortodoxa oriental y católica, y el 22 de Tobi en el calendario copto. La biografía de la vida de Antonio escrita por Atanasio de Alejandría ayudó a difundir el concepto del monacato cristiano, particularmente en Europa Occidental a través de sus traducciones al latín. A menudo se le considera erróneamente el primer monje cristiano, pero como su biografía y otras fuentes dejan claro, hubo muchos ascetas antes que él. Sin embargo, Antonio fue uno de los primeros conocidos en retirarse al desierto (alrededor del año 270 d.C.), lo que parece haber contribuido a su fama. Los relatos de Antonio soportando tentaciones sobrenaturales durante su estancia en el Desierto Oriental de Egipto inspiraron la representación de sus tentaciones...",
+  "biography_pl": "Antoni Wielki (ok. 12 stycznia 251 – 17 stycznia 356) był chrześcijańskim mnichem z Egiptu, czczonym od czasu swojej śmierci jako święty. Wyróżnia się spośród innych świętych o imieniu Antoni, takich jak Antoni z Padwy, różnymi epitetami: Antoni Egipski, Antoni Opatem, Antoni Pustelnik, Antoni Anachoreta, Antoni Pustelnik i Antoni z Teb. Ze względu na jego znaczenie wśród Ojców Pustyni oraz dla całego późniejszego chrześcijańskiego monastycyzmu, znany jest również jako Ojciec Wszystkich Mnichów. Jego dzień wspomnienia obchodzony jest 17 stycznia w Kościołach prawosławnym i katolickim oraz 22 dnia miesiąca Tobi w kalendarzu koptyjskim. Biografia życia Antoniego autorstwa Atanazego z Aleksandrii pomogła rozpowszechnić ideę chrześcijańskiego monastycyzmu, szczególnie w Europie Zachodniej poprzez jej łacińskie tłumaczenia. Często błędnie uważa się go za pierwszego chrześcijańskiego mnicha, jednak jak jasno pokazują jego biografia i inne źródła, wielu ascetów żyło przed nim. Antoni był jednak jednym z pierwszych znanych, którzy udali się na pustkowie (około 270 roku n.e.), co zdaje się przyczynić do jego sławy. Opowieści o Antonim znoszącym nadprzyrodzone pokusy podczas pobytu na Wschodniej Pustyni Egiptu zainspirowały przedstawienia jego pokus..."
+}

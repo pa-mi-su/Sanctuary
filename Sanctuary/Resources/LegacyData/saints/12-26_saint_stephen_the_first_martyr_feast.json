@@ -1,0 +1,48 @@
+{
+  "id": "12-26_saint_stephen_the_first_martyr_feast",
+  "name": "Saint Stephen, the First Martyr—Feast",
+  "mmdd": "12-26",
+  "feast": "The Twenty-Sixth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Stephen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-26_saint_stephen_the_first_martyr_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9c56875b8b224a133bca46944765832dd39e2c628318c136614c03a5090a257b",
+        "langs": {
+          "es": {
+            "translatedHash": "2842745464af516b7ed5c5a1ac9e7bab690c8adf11be745c01a4c43c9a51d6be",
+            "updatedAt": "2026-02-25T01:33:34.319Z"
+          },
+          "pl": {
+            "translatedHash": "10ab302f5b163483afcfce4289ef388c4d3a38271589e4912088ef652cffadbf",
+            "updatedAt": "2026-02-25T01:33:35.086Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c7d1444f371b1b311b25612929668a0c7bc06216eeae208d2f6ee111de0e023c",
+        "langs": {
+          "es": {
+            "translatedHash": "0f4b41de517ec391acc9dd1c5bb028f1d7ce49a0ee446804ba0b6bb09c5d957c",
+            "updatedAt": "2026-02-25T01:33:35.835Z"
+          },
+          "pl": {
+            "translatedHash": "051ba1f6094d7922ef292422693dd2d7e16002b2aaf0e1a4fa39fb36c88c1bee",
+            "updatedAt": "2026-02-25T01:33:36.499Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Esteban, el Primer Mártir—Fiesta",
+  "name_pl": "Święty Szczepan, Pierwszy Męczennik — Uroczystość",
+  "feast_es": "El vigésimo sexto día de diciembre",
+  "feast_pl": "Dwudziesty szósty dzień grudnia"
+}

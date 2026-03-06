@@ -1,0 +1,48 @@
+{
+  "id": "06-21_saint_aloysius_gonzaga_religious_memorial",
+  "name": "Saint Aloysius Gonzaga, Religious—Memorial",
+  "mmdd": "06-21",
+  "feast": "The Twenty-First Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aloysius_Gonzaga"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-21_saint_aloysius_gonzaga_religious_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6e746352385f6e6af2aa76d4568daf27dafb0db161a81b094a314d9f75237a25",
+        "langs": {
+          "es": {
+            "translatedHash": "ee8e1a435b82def53ed47adf8f18f3a59fb7525346c40893e0c187936b3a4c7e",
+            "updatedAt": "2026-02-24T23:46:08.407Z"
+          },
+          "pl": {
+            "translatedHash": "3984baea05085e6890890c8ea9bc5ecb5267d929401bac34062a9fdbacb60a99",
+            "updatedAt": "2026-02-24T23:46:09.042Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4c108875e7e7a8341df938aed6880202e977b2a17e89ea5d5a3ed078e062f3af",
+        "langs": {
+          "es": {
+            "translatedHash": "1c6c9049bedaf967d286c925a2df3d79cafa4fb838563a833577a73a695cabea",
+            "updatedAt": "2026-02-24T23:46:09.957Z"
+          },
+          "pl": {
+            "translatedHash": "f4251347a3388e2b856296ffbd5eee3a133e3690a96cd3919742895b92051f2d",
+            "updatedAt": "2026-02-24T23:46:10.581Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Luis Gonzaga, Religioso—Memorial",
+  "name_pl": "Święty Alojzy Gonzaga, zakonnik — wspomnienie",
+  "feast_es": "El Vigésimo Primer Día de Junio",
+  "feast_pl": "Dwudziesty pierwszy dzień czerwca"
+}

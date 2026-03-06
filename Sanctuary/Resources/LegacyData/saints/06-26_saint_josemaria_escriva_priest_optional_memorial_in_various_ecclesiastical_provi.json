@@ -1,0 +1,79 @@
+{
+  "id": "06-26_saint_josemaria_escriva_priest_optional_memorial_in_various_ecclesiastical_provi",
+  "name": "Saint Josemaría Escrivá, Priest–Optional Memorial (in various ecclesiastical provinces)",
+  "mmdd": "06-26",
+  "feast": "The Twenty-Sixth day of June",
+  "summary": "Josemaría Escrivá de Balaguer y Albás was a Spanish Catholic priest who founded Opus Dei, an organization of laypeople and priests dedicated to the principle of everyday holiness. He was canonized by Pope John Paul II in 2002.",
+  "biography": "Josemaría Escrivá de Balaguer y Albás (9 January 1902 – 26 June 1975) was a Spanish Catholic priest who founded Opus Dei, an organization of laypeople and priests dedicated to the principle of everyday holiness. He was canonized by Pope John Paul II in 2002. Escrivá studied for the priesthood in Logroño and Zaragoza and was ordained in the latter in 1925. He then moved to Madrid, where he pursued doctoral studies in civil law at the Central University. After the start of the Spanish Civil War in 1936, Escrivá fled from Madrid, via Andorra and France, to the city of Burgos, which at the time served as the headquarters of the rebel Nationalist forces under General Francisco Franco. After the military triumph of the Nationalists, Escrivá returned to Madrid and completed his doctorate in 1939. His principal work was the initiation, government and expansion of Opus Dei. His best-known publication is The Way, which has been translated into 43 languages and has sold several million copies. Escrivá settled in Rome in 1946. In 1955 he received a doctorate in theology from the Lateran University. Escrivá and Opus Dei have attracted attention and controversy within the Catholic Church and...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-26_saint_josemaria_escriva_priest_optional_memorial_in_various_ecclesiastical_provi.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2fef41728fa19a90bb1c657ce51c0a842422e972b1771d050c04308e67c01be7",
+        "langs": {
+          "es": {
+            "translatedHash": "0f3c6a8690f6f612ba049b66d4e8bdd07e0f51c805886a43ef4e46e80890a23e",
+            "updatedAt": "2026-02-24T23:48:36.131Z"
+          },
+          "pl": {
+            "translatedHash": "6c2a3903a591444e787787d676db48ec04c3dfef1174242b0cc6f4bf1b753b91",
+            "updatedAt": "2026-02-24T23:48:36.950Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b37bd69e3f629b3a3dc610cb326bce218749ae225709c54a7402759b985e07e5",
+        "langs": {
+          "es": {
+            "translatedHash": "a1fa493d4c3d467e81d1ee49cb27d24ff4809cbb31c6df9b0ceec900c407ee08",
+            "updatedAt": "2026-02-24T23:48:37.595Z"
+          },
+          "pl": {
+            "translatedHash": "48d8d678727465733cb3ba45e2864d0501be2a8c27160e9c439b74a3bc4c75c4",
+            "updatedAt": "2026-02-24T23:48:38.273Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "be537769128bb9b461ce5cacec433ee733fc57e35a960fd23c72ba0121f4d51f",
+        "langs": {
+          "es": {
+            "translatedHash": "03eda4dbb0d225d5d9676b048f8625dbe710587bedec4f394c345b0e0acf494f",
+            "updatedAt": "2026-02-24T23:48:39.804Z"
+          },
+          "pl": {
+            "translatedHash": "94fef575961f7b368829734f2e86857dc788f2430abafc25b2c3e9c445ab5488",
+            "updatedAt": "2026-02-24T23:48:41.191Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "730262e32ff250d80748f92cabea40f2c25ac15d08633d0b2012318c2edf49c5",
+        "langs": {
+          "es": {
+            "translatedHash": "7109b5d1647e6f19e789a083c759cff8da9dbbb60b04fad358c2361f593ea5c7",
+            "updatedAt": "2026-02-24T23:48:45.349Z"
+          },
+          "pl": {
+            "translatedHash": "bb267f37dec9128082be3924d2deddfe73b26bcae57120df671cc4f6b6ff2ffd",
+            "updatedAt": "2026-02-24T23:48:50.470Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Josemaría Escrivá, Presbítero – Memoria Opcional (en varias provincias eclesiásticas)",
+  "name_pl": "Święty Josemaría Escrivá, kapłan – wspomnienie dowolne (w różnych prowincjach kościelnych)",
+  "feast_es": "El vigésimo sexto día de junio",
+  "feast_pl": "Dwudziesty szósty dzień czerwca",
+  "summary_es": "Josemaría Escrivá de Balaguer y Albás fue un sacerdote católico español que fundó el Opus Dei, una organización de laicos y sacerdotes dedicada al principio de la santidad cotidiana. Fue canonizado por el Papa Juan Pablo II en 2002.",
+  "summary_pl": "Josemaría Escrivá de Balaguer y Albás był hiszpańskim księdzem katolickim, założycielem Opus Dei, organizacji świeckich i kapłanów poświęconej zasadzie codziennej świętości. Został kanonizowany przez papieża Jana Pawła II w 2002 roku.",
+  "biography_es": "Josemaría Escrivá de Balaguer y Albás (9 de enero de 1902 – 26 de junio de 1975) fue un sacerdote católico español que fundó el Opus Dei, una organización de laicos y sacerdotes dedicada al principio de la santidad cotidiana. Fue canonizado por el Papa Juan Pablo II en 2002. Escrivá estudió para el sacerdocio en Logroño y Zaragoza, y fue ordenado en esta última en 1925. Luego se trasladó a Madrid, donde cursó estudios doctorales en derecho civil en la Universidad Central. Tras el inicio de la Guerra Civil Española en 1936, Escrivá huyó de Madrid, pasando por Andorra y Francia, hasta la ciudad de Burgos, que en ese momento servía como sede de las fuerzas rebeldes nacionalistas bajo el mando del general Francisco Franco. Tras el triunfo militar de los nacionalistas, Escrivá regresó a Madrid y completó su doctorado en 1939. Su obra principal fue la iniciación, gobierno y expansión del Opus Dei. Su publicación más conocida es El Camino, que ha sido traducida a 43 idiomas y ha vendido varios millones de ejemplares. Escrivá se estableció en Roma en 1946. En 1955 recibió un doctorado en teología por la Universidad Lateranense. Escrivá y el Opus Dei han atraído atención y controversia dentro de la Iglesia Católica y...",
+  "biography_pl": "Josemaría Escrivá de Balaguer y Albás (9 stycznia 1902 – 26 czerwca 1975) był hiszpańskim księdzem katolickim, który założył Opus Dei, organizację świeckich i kapłanów poświęconą zasadzie codziennej świętości. Został kanonizowany przez papieża Jana Pawła II w 2002 roku. Escrivá studiował na kapłana w Logroño i Saragossie, a święcenia przyjął w tym drugim mieście w 1925 roku. Następnie przeniósł się do Madrytu, gdzie kontynuował studia doktoranckie z prawa cywilnego na Uniwersytecie Centralnym. Po wybuchu hiszpańskiej wojny domowej w 1936 roku Escrivá uciekł z Madrytu, przez Andorę i Francję, do miasta Burgos, które wówczas było siedzibą buntowniczych sił narodowych pod dowództwem generała Francisco Franco. Po wojskowym zwycięstwie narodowców Escrivá powrócił do Madrytu i ukończył doktorat w 1939 roku. Jego głównym dziełem było zapoczątkowanie, kierowanie i rozwój Opus Dei. Jego najbardziej znanym dziełem jest „Droga”, które zostało przetłumaczone na 43 języki i sprzedało się w kilku milionach egzemplarzy. Escrivá osiedlił się w Rzymie w 1946 roku. W 1955 roku otrzymał doktorat z teologii na Uniwersytecie Laterańskim. Escrivá i Opus Dei wzbudzili zainteresowanie i kontrowersje w Kościele katolickim i..."
+}

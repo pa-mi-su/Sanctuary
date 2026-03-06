@@ -1,0 +1,80 @@
+{
+  "id": "01-01_saint_almachius",
+  "name": "Saint Almachius",
+  "mmdd": "01-01",
+  "feast": "The First Day of January",
+  "summary": "Saint Telemachus was a monk who, according to the Church historian Theodoret, tried to stop a gladiatorial fight in a Roman amphitheatre, and was stoned to death by the crowd. The Christian Emperor Honorius, however, was impressed by the monk's martyrdom and it spurred him to issue a historic ban on gladiatorial fights. Frederick George Holweck gives the year of his death as 391.",
+  "biography": "Saint Telemachus was a monk who, according to the Church historian Theodoret, tried to stop a gladiatorial fight in a Roman amphitheatre, and was stoned to death by the crowd. The Christian Emperor Honorius, however, was impressed by the monk's martyrdom and it spurred him to issue a historic ban on gladiatorial fights. Frederick George Holweck gives the year of his death as 391.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Telemachus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-01_saint_almachius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "effc2f0155fc3129f27be1451c735a1164b59b0cfd0a4d3f404ab9e78ac51b55",
+        "langs": {
+          "es": {
+            "translatedHash": "dc64f5789d41ef6ee7144814bff4017e980c10c3db13ac9ade9d600878155564",
+            "updatedAt": "2026-02-24T22:03:40.651Z"
+          },
+          "pl": {
+            "translatedHash": "c0c4b16ce7fa0d20f3a1d62b86dd1bc559e94b879f0663767d051b672b8849b4",
+            "updatedAt": "2026-02-24T22:03:41.288Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6e4e90439212f42ddf4657bd0d7c3701973d560121df3064c74e0a50d35f6341",
+        "langs": {
+          "es": {
+            "translatedHash": "18f693938c7da15c7f9a5dc2eeffd88bde56defc32cc7cffd7dbed729f1d9d25",
+            "updatedAt": "2026-02-24T22:03:42.551Z"
+          },
+          "pl": {
+            "translatedHash": "e112e654ad14e8ef6e7c6b528d753e4f4928d80d87ec92facfe089def3ef976c",
+            "updatedAt": "2026-02-24T22:03:43.315Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c890ee6f4c2b1ac96dc1c53270a33c6ac418ce6307f694e61fbad1a23dd0b415",
+        "langs": {
+          "es": {
+            "translatedHash": "032ad583a5e016e479fd002eeedd7931ae30093b149eafb59d1b211f3ccbcf34",
+            "updatedAt": "2026-02-24T22:03:44.908Z"
+          },
+          "pl": {
+            "translatedHash": "46212bc9af0678910f2250f08ea87f1dcf6d4951e8e19c0a2e7742e7b3110d6f",
+            "updatedAt": "2026-02-24T22:03:46.887Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c890ee6f4c2b1ac96dc1c53270a33c6ac418ce6307f694e61fbad1a23dd0b415",
+        "langs": {
+          "es": {
+            "translatedHash": "9cb9d7ef4b08adeb74b9d58a9351362df267e3a6199a314fe5ee55238efc86d4",
+            "updatedAt": "2026-02-24T22:03:49.974Z"
+          },
+          "pl": {
+            "translatedHash": "bf1925a19deee8281745cee455faec6e6fae70bd5541ee7dcc962195e1817b3e",
+            "updatedAt": "2026-02-24T22:03:53.571Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Almacio",
+  "name_pl": "Święty Almachius",
+  "feast_es": "El Primer Día de Enero",
+  "feast_pl": "Pierwszy dzień stycznia",
+  "summary_es": "San Telémaco fue un monje que, según el historiador de la Iglesia Teodoreto, intentó detener una pelea de gladiadores en un anfiteatro romano, y fue apedreado hasta la muerte por la multitud. Sin embargo, el emperador cristiano Honorio quedó impresionado por el martirio del monje y esto lo impulsó a emitir una histórica prohibición de las peleas de gladiadores. Frederick George Holweck señala el año de su muerte como 391.",
+  "summary_pl": "Święty Telemach był mnichem, który, według historyka Kościoła Teodoreta, próbował powstrzymać walkę gladiatorów na rzymskim amfiteatrze i został ukamienowany przez tłum. Chrześcijański cesarz Honoriusz jednak był pod wrażeniem męczeństwa mnicha i skłoniło go to do wydania historycznego zakazu walk gladiatorskich. Frederick George Holweck podaje rok jego śmierci jako 391.",
+  "biography_es": "San Telemaco fue un monje que, según el historiador de la Iglesia Teodoreto, intentó detener una pelea de gladiadores en un anfiteatro romano, y fue apedreado hasta la muerte por la multitud. Sin embargo, el emperador cristiano Honorio quedó impresionado por el martirio del monje y esto lo impulsó a emitir una histórica prohibición de las peleas de gladiadores. Frederick George Holweck señala el año de su muerte como 391.",
+  "biography_pl": "Święty Telemach był mnichem, który, według historyka Kościoła Teodoreta, próbował powstrzymać walkę gladiatorów na rzymskim amfiteatrze i został ukamienowany na śmierć przez tłum. Chrześcijański cesarz Honoriusz jednak był pod wrażeniem męczeństwa mnicha i skłoniło go to do wydania historycznego zakazu walk gladiatorów. Frederick George Holweck podaje rok jego śmierci jako 391."
+}

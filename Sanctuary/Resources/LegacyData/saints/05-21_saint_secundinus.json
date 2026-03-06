@@ -1,0 +1,48 @@
+{
+  "id": "05-21_saint_secundinus",
+  "name": "Saint Secundinus",
+  "mmdd": "05-21",
+  "feast": "The Twenty-First Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-21_saint_secundinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a33275527798c8a16e415f407155990fedbda0291fe3293879ef7c0512944e66",
+        "langs": {
+          "es": {
+            "translatedHash": "5ff44dd21b9e4808bad422748111ad8b31198864af9d0435651fe955cb1b4ece",
+            "updatedAt": "2026-02-24T23:29:21.861Z"
+          },
+          "pl": {
+            "translatedHash": "b15057e3873d1b41017d74d8d8844479ef9eb075b2f15097c182500b14607331",
+            "updatedAt": "2026-02-24T23:29:23.301Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2124350a534237b24a3dcc556d18f2c9f9ffdbdeb9bf5a2e4325fe2316d7c1f1",
+        "langs": {
+          "es": {
+            "translatedHash": "7367b8c3531f4b2a809df056d44d5492a0e858ed1b0b0337da90308447652524",
+            "updatedAt": "2026-02-24T23:29:24.085Z"
+          },
+          "pl": {
+            "translatedHash": "a7eebe1a54daf66fda2ce54d10d2c7a1d845cd345315e2f187979b62a6948bdd",
+            "updatedAt": "2026-02-24T23:29:24.733Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Secundino",
+  "name_pl": "Święty Sekundyn",
+  "feast_es": "El Vigésimo Primer Día de Mayo",
+  "feast_pl": "Dwudziesty pierwszy dzień maja"
+}

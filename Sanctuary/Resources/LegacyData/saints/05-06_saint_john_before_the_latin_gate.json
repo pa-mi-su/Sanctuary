@@ -1,0 +1,79 @@
+{
+  "id": "05-06_saint_john_before_the_latin_gate",
+  "name": "Saint John before the Latin Gate",
+  "mmdd": "05-06",
+  "feast": "The Sixth Day of May",
+  "summary": "John the Apostle, also known as Saint John the Beloved and, in Eastern Orthodox Christianity, Saint John the Theologian, was one of the Twelve Apostles of Jesus according to the New Testament. Generally listed as the youngest apostle, he was the son of Zebedee and Salome. His brother James was another of the Twelve Apostles. The Church Fathers identify him as John the Evangelist, John of Patmos, John the Elder, and the Beloved Disciple, and claim that he outlived the remaining apostles and was the only one to die of natural causes, although modern scholars are divided on the veracity of these claims.",
+  "biography": "John the Apostle (Ancient Greek: Ἰωάννης; Latin: Ioannes; c. 6 AD – c. 100 AD), also known as Saint John the Beloved and, in Eastern Orthodox Christianity, Saint John the Theologian, was one of the Twelve Apostles of Jesus according to the New Testament. Generally listed as the youngest apostle, he was the son of Zebedee and Salome. His brother James was another of the Twelve Apostles. The Church Fathers identify him as John the Evangelist, John of Patmos, John the Elder, and the Beloved Disciple, and claim that he outlived the remaining apostles and was the only one to die of natural causes, although modern scholars are divided on the veracity of these claims. John the Apostle is traditionally held to be the author of the Gospel of John, and many Christian denominations believe that he authored several other books of the New Testament (the three Johannine epistles and the Book of Revelation, together with the Gospel of John, are called the Johannine works), depending on whether he is distinguished from, or identified with, John the Evangelist, John the Elder, and John of Patmos. Although the authorship of the Johannine works has traditionally been attributed to John the Apostle,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-06_saint_john_before_the_latin_gate.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c9e5497ef3e67a5a5cf93b83d8519e8fd40e4981e67713448c56adfe77b7d663",
+        "langs": {
+          "es": {
+            "translatedHash": "9c9fb0e22da07658f0ceb11bf6a1040fa3ef8d73d429a4f8eef70252e87d4c0b",
+            "updatedAt": "2026-02-24T23:20:39.881Z"
+          },
+          "pl": {
+            "translatedHash": "e30aadd5d8bbc78c7f4e257516c0c3165aab8c89087f6e8313e5c073f0222081",
+            "updatedAt": "2026-02-24T23:20:40.556Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a15410c932de103dfabb55eb606ebaa428df21b8c4aadd593e15097846e5a5f8",
+        "langs": {
+          "es": {
+            "translatedHash": "3eabb96f944ddf784b1d7e71d9c6cf29dbfa156682ffb3d134ef6e44e171d8ec",
+            "updatedAt": "2026-02-24T23:20:41.168Z"
+          },
+          "pl": {
+            "translatedHash": "ee694ebc549943a5e9606c7065052911d1f119652eba8c2a9e10c723ed24c712",
+            "updatedAt": "2026-02-24T23:20:41.732Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b4286ae10087d2572f72bf2480f777d0c21809b8fe739bb1136e23f924f521a1",
+        "langs": {
+          "es": {
+            "translatedHash": "f19788047c6e06adb778ccf5a95e0308216f8ba5f582d3d5cc8c7e391dd83015",
+            "updatedAt": "2026-02-24T23:20:46.069Z"
+          },
+          "pl": {
+            "translatedHash": "5b2edb2480ae919777785d37bee72e6727c21451b2f634fdd92f2ef210c6633f",
+            "updatedAt": "2026-02-24T23:20:48.974Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2af69a1abdb85901905a233dfe71524d1b8be7e4474032531db8b45ce0862f9e",
+        "langs": {
+          "es": {
+            "translatedHash": "0b68e17c7ec27970b4caafe78d2a07977c51b54b1811beb7eaf237a8cfb4d334",
+            "updatedAt": "2026-02-24T23:20:53.113Z"
+          },
+          "pl": {
+            "translatedHash": "e3f32c177058eb78620ae7a02f561dfa87ba78cb322006c4c34a889473458396",
+            "updatedAt": "2026-02-24T23:20:58.838Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan ante la Puerta Latina",
+  "name_pl": "Święty Jan przed Bramą Łacińską",
+  "feast_es": "El Sexto Día de Mayo",
+  "feast_pl": "Szósty dzień maja",
+  "summary_es": "Juan el Apóstol, también conocido como San Juan el Amado y, en la Iglesia Ortodoxa Oriental, San Juan el Teólogo, fue uno de los Doce Apóstoles de Jesús según el Nuevo Testamento. Generalmente listado como el apóstol más joven, fue hijo de Zebedeo y Salomé. Su hermano Santiago fue otro de los Doce Apóstoles. Los Padres de la Iglesia lo identifican como Juan el Evangelista, Juan de Patmos, Juan el Anciano y el Discípulo Amado, y afirman que sobrevivió a los demás apóstoles y fue el único que murió de causas naturales, aunque los estudiosos modernos están divididos sobre la veracidad de estas afirmaciones.",
+  "summary_pl": "Jan Apostoł, znany również jako Święty Jan Umiłowany oraz, w chrześcijaństwie wschodnim, Święty Jan Teolog, był jednym z Dwunastu Apostołów Jezusa według Nowego Testamentu. Zazwyczaj wymieniany jako najmłodszy apostoł, był synem Zebedeusza i Salome. Jego brat Jakub był kolejnym z Dwunastu Apostołów. Ojcowie Kościoła utożsamiają go z Janem Ewangelistą, Janem z Patmos, Janem Starszym oraz Umiłowanym Uczniem, i twierdzą, że przeżył pozostałych apostołów i był jedynym, który zmarł śmiercią naturalną, choć współcześni uczeni są podzieleni co do prawdziwości tych twierdzeń.",
+  "biography_es": "Juan el Apóstol (griego antiguo: Ἰωάννης; latín: Ioannes; c. 6 d.C. – c. 100 d.C.), también conocido como San Juan el Amado y, en la Iglesia Ortodoxa Oriental, San Juan el Teólogo, fue uno de los Doce Apóstoles de Jesús según el Nuevo Testamento. Generalmente listado como el apóstol más joven, fue hijo de Zebedeo y Salomé. Su hermano Santiago fue otro de los Doce Apóstoles. Los Padres de la Iglesia lo identifican como Juan el Evangelista, Juan de Patmos, Juan el Anciano y el Discípulo Amado, y afirman que sobrevivió a los demás apóstoles y fue el único que murió de causas naturales, aunque los estudiosos modernos están divididos sobre la veracidad de estas afirmaciones. Tradicionalmente se considera que Juan el Apóstol es el autor del Evangelio de Juan, y muchas denominaciones cristianas creen que escribió varios otros libros del Nuevo Testamento (las tres epístolas joánicas y el Libro de Apocalipsis, junto con el Evangelio de Juan, se llaman las obras joánicas), dependiendo de si se le distingue o se le identifica con Juan el Evangelista, Juan el Anciano y Juan de Patmos. Aunque la autoría de las obras joánicas ha sido tradicionalmente atribuida a Juan el Apóstol,...",
+  "biography_pl": "Jan Apostoł (starożytna greka: Ἰωάννης; łacina: Ioannes; ok. 6 n.e. – ok. 100 n.e.), znany również jako Święty Jan Umiłowany oraz w chrześcijaństwie wschodnim jako Święty Jan Teolog, był jednym z Dwunastu Apostołów Jezusa według Nowego Testamentu. Zazwyczaj wymieniany jako najmłodszy apostoł, był synem Zebedeusza i Salome. Jego brat Jakub był kolejnym z Dwunastu Apostołów. Ojcowie Kościoła utożsamiają go z Janem Ewangelistą, Janem z Patmos, Janem Starszym oraz Umiłowanym Uczniem, i twierdzą, że przeżył pozostałych apostołów i był jedynym, który zmarł śmiercią naturalną, choć współcześni uczeni są podzieleni co do prawdziwości tych twierdzeń. Jan Apostoł jest tradycyjnie uważany za autora Ewangelii Jana, a wiele wyznań chrześcijańskich wierzy, że napisał także kilka innych ksiąg Nowego Testamentu (trzy listy johannejskie oraz Księgę Objawienia, razem z Ewangelią Jana, nazywa się dziełami johannejskimi), w zależności od tego, czy jest odróżniany od, czy utożsamiany z Janem Ewangelistą, Janem Starszym i Janem z Patmos. Chociaż autorstwo dzieł johannejskich tradycyjnie przypisuje się Janowi Apostołowi,..."
+}

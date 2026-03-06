@@ -1,0 +1,46 @@
+{
+  "id": "02-18_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "02-18",
+  "feast": "The Eighteenth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:37:27.707Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:37:28.244Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e717613b4529d73135f34efd2f029164c518d1117de31a4979e1769daf4d48e9",
+        "langs": {
+          "es": {
+            "translatedHash": "d0d4dd2091a12abd20e4e9b4d5123b53065604a4c4c4d22146b9b49c7903f371",
+            "updatedAt": "2026-02-24T22:37:29.117Z"
+          },
+          "pl": {
+            "translatedHash": "0442de6f14c17fff22bb3f85e8d611f53c8c3c4d8fe7c5cec4ba48f0b44fc553",
+            "updatedAt": "2026-02-24T22:37:29.745Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día dieciocho de febrero",
+  "feast_pl": "Osiemnasty dzień lutego"
+}

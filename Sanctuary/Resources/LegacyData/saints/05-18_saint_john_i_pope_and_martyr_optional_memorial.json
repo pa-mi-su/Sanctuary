@@ -1,0 +1,48 @@
+{
+  "id": "05-18_saint_john_i_pope_and_martyr_optional_memorial",
+  "name": "Saint John I, Pope and Martyr—Optional Memorial",
+  "mmdd": "05-18",
+  "feast": "The Eighteenth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_I_Tzimiskes"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-18_saint_john_i_pope_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6757c5e29705183d8dc2adefa4badfd7927072a64b1fcdb60d5edd45dd01c5e7",
+        "langs": {
+          "es": {
+            "translatedHash": "61498023ff79976852c327bd01396d051e475af655b43681b192d22d232d0d5f",
+            "updatedAt": "2026-02-24T23:27:19.186Z"
+          },
+          "pl": {
+            "translatedHash": "0e8a323c293e28909784a6f87e04893e9e6c5db18a7df2ced4e7d531ef460352",
+            "updatedAt": "2026-02-24T23:27:20.158Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d471d3803992b7bb232006a3c67e258da19d46483006d1a81e96967e2b545a2a",
+        "langs": {
+          "es": {
+            "translatedHash": "15f137a5ee0954e315190e75cbe80c70604a5148d656c2f280f8cebc8bb90d9e",
+            "updatedAt": "2026-02-24T23:27:20.782Z"
+          },
+          "pl": {
+            "translatedHash": "7b8470a4d44cde28175d4f6573f3ed6db48f3ec8e3196269d4e73a06c31e96ba",
+            "updatedAt": "2026-02-24T23:27:21.366Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan I, Papa y Mártir—Memoria Opcional",
+  "name_pl": "Święty Jan I, papież i męczennik — wspomnienie dowolne",
+  "feast_es": "El día dieciocho de mayo",
+  "feast_pl": "Osiemnasty dzień maja"
+}

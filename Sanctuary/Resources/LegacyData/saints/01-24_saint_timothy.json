@@ -1,0 +1,81 @@
+{
+  "id": "01-24_saint_timothy",
+  "name": "Saint Timothy",
+  "mmdd": "01-24",
+  "feast": "The Twenty-Fourth Day of January",
+  "summary": "Timothy was an early Christian evangelist and the first Catholic bishop of Ephesus, whom the Acts of Timothy relates died around the year AD 97.",
+  "biography": "Timothy was an early Christian evangelist and the first Christian bishop of Ephesus, whom the Acts of Timothy relates died around the year AD 97.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Timothy",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-24_saint_timothy.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7a71fc4176185782f4588038bd6c817ee50950ded1359cbf97816020ac7ba589",
+        "langs": {
+          "es": {
+            "translatedHash": "e1d44a23bf1e1c8237936934f67ad92641783f8f10d13d0e5f70b59bcccb6688",
+            "updatedAt": "2026-02-24T22:21:15.778Z"
+          },
+          "pl": {
+            "translatedHash": "d206babbc7328c7e0bb79a3245cb8afaf24cd1e64c969a5f7f753886ad0762fc",
+            "updatedAt": "2026-02-24T22:21:16.346Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "41f7d613393c9b75716b8a1fa63f96e69a9f08223b822cfd7e08321227167cdd",
+        "langs": {
+          "es": {
+            "translatedHash": "1fdf598f9f5d78621097f561b9fd9fecf468ae260a034e509e12fdfbf0966937",
+            "updatedAt": "2026-02-24T22:21:17.060Z"
+          },
+          "pl": {
+            "translatedHash": "73845f73966fd6388f2ec54c7bd3a6dad7ccd201242a62efebfd83edac4bfaac",
+            "updatedAt": "2026-02-24T22:21:17.740Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "118facf82c2754e7585baf307518c14cc1b958867a9752dd7ed9419c8bcfeafa",
+        "langs": {
+          "es": {
+            "translatedHash": "7273c26e80ec121869060cb588e42d1d48645c1fe6a906f37bb9ac1c14e5dc9b",
+            "updatedAt": "2026-02-24T22:21:18.609Z"
+          },
+          "pl": {
+            "translatedHash": "fde826586fc34a5dc27ba48a2766c31d5cd27d6ccb809b39f02a2e14e5c1a99b",
+            "updatedAt": "2026-02-24T22:21:20.093Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "34d689f1a9881919086bdef6e9bc4144d2d0b3c55fbea1605f3038ac412e694f",
+        "langs": {
+          "es": {
+            "translatedHash": "94f6af8c9a8e0b6cfb648683427762904a998cda053a6e138a8d5a6a1fbfd2a3",
+            "updatedAt": "2026-02-24T22:21:21.251Z"
+          },
+          "pl": {
+            "translatedHash": "787fec5069b7271d1474093c51ef9224fa6bc686a890e6606ab1b153c269845e",
+            "updatedAt": "2026-02-24T22:21:22.521Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Timoteo",
+  "name_pl": "Święty Tymoteusz",
+  "feast_es": "El vigésimo cuarto día de enero",
+  "feast_pl": "Dwudziesty czwarty dzień stycznia",
+  "summary_es": "Timoteo fue un evangelista cristiano temprano y el primer obispo católico de Éfeso, de quien los Hechos de Timoteo relatan que murió alrededor del año 97 d.C.",
+  "summary_pl": "Tymoteusz był wczesnym chrześcijańskim ewangelistą i pierwszym katolickim biskupem Efezu, o którym Dzieje Tymoteusza mówią, że zmarł około roku 97 n.e.",
+  "biography_es": "Timoteo fue un evangelista cristiano temprano y el primer obispo cristiano de Éfeso, de quien los Hechos de Timoteo relatan que murió alrededor del año 97 d.C.",
+  "biography_pl": "Tymoteusz był wczesnym chrześcijańskim ewangelistą i pierwszym biskupem chrześcijańskim Efezu, o którym Dzieje Tymoteusza mówią, że zmarł około roku 97 n.e."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "02-14_saints_cyril_and_methodius",
+  "name": "Saints Cyril and Methodius",
+  "mmdd": "02-14",
+  "feast": "The Fourteenth Day of February",
+  "summary": "Cyril and Methodius were brothers, Byzantine Christian theologians and missionaries. For their work evangelizing the Slavs, they are known as the \"Apostles to the Slavs\".",
+  "biography": "Cyril and Methodius were brothers, Byzantine Christian theologians and missionaries. For their work evangelizing the Slavs, they are known as the \"Apostles to the Slavs\".",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-14_saints_cyril_and_methodius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "825a51c6bcac30eab429d0ba0bf47be2f9c7abcaee5bf789749f99c2b083c4d7",
+        "langs": {
+          "es": {
+            "translatedHash": "b8e321f4d8409ed77327082baec8a854b1ae85067ff05daab0732d4432a9e3f1",
+            "updatedAt": "2026-02-24T22:35:45.560Z"
+          },
+          "pl": {
+            "translatedHash": "59bdc6e2e28f2efc966d90eeb049b633b99b74482b6eabd2518bf10f4aee4e4f",
+            "updatedAt": "2026-02-24T22:35:46.021Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d0f4a1807bb720bdf5bdc4b181573fd9e4611de4f132fa94abaa93b0db5bee7a",
+        "langs": {
+          "es": {
+            "translatedHash": "c72df861520715d146e30a9a830c9475260af1b107678527d6a2973517ed370e",
+            "updatedAt": "2026-02-24T22:35:46.570Z"
+          },
+          "pl": {
+            "translatedHash": "80e44068d5c77495a3bb26131d6eae63d335f94f6dc2ea94ec9e136b88542502",
+            "updatedAt": "2026-02-24T22:35:47.225Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "1c476e3016257e107d550c5e58b5dfa49478e6fd16b0033223fd8e446998e341",
+        "langs": {
+          "es": {
+            "translatedHash": "c58c126b2806b66054026089e3e91234cd3b01ce1c7db54a6ded03196402eae7",
+            "updatedAt": "2026-02-24T22:35:48.312Z"
+          },
+          "pl": {
+            "translatedHash": "8d84693290f813efb475464ee55d4cee513509e98b7d3ea6d896ee07a0a0bd29",
+            "updatedAt": "2026-02-24T22:35:49.699Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1c476e3016257e107d550c5e58b5dfa49478e6fd16b0033223fd8e446998e341",
+        "langs": {
+          "es": {
+            "translatedHash": "0fd8ea5779f84a09485057c1bc7d62df2a255b66d1e4bf7ad5cba410f20c9184",
+            "updatedAt": "2026-02-24T22:35:50.897Z"
+          },
+          "pl": {
+            "translatedHash": "8d84693290f813efb475464ee55d4cee513509e98b7d3ea6d896ee07a0a0bd29",
+            "updatedAt": "2026-02-24T22:35:52.107Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Cirilo y Metodio",
+  "name_pl": "Święci Cyryl i Metody",
+  "feast_es": "El catorce de febrero",
+  "feast_pl": "Czternasty dzień lutego",
+  "summary_es": "Ciril y Metodio fueron hermanos, teólogos cristianos bizantinos y misioneros. Por su labor evangelizadora entre los eslavos, son conocidos como los \"Apóstoles de los eslavos\".",
+  "summary_pl": "Cyryl i Metody byli braćmi, bizantyjskimi chrześcijańskimi teologami i misjonarzami. Za swoją pracę ewangelizacyjną wśród Słowian są znani jako „Apostołowie Słowian”.",
+  "biography_es": "Ciril y Metodio fueron hermanos, teólogos y misioneros cristianos bizantinos. Por su labor evangelizadora entre los eslavos, son conocidos como los \"Apóstoles de los eslavos\".",
+  "biography_pl": "Cyryl i Metody byli braćmi, bizantyjskimi chrześcijańskimi teologami i misjonarzami. Za swoją pracę ewangelizacyjną wśród Słowian są znani jako „Apostołowie Słowian”."
+}

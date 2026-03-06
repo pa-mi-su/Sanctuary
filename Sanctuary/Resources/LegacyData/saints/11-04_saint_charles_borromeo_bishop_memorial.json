@@ -1,0 +1,48 @@
+{
+  "id": "11-04_saint_charles_borromeo_bishop_memorial",
+  "name": "Saint Charles Borromeo, Bishop—Memorial",
+  "mmdd": "11-04",
+  "feast": "The Fourth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charles_Borromeo"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-04_saint_charles_borromeo_bishop_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "179e554b618b06ae93c62ce1fb78f96779b4d17e494a61777bf7e659da111468",
+        "langs": {
+          "es": {
+            "translatedHash": "df1ac4a8e021bc4c2bc5d3c1ddaab413a864faf0cd03d66e221ff858f1710ea0",
+            "updatedAt": "2026-02-25T01:02:10.658Z"
+          },
+          "pl": {
+            "translatedHash": "e493535bd33b1d3a4448cbde13e1556be175ae3a8980d6d10a55280c38b82bc0",
+            "updatedAt": "2026-02-25T01:02:11.410Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "412689caef4f1de655c1005326dd765da85924e489246358f7f77bcf1e75d8ce",
+        "langs": {
+          "es": {
+            "translatedHash": "fc3e57d0c5605e5ec175522f55bc689f13039fa554a9059f3f2713e79dac156f",
+            "updatedAt": "2026-02-25T01:02:12.218Z"
+          },
+          "pl": {
+            "translatedHash": "7ce20734963284b5174d9fddf3bf82e840548f8d8796ddd69652e8a179d45932",
+            "updatedAt": "2026-02-25T01:02:12.837Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Carlos Borromeo, Obispo—Memorial",
+  "name_pl": "Święty Karol Boromeusz, biskup — wspomnienie",
+  "feast_es": "El Cuarto Día de Noviembre",
+  "feast_pl": "Czwarty dzień listopada"
+}

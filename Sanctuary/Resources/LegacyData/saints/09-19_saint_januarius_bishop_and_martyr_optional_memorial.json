@@ -1,0 +1,48 @@
+{
+  "id": "09-19_saint_januarius_bishop_and_martyr_optional_memorial",
+  "name": "Saint Januarius, Bishop and Martyr—Optional Memorial",
+  "mmdd": "09-19",
+  "feast": "The Nineteenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustina_Kowalska"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-19_saint_januarius_bishop_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "488c197c9e6b5895e45b915f46017101df4761304b78f32aa528030ba6a8851f",
+        "langs": {
+          "es": {
+            "translatedHash": "b5916202293232a32179dd36a7ec3c0416bcea60856aa0fbc665045c39637475",
+            "updatedAt": "2026-02-25T00:34:09.513Z"
+          },
+          "pl": {
+            "translatedHash": "5dfad9f3b052f9fe91a3c01084c140efad78fe43707b51c2f36fcf2553e3575f",
+            "updatedAt": "2026-02-25T00:34:10.376Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "946cc47eee6ad99a5bfc06e8fe77a22bf2a91bbf3ffd07d2527a0d32676c5131",
+        "langs": {
+          "es": {
+            "translatedHash": "8214744584b5180dff40b2db3bc204b10614e7f87183fb57b508f0c23d20b5a3",
+            "updatedAt": "2026-02-25T00:34:11.132Z"
+          },
+          "pl": {
+            "translatedHash": "9041f9fda5d51c938bf106541b2b0fa50ecc0bc178646047fd51b38da15e3b68",
+            "updatedAt": "2026-02-25T00:34:11.828Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jenaro, Obispo y Mártir—Memoria Opcional",
+  "name_pl": "Święty January, biskup i męczennik — wspomnienie dowolne",
+  "feast_es": "El Día Diecinueve de Septiembre",
+  "feast_pl": "Dziewiętnasty Dzień Września"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "08-14_saint_ursicius",
+  "name": "Saint Ursicius",
+  "mmdd": "08-14",
+  "feast": "The Fourteenth Day of August",
+  "summary": "Ursicinus of Ravenna is venerated as a martyr by the Catholic Church. He was said to be a physician of Ravenna. His legend is connected with that of Vitalis, who is said to have encouraged the wavering Ursicinus after the physician was sentenced to death for his faith. After he was beheaded, Vitalis buried him in Ravenna.",
+  "biography": "References\n\n\nExternal links\nSaints of June 19: Ursicinus Archived 2019-01-05 at the Wayback Machine",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursicinus_of_Ravenna"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-14_saint_ursicius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d0e0d75b052dbe2e70af7c474848e086f017441d29b72bccbad3f3ea4978a7ae",
+        "langs": {
+          "es": {
+            "translatedHash": "bfe018e015b0b52157b5b3b13801a4de6b4ac27945dd92a02795086ee0477f45",
+            "updatedAt": "2026-02-25T00:15:10.553Z"
+          },
+          "pl": {
+            "translatedHash": "b6d84acc6308505cfdbba44999b66ca550dc3b9a9da2741157c868f7ef24e650",
+            "updatedAt": "2026-02-25T00:15:11.026Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0f4c3c3e27b2dc2e1ecb8a21ad7957675e61446c05e985c1ecd7dda6cff87549",
+        "langs": {
+          "es": {
+            "translatedHash": "b2a0890feec7635584e1620a925a159fc7670a1df32419103fdfc1f5c6fdbdf6",
+            "updatedAt": "2026-02-25T00:15:11.852Z"
+          },
+          "pl": {
+            "translatedHash": "0d46adb9fd72997b52749b58d3fac7eb633b9980fe3a00d1adfe46740dca5ccf",
+            "updatedAt": "2026-02-25T00:15:12.404Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8a79adccccce2f7ea505970adfae3a0daa9bb6a648a58b5c9e72378cd16d5e73",
+        "langs": {
+          "es": {
+            "translatedHash": "55b197d4cf3789ed4f49e94d215c947e449db9fc557bb27077acafdca07e419c",
+            "updatedAt": "2026-02-25T00:15:14.030Z"
+          },
+          "pl": {
+            "translatedHash": "f7f30e0f60ffca3c0af259e628ad29102a98c3873cca90fd979f6f23b22f6e83",
+            "updatedAt": "2026-02-25T00:15:15.978Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "daf48e3fa7bdd867284773b17de324eb63e87708c75c1a98140f104c2a2e7d9c",
+        "langs": {
+          "es": {
+            "translatedHash": "ccec79a13c79ede760829d5707178bf6cfd3bee3b36e1265dbe79b3de40b1563",
+            "updatedAt": "2026-02-25T00:15:17.032Z"
+          },
+          "pl": {
+            "translatedHash": "b3e3f5c65ac41af761f9072c41494f5f7c6ba90e78412bc23d51aac8465afc57",
+            "updatedAt": "2026-02-25T00:15:17.952Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ursicio",
+  "name_pl": "Święty Ursicjusz",
+  "feast_es": "El día catorce de agosto",
+  "feast_pl": "Czternasty dzień sierpnia",
+  "summary_es": "Ursicino de Rávena es venerado como mártir por la Iglesia Católica. Se dice que fue un médico de Rávena. Su leyenda está relacionada con la de Vital, quien se dice que animó al vacilante Ursicino después de que el médico fuera condenado a muerte por su fe. Después de ser decapitado, Vital lo enterró en Rávena.",
+  "summary_pl": "Ursicyn z Rawenny jest czczony jako męczennik przez Kościół katolicki. Mówi się, że był lekarzem z Rawenny. Jego legenda jest związana z historią Witalisa, który miał dodać otuchy chwiejnemu Ursicynowi po tym, jak lekarz został skazany na śmierć za swoją wiarę. Po ścięciu Ursicyna, Witalis pochował go w Rawennie.",
+  "biography_es": "Referencias\n\n\nEnlaces externos  \nSantos del 19 de junio: Ursicino Archivado el 2019-01-05 en la Máquina del Tiempo",
+  "biography_pl": "Bibliografia\n\n\nLinki zewnętrzne\nŚwięci 19 czerwca: Ursicyn Archiwum z 2019-01-05 w Wayback Machine"
+}

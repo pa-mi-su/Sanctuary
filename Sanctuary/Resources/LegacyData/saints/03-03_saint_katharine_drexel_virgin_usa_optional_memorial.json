@@ -1,0 +1,48 @@
+{
+  "id": "03-03_saint_katharine_drexel_virgin_usa_optional_memorial",
+  "name": "Saint Katharine Drexel, Virgin—USA Optional Memorial",
+  "mmdd": "03-03",
+  "feast": "The Third day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2023%E2%80%9324_NCAA_Division_I_women's_basketball_season"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-03_saint_katharine_drexel_virgin_usa_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "393ccee1a5f07a5d4b683d44e697ac16605ed7c54c9bb41f59d4952e0294ad15",
+        "langs": {
+          "es": {
+            "translatedHash": "cbb39316bd524db85316d98ea42a2abc0ef1786e9cce9933c086d8b723c63655",
+            "updatedAt": "2026-02-24T22:47:21.571Z"
+          },
+          "pl": {
+            "translatedHash": "901984958b2fb35aa2475a11cfb86a4c9e1c1746893e19116fa5880f431a3e44",
+            "updatedAt": "2026-02-24T22:47:22.530Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "27a6e4b0e7f7a75fbb82512388e793ccc1d123924e49f9c17e5d0f6a17e7ab1e",
+        "langs": {
+          "es": {
+            "translatedHash": "5c049afe82bb390d35ee00f6464e6bf319feca104b5cfb9cdc8ce4cbd0c620f1",
+            "updatedAt": "2026-02-24T22:47:23.285Z"
+          },
+          "pl": {
+            "translatedHash": "736366cc539b671fd98a5faa7e931d0bb8df25bed4e22d7d74398dafb0a36241",
+            "updatedAt": "2026-02-24T22:47:23.817Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Catalina Drexel, Virgen—Memoria Opcional de Estados Unidos",
+  "name_pl": "Święta Katarzyna Drexel, Dziewica — wspomnienie dowolne w USA",
+  "feast_es": "El tercer día de marzo",
+  "feast_pl": "Trzeci dzień marca"
+}

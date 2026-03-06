@@ -1,0 +1,48 @@
+{
+  "id": "03-07_saints_perpetua_and_felicity_martyrs_memorial_optional_memorial_if_lenten_weekda",
+  "name": "Saints Perpetua and Felicity, Martyrs—Memorial (Optional Memorial if Lenten weekday)",
+  "mmdd": "03-07",
+  "feast": "The Seventh day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Perpetua_and_Felicity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-07_saints_perpetua_and_felicity_martyrs_memorial_optional_memorial_if_lenten_weekda.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8d08f7e22fa53cf62c5b4ed6db5976670c126b8f08b9f7bf578ffbd435f01af8",
+        "langs": {
+          "es": {
+            "translatedHash": "ff05c64523e6fea3b018c5965fe4f48fef10656c0002ac0deb0186e2364f1765",
+            "updatedAt": "2026-02-24T22:50:06.532Z"
+          },
+          "pl": {
+            "translatedHash": "cf772316083d17a6f5c2b66f7d8037cfdda6ba24a17255c62a71bfcfa8f71251",
+            "updatedAt": "2026-02-24T22:50:07.868Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "08049b70de8c5b92f68abbf06a8f93413736ac954eb468ccb9274a4d4d063202",
+        "langs": {
+          "es": {
+            "translatedHash": "50841c566aba526876eaa1cec8b3edd69d8ee21914c6b1db2b90700917b01bd3",
+            "updatedAt": "2026-02-24T22:50:08.492Z"
+          },
+          "pl": {
+            "translatedHash": "30729ac675f18b1d11cf473cb0be4d1cf2e87bdd97e43b803a51b85ea4439ad8",
+            "updatedAt": "2026-02-24T22:50:09.070Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santas Perpetua y Felicidad, Mártires—Memoria (Memoria opcional si es día laborable de Cuaresma)",
+  "name_pl": "Święte Perpetua i Felicyta, Męczennice — Wspomnienie (Wspomnienie dowolne w dni powszednie Wielkiego Postu)",
+  "feast_es": "El séptimo día de marzo",
+  "feast_pl": "Siódmy dzień marca"
+}

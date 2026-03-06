@@ -1,0 +1,80 @@
+{
+  "id": "02-08_saint_jerome_aemiliani",
+  "name": "Saint Jerome AEmiliani",
+  "mmdd": "02-08",
+  "feast": "The Eighth Day of February",
+  "summary": "Gerolamo Emiliani, CRS was an Italian humanitarian, founder of the Somaschi Fathers, and is considered a saint by the Catholic Church.",
+  "biography": "Gerolamo Emiliani, CRS (Italian: Gerolamo Emiliani also Jerome Aemilian, Hiëronymus Emiliani) (1486 – 8 February 1537) was an Italian humanitarian, founder of the Somaschi Fathers, and is considered a saint by the Catholic Church.\nBorn in Venice, he spent some time in the military, and later served as a magistrate. Emiliani provided for the sick, the hungry, and orphans; and persuaded others to do likewise. Through his good offices a number of hospitals and orphanages were established in several northern Italian towns. He was canonized in 1767 and is the patron saint of orphans.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerolamo_Emiliani",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-08_saint_jerome_aemiliani.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3b862196f8839c585de15f26a406ce0fd00d8ae32337026372020573e9c3e66a",
+        "langs": {
+          "es": {
+            "translatedHash": "7484567713cd35c53faae709e2a8d33be5b4dcc4c582efcd032fe8fac94c9737",
+            "updatedAt": "2026-02-24T22:31:09.972Z"
+          },
+          "pl": {
+            "translatedHash": "bcb4621a9323908764ac46d9c02f2ba9610690848a23885c4c6620c5ee8bbe20",
+            "updatedAt": "2026-02-24T22:31:10.860Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "29080fd8bc0a08435355493f19ba0bfb6ca379b7e6cf58faf3bde1aa44ca3154",
+        "langs": {
+          "es": {
+            "translatedHash": "2507f0f77262fea4ca9b41e2cd6f035d0977f60dd2b395212ead83dceaa0e5bf",
+            "updatedAt": "2026-02-24T22:31:11.497Z"
+          },
+          "pl": {
+            "translatedHash": "01a433f4bf8d29534a4c1d78bc50b3a704c8c1beb13daf5f4170159158c5ec0a",
+            "updatedAt": "2026-02-24T22:31:12.069Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ff8a18a12d8094ef164d4e5f07582d01c3df123d3316ce0dc0364068b6299bf8",
+        "langs": {
+          "es": {
+            "translatedHash": "fa8b0331f00d944a73234f678be768ba70d7faf11f16d930bc54074213fbdcff",
+            "updatedAt": "2026-02-24T22:31:13.189Z"
+          },
+          "pl": {
+            "translatedHash": "3d52204f12ade96bd4366eb6f424e245bd6d0560b46126a0a650a3730813c768",
+            "updatedAt": "2026-02-24T22:31:14.177Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e9ff3914d5ff27e461b6faf49d9f19cdde52795fdec75cbcb35539a21906aa54",
+        "langs": {
+          "es": {
+            "translatedHash": "b42e8bf21cd7d3c8cf6bc1ec135b7319a66bc8cce2bd915fec3196376d6f0398",
+            "updatedAt": "2026-02-24T22:31:16.506Z"
+          },
+          "pl": {
+            "translatedHash": "d670b9e0d7a86855cd9040c4564b30853b0e79a3d86a339f7e79b2e269cde344",
+            "updatedAt": "2026-02-24T22:31:19.417Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jerónimo Emiliani",
+  "name_pl": "Święty Hieronim Emiliani",
+  "feast_es": "El Octavo Día de Febrero",
+  "feast_pl": "Ósmy dzień lutego",
+  "summary_es": "Gerolamo Emiliani, CRS fue un humanitario italiano, fundador de los Padres Somascos, y es considerado santo por la Iglesia Católica.",
+  "summary_pl": "Gerolamo Emiliani, CRS był włoskim działaczem humanitarnym, założycielem Ojców Somaszków i jest uważany za świętego przez Kościół katolicki.",
+  "biography_es": "Gerolamo Emiliani, CRS (italiano: Gerolamo Emiliani también Jerome Aemilian, Hiëronymus Emiliani) (1486 – 8 de febrero de 1537) fue un humanitario italiano, fundador de los Padres Somascos, y es considerado santo por la Iglesia Católica.  \nNacido en Venecia, pasó algún tiempo en el ejército y luego sirvió como magistrado. Emiliani atendió a los enfermos, a los hambrientos y a los huérfanos; y persuadió a otros para que hicieran lo mismo. Gracias a sus buenos oficios, se establecieron varios hospitales y orfanatos en varias ciudades del norte de Italia. Fue canonizado en 1767 y es el santo patrón de los huérfanos.",
+  "biography_pl": "Gerolamo Emiliani, CRS (włoski: Gerolamo Emiliani, także Jerome Aemilian, Hiëronymus Emiliani) (1486 – 8 lutego 1537) był włoskim humanistą, założycielem Ojców Somaschów i jest uważany za świętego przez Kościół katolicki.  \nUrodził się w Wenecji, spędził trochę czasu w wojsku, a później służył jako sędzia. Emiliani troszczył się o chorych, głodnych i sieroty; i namawiał innych, by czynili to samo. Dzięki jego staraniom w kilku północnowłoskich miastach powstało wiele szpitali i sierocińców.  \nZostał kanonizowany w 1767 roku i jest patronem sierot."
+}

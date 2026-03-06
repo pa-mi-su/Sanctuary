@@ -1,0 +1,48 @@
+{
+  "id": "09-16_saints_cornelius_pope_and_cyprian_bishop_martyrs_memorial",
+  "name": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs—Memorial",
+  "mmdd": "09-16",
+  "feast": "The Sixteenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vietnamese_Martyrs"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-16_saints_cornelius_pope_and_cyprian_bishop_martyrs_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a245d4a5ca98962b57b1c26354ca10dbab4e03c97de2ab4a390492b788b08753",
+        "langs": {
+          "es": {
+            "translatedHash": "059c77460e0cf2290f91ad9354e007868725040c565fac390b4f1f4603e09fff",
+            "updatedAt": "2026-02-25T00:32:15.622Z"
+          },
+          "pl": {
+            "translatedHash": "8d82e3096a20e548abf65f20a3456f0325fa1d1d8b2dbe47d35ad97f90d9f3d3",
+            "updatedAt": "2026-02-25T00:32:16.637Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0d63a8ed48ab3c439a56f16322663795d721246c5e5c0dd5215d41c53f420e16",
+        "langs": {
+          "es": {
+            "translatedHash": "0c5fc6d1f95c5e328797fe433c7d4e52d97eb99a125c6d1fbc59e407161e1b81",
+            "updatedAt": "2026-02-25T00:32:17.328Z"
+          },
+          "pl": {
+            "translatedHash": "e49cbd18e0630787a3c0adff8d4476669925fcf1e8b69c1fb7941c787b02ce5f",
+            "updatedAt": "2026-02-25T00:32:17.970Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Cornelio, Papa, y Cipriano, Obispo, Mártires—Memoria",
+  "name_pl": "Święci Korneliusz, papież, i Cyprian, biskup, męczennicy — Wspomnienie",
+  "feast_es": "El Dieciséis de Septiembre",
+  "feast_pl": "Szesnasty dzień września"
+}

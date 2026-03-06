@@ -1,0 +1,79 @@
+{
+  "id": "10-14_saint_fortunata",
+  "name": "Saint Fortunata",
+  "mmdd": "10-14",
+  "feast": "The Fourteenth Day of October",
+  "summary": "Fortunata is an Italian girl's name. Fortunata is celebrated on October 14 in memory of Santa Fortunata, a 4th-century Christian martyr in Caesarea.",
+  "biography": "Fortunata is an Italian girl's name. Fortunata is celebrated on October 14 in memory of Santa Fortunata, a 4th-century Christian martyr in Caesarea. The Roman Catholic Church recognizes nineteen Saints and Saints bearing the name Fortunato and Fortunata.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fortunata_(name)",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-14_saint_fortunata.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3f24f7fab3fb857f1406966f84237451b007ae3465b1d89ebe15a0d7138571f4",
+        "langs": {
+          "es": {
+            "translatedHash": "a4e24e66bd2f7c753bf5870b71f64fab5cecf93f811ab9bbeaa9a05d3603f220",
+            "updatedAt": "2026-02-25T00:49:38.363Z"
+          },
+          "pl": {
+            "translatedHash": "0286405bdfe2a7c4be5fb2e7f8840725e743b1d10804d4d1747c96e6152b4052",
+            "updatedAt": "2026-02-25T00:49:39.003Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2d2304e9ad23e85acee21fe45e20fc3dccfdfac6363bafc8f9da12cd60ab29ed",
+        "langs": {
+          "es": {
+            "translatedHash": "423c5700f26fcf1d7932eb3745909c0b18bbd7c34d39a7a1cc61083648622a4a",
+            "updatedAt": "2026-02-25T00:49:39.581Z"
+          },
+          "pl": {
+            "translatedHash": "e048c529db88f45441adf743ed5a4b132140770b42973c99a1427dd00d0c8539",
+            "updatedAt": "2026-02-25T00:49:40.438Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "41acc17dce56f20cbf5cc89833d8b13e0c892808bb5c686d0d1b42f47489cef1",
+        "langs": {
+          "es": {
+            "translatedHash": "8b09b33cce34b6bf760e6865052d3d3bf89c4822c9f7d348ce69d7067ec75580",
+            "updatedAt": "2026-02-25T00:49:41.568Z"
+          },
+          "pl": {
+            "translatedHash": "e61e42558994bb3121079fb92e69f80596cfbda1e17c0698050f8e4942d99c63",
+            "updatedAt": "2026-02-25T00:49:42.589Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b2385ff67dd07508604a3dc6b6b88ae29df362f7cf9845ac995cf59eecf5d700",
+        "langs": {
+          "es": {
+            "translatedHash": "a965b80bb0c159c0c81fea6f3e740fe20f21bc610d3668a09234964da4ed0936",
+            "updatedAt": "2026-02-25T00:49:44.436Z"
+          },
+          "pl": {
+            "translatedHash": "2419f4bb33efaf98d57b9a48c1b1e9a77653b497941288705745e4e9b3886bb1",
+            "updatedAt": "2026-02-25T00:49:46.326Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Fortunata",
+  "name_pl": "Święta Fortunata",
+  "feast_es": "El día catorce de octubre",
+  "feast_pl": "Czternasty Dzień Października",
+  "summary_es": "Fortunata es un nombre de niña italiano. Fortunata se celebra el 14 de octubre en memoria de Santa Fortunata, una mártir cristiana del siglo IV en Cesarea.",
+  "summary_pl": "Fortunata to włoskie imię żeńskie.  \nFortunata jest obchodzona 14 października na pamiątkę św. Fortunaty, chrześcijańskiej męczennicy z IV wieku w Cezarei.",
+  "biography_es": "Fortunata es un nombre de niña italiano. Fortunata se celebra el 14 de octubre en memoria de Santa Fortunata, una mártir cristiana del siglo IV en Cesarea. La Iglesia Católica Romana reconoce a diecinueve Santos y Santas que llevan el nombre de Fortunato y Fortunata.",
+  "biography_pl": "Fortunata to włoskie imię żeńskie. Fortunata jest obchodzona 14 października na pamiątkę św. Fortunaty, chrześcijańskiej męczennicy z IV wieku w Cezarei. Kościół rzymskokatolicki uznaje dziewiętnastu świętych i święte noszących imię Fortunato i Fortunata."
+}

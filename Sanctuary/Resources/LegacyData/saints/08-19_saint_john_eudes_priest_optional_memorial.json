@@ -1,0 +1,48 @@
+{
+  "id": "08-19_saint_john_eudes_priest_optional_memorial",
+  "name": "Saint John Eudes, Priest—Optional Memorial",
+  "mmdd": "08-19",
+  "feast": "The Nineteenth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-19_saint_john_eudes_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "de322ebba6317e95a42fd84ef8618454e997a46b67018080cd6b51d45b446921",
+        "langs": {
+          "es": {
+            "translatedHash": "4c0e479627364cc70923cba4c7643042abde4187e681b45da0609bed9a590f5b",
+            "updatedAt": "2026-02-25T00:17:58.205Z"
+          },
+          "pl": {
+            "translatedHash": "c5de472c78444b20c77ea74d66fd9a18824cf0cad95342f36cbc004511f06946",
+            "updatedAt": "2026-02-25T00:17:59.024Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c6a4e2e3645f64fe97da876ea94d621f4f0f7fb958da3aaa47d80859eb8b4af0",
+        "langs": {
+          "es": {
+            "translatedHash": "9ebdbd5ba55f931b91d7a9324167ec4ede4eb8f84fd38fece5386705149ce9f7",
+            "updatedAt": "2026-02-25T00:17:59.774Z"
+          },
+          "pl": {
+            "translatedHash": "1a1d335ffce2e1a8bdf2601e63ba50f3528da9afb05512aa03cf1476c72b349d",
+            "updatedAt": "2026-02-25T00:18:00.467Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Eudes, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Jan Eudes, kapłan — wspomnienie dowolne",
+  "feast_es": "El día diecinueve de agosto",
+  "feast_pl": "Dziewiętnasty dzień sierpnia"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "11-17_saint_elizabeth_of_hungary_religious_memorial",
+  "name": "Saint Elizabeth of Hungary, Religious—Memorial",
+  "mmdd": "11-17",
+  "feast": "The Seventeenth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-17_saint_elizabeth_of_hungary_religious_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "66c70f9f941536be42249c79bda359decd1fcff073a23182ae3d80fdba7d6cf0",
+        "langs": {
+          "es": {
+            "translatedHash": "b4d45c390828aaa79d5d1301371df3a80d254162beb2a0949a255610fd70b32a",
+            "updatedAt": "2026-02-25T01:09:50.999Z"
+          },
+          "pl": {
+            "translatedHash": "ff344ccced9c084d86aa63ca9a1270530f42ce9baf0b1bc55a0a61e78fa0c026",
+            "updatedAt": "2026-02-25T01:09:52.075Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "320549041dae1b8ecbd04f68be58c56a93e87a70c3c1c969d4ac09f7632a569e",
+        "langs": {
+          "es": {
+            "translatedHash": "5b9d587e1fe58cd7ef80f28e0b95f5c04f2df28eccb1613a4e42706f31958f09",
+            "updatedAt": "2026-02-25T01:09:52.642Z"
+          },
+          "pl": {
+            "translatedHash": "02b16b69b59e416ef20875b773ac3ad80087ab8b9d51f6258e8a7b3946708215",
+            "updatedAt": "2026-02-25T01:09:53.391Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Isabel de Hungría, Religiosa—Memorial",
+  "name_pl": "Święta Elżbieta Węgierska, Zakonnica — Wspomnienie",
+  "feast_es": "El Diecisiete de Noviembre",
+  "feast_pl": "Siedemnasty dzień listopada"
+}

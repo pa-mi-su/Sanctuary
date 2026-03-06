@@ -1,0 +1,48 @@
+{
+  "id": "10-14_saint_callistus_i_pope_and_martyr_optional_memorial",
+  "name": "Saint Callistus I, Pope and Martyr—Optional Memorial",
+  "mmdd": "10-14",
+  "feast": "The Fourteenth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-14_saint_callistus_i_pope_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b6a0985f9a4f4ff58edc1dd6ee16405d755b677558be0388d7c9702d2e384eeb",
+        "langs": {
+          "es": {
+            "translatedHash": "333d01e6a4136d10ca91aea96e4348bd6a7d39cb23bff65cc36ed9b3017ded05",
+            "updatedAt": "2026-02-25T00:49:34.355Z"
+          },
+          "pl": {
+            "translatedHash": "e5de758d201a6e93c8bada9a5e4cae0abf23ca8b53223d7934f8c62c94853b7b",
+            "updatedAt": "2026-02-25T00:49:35.252Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2d2304e9ad23e85acee21fe45e20fc3dccfdfac6363bafc8f9da12cd60ab29ed",
+        "langs": {
+          "es": {
+            "translatedHash": "20241a62175255d3d0c609c423690833d5669268c6d589acfcbd82dc02455482",
+            "updatedAt": "2026-02-25T00:49:36.025Z"
+          },
+          "pl": {
+            "translatedHash": "e346437b88c280d7869339165a734f1b30202ec7030a8e4ea076a170f4146dfd",
+            "updatedAt": "2026-02-25T00:49:37.858Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Calixto I, Papa y Mártir—Memoria Opcional",
+  "name_pl": "Święty Kalikst I, papież i męczennik — wspomnienie dowolne",
+  "feast_es": "El catorce de octubre",
+  "feast_pl": "Czternasty dzień października"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "08-09_saint_teresa_benedicta_of_the_cross_edith_stein_virgin_and_martyr_optional_memor",
+  "name": "Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr—Optional Memorial",
+  "mmdd": "08-09",
+  "feast": "The Ninth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-09_saint_teresa_benedicta_of_the_cross_edith_stein_virgin_and_martyr_optional_memor.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "24e91850cf963643143e4bb3cc54d31df4b70d925b99f3c14d704f2dc1eddd93",
+        "langs": {
+          "es": {
+            "translatedHash": "c9c78ebad8563463d69c3b93af06b62333ff32c77253aa7e2e1ec614e67f72e8",
+            "updatedAt": "2026-02-25T00:12:32.182Z"
+          },
+          "pl": {
+            "translatedHash": "d73f91783149a45ea53c31c94dc425acd44377d18814bd3bf813a27420f810a7",
+            "updatedAt": "2026-02-25T00:12:33.302Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b3930925bab4686e335dde4f2107f9b14bd2f25e36ff214e5cd80893b8512a4c",
+        "langs": {
+          "es": {
+            "translatedHash": "a4d62fb2e54b9a3fb79063967569902a400812bd69cb9ebff0487ee48290b424",
+            "updatedAt": "2026-02-25T00:12:33.880Z"
+          },
+          "pl": {
+            "translatedHash": "a12836b8348373d9bf6b98e788bac3c855dfbb49f6bc432990cf47c2ad6a0204",
+            "updatedAt": "2026-02-25T00:12:34.528Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Teresa Benedicta de la Cruz (Edith Stein), Virgen y Mártir—Memoria Opcional",
+  "name_pl": "Święta Teresa Benedykta od Krzyża (Edith Stein), Dziewica i Męczennica — Wspomnienie dowolne",
+  "feast_es": "El Noveno Día de Agosto",
+  "feast_pl": "Dziewiąty dzień sierpnia"
+}

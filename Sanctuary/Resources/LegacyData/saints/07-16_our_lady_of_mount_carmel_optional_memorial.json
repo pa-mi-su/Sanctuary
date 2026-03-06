@@ -1,0 +1,48 @@
+{
+  "id": "07-16_our_lady_of_mount_carmel_optional_memorial",
+  "name": "Our Lady of Mount Carmel—Optional Memorial",
+  "mmdd": "07-16",
+  "feast": "The Sixteenth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-16_our_lady_of_mount_carmel_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d8729a204a4b7f0d7a38c51faea4dd00b5baa9988010d4413a93fac406d012c8",
+        "langs": {
+          "es": {
+            "translatedHash": "b70fb14884afe37a70633aed9e71015af0303f6954b39c2353b7af17bd3dc6e2",
+            "updatedAt": "2026-02-24T23:59:19.355Z"
+          },
+          "pl": {
+            "translatedHash": "66ff2de43ebdd8c8e34c5bd8bd30657ac3cec393c8492d7d62de858981fd560d",
+            "updatedAt": "2026-02-24T23:59:20.163Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "267cffae74f78c777e0b7a647e9627f36e4516f27d297ee17c7e08bd26955930",
+        "langs": {
+          "es": {
+            "translatedHash": "fa17f1b0f4f205cfd7de29a64e3a2284e379768baf455fd79dc00cd4797b5b26",
+            "updatedAt": "2026-02-24T23:59:21.110Z"
+          },
+          "pl": {
+            "translatedHash": "60bcaf4fe14d54133aced07da69dfa1c8bbd5a390f3b22161f25f42ceed5ebff",
+            "updatedAt": "2026-02-24T23:59:21.756Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora del Monte Carmelo—Memoria Opcional",
+  "name_pl": "Matka Boża z Góry Karmel — Wspomnienie dowolne",
+  "feast_es": "El Dieciséis de Julio",
+  "feast_pl": "Szesnasty dzień lipca"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "08-04_saint_jean_vianney_the_cure_of_ars_priest_memorial",
+  "name": "Saint Jean Vianney (the Curé of Ars), Priest—Memorial",
+  "mmdd": "08-04",
+  "feast": "The Fourth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Veneration_of_Mary_in_the_Catholic_Church"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-04_saint_jean_vianney_the_cure_of_ars_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d1dcac4d93e1405b82177f741f97f6ecdeac6d53ed7d0997947f094403eb136d",
+        "langs": {
+          "es": {
+            "translatedHash": "866f39de78fc454502d969acab318e11055c823914a0e42b97ba8d0cec9ce39d",
+            "updatedAt": "2026-02-25T00:09:44.854Z"
+          },
+          "pl": {
+            "translatedHash": "f2bdddea1667e0fe5912e51437f9b4a949d85845ef96e3479e299570500cac41",
+            "updatedAt": "2026-02-25T00:09:45.826Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6a084231b5794f08614726369d64ebe24ef65f6837475bb6364f2dd891f3df68",
+        "langs": {
+          "es": {
+            "translatedHash": "c1b62fba283710bd4c24a6351e00d112c9be9633507ef8d6aab2d831d3331382",
+            "updatedAt": "2026-02-25T00:09:46.839Z"
+          },
+          "pl": {
+            "translatedHash": "29755672066ede4d15424ba81196faebdc31662dc73e27ad758f881f477f4ad2",
+            "updatedAt": "2026-02-25T00:09:47.472Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan María Vianney (el Cura de Ars), Presbítero—Memorial",
+  "name_pl": "Święty Jan Vianney (proboszcz z Ars), kapłan — wspomnienie obowiązkowe",
+  "feast_es": "El Cuarto Día de Agosto",
+  "feast_pl": "Czwarty dzień sierpnia"
+}

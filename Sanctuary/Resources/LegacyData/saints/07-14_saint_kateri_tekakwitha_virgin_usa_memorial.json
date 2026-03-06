@@ -1,0 +1,48 @@
+{
+  "id": "07-14_saint_kateri_tekakwitha_virgin_usa_memorial",
+  "name": "Saint Kateri Tekakwitha, Virgin—USA Memorial",
+  "mmdd": "07-14",
+  "feast": "The Fourteenth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-14_saint_kateri_tekakwitha_virgin_usa_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "80bcd4cd918b1e9e9843faae7b327946195e1db1e7add676a6f80a85f36f947e",
+        "langs": {
+          "es": {
+            "translatedHash": "06bfe6a833f37a0b680c11df46d1ac89d3035964e102af0a5dc95c60093f5c6b",
+            "updatedAt": "2026-02-24T23:58:13.283Z"
+          },
+          "pl": {
+            "translatedHash": "32cf947b956b0f50b82cbf591a66be878041ae33b7ada1a598c5de4e1fbf2987",
+            "updatedAt": "2026-02-24T23:58:14.115Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d2cd2d15c22d28922948c7b9eee50b11468fe5207159aa42e5b5d1ea6a4a3433",
+        "langs": {
+          "es": {
+            "translatedHash": "64ed9b2d278ee25522965b61e672df91de3c289ae391fd160380d882ec25df60",
+            "updatedAt": "2026-02-24T23:58:14.620Z"
+          },
+          "pl": {
+            "translatedHash": "73b360e1ea1b423a3885e11ae9dbee5273eb6865e8507e11cd5e9c6b63975372",
+            "updatedAt": "2026-02-24T23:58:15.340Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Kateri Tekakwitha, Virgen—Memoria de los Estados Unidos",
+  "name_pl": "Święta Kateri Tekakwitha, Dziewica — Wspomnienie USA",
+  "feast_es": "El catorce de julio",
+  "feast_pl": "Czternasty dzień lipca"
+}

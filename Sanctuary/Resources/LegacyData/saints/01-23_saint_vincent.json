@@ -1,0 +1,79 @@
+{
+  "id": "01-23_saint_vincent",
+  "name": "Saint Vincent",
+  "mmdd": "01-23",
+  "feast": "The Twenty-Third Day of January",
+  "summary": "Vincent de Paul, CM was an Occitan French Catholic priest who dedicated himself to serving the poor.",
+  "biography": "Vincent de Paul, CM (24 April 1581 – 27 September 1660) was an Occitan French Catholic priest who dedicated himself to serving the poor. Saint Vincent de Paul was ordained subdeacon and deacon at Tarbes Cathedral in South West France. In 1622, Vincent was appointed as chaplain to the galleys. After working for some time in Paris among imprisoned galley slaves, he returned to be the superior of what is now known as the Congregation of the Mission, or the \"Vincentians\" (in France known as \"Lazaristes\"), which he co-founded. These Vincentian priests, with vows of poverty, chastity, obedience, and stability, were to devote themselves entirely to the people in smaller towns and villages. Vincent was zealous in conducting retreats for clergy at a time when the local clergy's morals were flagging. He was a pioneer in seminary education and also founded the Daughters of Charity of Saint Vincent de Paul. He is the namesake of the Vincentian Family of organisations, which includes both of the religious communities he founded. He was renowned for his compassion, humility, and generosity. Vincent was canonised in 1737 and is venerated as a saint in both the Catholic Church and the Anglican Communion...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vincent_de_Paul",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-23_saint_vincent.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ca8c4c95d04f5b44c7c8976173db6f552e68e27e230c44d599a9a941b6e38661",
+        "langs": {
+          "es": {
+            "translatedHash": "dbbe68f64a0817ba9855600f6ca6f8c39bd4470369fd6e0625be88e82b53dd95",
+            "updatedAt": "2026-02-24T22:20:35.026Z"
+          },
+          "pl": {
+            "translatedHash": "41d80f06c366ae4d7fdd35192d5295b1becace06e4347229b39f0560b9fd62a5",
+            "updatedAt": "2026-02-24T22:20:36.359Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "158d848445c7b1c485086a34944c1a3ac9e6d66a8adb46f1c15401c88529a848",
+        "langs": {
+          "es": {
+            "translatedHash": "7a079864f281d9e289df4ef126ef16e0f150c5ad4795fcf1ccb16a89ddb5ef09",
+            "updatedAt": "2026-02-24T22:20:37.071Z"
+          },
+          "pl": {
+            "translatedHash": "6a5a3dfa46e8363427670d2fa121e1a482afbb928e2bbaacc939f891b9627204",
+            "updatedAt": "2026-02-24T22:20:37.783Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "63fe4a3a5bd44dfe019a6f8f592919e34a5056af06b7416e0ba3f29bffde3cb4",
+        "langs": {
+          "es": {
+            "translatedHash": "34ce9c02b86774354c5dce0021a33ca53f74aeda83985015fb693c23185e26af",
+            "updatedAt": "2026-02-24T22:20:38.742Z"
+          },
+          "pl": {
+            "translatedHash": "ad9eb79651b1727ce391e8e051fc781fc0963f815fc6d336b3f0ea01ca080107",
+            "updatedAt": "2026-02-24T22:20:39.682Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "db9914b014be822f8a8b572e36de101a4e4787c915af4a84624ac3c7e3cc304b",
+        "langs": {
+          "es": {
+            "translatedHash": "0b69c0bc3fd434d6a43db247c1f502b1c3b55f87450f6db7ae8c907c3d4b248d",
+            "updatedAt": "2026-02-24T22:20:45.099Z"
+          },
+          "pl": {
+            "translatedHash": "13cf5cddc0c069591b43d97c79efa547dbc088d6272caa3b177fa3215d494b71",
+            "updatedAt": "2026-02-24T22:20:50.022Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vicente",
+  "name_pl": "Święty Wincenty",
+  "feast_es": "El vigésimo tercer día de enero",
+  "feast_pl": "Dwudziesty trzeci dzień stycznia",
+  "summary_es": "Vicente de Paúl, CM, fue un sacerdote católico francés occitano que se dedicó a servir a los pobres.",
+  "summary_pl": "Wincenty à Paulo, CM, był oksytańskim francuskim księdzem katolickim, który poświęcił się służbie ubogim.",
+  "biography_es": "Vicente de Paúl, CM (24 de abril de 1581 – 27 de septiembre de 1660) fue un sacerdote católico francés occitano que se dedicó al servicio de los pobres. San Vicente de Paúl fue ordenado subdiácono y diácono en la Catedral de Tarbes, en el suroeste de Francia. En 1622, Vicente fue nombrado capellán de las galeras. Después de trabajar algún tiempo en París entre los esclavos galeras encarcelados, regresó para ser el superior de lo que ahora se conoce como la Congregación de la Misión, o los \"Vicentinos\" (en Francia conocidos como \"Lazaristas\"), que cofundó. Estos sacerdotes vicentinos, con votos de pobreza, castidad, obediencia y estabilidad, debían dedicarse por completo a la gente de los pueblos y aldeas pequeñas. Vicente fue ferviente en la realización de retiros para el clero en una época en que la moral del clero local estaba decayendo. Fue un pionero en la educación en seminarios y también fundó a las Hijas de la Caridad de San Vicente de Paúl. Es el homónimo de la Familia Vicentina de organizaciones, que incluye ambas comunidades religiosas que fundó. Fue reconocido por su compasión, humildad y generosidad. Vicente fue canonizado en 1737 y es venerado como santo tanto en la Iglesia Católica como en la Comunión Anglicana...",
+  "biography_pl": "Wincenty à Paulo, CM (24 kwietnia 1581 – 27 września 1660) był oksytańskim francuskim księdzem katolickim, który poświęcił się służbie ubogim. Święty Wincenty à Paulo został wyświęcony na subdiakona i diakona w katedrze w Tarbes na południowym zachodzie Francji. W 1622 roku Wincenty został mianowany kapelanem galerników. Po pewnym czasie pracy w Paryżu wśród uwięzionych galerników, powrócił, by zostać przełożonym tego, co obecnie znane jest jako Zgromadzenie Misji, czyli „Wincentyńczyków” (we Francji zwanych „Lazarystami”), które współzałożył. Ci księża wincentyńscy, składający śluby ubóstwa, czystości, posłuszeństwa i stabilności, mieli całkowicie poświęcić się ludziom w mniejszych miastach i wsiach. Wincenty gorliwie prowadził rekolekcje dla duchowieństwa w czasie, gdy moralność lokalnego kleru słabła. Był pionierem w edukacji seminaryjnej, a także założył Córy Miłosierdzia św. Wincentego à Paulo. Jest patronem Rodziny Wincentyńskiej, która obejmuje obie założone przez niego wspólnoty zakonne. Był znany ze swojego współczucia, pokory i hojności. Wincenty został kanonizowany w 1737 roku i jest czczony jako święty zarówno w Kościele katolickim, jak i w komunii anglikańskiej..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "02-14_saint_vitalis",
+  "name": "Saint Vitalis",
+  "mmdd": "02-14",
+  "feast": "The Fourteenth Day of February",
+  "summary": "Orderic Vitalis was an English chronicler and Benedictine monk who wrote one of the great contemporary chronicles of 11th- and 12th-century Normandy and Anglo-Norman England. Working out of the Abbey of Saint-Evroul, he is credited with writing the Historia Ecclesiastica, a work detailing the history of Europe and the Mediterranean from the birth of Jesus Christ into his own age. The son of a cleric, he was born into a noble family, claiming both English and Norman heritage. While he is known primarily for the Historia Ecclesiastica, he held various positions within the abbey including script master, librarian, and cantor. A prolific writer, he addressed various topics in his writings, both religious and secular. Modern historians view him as a reliable source.",
+  "biography": "Early life\nOrderic was born on 16 February 1075 in Atcham, Shropshire, England, the eldest son of a French priest, Odelerius of Orléans. He was followed by his two younger brothers Benedict and Everard. Odelerius had entered the service of Roger de Montgomery, 1st Earl of Shrewsbury, and had received from his patron a chapel there in 1082.\nClerical marriage during the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Orderic_Vitalis",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-14_saint_vitalis.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2c699fc93ee722fddf344cd70d7892431c74a8f626ab71ec4784a3922bae0237",
+        "langs": {
+          "es": {
+            "translatedHash": "f7b15e98255bf72ce4d3920a731d339603212cc08094a5e65e5eb5e15c823b12",
+            "updatedAt": "2026-02-24T22:35:32.954Z"
+          },
+          "pl": {
+            "translatedHash": "2302faaed1b81fa3c5ccd37ec68f3a07dbc99e08f3ebe92b6ddb56097857ba76",
+            "updatedAt": "2026-02-24T22:35:33.714Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d0f4a1807bb720bdf5bdc4b181573fd9e4611de4f132fa94abaa93b0db5bee7a",
+        "langs": {
+          "es": {
+            "translatedHash": "c72df861520715d146e30a9a830c9475260af1b107678527d6a2973517ed370e",
+            "updatedAt": "2026-02-24T22:35:34.470Z"
+          },
+          "pl": {
+            "translatedHash": "1a0308988d9e98425f5db4a610950bcde42d94f446ef3301f88f68554e6c3b58",
+            "updatedAt": "2026-02-24T22:35:35.382Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bc09dc2f45667d45cb4ee587f5fd42c55faa30429933c5fb286d6d6363def42d",
+        "langs": {
+          "es": {
+            "translatedHash": "2798478cc1219bcf71a5f37dcbcb63c9c0cdc6afb07174ac96f61316ceb6dd70",
+            "updatedAt": "2026-02-24T22:35:38.225Z"
+          },
+          "pl": {
+            "translatedHash": "8c073d26c16f6a42d4191e809058b3fe2b6cd1d93e6ab0b771a599bd16560e61",
+            "updatedAt": "2026-02-24T22:35:41.354Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b2dfa9e2795868872bf91b89a5164349c019a51ef201e70161687112755349f5",
+        "langs": {
+          "es": {
+            "translatedHash": "c0027981495a91cc435683c8c2b2ff5d68fcd8aa3b40a76f6b4b5c3d5bee6eb0",
+            "updatedAt": "2026-02-24T22:35:43.019Z"
+          },
+          "pl": {
+            "translatedHash": "52ccc1d35508289e4c9daae0f8387bc7ea10caa2413e7a082b3d0c40a5d88141",
+            "updatedAt": "2026-02-24T22:35:45.005Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vitaliano",
+  "name_pl": "Święty Witalis",
+  "feast_es": "El catorce de febrero",
+  "feast_pl": "Czternasty Dzień Lutego",
+  "summary_es": "Orderico Vital es un cronista inglés y monje benedictino que escribió una de las grandes crónicas contemporáneas de la Normandía y la Inglaterra anglonormandas de los siglos XI y XII. Trabajando desde la Abadía de Saint-Evroul, se le atribuye la autoría de la Historia Ecclesiastica, una obra que detalla la historia de Europa y el Mediterráneo desde el nacimiento de Jesucristo hasta su propia época. Hijo de un clérigo, nació en una familia noble, reclamando tanto herencia inglesa como normanda. Aunque es conocido principalmente por la Historia Ecclesiastica, ocupó varios cargos dentro de la abadía, incluyendo maestro de escritura, bibliotecario y cantor. Escritor prolífico, abordó diversos temas en sus escritos, tanto religiosos como seculares. Los historiadores modernos lo consideran una fuente confiable.",
+  "summary_pl": "Orderik Vitalis był angielskim kronikarzem i benedyktyńskim mnichem, który napisał jedną z wielkich współczesnych kronik Normandii i anglo-normańskiej Anglii XI i XII wieku. Pracując w opactwie Saint-Evroul, jest autorem Historia Ecclesiastica, dzieła opisującego historię Europy i basenu Morza Śródziemnego od narodzin Jezusa Chrystusa aż do jego własnych czasów. Syn duchownego, urodził się w rodzinie szlacheckiej, podkreślając swoje angielskie i normańskie pochodzenie. Choć znany jest przede wszystkim z Historia Ecclesiastica, pełnił różne funkcje w opactwie, w tym mistrza skryptorium, bibliotekarza i kantora. Był płodnym pisarzem, poruszającym w swoich dziełach różne tematy, zarówno religijne, jak i świeckie. Współcześni historycy uważają go za wiarygodne źródło.",
+  "biography_es": "Vida temprana  \nOrderico nació el 16 de febrero de 1075 en Atcham, Shropshire, Inglaterra, siendo el hijo mayor de un sacerdote francés, Odelerio de Orleans. Le siguieron sus dos hermanos menores, Benedicto y Everardo. Odelerio había entrado al servicio de Roger de Montgomery, primer conde de Shrewsbury, y había recibido de su patrón una capilla allí en 1082.  \nMatrimonio clerical durante el...",
+  "biography_pl": "Wczesne życie  \nOrderic urodził się 16 lutego 1075 roku w Atcham, Shropshire, Anglia, jako najstarszy syn francuskiego księdza, Odeleriusza z Orleanu. Miał dwóch młodszych braci, Benedykta i Ewerarda. Odeleriusz wszedł na służbę u Rogera de Montgomery, pierwszego hrabiego Shrewsbury, i otrzymał od swojego protektora kaplicę tam w 1082 roku.  \nMałżeństwo duchowieństwa podczas..."
+}

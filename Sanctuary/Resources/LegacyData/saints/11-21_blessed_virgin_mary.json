@@ -1,0 +1,79 @@
+{
+  "id": "11-21_blessed_virgin_mary",
+  "name": "Blessed Virgin Mary",
+  "mmdd": "11-21",
+  "feast": "The Twenty-First Day of November",
+  "summary": "The Presentation of the Blessed Virgin Mary, known in the East as The Entry of the Most Holy Theotokos into the Temple, is a liturgical feast celebrated on November 21 by the Catholic, Eastern Orthodox, and some Anglo-Catholic Churches.",
+  "biography": "Story\n\nThe account of the Presentation of the Blessed Virgin Mary in the Temple is principally based on the Protoevangelium of James, which has been dated by historians prior to the year 200 AD. The story relates that in thanksgiving for the birth of...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Presentation_of_Mary",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-21_blessed_virgin_mary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "490b595b3b7482adac9422f0a6a2a9d0ed9627f450d5754588556851af9bf2de",
+        "langs": {
+          "es": {
+            "translatedHash": "8da3848851d4e09fa28859d368dfb9258689a4785eb12a139866babe91455ea3",
+            "updatedAt": "2026-02-25T01:11:57.003Z"
+          },
+          "pl": {
+            "translatedHash": "9b0403b626232dd1cd3024139c58fbf6489445f788470a136190437386a58b26",
+            "updatedAt": "2026-02-25T01:11:57.787Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d5e26719356f489d7aed5f014e3c339a178bed4f0e15523f96cc6b82dd954d5d",
+        "langs": {
+          "es": {
+            "translatedHash": "3771851aebe15bb011ead0894839ab8dca6a1c9d6612bf7eb81b90fe2c37b783",
+            "updatedAt": "2026-02-25T01:11:58.290Z"
+          },
+          "pl": {
+            "translatedHash": "2db0b78e85adae81cac46dbf4f418ca35f823498f759bdb3365ffeaa28df9267",
+            "updatedAt": "2026-02-25T01:11:58.836Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "16b1eb92720efa7ec447f9d36f102e3fd0aeeefdc5e44605d8fb145b9364bd57",
+        "langs": {
+          "es": {
+            "translatedHash": "5d0fdb88a294f3672d18701bd91095da29a1e0d256ca6fd0240213854b4c9bc2",
+            "updatedAt": "2026-02-25T01:12:00.353Z"
+          },
+          "pl": {
+            "translatedHash": "1b031ce392f00fcc09fd6616d39990d95c30e04bc9052918cb48ff53c5e1d8b0",
+            "updatedAt": "2026-02-25T01:12:02.217Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4add48004e4e044b5647cda60e808ea82fb9a0fb6414b8d81df2fed30969fce4",
+        "langs": {
+          "es": {
+            "translatedHash": "f3f99c621c5e24f29edcb7e29942dcda62ba9ae8c45217e0da4f9e906d563b46",
+            "updatedAt": "2026-02-25T01:12:03.711Z"
+          },
+          "pl": {
+            "translatedHash": "836950721a6c09ae1c7ed0aae0ac8a419a04ebb603ca00d588ef8d0b4d9396b6",
+            "updatedAt": "2026-02-25T01:12:05.204Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Virgen María",
+  "name_pl": "Błogosławiona Dziewica Maryja",
+  "feast_es": "El Vigésimo Primer Día de Noviembre",
+  "feast_pl": "Dwudziesty pierwszy dzień listopada",
+  "summary_es": "La Presentación de la Santísima Virgen María, conocida en Oriente como La Entrada de la Santísima Theotokos en el Templo, es una fiesta litúrgica celebrada el 21 de noviembre por las Iglesias Católica, Ortodoxa Oriental y algunas Iglesias Anglo-Católicas.",
+  "summary_pl": "Ofiarowanie Najświętszej Maryi Panny, znane na Wschodzie jako Wprowadzenie Najświętszej Bogurodzicy do Świątyni, jest świętem liturgicznym obchodzonym 21 listopada przez Kościół katolicki, prawosławny oraz niektóre Kościoły anglokatolickie.",
+  "biography_es": "Historia\n\nEl relato de la Presentación de la Santísima Virgen María en el Templo se basa principalmente en el Protoevangelio de Santiago, que los historiadores han fechado antes del año 200 d.C. La historia cuenta que en acción de gracias por el nacimiento de...",
+  "biography_pl": "Historia\n\nOpis Ofiarowania Najświętszej Maryi Panny w Świątyni opiera się głównie na Protoewangelii Jakuba, którą historycy datują na okres przed rokiem 200 n.e. Opowieść mówi, że w podziękowaniu za narodziny..."
+}

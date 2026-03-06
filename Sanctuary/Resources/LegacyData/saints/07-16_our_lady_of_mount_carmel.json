@@ -1,0 +1,79 @@
+{
+  "id": "07-16_our_lady_of_mount_carmel",
+  "name": "Our Lady of Mount Carmel",
+  "mmdd": "07-16",
+  "feast": "The Sixteenth Day of July",
+  "summary": "The Basilica of Our Lady of Mount Carmel is a Carmelite Roman Catholic minor basilica dedicated to Our Lady of Mount Carmel, located in Valletta, Malta. It is one of the major churches of Valletta, and forms part of a UNESCO World Heritage Site which includes the entire city. The present church was constructed between 1958 and 1981 on the site of a late 16th century church which was destroyed during World War II.",
+  "biography": "The Basilica of Our Lady of Mount Carmel (Maltese: Santwarju Bażilika tal-Madonna tal-Karmnu) is a Carmelite Roman Catholic minor basilica dedicated to Our Lady of Mount Carmel, located in Valletta, Malta. It is one of the major churches of Valletta, and forms part of a UNESCO World Heritage Site which includes the entire city. The present church was constructed between 1958 and 1981 on the site of a late 16th century church which was destroyed during World War II. Pope Leo XIII granted a Pontifical decree of canonical coronation towards its venerated Marian image of Our Lady of Carmel on 19 June 1880 through the Vatican Chapter. The coronation took place on 15 July 1881. History First church The Carmelite Order had a presence on Malta from at least 1418, and it established a church and convent within Valletta shortly after the city's founding in 1566. Hospitaller Grand Master Pierre de Monte transferred a plot of land to the Carmelites on 27 July 1570; the deed of transfer was retained within the records of notary Placido Habel. The property was transferred for 66 scudi, but in April 1571 del Monte issued two decrees which rescinded this sum, such that the Carmelites were...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Mount_Carmel%2C_Valletta",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-16_our_lady_of_mount_carmel.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d82e120d0a9918a62c873c2853964c04310ad0826c1af16ed23b5e358d35fa99",
+        "langs": {
+          "es": {
+            "translatedHash": "13d10cfa24da2c130af46f58d298efb31514417a0f0384a2cc485f266b960829",
+            "updatedAt": "2026-02-24T23:59:01.752Z"
+          },
+          "pl": {
+            "translatedHash": "5cc3d455e06fd3301c34ab9824f9ade6b1378226a3402a57981898a333deaf26",
+            "updatedAt": "2026-02-24T23:59:02.353Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "267cffae74f78c777e0b7a647e9627f36e4516f27d297ee17c7e08bd26955930",
+        "langs": {
+          "es": {
+            "translatedHash": "fa17f1b0f4f205cfd7de29a64e3a2284e379768baf455fd79dc00cd4797b5b26",
+            "updatedAt": "2026-02-24T23:59:02.920Z"
+          },
+          "pl": {
+            "translatedHash": "60bcaf4fe14d54133aced07da69dfa1c8bbd5a390f3b22161f25f42ceed5ebff",
+            "updatedAt": "2026-02-24T23:59:03.731Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6eae569e1471c201a66638fbe98b8aa8c2861645250476c0822e967bfdaf4eab",
+        "langs": {
+          "es": {
+            "translatedHash": "2be44cbe07d05f8584281a61de4b463f3ca1ae28692ab15e763a5f465eec7bf8",
+            "updatedAt": "2026-02-24T23:59:05.527Z"
+          },
+          "pl": {
+            "translatedHash": "02b93fe0ff6d4fce5432cc90debba9411ebb3c255f1f1eef4011924f6d989102",
+            "updatedAt": "2026-02-24T23:59:07.794Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "98318fd6693c72de97b2b16fe480ea9c048cf8607345f0dde1bc20e5a5f0b116",
+        "langs": {
+          "es": {
+            "translatedHash": "1f6b73016cfb162bfcc33a12e217db2648a52d1a0326279f9b8f93b0fbe8d909",
+            "updatedAt": "2026-02-24T23:59:13.609Z"
+          },
+          "pl": {
+            "translatedHash": "ce57332b5c6f7c58a6f97e189befaaa11e8c3a402413b7471f52031c398ac66b",
+            "updatedAt": "2026-02-24T23:59:18.704Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora del Monte Carmelo",
+  "name_pl": "Matka Boża z Góry Karmel",
+  "feast_es": "El Dieciséis de Julio",
+  "feast_pl": "Szesnasty dzień lipca",
+  "summary_es": "La Basílica de Nuestra Señora del Monte Carmelo es una basílica menor carmelita católica romana dedicada a Nuestra Señora del Monte Carmelo, ubicada en La Valeta, Malta. Es una de las principales iglesias de La Valeta y forma parte de un Sitio Patrimonio de la Humanidad de la UNESCO que incluye toda la ciudad. La iglesia actual fue construida entre 1958 y 1981 en el sitio de una iglesia de finales del siglo XVI que fue destruida durante la Segunda Guerra Mundial.",
+  "summary_pl": "Bazylika Matki Bożej z Góry Karmel jest karmelitańską rzymskokatolicką bazyliką mniejszą, poświęconą Matce Bożej z Góry Karmel, znajdującą się w Valletcie na Malcie. Jest jednym z głównych kościołów Valletty i stanowi część obiektu wpisanego na Listę Światowego Dziedzictwa UNESCO, obejmującego całe miasto. Obecny kościół został zbudowany w latach 1958–1981 na miejscu kościoła z końca XVI wieku, który został zniszczony podczas II wojny światowej.",
+  "biography_es": "La Basílica de Nuestra Señora del Monte Carmelo (maltés: Santwarju Bażilika tal-Madonna tal-Karmnu) es una basílica menor católica romana carmelita dedicada a Nuestra Señora del Monte Carmelo, ubicada en La Valeta, Malta. Es una de las iglesias principales de La Valeta y forma parte de un sitio declarado Patrimonio de la Humanidad por la UNESCO que incluye toda la ciudad. La iglesia actual fue construida entre 1958 y 1981 en el lugar donde se encontraba una iglesia de finales del siglo XVI que fue destruida durante la Segunda Guerra Mundial. El Papa León XIII concedió un decreto pontificio de coronación canónica a su venerada imagen mariana de Nuestra Señora del Carmen el 19 de junio de 1880 a través del Capítulo Vaticano. La coronación tuvo lugar el 15 de julio de 1881.\n\nHistoria\n\nPrimera iglesia\n\nLa Orden Carmelita tuvo presencia en Malta desde al menos 1418, y estableció una iglesia y convento dentro de La Valeta poco después de la fundación de la ciudad en 1566. El Gran Maestre de los Hospitalarios, Pierre de Monte, transfirió un terreno a los carmelitas el 27 de julio de 1570; la escritura de transferencia se conservó en los registros del notario Placido Habel. La propiedad fue transferida por 66 escudos, pero en abril de 1571 del Monte emitió dos decretos que rescindieron esta suma, de modo que los carmelitas fueron...",
+  "biography_pl": "Bazylika Matki Bożej z Góry Karmel (maltański: Santwarju Bażilika tal-Madonna tal-Karmnu) jest karmelitańską rzymskokatolicką bazyliką mniejszą, poświęconą Matce Bożej z Góry Karmel, znajdującą się w Valletcie na Malcie. Jest to jeden z głównych kościołów Valletty i stanowi część wpisanego na listę światowego dziedzictwa UNESCO obszaru obejmującego całe miasto. Obecny kościół został zbudowany w latach 1958–1981 na miejscu kościoła z końca XVI wieku, który został zniszczony podczas II wojny światowej. Papież Leon XIII udzielił dekretu pontyfikalnego koronacji kanonicznej czczonemu wizerunkowi maryjnemu Matki Bożej Karmelitańskiej 19 czerwca 1880 roku za pośrednictwem Kapituły Watykańskiej. Koronacja odbyła się 15 lipca 1881 roku.\n\nHistoria\n\nPierwszy kościół\n\nZakon Karmelitów był obecny na Malcie co najmniej od 1418 roku i założył kościół oraz klasztor w Valletcie wkrótce po założeniu miasta w 1566 roku. Wielki Mistrz Zakonu Joannitów Pierre de Monte przekazał karmelitom działkę ziemi 27 lipca 1570 roku; akt przekazania został zachowany w aktach notariusza Placido Habela. Nieruchomość została przekazana za 66 skudów, jednak w kwietniu 1571 roku del Monte wydał dwa dekrety, które uchyliły tę sumę, tak że karmelici zostali..."
+}

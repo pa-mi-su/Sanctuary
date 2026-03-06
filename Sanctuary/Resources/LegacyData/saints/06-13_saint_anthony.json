@@ -1,0 +1,79 @@
+{
+  "id": "06-13_saint_anthony",
+  "name": "Saint Anthony",
+  "mmdd": "06-13",
+  "feast": "The Thirteenth Day of June",
+  "summary": "Anthony of Padua, OFM, or Anthony of Lisbon; born Fernando Martins de Bulhões was a Portuguese Catholic priest and member of the Order of Friars Minor.",
+  "biography": "Life\n\n\nEarly years\n\nAnthony was born Fernando Martins de Bulhões in Lisbon, Portugal. While 15th-century writers state that his parents were Vicente Martins and Teresa Pais Taveira, and that his father was the brother of Pedro Martins de Bulhões, the ancestor of the Bulhão or Bulhões family, Niccolò Dal-Gal views this as less certain. His wealthy and noble family arranged for him to be instructed at the local cathedral school. At the age of 15, he was received into the Canons Regular of the Order of the Holy Cross at the Abbey of Saint Vincent on the outskirts of Lisbon...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-13_saint_anthony.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b6a532ef92f2b9cea0121ab89c90f90def538fc9c316307b1e8f7350e65ca0a3",
+        "langs": {
+          "es": {
+            "translatedHash": "e30cf5214afcd65e33c00de802bb4eb4415992338a99782ad538326bfe7688ab",
+            "updatedAt": "2026-02-24T23:41:44.181Z"
+          },
+          "pl": {
+            "translatedHash": "e5b2fdd3f74ce891d55f13d756a59757b1a21a2690333ea6b83ac1cab3009241",
+            "updatedAt": "2026-02-24T23:41:44.710Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6cec39b593ebfe64bcacdcb18607c7000ca4615a47c5a7b1550ffc4723bb65f2",
+        "langs": {
+          "es": {
+            "translatedHash": "50a6b64b5052a3f1e210cbfaf9ed91130a315dbd69dccd2286c640e11a4bcac2",
+            "updatedAt": "2026-02-24T23:41:45.238Z"
+          },
+          "pl": {
+            "translatedHash": "35e27afa2f923da318152a410504e1a2c71096e4c3b52b736119d3550b8aaf9d",
+            "updatedAt": "2026-02-24T23:41:45.738Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2d176de6ffbd2aa4d7bcdba38694076337eae8bdea6b331f119217d0a1eff71b",
+        "langs": {
+          "es": {
+            "translatedHash": "ac7db7f8a78b00adf6da06fb7256f49e6a794b22f5f66897f76141581d36df9e",
+            "updatedAt": "2026-02-24T23:41:46.704Z"
+          },
+          "pl": {
+            "translatedHash": "393b50c02df240f4bbffa8577798baed9221e2e65cfffd22d610f7dbd1c9e6bc",
+            "updatedAt": "2026-02-24T23:41:47.862Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "16794b6ac1f7b9eeec028b8a278b37169b840c00c61508785a9e82b9b2b38774",
+        "langs": {
+          "es": {
+            "translatedHash": "b1812bb900c2980197f2db90223a0bf5fdd0a65cfe2144fddce69809dddb3fdd",
+            "updatedAt": "2026-02-24T23:41:50.055Z"
+          },
+          "pl": {
+            "translatedHash": "7e77e3cf149562feb6a847d9eba357ee60511dac9434a282cfde3eee0e4d6980",
+            "updatedAt": "2026-02-24T23:41:52.606Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Antonio",
+  "name_pl": "Święty Antoni",
+  "feast_es": "El Decimotercer Día de Junio",
+  "feast_pl": "Trzynasty dzień czerwca",
+  "summary_es": "Antonio de Padua, OFM, o Antonio de Lisboa; nacido Fernando Martins de Bulhões, fue un sacerdote católico portugués y miembro de la Orden de los Frailes Menores.",
+  "summary_pl": "Antoni z Padwy, OFM, zwany także Antonim z Lizbony; urodzony jako Fernando Martins de Bulhões, był portugalskim księdzem katolickim i członkiem Zakonu Braci Mniejszych.",
+  "biography_es": "Vida\n\n\nPrimeros años\n\nAntonio nació como Fernando Martins de Bulhões en Lisboa, Portugal. Mientras que escritores del siglo XV afirman que sus padres fueron Vicente Martins y Teresa Pais Taveira, y que su padre era hermano de Pedro Martins de Bulhões, el antepasado de la familia Bulhão o Bulhões, Niccolò Dal-Gal considera esto menos seguro. Su familia rica y noble organizó que recibiera instrucción en la escuela catedralicia local. A la edad de 15 años, fue recibido en los Canónigos Regulares de la Orden de la Santa Cruz en la Abadía de San Vicente, en las afueras de Lisboa...",
+  "biography_pl": "Życie\n\n\nWczesne lata\n\nAntoni urodził się jako Fernando Martins de Bulhões w Lizbonie, Portugalia. Choć pisarze z XV wieku podają, że jego rodzicami byli Vicente Martins i Teresa Pais Taveira, a jego ojciec był bratem Pedro Martinsa de Bulhões, przodka rodu Bulhão lub Bulhões, Niccolò Dal-Gal uważa to za mniej pewne. Jego zamożna i szlachecka rodzina zorganizowała mu naukę w lokalnej szkole katedralnej. W wieku 15 lat został przyjęty do Kanoników Regularnych Zakonu Świętego Krzyża w Opactwie Świętego Wincentego na obrzeżach Lizbony..."
+}

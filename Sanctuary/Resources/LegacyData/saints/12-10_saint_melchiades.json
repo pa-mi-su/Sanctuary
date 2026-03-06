@@ -1,0 +1,79 @@
+{
+  "id": "12-10_saint_melchiades",
+  "name": "Saint Melchiades",
+  "mmdd": "12-10",
+  "feast": "The Tenth Day of December",
+  "summary": "Pope Miltiades, also known as Melchiades the African, was the bishop of Rome from 311 to his death on 10 or 11 January 314. It was during his pontificate that Emperor Constantine the Great issued the Edict of Milan (313), giving Christianity legal status within the Roman Empire. The pope also received the palace of Empress Fausta where the Lateran Palace, the papal seat and residence of the papal administration, would be built. At the Lateran Council, during the schism with the Church of Carthage, Miltiades condemned the rebaptism of apostatised bishops and priests, a teaching of Donatus Magnus.",
+  "biography": "Background\nThe year of Miltiades' birth is unknown. Still, it is known that he was of North African descent and, according to the Liber Pontificalis, compiled from the 5th century onwards, a Roman citizen. Miltiades and his successor, Sylvester I, were part of the clergy of Pope Marcellinus. It has been suggested that he was party to the alleged apostasy of Pope Marcellinus, which was repudiated by Augustine of Hippo. This view originated from letters, dated to between 400 and 410, written by Donatist...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Miltiades",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-10_saint_melchiades.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c53838f574c1f128de0c4e3369384e1fac49c8d2d1863a5933d251041cfa28f7",
+        "langs": {
+          "es": {
+            "translatedHash": "93ff180693cb93f6029adb9bec5697903f136fd82fac2017cebc2281172ec198",
+            "updatedAt": "2026-02-25T01:23:43.278Z"
+          },
+          "pl": {
+            "translatedHash": "266b489782c05b15118d8a2f9b4de5a2daa2419e37129de115bb12df6972492f",
+            "updatedAt": "2026-02-25T01:23:43.856Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "53a7818ddf6321329244e175db6794373f3cc488365525e42a2371808b4ab34b",
+        "langs": {
+          "es": {
+            "translatedHash": "378054e5d083ec717c38dfcb4466aacb57eac33af4f6e235b23be075e225cc11",
+            "updatedAt": "2026-02-25T01:23:45.007Z"
+          },
+          "pl": {
+            "translatedHash": "6c4b290bc52fdddd3ce07d804243d9cc9797fb641b4fc96194c00bfa86bd36d6",
+            "updatedAt": "2026-02-25T01:23:46.145Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "5f8b32adc8b88102c18c9e0c08543c9f643f263f6c4ebb35c16715a285c0f5bc",
+        "langs": {
+          "es": {
+            "translatedHash": "e331351ee7a6768e8eabaab5d2a1ae9135b9214509aaa1614e8ae21520c03c71",
+            "updatedAt": "2026-02-25T01:23:48.437Z"
+          },
+          "pl": {
+            "translatedHash": "ef15c526d8d65149047af236f3a6f1ee9b49f89dd93bbdc306332877330a5e98",
+            "updatedAt": "2026-02-25T01:23:51.814Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bdecae093fa545426b4f6f278a63226c671bcc2c85962a20afba61fee679f97a",
+        "langs": {
+          "es": {
+            "translatedHash": "b4faa313f39163f94cce11194efc560d042d9f8b74d66b4d04769c1b55ad7711",
+            "updatedAt": "2026-02-25T01:23:54.511Z"
+          },
+          "pl": {
+            "translatedHash": "5fdc974abe0708612bdfdae7e8c716da204cdf9a472cea11197ec30d040c0cb6",
+            "updatedAt": "2026-02-25T01:23:57.121Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Melquíades",
+  "name_pl": "Święty Melchiades",
+  "feast_es": "El Día Diez de Diciembre",
+  "feast_pl": "Dziesiąty dzień grudnia",
+  "summary_es": "El Papa Milcíades, también conocido como Melquíades el Africano, fue el obispo de Roma desde 311 hasta su muerte el 10 o 11 de enero de 314. Fue durante su pontificado que el emperador Constantino el Grande emitió el Edicto de Milán (313), otorgando al cristianismo estatus legal dentro del Imperio Romano. El papa también recibió el palacio de la emperatriz Fausta, donde se construiría el Palacio Laterano, la sede papal y residencia de la administración papal. En el Concilio Lateranense, durante el cisma con la Iglesia de Cartago, Milcíades condenó el re-bautismo de obispos y sacerdotes apóstatas, una enseñanza de Donato Magno.",
+  "summary_pl": "Papież Milcjades, znany również jako Melchiades Afrykański, był biskupem Rzymu od 311 roku aż do swojej śmierci 10 lub 11 stycznia 314 roku. To właśnie za jego pontyfikatu cesarz Konstantyn Wielki wydał Edykt mediolański (313), nadając chrześcijaństwu status prawny w Cesarstwie Rzymskim. Papież otrzymał także pałac cesarzowej Fausty, na miejscu którego wzniesiono Lateran – pałac papieski, siedzibę i rezydencję administracji papieskiej. Na soborze laterańskim, podczas schizmy z Kościołem Kartagińskim, Milcjades potępił ponowne chrzty biskupów i kapłanów, którzy odstąpili od wiary, co było nauką Donatusa Wielkiego.",
+  "biography_es": "Antecedentes  \nSe desconoce el año de nacimiento de Milcíades. Sin embargo, se sabe que era de ascendencia norteafricana y, según el Liber Pontificalis, compilado a partir del siglo V, un ciudadano romano. Milcíades y su sucesor, Silvestre I, formaron parte del clero del Papa Marcelino. Se ha sugerido que estuvo involucrado en la supuesta apostasía del Papa Marcelino, la cual fue repudiada por Agustín de Hipona. Esta opinión se originó a partir de cartas, fechadas entre 400 y 410, escritas por donatistas...",
+  "biography_pl": "Tło  \nRok urodzenia Miltiadesa jest nieznany. Wiadomo jednak, że pochodził z Afryki Północnej i, według Liber Pontificalis, sporządzonego od V wieku, był obywatelem rzymskim. Miltiades i jego następca, Sylwester I, należeli do duchowieństwa papieża Marcellinusa. Sugerowano, że brał udział w rzekomej apostazji papieża Marcellinusa, którą odrzucił Augustyn z Hippony. Pogląd ten pochodzi z listów datowanych na lata 400–410, napisanych przez donatystów..."
+}

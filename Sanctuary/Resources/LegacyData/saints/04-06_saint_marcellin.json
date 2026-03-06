@@ -1,0 +1,48 @@
+{
+  "id": "04-06_saint_marcellin",
+  "name": "Saint Marcellin",
+  "mmdd": "04-06",
+  "feast": "The Sixth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Marcellin"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-06_saint_marcellin.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b6d1f5bb59e95fe6775d94e5a9b187481858782455aaf1ab7a0a7ba018c0ca40",
+        "langs": {
+          "es": {
+            "translatedHash": "4f0ebec6238246be005656a7383d33f3a71c0bf222391c71085db1a333a418c6",
+            "updatedAt": "2026-02-24T23:04:46.675Z"
+          },
+          "pl": {
+            "translatedHash": "4f783163414210e825a5a8d47bb5f71206b124104a81b9b09f226e2605d06f35",
+            "updatedAt": "2026-02-24T23:04:47.301Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1f115532f3dd36aac25b3df0fd17709d8345c2e7cc1a875ab3d3ee1801e3dee4",
+        "langs": {
+          "es": {
+            "translatedHash": "49259635e8f1cb73a1aba4c7e11054ebd5016398ff79236001d4b8c3544b6d00",
+            "updatedAt": "2026-02-24T23:04:47.942Z"
+          },
+          "pl": {
+            "translatedHash": "6c3bbc54fe9caa90c3f6f78913fb214c5bcf7b9f17b4bfe66b0c8d35a1f9a068",
+            "updatedAt": "2026-02-24T23:04:48.692Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Marcelino",
+  "name_pl": "Święty Marcelin",
+  "feast_es": "El Sexto Día de Abril",
+  "feast_pl": "Szósty dzień kwietnia"
+}

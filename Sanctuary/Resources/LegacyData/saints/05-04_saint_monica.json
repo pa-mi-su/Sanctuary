@@ -1,0 +1,79 @@
+{
+  "id": "05-04_saint_monica",
+  "name": "Saint Monica",
+  "mmdd": "05-04",
+  "feast": "The Fourth Day of May",
+  "summary": "Monica, also written as Monnica, was an early North African Christian saint and the mother of Augustine of Hippo. She is remembered and honored in the Catholic and Orthodox Churches, albeit on different feast days, for her outstanding Christian virtues, particularly the suffering caused by her husband's adultery, and her prayerful life dedicated to the reformation of her son, who wrote extensively of her pious acts and life with her in his Confessions. Popular Christian legends recall Monica weeping every night for her son Augustine.",
+  "biography": "Monica (c. 332 – 387), also written as Monnica, was an early North African Christian saint and the mother of Augustine of Hippo. She is remembered and honored in the Catholic and Orthodox Churches, albeit on different feast days, for her outstanding Christian virtues, particularly the suffering caused by her husband's adultery, and her prayerful life dedicated to the reformation of her son, who wrote extensively of her pious acts and life with her in his Confessions. Popular Christian legends recall Monica weeping every night for her son Augustine. Life Monica is most likely to have been born in Thagaste (present-day Souk Ahras, Algeria). She is believed to have been a Berber on the basis of her name. She was married early in life to Patricius, a decurion pagan, in Thagaste. Patricius reportedly had a violent temper and appears to have been of dissolute habits; apparently his mother exhibited similar behaviours. Monica's almsgiving, deeds and prayer habits annoyed Patricius, but it is said that he always held her in respect. Monica had three children who survived infancy: two sons, Augustine and Navigius, and a daughter, 'Perpetua' of Hippo. Unable to secure baptism for them,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Monica",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-04_saint_monica.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7bf4a3baf4b4b1644f4b141fbdcb37bcf149b1a15a7ad08f9d2f9468f22adc00",
+        "langs": {
+          "es": {
+            "translatedHash": "d5fcd86aaed9d32c2fec00a1ddab9e046ede8fa592f35c77fa21ce9e9fe55049",
+            "updatedAt": "2026-02-24T23:19:50.268Z"
+          },
+          "pl": {
+            "translatedHash": "96ff2eb30bd25d2a012a2870ebeb337f05a7f608eb1c53413537487e7c9e834f",
+            "updatedAt": "2026-02-24T23:19:50.831Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9ceb5b87bcc393180058f5dee51325d1381398b5b33c8082a6adef4021aba800",
+        "langs": {
+          "es": {
+            "translatedHash": "a219404b8e96577f04bd6c64b59e6d6b2cd11274e08a3896b03533c6afd03dd8",
+            "updatedAt": "2026-02-24T23:19:51.467Z"
+          },
+          "pl": {
+            "translatedHash": "514150cd76a8e9a6798822cd6d467b42ff3bec0ee0ff7a75afeb3acc87069770",
+            "updatedAt": "2026-02-24T23:19:53.915Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "786755b7553db105e7cba826cb21528fb61edf0d4cd9b3e843f1cfa5535ea011",
+        "langs": {
+          "es": {
+            "translatedHash": "e0cb87bc577ec28fbf609ef5ae9ed72964f42028afcd436cfbf057d7f0def364",
+            "updatedAt": "2026-02-24T23:19:56.127Z"
+          },
+          "pl": {
+            "translatedHash": "820847e7722cbe1254317d86b0def7aaac835038453042be965631bbc8e86e39",
+            "updatedAt": "2026-02-24T23:19:59.269Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ae05d57fefc563342ac6802a44da96460f14484a2453df26e0c95695972cea3f",
+        "langs": {
+          "es": {
+            "translatedHash": "438c05cd4e285508cc86d381f4e338f90a4223d44c815bdb2eececb3ff1d9f6f",
+            "updatedAt": "2026-02-24T23:20:03.136Z"
+          },
+          "pl": {
+            "translatedHash": "77ccfa087a3495457ff4afa51eeaa2470ded92dbe3599398cc4f8138244da45d",
+            "updatedAt": "2026-02-24T23:20:08.534Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Mónica",
+  "name_pl": "Święta Monika",
+  "feast_es": "El Cuarto Día de Mayo",
+  "feast_pl": "Czwarty dzień maja",
+  "summary_es": "Mónica, también escrita como Monnica, fue una santa cristiana del norte de África en los primeros tiempos y madre de Agustín de Hipona. Es recordada y honrada en las Iglesias Católica y Ortodoxa, aunque en diferentes días de fiesta, por sus sobresalientes virtudes cristianas, particularmente el sufrimiento causado por el adulterio de su esposo, y su vida de oración dedicada a la conversión de su hijo, quien escribió extensamente sobre sus actos piadosos y la vida con ella en sus Confesiones. Las leyendas cristianas populares recuerdan a Mónica llorando cada noche por su hijo Agustín.",
+  "summary_pl": "Monika, również zapisywana jako Monnica, była wczesną chrześcijańską świętą z Afryki Północnej i matką Augustyna z Hippony. Jest pamiętana i czczona w Kościołach katolickim i prawosławnym, choć w różne dni uroczystości, za swoje wybitne cnoty chrześcijańskie, szczególnie za cierpienia spowodowane cudzołóstwem męża oraz za modlitewne życie poświęcone nawróceniu syna, który obszernie pisał o jej pobożnych czynach i życiu z nią w swoich Wyznaniach. Popularne chrześcijańskie legendy przypominają Monikę płaczącą każdej nocy za synem Augustynem.",
+  "biography_es": "Mónica (c. 332 – 387), también escrita como Monnica, fue una santa cristiana del norte de África y madre de Agustín de Hipona. Es recordada y honrada en las Iglesias Católica y Ortodoxa, aunque en diferentes días de fiesta, por sus sobresalientes virtudes cristianas, particularmente el sufrimiento causado por el adulterio de su esposo, y su vida de oración dedicada a la reforma de su hijo, quien escribió extensamente sobre sus actos piadosos y la vida con ella en sus Confesiones. Las leyendas cristianas populares recuerdan a Mónica llorando cada noche por su hijo Agustín.\n\nVida\n\nEs muy probable que Mónica haya nacido en Tagaste (actual Souk Ahras, Argelia). Se cree que fue bereber basándose en su nombre. Se casó a una edad temprana con Patricio, un decurión pagano, en Tagaste. Se dice que Patricio tenía un temperamento violento y parece haber tenido hábitos disolutos; aparentemente su madre exhibía comportamientos similares. Las limosnas, obras y hábitos de oración de Mónica molestaban a Patricio, pero se dice que él siempre la respetó. Mónica tuvo tres hijos que sobrevivieron a la infancia: dos hijos, Agustín y Navigio, y una hija, 'Perpetua' de Hipona. Incapaz de conseguir el bautismo para ellos,...",
+  "biography_pl": "Monika (ok. 332 – 387), zwana także Monnicą, była wczesnochrześcijańską świętą z Afryki Północnej oraz matką Augustyna z Hippony. Jest pamiętana i czczona w Kościołach katolickim i prawosławnym, choć w różne dni uroczystości, za swoje wybitne cnoty chrześcijańskie, szczególnie za cierpienia spowodowane cudzołóstwem męża oraz za życie modlitewne poświęcone nawróceniu syna, który obszernie pisał o jej pobożnych czynach i życiu z nią w swoich Wyznaniach. Popularne legendy chrześcijańskie przypominają Monikę płaczącą każdej nocy za synem Augustynem.\n\nŻycie  \nMonika najprawdopodobniej urodziła się w Tagaste (dzisiejsze Souk Ahras w Algierii). Uważa się, że była Berberką na podstawie jej imienia. W młodym wieku wyszła za mąż za Patrycjusza, pogańskiego dekuriona w Tagaste. Patrycjusz miał ponoć gwałtowny temperament i wydaje się, że prowadził rozwiązły tryb życia; podobne zachowania wykazywała najwyraźniej jego matka. Jałmużna, uczynki i zwyczaje modlitewne Moniki irytowały Patrycjusza, ale mówi się, że zawsze ją szanował. Monika miała troje dzieci, które przeżyły niemowlęctwo: dwóch synów, Augustyna i Nawigiusza, oraz córkę, „Perpetuę” z Hippony. Nie mogąc zapewnić im chrztu,..."
+}

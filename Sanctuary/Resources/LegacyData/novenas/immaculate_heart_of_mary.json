@@ -1,0 +1,268 @@
+{
+  "id": "immaculate_heart_of_mary",
+  "title": "Immaculate Heart of Mary Novena",
+  "description": "Devotion to the Immaculate Heart of Mary springs from the Church’s reflection on her life, especially in relation to her Son, Jesus Christ. Pray this novena for greater devotion to Our Lady and Her Son.",
+  "category": "Marian",
+  "tags": [
+    "Novena",
+    "Marian",
+    "Mary",
+    "Immaculate Heart of Mary"
+  ],
+  "startRule": {
+    "type": "raw",
+    "text": "Second Friday after Pentecost"
+  },
+  "feastRule": {
+    "type": "raw",
+    "text": "Third Saturday after Pentecost"
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/immaculate-heart-of-mary-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy ponemos ante ti, especialmente (mencionar la petición aquí…). Nos consuela saber que tu corazón está siempre abierto a quienes te piden oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień tutaj prośbę…) Pocieszamy się świadomością, że Twoje Serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, dźwigać nasze ciężary w tym życiu, aż będziemy mogli dzielić wieczne życie i pokój z Bogiem na zawsze. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy ponemos ante ti, especialmente (mencionar la petición aquí…). Nos consuela saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci, błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień prośbę tutaj…). Pocieszamy się świadomością, że Twoje serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, nieść nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na zawsze. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre escuchando, cuidando, consolando, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy te presentamos, especialmente (mencionar la petición aquí…) Nos consuela saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci, błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień prośbę tutaj…) Pocieszamy się wiedząc, że Twoje serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, nieść nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na wieki. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre escuchando, cuidando, consolando, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy ponemos ante ti, especialmente (mencionar la petición aquí…) Nos consuela saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troszcząca się, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci, błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień tutaj prośbę…). Pocieszamy się wiedząc, że Twoje serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, nieść nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na zawsze. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy te presentamos, especialmente (mencionar la petición aquí…) Nos conforta saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najświętsza Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień prośbę tutaj…) Pocieszamy się świadomością, że Twoje Serce jest zawsze otwarte na tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy i którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, nieść nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na wieki. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy te presentamos, especialmente (mencionar la petición aquí…). Nos conforta saber que tu corazón está siempre abierto a quienes te piden oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troszcząca się, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci, błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień tutaj prośbę…). Pocieszamy się wiedząc, że Twoje Serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, dźwigać nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na zawsze. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy te presentamos, especialmente (mencionar la petición aquí…). Nos reconforta saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień tutaj prośbę…) Pocieszamy się świadomością, że Twoje serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, nieść nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na wieki. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy te presentamos, especialmente (mencionar la petición aquí…). Nos conforta saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najświętsza Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci, błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień prośbę tutaj…). Pocieszamy się świadomością, że Twoje serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, dźwigać nasze ciężary w tym życiu, aż będziemy mogli dzielić życie wieczne i pokój z Bogiem na wieki. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO Most Blessed Mother, Heart of Love, Heart of Mercy, ever listening, caring, consoling, hear our prayer. As your children, we implore your intercession with Jesus, your Son. Receive with understanding and compassion the petitions we place before you today, especially (mention request here…) We are comforted in knowing your heart is ever open to those who ask for your prayer. We trust to your gentle care and intercession, those whom we love and who are sick or lonely or hurting. Help all of us, Holy Mother, to bear our burdens in this life until we may share eternal life and peace with God forever. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nMy sister sustained severe burn injuries on her lower extremities from boiling water.\n\nMy siblings held a rosary novena and I added the Immaculate Heart of Mary and the Sacred Heart of Jesus novenas asking for my sister’s recovery.\n\nHer wounds healed beautifully and she did not require surgery and skin grafting.\n\nFor this I am so humbled and forever grateful.\n\nfrom G.N.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh Madre Santísima, Corazón de Amor, Corazón de Misericordia, siempre atenta, cuidadosa, consoladora, escucha nuestra oración. Como tus hijos, imploramos tu intercesión ante Jesús, tu Hijo. Recibe con comprensión y compasión las peticiones que hoy ponemos ante ti, especialmente (mencionar la petición aquí…) Nos consuela saber que tu corazón está siempre abierto a quienes piden tu oración. Confiamos a tu tierna atención e intercesión a aquellos que amamos y que están enfermos, solos o sufriendo. Ayúdanos a todos, Santa Madre, a llevar nuestras cargas en esta vida hasta que podamos compartir la vida eterna y la paz con Dios para siempre. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO Najbłogosławiona Matko, Sercu Miłości, Sercu Miłosierdzia, zawsze słuchająca, troskliwa, pocieszająca, wysłuchaj naszej modlitwy. Jako Twoje dzieci błagamy o Twoją wstawiennictwo u Jezusa, Twojego Syna. Przyjmij ze zrozumieniem i współczuciem prośby, które dziś przed Tobą składamy, szczególnie (wymień prośbę tutaj…) Pocieszamy się świadomością, że Twoje serce jest zawsze otwarte dla tych, którzy proszą o Twoją modlitwę. Powierzamy Twojej łagodnej opiece i wstawiennictwu tych, których kochamy, a którzy są chorzy, samotni lub cierpiący. Pomóż nam wszystkim, Święta Matko, nieść nasze ciężary w tym życiu, aż będziemy mogli dzielić wieczne życie i pokój z Bogiem na zawsze. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "Second Friday after PentecostFeastday:Third Saturday after PentecostBirth:0Death:50Patron saint of Apostleship of Prayer, Ratnapura Diocese, Alliance of Sacred Hearts, Russian Territories, Scotland, Central Africa, Republic of the Congo, Angola, Ecuador, Panama, Minglanilla, Cebu, Philippines, and, Georgia 📱",
+    "feast": "Third Saturday after PentecostBirth:0Death:50Patron saint of Apostleship of Prayer, Ratnapura Diocese, Alliance of Sacred Hearts, Russian Territories, Scotland, Central Africa, Republic of the Congo, Angola, Ecuador, Panama, Minglanilla, Cebu, Philippines, and, Georgia 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/immaculate_heart_of_mary.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "99c0ea64eb495e30e922306d97f774773c5e599f2b288dd2a9bfc73330610da1",
+        "langs": {
+          "es": {
+            "translatedHash": "752867eebcff0cb61686c049f97ea22f54c827204d5833ae6d3bf2177d0cb4f4",
+            "updatedAt": "2026-02-25T05:28:56.099Z"
+          },
+          "pl": {
+            "translatedHash": "a7b94edc8913db57ec865a67579d06db2b94895f3fb5809c1bc102cd6052b802",
+            "updatedAt": "2026-02-25T05:28:56.944Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "5e4d2e9ffd7b122e801b287676db74a49c54ffb4f6d676dff6061502bf35415d",
+        "langs": {
+          "es": {
+            "translatedHash": "a9f8bed55541f3e3fe1d11dbde78e154900fb5a914748b35fa1fffa2a8b3d582",
+            "updatedAt": "2026-02-25T05:28:58.257Z"
+          },
+          "pl": {
+            "translatedHash": "2c3051226d16c423eff0ecbc4c8a1d82ac89f34a1bcd488c127a6ca5bdb6d13c",
+            "updatedAt": "2026-02-25T05:29:00.680Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "3d0dbd58f0aead50b5d3bc4709b33e8fd92878f5b0c99380b303961fa582a204",
+        "langs": {
+          "es": {
+            "translatedHash": "086f909cdd07179f568c66b70d65549bc8e29279d5afd3af0883308813bb9b58",
+            "updatedAt": "2026-02-25T05:29:03.900Z"
+          },
+          "pl": {
+            "translatedHash": "f391d65d9675e128fe7f57a44298458d69076c897d9fe36e69709a3a8982894c",
+            "updatedAt": "2026-02-25T05:29:09.065Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "9391f616676d61639cf66059ad1d567fc58d1fbc7ba7e99210353ef38c50e3cd",
+        "langs": {
+          "es": {
+            "translatedHash": "a72eed9a5565e29a1c2839b97bfbd97494bb5fdc5d8bc9f9c8f7febcf43d8234",
+            "updatedAt": "2026-02-25T05:29:11.724Z"
+          },
+          "pl": {
+            "translatedHash": "b653f86b0df5cb125bfb9ed87b3b7b7b1d4f7452b6d756f4f828fe9aa8d32425",
+            "updatedAt": "2026-02-25T05:29:15.930Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "3fb356bfa306689d7c4ceac2e39ce9bfbad9c4bf840d100e9bb4a033963c9061",
+        "langs": {
+          "es": {
+            "translatedHash": "490a89896f0ec864e7a612bcd6794737c555be2fd6d9f41e85c1a33ac0e0fa90",
+            "updatedAt": "2026-02-25T05:29:19.573Z"
+          },
+          "pl": {
+            "translatedHash": "281e2702919e8ac867f7c3ccbcfc91f7183ccb15baed89b88461b2af9e4c841e",
+            "updatedAt": "2026-02-25T05:29:24.009Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "1dcb1bc997082459776275cc53f42f6a92898f1b3ccc5a27c1cf10897ccd912b",
+        "langs": {
+          "es": {
+            "translatedHash": "18b2ecd1b17c63e1492cdb3c7740a6381374fb4a3b2dc7ccfa637e284ed48e15",
+            "updatedAt": "2026-02-25T05:29:29.388Z"
+          },
+          "pl": {
+            "translatedHash": "509a3a22c8f1c7c95b30bbc710fc38b8def64de1c4e75e8c9ab19b387a922921",
+            "updatedAt": "2026-02-25T05:29:33.415Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "b10ecca0c9ef0ce5f8ed8c47040239f77f877160c6f397d1ea6bb45d0c5b5fe3",
+        "langs": {
+          "es": {
+            "translatedHash": "d40ee972bbe7937457c82355c3e8272bb0cbb8bd2380500066527cdbee101d3d",
+            "updatedAt": "2026-02-25T05:29:36.314Z"
+          },
+          "pl": {
+            "translatedHash": "52286d5595b89e02ea2409000ab12836782088e098afd4c87996b1bf37e19091",
+            "updatedAt": "2026-02-25T05:29:41.089Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "7b428cfb968f9740664036b6172da66685cbe0bfae47e1cafa5d6a272f5b18e7",
+        "langs": {
+          "es": {
+            "translatedHash": "d330a85867889a7de0700f98648ea56ea124141fa6261e653ca02b2a42e8acf7",
+            "updatedAt": "2026-02-25T05:29:44.061Z"
+          },
+          "pl": {
+            "translatedHash": "a9ee4891968a8f3cc32129e6fdd3c73bc88e2503783b0f0443b42edc9b6e325b",
+            "updatedAt": "2026-02-25T05:29:48.377Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "ffe4f803f395f08021d207d2fe6627b803a2ad61da06b57708c985da349dd324",
+        "langs": {
+          "es": {
+            "translatedHash": "6dd9d19d6f41dd51d5b7792a87381f07ec665e501910c9d5119e256a01c69654",
+            "updatedAt": "2026-02-25T05:29:51.426Z"
+          },
+          "pl": {
+            "translatedHash": "87eea1f4c08536a431877362ff40a9db42aef68b93544027bba398412311a79c",
+            "updatedAt": "2026-02-25T05:29:55.470Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "88e895144d51e70acff30fb0a0b342e098afbcd1a4fe20ec80c054f6cd7411cb",
+        "langs": {
+          "es": {
+            "translatedHash": "41b5bd033bff65122fe11d4bf06176ed13a15510b10dee6a5a80cb110a6ec89b",
+            "updatedAt": "2026-02-25T05:29:58.599Z"
+          },
+          "pl": {
+            "translatedHash": "9ee0cb66dc13a4e97d1416aac12c1ee735979759a113281d4f63f4a60b70bd20",
+            "updatedAt": "2026-02-25T05:30:02.712Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "d050f72924fb122d86965af244022b1557ac8305c58b76965c66aad0943650cd",
+        "langs": {
+          "es": {
+            "translatedHash": "12570223ee6cee5adee4d87d84ffac03df527775fedee01cc51ddd814e0071ed",
+            "updatedAt": "2026-02-25T05:30:06.254Z"
+          },
+          "pl": {
+            "translatedHash": "d6d3e5fed301bdcfa5c29da2de471d741577bb89e23c533a442e00fd0e6ecead",
+            "updatedAt": "2026-02-25T05:30:10.553Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena al Inmaculado Corazón de María",
+  "title_pl": "Nowenna do Niepokalanego Serca Maryi",
+  "description_es": "La devoción al Inmaculado Corazón de María surge de la reflexión de la Iglesia sobre su vida, especialmente en relación con su Hijo, Jesucristo. Reza esta novena para una mayor devoción a Nuestra Señora y a Su Hijo.",
+  "description_pl": "Cześć Niepokalanemu Sercu Maryi wypływa z refleksji Kościoła nad Jej życiem, szczególnie w odniesieniu do Jej Syna, Jezusa Chrystusa. Módl się tę nowennę o większą cześć dla Matki Bożej i Jej Syna.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "09-23_saint_padre_pio_of_pietrelcina_1887_1968",
+  "name": "Saint Padre Pio of Pietrelcina, 1887-1968",
+  "mmdd": "09-23",
+  "feast": "The Twenty-Third Day of September",
+  "summary": "Pio of Pietrelcina, widely known as Padre Pio was an Italian friar of the Order of Friars Minor Capuchin, priest, stigmatist and mystic. He is venerated as a saint in the Catholic Church, and his feast day is celebrated on 23 September.",
+  "biography": "Pio of Pietrelcina, widely known as Padre Pio was an Italian friar of the Order of Friars Minor Capuchin, priest, stigmatist and mystic. He is venerated as a saint in the Catholic Church, and his feast day is celebrated on 23 September.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Padre_Pio",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-23_saint_padre_pio_of_pietrelcina_1887_1968.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "731b0bd008cccddde030c616c29d6f09bdcabafbe6fff4ccbc6b88aa84f2e32c",
+        "langs": {
+          "es": {
+            "translatedHash": "5cf473d57ae98453b80da4825d585abba65559a9261ccd0a044b9b986c111260",
+            "updatedAt": "2026-02-25T00:36:04.832Z"
+          },
+          "pl": {
+            "translatedHash": "360541b096947ae503974f49c5b8253622d5de8cc74a904b3317d291aef24141",
+            "updatedAt": "2026-02-25T00:36:05.522Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ae7abb0b9a7a369cac9977e452ebaa889f4a0b1138adf9113f423662349685b8",
+        "langs": {
+          "es": {
+            "translatedHash": "f878a4fc6e309a7f9993257ca71a9f4a3739e960daa1182d6e2e3497d421a76a",
+            "updatedAt": "2026-02-25T00:36:06.118Z"
+          },
+          "pl": {
+            "translatedHash": "995de0853797ea53d211b2590475d4c9f27f59322aae112675a517aa44bc991b",
+            "updatedAt": "2026-02-25T00:36:06.682Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "497cdfb671cc3979143dcdff8fee99739492ed6f22db2a03ccd937367d76f48a",
+        "langs": {
+          "es": {
+            "translatedHash": "805f9551dc319956ca2413d8ec7b42fe43dd93770ecc7223737a4b6c9cdb5dbf",
+            "updatedAt": "2026-02-25T00:36:07.712Z"
+          },
+          "pl": {
+            "translatedHash": "284e5ba2155ebeb705beb952ab4b14ce6346725a721473ea6db0e0727ee8531c",
+            "updatedAt": "2026-02-25T00:36:09.958Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "497cdfb671cc3979143dcdff8fee99739492ed6f22db2a03ccd937367d76f48a",
+        "langs": {
+          "es": {
+            "translatedHash": "805f9551dc319956ca2413d8ec7b42fe43dd93770ecc7223737a4b6c9cdb5dbf",
+            "updatedAt": "2026-02-25T00:36:11.306Z"
+          },
+          "pl": {
+            "translatedHash": "45a7f2e46a6248bc63c87c8d63fdbabac659e18be2cd0691d0dbf0fb3fbaeaad",
+            "updatedAt": "2026-02-25T00:36:13.072Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Padre Pío de Pietrelcina, 1887-1968",
+  "name_pl": "Święty Ojciec Pio z Pietrelciny, 1887-1968",
+  "feast_es": "El Vigésimo Tercer Día de Septiembre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Września",
+  "summary_es": "Pío de Pietrelcina, ampliamente conocido como Padre Pío, fue un fraile italiano de la Orden de los Frailes Menores Capuchinos, sacerdote, estigmatizado y místico. Es venerado como santo en la Iglesia Católica, y su fiesta se celebra el 23 de septiembre.",
+  "summary_pl": "Pio z Pietrelciny, powszechnie znany jako Ojciec Pio, był włoskim zakonnikiem Zakonu Braci Mniejszych Kapucynów, kapłanem, stygmatykiem i mistykiem. Jest czczony jako święty w Kościele katolickim, a jego wspomnienie liturgiczne obchodzone jest 23 września.",
+  "biography_es": "Pío de Pietrelcina, ampliamente conocido como Padre Pío, fue un fraile italiano de la Orden de los Frailes Menores Capuchinos, sacerdote, estigmatizado y místico. Es venerado como santo en la Iglesia Católica, y su fiesta se celebra el 23 de septiembre.",
+  "biography_pl": "Pio z Pietrelciny, powszechnie znany jako Ojciec Pio, był włoskim zakonnikiem Zakonu Braci Mniejszych Kapucynów, kapłanem, stygmatykiem i mistykiem. Jest czczony jako święty w Kościele katolickim, a jego dzień wspomnienia obchodzony jest 23 września."
+}

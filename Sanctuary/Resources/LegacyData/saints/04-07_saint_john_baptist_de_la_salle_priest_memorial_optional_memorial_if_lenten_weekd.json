@@ -1,0 +1,48 @@
+{
+  "id": "04-07_saint_john_baptist_de_la_salle_priest_memorial_optional_memorial_if_lenten_weekd",
+  "name": "Saint John Baptist de la Salle, Priest—Memorial (Optional Memorial if Lenten weekday)",
+  "mmdd": "04-07",
+  "feast": "The Seventh Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_baptist_de_la_salle_1.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-07_saint_john_baptist_de_la_salle_priest_memorial_optional_memorial_if_lenten_weekd.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f4f780c1567e4ca9766fc2046f978c766461bbfa770bb971a9b9b5f682ad14fd",
+        "langs": {
+          "es": {
+            "translatedHash": "b387f717290b4aa299789b4f1107e0d8f4064b453abf886eb16d99ba58b3f47b",
+            "updatedAt": "2026-02-24T23:05:50.482Z"
+          },
+          "pl": {
+            "translatedHash": "abf445d7a31be37723234c2e5be8b2d9e05a741c4e6b2138809c5edcf7b65666",
+            "updatedAt": "2026-02-24T23:05:51.433Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "adcf42f20f742b2c3ed073b3e5efbdc7c691089a4324ff5c366cc3601852f4dc",
+        "langs": {
+          "es": {
+            "translatedHash": "7eebe54784a33feb3ddcfafa44e2b4856918a3005a2e7e8088dc1e508a253de5",
+            "updatedAt": "2026-02-24T23:05:52.033Z"
+          },
+          "pl": {
+            "translatedHash": "2aa8f0fbabe3ce235ca7ef4155aa82f938ebee5e4186ea8aac5d04bd72977799",
+            "updatedAt": "2026-02-24T23:05:52.591Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Bautista de La Salle, Presbítero—Memorial (Memorial opcional si es día entre semana de Cuaresma)",
+  "name_pl": "Święty Jan Chrzciciel de la Salle, kapłan — Wspomnienie (Wspomnienie dowolne w dni powszednie Wielkiego Postu)",
+  "feast_es": "El Séptimo Día de Abril",
+  "feast_pl": "Siódmy dzień kwietnia"
+}
