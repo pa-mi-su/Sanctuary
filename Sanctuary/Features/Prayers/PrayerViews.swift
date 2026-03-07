@@ -213,7 +213,7 @@ struct PrayersSearchView: View {
     }
 }
 
-private struct LegacyPrayerDocument: Decodable {
+private struct BundledPrayerDocument: Decodable {
     struct Source: Decodable {
         let type: String?
         let title: String?
@@ -236,11 +236,11 @@ private struct LegacyPrayerDocument: Decodable {
     let source: Source?
 }
 
-private enum LegacyPrayerStore {
-    private static var cache: [String: LegacyPrayerDocument] = [:]
+private enum BundledPrayerStore {
+    private static var cache: [String: BundledPrayerDocument] = [:]
     private static let lock = NSLock()
 
-    static func prayer(id: String) -> LegacyPrayerDocument? {
+    static func prayer(id: String) -> BundledPrayerDocument? {
         lock.lock()
         if let cached = cache[id] {
             lock.unlock()
@@ -250,7 +250,7 @@ private enum LegacyPrayerStore {
 
         let loader = LocalBundleJSONLoader(bundle: .main)
         let subdirs: [String?] = ["Resources/LegacyData/prayers", "LegacyData/prayers", "prayers", nil]
-        guard let loaded = try? loader.load(id, as: LegacyPrayerDocument.self, subdirectoryCandidates: subdirs) else {
+        guard let loaded = try? loader.load(id, as: BundledPrayerDocument.self, subdirectoryCandidates: subdirs) else {
             return nil
         }
 
@@ -265,39 +265,45 @@ struct PrayerDetailView: View {
     let prayer: Prayer
     @Environment(\.dismiss) private var dismiss
     @EnvironmentObject private var localization: LocalizationManager
-    @State private var legacy: LegacyPrayerDocument?
+    @State private var bundledPrayer: BundledPrayerDocument?
 
     private var locale: ContentLocale { localization.language.contentLocale }
 
     private var title: String {
-        legacyLocalized(base: legacy?.title, es: legacy?.title_es, pl: legacy?.title_pl)
+        localizedFromBundle(base: bundledPrayer?.title, es: bundledPrayer?.title_es, pl: bundledPrayer?.title_pl)
             ?? prayer.titleByLocale[locale]
             ?? prayer.titleByLocale[.en]
             ?? prayer.slug
     }
 
     private var alternateTitle: String {
-        legacyLocalized(base: legacy?.alternateTitle, es: legacy?.alternateTitle_es, pl: legacy?.alternateTitle_pl) ?? ""
+        localizedFromBundle(base: bundledPrayer?.alternateTitle, es: bundledPrayer?.alternateTitle_es, pl: bundledPrayer?.alternateTitle_pl) ?? ""
     }
 
     private var prayerText: String {
-        legacyLocalized(base: legacy?.prayerText, es: legacy?.prayerText_es, pl: legacy?.prayerText_pl)
+        localizedFromBundle(base: bundledPrayer?.prayerText, es: bundledPrayer?.prayerText_es, pl: bundledPrayer?.prayerText_pl)
             ?? prayer.bodyByLocale[locale]
             ?? prayer.bodyByLocale[.en]
             ?? ""
     }
 
     private var noteText: String {
-        legacyLocalized(base: legacy?.note, es: legacy?.note_es, pl: legacy?.note_pl) ?? ""
+        localizedFromBundle(base: bundledPrayer?.note, es: bundledPrayer?.note_es, pl: bundledPrayer?.note_pl) ?? ""
     }
 
     private var sourceTitle: String {
-        legacy?.source?.title ?? ""
+        bundledPrayer?.source?.title ?? ""
     }
 
     private var imageURL: URL? {
-        guard let raw = legacy?.photoUrl, !raw.isEmpty else { return nil }
+        guard let raw = bundledPrayer?.photoUrl, !raw.isEmpty else { return nil }
         return URL(string: raw)
+    }
+
+    private func handleBack() {
+        DispatchQueue.main.async {
+            dismiss()
+        }
     }
 
     var body: some View {
@@ -307,7 +313,7 @@ struct PrayerDetailView: View {
             ScrollView(showsIndicators: false) {
                 VStack(alignment: .leading, spacing: 12) {
                     HStack(spacing: 16) {
-                        Button { dismiss() } label: {
+                        Button { handleBack() } label: {
                             Image(systemName: "arrow.left")
                                 .font(.system(size: 20, weight: .bold))
                                 .foregroundStyle(.white)
@@ -316,6 +322,7 @@ struct PrayerDetailView: View {
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
+                        .contentShape(Circle())
 
                         Text(title)
                             .font(.system(size: 20, weight: .bold))
@@ -358,11 +365,15 @@ struct PrayerDetailView: View {
         }
         .toolbar(.hidden, for: .navigationBar)
         .task {
-            legacy = LegacyPrayerStore.prayer(id: prayer.id)
+            let id = prayer.id
+            let loaded = await Task.detached(priority: .userInitiated) {
+                BundledPrayerStore.prayer(id: id)
+            }.value
+            bundledPrayer = loaded
         }
     }
 
-    private func legacyLocalized(base: String?, es: String?, pl: String?) -> String? {
+    private func localizedFromBundle(base: String?, es: String?, pl: String?) -> String? {
         switch locale {
         case .en: return (base?.isEmpty == false ? base : nil) ?? es ?? pl
         case .es: return (es?.isEmpty == false ? es : nil) ?? base ?? pl
@@ -397,7 +408,7 @@ private struct PrayerHeroImage: View {
 
     var body: some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 0)
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
                 .fill(Color.white.opacity(0.12))
 
             AsyncImage(url: url) { phase in
@@ -405,10 +416,27 @@ private struct PrayerHeroImage: View {
                 case .empty:
                     ProgressView().tint(.white)
                 case .success(let image):
-                    image
-                        .resizable()
-                        .scaledToFit()
-                        .padding(.horizontal, 8)
+                    ZStack {
+                        image
+                            .resizable()
+                            .scaledToFill()
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .blur(radius: 22)
+                            .saturation(0.7)
+                            .opacity(0.82)
+
+                        image
+                            .resizable()
+                            .aspectRatio(contentMode: .fit)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .padding(10)
+                            .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                    .stroke(Color.white.opacity(0.34), lineWidth: 1)
+                            )
+                            .padding(2)
+                    }
                 case .failure:
                     Image(systemName: "photo")
                         .font(.system(size: 46))
@@ -420,10 +448,10 @@ private struct PrayerHeroImage: View {
         }
         .frame(maxWidth: .infinity)
         .frame(height: 260)
-        .clipShape(RoundedRectangle(cornerRadius: 0, style: .continuous))
+        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         .overlay(
-            RoundedRectangle(cornerRadius: 0, style: .continuous)
-                .stroke(Color.black.opacity(0.08), lineWidth: 1)
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
+                .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
         )
     }
 }

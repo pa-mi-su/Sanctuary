@@ -471,7 +471,7 @@ enum ContentStore {
         if let docDays = novena(id: id, bundle: bundle)?.days?.count, docDays > 0 {
             return docDays
         }
-        // Legacy index duration is often inclusive up to feast-day.
+        // Source index duration can be inclusive up to feast-day.
         if let entryDuration, entryDuration > 1 {
             return entryDuration - 1
         }
@@ -601,7 +601,7 @@ enum ContentStore {
     }
 
     private static func computeEasterSunday(year: Int) -> Date {
-        // Gregorian computus (same algorithm used in legacy app).
+        // Gregorian computus (stable baseline algorithm used by the app).
         let a = year % 19
         let b = year / 100
         let c = year % 100

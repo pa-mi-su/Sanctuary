@@ -4,13 +4,15 @@ struct HomeView: View {
     let environment: AppEnvironment
     @Binding var selectedTab: AppTab
     let onOpenIntentions: () -> Void
-    @Environment(\.openURL) private var openURL
     @EnvironmentObject private var localization: LocalizationManager
 
     @State private var showLanguageDialog = false
     @State private var showAbout = false
     @State private var showPrayersSearch = false
+    @State private var showSaintsSearch = false
+    @State private var showNovenasSearch = false
     @State private var showParishFinder = false
+    @State private var showDailyReadings = false
 
     var body: some View {
         NavigationStack {
@@ -54,34 +56,36 @@ struct HomeView: View {
                                 .foregroundStyle(AppTheme.subtitleText)
                                 .padding(.bottom, 2 * scale)
 
-                            Button(localization.t("home.saints")) { switchTab(.saints) }
-                                .buttonStyle(PrimaryPillButtonStyle())
+                            Button(localization.t("home.saints")) {
+                                showSaintsSearch = true
+                            }
+                                .buttonStyle(HomePrimaryButtonStyle())
 
-                            Button(localization.t("tab.novenas")) { switchTab(.novenas) }
-                                .buttonStyle(PrimaryPillButtonStyle())
+                            Button(localization.t("tab.novenas")) {
+                                showNovenasSearch = true
+                            }
+                                .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.prayers")) {
                                 showPrayersSearch = true
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.daily")) {
-                                if let url = URL(string: "https://bible.usccb.org/daily-bible-reading") {
-                                    openURL(url)
-                                }
+                                showDailyReadings = true
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.intentions")) {
                                 switchTab(.novenas)
                                 onOpenIntentions()
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.parish")) {
                                 showParishFinder = true
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
                             .padding(.bottom, 18 * scale)
                         }
                         .frame(maxWidth: contentWidth)
@@ -100,11 +104,32 @@ struct HomeView: View {
             .sheet(isPresented: $showPrayersSearch) {
                 PrayersSearchView(environment: environment)
             }
+            .sheet(isPresented: $showSaintsSearch) {
+                SaintsSearchView(environment: environment)
+            }
+            .sheet(isPresented: $showNovenasSearch) {
+                NovenasSearchView(environment: environment)
+            }
             .sheet(isPresented: $showParishFinder) {
                 ParishFinderView()
             }
+            .sheet(isPresented: $showDailyReadings) {
+                DailyReadingsView(url: URL(string: "https://bible.usccb.org/daily-bible-reading")!)
+            }
             .toolbar(.hidden)
         }
+    }
+}
+
+private struct HomePrimaryButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .font(AppTheme.rounded(16, weight: .bold))
+            .foregroundStyle(.white)
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 16)
+            .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.82 : 1.0))
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
     }
 }
 

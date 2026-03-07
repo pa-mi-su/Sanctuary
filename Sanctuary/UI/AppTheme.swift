@@ -21,6 +21,7 @@ enum AppTheme {
     static let lent = Color(hex: "#9B5087")
     static let easter = Color(hex: "#F5F5FA")
     static let ordinary = Color(hex: "#3C9B5F")
+    static let todayHighlight = Color(hex: "#F2CF63")
 
     static var backgroundGradient: LinearGradient {
         LinearGradient(
@@ -32,6 +33,24 @@ enum AppTheme {
 
     static func rounded(_ size: CGFloat, weight: Font.Weight) -> Font {
         .system(size: size, weight: weight, design: .rounded)
+    }
+
+    // Single source of truth for liturgical season -> UI border color mapping.
+    // This is intentionally separate from decorative legend colors so seasonal
+    // borders can follow the required canonical mapping.
+    static func liturgicalBorderColor(for season: LiturgicalSeason) -> Color {
+        switch season {
+        case .advent:
+            return advent
+        case .christmas:
+            return .white
+        case .lent:
+            return lent
+        case .easter:
+            return .white
+        case .ordinary:
+            return ordinary
+        }
     }
 }
 
@@ -65,27 +84,24 @@ extension Color {
 struct PrimaryPillButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
-            .font(AppTheme.rounded(13, weight: .semibold))
+            .font(AppTheme.rounded(16, weight: .semibold))
             .foregroundStyle(.white)
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 10)
+            .padding(.vertical, 13)
             .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.82 : 1.0))
-            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
     }
 }
 
 struct SecondaryPillButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
-            .font(AppTheme.rounded(13, weight: .semibold))
-            .foregroundStyle(AppTheme.purpleButton)
+            .font(AppTheme.rounded(16, weight: .semibold))
+            .foregroundStyle(.white)
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 10)
-            .background(Color.clear)
-            .overlay(
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .stroke(AppTheme.purpleOutline, lineWidth: 2)
-            )
+            .padding(.vertical, 13)
+            .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.72 : 0.9))
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
             .opacity(configuration.isPressed ? 0.75 : 1.0)
     }
 }
