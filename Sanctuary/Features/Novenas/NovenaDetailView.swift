@@ -113,10 +113,8 @@ struct NovenaDetailView: View {
     }
 
     private func handleBack() {
+        dismiss()
         onClose?()
-        DispatchQueue.main.async {
-            dismiss()
-        }
     }
 
     var body: some View {
@@ -138,12 +136,14 @@ struct NovenaDetailView: View {
                         }
                         .buttonStyle(.plain)
                         .contentShape(Circle())
+                        .highPriorityGesture(TapGesture().onEnded { handleBack() })
                         Text(title)
                             .font(.system(size: 20, weight: .bold))
                             .foregroundStyle(.white)
                             .lineLimit(2)
                     }
                     .padding(.top, 8)
+                    .zIndex(10)
 
                     if let imageURL = effectiveNovena.imageURL {
                         RemoteHeroImage(url: imageURL)
@@ -620,6 +620,7 @@ private struct RemoteHeroImage: View {
             RoundedRectangle(cornerRadius: 20, style: .continuous)
                 .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
         )
+        .allowsHitTesting(false)
     }
 }
 
