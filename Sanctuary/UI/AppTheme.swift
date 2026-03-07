@@ -65,27 +65,24 @@ extension Color {
 struct PrimaryPillButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
-            .font(AppTheme.rounded(13, weight: .semibold))
+            .font(AppTheme.rounded(16, weight: .semibold))
             .foregroundStyle(.white)
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 10)
+            .padding(.vertical, 13)
             .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.82 : 1.0))
-            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
     }
 }
 
 struct SecondaryPillButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
-            .font(AppTheme.rounded(13, weight: .semibold))
-            .foregroundStyle(AppTheme.purpleButton)
+            .font(AppTheme.rounded(16, weight: .semibold))
+            .foregroundStyle(.white)
             .frame(maxWidth: .infinity)
-            .padding(.vertical, 10)
-            .background(Color.clear)
-            .overlay(
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .stroke(AppTheme.purpleOutline, lineWidth: 2)
-            )
+            .padding(.vertical, 13)
+            .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.72 : 0.9))
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
             .opacity(configuration.isPressed ? 0.75 : 1.0)
     }
 }

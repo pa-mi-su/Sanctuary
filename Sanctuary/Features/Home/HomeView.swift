@@ -55,33 +55,33 @@ struct HomeView: View {
                                 .padding(.bottom, 2 * scale)
 
                             Button(localization.t("home.saints")) { switchTab(.saints) }
-                                .buttonStyle(PrimaryPillButtonStyle())
+                                .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("tab.novenas")) { switchTab(.novenas) }
-                                .buttonStyle(PrimaryPillButtonStyle())
+                                .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.prayers")) {
                                 showPrayersSearch = true
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.daily")) {
                                 if let url = URL(string: "https://bible.usccb.org/daily-bible-reading") {
                                     openURL(url)
                                 }
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.intentions")) {
                                 switchTab(.novenas)
                                 onOpenIntentions()
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.parish")) {
                                 showParishFinder = true
                             }
-                            .buttonStyle(PrimaryPillButtonStyle())
+                            .buttonStyle(HomePrimaryButtonStyle())
                             .padding(.bottom, 18 * scale)
                         }
                         .frame(maxWidth: contentWidth)
@@ -105,6 +105,18 @@ struct HomeView: View {
             }
             .toolbar(.hidden)
         }
+    }
+}
+
+private struct HomePrimaryButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .font(AppTheme.rounded(16, weight: .bold))
+            .foregroundStyle(.white)
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 16)
+            .background(AppTheme.purpleButton.opacity(configuration.isPressed ? 0.82 : 1.0))
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
     }
 }
 

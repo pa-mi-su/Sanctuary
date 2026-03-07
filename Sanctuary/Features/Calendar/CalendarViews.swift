@@ -702,16 +702,16 @@ private struct CalendarScaffold<Content: View>: View {
     private func pillModeButton(_ title: String, isActive: Bool, action: @escaping () -> Void) -> some View {
         Button(action: action) {
             Text(title)
-                .font(AppTheme.rounded(15, weight: .medium))
+                .font(AppTheme.rounded(17, weight: .semibold))
                 .foregroundStyle(isActive ? Color.white : AppTheme.purpleButton)
-                .padding(.horizontal, 14)
-                .padding(.vertical, 9)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 11)
                 .background(isActive ? AppTheme.purpleButton : Color.clear)
                 .overlay(
-                    RoundedRectangle(cornerRadius: 18, style: .continuous)
+                    RoundedRectangle(cornerRadius: 20, style: .continuous)
                         .stroke(AppTheme.purpleOutline, lineWidth: isActive ? 0 : 2)
                 )
-                .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+                .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         }
         .buttonStyle(.plain)
     }
