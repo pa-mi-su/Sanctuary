@@ -60,8 +60,9 @@ struct SaintDetailView: View {
     }
 
     private func handleBack() {
-        onClose?()
-        DispatchQueue.main.async {
+        if let onClose {
+            onClose()
+        } else {
             dismiss()
         }
     }
@@ -85,6 +86,7 @@ struct SaintDetailView: View {
                         }
                         .buttonStyle(.plain)
                         .contentShape(Circle())
+                        .simultaneousGesture(TapGesture().onEnded { handleBack() })
                         Text(displayName)
                             .font(.system(size: 20, weight: .bold))
                             .foregroundStyle(.white)

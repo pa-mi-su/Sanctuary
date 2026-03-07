@@ -131,6 +131,8 @@ struct PrayersSearchView: View {
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
+                        .contentShape(Circle())
+                        .simultaneousGesture(TapGesture().onEnded { dismiss() })
                         Spacer()
                         Text(localization.t("search.prayersTitle"))
                             .font(.system(size: 24, weight: .heavy))
@@ -301,9 +303,7 @@ struct PrayerDetailView: View {
     }
 
     private func handleBack() {
-        DispatchQueue.main.async {
-            dismiss()
-        }
+        dismiss()
     }
 
     var body: some View {
@@ -323,6 +323,7 @@ struct PrayerDetailView: View {
                         }
                         .buttonStyle(.plain)
                         .contentShape(Circle())
+                        .simultaneousGesture(TapGesture().onEnded { handleBack() })
 
                         Text(title)
                             .font(.system(size: 20, weight: .bold))

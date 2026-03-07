@@ -113,8 +113,9 @@ struct NovenaDetailView: View {
     }
 
     private func handleBack() {
-        onClose?()
-        DispatchQueue.main.async {
+        if let onClose {
+            onClose()
+        } else {
             dismiss()
         }
     }
@@ -138,6 +139,7 @@ struct NovenaDetailView: View {
                         }
                         .buttonStyle(.plain)
                         .contentShape(Circle())
+                        .simultaneousGesture(TapGesture().onEnded { handleBack() })
                         Text(title)
                             .font(.system(size: 20, weight: .bold))
                             .foregroundStyle(.white)
