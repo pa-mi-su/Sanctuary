@@ -424,15 +424,11 @@ enum ContentStore {
         var dayMap: [String: NovenaIndexEntry] = [:]
         for entry in novenaIndex(bundle: bundle) {
             guard let window = resolvedServingWindow(for: entry, year: year, bundle: bundle) else { continue }
-            var current = window.start
-            while current <= window.end {
-                let key = monthDayKey(
-                    month: calendar.component(.month, from: current),
-                    day: calendar.component(.day, from: current)
-                )
-                if dayMap[key] == nil { dayMap[key] = entry }
-                current = calendar.date(byAdding: .day, value: 1, to: current) ?? current
-            }
+            let key = monthDayKey(
+                month: calendar.component(.month, from: window.start),
+                day: calendar.component(.day, from: window.start)
+            )
+            if dayMap[key] == nil { dayMap[key] = entry }
         }
 
         cacheLock.lock()

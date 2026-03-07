@@ -71,6 +71,18 @@ struct NovenaDetailView: View {
         return String(format: "%04d-%02d-%02d", year, month, day)
     }
 
+    private var endDateString: String? {
+        let year = displayYear ?? Calendar.current.component(.year, from: Date())
+        guard let window = ContentStore.novenaServingWindow(id: effectiveNovena.id, year: year) else {
+            return nil
+        }
+        let calendar = Calendar(identifier: .gregorian)
+        let endYear = calendar.component(.year, from: window.end)
+        let month = calendar.component(.month, from: window.end)
+        let day = calendar.component(.day, from: window.end)
+        return String(format: "%04d-%02d-%02d", endYear, month, day)
+    }
+
     private var currentCommitment: UserNovenaCommitment? {
         progressStore.activeCommitment(for: effectiveNovena.id)
     }
@@ -159,6 +171,12 @@ struct NovenaDetailView: View {
 
                     if let feastDateString {
                         Text("\(localization.t("detail.feastDate")): \(feastDateString)")
+                            .font(.system(size: 18, weight: .medium))
+                            .foregroundStyle(.white.opacity(0.92))
+                    }
+
+                    if let endDateString {
+                        Text("\(localization.t("detail.endDate")): \(endDateString)")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundStyle(.white.opacity(0.92))
                     }
