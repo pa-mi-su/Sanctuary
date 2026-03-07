@@ -52,6 +52,16 @@ struct NovenaRuleTestMain {
         assertOrExit(ContentStore.novenaServingStatus(id: "divine_mercy", on: date(2026, 4, 11)) == .active, "divine_mercy 2026-04-11 should be active")
         assertOrExit(ContentStore.novenaServingStatus(id: "divine_mercy", on: date(2026, 4, 12)) == .completed, "divine_mercy 2026-04-12 should be completed")
 
+        // Calendar listing is start-day only (not full active span).
+        assertOrExit(
+            ContentStore.firstNovenaIDForCalendarDay(onYear: 2026, month: 4, day: 3) == "divine_mercy",
+            "calendar should list divine_mercy on start day 2026-04-03"
+        )
+        assertOrExit(
+            ContentStore.firstNovenaIDForCalendarDay(onYear: 2026, month: 4, day: 4) != "divine_mercy",
+            "calendar should not list divine_mercy on non-start day 2026-04-04"
+        )
+
         // Movable example 1: Novena to the Holy Spirit (2026)
         if let w = ContentStore.novenaServingWindow(id: "novena_to_the_holy_spirit", year: 2026) {
             assertOrExit(yyyyMMdd(w.start) == "2026-05-15", "holy_spirit 2026 start expected 2026-05-15, got \(yyyyMMdd(w.start))")
