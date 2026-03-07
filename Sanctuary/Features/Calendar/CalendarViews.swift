@@ -30,7 +30,7 @@ struct NovenasCalendarView: View {
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
         CalendarScaffold(
             headerTitle: mode == .day ? "\(monthName) \(selectedDay), \(selectedYear)" : "\(monthName) \(selectedYear)",
-            subtitle: "Novenas • Tap to jump",
+            subtitle: localization.t("calendar.subtitle.novenas"),
             mode: $mode,
             searchTitle: localization.t("calendar.searchNovenas"),
             secondarySearchTitle: localization.t("calendar.searchIntentions"),
@@ -80,7 +80,7 @@ struct NovenasCalendarView: View {
                         if let next {
                             selectedNovenaSelection = CalendarSelection(id: next)
                         } else {
-                            tapFeedbackMessage = "No novena mapped for \(monthName) \(selectedDay)."
+                            tapFeedbackMessage = "\(localization.t("calendar.noNovenaMapped")) \(monthName) \(selectedDay)."
                         }
                     }
                 )
@@ -136,7 +136,7 @@ struct NovenasCalendarView: View {
 
     private func selectedNovenaTitleForDay() -> String {
         guard let title = novenaTitleByDay[selectedDay] else {
-            return "No novena available"
+            return localization.t("calendar.noNovenaAvailable")
         }
         return title
     }
@@ -237,7 +237,7 @@ struct LiturgicalCalendarView: View {
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
         CalendarScaffold(
             headerTitle: mode == .day ? "\(monthName) \(selectedDay), \(selectedYear)" : "\(monthName) \(selectedYear)",
-            subtitle: "Liturgical • Tap to jump",
+            subtitle: localization.t("calendar.subtitle.liturgical"),
             mode: $mode,
             searchTitle: localization.t("calendar.search"),
             secondarySearchTitle: nil,
@@ -305,7 +305,7 @@ struct LiturgicalCalendarView: View {
     }
 
     private func liturgicalTitleForDay() -> String {
-        LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.rank ?? "Daily Readings"
+        LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.rank ?? localization.t("calendar.dailyReadings")
     }
 
     private func liturgicalLabel(for day: Int) -> String {
@@ -384,7 +384,7 @@ struct SaintsCalendarView: View {
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
         CalendarScaffold(
             headerTitle: mode == .day ? "\(monthName) \(selectedDay), \(selectedYear)" : "\(monthName) \(selectedYear)",
-            subtitle: "Saints • Tap to jump",
+            subtitle: localization.t("calendar.subtitle.saints"),
             mode: $mode,
             searchTitle: localization.t("calendar.searchSaints"),
             secondarySearchTitle: nil,
@@ -412,7 +412,7 @@ struct SaintsCalendarView: View {
                         if let next {
                             selectedSaintSelection = CalendarSelection(id: next)
                         } else {
-                            tapFeedbackMessage = "No saint mapped for \(monthName) \(selectedDay)."
+                            tapFeedbackMessage = "\(localization.t("calendar.noSaintMapped")) \(monthName) \(selectedDay)."
                         }
                     }
                 )
@@ -451,7 +451,7 @@ struct SaintsCalendarView: View {
                 saint: Saint(
                     id: selection.id,
                     slug: selection.id,
-                    name: saintNameByDay[selectedDay] ?? "Saint",
+                    name: saintNameByDay[selectedDay] ?? localization.t("tab.saints"),
                     feastMonth: selectedMonth,
                     feastDay: selectedDay,
                     imageURL: nil,
@@ -488,7 +488,7 @@ struct SaintsCalendarView: View {
     }
 
     private func selectedSaintNameForDay() -> String {
-        saintNameByDay[selectedDay] ?? "Saint"
+        saintNameByDay[selectedDay] ?? localization.t("tab.saints")
     }
 
     private func saintLabel(for day: Int) -> String {
@@ -669,11 +669,11 @@ private struct CalendarScaffold<Content: View>: View {
                     }
 
                     HStack(spacing: 12 * scale) {
-                        seasonDot(color: AppTheme.advent, text: "Advent")
-                        seasonDot(color: AppTheme.christmas, text: "Christmas")
-                        seasonDot(color: AppTheme.lent, text: "Lent")
-                        seasonDot(color: AppTheme.easter, text: "Easter")
-                        seasonDot(color: AppTheme.ordinary, text: "Ordinary Time")
+                        seasonDot(color: AppTheme.advent, text: localization.t("season.advent"))
+                        seasonDot(color: AppTheme.christmas, text: localization.t("season.christmas"))
+                        seasonDot(color: AppTheme.lent, text: localization.t("season.lent"))
+                        seasonDot(color: AppTheme.easter, text: localization.t("season.easter"))
+                        seasonDot(color: AppTheme.ordinary, text: localization.t("season.ordinary"))
                     }
                     .font(AppTheme.rounded(11 * scale, weight: .medium))
                     .foregroundStyle(.white.opacity(0.86))
@@ -797,6 +797,7 @@ private struct DayCard: View {
 }
 
 private struct MonthGrid: View {
+    @EnvironmentObject private var localization: LocalizationManager
     let year: Int
     let month: Int
     let daysInMonth: Int
@@ -852,7 +853,7 @@ private struct MonthGrid: View {
 
     private var weekHeaderRow: some View {
         HStack {
-            ForEach(["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], id: \.self) { day in
+            ForEach(localization.weekdaySymbolsShort(), id: \.self) { day in
                 Text(day)
                     .font(AppTheme.rounded(13, weight: .medium))
                     .frame(maxWidth: .infinity)
@@ -863,6 +864,7 @@ private struct MonthGrid: View {
 }
 
 private struct WeekGrid: View {
+    @EnvironmentObject private var localization: LocalizationManager
     let year: Int
     let month: Int
     let daysInMonth: Int
@@ -884,7 +886,7 @@ private struct WeekGrid: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
             HStack {
-                ForEach(["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], id: \.self) { day in
+                ForEach(localization.weekdaySymbolsShort(), id: \.self) { day in
                     Text(day)
                         .font(AppTheme.rounded(13, weight: .medium))
                         .frame(maxWidth: .infinity)
