@@ -4,13 +4,15 @@ struct HomeView: View {
     let environment: AppEnvironment
     @Binding var selectedTab: AppTab
     let onOpenIntentions: () -> Void
-    @Environment(\.openURL) private var openURL
     @EnvironmentObject private var localization: LocalizationManager
 
     @State private var showLanguageDialog = false
     @State private var showAbout = false
     @State private var showPrayersSearch = false
+    @State private var showSaintsSearch = false
+    @State private var showNovenasSearch = false
     @State private var showParishFinder = false
+    @State private var showDailyReadings = false
 
     var body: some View {
         NavigationStack {
@@ -54,10 +56,14 @@ struct HomeView: View {
                                 .foregroundStyle(AppTheme.subtitleText)
                                 .padding(.bottom, 2 * scale)
 
-                            Button(localization.t("home.saints")) { switchTab(.saints) }
+                            Button(localization.t("home.saints")) {
+                                showSaintsSearch = true
+                            }
                                 .buttonStyle(HomePrimaryButtonStyle())
 
-                            Button(localization.t("tab.novenas")) { switchTab(.novenas) }
+                            Button(localization.t("tab.novenas")) {
+                                showNovenasSearch = true
+                            }
                                 .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.prayers")) {
@@ -66,9 +72,7 @@ struct HomeView: View {
                             .buttonStyle(HomePrimaryButtonStyle())
 
                             Button(localization.t("home.daily")) {
-                                if let url = URL(string: "https://bible.usccb.org/daily-bible-reading") {
-                                    openURL(url)
-                                }
+                                showDailyReadings = true
                             }
                             .buttonStyle(HomePrimaryButtonStyle())
 
@@ -100,8 +104,17 @@ struct HomeView: View {
             .sheet(isPresented: $showPrayersSearch) {
                 PrayersSearchView(environment: environment)
             }
+            .sheet(isPresented: $showSaintsSearch) {
+                SaintsSearchView(environment: environment)
+            }
+            .sheet(isPresented: $showNovenasSearch) {
+                NovenasSearchView(environment: environment)
+            }
             .sheet(isPresented: $showParishFinder) {
                 ParishFinderView()
+            }
+            .sheet(isPresented: $showDailyReadings) {
+                DailyReadingsView(url: URL(string: "https://bible.usccb.org/daily-bible-reading")!)
             }
             .toolbar(.hidden)
         }

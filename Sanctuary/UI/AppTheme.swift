@@ -21,6 +21,7 @@ enum AppTheme {
     static let lent = Color(hex: "#9B5087")
     static let easter = Color(hex: "#F5F5FA")
     static let ordinary = Color(hex: "#3C9B5F")
+    static let todayHighlight = Color(hex: "#F2CF63")
 
     static var backgroundGradient: LinearGradient {
         LinearGradient(
@@ -32,6 +33,24 @@ enum AppTheme {
 
     static func rounded(_ size: CGFloat, weight: Font.Weight) -> Font {
         .system(size: size, weight: weight, design: .rounded)
+    }
+
+    // Single source of truth for liturgical season -> UI border color mapping.
+    // This is intentionally separate from decorative legend colors so seasonal
+    // borders can follow the required canonical mapping.
+    static func liturgicalBorderColor(for season: LiturgicalSeason) -> Color {
+        switch season {
+        case .advent:
+            return advent
+        case .christmas:
+            return .white
+        case .lent:
+            return lent
+        case .easter:
+            return .white
+        case .ordinary:
+            return ordinary
+        }
     }
 }
 

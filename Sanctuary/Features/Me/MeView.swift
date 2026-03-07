@@ -134,13 +134,38 @@ struct MeView: View {
         .sheet(item: $selectedRoute) { route in
             switch route {
             case .saint(let id):
-                if let source = ContentStore.saint(id: id) {
-                    SaintDetailView(saint: mapSourceSaint(source), onClose: { selectedRoute = nil })
-                }
+                SaintDetailView(
+                    saint: Saint(
+                        id: id,
+                        slug: id,
+                        name: saintName(for: id),
+                        feastMonth: 1,
+                        feastDay: 1,
+                        imageURL: nil,
+                        tags: [],
+                        patronages: [],
+                        feastLabelByLocale: [.en: ""],
+                        summaryByLocale: [.en: ""],
+                        biographyByLocale: [.en: ""],
+                        prayersByLocale: [.en: []],
+                        sources: []
+                    ),
+                    onClose: { selectedRoute = nil }
+                )
             case .novena(let id):
-                if let source = ContentStore.novena(id: id) {
-                    NovenaDetailView(novena: mapSourceNovena(source), onClose: { selectedRoute = nil })
-                }
+                NovenaDetailView(
+                    novena: Novena(
+                        id: id,
+                        slug: id,
+                        titleByLocale: [.en: novenaTitle(for: id)],
+                        descriptionByLocale: [.en: ""],
+                        durationDays: 9,
+                        tags: [],
+                        imageURL: nil,
+                        days: []
+                    ),
+                    onClose: { selectedRoute = nil }
+                )
             }
         }
     }

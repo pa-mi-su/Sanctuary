@@ -48,7 +48,22 @@ struct SaintDetailView: View {
 
     private var feastDateString: String {
         let year = displayYear ?? Calendar.current.component(.year, from: Date())
-        return String(format: "%04d-%02d-%02d", year, saint.feastMonth, saint.feastDay)
+        let parsedMonthDay: (Int, Int)? = {
+            guard let mmdd = sourceDoc?.mmdd else { return nil }
+            let parts = mmdd.split(separator: "-")
+            guard parts.count == 2, let m = Int(parts[0]), let d = Int(parts[1]) else { return nil }
+            return (m, d)
+        }()
+        let month = parsedMonthDay?.0 ?? saint.feastMonth
+        let day = parsedMonthDay?.1 ?? saint.feastDay
+        return String(format: "%04d-%02d-%02d", year, month, day)
+    }
+
+    private func handleBack() {
+        onClose?()
+        DispatchQueue.main.async {
+            dismiss()
+        }
     }
 
     var body: some View {
@@ -59,11 +74,7 @@ struct SaintDetailView: View {
                 VStack(alignment: .leading, spacing: 12) {
                     HStack(spacing: 16) {
                         Button {
-                            if let onClose {
-                                onClose()
-                            } else {
-                                dismiss()
-                            }
+                            handleBack()
                         } label: {
                             Image(systemName: "arrow.left")
                                 .font(.system(size: 20, weight: .bold))
@@ -218,13 +229,20 @@ struct SaintDetailView: View {
             isFavorite = progressStore.isFavorite(itemType: .saint, itemID: saint.id)
         }
         .sheet(item: $selectedNovenaSelection) { selection in
-            if let doc = ContentStore.novena(id: selection.id) {
-                NovenaDetailView(
-                    novena: mapSourceNovena(doc),
-                    displayYear: displayYear,
-                    onClose: { selectedNovenaSelection = nil }
-                )
-            }
+            NovenaDetailView(
+                novena: Novena(
+                    id: selection.id,
+                    slug: selection.id,
+                    titleByLocale: [.en: relatedNovenas.first(where: { $0.id == selection.id })?.title ?? selection.id],
+                    descriptionByLocale: [.en: ""],
+                    durationDays: 9,
+                    tags: [],
+                    imageURL: nil,
+                    days: []
+                ),
+                displayYear: displayYear,
+                onClose: { selectedNovenaSelection = nil }
+            )
         }
     }
 
@@ -344,7 +362,7 @@ private struct RemoteHeroImage: View {
 
     var body: some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 0)
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
                 .fill(Color.white.opacity(0.12))
 
             AsyncImage(url: url) { phase in
@@ -352,10 +370,27 @@ private struct RemoteHeroImage: View {
                 case .empty:
                     ProgressView().tint(.white)
                 case .success(let image):
-                    image
-                        .resizable()
-                        .scaledToFit()
-                        .padding(.horizontal, 8)
+                    ZStack {
+                        image
+                            .resizable()
+                            .scaledToFill()
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .blur(radius: 22)
+                            .saturation(0.7)
+                            .opacity(0.82)
+
+                        image
+                            .resizable()
+                            .aspectRatio(contentMode: .fit)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .padding(10)
+                            .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                    .stroke(Color.white.opacity(0.34), lineWidth: 1)
+                            )
+                            .padding(2)
+                    }
                 case .failure:
                     Color.gray.opacity(0.25)
                 @unknown default:
@@ -365,10 +400,10 @@ private struct RemoteHeroImage: View {
         }
         .frame(maxWidth: .infinity)
         .frame(height: 260)
-        .clipShape(RoundedRectangle(cornerRadius: 0, style: .continuous))
+        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         .overlay(
-            RoundedRectangle(cornerRadius: 0, style: .continuous)
-                .stroke(Color.black.opacity(0.08), lineWidth: 1)
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
+                .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
         )
     }
 }

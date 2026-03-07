@@ -325,15 +325,7 @@ enum LiturgicalCalendarEngine {
     }
 
     private static func fallbackEntry(for date: Date) -> Entry {
-        let season = seasonForDate(
-            date: date,
-            advent1: firstSundayOfAdvent(year: calendar.component(.year, from: date)),
-            christmas: makeDate(year: calendar.component(.year, from: date), month: 12, day: 25),
-            baptism: baptismOfTheLord(year: calendar.component(.year, from: date)),
-            ashWednesday: addDays(easterSunday(year: calendar.component(.year, from: date)) ?? date, -46),
-            easter: easterSunday(year: calendar.component(.year, from: date)) ?? date,
-            pentecost: addDays(easterSunday(year: calendar.component(.year, from: date)) ?? date, 49)
-        )
+        let season = seasonForDate(date: date)
         let weekdayIndex = max(1, min(7, calendar.component(.weekday, from: date))) - 1
         return Entry(
             rank: "\(weekdayNames[weekdayIndex]) of \(seasonDisplayName(season))",
@@ -419,17 +411,28 @@ enum LiturgicalCalendarEngine {
         nextWeekday(makeDate(year: year, month: 1, day: 6), weekday: 1, includeSameDay: false)
     }
 
-    private static func seasonForDate(
-        date: Date,
-        advent1: Date,
-        christmas: Date,
-        baptism: Date,
-        ashWednesday: Date,
-        easter: Date,
-        pentecost: Date
-    ) -> LiturgicalSeason {
-        if date >= advent1, date < christmas { return .advent }
-        if date >= christmas, date <= baptism { return .christmas }
+    // Central seasonal boundaries used by the liturgical engine.
+    // Handles both Christmas windows correctly:
+    // - Dec 25 (year N) through Baptism of the Lord (year N+1)
+    // - Dec 25 (year N-1) through Baptism of the Lord (year N)
+    private static func seasonForDate(date: Date) -> LiturgicalSeason {
+        let year = calendar.component(.year, from: date)
+
+        let advent1 = firstSundayOfAdvent(year: year)
+        let christmasCurrent = makeDate(year: year, month: 12, day: 25)
+        let christmasPrevious = makeDate(year: year - 1, month: 12, day: 25)
+        let baptismCurrent = baptismOfTheLord(year: year)
+        let baptismNext = baptismOfTheLord(year: year + 1)
+
+        if date >= advent1, date < christmasCurrent { return .advent }
+        if (date >= christmasPrevious && date <= baptismCurrent) ||
+            (date >= christmasCurrent && date <= baptismNext) {
+            return .christmas
+        }
+
+        let easter = easterSunday(year: year) ?? date
+        let ashWednesday = addDays(easter, -46)
+        let pentecost = addDays(easter, 49)
         if date >= ashWednesday, date < easter { return .lent }
         if date >= easter, date <= pentecost { return .easter }
         return .ordinary
