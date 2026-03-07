@@ -240,9 +240,11 @@ enum LiturgicalCalendarEngine {
         addEntry(to: &entries, date: addDays(lent1, 21), rank: "Fourth Sunday of Lent (Laetare Sunday)", season: .lent, rankType: "Sunday")
         addEntry(to: &entries, date: addDays(lent1, 28), rank: "Fifth Sunday of Lent", season: .lent, rankType: "Sunday")
         addEntry(to: &entries, date: palmSunday, rank: "Palm Sunday of the Passion of the Lord", season: .lent, rankType: "Sunday")
-        addEntry(to: &entries, date: holyThursday, rank: "Holy Thursday (Evening Mass of the Lord’s Supper)", season: .easter, rankType: "Triduum")
-        addEntry(to: &entries, date: goodFriday, rank: "Good Friday of the Passion of the Lord", season: .easter, rankType: "Triduum")
-        addEntry(to: &entries, date: holySaturday, rank: "Holy Saturday", season: .easter, rankType: "Triduum")
+        // Keep Triduum in Lent for this app's 5-season legend model.
+        // Easter season coloring starts on Easter Sunday.
+        addEntry(to: &entries, date: holyThursday, rank: "Holy Thursday (Evening Mass of the Lord’s Supper)", season: .lent, rankType: "Triduum")
+        addEntry(to: &entries, date: goodFriday, rank: "Good Friday of the Passion of the Lord", season: .lent, rankType: "Triduum")
+        addEntry(to: &entries, date: holySaturday, rank: "Holy Saturday", season: .lent, rankType: "Triduum")
         addEntry(to: &entries, date: easter, rank: "Easter Sunday of the Resurrection of the Lord", season: .easter, rankType: "Solemnity")
         for offset in 1 ... 6 {
             addEntry(to: &entries, date: addDays(easter, offset), rank: "Easter Octave (Day \(offset + 1))", season: .easter, rankType: "Solemnity")

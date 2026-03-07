@@ -755,54 +755,61 @@ private struct DayCard: View {
     private let cardHeight: CGFloat = 142
 
     var body: some View {
+        let outerShape = RoundedRectangle(cornerRadius: 18, style: .continuous)
+        let innerShape = RoundedRectangle(cornerRadius: 14, style: .continuous)
         Button(action: onTap) {
             ZStack {
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
+                outerShape
                     .fill(Color.white.opacity(0.13))
 
                 if let imageURL {
-                    AsyncImage(url: imageURL) { phase in
-                        switch phase {
-                        case .success(let image):
-                            ZStack {
-                                image
-                                    .resizable()
-                                    .scaledToFill()
-                                    .frame(maxWidth: .infinity, maxHeight: .infinity)
-                                    .blur(radius: 22)
-                                    .saturation(0.7)
-                                    .opacity(0.82)
+                    GeometryReader { geo in
+                        AsyncImage(url: imageURL) { phase in
+                            switch phase {
+                            case .success(let image):
+                                ZStack {
+                                    // Backdrop fills the card and is intentionally blurred.
+                                    image
+                                        .resizable()
+                                        .scaledToFill()
+                                        .frame(width: geo.size.width, height: geo.size.height)
+                                        .blur(radius: 24)
+                                        .saturation(0.65)
+                                        .opacity(0.8)
 
-                                image
-                                    .resizable()
-                                    .aspectRatio(contentMode: .fit)
-                                    .frame(maxWidth: .infinity, maxHeight: .infinity)
-                                    .padding(8)
-                                    .clipShape(RoundedRectangle(cornerRadius: 12, style: .continuous))
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 12, style: .continuous)
-                                            .stroke(Color.white.opacity(0.34), lineWidth: 1)
-                                    )
-                                    .padding(2)
+                                    // Foreground always shows the full image (no crop/zoom).
+                                    image
+                                        .resizable()
+                                        .aspectRatio(contentMode: .fit)
+                                        .frame(
+                                            width: max(0, geo.size.width - 18),
+                                            height: max(0, geo.size.height - 18)
+                                        )
+                                        .clipShape(innerShape)
+                                        .overlay(
+                                            innerShape
+                                                .stroke(Color.white.opacity(0.38), lineWidth: 1)
+                                        )
+                                        .shadow(color: .black.opacity(0.22), radius: 6, x: 0, y: 2)
+                                }
+                            case .empty:
+                                Color.white.opacity(0.08)
+                            case .failure:
+                                Color.white.opacity(0.08)
+                            @unknown default:
+                                Color.white.opacity(0.08)
                             }
-                            .background(Color.black.opacity(0.08))
-                        case .empty:
-                            Color.white.opacity(0.08)
-                        case .failure:
-                            Color.white.opacity(0.08)
-                        @unknown default:
-                            Color.white.opacity(0.08)
                         }
                     }
-                    .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+                    .clipShape(outerShape)
 
                 }
 
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .stroke(borderColor, lineWidth: 3)
+                outerShape
+                    .strokeBorder(borderColor, lineWidth: 3)
 
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .stroke(Color.white.opacity(0.4), lineWidth: 1)
+                outerShape
+                    .strokeBorder(Color.white.opacity(0.4), lineWidth: 1)
 
                 VStack(spacing: 8) {
                     Text(title)
@@ -825,13 +832,12 @@ private struct DayCard: View {
             }
             .frame(maxWidth: .infinity)
             .frame(height: cardHeight)
-            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+            .clipShape(outerShape)
         }
-        .contentShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+        .contentShape(outerShape)
         .frame(maxWidth: .infinity)
         .frame(height: cardHeight)
         .buttonStyle(.plain)
-        .clipped()
     }
 }
 

@@ -131,6 +131,8 @@ struct PrayersSearchView: View {
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
+                        .contentShape(Circle())
+                        .highPriorityGesture(TapGesture().onEnded { dismiss() })
                         Spacer()
                         Text(localization.t("search.prayersTitle"))
                             .font(.system(size: 24, weight: .heavy))
@@ -301,9 +303,7 @@ struct PrayerDetailView: View {
     }
 
     private func handleBack() {
-        DispatchQueue.main.async {
-            dismiss()
-        }
+        dismiss()
     }
 
     var body: some View {
@@ -323,6 +323,7 @@ struct PrayerDetailView: View {
                         }
                         .buttonStyle(.plain)
                         .contentShape(Circle())
+                        .highPriorityGesture(TapGesture().onEnded { handleBack() })
 
                         Text(title)
                             .font(.system(size: 20, weight: .bold))
@@ -330,6 +331,7 @@ struct PrayerDetailView: View {
                             .lineLimit(2)
                     }
                     .padding(.top, 8)
+                    .zIndex(10)
 
                     if let imageURL {
                         PrayerHeroImage(url: imageURL)
@@ -453,5 +455,6 @@ private struct PrayerHeroImage: View {
             RoundedRectangle(cornerRadius: 20, style: .continuous)
                 .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
         )
+        .allowsHitTesting(false)
     }
 }
