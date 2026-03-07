@@ -232,6 +232,23 @@ struct LiturgicalCalendarView: View {
     @State private var selectedReadingSelection: ReadingSelection?
     @State private var showDatePicker = false
 
+    // Uses the centralized liturgical engine so season logic is not duplicated in UI.
+    private var displayedSeason: LiturgicalSeason {
+        LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.season
+            ?? LiturgicalCalendarEngine.day(for: selectedDate()).season
+    }
+
+    private var displayedSeasonBorderColor: Color {
+        AppTheme.liturgicalBorderColor(for: displayedSeason)
+    }
+
+    private func borderColor(for day: Int) -> Color {
+        guard let season = LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: day)?.season else {
+            return displayedSeasonBorderColor
+        }
+        return AppTheme.liturgicalBorderColor(for: season)
+    }
+
     var body: some View {
         let monthName = monthTitle(selectedMonth)
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
@@ -260,6 +277,7 @@ struct LiturgicalCalendarView: View {
                     month: selectedMonth,
                     daysInMonth: maxDay,
                     selectedDay: selectedDay,
+                    borderColorForDay: borderColor(for:),
                     labelForDay: liturgicalLabel(for:)
                 ) { day in
                     selectedDay = day
@@ -271,6 +289,7 @@ struct LiturgicalCalendarView: View {
                     month: selectedMonth,
                     daysInMonth: maxDay,
                     selectedDay: selectedDay,
+                    borderColorForDay: borderColor(for:),
                     labelForDay: liturgicalLabel(for:)
                 ) { day in
                     selectedDay = day
@@ -281,6 +300,7 @@ struct LiturgicalCalendarView: View {
                     title: "\(selectedDay)",
                     subtitle: liturgicalTitleForDay(),
                     imageURL: nil,
+                    borderColor: displayedSeasonBorderColor,
                     actionLabel: localization.t("calendar.openDailyReadings"),
                     onTap: {
                         guard Date() >= suppressDayTapUntil else { return }
@@ -702,16 +722,16 @@ private struct CalendarScaffold<Content: View>: View {
     private func pillModeButton(_ title: String, isActive: Bool, action: @escaping () -> Void) -> some View {
         Button(action: action) {
             Text(title)
-                .font(AppTheme.rounded(15, weight: .medium))
+                .font(AppTheme.rounded(17, weight: .semibold))
                 .foregroundStyle(isActive ? Color.white : AppTheme.purpleButton)
-                .padding(.horizontal, 14)
-                .padding(.vertical, 9)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 11)
                 .background(isActive ? AppTheme.purpleButton : Color.clear)
                 .overlay(
-                    RoundedRectangle(cornerRadius: 18, style: .continuous)
+                    RoundedRectangle(cornerRadius: 20, style: .continuous)
                         .stroke(AppTheme.purpleOutline, lineWidth: isActive ? 0 : 2)
                 )
-                .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+                .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         }
         .buttonStyle(.plain)
     }
@@ -729,6 +749,7 @@ private struct DayCard: View {
     let title: String
     let subtitle: String
     let imageURL: URL?
+    var borderColor: Color = AppTheme.lent
     var actionLabel: String? = nil
     let onTap: () -> Void
     private let cardHeight: CGFloat = 142
@@ -743,11 +764,28 @@ private struct DayCard: View {
                     AsyncImage(url: imageURL) { phase in
                         switch phase {
                         case .success(let image):
-                            image
-                                .resizable()
-                                .scaledToFill()
-                                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                                .clipped()
+                            ZStack {
+                                image
+                                    .resizable()
+                                    .scaledToFill()
+                                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                                    .blur(radius: 22)
+                                    .saturation(0.7)
+                                    .opacity(0.82)
+
+                                image
+                                    .resizable()
+                                    .aspectRatio(contentMode: .fit)
+                                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                                    .padding(8)
+                                    .clipShape(RoundedRectangle(cornerRadius: 12, style: .continuous))
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 12, style: .continuous)
+                                            .stroke(Color.white.opacity(0.34), lineWidth: 1)
+                                    )
+                                    .padding(2)
+                            }
+                            .background(Color.black.opacity(0.08))
                         case .empty:
                             Color.white.opacity(0.08)
                         case .failure:
@@ -758,12 +796,13 @@ private struct DayCard: View {
                     }
                     .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
 
-                    RoundedRectangle(cornerRadius: 18, style: .continuous)
-                        .fill(Color.black.opacity(0.42))
                 }
 
                 RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .stroke(AppTheme.lent, lineWidth: 3)
+                    .stroke(borderColor, lineWidth: 3)
+
+                RoundedRectangle(cornerRadius: 18, style: .continuous)
+                    .stroke(Color.white.opacity(0.4), lineWidth: 1)
 
                 VStack(spacing: 8) {
                     Text(title)
@@ -802,11 +841,15 @@ private struct MonthGrid: View {
     let month: Int
     let daysInMonth: Int
     let selectedDay: Int
+    var borderColorForDay: (Int) -> Color = { _ in AppTheme.lent }
     let labelForDay: (Int) -> String
     let onDayTap: (Int) -> Void
 
     private let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 7)
     private var leadingEmptyCells: Int { firstWeekdayOffset(year: year, month: month) }
+    private var todayComponents: DateComponents {
+        Calendar.current.dateComponents([.year, .month, .day], from: Date())
+    }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
@@ -817,14 +860,15 @@ private struct MonthGrid: View {
                     Color.clear.frame(height: 72)
                 }
                 ForEach(1...daysInMonth, id: \.self) { day in
-                    dayCell(day: day, label: labelForDay(day), isSelected: day == selectedDay)
+                    dayCell(day: day, label: labelForDay(day))
                 }
             }
         }
     }
 
     @ViewBuilder
-    private func dayCell(day: Int, label: String, isSelected: Bool) -> some View {
+    private func dayCell(day: Int, label: String) -> some View {
+        let isToday = todayComponents.year == year && todayComponents.month == month && todayComponents.day == day
         Button {
             onDayTap(day)
         } label: {
@@ -832,7 +876,7 @@ private struct MonthGrid: View {
                 RoundedRectangle(cornerRadius: 16, style: .continuous)
                     .fill(Color.white.opacity(0.14))
                 RoundedRectangle(cornerRadius: 16, style: .continuous)
-                    .stroke(isSelected ? AppTheme.christmas : AppTheme.lent, lineWidth: isSelected ? 4 : 2)
+                    .stroke(isToday ? AppTheme.todayHighlight : borderColorForDay(day), lineWidth: isToday ? 4 : 2)
 
                 VStack(spacing: 6) {
                     Text("\(day)")
@@ -869,12 +913,16 @@ private struct WeekGrid: View {
     let month: Int
     let daysInMonth: Int
     let selectedDay: Int
+    var borderColorForDay: (Int) -> Color = { _ in AppTheme.lent }
     let labelForDay: (Int) -> String
     let onDayTap: (Int) -> Void
 
     private var weekStartDay: Int {
         let weekday = weekdayForDate(year: year, month: month, day: selectedDay)
         return selectedDay - (weekday - 1)
+    }
+    private var todayComponents: DateComponents {
+        Calendar.current.dateComponents([.year, .month, .day], from: Date())
     }
     private var weekDays: [Int?] {
         (0...6).map { offset in
@@ -897,6 +945,7 @@ private struct WeekGrid: View {
             HStack(spacing: 10) {
                 ForEach(Array(weekDays.enumerated()), id: \.offset) { _, maybeDay in
                     if let day = maybeDay {
+                        let isToday = todayComponents.year == year && todayComponents.month == month && todayComponents.day == day
                         Button {
                             onDayTap(day)
                         } label: {
@@ -904,7 +953,7 @@ private struct WeekGrid: View {
                                 RoundedRectangle(cornerRadius: 16, style: .continuous)
                                     .fill(Color.white.opacity(0.14))
                                 RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                    .stroke(day == selectedDay ? AppTheme.christmas : AppTheme.lent, lineWidth: day == selectedDay ? 4 : 2)
+                                    .stroke(isToday ? AppTheme.todayHighlight : borderColorForDay(day), lineWidth: isToday ? 4 : 2)
 
                                 VStack(spacing: 6) {
                                     Text("\(day)")
@@ -1145,7 +1194,7 @@ private struct CalendarDatePickerSheet: View {
     }
 }
 
-private struct DailyReadingsView: View {
+struct DailyReadingsView: View {
     @EnvironmentObject private var localization: LocalizationManager
     let url: URL
     @Environment(\.dismiss) private var dismiss
@@ -1163,7 +1212,7 @@ private struct DailyReadingsView: View {
     }
 }
 
-private struct InAppSafariView: UIViewControllerRepresentable {
+struct InAppSafariView: UIViewControllerRepresentable {
     let url: URL
 
     func makeUIViewController(context: Context) -> SFSafariViewController {

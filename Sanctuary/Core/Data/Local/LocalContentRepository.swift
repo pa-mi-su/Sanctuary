@@ -9,6 +9,25 @@ actor LocalContentRepository: ContentRepository {
         let id: String
     }
 
+    private struct PrayerIndexEntry: Decodable {
+        let id: String
+    }
+
+    private struct LegacyPrayerDocument: Decodable {
+        struct Source: Decodable {
+            let type: String?
+        }
+
+        let id: String
+        let title: String?
+        let title_es: String?
+        let title_pl: String?
+        let prayerText: String?
+        let prayerText_es: String?
+        let prayerText_pl: String?
+        let source: Source?
+    }
+
     private let bundle: Bundle
     private let fallbackToSeed: Bool
     private var saints: [Saint]
@@ -164,7 +183,43 @@ actor LocalContentRepository: ContentRepository {
     }
 
     private static func loadNormalizedPrayers(loader: LocalBundleJSONLoader) -> [Prayer] {
-        (try? loader.load("prayers", as: [Prayer].self, subdirectoryCandidates: [nil, "Resources"])) ?? []
+        let normalized = (try? loader.load("prayers", as: [Prayer].self, subdirectoryCandidates: [nil, "Resources"])) ?? []
+        if !normalized.isEmpty {
+            return normalized
+        }
+
+        let indexSubdirs: [String?] = ["Resources/LegacyData", "LegacyData", "Resources", nil]
+        let docSubdirs: [String?] = ["Resources/LegacyData/prayers", "LegacyData/prayers", "prayers", nil]
+        guard let index = try? loader.load("prayers_index", as: [PrayerIndexEntry].self, subdirectoryCandidates: indexSubdirs) else {
+            return []
+        }
+
+        return index.compactMap { entry in
+            guard let doc = try? loader.load(entry.id, as: LegacyPrayerDocument.self, subdirectoryCandidates: docSubdirs) else {
+                return nil
+            }
+
+            let titleEn = firstNonEmpty(doc.title, fallback: entry.id)
+            let bodyEn = firstNonEmpty(doc.prayerText, fallback: "")
+            let category = firstNonEmpty(doc.source?.type, fallback: "general")
+
+            return Prayer(
+                id: doc.id,
+                slug: doc.id,
+                category: category,
+                titleByLocale: [
+                    .en: titleEn,
+                    .es: firstNonEmpty(doc.title_es, fallback: titleEn),
+                    .pl: firstNonEmpty(doc.title_pl, fallback: titleEn),
+                ],
+                bodyByLocale: [
+                    .en: bodyEn,
+                    .es: firstNonEmpty(doc.prayerText_es, fallback: bodyEn),
+                    .pl: firstNonEmpty(doc.prayerText_pl, fallback: bodyEn),
+                ],
+                tags: []
+            )
+        }
     }
 
     private static func loadNormalizedLiturgicalDays(loader: LocalBundleJSONLoader) -> [String: LiturgicalDay] {
@@ -370,6 +425,11 @@ actor LocalContentRepository: ContentRepository {
         }
         let encoded = raw.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)
         return encoded.flatMap(URL.init(string:))
+    }
+
+    private static func firstNonEmpty(_ value: String?, fallback: String) -> String {
+        let trimmed = value?.trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
+        return trimmed.isEmpty ? fallback : trimmed
     }
 
     private func normalize(_ value: String?) -> String? {

@@ -11,15 +11,9 @@ struct AboutView: View {
 
                 ScrollView(showsIndicators: false) {
                     VStack(alignment: .leading, spacing: 14) {
-                        Text(localization.t("about.title"))
-                            .font(.system(size: 46, weight: .heavy))
-                            .foregroundStyle(.white)
-
-                        Text(localization.t("about.subtitle"))
-                            .font(.system(size: 18, weight: .medium))
-                            .foregroundStyle(AppTheme.subtitleText)
-
-                        AboutCard(title: localization.t("about.whatsInApp")) {
+                        AboutCard(title: localization.t("about.title")) {
+                            Text(localization.t("about.subtitle"))
+                                .padding(.bottom, 8)
                             Text(localization.t("about.item.liturgical"))
                             Text(localization.t("about.item.saints"))
                             Text(localization.t("about.item.novenas"))
@@ -39,15 +33,15 @@ struct AboutView: View {
                             Text(localization.t("about.source.franciscan"))
                                 .padding(.bottom, 8)
 
-                            LinkButton(title: localization.t("about.link.usccb"), url: "https://bible.usccb.org/daily-bible-reading", filled: true)
-                            LinkButton(title: localization.t("about.link.liturgical"), url: "https://mycatholic.life/liturgy/", filled: false)
-                            LinkButton(title: localization.t("about.link.novenas"), url: "https://www.fisheaters.com/novenas.html", filled: true)
+                            LinkButton(title: localization.t("about.link.usccb"), url: "https://bible.usccb.org/daily-bible-reading")
+                            LinkButton(title: localization.t("about.link.liturgical"), url: "https://mycatholic.life/liturgy/")
+                            LinkButton(title: localization.t("about.link.novenas"), url: "https://www.fisheaters.com/novenas.html")
                         }
 
                         AboutCard(title: localization.t("about.contact")) {
                             Text(localization.t("about.contactBody"))
-                            LinkButton(title: localization.t("about.link.reportBug"), url: "mailto:support@sanctuaryapp.com", filled: true)
-                            LinkButton(title: localization.t("about.link.feedback"), url: "mailto:info@sanctuaryapp.com", filled: false)
+                            LinkButton(title: localization.t("about.link.reportBug"), url: "mailto:support@sanctuaryapp.com")
+                            LinkButton(title: localization.t("about.link.feedback"), url: "mailto:info@sanctuaryapp.com")
                         }
                     }
                     .padding(16)
@@ -99,20 +93,15 @@ private struct AboutCard<Content: View>: View {
 private struct LinkButton: View {
     let title: String
     let url: String
-    let filled: Bool
 
     var body: some View {
         Link(destination: URL(string: url)!) {
             Text(title)
                 .font(.system(size: 16, weight: .semibold))
-                .foregroundStyle(filled ? Color.white : AppTheme.purpleButton)
+                .foregroundStyle(.white)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 14)
-                .background(filled ? AppTheme.purpleButton : Color.clear)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 20, style: .continuous)
-                        .stroke(AppTheme.purpleOutline, lineWidth: filled ? 0 : 2)
-                )
+                .background(AppTheme.purpleButton)
                 .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         }
         .buttonStyle(.plain)

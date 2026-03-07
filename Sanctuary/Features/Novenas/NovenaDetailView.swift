@@ -60,7 +60,19 @@ struct NovenaDetailView: View {
         return day.reflectionByLocale[locale] ?? day.reflectionByLocale[.en] ?? ""
     }
 
-    private var feastDateString: String? {
+    private var novenaStartDateString: String? {
+        let year = displayYear ?? Calendar.current.component(.year, from: Date())
+        guard let window = ContentStore.novenaServingWindow(id: effectiveNovena.id, year: year) else {
+            return nil
+        }
+        let calendar = Calendar(identifier: .gregorian)
+        let startYear = calendar.component(.year, from: window.start)
+        let month = calendar.component(.month, from: window.start)
+        let day = calendar.component(.day, from: window.start)
+        return String(format: "%04d-%02d-%02d", startYear, month, day)
+    }
+
+    private var novenaEndDateString: String? {
         let year = displayYear ?? Calendar.current.component(.year, from: Date())
         guard let date = ContentStore.novenaFeastDate(id: effectiveNovena.id, year: year) else {
             return nil
@@ -69,18 +81,6 @@ struct NovenaDetailView: View {
         let month = calendar.component(.month, from: date)
         let day = calendar.component(.day, from: date)
         return String(format: "%04d-%02d-%02d", year, month, day)
-    }
-
-    private var endDateString: String? {
-        let year = displayYear ?? Calendar.current.component(.year, from: Date())
-        guard let window = ContentStore.novenaServingWindow(id: effectiveNovena.id, year: year) else {
-            return nil
-        }
-        let calendar = Calendar(identifier: .gregorian)
-        let endYear = calendar.component(.year, from: window.end)
-        let month = calendar.component(.month, from: window.end)
-        let day = calendar.component(.day, from: window.end)
-        return String(format: "%04d-%02d-%02d", endYear, month, day)
     }
 
     private var currentCommitment: UserNovenaCommitment? {
@@ -112,6 +112,13 @@ struct NovenaDetailView: View {
         currentCommitment != nil
     }
 
+    private func handleBack() {
+        onClose?()
+        DispatchQueue.main.async {
+            dismiss()
+        }
+    }
+
     var body: some View {
         ZStack {
             AppTheme.backgroundGradient.ignoresSafeArea()
@@ -120,11 +127,7 @@ struct NovenaDetailView: View {
                 VStack(alignment: .leading, spacing: 12) {
                     HStack(spacing: 16) {
                         Button {
-                            if let onClose {
-                                onClose()
-                            } else {
-                                dismiss()
-                            }
+                            handleBack()
                         } label: {
                             Image(systemName: "arrow.left")
                                 .font(.system(size: 20, weight: .bold))
@@ -169,14 +172,14 @@ struct NovenaDetailView: View {
                         .clipShape(Capsule())
                     }
 
-                    if let feastDateString {
-                        Text("\(localization.t("detail.feastDate")): \(feastDateString)")
+                    if let novenaStartDateString {
+                        Text("\(localization.t("detail.novenaStartDate")): \(novenaStartDateString)")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundStyle(.white.opacity(0.92))
                     }
 
-                    if let endDateString {
-                        Text("\(localization.t("detail.endDate")): \(endDateString)")
+                    if let novenaEndDateString {
+                        Text("\(localization.t("detail.novenaEndDate")): \(novenaEndDateString)")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundStyle(.white.opacity(0.92))
                     }
@@ -336,10 +339,6 @@ struct NovenaDetailView: View {
         }
         .toolbar(.hidden, for: .navigationBar)
         .onAppear {
-            sourceDoc = ContentStore.novena(id: novena.id)
-            if let sourceDoc {
-                hydratedNovena = mapSourceNovena(sourceDoc)
-            }
             isFavorite = progressStore.isFavorite(itemType: .novena, itemID: novena.id)
             if let day = currentCommitment?.currentDay {
                 selectedDay = min(max(1, day), max(1, effectiveNovena.durationDays))
@@ -349,16 +348,36 @@ struct NovenaDetailView: View {
             }
         }
         .task {
+            let id = novena.id
+            let loadedDoc: NovenaDocument? = await Task.detached(priority: .userInitiated) {
+                ContentStore.novena(id: id)
+            }.value
+            sourceDoc = loadedDoc
+            if let loadedDoc {
+                hydratedNovena = mapSourceNovena(loadedDoc)
+            }
             await loadRelatedSaints()
         }
         .sheet(item: $selectedSaintSelection) { selection in
-            if let saintDoc = ContentStore.saint(id: selection.id) {
-                SaintDetailView(
-                    saint: mapSourceSaint(saintDoc),
-                    displayYear: displayYear,
-                    onClose: { selectedSaintSelection = nil }
-                )
-            }
+            SaintDetailView(
+                saint: Saint(
+                    id: selection.id,
+                    slug: selection.id,
+                    name: relatedSaints.first(where: { $0.id == selection.id })?.name ?? selection.id,
+                    feastMonth: 1,
+                    feastDay: 1,
+                    imageURL: nil,
+                    tags: [],
+                    patronages: [],
+                    feastLabelByLocale: [.en: ""],
+                    summaryByLocale: [.en: ""],
+                    biographyByLocale: [.en: ""],
+                    prayersByLocale: [.en: []],
+                    sources: []
+                ),
+                displayYear: displayYear,
+                onClose: { selectedSaintSelection = nil }
+            )
         }
         .alert(localization.t("novena.completedTitle"), isPresented: $showCompletionModal) {
             Button(localization.t("common.done")) {
@@ -558,7 +577,7 @@ private struct RemoteHeroImage: View {
 
     var body: some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 0)
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
                 .fill(Color.white.opacity(0.12))
 
             AsyncImage(url: url) { phase in
@@ -566,10 +585,27 @@ private struct RemoteHeroImage: View {
                 case .empty:
                     ProgressView().tint(.white)
                 case .success(let image):
-                    image
-                        .resizable()
-                        .scaledToFit()
-                        .padding(.horizontal, 8)
+                    ZStack {
+                        image
+                            .resizable()
+                            .scaledToFill()
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .blur(radius: 22)
+                            .saturation(0.7)
+                            .opacity(0.82)
+
+                        image
+                            .resizable()
+                            .aspectRatio(contentMode: .fit)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .padding(10)
+                            .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                    .stroke(Color.white.opacity(0.34), lineWidth: 1)
+                            )
+                            .padding(2)
+                    }
                 case .failure:
                     Color.gray.opacity(0.25)
                 @unknown default:
@@ -579,10 +615,10 @@ private struct RemoteHeroImage: View {
         }
         .frame(maxWidth: .infinity)
         .frame(height: 260)
-        .clipShape(RoundedRectangle(cornerRadius: 0, style: .continuous))
+        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         .overlay(
-            RoundedRectangle(cornerRadius: 0, style: .continuous)
-                .stroke(Color.black.opacity(0.08), lineWidth: 1)
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
+                .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
         )
     }
 }
