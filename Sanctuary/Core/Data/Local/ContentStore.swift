@@ -54,6 +54,18 @@ struct NovenaDayDocument: Decodable {
 }
 
 enum ContentStore {
+    enum NovenaServingStatus: String {
+        case notYetStarted
+        case active
+        case completed
+    }
+
+    struct NovenaServingWindow {
+        let start: Date
+        let end: Date
+        let feast: Date
+    }
+
     private struct SaintIndexEntry: Decodable {
         let id: String
         let name: String?
@@ -77,6 +89,7 @@ enum ContentStore {
         let title: String?
         let startRule: Rule?
         let feastRule: Rule?
+        let durationDays: Int?
     }
 
     private static var saintCache: [String: SaintDocument] = [:]
@@ -250,10 +263,25 @@ enum ContentStore {
     }
 
     static func novenaFeastDate(id: String, year: Int, bundle: Bundle = .main) -> Date? {
-        guard let entry = novenaIndex(bundle: bundle).first(where: { $0.id == id }),
-              let feastRule = entry.feastRule
+        novenaServingWindow(id: id, year: year, bundle: bundle)?.feast
+    }
+
+    static func novenaServingWindow(id: String, year: Int, bundle: Bundle = .main) -> NovenaServingWindow? {
+        guard let entry = novenaIndex(bundle: bundle).first(where: { $0.id == id }) else { return nil }
+        return resolvedServingWindow(for: entry, year: year, bundle: bundle)
+    }
+
+    static func novenaServingStatus(id: String, on date: Date = Date(), bundle: Bundle = .main) -> NovenaServingStatus? {
+        let calendar = Calendar(identifier: .gregorian)
+        let year = calendar.component(.year, from: date)
+        guard let window = novenaServingWindow(id: id, year: year, bundle: bundle)
+            ?? novenaServingWindow(id: id, year: year - 1, bundle: bundle)
+            ?? novenaServingWindow(id: id, year: year + 1, bundle: bundle)
         else { return nil }
-        return resolveNovenaRule(feastRule, year: year, fallbackFeastRule: nil)
+
+        if date < window.start { return .notYetStarted }
+        if date > window.end { return .completed }
+        return .active
     }
 
     private static func saintIndex(bundle: Bundle) -> [SaintIndexEntry] {
@@ -294,6 +322,11 @@ enum ContentStore {
             }
         }
         if let url = cachedResourceURL(forFilename: "\(name).json", in: bundle),
+           let data = try? Data(contentsOf: url),
+           let decoded = try? JSONDecoder().decode(T.self, from: data) {
+            return decoded
+        }
+        if let url = localResourceURL(relativePath: "Resources/LegacyData/\(name).json"),
            let data = try? Data(contentsOf: url),
            let decoded = try? JSONDecoder().decode(T.self, from: data) {
             return decoded
@@ -390,24 +423,15 @@ enum ContentStore {
 
         var dayMap: [String: NovenaIndexEntry] = [:]
         for entry in novenaIndex(bundle: bundle) {
-            let feast = entry.feastRule.flatMap { resolveNovenaRule($0, year: year, fallbackFeastRule: nil) }
-            var start = entry.startRule.flatMap { resolveNovenaRule($0, year: year, fallbackFeastRule: entry.feastRule) }
-
-            // Match legacy behavior: fixed start that lands after fixed feast belongs to prior year.
-            if entry.startRule?.type == "fixed",
-               let resolvedStart = start,
-               let resolvedFeast = feast,
-               resolvedStart > resolvedFeast {
-                start = calendar.date(byAdding: .year, value: -1, to: resolvedStart)
-            }
-
-            if let start {
-                let key = monthDayKey(month: calendar.component(.month, from: start), day: calendar.component(.day, from: start))
+            guard let window = resolvedServingWindow(for: entry, year: year, bundle: bundle) else { continue }
+            var current = window.start
+            while current <= window.end {
+                let key = monthDayKey(
+                    month: calendar.component(.month, from: current),
+                    day: calendar.component(.day, from: current)
+                )
                 if dayMap[key] == nil { dayMap[key] = entry }
-            }
-            if let feast {
-                let key = monthDayKey(month: calendar.component(.month, from: feast), day: calendar.component(.day, from: feast))
-                if dayMap[key] == nil { dayMap[key] = entry }
+                current = calendar.date(byAdding: .day, value: 1, to: current) ?? current
             }
         }
 
@@ -416,6 +440,50 @@ enum ContentStore {
         cacheLock.unlock()
         return dayMap
     }
+
+    private static func resolvedServingWindow(
+        for entry: NovenaIndexEntry,
+        year: Int,
+        bundle: Bundle
+    ) -> NovenaServingWindow? {
+        let calendar = Calendar(identifier: .gregorian)
+        guard let feastRule = entry.feastRule,
+              let feast = resolveNovenaRule(feastRule, year: year, fallbackFeastRule: nil)
+        else {
+            return nil
+        }
+
+        var start = entry.startRule.flatMap { resolveNovenaRule($0, year: year, fallbackFeastRule: entry.feastRule) } ?? feast
+
+        // Fixed starts that naturally belong to prior year for a next-year feast (e.g., Advent spans).
+        if entry.startRule?.type == "fixed", start > feast {
+            start = calendar.date(byAdding: .year, value: -1, to: start) ?? start
+        }
+
+        let feastMinusOne = calendar.date(byAdding: .day, value: -1, to: feast) ?? feast
+        var end = maxDate(start, feastMinusOne)
+
+        let sourceDuration = effectiveDurationDays(for: entry.id, entryDuration: entry.durationDays, bundle: bundle)
+        if sourceDuration > 0, let byDuration = calendar.date(byAdding: .day, value: sourceDuration - 1, to: start) {
+            end = minDate(end, byDuration)
+        }
+
+        return NovenaServingWindow(start: start, end: end, feast: feast)
+    }
+
+    private static func effectiveDurationDays(for id: String, entryDuration: Int?, bundle: Bundle) -> Int {
+        if let docDays = novena(id: id, bundle: bundle)?.days?.count, docDays > 0 {
+            return docDays
+        }
+        // Legacy index duration is often inclusive up to feast-day.
+        if let entryDuration, entryDuration > 1 {
+            return entryDuration - 1
+        }
+        return 0
+    }
+
+    private static func minDate(_ lhs: Date, _ rhs: Date) -> Date { lhs < rhs ? lhs : rhs }
+    private static func maxDate(_ lhs: Date, _ rhs: Date) -> Date { lhs > rhs ? lhs : rhs }
 
     private static func resolveNovenaRule(
         _ rule: NovenaIndexEntry.Rule,
@@ -622,6 +690,12 @@ enum ContentStore {
             return decoded
         }
 
+        if let url = localResourceURL(relativePath: "Resources/LegacyData/\(category)/\(id).json"),
+           let data = try? Data(contentsOf: url),
+           let decoded = try? JSONDecoder().decode(T.self, from: data) {
+            return decoded
+        }
+
         return nil
     }
 
@@ -662,5 +736,23 @@ enum ContentStore {
         cacheLock.lock()
         resourceURLByFilenameCache = map
         cacheLock.unlock()
+    }
+
+    private static func localResourceURL(relativePath: String) -> URL? {
+        let fm = FileManager.default
+        let envRoot = ProcessInfo.processInfo.environment["SANCTUARY_RESOURCE_ROOT"]
+        let cwd = fm.currentDirectoryPath
+        let candidates = [envRoot, cwd].compactMap { $0 }
+        for root in candidates {
+            let direct = URL(fileURLWithPath: root).appendingPathComponent(relativePath)
+            if fm.fileExists(atPath: direct.path) {
+                return direct
+            }
+            let nested = URL(fileURLWithPath: root).appendingPathComponent("Sanctuary").appendingPathComponent(relativePath)
+            if fm.fileExists(atPath: nested.path) {
+                return nested
+            }
+        }
+        return nil
     }
 }

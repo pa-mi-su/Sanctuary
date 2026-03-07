@@ -12,8 +12,8 @@ enum AppLanguage: String, CaseIterable, Identifiable {
     var displayName: String {
         switch self {
         case .en: return "English"
-        case .es: return "Spanish"
-        case .pl: return "Polish"
+        case .es: return "Español"
+        case .pl: return "Polski"
         }
     }
 
@@ -36,6 +36,18 @@ final class LocalizationManager: ObservableObject {
         case .es: return LocalizationManager.spanish[key] ?? LocalizationManager.english[key] ?? key
         case .pl: return LocalizationManager.polish[key] ?? LocalizationManager.english[key] ?? key
         }
+    }
+
+    func weekdaySymbolsShort() -> [String] {
+        [
+            t("weekday.sun"),
+            t("weekday.mon"),
+            t("weekday.tue"),
+            t("weekday.wed"),
+            t("weekday.thu"),
+            t("weekday.fri"),
+            t("weekday.sat")
+        ]
     }
 
     private static let english: [String: String] = [
@@ -97,11 +109,30 @@ final class LocalizationManager: ObservableObject {
         "calendar.searchSaints": "Search Saints",
         "calendar.searchNovenas": "Search Novenas",
         "calendar.searchIntentions": "Search Novena Intentions",
+        "calendar.subtitle.novenas": "Novenas • Tap to jump",
+        "calendar.subtitle.liturgical": "Liturgical • Tap to jump",
+        "calendar.subtitle.saints": "Saints • Tap to jump",
+        "calendar.noNovenaMapped": "No novena mapped for",
+        "calendar.noSaintMapped": "No saint mapped for",
+        "calendar.noNovenaAvailable": "No novena available",
+        "calendar.dailyReadings": "Daily Readings",
         "calendar.noEntry": "No Entry",
         "calendar.ok": "OK",
         "calendar.pickDate": "Pick Date",
         "calendar.openDailyReadings": "Open daily readings",
         "calendar.openDetails": "Open details",
+        "season.advent": "Advent",
+        "season.christmas": "Christmas",
+        "season.lent": "Lent",
+        "season.easter": "Easter",
+        "season.ordinary": "Ordinary Time",
+        "weekday.sun": "Sun",
+        "weekday.mon": "Mon",
+        "weekday.tue": "Tue",
+        "weekday.wed": "Wed",
+        "weekday.thu": "Thu",
+        "weekday.fri": "Fri",
+        "weekday.sat": "Sat",
         "search.saintsTitle": "Search Saints",
         "search.novenasTitle": "Search Novenas",
         "search.prayersTitle": "Search Prayers",
@@ -208,11 +239,30 @@ final class LocalizationManager: ObservableObject {
         "calendar.searchSaints": "Buscar santos",
         "calendar.searchNovenas": "Buscar novenas",
         "calendar.searchIntentions": "Buscar intenciones de novena",
+        "calendar.subtitle.novenas": "Novenas • Toca para saltar",
+        "calendar.subtitle.liturgical": "Litúrgico • Toca para saltar",
+        "calendar.subtitle.saints": "Santos • Toca para saltar",
+        "calendar.noNovenaMapped": "No hay novena asignada para",
+        "calendar.noSaintMapped": "No hay santo asignado para",
+        "calendar.noNovenaAvailable": "No hay novena disponible",
+        "calendar.dailyReadings": "Lecturas diarias",
         "calendar.noEntry": "Sin entrada",
         "calendar.ok": "OK",
         "calendar.pickDate": "Elegir fecha",
         "calendar.openDailyReadings": "Abrir lecturas diarias",
         "calendar.openDetails": "Abrir detalles",
+        "season.advent": "Adviento",
+        "season.christmas": "Navidad",
+        "season.lent": "Cuaresma",
+        "season.easter": "Pascua",
+        "season.ordinary": "Tiempo ordinario",
+        "weekday.sun": "Dom",
+        "weekday.mon": "Lun",
+        "weekday.tue": "Mar",
+        "weekday.wed": "Mié",
+        "weekday.thu": "Jue",
+        "weekday.fri": "Vie",
+        "weekday.sat": "Sáb",
         "search.saintsTitle": "Buscar santos",
         "search.novenasTitle": "Buscar novenas",
         "search.prayersTitle": "Buscar oraciones",
@@ -319,11 +369,30 @@ final class LocalizationManager: ObservableObject {
         "calendar.searchSaints": "Szukaj świętych",
         "calendar.searchNovenas": "Szukaj nowenn",
         "calendar.searchIntentions": "Szukaj intencji nowenny",
+        "calendar.subtitle.novenas": "Nowenny • Dotknij, aby przejść",
+        "calendar.subtitle.liturgical": "Liturgia • Dotknij, aby przejść",
+        "calendar.subtitle.saints": "Święci • Dotknij, aby przejść",
+        "calendar.noNovenaMapped": "Brak przypisanej nowenny dla",
+        "calendar.noSaintMapped": "Brak przypisanego świętego dla",
+        "calendar.noNovenaAvailable": "Brak dostępnej nowenny",
+        "calendar.dailyReadings": "Czytania dnia",
         "calendar.noEntry": "Brak wpisu",
         "calendar.ok": "OK",
         "calendar.pickDate": "Wybierz datę",
         "calendar.openDailyReadings": "Otwórz czytania dnia",
         "calendar.openDetails": "Otwórz szczegóły",
+        "season.advent": "Adwent",
+        "season.christmas": "Boże Narodzenie",
+        "season.lent": "Wielki Post",
+        "season.easter": "Wielkanoc",
+        "season.ordinary": "Okres zwykły",
+        "weekday.sun": "Nd",
+        "weekday.mon": "Pn",
+        "weekday.tue": "Wt",
+        "weekday.wed": "Śr",
+        "weekday.thu": "Cz",
+        "weekday.fri": "Pt",
+        "weekday.sat": "Sb",
         "search.saintsTitle": "Szukaj świętych",
         "search.novenasTitle": "Szukaj nowenn",
         "search.prayersTitle": "Szukaj modlitw",

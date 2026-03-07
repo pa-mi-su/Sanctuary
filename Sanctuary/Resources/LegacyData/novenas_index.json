@@ -443,7 +443,7 @@
     "source": {
       "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
     },
-    "durationDays": 10
+    "durationDays": 9
   },
   {
     "id": "election",
@@ -2468,9 +2468,9 @@
     "feastRule": {
       "type": "fixed",
       "month": 12,
-      "day": 26
+      "day": 25
     },
-    "durationDays": 27,
+    "durationDays": 26,
     "category": "Devotion",
     "tags": [
       "Novena",
