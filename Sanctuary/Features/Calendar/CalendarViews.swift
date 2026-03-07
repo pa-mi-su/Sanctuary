@@ -25,6 +25,23 @@ struct NovenasCalendarView: View {
     @State private var novenaTitleByDay: [Int: String] = [:]
     @State private var novenaImageURLByDay: [Int: URL] = [:]
 
+    // Reuse central liturgical engine for calendar season coloring.
+    private var displayedSeason: LiturgicalSeason {
+        LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.season
+            ?? LiturgicalCalendarEngine.day(for: selectedDate()).season
+    }
+
+    private var displayedSeasonBorderColor: Color {
+        AppTheme.liturgicalBorderColor(for: displayedSeason)
+    }
+
+    private func borderColor(for day: Int) -> Color {
+        guard let season = LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: day)?.season else {
+            return displayedSeasonBorderColor
+        }
+        return AppTheme.liturgicalBorderColor(for: season)
+    }
+
     var body: some View {
         let monthName = monthTitle(selectedMonth)
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
@@ -53,6 +70,7 @@ struct NovenasCalendarView: View {
                     month: selectedMonth,
                     daysInMonth: maxDay,
                     selectedDay: selectedDay,
+                    borderColorForDay: borderColor(for:),
                     labelForDay: novenaLabel(for:)
                 ) { day in
                     selectedDay = day
@@ -64,6 +82,7 @@ struct NovenasCalendarView: View {
                     month: selectedMonth,
                     daysInMonth: maxDay,
                     selectedDay: selectedDay,
+                    borderColorForDay: borderColor(for:),
                     labelForDay: novenaLabel(for:)
                 ) { day in
                     selectedDay = day
@@ -74,6 +93,7 @@ struct NovenasCalendarView: View {
                     title: "\(selectedDay)",
                     subtitle: selectedNovenaTitleForDay(),
                     imageURL: selectedNovenaImageURLForDay(),
+                    borderColor: displayedSeasonBorderColor,
                     onTap: {
                         guard Date() >= suppressDayTapUntil else { return }
                         let next = novenaIDForSelectedDay()
@@ -399,6 +419,23 @@ struct SaintsCalendarView: View {
     @State private var saintImageURLByDay: [Int: URL] = [:]
     @State private var showDatePicker = false
 
+    // Reuse central liturgical engine for calendar season coloring.
+    private var displayedSeason: LiturgicalSeason {
+        LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.season
+            ?? LiturgicalCalendarEngine.day(for: selectedDate()).season
+    }
+
+    private var displayedSeasonBorderColor: Color {
+        AppTheme.liturgicalBorderColor(for: displayedSeason)
+    }
+
+    private func borderColor(for day: Int) -> Color {
+        guard let season = LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: day)?.season else {
+            return displayedSeasonBorderColor
+        }
+        return AppTheme.liturgicalBorderColor(for: season)
+    }
+
     var body: some View {
         let monthName = monthTitle(selectedMonth)
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
@@ -426,6 +463,7 @@ struct SaintsCalendarView: View {
                     title: "\(selectedDay)",
                     subtitle: selectedSaintNameForDay(),
                     imageURL: selectedSaintImageURLForDay(),
+                    borderColor: displayedSeasonBorderColor,
                     onTap: {
                         guard Date() >= suppressDayTapUntil else { return }
                         let next = saintIDForSelectedDay()
@@ -442,6 +480,7 @@ struct SaintsCalendarView: View {
                     month: selectedMonth,
                     daysInMonth: maxDay,
                     selectedDay: selectedDay,
+                    borderColorForDay: borderColor(for:),
                     labelForDay: saintLabel(for:)
                 ) { day in
                     selectedDay = day
@@ -453,6 +492,7 @@ struct SaintsCalendarView: View {
                     month: selectedMonth,
                     daysInMonth: maxDay,
                     selectedDay: selectedDay,
+                    borderColorForDay: borderColor(for:),
                     labelForDay: saintLabel(for:)
                 ) { day in
                     selectedDay = day
