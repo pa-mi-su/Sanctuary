@@ -1,0 +1,48 @@
+{
+  "id": "02-08_saint_josephine_bakhita_virgin_optional_memorial",
+  "name": "Saint Josephine Bakhita, Virgin—Optional Memorial",
+  "mmdd": "02-08",
+  "feast": "The Eighth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-08_saint_josephine_bakhita_virgin_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ac57b2d7cfcfb4d6f84b8d3682be4409b0f31d46831a7b23ee15f86c050941e7",
+        "langs": {
+          "es": {
+            "translatedHash": "d314e2edc865f6e32f2043e12b68cdd49b7231b29551e848ca50ecc095b79860",
+            "updatedAt": "2026-02-24T22:31:38.183Z"
+          },
+          "pl": {
+            "translatedHash": "a434750184b95d75230a30ed44872d31964eb6a95d309001d5ab46b32f646702",
+            "updatedAt": "2026-02-24T22:31:38.888Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "29080fd8bc0a08435355493f19ba0bfb6ca379b7e6cf58faf3bde1aa44ca3154",
+        "langs": {
+          "es": {
+            "translatedHash": "2507f0f77262fea4ca9b41e2cd6f035d0977f60dd2b395212ead83dceaa0e5bf",
+            "updatedAt": "2026-02-24T22:31:39.546Z"
+          },
+          "pl": {
+            "translatedHash": "01a433f4bf8d29534a4c1d78bc50b3a704c8c1beb13daf5f4170159158c5ec0a",
+            "updatedAt": "2026-02-24T22:31:40.131Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Josefina Bakhita, Virgen—Memoria Opcional",
+  "name_pl": "Święta Józefina Bakhita, Dziewica — Wspomnienie dowolne",
+  "feast_es": "El Octavo Día de Febrero",
+  "feast_pl": "Ósmy dzień lutego"
+}

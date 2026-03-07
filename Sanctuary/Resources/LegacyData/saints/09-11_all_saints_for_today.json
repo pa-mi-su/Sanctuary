@@ -1,0 +1,46 @@
+{
+  "id": "09-11_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "09-11",
+  "feast": "The Eleventh Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:28:36.783Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:28:37.481Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "fc95b7070f9d6731b2d001e24d64305603ade5f751930ab36456b5f04bdea87b",
+        "langs": {
+          "es": {
+            "translatedHash": "edd482c4b8b471da8fa44441458f1a6238b0a380575a0b0212c8fac13e742131",
+            "updatedAt": "2026-02-25T00:28:38.098Z"
+          },
+          "pl": {
+            "translatedHash": "4ac8fa7fb560898c4bdf10bf041b5d53b6b030b17284d6ec985c7fe37f968b35",
+            "updatedAt": "2026-02-25T00:28:39.901Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Día Once de Septiembre",
+  "feast_pl": "Jedenasty dzień września"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "04-25_saint_peter",
+  "name": "Saint Peter",
+  "mmdd": "04-25",
+  "feast": "The Twenty-Fifth Day of April",
+  "summary": "Mark the Evangelist, also known as John Mark or Saint Mark, was a Libyan who is traditionally ascribed to be the author of the Gospel of Mark. Most modern scholars agree that the gospel of Mark is anonymous, though the topic remains contentious among experts. Scholarship is inconclusive on authorship; some reject the attribution to Mark while others debate the identity of Mark. According to Church tradition, Mark founded the episcopal see of Alexandria, which was one of the five most important sees of early Christianity. His feast day is celebrated on April 25, and his symbol is the winged lion.",
+  "biography": "Identity\n\nAccording to William Lane (1974), an unbroken tradition identifies Mark the Evangelist with John Mark, and John Mark as the cousin of Barnabas. However, Hippolytus of Rome, in On the Seventy Apostles, distinguishes Mark the Evangelist (2 Timothy 4:11), John Mark (Acts 12:12, 25; 13:5, 13; 15:37), and Mark the cousin of Barnabas (Colossians 4:10; Philemon 24). According to Hippolytus, they all belonged to the \"Seventy Disciples\" who were sent out...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mark_the_Evangelist",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-25_saint_peter.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "235eea79c2febcd6b622f45cab810a163276de20ecc7ed48d460088c03aaaafd",
+        "langs": {
+          "es": {
+            "translatedHash": "c930a1881cbeba213ac0187ca84b090e63a3b7a2fb413c223f22930ef1de268a",
+            "updatedAt": "2026-02-24T23:14:23.851Z"
+          },
+          "pl": {
+            "translatedHash": "20127b1e0f81262b22f1c756f15dc7094e41384097f42bad07ee33b90d852a9c",
+            "updatedAt": "2026-02-24T23:14:24.416Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5c3a4147fab4fab9145f462923724570133ca3d7b1b5704adc35a95ddee1e153",
+        "langs": {
+          "es": {
+            "translatedHash": "477b07182fec79e880bf5fc227c2b11bce9a4f8cf21f741f9905921bc492116f",
+            "updatedAt": "2026-02-24T23:14:25.396Z"
+          },
+          "pl": {
+            "translatedHash": "02c124f9a41be2ccf3ec5c94e0ae7c12ef555c232600ca5e5220a4eabcecf31f",
+            "updatedAt": "2026-02-24T23:14:26.027Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6ae3baed97e8d72bae5c21bbda6f48f9563c53e5b1d5ecf121dee1e19b0b1215",
+        "langs": {
+          "es": {
+            "translatedHash": "cdc23cbffc9304d93b2ac3b29c21a3f97dd778c6cdd49f727aa7cb5069acbbd8",
+            "updatedAt": "2026-02-24T23:14:29.327Z"
+          },
+          "pl": {
+            "translatedHash": "addaf10f286465c6167e525dae0bbdee4db404fd704a8b8afbd75f08c388ee6d",
+            "updatedAt": "2026-02-24T23:14:32.812Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "264be1bfdaa2728ac32b39de36a4f8c7896bdadf8e2ef870369ccf9cf92ffe3b",
+        "langs": {
+          "es": {
+            "translatedHash": "514a2bc9abfabce11f9f7d7ccb1aef84a97f800b789a82e41690d8c80502fbd4",
+            "updatedAt": "2026-02-24T23:14:37.610Z"
+          },
+          "pl": {
+            "translatedHash": "940c523999db792a015c3c9075d1545a97ec1885689cc4da789ab3fa80302be3",
+            "updatedAt": "2026-02-24T23:14:55.701Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro",
+  "name_pl": "Święty Piotr",
+  "feast_es": "El vigésimo quinto día de abril",
+  "feast_pl": "Dwudziesty piąty dzień kwietnia",
+  "summary_es": "San Marcos Evangelista, también conocido como Juan Marcos o San Marcos, fue un libio a quien tradicionalmente se le atribuye la autoría del Evangelio de Marcos. La mayoría de los estudiosos modernos coinciden en que el evangelio de Marcos es anónimo, aunque el tema sigue siendo controvertido entre los expertos. La erudición no es concluyente sobre la autoría; algunos rechazan la atribución a Marcos mientras otros debaten la identidad de Marcos. Según la tradición de la Iglesia, Marcos fundó la sede episcopal de Alejandría, que fue una de las cinco sedes más importantes del cristianismo primitivo. Su fiesta se celebra el 25 de abril, y su símbolo es el león alado.",
+  "summary_pl": "Ewangelista Marek, znany również jako Jan Marek lub święty Marek, był Libijczykiem, któremu tradycyjnie przypisuje się autorstwo Ewangelii Marka. Większość współczesnych uczonych zgadza się, że Ewangelia Marka jest anonimowa, choć temat ten pozostaje kontrowersyjny wśród ekspertów. Badania naukowe nie dają jednoznacznej odpowiedzi na temat autorstwa; niektórzy odrzucają przypisanie jej Markowi, podczas gdy inni dyskutują nad tożsamością Marka. Według tradycji Kościoła Marek założył biskupstwo Aleksandrii, które było jednym z pięciu najważniejszych biskupstw wczesnego chrześcijaństwa. Jego święto obchodzone jest 25 kwietnia, a jego symbolem jest skrzydlaty lew.",
+  "biography_es": "Identidad\n\nSegún William Lane (1974), una tradición ininterrumpida identifica a Marcos el Evangelista con Juan Marcos, y a Juan Marcos como el primo de Bernabé. Sin embargo, Hipólito de Roma, en Sobre los Setenta Apóstoles, distingue a Marcos el Evangelista (2 Timoteo 4:11), Juan Marcos (Hechos 12:12, 25; 13:5, 13; 15:37) y Marcos el primo de Bernabé (Colosenses 4:10; Filemón 24). Según Hipólito, todos ellos pertenecían a los \"Setenta Discípulos\" que fueron enviados...",
+  "biography_pl": "Tożsamość\n\nWedług Williama Lane’a (1974), nieprzerwana tradycja utożsamia św. Marka Ewangelistę z Janem Markiem, a Jana Marka jako kuzyna Barnaby. Jednak Hipolit Rzymski, w dziele O siedemdziesięciu apostołach, rozróżnia Marka Ewangelistę (2 Tymoteusza 4,11), Jana Marka (Dzieje Apostolskie 12,12.25; 13,5.13; 15,37) oraz Marka, kuzyna Barnaby (Kol 4,10; Flm 24). Według Hipolita wszyscy oni należeli do „Siedemdziesięciu Uczniów”, którzy zostali posłani..."
+}

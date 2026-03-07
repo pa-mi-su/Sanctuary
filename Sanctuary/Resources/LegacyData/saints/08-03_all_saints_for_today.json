@@ -1,0 +1,46 @@
+{
+  "id": "08-03_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "08-03",
+  "feast": "The Third Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:09:09.544Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:09:10.227Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "28bf1368c1a3daf2c9795283f9974ff7ce297769038b05a7ddba4ebb47b0a5bf",
+        "langs": {
+          "es": {
+            "translatedHash": "4820d8b5ce7d2043baf0da415989f4c7e30fb90529c377387dfb18caa4c6e35d",
+            "updatedAt": "2026-02-25T00:09:10.722Z"
+          },
+          "pl": {
+            "translatedHash": "3254782a4b6ba8f7167d70ac6ae35bcb2ad9482d4fc788f0228555ec8ca6eef2",
+            "updatedAt": "2026-02-25T00:09:11.458Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Tercer Día de Agosto",
+  "feast_pl": "Trzeci dzień sierpnia"
+}

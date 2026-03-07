@@ -1,0 +1,276 @@
+{
+  "id": "st_sebastian",
+  "title": "St. Sebastian Novena",
+  "description": "St Sebastian was a martyr in the third century under Diocletian. Pray this novena for soldiers, athletes, difficult trials, and those who desire a holy death.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Sebastian"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 11
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-sebastian-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valor para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda, que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które napotykam, oraz o tę intencję (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valor para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda, que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które mnie spotykają, oraz o tę intencję (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valentía para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda, que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria Sea San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które napotykam, oraz o tę intencję (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valor para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które mnie spotykają, oraz o tę intencję (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valor para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda, que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria Sea San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które mnie spotykają, oraz o tę intencję (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valentía para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria al Padre ¡San Sebastián, ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które napotykam, oraz o tę intencję (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valentía para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda, que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria Sea San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które mnie spotykają, oraz o tę intencję (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Świętemu Sebastianie, módl się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valor para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria Sea San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które mnie spotykają, oraz o tę intencję (wymień prośbę tutaj…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Sebastian, martyr and saint, I call on your strength and courage to help me through my difficult trials. Your faith was so deep, a multitude of arrows could not finish you. I ask for your intercession in the trials I face, and for this intention (mention request here…) Amen.\n\nOur Father Hail Mary Glory Be St Sebastian, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nGlorioso Sebastián, mártir y santo, invoco tu fortaleza y valor para ayudarme en mis difíciles pruebas. Tu fe fue tan profunda que una multitud de flechas no pudo acabar contigo. Te pido tu intercesión en las pruebas que enfrento, y por esta intención (mencione la petición aquí…) Amén.\n\nPadre Nuestro Ave María Gloria Sea San Sebastián, ¡ruega por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Sebastianie, męczenniku i święty, wzywam Twojej siły i odwagi, aby pomogły mi przetrwać moje trudne próby. Twoja wiara była tak głęboka, że mnóstwo strzał nie mogło Cię pokonać. Proszę o Twoją wstawiennictwo w próbach, które przeżywam, oraz o tę intencję (wymień tutaj prośbę…) Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święty Sebastianie, módl się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_sebastian.jpg",
+  "sourceFacts": {
+    "starts": "January 11Feastday:January 20Birth:256Death:288Patron saint of soldiers, athletes, difficult trials, and those who desire a holy death 📱",
+    "feast": "January 20Birth:256Death:288Patron saint of soldiers, athletes, difficult trials, and those who desire a holy death 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "74d126cabab93dc9357f31dd370815d229e38717cd579d43bd180710e7e2c75b",
+        "langs": {
+          "es": {
+            "translatedHash": "68e8d3222efc3786718868249a82b88759c5d571dc40ad8a5ccfab4bac24e925",
+            "updatedAt": "2026-02-25T18:06:15.312Z"
+          },
+          "pl": {
+            "translatedHash": "7ad802e2194d47d691cf6484ae89b8c8adfae603330082499a51e6df2e9f65b9",
+            "updatedAt": "2026-02-25T18:06:15.949Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "0132c9e241a5e7f979b60d5cff64e6966a58b76bb84360560aa5c8105a99365f",
+        "langs": {
+          "es": {
+            "translatedHash": "f61dc07e2cf1587f9c716f8cdcd0360834e7f74616fd6283bf5451f62d846a0c",
+            "updatedAt": "2026-02-25T18:06:17.135Z"
+          },
+          "pl": {
+            "translatedHash": "94e1d35bfc29d701450c87e408f5df705f9826fe273c34334981fd9340d36aa8",
+            "updatedAt": "2026-02-25T18:06:18.969Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "afaa4baa351841d398ebf4e8ed3eb0366f4ce2baa02407e8798621044b47a119",
+        "langs": {
+          "es": {
+            "translatedHash": "7e93fb288dd2273686b0ea3c8c5ea8fba9027771af5d47fda7f4ae6913207a17",
+            "updatedAt": "2026-02-25T18:06:21.752Z"
+          },
+          "pl": {
+            "translatedHash": "972c7c42f945a38c8a868610a78397614f322425a853715502d9a01f60f8c949",
+            "updatedAt": "2026-02-25T18:06:25.676Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "82022f8da14c1d60c8f0bbf832956146e30330b151a4a8f398a885a17845fd70",
+        "langs": {
+          "es": {
+            "translatedHash": "7e93fb288dd2273686b0ea3c8c5ea8fba9027771af5d47fda7f4ae6913207a17",
+            "updatedAt": "2026-02-25T18:06:28.623Z"
+          },
+          "pl": {
+            "translatedHash": "d0e275ec2f5252e7c27d66b53812e4af06c83ac57e0d646fac127358a0a0525a",
+            "updatedAt": "2026-02-25T18:06:31.891Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "0825736f1e8f1d85adb3fdbf61ba98fb98f18c352e42aee49f225db7b5b84b26",
+        "langs": {
+          "es": {
+            "translatedHash": "c3a64f2502ef7562101f3bdcd9ad12cd749e0f1f33e6fec4787bec1dfd05e254",
+            "updatedAt": "2026-02-25T18:06:34.776Z"
+          },
+          "pl": {
+            "translatedHash": "bcfcb93dde877136e25e46d900a507e04a8d7ad8fa876d0ba6a28c47f1d30ee1",
+            "updatedAt": "2026-02-25T18:06:38.302Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "e13acfec4073c922bed95ba8534d832226d43212713ebb72273d9314ae1721e4",
+        "langs": {
+          "es": {
+            "translatedHash": "a6d841264f5a249d45ba43f2e5f4ecd367036a943255b1c542124c945773ab12",
+            "updatedAt": "2026-02-25T18:06:40.549Z"
+          },
+          "pl": {
+            "translatedHash": "e19f758c9fb9571c4464884f7c687f05e5f6475ed0a19982c3823aadd3b8e774",
+            "updatedAt": "2026-02-25T18:06:44.337Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "de72080c5a28203e3d766e16c3875f54649e1a2b9b876d2d9cb954cdc9bfc987",
+        "langs": {
+          "es": {
+            "translatedHash": "8e3b0b3dafd2bee8877978bb36dad724f01df675499a4d07693cf30c64ed20e4",
+            "updatedAt": "2026-02-25T18:06:47.415Z"
+          },
+          "pl": {
+            "translatedHash": "e19f758c9fb9571c4464884f7c687f05e5f6475ed0a19982c3823aadd3b8e774",
+            "updatedAt": "2026-02-25T18:06:51.392Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "d0a1b933a6f64d38fc0c15f1e2a13ba7eab9482fe28e945695632514ef2e7954",
+        "langs": {
+          "es": {
+            "translatedHash": "113f557882e52f7aed14382323f473732e8aa544828cbbcb8811808546d03e83",
+            "updatedAt": "2026-02-25T18:06:54.466Z"
+          },
+          "pl": {
+            "translatedHash": "bcfcb93dde877136e25e46d900a507e04a8d7ad8fa876d0ba6a28c47f1d30ee1",
+            "updatedAt": "2026-02-25T18:06:59.207Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "cf7103e27697ffff4fc1f2dc57902fac782be217ba9f06861c2d8e405ceb055a",
+        "langs": {
+          "es": {
+            "translatedHash": "c3a64f2502ef7562101f3bdcd9ad12cd749e0f1f33e6fec4787bec1dfd05e254",
+            "updatedAt": "2026-02-25T18:07:01.615Z"
+          },
+          "pl": {
+            "translatedHash": "8de9b2f5c14f49c0f7a42384f6fda626691c1377c5355d97093c0dd697e84506",
+            "updatedAt": "2026-02-25T18:07:05.334Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "bac291b5561e7c31944bed3a257dff380cd0b98805ef67ac01007dde98d23b59",
+        "langs": {
+          "es": {
+            "translatedHash": "178b5a6bc8973797af30b4533775caee8c29117ff6d48153a088650e85c6529d",
+            "updatedAt": "2026-02-25T18:07:07.770Z"
+          },
+          "pl": {
+            "translatedHash": "e19f758c9fb9571c4464884f7c687f05e5f6475ed0a19982c3823aadd3b8e774",
+            "updatedAt": "2026-02-25T18:07:11.367Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "60b266872cb8c61bc29610afaf984726b72c61f8dc77e1f621afe4055a1480ea",
+        "langs": {
+          "es": {
+            "translatedHash": "178b5a6bc8973797af30b4533775caee8c29117ff6d48153a088650e85c6529d",
+            "updatedAt": "2026-02-25T18:07:13.572Z"
+          },
+          "pl": {
+            "translatedHash": "7f2a8df83f515a1f1d7774a5e5cfe97a2b6a2a3293840d137134bd849b92c873",
+            "updatedAt": "2026-02-25T18:07:16.692Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Sebastián",
+  "title_pl": "Nowenna do św. Sebastiana",
+  "description_es": "San Sebastián fue un mártir en el siglo III bajo el mandato de Diocleciano. Reza esta novena por los soldados, atletas, pruebas difíciles y aquellos que desean una muerte santa.",
+  "description_pl": "Święty Sebastian był męczennikiem w III wieku za panowania Dioklecjana. Módl się tę nowennę za żołnierzy, sportowców, w trudnych próbach oraz za tych, którzy pragną świętej śmierci.",
+  "intentions": [
+    "soldiers",
+    "athletes",
+    "and those who desire a Saintly"
+  ],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-sebastian-novena/"
+  ]
+}

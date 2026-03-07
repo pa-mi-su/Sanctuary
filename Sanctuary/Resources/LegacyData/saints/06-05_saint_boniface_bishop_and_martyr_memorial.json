@@ -1,0 +1,48 @@
+{
+  "id": "06-05_saint_boniface_bishop_and_martyr_memorial",
+  "name": "Saint Boniface, Bishop and Martyr—Memorial",
+  "mmdd": "06-05",
+  "feast": "The Fifth Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vietnamese_Martyrs"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-05_saint_boniface_bishop_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a1cde39a570f4fbab617c668afffbe36baa30cd536f32b0669ca9e9acbfe19a8",
+        "langs": {
+          "es": {
+            "translatedHash": "77154331dd7c046f1eea2c7b5a663f1f72572228bd05a007dc46866f62c46038",
+            "updatedAt": "2026-02-24T23:37:35.999Z"
+          },
+          "pl": {
+            "translatedHash": "71b3d8f751280be26c0027e25d451bb8953fb322a854f6929a020feb438b51b0",
+            "updatedAt": "2026-02-24T23:37:36.767Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "10b1fec9037c8988c29c3e891504ba051147db49fe26402754557a0e7b54142a",
+        "langs": {
+          "es": {
+            "translatedHash": "fc08d0386320013092f2b8de893bd39390bc19988dfbde0eabb158c7184c0fa1",
+            "updatedAt": "2026-02-24T23:37:37.941Z"
+          },
+          "pl": {
+            "translatedHash": "56e716dcfe0a4b81f6304cb4b68eda65c446b3f0de99dda03e599cad3e154fa2",
+            "updatedAt": "2026-02-24T23:37:38.471Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bonifacio, Obispo y Mártir—Memoria",
+  "name_pl": "Święty Bonifacy, Biskup i Męczennik — Wspomnienie",
+  "feast_es": "El Quinto Día de Junio",
+  "feast_pl": "Piąty dzień czerwca"
+}

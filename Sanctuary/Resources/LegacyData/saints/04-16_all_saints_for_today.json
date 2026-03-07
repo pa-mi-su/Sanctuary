@@ -1,0 +1,46 @@
+{
+  "id": "04-16_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-16",
+  "feast": "The Sixteenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:10:09.439Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:10:10.211Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b80de3737b686df5fd38abfa821eb89db5f424399cd1bf0d74506426d9d2e523",
+        "langs": {
+          "es": {
+            "translatedHash": "5ff6fcefeb74369076a598007db9ee9c8c9d5eb9a144f9ba168f1edfe702a998",
+            "updatedAt": "2026-02-24T23:10:10.940Z"
+          },
+          "pl": {
+            "translatedHash": "c2c74021d58125a26e67ca1ee908e679348d3d1d4ca6860a6be29f1e72664a76",
+            "updatedAt": "2026-02-24T23:10:11.652Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Día Dieciséis de Abril",
+  "feast_pl": "Szesnasty Dzień Kwietnia"
+}

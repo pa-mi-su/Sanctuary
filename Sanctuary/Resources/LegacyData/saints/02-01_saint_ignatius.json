@@ -1,0 +1,81 @@
+{
+  "id": "02-01_saint_ignatius",
+  "name": "Saint Ignatius",
+  "mmdd": "02-01",
+  "feast": "The First Day of February",
+  "summary": "Ignatius of Antioch, also known as Ignatius Theophorus, was an early Christian writer and the Patriarch of Antioch. While en route to Rome, where he met his martyrdom, Ignatius wrote a series of letters. This correspondence forms a central part of a later collection of works by the Apostolic Fathers. He is considered one of the three most important of these, together with Clement of Rome and Polycarp. Although the authenticity of his letters has been questioned, they continue to serve as an example of early Christian theology, and address important topics including ecclesiology, the sacraments, and the role of bishops.",
+  "biography": "Life\nNothing is known of Ignatius' life apart from the words of his letters and later traditions. It is said Ignatius converted to Christianity at a young age. Tradition identifies him and his friend Polycarp as disciples of John the Apostle. Later, Ignatius was chosen to serve as Bishop of Antioch; the fourth-century Church historian Eusebius writes that Ignatius succeeded Evodius. Theodoret of Cyrrhus claimed...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-01_saint_ignatius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a784f1d370110bd64c5633af747e1996059b7e1a3aa7273051646129f50b7160",
+        "langs": {
+          "es": {
+            "translatedHash": "ed0e0386de1b01b5c80a0a4b3b1789c2a38c0e14ab3a71e399bbe10637ef9af1",
+            "updatedAt": "2026-02-24T22:27:19.107Z"
+          },
+          "pl": {
+            "translatedHash": "c41b55a103ac9d85d1d34a83b08cdac73b64aafb4ab1bf1ab9ce2e76d011d9d8",
+            "updatedAt": "2026-02-24T22:27:19.763Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "01d6878c996c3f9962363e0e89f162c490f531eafddd8954285d9237ea7fb673",
+        "langs": {
+          "es": {
+            "translatedHash": "88edbae6f3cdc8ceb441a026463af8bb0e98e5677509b3ad2ae3c7d9b787ca6e",
+            "updatedAt": "2026-02-24T22:27:20.567Z"
+          },
+          "pl": {
+            "translatedHash": "2ed68285aba5dcfeffcc9e16fb1c4cdf30a333b544b6dabcffef129b858ba6c3",
+            "updatedAt": "2026-02-24T22:27:21.284Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e3784bfd0a4d03e1ca7cc5468201547a32b1e5933efa1e40dd8f1d35aa9023a8",
+        "langs": {
+          "es": {
+            "translatedHash": "9c22b2c587cd8272c41d98d420ecde497bd59c480772acf34dcb72cdf3181634",
+            "updatedAt": "2026-02-24T22:27:23.678Z"
+          },
+          "pl": {
+            "translatedHash": "b4200986b30f0314ed93c9d28552f620d18309ce22493c7648fa3cef401801df",
+            "updatedAt": "2026-02-24T22:27:25.998Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f972912409c4338587a60af2bae7193eb3f3b501b92d800c7a32b03dcf9bca37",
+        "langs": {
+          "es": {
+            "translatedHash": "7706f32e55f922c351db6ac3b34e977c2710820de9a5c731ef9e5ad061869602",
+            "updatedAt": "2026-02-24T22:27:28.988Z"
+          },
+          "pl": {
+            "translatedHash": "d57e5f4ca6fda56a0c76cdd9603ce2354538d47e7bc94930c7dffcf48685cfa8",
+            "updatedAt": "2026-02-24T22:27:31.132Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ignacio",
+  "name_pl": "Święty Ignacy",
+  "feast_es": "El Primer Día de Febrero",
+  "feast_pl": "Pierwszy dzień lutego",
+  "summary_es": "Ignacio de Antioquía, también conocido como Ignacio Teóforo, fue un escritor cristiano primitivo y el Patriarca de Antioquía. Mientras se dirigía a Roma, donde encontró su martirio, Ignacio escribió una serie de cartas. Esta correspondencia forma una parte central de una colección posterior de obras de los Padres Apostólicos. Es considerado uno de los tres más importantes de estos, junto con Clemente de Roma y Policarpo. Aunque se ha cuestionado la autenticidad de sus cartas, continúan sirviendo como un ejemplo de la teología cristiana primitiva y abordan temas importantes como la eclesiología, los sacramentos y el papel de los obispos.",
+  "summary_pl": "Ignacy Antiocheński, znany również jako Ignacy Teofor, był wczesnochrześcijańskim pisarzem i patriarchą Antiochii. W drodze do Rzymu, gdzie poniósł męczeństwo, Ignacy napisał serię listów. Ta korespondencja stanowi centralną część późniejszego zbioru dzieł Ojców Apostolskich. Uważany jest za jednego z trzech najważniejszych spośród nich, obok Klemensa Rzymskiego i Polikarpa. Chociaż autentyczność jego listów była kwestionowana, nadal służą one jako przykład wczesnochrześcijańskiej teologii i poruszają ważne tematy, w tym eklezjologię, sakramenty oraz rolę biskupów.",
+  "biography_es": "Vida  \nNo se conoce nada de la vida de Ignacio aparte de las palabras de sus cartas y las tradiciones posteriores. Se dice que Ignacio se convirtió al cristianismo a una edad temprana. La tradición lo identifica a él y a su amigo Policarpo como discípulos de Juan el Apóstol. Más tarde, Ignacio fue elegido para servir como Obispo de Antioquía; el historiador eclesiástico del siglo IV Eusebio escribe que Ignacio sucedió a Evodio. Teodoreto de Cirro afirmó...",
+  "biography_pl": "Życie  \nO życiu Ignacego nie wiadomo nic poza słowami jego listów i późniejszymi tradycjami. Mówi się, że Ignacy nawrócił się na chrześcijaństwo w młodym wieku. Tradycja utożsamia go oraz jego przyjaciela Polikarpa jako uczniów Jana Apostoła. Później Ignacy został wybrany na biskupa Antiochii; historyk Kościoła z IV wieku, Euzebiusz, pisze, że Ignacy zastąpił Ewodiusza. Teodoret z Cyrru twierdził..."
+}

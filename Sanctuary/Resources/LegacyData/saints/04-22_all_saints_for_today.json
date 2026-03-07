@@ -1,0 +1,46 @@
+{
+  "id": "04-22_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-22",
+  "feast": "The Twenty-Second Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:12:30.822Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:12:31.462Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "34c14ea5a82b90323659f826c50960d110a2d24617942c6da7a006e427888643",
+        "langs": {
+          "es": {
+            "translatedHash": "a1732a7758ee2069dab5e0d41ecb4143b4d87e0eb449ce1530c544b52ab1f12c",
+            "updatedAt": "2026-02-24T23:12:32.149Z"
+          },
+          "pl": {
+            "translatedHash": "b9016dde9be10616a0181e221df7545100fb0016169bf0a932d45318987d5607",
+            "updatedAt": "2026-02-24T23:12:32.751Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Vigésimo Segundo Día de Abril",
+  "feast_pl": "Dwudziesty drugi dzień kwietnia"
+}

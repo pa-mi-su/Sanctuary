@@ -1,0 +1,269 @@
+{
+  "id": "holy_innocents",
+  "title": "Holy Innocents Novena",
+  "description": "The Holy Innocents were the male children two years old and younger that lived near Bethlehem whom King Herod ordered to be slaughtered. Pray this novena for foundlings, babies, and children’s choirs.",
+  "category": "Feast",
+  "tags": [
+    "Novena",
+    "Feast",
+    "Holy Innocents"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 28
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/holy-innocents-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar petición aquí…) Santos Inocentes, murieron antes de ser lo suficientemente grandes para saber lo que significa la vida, rueguen por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fueron asesinados porque un hombre estaba lleno de odio, rueguen por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentaron una muerte violenta, rueguen por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, sus padres lloraron por ustedes con un dolor profundo y duradero, rueguen por todos los padres que han perdido hijos pequeños para que Dios les envuelva con una cálida manta de consuelo. Santos Inocentes, quienes los rodeaban ciertamente se sintieron impotentes para evitar sus muertes, rueguen por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, ustedes que ahora están en el Cielo, rueguen por todos nosotros para que un día podamos unirnos a ustedes allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rueguen por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewiniątka zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewiniątka, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewiniątka, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewiniątka, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewiniątka, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewiniątka, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trwali przy Bogu dla odwagi i nadziei. Święte Niewiniątka, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się Bożą miłością. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewiniątka, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar la petición aquí…) Santos Inocentes, moristeis antes de ser lo suficientemente mayores para entender lo que significa la vida, orad por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fuisteis asesinados porque un hombre se llenó de odio, orad por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentasteis una muerte violenta, orad por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, vuestros padres sufrieron por vosotros con un dolor profundo y duradero, orad por todos los padres que han perdido hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes os rodeaban ciertamente se sintieron impotentes para evitar vuestra muerte, orad por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, vosotros que ahora estáis en el Cielo, orad por todos nosotros para que un día podamos unirnos a vosotros allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rogad por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewiniątka zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewiniątka, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewiniątka, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewiniątka, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby znaleźli pokój i miłość. Święte Niewiniątka, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewiniątka, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trzymali się Boga dla odwagi i nadziei. Święte Niewiniątka, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się Bożą miłością. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewiniątka, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencione la petición aquí…) Santos Inocentes, moristeis antes de ser lo suficientemente mayores para entender lo que significa la vida, orad por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fuisteis asesinados porque un hombre estaba lleno de odio, orad por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentasteis una muerte violenta, orad por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, vuestros padres lloraron por vosotros con un dolor profundo y duradero, orad por todos los padres que han perdido hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes os rodeaban ciertamente se sintieron impotentes para evitar vuestra muerte, orad por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, vosotros que ahora estáis en el Cielo, orad por todos nosotros para que un día podamos unirnos a vosotros allí y gozar del amor de Dios por siempre. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rogad por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewinne Dzieci zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewinne Dzieci, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewinne Dzieci, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewinne Dzieci, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewinne Dzieci, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewinne Dzieci, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trwali przy Bogu dla odwagi i nadziei. Święte Niewinne Dzieci, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się Bożą miłością. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewinne Dzieci, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar la petición aquí…) Santos Inocentes, moristeis antes de ser lo suficientemente mayores para entender lo que significa la vida, orad por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fuisteis asesinados porque un hombre se llenó de odio, orad por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentasteis una muerte violenta, orad por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, vuestros padres sufrieron por vosotros con un dolor profundo y duradero, orad por todos los padres que han perdido hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes os rodeaban ciertamente se sintieron impotentes para evitar vuestra muerte, orad por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, vosotros que ahora estáis en el Cielo, orad por todos nosotros para que un día podamos unirnos a vosotros allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rogad por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewiniątka zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewiniątka, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewiniątka, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewiniątka, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby znaleźli pokój i miłość. Święte Niewiniątka, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewiniątka, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trzymali się Boga dla odwagi i nadziei. Święte Niewiniątka, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się miłością Boga. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewiniątka, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar la petición aquí…) Santos Inocentes, ustedes murieron antes de ser lo suficientemente grandes para entender lo que significa la vida, rueguen por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fueron asesinados porque un hombre estaba lleno de odio, rueguen por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentaron una muerte violenta, rueguen por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, sus padres sufrieron por ustedes con un dolor profundo y duradero, rueguen por todos los padres que han perdido hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes los rodeaban seguramente se sintieron impotentes para evitar sus muertes, rueguen por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, ustedes que ahora están en el Cielo, rueguen por todos nosotros para que un día podamos unirnos a ustedes allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rueguen por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewinne Dzieci zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewinne Dzieci, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg przygarnął je do swoich kochających ramion. Święte Niewinne Dzieci, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewinne Dzieci, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewinne Dzieci, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym płaszczem pocieszenia. Święte Niewinne Dzieci, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trwali przy Bogu dla odwagi i nadziei. Święte Niewinne Dzieci, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i rozkoszować się miłością Boga na wieki. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewinne Dzieci, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar petición aquí…) Santos Inocentes, moristeis antes de ser lo suficientemente mayores para entender lo que significa la vida, orad por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fuisteis asesinados porque un hombre se llenó de odio, orad por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentasteis una muerte violenta, orad por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, vuestros padres sufrieron por vosotros con un dolor profundo y duradero, orad por todos los padres que han perdido hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes os rodeaban ciertamente se sintieron impotentes para evitar vuestra muerte, orad por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, vosotros que ahora estáis en el Cielo, orad por todos nosotros para que un día podamos unirnos a vosotros allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rogad por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewiniątka zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewiniątka, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewiniątka, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił je miłością. Święte Niewiniątka, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewiniątka, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewiniątka, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trwali przy Bogu dla odwagi i nadziei. Święte Niewiniątka, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się miłością Boga. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewiniątka, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar la petición aquí…) Santos Inocentes, ustedes murieron antes de ser lo suficientemente grandes para saber lo que significa la vida, rueguen por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fueron asesinados porque un hombre estaba lleno de odio, rueguen por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentaron una muerte violenta, rueguen por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, sus padres sufrieron por ustedes con un dolor profundo y duradero, rueguen por todos los padres que han perdido hijos pequeños para que Dios les envuelva con una cálida manta de consuelo. Santos Inocentes, quienes los rodeaban seguramente se sintieron impotentes para evitar sus muertes, rueguen por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, ustedes que ahora están en el Cielo, rueguen por todos nosotros para que un día podamos unirnos a ustedes allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rueguen por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewinne Dzieci zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewinne Dzieci, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewinne Dzieci, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewinne Dzieci, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewinne Dzieci, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewinne Dzieci, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trzymali się Boga dla odwagi i nadziei. Święte Niewinne Dzieci, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się Bożą miłością. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewinne Dzieci, módlcie się za nami!\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con la vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar petición aquí…) Santos Inocentes, moristeis antes de ser lo suficientemente mayores para entender lo que significa la vida, orad por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fuisteis asesinados porque un hombre estaba lleno de odio, orad por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentasteis una muerte violenta, orad por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, vuestros padres sufrieron por vosotros con un dolor profundo y duradero, orad por todos los padres que han perdido hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes os rodeaban ciertamente se sintieron impotentes para evitar vuestra muerte, orad por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, vosotros que ahora estáis en el Cielo, orad por todos nosotros para que un día podamos unirnos a vosotros allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rogad por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewiniątka zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewiniątka, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewiniątka, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewiniątka, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewiniątka, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewiniątka, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trzymali się Boga dla odwagi i nadziei. Święte Niewiniątka, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dniaśmy do was dołączyli i na zawsze rozkoszowali się Bożą miłością. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewiniątka, módlcie się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nFather, by their wordless profession of faith in Thy Son, the Holy Innocents were crowned with life at His birth. Hear their prayers for us in this novena, especially for (mention request here…) Holy Innocents, you died before you were old enough to know what life means, pray for all children who die young that God may gather them into His loving arms. Holy Innocents, you were killed because one man was filled with hatred, pray for those who hate that God may touch their hearts and fill them with love. Holy Innocents, you experienced a violent death, pray for all who are affected by violence that they may find peace and love. Holy Innocents, your parents grieved for you with deep and lasting sorrow, pray for all parents who have lost young children that God may wrap a warm blanket of comfort around them. Holy Innocents, those around you certainly felt helpless to prevent your deaths, pray for all who feel helpless in their circumstances that they may cling to God for courage and hope. Holy Innocents, you who are now in Heaven, pray for all of us that one day we may join you there to bask in God’s love forever. Amen.\n\nOur Father Hail Mary Glory Be Holy Innocents, pray for us!\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPadre, por su profesión de fe sin palabras en Tu Hijo, los Santos Inocentes fueron coronados con vida en Su nacimiento. Escucha sus oraciones por nosotros en esta novena, especialmente por (mencionar petición aquí…) Santos Inocentes, moristeis antes de ser lo suficientemente mayores para entender lo que significa la vida, orad por todos los niños que mueren jóvenes para que Dios los reúna en Sus amorosos brazos. Santos Inocentes, fuisteis asesinados porque un hombre estaba lleno de odio, orad por los que odian para que Dios toque sus corazones y los llene de amor. Santos Inocentes, experimentasteis una muerte violenta, orad por todos los afectados por la violencia para que encuentren paz y amor. Santos Inocentes, vuestros padres lloraron por vosotros con un dolor profundo y duradero, orad por todos los padres que han perdido a sus hijos pequeños para que Dios les envuelva con un cálido manto de consuelo. Santos Inocentes, quienes os rodeaban ciertamente se sintieron impotentes para evitar vuestra muerte, orad por todos los que se sienten impotentes en sus circunstancias para que se aferren a Dios en busca de valor y esperanza. Santos Inocentes, vosotros que ahora estáis en el Cielo, orad por todos nosotros para que un día podamos unirnos a vosotros allí y gozar para siempre del amor de Dios. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Santos Inocentes, ¡rogad por nosotros!\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nOjcze, przez ich bezsłowne wyznanie wiary w Twojego Syna, Święte Niewiniątka zostały ukoronowane życiem przy Jego narodzeniu. Wysłuchaj ich modlitw za nas w tej nowennie, szczególnie za (wymień prośbę tutaj…) Święte Niewiniątka, umarliście zanim zdążyliście poznać, co to znaczy życie, módlcie się za wszystkie dzieci, które umierają młodo, aby Bóg zgromadził je w swoich kochających ramionach. Święte Niewiniątka, zostaliście zabici, ponieważ jeden człowiek był pełen nienawiści, módlcie się za tych, którzy nienawidzą, aby Bóg dotknął ich serc i napełnił miłością. Święte Niewiniątka, doświadczyliście gwałtownej śmierci, módlcie się za wszystkich dotkniętych przemocą, aby odnaleźli pokój i miłość. Święte Niewiniątka, wasi rodzice opłakiwali was z głębokim i trwałym smutkiem, módlcie się za wszystkich rodziców, którzy stracili małe dzieci, aby Bóg otulił ich ciepłym kocem pocieszenia. Święte Niewiniątka, ci wokół was z pewnością czuli się bezsilni, by zapobiec waszej śmierci, módlcie się za wszystkich, którzy czują się bezsilni w swoich okolicznościach, aby trwali przy Bogu dla odwagi i nadziei. Święte Niewiniątka, wy, którzy jesteście teraz w Niebie, módlcie się za nas wszystkich, aby pewnego dnia dołączyć do was tam i na zawsze rozkoszować się Bożą miłością. Amen.\n\nOjcze Nasz Zdrowaś Maryjo Chwała Ojcu Święte Niewiniątka, módlcie się za nami!\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "December 19Feastday:December 28Birth:0Death:2Patron saint of foundlings, babies, and children's choirs 📱",
+    "feast": "December 28Birth:0Death:2Patron saint of foundlings, babies, and children's choirs 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/holy_innocents.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "a683cfa2e1e745a391f1f9fec939f827b614ebd05b4e3230aa4067383d9ae5c8",
+        "langs": {
+          "es": {
+            "translatedHash": "001cc18123bdc521baec9ff8ad713ab841eb9185ba53377d913d673cc50f890a",
+            "updatedAt": "2026-02-25T05:13:55.580Z"
+          },
+          "pl": {
+            "translatedHash": "a5be1dbfb247e500bc98a8d36d338de3980e83fedeff61244832a5e796f91e41",
+            "updatedAt": "2026-02-25T05:13:56.692Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "4746d5906c7c9916ed3fd19bde1d9e5f34e6f6db83910ecd62c5b0228cd3766f",
+        "langs": {
+          "es": {
+            "translatedHash": "7594551f4d4fb79664abd4d091b969084e13a6e42aaac5ba727192d48a3e83b8",
+            "updatedAt": "2026-02-25T05:13:58.027Z"
+          },
+          "pl": {
+            "translatedHash": "3a85686ad4f89ecb50c1de619a707cec6ffb18f9d80c33fb94056af1bc62404d",
+            "updatedAt": "2026-02-25T05:13:59.382Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "80e0e3e4a821dd960be4e17d394f10f5002d9d6dd9ceab4ddeb0459b55ee1285",
+        "langs": {
+          "es": {
+            "translatedHash": "68c49c47a1e7b7d6ea35e0500c777291bf65d0c251981e51579746c66e9dfa03",
+            "updatedAt": "2026-02-25T05:14:05.348Z"
+          },
+          "pl": {
+            "translatedHash": "fb3d1482487ab7199db968951178e55af69c34e214a29714897ca11a768f1f7b",
+            "updatedAt": "2026-02-25T05:14:14.847Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "bf10a7ef01bb8b5d1ded4526e2a0f7d9bb9315e8ce467c6e3e515483eb872775",
+        "langs": {
+          "es": {
+            "translatedHash": "a2209fb7d4f471008248d01a56fd000714ccf0d15fe9abf411139f844f337848",
+            "updatedAt": "2026-02-25T05:14:20.121Z"
+          },
+          "pl": {
+            "translatedHash": "8ff8d3a9f19e0c0b19f2fa65309d13b648a03c1a64378b9a1e4312ed2e8717f7",
+            "updatedAt": "2026-02-25T05:14:27.764Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "3b1a5bd5f8391265121130d7c8f6444c05aa385fedcc04af2b1689ef0955b4cc",
+        "langs": {
+          "es": {
+            "translatedHash": "3faa53249fcd20bc28a3e3e85b564478d5a7f8d995debdcd7d010d677ec60ca3",
+            "updatedAt": "2026-02-25T05:14:33.228Z"
+          },
+          "pl": {
+            "translatedHash": "e7aa24e68afc471fb1760234aed4bca30abf94902f2dde2cb93d65cbc7e381be",
+            "updatedAt": "2026-02-25T05:14:40.039Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "ee84bdb326cb5058821799d933ff2879a7ac6ca97411147e4709b0862e6e59dd",
+        "langs": {
+          "es": {
+            "translatedHash": "a2209fb7d4f471008248d01a56fd000714ccf0d15fe9abf411139f844f337848",
+            "updatedAt": "2026-02-25T05:14:45.785Z"
+          },
+          "pl": {
+            "translatedHash": "9d68e52f652513e76d2a18e2aae40128fb8309e8b605e13453e17e28dd85520b",
+            "updatedAt": "2026-02-25T05:14:54.334Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "424501ae94bae14b9ccfe8051b39899c07372bc7f1833482108827af35b51f6e",
+        "langs": {
+          "es": {
+            "translatedHash": "1e3e69f93449d34e9d735d1801199d17541f93df13cb018a5ebc12199d10f813",
+            "updatedAt": "2026-02-25T05:15:00.116Z"
+          },
+          "pl": {
+            "translatedHash": "434b10d530829a08d284600614472f41f521fa323ba423c60f32394b5240149e",
+            "updatedAt": "2026-02-25T05:15:07.983Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "4fa08bea3f6989c6a8dd583ee442ae1914176dbf31fcc6b60eb8bc0b8c0fcc00",
+        "langs": {
+          "es": {
+            "translatedHash": "e86ca642537d88f53da253a3fe43bb8d18c7f2e2ebfe7246345bbfd7efe9a7dd",
+            "updatedAt": "2026-02-25T05:15:11.718Z"
+          },
+          "pl": {
+            "translatedHash": "8dff271e72c1ba25ecc7b739874f6da0cbf03b47646c1c513f7917f5f839b7cf",
+            "updatedAt": "2026-02-25T05:15:18.334Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "95b5124884535900f4b12657e294c6ea3541a31985591631562f871578903586",
+        "langs": {
+          "es": {
+            "translatedHash": "49f2416ccfcac5ca65402fe19805dd7019a89291b66a53547a70f793675e3d7a",
+            "updatedAt": "2026-02-25T05:15:22.850Z"
+          },
+          "pl": {
+            "translatedHash": "43394a8b78dcdbe895af1be920bbe60e94176e1d807e163d37ba76f2f6a5a02f",
+            "updatedAt": "2026-02-25T05:15:31.802Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "305397ffbd26e9ab101389e192b7d78a9ff5dcfaded90438d66ea3255033e61e",
+        "langs": {
+          "es": {
+            "translatedHash": "5130b84f7cf1e024d8408c534f7119bfd94652b2ef03234f429a8f526f16ea07",
+            "updatedAt": "2026-02-25T05:15:41.768Z"
+          },
+          "pl": {
+            "translatedHash": "ab75d7653e7d3d1da4999d75f1455bb485f4bcfee7e1b20eaa7f0e4e2c56f854",
+            "updatedAt": "2026-02-25T05:15:52.402Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "da29646b781673550f44239b9ea956a385c2a415d33704573ab1e3ef8406df7f",
+        "langs": {
+          "es": {
+            "translatedHash": "559a1d7385c5d5c51f6d30265e104e71b20b01dfcbbec6a7117b920b125016e4",
+            "updatedAt": "2026-02-25T05:15:58.674Z"
+          },
+          "pl": {
+            "translatedHash": "3b9f1b8939a86a2b1c5a7b343f6918ce48f889938c85143f387401d3329a5199",
+            "updatedAt": "2026-02-25T05:16:05.782Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de los Santos Inocentes",
+  "title_pl": "Nowenna do Świętych Niewiniątek",
+  "description_es": "Los Santos Inocentes fueron los niños varones de dos años o menos que vivían cerca de Belén y que el rey Herodes ordenó matar. Reza esta novena por los expósitos, los bebés y los coros infantiles.",
+  "description_pl": "Święte Niewiniątka to chłopcy w wieku do dwóch lat mieszkający w pobliżu Betlejem, których król Herod nakazał wymordować. Módl się tę nowennę za porzucone dzieci, niemowlęta oraz chóry dziecięce.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

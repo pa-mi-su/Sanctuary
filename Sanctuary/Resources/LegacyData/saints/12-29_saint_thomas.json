@@ -1,0 +1,79 @@
+{
+  "id": "12-29_saint_thomas",
+  "name": "Saint Thomas",
+  "mmdd": "12-29",
+  "feast": "The Twenty-Ninth Day of December",
+  "summary": "Thomas Becket, also known as Saint Thomas of Canterbury, Thomas of London and later Thomas à Becket, was an English cleric and statesman who served as Lord Chancellor from 1155 to 1162, and then as Archbishop of Canterbury from 1162 until his death in 1170. He is known for his conflict with King Henry II over the rights and privileges of the Church and was murdered by followers of the king in Canterbury Cathedral. He was canonised by Pope Alexander III two years after his death. He is venerated as a saint and martyr by the Catholic Church and the Anglican Communion.",
+  "biography": "Sources\nThe main sources for the life of Becket are a number of biographies written by contemporaries. A few of these documents are by unknown writers, although historiography has given them names. The known biographers are John of Salisbury, Edward Grim, Benedict of Peterborough, William of Canterbury, William fitz Stephen, Guernes of Pont-Sainte-Maxence, Robert of Cricklade, Alan of Tewkesbury, Benet of St Albans, and Herbert of Bosham. The other biographers, who remain anonymous, are generally given the pseudonyms of Anonymous I, Anonymous II (or Anonymous of Lambeth...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Becket",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-29_saint_thomas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c86f7fa2b0724849de82c48655a1049ce545375a129d868ecce0a886a5bfa1a4",
+        "langs": {
+          "es": {
+            "translatedHash": "f5bc1fdc3d327789f64a43175eba998cf4c7cb99454b4280c8d4389bec2ceba5",
+            "updatedAt": "2026-02-25T01:34:39.177Z"
+          },
+          "pl": {
+            "translatedHash": "e24241afc20acabc73c02d15496a523eb7eb0afc9e1e0933df4864ff3d23c01e",
+            "updatedAt": "2026-02-25T01:34:39.831Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e2d154ac24d4f428488b75f07f96250e90c8418988b71fc6687422367d8b3746",
+        "langs": {
+          "es": {
+            "translatedHash": "df1ba3af73ea7b9c6ba508b6467c5630e0ad7d02770a673dc9351a8b47c7d8c9",
+            "updatedAt": "2026-02-25T01:34:40.416Z"
+          },
+          "pl": {
+            "translatedHash": "89ee6b7fe94c3ca6fbab481bdb0952739331bf76cbd4f4dc3b32c2ffcbd2f2d0",
+            "updatedAt": "2026-02-25T01:34:41.203Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7760c1d452f63512666bd7ad66c37ecce5425a47ddfc0e23d056baa828366d24",
+        "langs": {
+          "es": {
+            "translatedHash": "f16e3ffbee16c549139e4f6115686755271ca9cf26b1479016ecd84fbe5ca64c",
+            "updatedAt": "2026-02-25T01:34:45.049Z"
+          },
+          "pl": {
+            "translatedHash": "107e5152df25726556dc239db4d8716de64103e6df7d5dd2b3342b0f4f3f9bb4",
+            "updatedAt": "2026-02-25T01:34:47.472Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8b7e0d7f44b8b66f861d3dc2393df8c08288e692b93d87a7302679805d80a440",
+        "langs": {
+          "es": {
+            "translatedHash": "60934e1590c97f1f457192aafd3fd77b37cbbb089104c5ac2b9c46ad7cb037f4",
+            "updatedAt": "2026-02-25T01:34:50.296Z"
+          },
+          "pl": {
+            "translatedHash": "6f57cfb1d5c998819cc56ab03574f6830ae73704f15a5bd114fe8731b68cb9ff",
+            "updatedAt": "2026-02-25T01:34:53.144Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás",
+  "name_pl": "Święty Tomasz",
+  "feast_es": "El Vigésimo Noveno Día de Diciembre",
+  "feast_pl": "Dwudziesty dziewiąty dzień grudnia",
+  "summary_es": "Tomás Becket, también conocido como San Tomás de Canterbury, Tomás de Londres y más tarde Tomás à Becket, fue un clérigo y estadista inglés que sirvió como Lord Canciller desde 1155 hasta 1162, y luego como Arzobispo de Canterbury desde 1162 hasta su muerte en 1170. Es conocido por su conflicto con el rey Enrique II sobre los derechos y privilegios de la Iglesia y fue asesinado por seguidores del rey en la Catedral de Canterbury. Fue canonizado por el Papa Alejandro III dos años después de su muerte. Es venerado como santo y mártir por la Iglesia Católica y la Comunión Anglicana.",
+  "summary_pl": "Tomasz Becket, znany również jako święty Tomasz z Canterbury, Tomasz z Londynu, a później Tomasz à Becket, był angielskim duchownym i mężem stanu, który pełnił funkcję Lorda Kanclerza od 1155 do 1162 roku, a następnie arcybiskupa Canterbury od 1162 aż do swojej śmierci w 1170 roku. Znany jest z konfliktu z królem Henrykiem II dotyczącego praw i przywilejów Kościoła, został zamordowany przez zwolenników króla w katedrze w Canterbury. Został kanonizowany przez papieża Aleksandra III dwa lata po swojej śmierci. Jest czczony jako święty i męczennik przez Kościół katolicki oraz Komunię anglikańską.",
+  "biography_es": "Fuentes  \nLas principales fuentes para la vida de Becket son varias biografías escritas por contemporáneos. Algunos de estos documentos son obra de escritores desconocidos, aunque la historiografía les ha asignado nombres. Los biógrafos conocidos son Juan de Salisbury, Eduardo Grim, Benedicto de Peterborough, Guillermo de Canterbury, Guillermo fitz Stephen, Guernes de Pont-Sainte-Maxence, Roberto de Cricklade, Alan de Tewkesbury, Benet de St Albans y Herbert de Bosham. Los otros biógrafos, que permanecen anónimos, generalmente reciben los seudónimos de Anónimo I, Anónimo II (o Anónimo de Lambeth...",
+  "biography_pl": "Źródła  \nGłównymi źródłami do życia Becketa są liczne biografie napisane przez współczesnych mu autorów. Niektóre z tych dokumentów pochodzą od nieznanych pisarzy, chociaż historiografia nadała im nazwy. Znani biografowie to Jan z Salisbury, Edward Grim, Benedykt z Peterborough, Wilhelm z Canterbury, Wilhelm fitz Stephen, Guernes z Pont-Sainte-Maxence, Robert z Cricklade, Alan z Tewkesbury, Benet z St Albans oraz Herbert z Bosham. Pozostali biografowie, którzy pozostają anonimowi, są zazwyczaj określani pseudonimami Anonim I, Anonim II (lub Anonim z Lambeth)..."
+}

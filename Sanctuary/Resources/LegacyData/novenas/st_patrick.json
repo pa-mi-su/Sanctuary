@@ -1,0 +1,275 @@
+{
+  "id": "st_patrick",
+  "title": "St. Patrick Novena",
+  "description": "St. Patrick was enslaved as a teenager but escaped and became a missionary to Ireland. His courage and faith converted the Irish from Celtic paganism to Catholicism.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Patrick"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 8
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 17
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-patrick-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI arise today; Through a mighty strength, the invocation of the Trinity, Through a belief in the Threeness, Through confession of the Oneness Of the Creator of creation.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que hubieras dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones puedan compartir los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencione aquí la petición…)\n\nMe levanto hoy; Con una fuerza poderosa, la invocación de la Trinidad, Con la fe en la Trinidad, Con la confesión de la Unidad Del Creador de la creación.\n\nV. Ruega por nosotros, oh glorioso santo Patricio. R. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całym moim trudem i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, któryś gotów był oddać życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nWstaję dziś; Dzięki potężnej sile, wezwaniu Trójcy, Dzięki wierze w Trójcę, Dzięki wyznaniu Jedności Stwórcy stworzenia.\n\nW. Módl się za nami, o chwalebny święty Patryku. R. I wyproś nam łaskę tej Nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI arise today Through the strength of Christ’s birth and His baptism, Through the strength of His crucifixion and His burial, Through the strength of His resurrection and His ascension, Through the strength of His descent for the judgment of doom.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que habrías dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones compartan los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencione aquí la petición…)\n\nMe levanto hoy\nPor la fuerza del nacimiento de Cristo y Su bautismo,\nPor la fuerza de Su crucifixión y Su sepultura,\nPor la fuerza de Su resurrección y Su ascensión,\nPor la fuerza de Su descenso para el juicio final.\n\nV. Ruega por nosotros, oh glorioso santo Patricio.\nR. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całymi siłami i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, któryś gotów był oddać życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nWstaję dziś\nDzięki mocy narodzin Chrystusa i Jego chrztu,\nDzięki mocy Jego ukrzyżowania i pogrzebu,\nDzięki mocy Jego zmartwychwstania i wniebowstąpienia,\nDzięki mocy Jego zejścia na sąd ostateczny.\n\nW. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI arise today Through the strength of the love of cherubim, In obedience of angels, In service of archangels, In the hope of resurrection to meet with reward, In the prayers of patriarchs, In preachings of the apostles, In faiths of confessors, In innocence of virgins, In deeds of righteous men.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que hubieras dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones compartan los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencionar la petición aquí…)\n\nMe levanto hoy\nPor la fuerza del amor de los querubines,\nEn obediencia de los ángeles,\nAl servicio de los arcángeles,\nEn la esperanza de la resurrección para recibir la recompensa,\nEn las oraciones de los patriarcas,\nEn las predicaciones de los apóstoles,\nEn la fe de los confesores,\nEn la inocencia de las vírgenes,\nEn las obras de los hombres justos.\n\nV. Ruega por nosotros, oh glorioso santo Patricio.\nR. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całymi siłami i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, który oddałbyś życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj prośbę…)\n\nWstaję dziś\nDzięki mocy miłości cherubinów,\nW posłuszeństwie aniołów,\nW służbie archaniołów,\nW nadziei zmartwychwstania i spotkania z nagrodą,\nW modlitwach patriarchów,\nW naukach apostołów,\nW wierze wyznawców,\nW niewinności dziewic,\nW czynach sprawiedliwych.\n\nW. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI arise today Through the strength of heaven; Light of the sun, Splendor of fire, Speed of lightning, Swiftness of the wind, Depth of the sea, Stability of the earth, Firmness of the rock.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que habrías dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones compartan los frutos benditos de ese Evangelio que tú sembraste y regaste. (mencione aquí la petición…)\n\nMe levanto hoy\nPor la fuerza del cielo;\nLuz del sol,\nEsplendor del fuego,\nVelocidad del relámpago,\nRapidez del viento,\nProfundidad del mar,\nEstabilidad de la tierra,\nFirmeza de la roca.\n\nV. Ruega por nosotros, oh glorioso santo Patricio.\nR. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całym moim trudem i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, któryś gotów był oddać życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nWstaję dziś\nDzięki mocy nieba;\nŚwiatło słońca,\nBlask ognia,\nSzybkość błyskawicy,\nZwinność wiatru,\nGłębokość morza,\nStabilność ziemi,\nNiezłomność skały.\n\nW. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI arise today Through God’s strength to pilot me; God’s might to uphold me, God’s wisdom to guide me, God’s eye to look before me, God’s ear to hear me, God’s word to speak for me, God’s hand to guard me, God’s way to lie before me, God’s shield to protect me, God’s hosts to save me From snares of the devil, From temptations of vices, From every one who desires me ill, Afar and anear, Alone or in a mulitude.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con todas mis fuerzas y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que hubieras dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones puedan compartir los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencione aquí la petición…)\n\nMe levanto hoy\nPor la fuerza de Dios que me guía;\nPor el poder de Dios que me sostiene,\nPor la sabiduría de Dios que me conduce,\nPor el ojo de Dios que me mira delante,\nPor el oído de Dios que me escucha,\nPor la palabra de Dios que habla por mí,\nPor la mano de Dios que me guarda,\nPor el camino de Dios que se extiende ante mí,\nPor el escudo de Dios que me protege,\nPor los ejércitos de Dios que me salvan\nDe las trampas del diablo,\nDe las tentaciones de los vicios,\nDe todo aquel que desea mi mal,\nLejos y cerca,\nSolo o en multitud.\n\nV. Ruega por nosotros, oh glorioso santo Patricio.\nR. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całym moim trudem i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, któryś gotów był oddać życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień prośbę tutaj…)\n\nWstaję dziś\nDzięki Bożej mocy, by mnie prowadziła;\nBożej sile, by mnie podtrzymywała,\nBożej mądrości, by mnie kierowała,\nBożemu oku, by patrzyło przede mną,\nBożemu uchu, by mnie słyszało,\nBożemu słowu, by przemawiało za mnie,\nBożej ręce, by mnie strzegła,\nBożej drodze, by leżała przede mną,\nBożej tarczy, by mnie chroniła,\nBożym zastępom, by mnie ratowały\nPrzed sidłami diabła,\nPrzed pokusami nałogów,\nPrzed każdym, kto życzy mi źle,\nDaleko i blisko,\nSamemu lub w tłumie.\n\nV. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI summon today all these powers between me and evil, Against every cruel merciless power that opposes my body and soul, Against incantations of false prophets, Against black laws of pagandom, Against false laws of heretics, Against craft of idolatry, Against spells of witches and smiths and wizards, Against every knowledge that corrupts man’s body and soul. Christ shield me today Against poison, against burning, Against drowning, against wounding, So that reward may come to me in abundance.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que habrías dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concédenos que todos los corazones compartan los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencionar aquí la petición…)\n\nHoy invoco todos estos poderes entre mí y el mal, Contra todo poder cruel e implacable que se oponga a mi cuerpo y alma, Contra las invocaciones de falsos profetas, Contra las leyes negras del paganismo, Contra las falsas leyes de los herejes, Contra el artificio de la idolatría, Contra los hechizos de brujas, herreros y magos, Contra todo conocimiento que corrompa el cuerpo y el alma del hombre. Cristo, protégeme hoy Contra el veneno, contra el fuego, Contra el ahogamiento, contra las heridas, Para que la recompensa me llegue en abundancia.\n\nV. Ruega por nosotros, oh glorioso santo Patricio. R. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę miłości do Boga całym moim sercem, służenia Mu całym moim trudem i wytrwania w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, który tysiąc razy oddałbyś życie, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nDziś wzywam wszystkie te moce między mną a złem, Przeciw każdej okrutnej, bezlitosnej mocy, która sprzeciwia się mojemu ciału i duszy, Przeciw zaklęciom fałszywych proroków, Przeciw czarnym prawom pogaństwa, Przeciw fałszywym prawom heretyków, Przeciw podstępowi bałwochwalstwa, Przeciw czarom czarownic, kowali i czarodziejów, Przeciw wszelkiej wiedzy, która niszczy ciało i duszę człowieka. Chryste, chroń mnie dziś Przed trucizną, przed ogniem, Przed utonięciem, przed raną, Aby nagroda przyszła do mnie obficie.\n\nW. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nChrist with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ in the heart of every man who thinks of me, Christ in the mouth of every man who speaks of me, Christ in the eye that sees me, Christ in the ear that hears me.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que hubieras dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones compartan los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencionar la petición aquí…)\n\nCristo conmigo, Cristo delante de mí, Cristo detrás de mí, Cristo en mí, Cristo debajo de mí, Cristo sobre mí, Cristo a mi derecha, Cristo a mi izquierda, Cristo cuando me acuesto, Cristo cuando me siento, Cristo en el corazón de todo hombre que piensa en mí, Cristo en la boca de todo hombre que habla de mí, Cristo en el ojo que me ve, Cristo en el oído que me escucha.\n\nV. Ruega por nosotros, oh glorioso santo Patricio. R. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całym moim trudem i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, który oddałbyś życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nChrystus ze mną, Chrystus przede mną, Chrystus za mną, Chrystus we mnie, Chrystus przede mną, Chrystus nade mną, Chrystus po mojej prawej, Chrystus po mojej lewej, Chrystus, gdy kładę się spać, Chrystus, gdy siadam, Chrystus w sercu każdego, kto o mnie myśli, Chrystus w ustach każdego, kto o mnie mówi, Chrystus w oku, które mnie widzi, Chrystus w uchu, które mnie słyszy.\n\nV. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nI arise today Through a mighty strength, the invocation of the Trinity, Through a belief in the Threeness, Through a confession of the Oneness Of the Creator of creation\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con toda mi fuerza y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que hubieras dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones compartan los benditos frutos de ese Evangelio que tú plantaste y regaste. (mencionar la petición aquí…)\n\nMe levanto hoy\nPor una fuerza poderosa, la invocación de la Trinidad,\nPor la fe en la Trinidad,\nPor la confesión de la Unidad\nDel Creador de la creación\n\nV. Ruega por nosotros, oh glorioso santo Patricio.\nR. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym miłował Boga całym sercem, służył Mu całymi siłami i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, który oddałbyś życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nWstaję dziś\nDzięki potężnej sile, wezwaniu Trójcy,\nDzięki wierze w Trójjedyność,\nDzięki wyznaniu Jedyności\nStwórcy stworzenia\n\nW. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam intencję tej Nowenny.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nSt. Patrick, obtain for me grace to love God with my whole heart, to serve him with my whole strength, and to persevere in good purposes to the end. O faithful shepherd of the Irish flock, who would have laid down his life a thousand times to save one soul, take my soul, and the souls of my countrymen, under your special care. Grant that all hearts may share the blessed fruits of that Gospel that you planted and watered. (mention request here…)\n\nSt. Patrick, thank you for your prayers for my intention in this novena. I trust that our Lord will answer them through your intercession.\n\nV. Pray for us, O glorious saint Patrick. R. And obtain for us the intention of this Novena.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSan Patricio, obtén para mí la gracia de amar a Dios con todo mi corazón, de servirle con todas mis fuerzas y de perseverar en buenos propósitos hasta el fin. Oh fiel pastor del rebaño irlandés, que hubieras dado tu vida mil veces para salvar una sola alma, toma mi alma y las almas de mis compatriotas bajo tu cuidado especial. Concede que todos los corazones compartan los frutos benditos de ese Evangelio que tú plantaste y regaste. (mencione aquí la petición…)\n\nSan Patricio, gracias por tus oraciones por mi intención en esta novena. Confío en que nuestro Señor las responderá por tu intercesión.\n\nV. Ruega por nosotros, oh glorioso santo Patricio. R. Y obtén para nosotros la intención de esta Novena.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nMás sobre San Patricio\n\nLa vida de San Patricio\n\nSan Patricio vivió en el siglo V en Inglaterra e Irlanda, a la que convirtió a la Fe Católica desde el paganismo.\n\nPatricio nació en Bretaña alrededor del año 387 d.C. Bretaña en ese tiempo formaba parte del Imperio Romano. Su padre se llamaba Calpurnio y era diácono de la Iglesia, así como comandante de la caballería en el ejército romano.\n\nA pesar de su padre, Patricio no practicaba activamente su fe católica.\n\nSan Patricio esclavizado\n\nA los 16 años, fue secuestrado por piratas, quienes lo vendieron como esclavo en Irlanda. Durante este tiempo difícil, Patricio recibió la gracia del arrepentimiento, una profunda conversión y la oración. Era pastor, lo que le permitía largas horas diarias para orar a Dios y meditar.\n\nDespués de seis años de esclavitud, Dios le dijo que comenzara a caminar hacia la costa, que estaba a unos cientos de millas, y allí un barco lo estaría esperando. Patricio obedeció sin cuestionar, y al llegar encontró un barco en el puerto. El capitán no quería llevarlo, pero Dios intervino milagrosamente, y el capitán cedió y permitió que Patricio subiera a bordo.\n\nCuando llegaron de regreso a Bretaña, la tripulación y Patricio caminaron durante 28 días por la naturaleza británica, eventualmente quedándose sin provisiones y debilitados por el hambre. Patricio oró, y Dios les envió milagrosamente una manada de cerdos salvajes, salvando sus vidas.\n\nSan Patricio se convierte en misionero\n\nPatricio regresó a su familia después de un tiempo. Pero poco después, recibió una visión para volver a Irlanda, esta vez como misionero de Cristo y de Su Iglesia, para “caminar entre” el pueblo irlandés nuevamente.\n\nPatricio estudió para el sacerdocio en Auxerre, en Europa, y San Germán de Auxerre lo ordenó sacerdote. Finalmente también fue ordenado obispo.\n\nPatricio siguió el llamado de Dios y regresó a Irlanda como misionero. Después de algunos viajes, conoció a un jefe tribal que estuvo dispuesto a recibirlo a él y a la Fe Católica, y la primera semilla del cristianismo echó raíces en el suelo pagano.\n\nLos conversos de Patricio crecieron y se convirtieron en discípulos, y estos fieles se hicieron misioneros junto con él en su tierra irlandesa. Ordenó a muchos sacerdotes, y familias enteras y tribus se convirtieron a la Fe.\n\nEl país de Irlanda abandonó su paganismo celta y abrazó el catolicismo.\n\nEl Día de San Patricio se celebra el 17 de marzo, fecha de su muerte.\n\nMás recursos sobre San Patricio\n\nLibro infantil sobre San Patricio Tomie dePaola, el prolífico autor de libros infantiles, tiene un encantador libro sobre la vida de San Patricio.\n\nLo he leído a mis hijos incontables veces, y ellos disfrutan también las ilustraciones del libro.\n\nPelícula animada infantil de San Patricio También disfrutamos mostrar a nuestros hijos la película animada sobre San Patricio, producida por CCC America.\n\nEsta compañía tiene muchas películas animadas sobre santos católicos, y todas las que hemos comprado o visto están bien hechas y son fieles.\n\nEnvíame oraciones respondidas\n\nEnvíame tus oraciones respondidas de la Novena a San Patricio\n\n⏰ Registro de recordatorios\n\nHaz clic aquí para obtener el Ebook de Novenas Católicas GRATIS, así como recordatorios de cuándo comienzan las novenas\n\nNovena relacionada\n\nNovena a Santa Brígida de Irlanda",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nŚwięty Patryku, wyproś mi łaskę, abym kochał Boga całym sercem, służył Mu całym moim trudem i wytrwał w dobrych postanowieniach aż do końca. O wierny pasterzu irlandzkiego stada, który oddałbyś życie tysiąc razy, by ocalić jedną duszę, weź moją duszę i dusze moich rodaków pod swoją szczególną opiekę. Spraw, aby wszystkie serca dzieliły błogosławione owoce Ewangelii, którą zasadziłeś i podlewałeś. (wymień tutaj swoją prośbę…)\n\nŚwięty Patryku, dziękuję za twoje modlitwy w intencji mojej prośby w tej nowennie. Ufam, że nasz Pan wysłucha ich przez twoje wstawiennictwo.\n\nW. Módl się za nami, o chwalebny święty Patryku.\nR. I wyproś nam łaskę tej nowenny.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWięcej o św. Patryku\n\nŻycie św. Patryka\n\nŚwięty Patryk żył w V wieku w Anglii i Irlandii, którą nawrócił z pogaństwa na wiarę katolicką.\n\nPatryk urodził się w Brytanii około 387 roku. Brytania wówczas była częścią Cesarstwa Rzymskiego. Jego ojciec nazywał się Kalpurniusz i był diakonem Kościoła oraz dowódcą kawalerii w armii rzymskiej.\n\nPomimo ojca, Patryk nie praktykował aktywnie swojej wiary katolickiej.\n\nŚw. Patryk w niewoli\n\nW wieku 16 lat został porwany przez piratów, którzy sprzedali go w niewolę do Irlandii. W tym trudnym czasie Patryk otrzymał łaskę nawrócenia, głębokiej przemiany i modlitwy. Był pasterzem, co dawało mu długie godziny każdego dnia na modlitwę do Boga i medytację.\n\nPo sześciu latach niewoli Bóg nakazał mu iść na wybrzeże, które było oddalone o kilkaset mil, gdzie czekał na niego statek. Patryk bez wahania posłuchał, a gdy dotarł na miejsce, znalazł statek w porcie. Kapitan nie chciał go zabrać, ale Bóg cudownie interweniował, a kapitan ustąpił i pozwolił Patrykowi wejść na pokład.\n\nPo powrocie do Brytanii załoga i Patryk wędrowali przez 28 dni przez dzikie tereny, w końcu zabrakło im zapasów i osłabli z głodu. Patryk modlił się, a Bóg cudownie zesłał im stado dzikich świń, ratując ich życie.\n\nŚw. Patryk misjonarzem\n\nPo pewnym czasie Patryk wrócił do swojej rodziny. Niedługo potem otrzymał wizję, by powrócić do Irlandii, tym razem jako misjonarz Chrystusa i Jego Kościoła, by znów „chodzić pośród” Irlandczyków.\n\nPatryk studiował na kapłana w Auxerre w Europie, a św. German z Auxerre wyświęcił go na kapłana. Ostatecznie został również biskupem.\n\nPatryk posłuchał Bożego wezwania i powrócił do Irlandii jako misjonarz. Po pewnym czasie spotkał wodza, który był gotów przyjąć jego i wiarę katolicką, i tak pierwsze ziarno chrześcijaństwa zakiełkowało w pogańskiej ziemi.\n\nNaśladowcy Patryka stali się uczniami, a ci wierni zostali misjonarzami wraz z nim w swojej irlandzkiej ojczyźnie. Wyświęcił wielu kapłanów, a całe rodziny i plemiona nawróciły się na wiarę.\n\nKraj Irlandii porzucił celtycki pogaństwo i przyjął katolicyzm.\n\nDzień św. Patryka obchodzony jest 17 marca, w dniu jego śmierci.\n\nWięcej zasobów o św. Patryku\n\nKsiążka dla dzieci o św. Patryku\nTomie dePaola, płodny autor książek dla dzieci, napisał uroczą książkę o życiu św. Patryka.\n\nCzytałem ją moim dzieciom niezliczoną ilość razy, a one bardzo lubią ilustracje w książce.\n\nAnimowany film dla dzieci o św. Patryku\nLubimy też pokazywać naszym dzieciom animowany film o św. Patryku, wyprodukowany przez CCC America.\n\nTa firma ma wiele animowanych filmów o świętych katolickich, a każdy, który kupiliśmy lub obejrzeliśmy, jest dobrze wykonany i wierny.\n\nWyślij mi swoje wysłuchane modlitwy\n\nPrześlij mi swoje wysłuchane modlitwy z Nowenny do św. Patryka\n\n⏰ Zapisz się na przypomnienia\n\nKliknij tutaj, aby otrzymać katolickiego ebooka z nowennami ZA DARMO oraz przypomnienia o rozpoczęciu nowenn\n\nPokrewna nowenna\n\nNowenna do św. Brygidy z Irlandii"
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_patrick.jpg",
+  "sourceFacts": {
+    "starts": "March 8Feastday:March 17Birth:387Death:March 17th, 461Patron saint of Ireland, Nigeria, Montserrat, Archdiocese of New York, Archdiocese of Newark, Archdiocese of Los Angeles, Boston, Rolla, Missouri, Loíza, Puerto Rico, Murcia Spain, Clann Giolla Phádraig, engineers, paralegals, Archdiocese of Melbourne, invoked against snakes, sins 📱",
+    "feast": "March 17Birth:387Death:March 17th, 461Patron saint of Ireland, Nigeria, Montserrat, Archdiocese of New York, Archdiocese of Newark, Archdiocese of Los Angeles, Boston, Rolla, Missouri, Loíza, Puerto Rico, Murcia Spain, Clann Giolla Phádraig, engineers, paralegals, Archdiocese of Melbourne, invoked against snakes, sins 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "638dc1e2f59d5a7c99219d141ab6da4c7e46250f2b5a3a14ea48686da7a7dbc7",
+        "langs": {
+          "es": {
+            "translatedHash": "c9679bd20411bb5ca45eef7b875d8047feca41e7cb48387144fafe6c38ee80a8",
+            "updatedAt": "2026-02-25T17:23:29.916Z"
+          },
+          "pl": {
+            "translatedHash": "45aaa23383a9b22a7dd4f1dc2e7e7248d4e3513b977152bede85b08f057ef7dd",
+            "updatedAt": "2026-02-25T17:23:31.067Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "a2d6f96422168cc9a3c5ba2425487de3f58f97a6c526225da8a1cf78faca7560",
+        "langs": {
+          "es": {
+            "translatedHash": "e9ca84bbd60e41ccf16bc370427efb15182d54692395c191a56cac6d5a4cab0e",
+            "updatedAt": "2026-02-25T17:23:32.162Z"
+          },
+          "pl": {
+            "translatedHash": "e099249d4f4fde9ecdcf49b51108cb954152916de3616503b39ffb472c02d953",
+            "updatedAt": "2026-02-25T17:23:33.911Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "13ef9fa98d546580f7c58a0f93112faaa391f3012d611a7f451074bf44bf466e",
+        "langs": {
+          "es": {
+            "translatedHash": "c89e1af5054e8a059c9d8fa066fc8db3300a4531f1aa67e75e7307d64cae1069",
+            "updatedAt": "2026-02-25T17:23:36.956Z"
+          },
+          "pl": {
+            "translatedHash": "9901f8edec53ff15d584a78626a43baec9f93fb6642c7a0dbaa2c9cc78c9238a",
+            "updatedAt": "2026-02-25T17:23:40.395Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "c8f3f4281f8d0c34a656817305fc0a58ed0093eea7f861e02c0a7eb07b63103a",
+        "langs": {
+          "es": {
+            "translatedHash": "590d62f7d4a86c47e0cfec2144fbcc8f975a19b0fc1409fb606a2c86bf6fd324",
+            "updatedAt": "2026-02-25T17:23:44.261Z"
+          },
+          "pl": {
+            "translatedHash": "e624bb5920926d0d51cd14c13b97fb3a1e13e9e614c91020a63702d1029536d6",
+            "updatedAt": "2026-02-25T17:23:48.291Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "41a452ae9bca7ac0c725e7d5d3302f9c99125176c182e20786375508c3883026",
+        "langs": {
+          "es": {
+            "translatedHash": "b1fa59486f8e4dc38706bb4d190d8e6e62fb8dd6164dcf12807ffc39dd7ad96c",
+            "updatedAt": "2026-02-25T17:23:53.078Z"
+          },
+          "pl": {
+            "translatedHash": "315765593a5e6c7f7c7db0ec819362dbafb7adde7c387221e9a05d1bae3db8c3",
+            "updatedAt": "2026-02-25T17:23:57.732Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "709770bed44bd6b200e71acdc888ccf39944607873db2eec8e3c8e15ed996709",
+        "langs": {
+          "es": {
+            "translatedHash": "fa46eca245c3b8e34f96cdeebad254195192fa13bea6bfc36037ad0af325bce2",
+            "updatedAt": "2026-02-25T17:24:02.841Z"
+          },
+          "pl": {
+            "translatedHash": "59abd8f51a2497c828c6dabd5a832570a70be6ae372ca23b21b8b9a2c29cedd5",
+            "updatedAt": "2026-02-25T17:24:13.879Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "2df7cfa5b4b7aec7c9557e70673427be45eff04f9c238354f1c648dab5f973f3",
+        "langs": {
+          "es": {
+            "translatedHash": "6cd8c8d799ab0de6043172d3349311fa9df7d6aa2cddef0c93a65ea46e196334",
+            "updatedAt": "2026-02-25T17:24:18.323Z"
+          },
+          "pl": {
+            "translatedHash": "7b15b8b464c2f1dfa4955d12623d2625acf8bfc32cfc73fc4f86b3c3853086c1",
+            "updatedAt": "2026-02-25T17:24:24.662Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "08dea7805b7a2f572d8dd1f668e46d75e6a96db0c74aa65f98fa7bef6fe02216",
+        "langs": {
+          "es": {
+            "translatedHash": "b7b41eee7a5c391b2ce419f99d72f60a4351f565b9164c7ace6e7a94b189fc01",
+            "updatedAt": "2026-02-25T17:24:28.824Z"
+          },
+          "pl": {
+            "translatedHash": "8219bbe2d4b4a1f02dfb33ed9563454eaea8f255c28a7f43b0baa0227c0d927e",
+            "updatedAt": "2026-02-25T17:24:34.280Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "44cc451213572dbe0e19419fe034bc75321443a46b8bbccbc95cda113fcfd7bf",
+        "langs": {
+          "es": {
+            "translatedHash": "e9c75b0610c1337e86d201b7be9f8ed60cf534a3004ecb3571144378bf795ee8",
+            "updatedAt": "2026-02-25T17:24:37.806Z"
+          },
+          "pl": {
+            "translatedHash": "1bccfb5b23eaccbefa5a5753bf330ef72bc66ac0a791418806baf2210d31e04e",
+            "updatedAt": "2026-02-25T17:24:44.695Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "f99bd38383c86bfb63c4f5b3dc1d506a4a37e010b35e8c9daf5d370465e31239",
+        "langs": {
+          "es": {
+            "translatedHash": "57bac8ca9bf77df315a25f1b774a5e83365b6e678097f9b13ab4b2be36eca979",
+            "updatedAt": "2026-02-25T17:24:48.401Z"
+          },
+          "pl": {
+            "translatedHash": "2843bb065b9f8006a575aa1a6c9a10ab070be42a84945e1c64c585cf0c903188",
+            "updatedAt": "2026-02-25T17:24:52.317Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "df6bed0d59b88928a68456ef39411bad5a0cdfd6e9387991475abcc8f99bf5b3",
+        "langs": {
+          "es": {
+            "translatedHash": "fa96516baf71173ab52e7650bb7ec297939db4a082d186c92f4d5ac1520bd914",
+            "updatedAt": "2026-02-25T17:25:05.757Z"
+          },
+          "pl": {
+            "translatedHash": "d4414dfba6ecb18056fdbe54e3ffa1af9165b8a15cfae2ff6075d7d06c34040a",
+            "updatedAt": "2026-02-25T17:25:23.899Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Patricio",
+  "title_pl": "Nowenna do św. Patryka",
+  "description_es": "San Patricio fue esclavizado cuando era adolescente, pero escapó y se convirtió en misionero en Irlanda. Su valentía y fe convirtieron a los irlandeses del paganismo celta al catolicismo.",
+  "description_pl": "Św. Patryk został zniewolony jako nastolatek, ale uciekł i został misjonarzem w Irlandii. Jego odwaga i wiara nawróciły Irlandczyków z celtyckiego pogaństwa na katolicyzm.",
+  "intentions": [
+    "Ireland",
+    "engineers"
+  ],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/saint-patricks-novena/"
+  ]
+}

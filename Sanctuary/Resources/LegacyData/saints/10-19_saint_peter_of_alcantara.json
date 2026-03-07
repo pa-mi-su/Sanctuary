@@ -1,0 +1,78 @@
+{
+  "id": "10-19_saint_peter_of_alcantara",
+  "name": "Saint Peter of Alcantara",
+  "mmdd": "10-19",
+  "feast": "The Ninteenth Day of October",
+  "summary": "Peter of Alcántara, OFM was a Spanish Franciscan friar who was canonized in 1669.",
+  "biography": "Biography\nPeter was born at Alcántara, Province of Cáceres, Extremadura, Spain. His father, Peter Garavita, was the governor of Alcántara, and his mother was of the noble family of Sanabia. He decided to join the Franciscans at the age of 16 shortly after he was sent to university in Salamanca by his stepfather.\nReturning home, he became a Franciscan friar of the Stricter Observance in the friary at Manxaretes, Extremadura, in 1515. At the age of 22 he was sent to found a new community of the Stricter Observance at Badajoz. He was ordained a priest in 1524, and the following year was appointed Guardian of the friary of St. Mary of the Angels at Robredillo, Old Castile. A few years later he began preaching with much success. He preferred to preach to the poor; his sermons, taken largely from the Prophets and Sapiential Books, breathe the tenderest human sympathy. At the time Peter entered the Order, the reform of the \"Discalced Friars\" consisted of the Custody of the friaries in Spain and Santa Maria Pietatis in Portugal...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_of_Alc%C3%A1ntara"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-19_saint_peter_of_alcantara.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c3a6cbddae5bf481d6c1e26ecc6ec94dc68565d6c2d0e66df47c569c4cd0192d",
+        "langs": {
+          "es": {
+            "translatedHash": "8777511f5fe37beb203f06125bfbb914ce1a385a06130e2b0d4c5f8134e8e0e6",
+            "updatedAt": "2026-02-25T00:52:26.416Z"
+          },
+          "pl": {
+            "translatedHash": "a5bd1cd8ccc427ae7433ec3625254d3e5319c9a2e4f9528414d13eb198c3e008",
+            "updatedAt": "2026-02-25T00:52:26.960Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "538a500f291933db604658031c0522cab2d0a2f0514c66bb5a1a9c43e913b887",
+        "langs": {
+          "es": {
+            "translatedHash": "c6dfc420ac4784dd92f013153ae48054771e1d8422df51a03abae37df4ce6434",
+            "updatedAt": "2026-02-25T00:52:27.835Z"
+          },
+          "pl": {
+            "translatedHash": "b146ed56fad0b16b84d176b50b32b8fd33be3f062212312da83c90cb175cccf4",
+            "updatedAt": "2026-02-25T00:52:28.450Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4cc37c22bae7c74d634f9103f8270f7acd64616066f0dbc9a55295b92d66d548",
+        "langs": {
+          "es": {
+            "translatedHash": "cfbd0ffd6627c383dd9d31646a7fa8efdd2713395a6568d44fa55d84838436a5",
+            "updatedAt": "2026-02-25T00:52:29.511Z"
+          },
+          "pl": {
+            "translatedHash": "22a2ff081ab2f6f0f69f0808111a775e9b2eb70e4688153c2d7b69e9746a3cce",
+            "updatedAt": "2026-02-25T00:52:30.690Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d99f0ede715aff226398d3dbcc72b3da39927de5422fb8eb2c8c6089fd055bf1",
+        "langs": {
+          "es": {
+            "translatedHash": "f8cc886fb7862073ac81113b0e99dc3f145406d46729b0cfb071ad67ee150620",
+            "updatedAt": "2026-02-25T00:52:35.659Z"
+          },
+          "pl": {
+            "translatedHash": "a26d3e5be8ee479a37e8bd4e7460443280ec1e72637e12d5559bfa35a5f616be",
+            "updatedAt": "2026-02-25T00:52:42.565Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro de Alcántara",
+  "name_pl": "Święty Piotr z Alkantary",
+  "feast_es": "El día diecinueve de octubre",
+  "feast_pl": "Dziewiętnasty Dzień Października",
+  "summary_es": "Pedro de Alcántara, OFM, fue un fraile franciscano español que fue canonizado en 1669.",
+  "summary_pl": "Piotr z Alcántary, OFM, był hiszpańskim franciszkańskim zakonnikiem, który został kanonizowany w 1669 roku.",
+  "biography_es": "Biografía  \nPedro nació en Alcántara, provincia de Cáceres, Extremadura, España. Su padre, Pedro Garavita, era el gobernador de Alcántara, y su madre pertenecía a la noble familia de Sanabia. Decidió unirse a los franciscanos a los 16 años poco después de que su padrastro lo enviara a la universidad en Salamanca.  \nAl regresar a casa, se convirtió en fraile franciscano de la Observancia Estricta en el convento de Manxaretes, Extremadura, en 1515. A los 22 años fue enviado a fundar una nueva comunidad de la Observancia Estricta en Badajoz. Fue ordenado sacerdote en 1524, y al año siguiente fue nombrado Guardián del convento de Santa María de los Ángeles en Robredillo, Castilla Vieja. Unos años más tarde comenzó a predicar con mucho éxito. Prefería predicar a los pobres; sus sermones, tomados en gran parte de los Profetas y los Libros Sapienciales, respiran la más tierna simpatía humana. En la época en que Pedro ingresó en la Orden, la reforma de los \"Frailes Descalzos\" consistía en la Custodia de los conventos en España y Santa María Pietatis en Portugal...",
+  "biography_pl": "Biografia  \nPiotr urodził się w Alcántarze, w prowincji Cáceres, w Estremadurze, Hiszpania. Jego ojciec, Piotr Garavita, był gubernatorem Alcántary, a matka pochodziła z szlacheckiej rodziny Sanabia. W wieku 16 lat, niedługo po tym, jak został wysłany na uniwersytet w Salamance przez swojego ojczyma, postanowił wstąpić do franciszkanów.  \nPo powrocie do domu został franciszkańskim bratem zakonnym Ścisłej Obserwancji w klasztorze w Manxaretes, w Estremadurze, w 1515 roku. W wieku 22 lat został wysłany, aby założyć nową wspólnotę Ścisłej Obserwancji w Badajoz. Święcenia kapłańskie przyjął w 1524 roku, a w następnym roku został mianowany Gwardianem klasztoru św. Marii Anielskiej w Robredillo, w Starej Kastylii. Kilka lat później zaczął z wielkim powodzeniem głosić kazania. Wolał przemawiać do ubogich; jego kazania, w dużej mierze oparte na prorokach i księgach mądrościowych, emanują najczulszym ludzkim współczuciem. W czasie, gdy Piotr wstępował do Zakonu, reforma „Braci Bosych” polegała na opiece nad klasztorami w Hiszpanii oraz Santa Maria Pietatis w Portugalii..."
+}

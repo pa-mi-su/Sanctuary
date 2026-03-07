@@ -1,0 +1,48 @@
+{
+  "id": "07-05_saint_elizabeth_of_portugal_optional_memorial_celebrated_july_4_outside_the_usa",
+  "name": "Saint Elizabeth of Portugal—Optional Memorial (Celebrated July 4 outside the USA)",
+  "mmdd": "07-05",
+  "feast": "The Fifth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francisco_de_Zurbar%C3%A1n_-_St_Elizabeth_of_Portugal_-_WGA26066.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-05_saint_elizabeth_of_portugal_optional_memorial_celebrated_july_4_outside_the_usa.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "53db287722d3b176d45e26f26c429272875f5b2555acc69b614baf9b1f4da530",
+        "langs": {
+          "es": {
+            "translatedHash": "35fcc80cb00e64b0c1149f1dcef137d6f4417597f10e7e39db99786f9807ca1f",
+            "updatedAt": "2026-02-24T23:53:33.601Z"
+          },
+          "pl": {
+            "translatedHash": "b787ad652e84e219a07b6eabd4d117874b63e1e9e82e1bbeeb5a03ec99717f3b",
+            "updatedAt": "2026-02-24T23:53:34.466Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "14aabe551550f31748657760ab64d1882ecc1b7d6082eab9edda3a82ffc20360",
+        "langs": {
+          "es": {
+            "translatedHash": "d8aba4f0245b04a075c528cf9fe8747916ddc2d0e8cf4cffb9b8ace1c030d727",
+            "updatedAt": "2026-02-24T23:53:35.406Z"
+          },
+          "pl": {
+            "translatedHash": "dba51f431960e850aa790a0b4639feb30442fe0a0ea46d0b418898db8177da16",
+            "updatedAt": "2026-02-24T23:53:35.948Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Isabel de Portugal—Memoria Opcional (Se celebra el 4 de julio fuera de los EE. UU.)",
+  "name_pl": "Święta Elżbieta Portugalska — Wspomnienie dowolne (obchodzone 4 lipca poza USA)",
+  "feast_es": "El Quinto Día de Julio",
+  "feast_pl": "Piąty dzień lipca"
+}

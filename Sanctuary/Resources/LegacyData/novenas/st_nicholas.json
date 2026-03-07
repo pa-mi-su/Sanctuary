@@ -1,0 +1,272 @@
+{
+  "id": "st_nicholas",
+  "title": "St Nicholas of Myra Novena",
+  "description": "St Nicholas was a bishop at Myra (Turkey) in the fourth century, renowned for combating the Arian heresy and for giving gifts to children and families in need. Pray this novena for your children.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Nicholas"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 27
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 6
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-nicholas-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde gozas la visión de tu Dios, vuelve tus ojos con compasión hacia mí; pide a Dios por mí esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si ello es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Devuelve al camino correcto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar diariamente, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! Z tego jasnego tronu, gdzie oglądasz swego Boga, zmiłuj się nade mną; wyproś u Boga te łaski i pomoce, które są najbardziej potrzebne w moich obecnych potrzebach, duchowych lub doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, świętym Kościele i tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz strapionych, zaopatrz potrzebujących, umocnij słabych duchem, broń uciśnionych, wspomóż chorych; niech wszyscy poznają skutki Twojej potężnej opieki u Tego, który jest najwyższym dawcą wszelkiego dobra. Amen.\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godni obietnic Chrystusa.\n\nMódlmy się: Boże, który uczciłeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy przez jego zasługi i modlitwy zostali wybawieni od ognia piekielnego i wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde gozas la visión de tu Dios, vuelve tus ojos con misericordia hacia mí; pide a Dios por mí esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Haz volver al camino recto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderosa protección con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar cada día, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones, seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! z tego jasnego tronu, gdzie oglądasz swego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce najbardziej potrzebne w moich obecnych potrzebach, duchowych czy doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, świętym Kościele i tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz smutnych, zaopatrz potrzebujących, umocnij słabych duchem, broń uciśnionych, wspomagaj chorych; niech wszyscy poznają skutki twojej potężnej opieki u Tego, który jest najwyższym dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godni obietnic Chrystusa.\n\nMódlmy się: Boże, który uczciłeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy przez jego zasługi i modlitwy zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde disfrutas la visión de tu Dios, vuelve tus ojos compasivos hacia mí; pide a Dios por mí esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Devuelve al camino correcto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar diariamente, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! Z tego jasnego tronu, gdzie oglądasz swojego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce, które są najbardziej potrzebne w moich obecnych potrzebach, duchowych lub doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Pasterzu, o świętym Kościele i o tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz smutnych, zaopatrz potrzebujących, umocnij słabych duchem, broń uciśnionych, pomagaj chorym; niech wszyscy poznają skutki Twojej potężnej opieki u Tego, który jest najwyższym Dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godni obietnic Chrystusa.\n\nMódlmy się: Boże, który uczciłeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde gozas la visión de tu Dios, vuelve tus ojos compasivos hacia mí; pide a Dios por mí esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si ello es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Haz volver al camino recto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar diariamente, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! z tego jasnego tronu, gdzie oglądasz swego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce najbardziej potrzebne w moich obecnych potrzebach, duchowych lub doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, świętym Kościele i tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz strapionych, zaopatrz potrzebujących, umocnij słabych duchem, broń uciśnionych, wspomagaj chorych; niech wszyscy poznają skutki Twojej potężnej opieki u Tego, który jest najwyższym Dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godni obietnic Chrystusa.\n\nMódlmy się: Boże, który uczciłeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam raczyć, prosimy Cię, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde disfrutas la visión de tu Dios, vuelve tus ojos con compasión hacia mí; pide a Dios por mí esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si ello es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Devuelve al camino recto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar diariamente, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! Z tego jasnego tronu, gdzie oglądasz swego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce najpotrzebniejsze w moich obecnych potrzebach, duchowych czy doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, o świętym Kościele i o tym pobożnym mieście. Przywróć na drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz strapionych, wspomóż potrzebujących, umocnij słabych duchem, broń uciśnionych, pomagaj chorym; niech wszyscy poznają skutki Twojej potężnej opieki u Tego, który jest najwyższym Dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godnymi obietnic Chrystusa.\n\nMódlmy się: Boże, który zaszczyciłeś i nie przestajesz codziennie zaszczycać swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde disfrutas la visión de tu Dios, vuelve tus ojos con compasión hacia mí; pide a Dios por mí aquellas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si ello es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Haz volver al camino recto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\n\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar diariamente, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! Z tego jasnego tronu, gdzie oglądasz swego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce, które są najpotrzebniejsze w moich obecnych potrzebach, czy to duchowych, czy doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, o świętym Kościele i o tym pobożnym mieście. Przywróć na drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pocieszaj smutnych, troszcz się o potrzebujących, umacniaj słabych duchem, broń uciśnionych, pomagaj chorym; niech wszyscy poznają skutki twojej potężnej opieki u Tego, który jest najwyższym Dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godni obietnic Chrystusa.\n\nMódlmy się: Boże, któryś uhonorował i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde disfrutas la visión de tu Dios, vuelve tus ojos con compasión hacia mí; pide a Dios por mí esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si es conveniente para mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Devuelve al camino recto de la salvación a aquellos que viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar diariamente, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! Z tego jasnego tronu, gdzie oglądasz swego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce, które są najpotrzebniejsze w moich obecnych potrzebach, duchowych lub doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Pasterzu, o świętym Kościele i o tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz strapionych, zaopatrz potrzebujących, umocnij słabych duchem, broń uciśnionych, wspomagaj chorych; niech wszyscy poznają skutki Twojej potężnej opieki u Tego, który jest najwyższym dawcą wszelkiego dobra. Amen.\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godni obietnic Chrystusa.\n\nMódlmy się: Boże, który uhonorowałeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde gozas la visión de tu Dios, vuelve tus ojos compasivos hacia mí; pide por mí a Dios esas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si ello conviene a mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Devuelve al camino recto de la salvación a quienes viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado, y no cesas de honrar cada día, a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! z tego jasnego tronu, gdzie oglądasz swego Boga, zlituj się nade mną; wyproś u Boga dla mnie te łaski i pomoce, które są najbardziej potrzebne w moich obecnych potrzebach, duchowych lub doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli jest to stosowne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, świętym Kościele i tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz strapionych, zaopatrz potrzebujących, umocnij słabych duchem, broń uciśnionych, pomagaj chorym; niech wszyscy poznają skutki Twojej potężnej opieki u Tego, który jest najwyższym Dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy się stali godnymi obietnic Chrystusa.\n\nMódlmy się: Boże, który uhonorowałeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nGlorious Nicholas, my own protector! from that bright throne where thou dost enjoy the vision of thy God, in pity turn thine eyes upon me; ask for me from God those graces and helps most seasonable in my present necessities, whether spiritual or temporal, and especially the grace of (mention request here…) if such be expedient for my eternal welfare. Forget not, glorious and holy bishop, our true Sovereign Pontiff, the holy Church, and this pious city. Bring back to the right way of salvation those who live steeped in sin, or buried in the darkness of ignorance, error, and heresy. Comfort the sorrowing, provide for the needy, strengthen the weak-hearted, defend the oppressed, help the sick; let all know the effects of thy powerful patronage with Him Who is the supreme giver of all good. Amen Our Father, Hail Mary, Glory be to the Father. V. Pray for us, blessed Nicholas. R. That we may be made worthy of the promises of Christ.\n\nLet us pray: God, Who has honored, and ceasest not daily to honor, Thy high-priest and glorious confessor, blessed Nicholas, with innumerable miracles: grant, we beseech Thee, that, by his merits and prayers, we may be delivered from the fires of hell and from all other dangers. Through Christ our Lord. Amen.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\n¡Glorioso Nicolás, mi propio protector! desde ese brillante trono donde disfrutas la visión de tu Dios, vuelve tus ojos con compasión hacia mí; pide a Dios por mí aquellas gracias y ayudas más oportunas en mis necesidades presentes, sean espirituales o temporales, y especialmente la gracia de (mencionar la petición aquí…) si ello conviene a mi bienestar eterno. No olvides, glorioso y santo obispo, a nuestro verdadero Soberano Pontífice, a la santa Iglesia y a esta piadosa ciudad. Devuelve al camino recto de la salvación a aquellos que viven sumidos en el pecado, o enterrados en la oscuridad de la ignorancia, el error y la herejía. Consuela a los afligidos, provee a los necesitados, fortalece a los de corazón débil, defiende a los oprimidos, ayuda a los enfermos; que todos conozcan los efectos de tu poderoso patrocinio con Aquel que es el supremo dador de todo bien. Amén.\n\nPadre Nuestro, Ave María, Gloria al Padre.\nV. Ruega por nosotros, bendito Nicolás.\nR. Para que seamos dignos de las promesas de Cristo.\n\nOremos: Dios, que has honrado y no cesas de honrar diariamente a tu sumo sacerdote y glorioso confesor, el bienaventurado Nicolás, con innumerables milagros: concédenos, te suplicamos, que por sus méritos y oraciones seamos librados de los fuegos del infierno y de todos los demás peligros. Por Cristo nuestro Señor. Amén.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nChwalebny Mikołaju, mój własny obrońco! z tego jasnego tronu, gdzie oglądasz swojego Boga, zmiłuj się nade mną; wyproś u Boga dla mnie te łaski i pomoce, które są najbardziej potrzebne w moich obecnych potrzebach, duchowych lub doczesnych, a szczególnie łaskę (wymień prośbę tutaj…), jeśli będzie to korzystne dla mojego wiecznego zbawienia. Nie zapominaj, chwalebny i święty biskupie, o naszym prawdziwym Najwyższym Kapłanie, świętym Kościele i tym pobożnym mieście. Przywróć na właściwą drogę zbawienia tych, którzy żyją pogrążeni w grzechu lub pogrzebani w ciemnościach niewiedzy, błędu i herezji. Pociesz smutnych, zaopatrz potrzebujących, umocnij słabych na duchu, broń uciśnionych, pomagaj chorym; niech wszyscy poznają skutki twojej potężnej opieki u Tego, który jest najwyższym dawcą wszelkiego dobra. Amen\n\nOjcze nasz, Zdrowaś Maryjo, Chwała Ojcu.\n\nW. Módl się za nami, błogosławiony Mikołaju.\nR. Abyśmy zostali uznani za godnych obietnic Chrystusa.\n\nMódlmy się: Boże, który uczciłeś i nie przestajesz codziennie czcić swego arcykapłana i chwalebnego wyznawcę, błogosławionego Mikołaja, niezliczonymi cudami: racz nam łaskawie udzielić, abyśmy dzięki jego zasługom i modlitwom zostali wybawieni od ognia piekielnego i od wszelkich innych niebezpieczeństw. Przez Chrystusa, Pana naszego. Amen.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_nicholas.jpg",
+  "sourceFacts": {
+    "starts": "November 27Feastday:December 6Birth:270Death:343Patron saint of bakers, children, coopers, sailors, fishermen, merchants, broadcasters, the falsely accused, repentant thieves, brewers, pharmacists, archers, pawnbrokers, Russia, Greece, Moscow, and Amsterdam 📱",
+    "feast": "December 6Birth:270Death:343Patron saint of bakers, children, coopers, sailors, fishermen, merchants, broadcasters, the falsely accused, repentant thieves, brewers, pharmacists, archers, pawnbrokers, Russia, Greece, Moscow, and Amsterdam 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "624b266ac9f1f7005f8e2496a722b5afa92cccdca4a6541af3269459ce549595",
+        "langs": {
+          "es": {
+            "translatedHash": "02d3de94a106a7bf0145d0151d47b31cc9edd8226ca5ad9121057d51eedfe6a7",
+            "updatedAt": "2026-02-25T17:18:31.023Z"
+          },
+          "pl": {
+            "translatedHash": "05b00b5bb54b28b843ed21c32127f62d3b90c1cbc668184d346d50078b1e33a8",
+            "updatedAt": "2026-02-25T17:18:31.797Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "7b7028508a138f7ea54e75abee430f48d70dd3f148e96df638e5cca23569b5c2",
+        "langs": {
+          "es": {
+            "translatedHash": "1f556253329325ae22fc75d49c97fa0fbe5017eae82e75b26088da90e40fdaeb",
+            "updatedAt": "2026-02-25T17:18:33.731Z"
+          },
+          "pl": {
+            "translatedHash": "5e888ba0eca85c879efda38c56c60b2699ae089f7b4106d8160c2b3613a35298",
+            "updatedAt": "2026-02-25T17:18:35.260Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "3d118547ab8a96fe1d0aee95905dc4eed0b522544825b7f293bbeaf8f8bfdfcf",
+        "langs": {
+          "es": {
+            "translatedHash": "69f80269affcda3cd54655ce456d8227fb6e17ab8b3b6dc8efbe4cc4392a712c",
+            "updatedAt": "2026-02-25T17:18:42.613Z"
+          },
+          "pl": {
+            "translatedHash": "5a82323fddda3907e1285768baa89c79e86d711ef9fc4fd4157f5b3b6dcdc089",
+            "updatedAt": "2026-02-25T17:18:48.659Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "e4b5f27ceb12ad67649bf0f16c9e0ff52f4516b94d8ed1535fd691d927a32731",
+        "langs": {
+          "es": {
+            "translatedHash": "5182d88ed9f47f719ec34a05344c4faf7d4d91bf73159e4a0f8d6b27ac01b5d0",
+            "updatedAt": "2026-02-25T17:18:53.481Z"
+          },
+          "pl": {
+            "translatedHash": "1f32ebc3d89baeb54e8b001899840ad8051cf7d3acdbc40311c374987d871334",
+            "updatedAt": "2026-02-25T17:19:01.047Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "fb5698446d7d955016dee0f9ba593cb922699df7f0175e2ddb68b7e184a09273",
+        "langs": {
+          "es": {
+            "translatedHash": "7937a4f9d254a353473c44edb8df4fdca8c8249e48851cc46ba14288a252aa49",
+            "updatedAt": "2026-02-25T17:19:07.466Z"
+          },
+          "pl": {
+            "translatedHash": "3fd43653d5beb964d0c99c9a847c599304f839dcf4ad8dda923c1c383798e68a",
+            "updatedAt": "2026-02-25T17:19:14.333Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "71a2270114aad8c40e7fa9ba9622adf87b38c4b1be173df3ab1a4c54144d4317",
+        "langs": {
+          "es": {
+            "translatedHash": "0be09a7d64ff224623714c84e597f26d6d77990aef9c5edd4556dbddbcfdc653",
+            "updatedAt": "2026-02-25T17:19:19.434Z"
+          },
+          "pl": {
+            "translatedHash": "d18ab8f514e7b963e5c3e75431eee6c3155cc8d2caa47f745b2df30bd55ca915",
+            "updatedAt": "2026-02-25T17:19:27.444Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "5bdf7230d6075c84e94c719748ac5acf62bf99e93d3bc4f53d44eb57842fcc0f",
+        "langs": {
+          "es": {
+            "translatedHash": "5aa9c13400a5fdbe0558ff1e494fdfd1e0c403b9ceb5ea837d55acf2e313f671",
+            "updatedAt": "2026-02-25T17:19:33.934Z"
+          },
+          "pl": {
+            "translatedHash": "83189544982e16adb38cde90b3e242a249bf5e783ea1e8f2f9482f89a8c821f5",
+            "updatedAt": "2026-02-25T17:19:41.036Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "85d518c45c9a656249c525e480772dbfe785180088a064fd82bbe7f3ab1ea6b6",
+        "langs": {
+          "es": {
+            "translatedHash": "121c3947b1c7c85f84b338bbdc48c71cf6c0c90ad82449e4270bdffa7fd9f9e8",
+            "updatedAt": "2026-02-25T17:19:45.320Z"
+          },
+          "pl": {
+            "translatedHash": "c3921f9ed16ce9fd30f6da69b81c6eb323012e5623cc50dd50b42488dcbc10b0",
+            "updatedAt": "2026-02-25T17:19:57.433Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "6a58c0a73a65f38df27a987c441154641a081ca6f99618cfc45cc8b4846a2bd5",
+        "langs": {
+          "es": {
+            "translatedHash": "67766a908a40f793f3635eefb01e0e9e213e13a8e8f40df348b6305a98201f34",
+            "updatedAt": "2026-02-25T17:20:03.620Z"
+          },
+          "pl": {
+            "translatedHash": "b33e0fa0f77e172cdaad093ef0fbe344c240cefaf8414c2506a20d5637061dc9",
+            "updatedAt": "2026-02-25T17:20:10.556Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "79c7b58fda21457e2687509bb37e0d32f45c02866d26ac278f2b93bef3ceb910",
+        "langs": {
+          "es": {
+            "translatedHash": "ad24f1ca39776f902262e921ce9e1c6a39aef5096cbbefab964a96e68a816f2d",
+            "updatedAt": "2026-02-25T17:20:16.396Z"
+          },
+          "pl": {
+            "translatedHash": "08f9c3e0d843a3fd33212246fba9b1ae4d98addd1a26cbfc772c26412d1cd872",
+            "updatedAt": "2026-02-25T17:20:22.127Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "84d1e7531b3b05bb607d6aaa07494237ae43e89dbeb6fe9dc2b6becc9b2779fd",
+        "langs": {
+          "es": {
+            "translatedHash": "28a2cb5da217e9a51cabf54c1555bc2472f7c2d748903c116d63100b25e5159f",
+            "updatedAt": "2026-02-25T17:20:27.773Z"
+          },
+          "pl": {
+            "translatedHash": "1b0700f734e2e7e38b0698ae7a7992323cd215d6f04aa1b9614f53d5f6649c4d",
+            "updatedAt": "2026-02-25T17:20:34.412Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Nicolás de Mira",
+  "title_pl": "Nowenna do Świętego Mikołaja z Miry",
+  "description_es": "San Nicolás fue obispo en Mira (Turquía) en el siglo IV, conocido por combatir la herejía arriana y por dar regalos a los niños y a las familias necesitadas. Reza esta novena por tus hijos.",
+  "description_pl": "Święty Mikołaj był biskupem w Mirze (Turcja) w IV wieku, znanym z walki z herezją ariańską oraz z obdarowywania prezentami dzieci i rodzin w potrzebie. Módl się tę nowennę za swoje dzieci.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-nicholas-of-myra-novena/"
+  ]
+}

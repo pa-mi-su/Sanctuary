@@ -1,0 +1,48 @@
+{
+  "id": "08-23_saint_rose_of_lima_virgin_optional_memorial",
+  "name": "Saint Rose of Lima, Virgin—Optional Memorial",
+  "mmdd": "08-23",
+  "feast": "The Twenty-Third Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simon_Stock"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-23_saint_rose_of_lima_virgin_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "727d99ca0100b0440a6b6ddcc117ca88dc2757ab975a11577f6247280cb26731",
+        "langs": {
+          "es": {
+            "translatedHash": "9ddf53d1bca99c9cede63812202d5e28a2f8222c31ad5bf8ead554c528415cda",
+            "updatedAt": "2026-02-25T00:20:46.817Z"
+          },
+          "pl": {
+            "translatedHash": "856e4db74ed2b1f37ff2e40752bbbbbcd3ab3713e510c00f747821aed5d2d48d",
+            "updatedAt": "2026-02-25T00:20:48.277Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4559929e51ca6309ba61ecc35eeb5b8252144af5f0beb9a64de6ad5ec6682ad8",
+        "langs": {
+          "es": {
+            "translatedHash": "e7baa2b7c5923024367abe310cb25e801bf6d9f5400b258047d41d444123d4e9",
+            "updatedAt": "2026-02-25T00:20:48.920Z"
+          },
+          "pl": {
+            "translatedHash": "c78f4364febe930d1322ac659cbcf5f5016daa8917713e51b53cca411e820c1d",
+            "updatedAt": "2026-02-25T00:20:49.541Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Rosa de Lima, Virgen—Memoria Opcional",
+  "name_pl": "Święta Róża z Limy, Dziewica — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Tercer Día de Agosto",
+  "feast_pl": "Dwudziesty Trzeci Dzień Sierpnia"
+}

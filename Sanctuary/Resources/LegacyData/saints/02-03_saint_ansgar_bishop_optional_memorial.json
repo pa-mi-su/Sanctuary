@@ -1,0 +1,48 @@
+{
+  "id": "02-03_saint_ansgar_bishop_optional_memorial",
+  "name": "Saint Ansgar, Bishop—Optional Memorial",
+  "mmdd": "02-03",
+  "feast": "The Third Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-03_saint_ansgar_bishop_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9fde2293e9012d0dc211cee2e175c507d624ea6d0ec110b0783e522b989040ae",
+        "langs": {
+          "es": {
+            "translatedHash": "b9fb327b3018829f8a21bd4e955837208739f887fc90cae11116a8726677ae46",
+            "updatedAt": "2026-02-24T22:28:09.414Z"
+          },
+          "pl": {
+            "translatedHash": "3bddb76c1ebb9a941c379edfcda1845325c7623afa4c139691029d7aeb435b52",
+            "updatedAt": "2026-02-24T22:28:10.174Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ebb46b816625937f7599f0d28daa22e0c415d70120bb4cf34dadc2ded9fecf45",
+        "langs": {
+          "es": {
+            "translatedHash": "450844de212eff2d78cd8ac22c354fc7f30b4c1114a8a1bd423636bc3372a500",
+            "updatedAt": "2026-02-24T22:28:11.312Z"
+          },
+          "pl": {
+            "translatedHash": "49debd6439275dc0436e6ea149506613beae84631287775b9a1674dc04d7f273",
+            "updatedAt": "2026-02-24T22:28:11.979Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ansgar, Obispo—Memoria Opcional",
+  "name_pl": "Święty Ansgar, biskup — wspomnienie dowolne",
+  "feast_es": "El Tercer Día de Febrero",
+  "feast_pl": "Trzeci dzień lutego"
+}

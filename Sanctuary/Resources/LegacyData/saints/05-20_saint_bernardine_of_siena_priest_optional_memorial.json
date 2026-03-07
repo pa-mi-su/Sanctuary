@@ -1,0 +1,48 @@
+{
+  "id": "05-20_saint_bernardine_of_siena_priest_optional_memorial",
+  "name": "Saint Bernardine of Siena, Priest—Optional Memorial",
+  "mmdd": "05-20",
+  "feast": "The Twentieth Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernardine_of_Feltre"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-20_saint_bernardine_of_siena_priest_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d3398175e8e6d8de15369bd2d9d102756391ad3698c5b66980db4b88c654786d",
+        "langs": {
+          "es": {
+            "translatedHash": "50ee44728a4b6a726108eac4dab49b41f374b5e88e2fcac04a9ee828d6339794",
+            "updatedAt": "2026-02-24T23:28:41.453Z"
+          },
+          "pl": {
+            "translatedHash": "b0388dd3aa9fd3c152d0d0e645bdc9a66ac015ef587ce1af3e089966b570b7af",
+            "updatedAt": "2026-02-24T23:28:42.412Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "71af8ff965c25a1d2c6e130e64db6858965c6e41c753e228be54129ef3d1bf62",
+        "langs": {
+          "es": {
+            "translatedHash": "178fbbdf9d16d6ec40e926121633f0c717b19c9df28ad0db77a413ddac274486",
+            "updatedAt": "2026-02-24T23:28:42.961Z"
+          },
+          "pl": {
+            "translatedHash": "e5cbefd974f88477c64ccd149f80b3c8f0839c9c0c699636c361f63f0919eadc",
+            "updatedAt": "2026-02-24T23:28:43.551Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bernardino de Siena, Presbítero—Memoria Opcional",
+  "name_pl": "Święty Bernardyn ze Sieny, kapłan — wspomnienie dowolne",
+  "feast_es": "El vigésimo día de mayo",
+  "feast_pl": "Dwudziesty dzień maja"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "06-16_saint_ferreol",
+  "name": "Saint Ferreol",
+  "mmdd": "06-16",
+  "feast": "The Sixteenth Day of June",
+  "summary": "Saint Ferréol may refer to:",
+  "biography": "Saint Ferreolus may refer to:Ferreolus of Besançon, priest and martyr, feast day June 16\nFerréol of Uzès (530–581), Catholic saint and bishop, feast day January 4\nFerréol of Grenoble, or Ferjus, Bishop of Grenoble",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ferr%C3%A9ol",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-16_saint_ferreol.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bc98f2cf796a39466cf92f9eff874f8f4d06280c0ef8c3fb2f15d49f14183b6b",
+        "langs": {
+          "es": {
+            "translatedHash": "3ee09de00e06c318d6814da52d5d2f8b86d9c2ef4be704ef691bd4f3f2e8e857",
+            "updatedAt": "2026-02-24T23:43:03.795Z"
+          },
+          "pl": {
+            "translatedHash": "367bca81bfd109e019bffac0dd7bc0531aadd51e7503cdf0bd8cd39e6b64ace9",
+            "updatedAt": "2026-02-24T23:43:04.342Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9052f9602a1aedad75baf50e717c11ad00825af19ad8e7404214a087092733c7",
+        "langs": {
+          "es": {
+            "translatedHash": "11955b4f8309216c213b8b114722942698cefeb0093c9e98bf1a607126a3ad3b",
+            "updatedAt": "2026-02-24T23:43:05.028Z"
+          },
+          "pl": {
+            "translatedHash": "de60e778b0b68de978346beadf5c78f006275721c3b88144434f68a022285fe1",
+            "updatedAt": "2026-02-24T23:43:05.696Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "4783c1219ef07db56f7f2ca3c142ea770ea6976b8194fe7f95455a1864aed351",
+        "langs": {
+          "es": {
+            "translatedHash": "da591e8b91307fac4664e3fb4fff234d8da4cf98b6cf1b64b28e88692c63be2b",
+            "updatedAt": "2026-02-24T23:43:06.686Z"
+          },
+          "pl": {
+            "translatedHash": "f87c10f8226da7892ca86c328781c4dcbd35eee339672307ca08d839a445d147",
+            "updatedAt": "2026-02-24T23:43:07.407Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "92c69d100600596fd588d1c18ba2d82f19f1ee6ccae823b02277c3d08ece2474",
+        "langs": {
+          "es": {
+            "translatedHash": "f87f985ed85d00ec1d3df8f845235e53a10ffe5b14ee00dcc0215620f9b4db0e",
+            "updatedAt": "2026-02-24T23:43:08.842Z"
+          },
+          "pl": {
+            "translatedHash": "a33e0605b3b740e8bab662a00a796893523a3341149d8aaa2bb47ee0d8464bd5",
+            "updatedAt": "2026-02-24T23:43:10.833Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ferreol",
+  "name_pl": "Święty Ferreol",
+  "feast_es": "El Dieciséis de Junio",
+  "feast_pl": "Szesnasty dzień czerwca",
+  "summary_es": "San Ferreolo puede referirse a:",
+  "summary_pl": "Święty Ferréol może odnosić się do:",
+  "biography_es": "San Ferreolo puede referirse a:  \nFerreolo de Besanzón, sacerdote y mártir, fiesta el 16 de junio  \nFerréol de Uzès (530–581), santo católico y obispo, fiesta el 4 de enero  \nFerréol de Grenoble, o Ferjus, obispo de Grenoble",
+  "biography_pl": "Święty Ferreolus może odnosić się do:  \nFerreolus z Besançon, kapłan i męczennik, wspomnienie 16 czerwca  \nFerréol z Uzès (530–581), święty katolicki i biskup, wspomnienie 4 stycznia  \nFerréol z Grenoble, zwany także Ferjus, biskup Grenoble"
+}

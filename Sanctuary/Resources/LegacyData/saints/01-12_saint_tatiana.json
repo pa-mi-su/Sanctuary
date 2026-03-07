@@ -1,0 +1,80 @@
+{
+  "id": "01-12_saint_tatiana",
+  "name": "Saint Tatiana",
+  "mmdd": "01-12",
+  "feast": "The Twelfth Day of January",
+  "summary": "Saint Tatiana was a Christian martyr in 3rd-century Rome during the reign of Emperor Severus Alexander.",
+  "biography": "Saint Tatiana was a Christian martyr in 3rd-century Rome during the reign of Emperor Severus Alexander.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tatiana_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-12_saint_tatiana.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8b88d14b80e5552cab21c25c27a8f03f74b86f14e0dbf46f6da436416646bea9",
+        "langs": {
+          "es": {
+            "translatedHash": "0ea5dfa555b754aa831d0868794dd914610fb674d4ddbaba975d3c919940ac26",
+            "updatedAt": "2026-02-24T22:12:37.271Z"
+          },
+          "pl": {
+            "translatedHash": "1b71fdf5cea6c39addf13c0dda6665ac802209d81ecc13bd2985f87c24b5e3e8",
+            "updatedAt": "2026-02-24T22:12:37.841Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8c0f455065c573f4409871dd93f20af5f9a4672ffc836548a86ec0bb69920f86",
+        "langs": {
+          "es": {
+            "translatedHash": "f35d6556a0a350b5e7cf414d8930b8c4d64f8c9754251cca3846a3f2bd18e9c9",
+            "updatedAt": "2026-02-24T22:12:38.509Z"
+          },
+          "pl": {
+            "translatedHash": "2c1f7ca223dabc2740e1bda9d0e2f4f9ba2544759cbee3e1de48e8ece3db508e",
+            "updatedAt": "2026-02-24T22:12:39.108Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7061dfed05cda12c3cb8c8fbd37e5194c6428d70019c26cc60b9b609d355b131",
+        "langs": {
+          "es": {
+            "translatedHash": "88b059f8cb58c725516da6e04a158d4d61016ce01081cd3c8f91e1d8f8718429",
+            "updatedAt": "2026-02-24T22:12:39.811Z"
+          },
+          "pl": {
+            "translatedHash": "2bdebacd3feeee69cc133a8280783167a562eb75512a5747b3f6ea29c6281607",
+            "updatedAt": "2026-02-24T22:12:41.007Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7061dfed05cda12c3cb8c8fbd37e5194c6428d70019c26cc60b9b609d355b131",
+        "langs": {
+          "es": {
+            "translatedHash": "88b059f8cb58c725516da6e04a158d4d61016ce01081cd3c8f91e1d8f8718429",
+            "updatedAt": "2026-02-24T22:12:42.013Z"
+          },
+          "pl": {
+            "translatedHash": "744efeae374f0b71045ac153bb0bfab79e5f823b50216b001a1ea1734fbe0368",
+            "updatedAt": "2026-02-24T22:12:45.335Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Tatiana",
+  "name_pl": "Święta Tatiano",
+  "feast_es": "El duodécimo día de enero",
+  "feast_pl": "Dwunasty dzień stycznia",
+  "summary_es": "Santa Tatiana fue una mártir cristiana en la Roma del siglo III durante el reinado del emperador Severo Alejandro.",
+  "summary_pl": "Święta Tatiana była chrześcijańską męczennicą w Rzymie III wieku, za panowania cesarza Sewera Aleksandra.",
+  "biography_es": "Santa Tatiana fue una mártir cristiana en la Roma del siglo III durante el reinado del emperador Severo Alejandro.",
+  "biography_pl": "Święta Tatiana była chrześcijańską męczennicą w III-wiecznym Rzymie za panowania cesarza Sewera Aleksandra."
+}

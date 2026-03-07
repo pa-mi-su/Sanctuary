@@ -1,0 +1,81 @@
+{
+  "id": "01-14_saint_felix",
+  "name": "Saint Felix",
+  "mmdd": "01-14",
+  "feast": "The Fourteenth Day of January",
+  "summary": "Felix of Nola was a Christian priest at Nola near Naples in Italy. He sold off his possessions to give to the poor, but was arrested and tortured for his Christian faith during the persecution of Roman Emperor Decius. He was believed to have died a martyr's death during the persecution of Decius or Valerian but is now listed in the General Roman Calendar as a Confessor of the Faith who survived his tortures.",
+  "biography": "Life\n\nFelix was the elder son of Hermias, a Syrian centurion who had retired to Nola, Italy. After his father's death, Felix sold off most of his property and possessions, gave the proceeds to the poor, and pursued a clerical vocation. Felix was ordained by and worked with Saint Maximus of Nola.\nWhen bishop Maximus fled to the mountains to escape the persecution of the Roman emperor Decius, Felix was arrested and beaten for his faith instead. He escaped prison, according to legend, being freed by an angel so that he could help bishop Maximus. Felix found Maximus alone, ill, and helpless and hid him from soldiers in a vacant building. When the two were safely inside, a spider quickly spun a web over the door, fooling the imperial forces into...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Nola",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-14_saint_felix.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "55b280a839ea4289584480ff1aabf39da39355798801eecb4bf5a7e9be5e1350",
+        "langs": {
+          "es": {
+            "translatedHash": "3e7c332fbfef345b43318fe1e97134259653a5386832f5f4edbdfe22ab8b0c60",
+            "updatedAt": "2026-02-24T22:13:57.041Z"
+          },
+          "pl": {
+            "translatedHash": "95c66afccab5cac216039b8223de86b987b661d8dabb1c30211f14b2aa81b33a",
+            "updatedAt": "2026-02-24T22:13:57.480Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "69cbfbabc5c56b88622506d73c1a99be57e379a6cc0f3e5aa8fe9c86e4510a72",
+        "langs": {
+          "es": {
+            "translatedHash": "b4ec34ad66a2ed5e1b84fcce325ba1efae39e2e4eea3e831e85957ccfad08af1",
+            "updatedAt": "2026-02-24T22:13:58.281Z"
+          },
+          "pl": {
+            "translatedHash": "16b8ba99688ad244408ebba2460f67f87ed069f2ebeed3a165d0aa8f48ecd7ac",
+            "updatedAt": "2026-02-24T22:13:59.060Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2520ac58eadb83f1b029ac3117368b1bb5b8d0697cfa552143996e8a62db907f",
+        "langs": {
+          "es": {
+            "translatedHash": "cbd2f1905296166f662b9535b49afc41387a596f1a5ba2f6f1b04e340da8ca39",
+            "updatedAt": "2026-02-24T22:14:00.964Z"
+          },
+          "pl": {
+            "translatedHash": "7c359cc82fd7da25c462a739388d59643ac84a08bff4904196669e7ca4a15934",
+            "updatedAt": "2026-02-24T22:14:03.796Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c4cad1b6dd68bb3d269ee28e7f96bbc0729b3103974080afb61bfcdd86aa9585",
+        "langs": {
+          "es": {
+            "translatedHash": "21b4bdf02975aee0a214ab335ce1eabc2270a380f3e577bee56a193d3a131d29",
+            "updatedAt": "2026-02-24T22:14:06.949Z"
+          },
+          "pl": {
+            "translatedHash": "001c00570f7094e80f08be0827d6103bf74135eb8180d46023f09d290ec1fb8f",
+            "updatedAt": "2026-02-24T22:14:11.856Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Félix",
+  "name_pl": "Święty Feliks",
+  "feast_es": "El día catorce de enero",
+  "feast_pl": "Czternasty dzień stycznia",
+  "summary_es": "Félix de Nola fue un sacerdote cristiano en Nola, cerca de Nápoles en Italia. Vendió sus posesiones para dárselas a los pobres, pero fue arrestado y torturado por su fe cristiana durante la persecución del emperador romano Decio. Se cree que murió como mártir durante la persecución de Decio o Valeriano, pero ahora está incluido en el Calendario Romano General como Confesor de la Fe que sobrevivió a sus torturas.",
+  "summary_pl": "Feliks z Noli był chrześcijańskim kapłanem w Noli koło Neapolu we Włoszech. Sprzedał swoje dobra, aby dać je ubogim, ale został aresztowany i torturowany za swoją wiarę chrześcijańską podczas prześladowań cesarza rzymskiego Decjusza. Uważano, że zmarł śmiercią męczeńską podczas prześladowań Decjusza lub Waleriusza, lecz obecnie jest wymieniany w Ogólnym Kalendarzu Rzymskim jako Wyznawca Wiary, który przeżył swoje tortury.",
+  "biography_es": "Vida\n\nFelix era el hijo mayor de Hermias, un centurión sirio que se había retirado a Nola, Italia. Tras la muerte de su padre, Felix vendió la mayor parte de sus propiedades y posesiones, entregó el dinero a los pobres y siguió una vocación clerical. Felix fue ordenado por y trabajó con San Máximo de Nola.  \nCuando el obispo Máximo huyó a las montañas para escapar de la persecución del emperador romano Decio, Felix fue arrestado y golpeado por su fe en su lugar. Según la leyenda, escapó de la prisión, siendo liberado por un ángel para poder ayudar al obispo Máximo. Felix encontró a Máximo solo, enfermo e indefenso, y lo escondió de los soldados en un edificio vacío. Cuando ambos estuvieron a salvo dentro, una araña rápidamente tejió una telaraña sobre la puerta, engañando a las fuerzas imperiales para que...",
+  "biography_pl": "Życie\n\nFeliks był starszym synem Hermiasa, syryjskiego centuriona, który przeszedł na emeryturę w Noli we Włoszech. Po śmierci ojca Feliks sprzedał większość swojego majątku i dóbr, przekazał dochód ubogim i podjął się powołania duchownego. Feliks został wyświęcony przez św. Maksymusa z Noli i współpracował z nim.\n\nGdy biskup Maksymus uciekł w góry, aby uniknąć prześladowań cesarza rzymskiego Decjusza, Feliks został aresztowany i pobity za swoją wiarę. Według legendy uciekł z więzienia, uwolniony przez anioła, aby mógł pomóc biskupowi Maksymusowi. Feliks odnalazł Maksymusa samotnego, chorego i bezradnego, i ukrył go przed żołnierzami w pustym budynku. Gdy obaj byli bezpieczni w środku, pająk szybko utkał sieć na drzwiach, wprowadzając w błąd siły cesarskie..."
+}

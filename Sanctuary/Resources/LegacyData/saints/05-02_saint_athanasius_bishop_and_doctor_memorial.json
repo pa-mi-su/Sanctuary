@@ -1,0 +1,48 @@
+{
+  "id": "05-02_saint_athanasius_bishop_and_doctor_memorial",
+  "name": "Saint Athanasius, Bishop and Doctor—Memorial",
+  "mmdd": "05-02",
+  "feast": "The Second Day of May",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_Fathers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-02_saint_athanasius_bishop_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d5cbe38f9eefad285aa33ac01647d7b73970afffe408783d35495092370c153a",
+        "langs": {
+          "es": {
+            "translatedHash": "517919e7aacfdd9b49c8f8448c41f698ec4bb02c71cefc5d8a2621a9c91d2658",
+            "updatedAt": "2026-02-24T23:18:53.573Z"
+          },
+          "pl": {
+            "translatedHash": "cf4b2da92cc8385984ca049f5e6a05ac269ca4ddeeb4dfd8adbd279460b4e652",
+            "updatedAt": "2026-02-24T23:18:54.353Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "38ac97413134cd3b9a29b18d068af59ffefa4509ebded9b01f77cd387c1d2507",
+        "langs": {
+          "es": {
+            "translatedHash": "66590cc50944058c277ecdda85dbbf99cbdb0e1267ff3c1f1cbf25cc962fda06",
+            "updatedAt": "2026-02-24T23:18:54.908Z"
+          },
+          "pl": {
+            "translatedHash": "cb4676c518d8d90aa1f04313e96321cb82ac6f9e87d1fa9589c6aff972f8f078",
+            "updatedAt": "2026-02-24T23:18:55.550Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Atanasio, Obispo y Doctor—Memorial",
+  "name_pl": "Święty Atanazy, Biskup i Doktor Kościoła — Wspomnienie",
+  "feast_es": "El Segundo Día de Mayo",
+  "feast_pl": "Drugi Dzień Maja"
+}

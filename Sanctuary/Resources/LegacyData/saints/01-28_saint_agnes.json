@@ -1,0 +1,81 @@
+{
+  "id": "01-28_saint_agnes",
+  "name": "Saint Agnes",
+  "mmdd": "01-28",
+  "feast": "The Twenty-Eighth Day of January",
+  "summary": "Agnes of Rome was a Roman Christian adolescent who was executed for her faith in the 4th century. She is venerated as a virgin martyr and as a saint in the Catholic Church, Oriental Orthodox Church and the Eastern Orthodox Church, as well as the Anglican Communion and Lutheran Churches. She is one of several virgin martyrs commemorated by name in the Canon of the Mass, and one of many Christians martyred during the reign of the Roman emperor Diocletian.",
+  "biography": "Agnes of Rome (c. 291 – 21 January 304) was a Roman Christian adolescent who was executed for her faith in the 4th century. She is venerated as a virgin martyr and as a saint in the Catholic Church, Oriental Orthodox Church and the Eastern Orthodox Church, as well as the Anglican Communion and Lutheran Churches. She is one of several virgin martyrs commemorated by name in the Canon of the Mass, and one of many Christians martyred during the reign of the Roman emperor Diocletian.\nAgnes was born in 291 into Roman nobility, and raised as a Christian. She suffered martyrdom on 21 January 304, aged 12 or 13. Her high-ranking suitors, slighted by her resolute devotion to religious purity, sought to persecute her for her beliefs. Her father urged her to deny God, but she refused, and she was dragged naked through the streets to a brothel, then tried and sentenced to death. She was eventually beheaded, after attempts for her to be burnt at the stake failed. A few days after her death, her foster-sister Emerentiana was found praying by her tomb, and was stoned to death.\nAn early account of Agnes, stressing her young age, steadfastness and virginity was written by the 4th-century theologian,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agnes_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-28_saint_agnes.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "24ff85b911817d9e3d988e588fe0213a0a1243601535fc3030f196b452405585",
+        "langs": {
+          "es": {
+            "translatedHash": "de852a12fee7f41f54d9bc8749cbf58d95af918945df38d9575e71964ad971ff",
+            "updatedAt": "2026-02-24T22:23:53.101Z"
+          },
+          "pl": {
+            "translatedHash": "4a841ed57f8acc3e7388cfd2aef683469cebfacf843f06f9f5447ce4f1f83d42",
+            "updatedAt": "2026-02-24T22:23:53.619Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "375a05e416f95718f679858fe80709201ff30d311848c3cb55dd6490f72b10e0",
+        "langs": {
+          "es": {
+            "translatedHash": "f07af690972188b8d0bbfb1ecb12457914b51fafd048f7bc34b0d89040d4afdf",
+            "updatedAt": "2026-02-24T22:23:54.210Z"
+          },
+          "pl": {
+            "translatedHash": "5c366e0839b00482fa02f415d056c7392170f4114efd64e8b47bd55ea435ff57",
+            "updatedAt": "2026-02-24T22:23:54.825Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "021c87d9193b17bca3f53a8db097796ee93485c9397772856892fe317b32a169",
+        "langs": {
+          "es": {
+            "translatedHash": "b92509d33736131dd7a596bc9dfaa70ce7de96a4d46aa3602853779e410ec88e",
+            "updatedAt": "2026-02-24T22:23:56.909Z"
+          },
+          "pl": {
+            "translatedHash": "5035de3807e81787aed7a3d5f8413aed8baf4b80cc622091b2684318100ec92d",
+            "updatedAt": "2026-02-24T22:23:59.811Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2a464dd7348a27513c5274f2720be8b2b59194aac83d5dc5cfd12155bbc6e8e0",
+        "langs": {
+          "es": {
+            "translatedHash": "429b5d4d127d2117952fe6be3e0fa319a25472dd53594a7a827602bf070d8f6f",
+            "updatedAt": "2026-02-24T22:24:04.048Z"
+          },
+          "pl": {
+            "translatedHash": "1d1bd304453568d16dd4acf52c25c9330a59babf36c0bfb0e39ad5f543fc57f8",
+            "updatedAt": "2026-02-24T22:24:12.678Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Inés",
+  "name_pl": "Święta Agnieszka",
+  "feast_es": "El Vigésimo Octavo Día de Enero",
+  "feast_pl": "Dwudziesty ósmy dzień stycznia",
+  "summary_es": "Inés de Roma fue una adolescente cristiana romana que fue ejecutada por su fe en el siglo IV. Es venerada como virgen mártir y como santa en la Iglesia Católica, la Iglesia Ortodoxa Oriental y la Iglesia Ortodoxa Oriental, así como en la Comunión Anglicana y las Iglesias Luteranas. Es una de varias vírgenes mártires conmemoradas por su nombre en el Canon de la Misa, y una de muchos cristianos martirizados durante el reinado del emperador romano Diocleciano.",
+  "summary_pl": "Agnes z Rzymu była rzymską chrześcijańską nastolatką, która została stracona za wiarę w IV wieku. Jest czczona jako dziewicza męczennica i święta w Kościele katolickim, Kościele ortodoksyjnym orientalnym oraz Kościele prawosławnym wschodnim, a także w Komunii anglikańskiej i Kościołach luterańskich. Jest jedną z kilku dziewiczych męczennic wspominanych z imienia w Kanonie Mszy, oraz jedną z wielu chrześcijanek męczennic w czasie panowania cesarza rzymskiego Dioklecjana.",
+  "biography_es": "Inés de Roma (c. 291 – 21 de enero de 304) fue una adolescente cristiana romana que fue ejecutada por su fe en el siglo IV. Es venerada como virgen mártir y como santa en la Iglesia Católica, la Iglesia Ortodoxa Oriental y la Iglesia Ortodoxa Oriental, así como en la Comunión Anglicana y las Iglesias Luteranas. Es una de varias vírgenes mártires conmemoradas por nombre en el Canon de la Misa, y una de muchos cristianos martirizados durante el reinado del emperador romano Diocleciano.\n\nInés nació en 291 en la nobleza romana y fue criada como cristiana. Sufrió el martirio el 21 de enero de 304, a los 12 o 13 años. Sus pretendientes de alto rango, ofendidos por su resuelta devoción a la pureza religiosa, buscaron perseguirla por sus creencias. Su padre la instó a negar a Dios, pero ella se negó, y fue arrastrada desnuda por las calles hasta un burdel, luego juzgada y condenada a muerte. Finalmente fue decapitada, después de que fracasaran los intentos de quemarla en la hoguera. Pocos días después de su muerte, su hermana adoptiva Emerenciana fue encontrada rezando junto a su tumba y fue apedreada hasta morir.\n\nUn relato temprano de Inés, que enfatiza su juventud, firmeza y virginidad, fue escrito por el teólogo del siglo IV,...",
+  "biography_pl": "Agnes z Rzymu (ok. 291 – 21 stycznia 304) była rzymską chrześcijańską nastolatką, która została stracona za wiarę w IV wieku. Jest czczona jako dziewicza męczennica i święta w Kościele katolickim, Kościele ortodoksyjnym orientalnym i Kościele prawosławnym, a także w komunii anglikańskiej i kościołach luterańskich. Jest jedną z kilku dziewic-męczennic wspominanych z imienia w Kanonie Mszy oraz jedną z wielu chrześcijanek zamordowanych za panowania cesarza rzymskiego Dioklecjana.\n\nAgnes urodziła się w 291 roku w rzymskiej arystokracji i wychowywała się jako chrześcijanka. Zginęła jako męczennica 21 stycznia 304 roku, mając 12 lub 13 lat. Jej wysoko postawieni zalotnicy, urażeni jej zdecydowanym oddaniem czystości religijnej, starali się prześladować ją za jej przekonania. Jej ojciec namawiał ją, by wyrzekła się Boga, ale odmówiła, po czym została obnażona i przeciągnięta przez ulice do burdelu, a następnie osądzona i skazana na śmierć. Ostatecznie została ścięta, po nieudanych próbach spalenia jej na stosie. Kilka dni po jej śmierci jej przyrodnia siostra Emerentiana została znaleziona modlącą się przy jej grobie i ukamienowana na śmierć.\n\nWczesna relacja o Agnes, podkreślająca jej młody wiek, niezłomność i dziewictwo, została napisana przez teologa IV wieku,..."
+}

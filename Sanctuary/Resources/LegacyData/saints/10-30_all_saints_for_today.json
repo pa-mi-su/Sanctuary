@@ -1,0 +1,46 @@
+{
+  "id": "10-30_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-30",
+  "feast": "The Thirtieth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:58:48.610Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:58:49.264Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2b885f102e6281c5308511e4bcb3918163489578b4dc4f59e0da0349d50fbbd0",
+        "langs": {
+          "es": {
+            "translatedHash": "4f3b17f7ed6988ed87bf97e969fa6d0291291214cdd2323feaf27a23ad31fc84",
+            "updatedAt": "2026-02-25T00:58:49.852Z"
+          },
+          "pl": {
+            "translatedHash": "5431a0b4470406b9ccc370693d9383f1d65d4e0bc6705ccac4ebb6018f951208",
+            "updatedAt": "2026-02-25T00:58:50.525Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Trigésimo Día de Octubre",
+  "feast_pl": "Trzydziesty dzień października"
+}

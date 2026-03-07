@@ -1,0 +1,46 @@
+{
+  "id": "04-14_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-14",
+  "feast": "The Fourteenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:09:18.026Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:09:18.816Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "57fc672ee912d0bf67e19f65612bce2a928c7df26879b39bb8ff92914b9ffa84",
+        "langs": {
+          "es": {
+            "translatedHash": "1716ec1609774ff59064bb5d986bf9eaf361dc4523db4bb4e3b0fd18af14cadf",
+            "updatedAt": "2026-02-24T23:09:19.410Z"
+          },
+          "pl": {
+            "translatedHash": "cb5450b6326ac53046c229624e94de59179d39f80bd8ab59e8364b2acc35b2bb",
+            "updatedAt": "2026-02-24T23:09:20.251Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día catorce de abril",
+  "feast_pl": "Czternasty dzień kwietnia"
+}

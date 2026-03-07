@@ -1,0 +1,79 @@
+{
+  "id": "01-26_saint_titus",
+  "name": "Saint Titus",
+  "mmdd": "01-26",
+  "feast": "The Twenty-Sixth Day of January",
+  "summary": "Titus was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.",
+  "biography": "Titus ( TY-təs; Ancient Greek: Τίτος, Títos) was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete. Titus brought a fundraising letter from Paul to Corinth, to collect for the poor in Jerusalem. According to Jerome, Titus was the amanuensis of this epistle (2 Corinthians). Later, on Crete, Titus appointed presbyters (elders) in every city and remained there into his old age, dying in Gortyna. Life Titus was a Greek, who may have studied Greek philosophy and poetry in his early years. He seems to have been converted by Paul, whereupon he served as Paul's secretary and interpreter. In the year 48 or 49 CE, Titus accompanied Paul to the council held at Jerusalem, on the subject of the Mosaic rites. In the fall of 55 or 56 CE, Paul, as he himself departed from Asia, sent Titus from Ephesus to Corinth, with full commission to remedy the fallout precipitated by Timothy's delivery of 1 Corinthians and Paul's \"Painful Visit...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Titus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-26_saint_titus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "11e5398f7330765f8f8d68f63f2f3c61c52234c83eb280b6c164c834d20feb25",
+        "langs": {
+          "es": {
+            "translatedHash": "7412ad64628c4de1dc17b9f92bfdd2de48855fdf656ce048f7561d2dd67b9cba",
+            "updatedAt": "2026-02-24T22:22:31.814Z"
+          },
+          "pl": {
+            "translatedHash": "52d8c01e2d3bc41ef23da5b015b65f985a66862716fd092df336f4de74b9f454",
+            "updatedAt": "2026-02-24T22:22:32.386Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8449065ae6669f73ef1c3fa677bba2b8bfad1282009f529e0432f887a5efada5",
+        "langs": {
+          "es": {
+            "translatedHash": "e86d595f29015f2a53f26b9f2bbc981716de34a9a4f8625ba5d38066972091ed",
+            "updatedAt": "2026-02-24T22:22:32.854Z"
+          },
+          "pl": {
+            "translatedHash": "45638c05f3d722b6a2a40d415174226045b9b551fdccfc3e7e94e0abaa84e817",
+            "updatedAt": "2026-02-24T22:22:33.718Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8be7a58112f9ad9c72ce613ac729dd908243c4196c8eca220e344ef0ad8a06ac",
+        "langs": {
+          "es": {
+            "translatedHash": "2d4ee80bfa369354cf4e3e9b61408e686924af0b36d1257ebf1d0277078648a0",
+            "updatedAt": "2026-02-24T22:22:35.337Z"
+          },
+          "pl": {
+            "translatedHash": "1a2385419758b2f28e626e366dfa3485cda59d354a54f7a5019eb52aed19be04",
+            "updatedAt": "2026-02-24T22:22:37.100Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bf39e3a320147ff31a4f5802a5049f618e0bef1f8072c008d1e83330cb0778c0",
+        "langs": {
+          "es": {
+            "translatedHash": "a2885e8cdcf66f3f11365e07ecc0860e6a48c4f9b780dca01e2597c2b33d3450",
+            "updatedAt": "2026-02-24T22:22:42.233Z"
+          },
+          "pl": {
+            "translatedHash": "eb6d4f5ad88994176a82eb4a1d326c6edc732bb2bff098047e8343165824a8ac",
+            "updatedAt": "2026-02-24T22:22:49.515Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Tito",
+  "name_pl": "Święty Tytus",
+  "feast_es": "El vigésimo sexto día de enero",
+  "feast_pl": "Dwudziesty szósty dzień stycznia",
+  "summary_es": "Tito fue un misionero cristiano temprano y líder de la iglesia, compañero y discípulo del apóstol Pablo, mencionado en varias de las epístolas paulinas, incluida la Epístola a Tito. Se cree que fue un gentil convertido al cristianismo por Pablo y, según la tradición, fue consagrado como obispo de la isla de Creta.",
+  "summary_pl": "Tytus był wczesnym chrześcijańskim misjonarzem i przywódcą kościelnym, towarzyszem i uczniem apostoła Pawła, wspomnianym w kilku listach Pawłowych, w tym w Liście do Tytusa. Uważa się, że był poganinem nawróconym na chrześcijaństwo przez Pawła i według tradycji został konsekrowany na biskupa wyspy Krety.",
+  "biography_es": "Tito (TI-tos; griego antiguo: Τίτος, Títos) fue un misionero cristiano temprano y líder de la iglesia, compañero y discípulo del apóstol Pablo, mencionado en varias de las epístolas paulinas, incluyendo la Epístola a Tito. Se cree que fue un gentil convertido al cristianismo por Pablo y, según la tradición, fue consagrado como obispo de la isla de Creta. Tito llevó una carta de recaudación de fondos de Pablo a Corinto, para colectar para los pobres en Jerusalén. Según Jerónimo, Tito fue el amanuense de esta epístola (2 Corintios). Más tarde, en Creta, Tito nombró presbíteros (ancianos) en cada ciudad y permaneció allí hasta su vejez, muriendo en Gortina.\n\nVida  \nTito era griego, y puede que haya estudiado filosofía y poesía griegas en sus primeros años. Parece haber sido convertido por Pablo, tras lo cual sirvió como secretario e intérprete de Pablo. En el año 48 o 49 d.C., Tito acompañó a Pablo al concilio celebrado en Jerusalén, sobre el tema de los ritos mosaicos. En el otoño del 55 o 56 d.C., Pablo, al partir de Asia, envió a Tito desde Éfeso a Corinto, con plena comisión para remediar las consecuencias provocadas por la entrega de 1 Corintios por parte de Timoteo y la \"Visita Dolorosa\" de Pablo...",
+  "biography_pl": "Tytus (TY-təs; starożytna greka: Τίτος, Títos) był wczesnym chrześcijańskim misjonarzem i przywódcą kościelnym, towarzyszem i uczniem apostoła Pawła, wspomnianym w kilku listach Pawłowych, w tym w Liście do Tytusa. Uważa się, że był poganinem nawróconym na chrześcijaństwo przez Pawła i według tradycji został konsekrowany na biskupa wyspy Krety. Tytus przyniósł list z prośbą o zbiórkę pieniędzy od Pawła do Koryntu, aby zebrać środki dla ubogich w Jerozolimie. Według Hieronima, Tytus był amanuensem tego listu (2 List do Koryntian). Później, na Krecie, Tytus mianował prezbiterów (starszych) w każdym mieście i pozostał tam aż do starości, umierając w Gortynie.\n\nŻycie  \nTytus był Grekiem, który być może w młodości studiował filozofię i poezję grecką. Wydaje się, że został nawrócony przez Pawła, po czym służył jako jego sekretarz i tłumacz. W roku 48 lub 49 n.e. Tytus towarzyszył Pawłowi na soborze w Jerozolimie, dotyczącym rytów mojżeszowych. Jesienią roku 55 lub 56 n.e., gdy Paweł sam opuszczał Azję, wysłał Tytusa z Efezu do Koryntu z pełnym upoważnieniem, aby naprawić skutki wywołane przez dostarczenie przez Tymoteusza 1 Listu do Koryntian oraz „Bolesnej Wizyty”…"
+}

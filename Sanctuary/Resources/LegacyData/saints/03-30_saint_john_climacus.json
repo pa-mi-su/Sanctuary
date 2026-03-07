@@ -1,0 +1,79 @@
+{
+  "id": "03-30_saint_john_climacus",
+  "name": "Saint John Climacus",
+  "mmdd": "03-30",
+  "feast": "The Thirtieth Day of March",
+  "summary": "St. John of the Cross was a Spanish Catholic priest, mystic, and Carmelite friar. He is a major figure of the Counter-Reformation in Spain, and he is one of the 38 Doctors of the Church.",
+  "biography": "St. John of the Cross (Spanish: Juan de la Cruz; Latin: Ioannes a Cruce; né Juan de Yepes y Álvarez; 24 June 1542 – 14 December 1591) was a Spanish Catholic priest, mystic, and Carmelite friar. He is a major figure of the Counter-Reformation in Spain, and he is one of the 38 Doctors of the Church. John of the Cross is known for his writings. He was mentored by and corresponded with the older Carmelite nun Teresa of Ávila. Both his poetry and his studies on the development of the soul, particularly his Noche Obscura, are considered the summit of mystical Christian literature and among the greatest works of all Spanish literature. He was canonized by Pope Benedict XIII in 1726. In 1926, he was declared a Doctor of the Church by Pope Pius XI, and is also known as the \"mystical doctor\". Life Early life and education He was born Juan de Yepes y Álvarez at Fontiveros, Old Castile, into a \"New Christian\" family of Converso origins (descendants of Iberian Jewish converts to Roman Catholicism) in Fontiveros, near Ávila, a town of around 2,000 people. His father, Gonzalo, was an accountant to richer relatives who were silk merchants. In 1529 Gonzalo married John's mother, Catalina...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_the_Cross",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-30_saint_john_climacus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3a439e1bf085eee7a1e2c35ee42399d8b3ad200d69e38a69a79b75007da5d732",
+        "langs": {
+          "es": {
+            "translatedHash": "ca5a1c2d6000d00dbd378892778eaf7b07fef18fb73e6a3d5b8cf935838b6310",
+            "updatedAt": "2026-02-24T23:01:28.662Z"
+          },
+          "pl": {
+            "translatedHash": "9c99eff4290887ea029d339f0a863c5fc88daf0a2cc83bfa3326c4077c67695a",
+            "updatedAt": "2026-02-24T23:01:29.427Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b39466fd8d777f9261770b63d61ba22dc7cb8f32cdbbf8ca426d6c40fec1db0d",
+        "langs": {
+          "es": {
+            "translatedHash": "9733762f12c4b6eed7629b7194dd5d608d7c5cd98fc0ce59fbc1fb5d1f35b007",
+            "updatedAt": "2026-02-24T23:01:30.045Z"
+          },
+          "pl": {
+            "translatedHash": "9c1a2f2cd8dfc4afd80d3708f754c2a1c66f9c5ae310408460025676f26fe236",
+            "updatedAt": "2026-02-24T23:01:30.493Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "fb8bef9717e5630d6fa16b9a4f70b6da989339d6b86a9a786b12c03a1c67edf4",
+        "langs": {
+          "es": {
+            "translatedHash": "9fcfe3e7bc3c6699f7fcee4a601c3b163b1d94bc0e7b83987be489f3911f2135",
+            "updatedAt": "2026-02-24T23:01:32.081Z"
+          },
+          "pl": {
+            "translatedHash": "32c368a22a063ac2cf769e84cf6fb27a9303258b5a2d3cf0b93d7485fc20e336",
+            "updatedAt": "2026-02-24T23:01:33.370Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "64f20c9da40ce3cd1b36e3c0e0c36b641a8d67f9c593b62ae7815ef707400c18",
+        "langs": {
+          "es": {
+            "translatedHash": "bc7880aaa81c65728ed282cefa3215d39e36cec6b421e9cf627d0d658b0f4f5b",
+            "updatedAt": "2026-02-24T23:01:38.585Z"
+          },
+          "pl": {
+            "translatedHash": "01ddbdfc163c3b8297c3c9f29bd855843a3fd4a74af0635960cbe7dbba4192b4",
+            "updatedAt": "2026-02-24T23:01:45.547Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Clímaco",
+  "name_pl": "Święty Jan Klimak",
+  "feast_es": "El Trigésimo Día de Marzo",
+  "feast_pl": "Trzydziesty dzień marca",
+  "summary_es": "San Juan de la Cruz fue un sacerdote católico español, místico y fraile carmelita. Es una figura importante de la Contrarreforma en España, y es uno de los 38 Doctores de la Iglesia.",
+  "summary_pl": "Św. Jan od Krzyża był hiszpańskim katolickim kapłanem, mistykiem i karmelitańskim zakonnikiem. Jest ważną postacią kontrreformacji w Hiszpanii i jednym z 38 Doktorów Kościoła.",
+  "biography_es": "San Juan de la Cruz (español: Juan de la Cruz; latín: Ioannes a Cruce; nacido Juan de Yepes y Álvarez; 24 de junio de 1542 – 14 de diciembre de 1591) fue un sacerdote católico español, místico y fraile carmelita. Es una figura importante de la Contrarreforma en España, y es uno de los 38 Doctores de la Iglesia. Juan de la Cruz es conocido por sus escritos. Fue mentorado y mantuvo correspondencia con la monja carmelita mayor Teresa de Ávila. Tanto su poesía como sus estudios sobre el desarrollo del alma, particularmente su Noche Oscura, son considerados la cumbre de la literatura mística cristiana y entre las mayores obras de toda la literatura española. Fue canonizado por el Papa Benedicto XIII en 1726. En 1926, fue declarado Doctor de la Iglesia por el Papa Pío XI, y también es conocido como el \"doctor místico\".\n\nVida\n\nPrimeros años y educación\n\nNació como Juan de Yepes y Álvarez en Fontíveros, Castilla la Vieja, en una familia de \"cristianos nuevos\" de origen converso (descendientes de judíos ibéricos convertidos al catolicismo romano) en Fontíveros, cerca de Ávila, un pueblo de alrededor de 2,000 habitantes. Su padre, Gonzalo, era contador de parientes más ricos que eran comerciantes de seda. En 1529 Gonzalo se casó con la madre de Juan, Catalina...",
+  "biography_pl": "Św. Jan od Krzyża (hiszpański: Juan de la Cruz; łacina: Ioannes a Cruce; z domu Juan de Yepes y Álvarez; 24 czerwca 1542 – 14 grudnia 1591) był hiszpańskim księdzem katolickim, mistykiem i zakonnikiem karmelitańskim. Jest ważną postacią kontrreformacji w Hiszpanii i jednym z 38 Doktorów Kościoła. Jan od Krzyża jest znany ze swoich pism. Był pod opieką i korespondował ze starszą karmelitańską zakonnicą Teresą z Ávili. Zarówno jego poezja, jak i studia nad rozwojem duszy, szczególnie jego Noc ciemna, są uważane za szczyt literatury mistycznej chrześcijańskiej oraz za jedne z największych dzieł całej literatury hiszpańskiej. Został kanonizowany przez papieża Benedykta XIII w 1726 roku. W 1926 roku został ogłoszony Doktorem Kościoła przez papieża Piusa XI, znany jest również jako „doktor mistyczny”.\n\nŻycie\n\nWczesne życie i wykształcenie\n\nUrodził się jako Juan de Yepes y Álvarez w Fontiveros, w Starej Kastylii, w rodzinie „Nowych Chrześcijan” pochodzenia konwerso (potomków iberyjskich Żydów nawróconych na katolicyzm) w Fontiveros, niedaleko Ávili, miasteczka liczącego około 2000 mieszkańców. Jego ojciec, Gonzalo, był księgowym bogatszych krewnych, którzy byli kupcami jedwabiu. W 1529 roku Gonzalo poślubił matkę Jana, Catalinę..."
+}

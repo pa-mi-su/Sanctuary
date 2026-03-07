@@ -1,0 +1,48 @@
+{
+  "id": "03-04_saint_casimir_optional_memorial",
+  "name": "Saint Casimir—Optional Memorial",
+  "mmdd": "03-04",
+  "feast": "The Fourth day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Confederate_Memorial_Day"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-04_saint_casimir_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0febf4193c794624bce1fed533938a7f5f97c6eb208b3a15089f623d6c90e10b",
+        "langs": {
+          "es": {
+            "translatedHash": "228eb0b89c831e148015ae4d53ce37a5fa2bcba29b70f7ce705528d04eb4c1f0",
+            "updatedAt": "2026-02-24T22:48:14.718Z"
+          },
+          "pl": {
+            "translatedHash": "a9a973b1444b52eece3631e2b4caab8ec3ad7b87064c243f0a6f7422b750f076",
+            "updatedAt": "2026-02-24T22:48:15.384Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6a92a64f1a89761a6fb2556cc2237a85486837a3f11e8c42958a058bacef6a3a",
+        "langs": {
+          "es": {
+            "translatedHash": "01a05714974a460e7b0470f192d77f734f8c76d5b5d6a2ea25fc33827787bd47",
+            "updatedAt": "2026-02-24T22:48:15.987Z"
+          },
+          "pl": {
+            "translatedHash": "3848a3f7155d06dc7ce8c94dd2ffcd3b2c9b1befe14a8f69d2458af7a2b94def",
+            "updatedAt": "2026-02-24T22:48:16.567Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Casimiro—Memoria Opcional",
+  "name_pl": "Święty Kazimierz — Wspomnienie dowolne",
+  "feast_es": "El cuarto día de marzo",
+  "feast_pl": "Czwarty dzień marca"
+}

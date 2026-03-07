@@ -1,0 +1,80 @@
+{
+  "id": "03-09_saint_frances",
+  "name": "Saint Frances",
+  "mmdd": "03-09",
+  "feast": "The Ninth day of March",
+  "summary": "Frances Xavier Cabrini, also known as Mother Cabrini, was a prominent Italian-American religious sister in the Catholic Church. She was the first American to be recognized by the Catholic Church as a saint.",
+  "biography": "Frances Xavier Cabrini  (Italian: Francesca Saverio [or Saveria] Cabrini; born Maria Francesca Cabrini; 15 July 1850 – 22 December 1917), also known as Mother Cabrini, was a prominent Italian-American religious sister in the Catholic Church. She was the first American to be recognized by the Catholic Church as a saint.\nCabrini founded the Missionary Sisters of the Sacred Heart of Jesus (MSC), a religious institute that today provides education, health care, and other services to the poor in 15 nations. During her lifetime, Cabrini established 67 schools, orphanages and other social service institutions in Italy, the United States and other nations. She became a revered and influential figure in the Catholic hierarchy in the United States and Rome.\nBorn in Italy, Cabrini migrated to the United States in 1887. Despite anti-Italian prejudice and opposition within the Catholic Church, she successfully established charitable institutions in New York City for poor Italian immigrants. She later extended these efforts to Italian immigrant populations across the United States. Catholic leaders were soon calling on her to create missions in Latin America and Europe.\nCabrini became a naturalized...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-09_saint_frances.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ee850f1857dea0140a36893b5c029f11af86e6fdb465f3ed8ff80662268f4f70",
+        "langs": {
+          "es": {
+            "translatedHash": "0f4dd5ebee1ad848449b75c9afe4191f2e8a944b9f9a7b28750196354f0ca7f5",
+            "updatedAt": "2026-02-24T22:50:26.225Z"
+          },
+          "pl": {
+            "translatedHash": "0cfe454c84aaf2480d0950b754a78bc779599c5c7d1a52dadfd55505cf310df1",
+            "updatedAt": "2026-02-24T22:50:26.804Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ddddf16c795380c9e932615da6403d2859475efce11d2ff2b1f7f2d537b1b13",
+        "langs": {
+          "es": {
+            "translatedHash": "a09e0dad487066a82956ce319c17c9aaf1c44a36ddd1066dccadcd383234ce69",
+            "updatedAt": "2026-02-24T22:50:28.224Z"
+          },
+          "pl": {
+            "translatedHash": "54545ca63a8276d2edea39ebe841b67261b1c2c5870a4247217f433bb282eabc",
+            "updatedAt": "2026-02-24T22:50:28.806Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "842f15a9835fec4f74f3165eb1dc9891d100cbe351ce2f470b155ecbe97761dd",
+        "langs": {
+          "es": {
+            "translatedHash": "eeef4a5adf5a041a910286231cb12154765821d271e1e4ba4cbdf8f651aba47e",
+            "updatedAt": "2026-02-24T22:50:30.133Z"
+          },
+          "pl": {
+            "translatedHash": "3a82ac2002108d0d9c2df14bb09818aa0433f22ef0ac9458b4759781930975b0",
+            "updatedAt": "2026-02-24T22:50:32.599Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "368555151faed0dcb8b81af6f73bd0211ec383319d6b5f19951ce239afd500ba",
+        "langs": {
+          "es": {
+            "translatedHash": "d6d29b87f96066213d1a695a83e74ea584a6a7cb9546f628503e3ee4310b28e3",
+            "updatedAt": "2026-02-24T22:50:36.975Z"
+          },
+          "pl": {
+            "translatedHash": "01b6aec856c3ae239ee163dc358aa9ef5b98f3e80895abb9b324681fa4758d2e",
+            "updatedAt": "2026-02-24T22:50:44.477Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Francisca",
+  "name_pl": "Święta Franciszka",
+  "feast_es": "El noveno día de marzo",
+  "feast_pl": "Dziewiąty dzień marca",
+  "summary_es": "Francisca Javier Cabrini, también conocida como Madre Cabrini, fue una destacada religiosa italoamericana en la Iglesia Católica. Fue la primera estadounidense en ser reconocida como santa por la Iglesia Católica.",
+  "summary_pl": "Franciszka Ksawera Cabrini, znana również jako Matka Cabrini, była wybitną włosko-amerykańską zakonnicą w Kościele katolickim. Była pierwszą Amerykanką uznaną przez Kościół katolicki za świętą.",
+  "biography_es": "Francisca Javier Cabrini (italiano: Francesca Saverio [o Saveria] Cabrini; nacida María Francisca Cabrini; 15 de julio de 1850 – 22 de diciembre de 1917), también conocida como Madre Cabrini, fue una destacada religiosa ítalo-estadounidense en la Iglesia Católica. Fue la primera estadounidense en ser reconocida por la Iglesia Católica como santa.  \nCabrini fundó las Hermanas Misioneras del Sagrado Corazón de Jesús (MSC), un instituto religioso que hoy brinda educación, atención médica y otros servicios a los pobres en 15 países. Durante su vida, Cabrini estableció 67 escuelas, orfanatos y otras instituciones de servicio social en Italia, Estados Unidos y otras naciones. Se convirtió en una figura venerada e influyente en la jerarquía católica en Estados Unidos y Roma.  \nNacida en Italia, Cabrini emigró a Estados Unidos en 1887. A pesar del prejuicio antiitaliano y la oposición dentro de la Iglesia Católica, logró establecer con éxito instituciones caritativas en la ciudad de Nueva York para inmigrantes italianos pobres. Más tarde extendió estos esfuerzos a las poblaciones de inmigrantes italianos en todo Estados Unidos. Pronto, los líderes católicos la llamaban para crear misiones en América Latina y Europa.  \nCabrini se naturalizó...",
+  "biography_pl": "Franciszka Ksawera Cabrini (włoski: Francesca Saverio [lub Saveria] Cabrini; urodzona jako Maria Francesca Cabrini; 15 lipca 1850 – 22 grudnia 1917), znana również jako Matka Cabrini, była wybitną włosko-amerykańską zakonnicą w Kościele katolickim. Była pierwszą Amerykanką uznaną przez Kościół katolicki za świętą.  \nCabrini założyła Zgromadzenie Misjonarek Najświętszego Serca Jezusa (MSC), instytut zakonny, który dziś świadczy edukację, opiekę zdrowotną i inne usługi dla ubogich w 15 krajach. Za życia Cabrini założyła 67 szkół, sierocińców i innych instytucji pomocy społecznej we Włoszech, Stanach Zjednoczonych i innych krajach. Stała się czczoną i wpływową postacią w hierarchii katolickiej w Stanach Zjednoczonych i Rzymie.  \nUrodzona we Włoszech, Cabrini wyemigrowała do Stanów Zjednoczonych w 1887 roku. Pomimo uprzedzeń antywłoskich i oporu w Kościele katolickim, z powodzeniem założyła instytucje charytatywne w Nowym Jorku dla ubogich włoskich imigrantów. Później rozszerzyła te działania na włoskie społeczności imigranckie w całych Stanach Zjednoczonych. Katoliccy przywódcy wkrótce prosili ją o tworzenie misji w Ameryce Łacińskiej i Europie.  \nCabrini uzyskała naturalizację..."
+}

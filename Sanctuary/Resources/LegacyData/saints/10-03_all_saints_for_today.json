@@ -1,0 +1,46 @@
+{
+  "id": "10-03_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-03",
+  "feast": "The Third Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:42:42.771Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-25T00:42:43.467Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8c5f9572da0190c76882dbf3b05a9959b8eb23699e97a272f11c63ddb8838564",
+        "langs": {
+          "es": {
+            "translatedHash": "611d85052d1777486bfd62aa7dae7a65ff6d4a0afb4a6e39a4fae46236ec2e02",
+            "updatedAt": "2026-02-25T00:42:43.963Z"
+          },
+          "pl": {
+            "translatedHash": "191db0ea867aa92199a18ea6bc0da73f25c73eccf66a2bd0dce9bd0db559ea3a",
+            "updatedAt": "2026-02-25T00:42:44.453Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El Tercer Día de Octubre",
+  "feast_pl": "Trzeci dzień października"
+}

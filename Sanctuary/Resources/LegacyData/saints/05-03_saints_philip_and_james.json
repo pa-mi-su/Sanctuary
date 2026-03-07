@@ -1,0 +1,79 @@
+{
+  "id": "05-03_saints_philip_and_james",
+  "name": "Saints Philip and James",
+  "mmdd": "05-03",
+  "feast": "The Third Day of May",
+  "summary": "Church of Saints Philip and James is a Roman Catholic church in Vilnius' Old Town, near the Lukiškės Square. It is famous for the Mother of God of Lukiškės painting.",
+  "biography": "Church of Saints Philip and James (Lithuanian: Šv. apaštalų Pilypo ir Jokūbo bažnyčia, Polish: Kościół św. Jakuba i Filipa) is a Roman Catholic church in Vilnius' Old Town, near the Lukiškės Square. It is famous for the Mother of God of Lukiškės painting. Photos References",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_of_Saints_Philip_and_James%2C_Vilnius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-03_saints_philip_and_james.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ce4c23651431d903f513eecffca39f23a9edc480a83b8acf36450a410f3f7959",
+        "langs": {
+          "es": {
+            "translatedHash": "3e41853964b5f7238324b57d694f2176b66f6726a2e0ffdb7e33383789ce98b2",
+            "updatedAt": "2026-02-24T23:19:32.427Z"
+          },
+          "pl": {
+            "translatedHash": "886c4795e28667d96c9124d6564c7ef57d6ffc2e5cbce079fc8156925c68cf4f",
+            "updatedAt": "2026-02-24T23:19:33.052Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ac230ffbe3c47d910eed24e649408d56aa4fa91c6623d4d5cec086a5941357b5",
+        "langs": {
+          "es": {
+            "translatedHash": "eb29110de8bf941fea65f80120418c5e355481d8513fb2d9568bc3ff9e8cf323",
+            "updatedAt": "2026-02-24T23:19:34.148Z"
+          },
+          "pl": {
+            "translatedHash": "21903ffdec17d975fb588a9a624ee1cc53e6d3124acf293061deccac518924af",
+            "updatedAt": "2026-02-24T23:19:35.627Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2dc53b5fa753002eb4871f26a0624cd71c59db6c4d8686c98f56d6e94a4c7a09",
+        "langs": {
+          "es": {
+            "translatedHash": "ed8abb737d0944dc80f81d7260012c549d25ca70422b030d1f3132267853ff40",
+            "updatedAt": "2026-02-24T23:19:36.819Z"
+          },
+          "pl": {
+            "translatedHash": "0fc62896e79786c28041e8dbd8fffd121e02e76ad39cb1cfaa57b8eaf17b87e1",
+            "updatedAt": "2026-02-24T23:19:38.007Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "f6451fea9e78a5f198612b43ec420bfcd05f4edbdc0f4f5fb7651a64a2f79494",
+        "langs": {
+          "es": {
+            "translatedHash": "f885b295145990e43e3f76caa15e80815f81c16e4765e5e39c112a1702c424c9",
+            "updatedAt": "2026-02-24T23:19:39.967Z"
+          },
+          "pl": {
+            "translatedHash": "952670fd6eeb9fc8612e6ead14b06a9a5943c89647d844eed0d6f1c660d22bc5",
+            "updatedAt": "2026-02-24T23:19:42.085Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Felipe y Santiago",
+  "name_pl": "Święci Filip i Jakub",
+  "feast_es": "El Tercer Día de Mayo",
+  "feast_pl": "Trzeci Dzień Maja",
+  "summary_es": "La Iglesia de los Santos Felipe y Santiago es una iglesia católica romana en el Casco Antiguo de Vilna, cerca de la Plaza Lukiškės. Es famosa por la pintura de la Madre de Dios de Lukiškės.",
+  "summary_pl": "Kościół Świętych Filipa i Jakuba to rzymskokatolicki kościół w Starym Mieście Wilna, niedaleko placu Łukiszki. Słynie z obrazu Matki Bożej Łukiszki.",
+  "biography_es": "Iglesia de los Santos Felipe y Santiago (lituano: Šv. apaštalų Pilypo ir Jokūbo bažnyčia, polaco: Kościół św. Jakuba i Filipa) es una iglesia católica romana en el Casco Antiguo de Vilna, cerca de la Plaza Lukiškės. Es famosa por la pintura de la Madre de Dios de Lukiškės.  \nFotos  \nReferencias",
+  "biography_pl": "Kościół Świętych Filipa i Jakuba (litewski: Šv. apaštalų Pilypo ir Jokūbo bažnyčia, polski: Kościół św. Jakuba i Filipa) jest rzymskokatolickim kościołem na Starym Mieście w Wilnie, w pobliżu placu Łukiszki. Słynie z obrazu Matki Bożej Łukiszki. Zdjęcia Referencje"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "10-07_our_lady_of_the_rosary_memorial",
+  "name": "Our Lady of the Rosary—Memorial",
+  "mmdd": "10-07",
+  "feast": "The Seventh Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-07_our_lady_of_the_rosary_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0d32955246c661de532952ced8fdeb57ec938e4d626650e00d766378dd6008e3",
+        "langs": {
+          "es": {
+            "translatedHash": "96b849436f145f5fe6ce6cc79a28185628ce093b919e6fca21f48a6689c9e0da",
+            "updatedAt": "2026-02-25T00:45:36.782Z"
+          },
+          "pl": {
+            "translatedHash": "68a1a464832bbda6cbca8031b22b3dd12c04e047a6de0cda6b4619815ad5f1f8",
+            "updatedAt": "2026-02-25T00:45:37.474Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "36e372609b3d6232cbd34ff2e0cfa3c730b540875dd27c63c4cf79b3e847ebe9",
+        "langs": {
+          "es": {
+            "translatedHash": "877fc40d0c20e0e3d88475aaaf3072beb561402f39eeadf3023a0af3671ce98c",
+            "updatedAt": "2026-02-25T00:45:38.048Z"
+          },
+          "pl": {
+            "translatedHash": "dfd73446892affb6e79d9aad2bc993086534f02fa9d005ad149386a1ba64d4e4",
+            "updatedAt": "2026-02-25T00:45:39.141Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora del Rosario—Memorial",
+  "name_pl": "Matka Boża Różańcowa — Wspomnienie",
+  "feast_es": "El séptimo día de octubre",
+  "feast_pl": "Siódmy dzień października"
+}

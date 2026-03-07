@@ -1,0 +1,79 @@
+{
+  "id": "11-27_saint_gregory_of_sinai",
+  "name": "Saint Gregory of Sinai",
+  "mmdd": "11-27",
+  "feast": "The Twenty-Seventh Day of November",
+  "summary": "Gregory of Sinai, or in Serbian and Bulgarian Grigorije Sinaita, was a Greek Christian monk and writer from Smyrna. He was instrumental in the emergence of hesychasm on Mount Athos in the early 14th century.",
+  "biography": "Gregory of Sinai, or in Serbian and Bulgarian Grigorije Sinaita (c. 1260s – 27 November 1346), was a Greek Christian monk and writer from Smyrna. He was instrumental in the emergence of hesychasm on Mount Athos in the early 14th century. Biography Born in Smyrna, he was captured by Seljuk Turks as a young man, and eventually ransomed to Cyprus, whence he became a monk at Saint Catherine's Monastery in the Sinai Peninsula. Later, he moved to Crete, where he learned the practices of hesychasm from a monk named Arsenios. In 1310, he went to Mount Athos, where he remained until 1335. At Mount Athos, he was a monk at the Skete of Magoula near Philotheou Monastery. Increasing Muslim raids on Athos pushed Gregory and some disciples into the Bulgarian Empire, where he would find protection under Bulgarian Emperor Ivan Alexander. He went on to found a monastery near Paroria, located in the Strandzha Mountains of southeast Bulgaria. Gregory's disciples also included Nicodemus of Tismana, Patriarch Kallistos I of Constantinople (who wrote a life of Gregory c. 1351), Romylos of Vidin, Theodosius of Tarnovo, Gregory of Sinai the Younger, and Gerasimos of Euripos. He died on 27 November 1346...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Sinai",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-27_saint_gregory_of_sinai.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "85f4ec7a9a135a067cc8b924748ee942cc9522412897d52a6a9308145a1721c6",
+        "langs": {
+          "es": {
+            "translatedHash": "8964a975fa580a3d8d73237a53c3b0305be17d6b4bad24c3120960046fee89e0",
+            "updatedAt": "2026-02-25T01:15:19.226Z"
+          },
+          "pl": {
+            "translatedHash": "b49633a0e902cdcc2c7d39481b723c1df41cda2023ae4d80b0f8a731763d503d",
+            "updatedAt": "2026-02-25T01:15:20.385Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e27859a8b44d4b0ee365651af41f1b2e4188d5e3e30d6b45ddfdd0e8f822366f",
+        "langs": {
+          "es": {
+            "translatedHash": "a7bf824d50e17c3c3a2bb8f68b345771cc3cff69321f4e7f47e6a1595422ea22",
+            "updatedAt": "2026-02-25T01:15:20.981Z"
+          },
+          "pl": {
+            "translatedHash": "c4aaba760191b5ace862e3b86bfd73b42872d6e03dca7970674b711fdf503d6b",
+            "updatedAt": "2026-02-25T01:15:21.515Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7dfb65685b5db761468e5c82f225c2aff1f9ced13fc0b5b5e37f2279b3c1d988",
+        "langs": {
+          "es": {
+            "translatedHash": "e5982f0ca73ed1695b956c14f1d052629b638fcb8130612d860b57876a03f8f9",
+            "updatedAt": "2026-02-25T01:15:23.308Z"
+          },
+          "pl": {
+            "translatedHash": "e447f59676bbe2fc1de91d62a4d03ec4d87345f0996639c61830125cf524b03e",
+            "updatedAt": "2026-02-25T01:15:25.988Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "4dacd09fba30f19806433ba3446ac890ee7b4292f2eff9be12bb99db7d6ad750",
+        "langs": {
+          "es": {
+            "translatedHash": "2faf665dd6452a78d01132850865e6565798bb6c25cf550bed7321f2e149b19c",
+            "updatedAt": "2026-02-25T01:15:31.658Z"
+          },
+          "pl": {
+            "translatedHash": "a474021527e7b7453fa4bccb3ccae2d272f8a5d73e14eb2de36ac4c3d3d15541",
+            "updatedAt": "2026-02-25T01:15:37.999Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio de Sinaí",
+  "name_pl": "Święty Grzegorz z Synaju",
+  "feast_es": "El vigésimo séptimo día de noviembre",
+  "feast_pl": "Dwudziesty siódmy dzień listopada",
+  "summary_es": "Gregorio de Sinaí, o en serbio y búlgaro Grigorije Sinaita, fue un monje y escritor cristiano griego de Esmirna. Fue fundamental en la aparición del hesicasmo en el Monte Athos a principios del siglo XIV.",
+  "summary_pl": "Grzegorz z Synaju, zwany także po serbsku i bułgarsku Grigorije Sinaita, był greckim chrześcijańskim mnichem i pisarzem ze Smyrny. Odegrał kluczową rolę w powstaniu hesychazmu na Górze Athos na początku XIV wieku.",
+  "biography_es": "Gregorio de Sinaí, o en serbio y búlgaro Grigorije Sinaita (c. 1260 – 27 de noviembre de 1346), fue un monje y escritor cristiano griego de Esmirna. Fue fundamental en el surgimiento del hesicasmo en el Monte Athos a principios del siglo XIV.\n\nBiografía  \nNacido en Esmirna, fue capturado por los turcos selyúcidas cuando era joven y finalmente rescatado en Chipre, desde donde se convirtió en monje en el Monasterio de Santa Catalina en la península del Sinaí. Más tarde, se trasladó a Creta, donde aprendió las prácticas del hesicasmo de un monje llamado Arsenios.  \n\nEn 1310, fue al Monte Athos, donde permaneció hasta 1335. En el Monte Athos, fue monje en la Skete de Magoula, cerca del Monasterio de Filoteo. El aumento de las incursiones musulmanas en Athos empujó a Gregorio y algunos discípulos hacia el Imperio Búlgaro, donde encontró protección bajo el emperador búlgaro Iván Alejandro. Fundó un monasterio cerca de Paroria, ubicado en las montañas Strandzha del sureste de Bulgaria.  \n\nLos discípulos de Gregorio también incluyeron a Nicodemo de Tismana, el patriarca Calisto I de Constantinopla (quien escribió una vida de Gregorio alrededor de 1351), Romilos de Vidin, Teodosio de Tarnovo, Gregorio de Sinaí el Joven y Gerasimos de Euripos.  \n\nFalleció el 27 de noviembre de 1346...",
+  "biography_pl": "Grzegorz z Synaju, znany także w serbskim i bułgarskim jako Grigorije Sinaita (ok. 1260 – 27 listopada 1346), był greckim chrześcijańskim mnichem i pisarzem ze Smyrny. Odegrał kluczową rolę w rozwoju hesychazmu na Górze Athos na początku XIV wieku.\n\nBiografia  \nUrodził się w Smyrnie, jako młody człowiek został pojmany przez Turków seldżuckich, a ostatecznie wykupiony na Cyprze, skąd trafił do klasztoru św. Katarzyny na Półwyspie Synaj. Później przeniósł się na Kretę, gdzie nauczył się praktyk hesychazmu od mnicha o imieniu Arsenios. W 1310 roku udał się na Górę Athos, gdzie pozostał do 1335 roku. Na Górze Athos był mnichem w skicie Magoula niedaleko klasztoru Filoteu.  \n\nNarastające najazdy muzułmańskie na Athos zmusiły Grzegorza i niektórych jego uczniów do ucieczki do Cesarstwa Bułgarskiego, gdzie znalazł ochronę pod panowaniem bułgarskiego cara Iwana Aleksandra. Założył tam klasztor w pobliżu Parorii, położonej w górach Strandża na południowym wschodzie Bułgarii.  \n\nDo uczniów Grzegorza należeli także Nikodem z Tismany, patriarcha Konstantynopola Kallistos I (który napisał żywot Grzegorza około 1351 roku), Romylos z Widinu, Teodozjusz z Tarnowa, Młodszy Grzegorz z Synaju oraz Gerazym z Euripos.  \n\nZmarł 27 listopada 1346 roku..."
+}

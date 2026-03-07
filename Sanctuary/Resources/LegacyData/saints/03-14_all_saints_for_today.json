@@ -1,0 +1,46 @@
+{
+  "id": "03-14_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-14",
+  "feast": "The Fourteenth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:53:31.595Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:53:32.074Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7474546d7ba742fe9ea0064c2a67449070c635abd3067d57e40c4925f29ffe92",
+        "langs": {
+          "es": {
+            "translatedHash": "0e58091461403b9fa55a09400f3706e8a01eb868509183b8b51a2b9c65854239",
+            "updatedAt": "2026-02-24T22:53:32.744Z"
+          },
+          "pl": {
+            "translatedHash": "b998a342e6457325ea97a3e3a3fd14204ed25573fa1e5bc1b66ea8a6c9ced1bf",
+            "updatedAt": "2026-02-24T22:53:33.376Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día catorce de marzo",
+  "feast_pl": "Czternasty Dzień Marca"
+}

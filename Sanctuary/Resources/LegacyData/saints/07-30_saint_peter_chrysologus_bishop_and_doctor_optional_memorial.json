@@ -1,0 +1,48 @@
+{
+  "id": "07-30_saint_peter_chrysologus_bishop_and_doctor_optional_memorial",
+  "name": "Saint Peter Chrysologus, Bishop and Doctor—Optional Memorial",
+  "mmdd": "07-30",
+  "feast": "The Thirtieth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Henry_Newman"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-30_saint_peter_chrysologus_bishop_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "939a06667caf215c2ec842e8b9f10cf1e666e35268053edc8858025554ea10c2",
+        "langs": {
+          "es": {
+            "translatedHash": "8ed8959f51d54c09bc7e84b8dc85d7de988c68c073721c2ab901dc0b7cdbef7b",
+            "updatedAt": "2026-02-25T00:07:02.299Z"
+          },
+          "pl": {
+            "translatedHash": "da28ece7ba58c85f165cdea2942af0630d48aaeff1d986992d2bd5ba5bc43131",
+            "updatedAt": "2026-02-25T00:07:03.835Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54249ce7c9acdb362a3bc0b2aef5b1119451eb4d601a52b917311baaf4e7e300",
+        "langs": {
+          "es": {
+            "translatedHash": "c11a0d62e039b6ff1767f9bd1e703da342df0b1605df8b0c65b2fc466b6c8a6f",
+            "updatedAt": "2026-02-25T00:07:04.504Z"
+          },
+          "pl": {
+            "translatedHash": "aac70162e4ed6b460a4c4082a5f1688571e356033ea276118454934ceeb9655b",
+            "updatedAt": "2026-02-25T00:07:05.063Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro Crisólogo, Obispo y Doctor—Memoria Opcional",
+  "name_pl": "Święty Piotr Chryzolog, Biskup i Doktor Kościoła — Wspomnienie dowolne",
+  "feast_es": "El Trigésimo Día de Julio",
+  "feast_pl": "Trzydziesty dzień lipca"
+}

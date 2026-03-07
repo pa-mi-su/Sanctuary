@@ -1,0 +1,46 @@
+{
+  "id": "03-27_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-27",
+  "feast": "The Twenty-Seventh Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:59:51.789Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:59:53.727Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f0bac4242827fb1f1815180171ec075d232135dc0f68cf25577d4735f607cf00",
+        "langs": {
+          "es": {
+            "translatedHash": "07503028ec1b6b585ed2741b64d929bbaaf13e3d7ca42b12fa531b724a65becd",
+            "updatedAt": "2026-02-24T22:59:54.423Z"
+          },
+          "pl": {
+            "translatedHash": "890cf4e47fd626a78bf739a25465e66b0e1eb731c5a3da2e25d5596126d02bbe",
+            "updatedAt": "2026-02-24T22:59:54.968Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Vigésimo Séptimo Día de Marzo",
+  "feast_pl": "Dwudziesty siódmy dzień marca"
+}

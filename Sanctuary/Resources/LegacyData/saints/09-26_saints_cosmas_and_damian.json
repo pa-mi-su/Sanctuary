@@ -1,0 +1,79 @@
+{
+  "id": "09-26_saints_cosmas_and_damian",
+  "name": "Saints Cosmas and Damian",
+  "mmdd": "09-26",
+  "feast": "The Twenty-Sixth Day of September",
+  "summary": "The Feast of Saints Cosmas and Damian is an Italian/ American festival in honor of the Catholic Saints Cosmas and Damian. It is an annual event that thousands of people attend each year in Cambridge and Somerville, Massachusetts. The Feast typically takes place the weekend after Labor Day. Just like other Italian feasts in the area, large life-sized statues of the saints are carried by members of the Saints Cosmas and Damian Society down local streets. As the Procession moves along, the Saints are stopped at each house, where people put money and gold on the statues. By the end of the festival, the statues of the saints are filled with money and gold. As the statues of the Saints are carried down the streets of East Cambridge and Somerville, they are greeted with fireworks, confetti, and balloons. Before the Saints are carried away from each house, they are lifted three times by the carriers to bless the home. There are also many concessions on the streets of the Feast that are also open to the public. Vendors sell food, items, souvenirs, games, and more. Carnival rides are set up on the local streets. Free entertainment for all is also present throughout the entire weekend. Over the years, many well-known groups have performed at the Feast, such as Taváres, The Village People, Tony Orlando, The Platters, The Drifters, Exposé and Cover Girls.",
+  "biography": "The Feast of Saints Cosmas and Damian is an Italian/ American festival in honor of the Catholic Saints Cosmas and Damian. It is an annual event that thousands of people attend each year in Cambridge and Somerville, Massachusetts. The Feast typically takes place the weekend after Labor Day. Just like other Italian feasts in the area, large life-sized statues of the saints are carried by members of the Saints Cosmas and Damian Society down local streets. As the Procession moves along, the Saints are stopped at each house, where people put money and gold on the statues. By the end of the festival, the statues of the saints are filled with money and gold. As the statues of the Saints are carried down the streets of East Cambridge and Somerville, they are greeted with fireworks, confetti, and balloons. Before the Saints are carried away from each house, they are lifted three times by the carriers to bless the home. There are also many concessions on the streets of the Feast that are also open to the public. Vendors sell food, items, souvenirs, games, and more. Carnival rides are set up on the local streets. Free entertainment for all is also present throughout the entire weekend. Over the years, many well-known groups have performed at the Feast, such as Taváres, The Village People, Tony Orlando, The Platters, The Drifters, Exposé and Cover Girls.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_Saints_Cosmas_and_Damian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-26_saints_cosmas_and_damian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eff6a289d6744e5a23ca4919ff9db9b6cae917a9353ea0a4f7c8482fe721417c",
+        "langs": {
+          "es": {
+            "translatedHash": "d2dc2ce05cf61fe30beb2ef9da74d76b554401e90ef60be473df75e73d59e2b3",
+            "updatedAt": "2026-02-25T00:38:06.199Z"
+          },
+          "pl": {
+            "translatedHash": "30fa549324a31f51a735941307fda258b6c50fa95caeb2d2899df5a148e1ec96",
+            "updatedAt": "2026-02-25T00:38:06.795Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c505822439f07b88b311f6e57d726aec835711e737bb9a5c8c9e35a39bfa3fbc",
+        "langs": {
+          "es": {
+            "translatedHash": "1cc37ccdd82b1b28e96d8b8465367b3d6123fa298732806b3cc01698ffd3d081",
+            "updatedAt": "2026-02-25T00:38:07.484Z"
+          },
+          "pl": {
+            "translatedHash": "7581dffaba8aab036162ebb3d935d8f79d853e4d2a78ab47f6dfaa064cb91f65",
+            "updatedAt": "2026-02-25T00:38:08.155Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "dec6aadfe4a0b7a645c0424eafb925135d8c88cf3fad2958981ce3c8ffc4a8ec",
+        "langs": {
+          "es": {
+            "translatedHash": "d06e25ff239517459e428566efa11632f9b7f66d58d0539e511d87f4f26e72db",
+            "updatedAt": "2026-02-25T00:38:12.703Z"
+          },
+          "pl": {
+            "translatedHash": "e82e1b865de6ff71d2b036e2cf968d06de49ca44f317053decec1286154c6772",
+            "updatedAt": "2026-02-25T00:38:21.136Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "dec6aadfe4a0b7a645c0424eafb925135d8c88cf3fad2958981ce3c8ffc4a8ec",
+        "langs": {
+          "es": {
+            "translatedHash": "1259604bbaa40545c2e9e8c2c2c65a1c28625650f8e3b19c6316930470cfa3bb",
+            "updatedAt": "2026-02-25T00:38:26.631Z"
+          },
+          "pl": {
+            "translatedHash": "b1f70645dd8c996b673005469b0c9b541f4e2553a91746fb15887ecb1992f9a7",
+            "updatedAt": "2026-02-25T00:38:33.191Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Cosme y Damián",
+  "name_pl": "Święci Kozma i Damian",
+  "feast_es": "El Vigésimo Sexto Día de Septiembre",
+  "feast_pl": "Dwudziesty szósty dzień września",
+  "summary_es": "La Fiesta de los Santos Cosme y Damián es un festival italoamericano en honor a los Santos Católicos Cosme y Damián. Es un evento anual al que asisten miles de personas cada año en Cambridge y Somerville, Massachusetts. La Fiesta generalmente se celebra el fin de semana después del Día del Trabajo. \n\nAl igual que otras fiestas italianas en la zona, grandes estatuas de tamaño natural de los santos son llevadas por miembros de la Sociedad de los Santos Cosme y Damián por las calles locales. A medida que avanza la Procesión, los Santos se detienen en cada casa, donde la gente coloca dinero y oro en las estatuas. Al final del festival, las estatuas de los santos están llenas de dinero y oro. \n\nMientras las estatuas de los Santos son llevadas por las calles de East Cambridge y Somerville, son recibidas con fuegos artificiales, confeti y globos. Antes de que los Santos sean retirados de cada casa, los portadores los levantan tres veces para bendecir el hogar. \n\nTambién hay muchas concesiones en las calles de la Fiesta que están abiertas al público. Los vendedores ofrecen comida, artículos, souvenirs, juegos y más. Se instalan atracciones de carnaval en las calles locales. También hay entretenimiento gratuito para todos durante todo el fin de semana. \n\nA lo largo de los años, muchos grupos reconocidos han actuado en la Fiesta, como Taváres, The Village People, Tony Orlando, The Platters, The Drifters, Exposé y Cover Girls.",
+  "summary_pl": "Święto Świętych Kosmy i Damiana to włosko-amerykański festiwal na cześć katolickich Świętych Kosmy i Damiana. Jest to coroczne wydarzenie, w którym co roku uczestniczą tysiące osób w Cambridge i Somerville w stanie Massachusetts. Święto zazwyczaj odbywa się w weekend po Święcie Pracy. Podobnie jak inne włoskie święta w okolicy, duże, naturalnej wielkości figury świętych są niesione przez członków Towarzystwa Świętych Kosmy i Damiana ulicami lokalnych dzielnic. W miarę jak procesja się porusza, figury świętych zatrzymują się przy każdym domu, gdzie ludzie wkładają pieniądze i złoto na figury. Pod koniec festiwalu figury świętych są wypełnione pieniędzmi i złotem. Gdy figury świętych są niesione ulicami East Cambridge i Somerville, witają je fajerwerki, konfetti i balony. Zanim figury świętych zostaną wyniesione z każdego domu, są one trzykrotnie podnoszone przez niesących je, aby pobłogosławić dom. Na ulicach festiwalu znajduje się także wiele stoisk otwartych dla publiczności. Sprzedawcy oferują jedzenie, przedmioty, pamiątki, gry i wiele więcej. Na lokalnych ulicach ustawione są karuzele. Przez cały weekend dostępna jest również bezpłatna rozrywka dla wszystkich. Na przestrzeni lat na Święcie występowały liczne znane zespoły, takie jak Taváres, The Village People, Tony Orlando, The Platters, The Drifters, Exposé i Cover Girls.",
+  "biography_es": "La Fiesta de los Santos Cosme y Damián es un festival italoamericano en honor a los Santos Católicos Cosme y Damián. Es un evento anual al que asisten miles de personas cada año en Cambridge y Somerville, Massachusetts. La Fiesta generalmente se celebra el fin de semana después del Día del Trabajo. \n\nAl igual que otras fiestas italianas en la zona, grandes estatuas de tamaño natural de los santos son llevadas por miembros de la Sociedad de los Santos Cosme y Damián por las calles locales. A medida que avanza la Procesión, los Santos se detienen en cada casa, donde la gente coloca dinero y oro sobre las estatuas. Al final del festival, las estatuas de los santos están llenas de dinero y oro. \n\nMientras las estatuas de los Santos son llevadas por las calles de East Cambridge y Somerville, son recibidas con fuegos artificiales, confeti y globos. Antes de que los Santos sean retirados de cada casa, los portadores los levantan tres veces para bendecir el hogar. \n\nTambién hay muchas concesiones en las calles de la Fiesta que están abiertas al público. Los vendedores ofrecen comida, artículos, souvenirs, juegos y más. Se instalan atracciones de carnaval en las calles locales. Además, hay entretenimiento gratuito para todos durante todo el fin de semana. \n\nA lo largo de los años, muchos grupos reconocidos han actuado en la Fiesta, como Taváres, The Village People, Tony Orlando, The Platters, The Drifters, Exposé y Cover Girls.",
+  "biography_pl": "Święto Świętych Kosmy i Damiana to włosko-amerykański festiwal na cześć katolickich Świętych Kosmy i Damiana. Jest to coroczne wydarzenie, w którym co roku uczestniczą tysiące osób w Cambridge i Somerville w stanie Massachusetts. Święto zazwyczaj odbywa się w weekend po Święcie Pracy. Podobnie jak inne włoskie festyny w okolicy, duże, naturalnej wielkości figury świętych są niesione przez członków Towarzystwa Świętych Kosmy i Damiana ulicami lokalnych dzielnic. \n\nW miarę jak procesja się porusza, figury świętych zatrzymują się przy każdym domu, gdzie ludzie wkładają pieniądze i złoto na figury. Pod koniec festiwalu figury świętych są wypełnione pieniędzmi i złotem. Gdy figury świętych są niesione ulicami East Cambridge i Somerville, witają je fajerwerki, konfetti i balony. Zanim figury świętych zostaną zabrane z każdego domu, są one podnoszone trzykrotnie przez nosicieli, aby pobłogosławić dom.\n\nNa ulicach festynu działa także wiele stoisk dostępnych dla publiczności. Sprzedawcy oferują jedzenie, przedmioty, pamiątki, gry i wiele więcej. Na lokalnych ulicach ustawione są karuzele i inne atrakcje karnawałowe. Przez cały weekend dostępna jest również darmowa rozrywka dla wszystkich. Na przestrzeni lat na Święcie występowały liczne znane zespoły, takie jak Taváres, The Village People, Tony Orlando, The Platters, The Drifters, Exposé i Cover Girls."
+}

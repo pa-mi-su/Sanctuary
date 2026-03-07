@@ -1,0 +1,79 @@
+{
+  "id": "06-02_saints_marcellinus_and_peter",
+  "name": "Saints Marcellinus and Peter",
+  "mmdd": "06-02",
+  "feast": "The Second Day of June",
+  "summary": "Saints Marcellinus and Peter are venerated within the Catholic Church as martyrs who were beheaded. Hagiographies place them in 4th century Rome. They are generally represented as men in middle age, with tonsures and palms of martyrdom; sometimes they hold a crown each.",
+  "biography": "Saints Marcellinus and Peter are venerated within the Catholic Church as martyrs who were beheaded. Hagiographies place them in 4th century Rome. They are generally represented as men in middle age, with tonsures and palms of martyrdom; sometimes they hold a crown each.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcellinus_and_Peter",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-02_saints_marcellinus_and_peter.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f931339b5bec05e79524d1cd701a8318d77fa47b66e992f91b1b6d0ab7905c6b",
+        "langs": {
+          "es": {
+            "translatedHash": "8926c11c0bc7c82edd4d2c67bcbce920c44fac45a6914839f7a409f61b33071e",
+            "updatedAt": "2026-02-24T23:35:51.870Z"
+          },
+          "pl": {
+            "translatedHash": "448c1aa659b40fa18211a954ae1ede29150e73994799e2a07ea7a7084e2821dd",
+            "updatedAt": "2026-02-24T23:35:52.567Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9829e5cbaf9c534d267257b30c4c8ecf00cfc30627ac203ce2909eeffde9bdaf",
+        "langs": {
+          "es": {
+            "translatedHash": "21e1aaa616630bb4d03ae9a5fc06cf1eb4b1577ce279b0ccbf3a2add0469a222",
+            "updatedAt": "2026-02-24T23:35:53.208Z"
+          },
+          "pl": {
+            "translatedHash": "1214525f3c3b288e6207023295a94d618f0b351b23a22d11e4227cad3e4a22ee",
+            "updatedAt": "2026-02-24T23:35:53.792Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "09375e6c47fa45336caf82fa4484304db050fbf27128d463b0d53cf111df9d60",
+        "langs": {
+          "es": {
+            "translatedHash": "19e42e60e605a9db20c0ad1ea18985ffef9604b2b51b980258d9257d6e4f27b9",
+            "updatedAt": "2026-02-24T23:35:55.355Z"
+          },
+          "pl": {
+            "translatedHash": "82c79735e0b7f8543b125f49ac6a750e09d14aa9b2237671ed5817feb28f79c7",
+            "updatedAt": "2026-02-24T23:35:57.075Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "09375e6c47fa45336caf82fa4484304db050fbf27128d463b0d53cf111df9d60",
+        "langs": {
+          "es": {
+            "translatedHash": "47fce96eeb1ad983c224768c419de60643f73093f7f9befef012b48e60d8f20c",
+            "updatedAt": "2026-02-24T23:35:58.515Z"
+          },
+          "pl": {
+            "translatedHash": "e0e8ed04a34129905b99aa572fbaa5b19457681676a4e497b1f9701562bee426",
+            "updatedAt": "2026-02-24T23:36:00.640Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Marcelino y Pedro",
+  "name_pl": "Święci Marcelin i Piotr",
+  "feast_es": "El Segundo Día de Junio",
+  "feast_pl": "Drugi dzień czerwca",
+  "summary_es": "Los santos Marcelino y Pedro son venerados dentro de la Iglesia Católica como mártires que fueron decapitados. Las hagiografías los sitúan en la Roma del siglo IV. Generalmente se les representa como hombres de mediana edad, con tonsuras y palmas de martirio; a veces cada uno sostiene una corona.",
+  "summary_pl": "Święci Marcelin i Piotr są czczeni w Kościele katolickim jako męczennicy, którzy zostali ścięci. Hagiografie umieszczają ich w IV-wiecznym Rzymie. Zazwyczaj przedstawiani są jako mężczyźni w średnim wieku, z tonsurami i palmami męczeństwa; czasami każdy z nich trzyma koronę.",
+  "biography_es": "Los santos Marcelino y Pedro son venerados dentro de la Iglesia Católica como mártires que fueron decapitados. Las hagiografías los sitúan en la Roma del siglo IV. Generalmente se les representa como hombres de mediana edad, con tonsuras y palmas del martirio; a veces cada uno sostiene una corona.",
+  "biography_pl": "Święci Marcelin i Piotr są czczeni w Kościele katolickim jako męczennicy, którzy zostali ścięci. Hagiografie umieszczają ich w IV-wiecznym Rzymie. Zazwyczaj przedstawiani są jako mężczyźni w średnim wieku, z tonsurami i palmami męczeństwa; czasem każdy z nich trzyma koronę."
+}

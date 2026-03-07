@@ -1,0 +1,48 @@
+{
+  "id": "03-08_saint_john_of_god_religious_optional_memorial",
+  "name": "Saint John of God, Religious—Optional Memorial",
+  "mmdd": "03-08",
+  "feast": "The Eighth day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-08_saint_john_of_god_religious_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "842d0ea17c2db016bbfd261a27dd7dbac2950dd074f950bf40e58b544ef69877",
+        "langs": {
+          "es": {
+            "translatedHash": "af2df5a5ab927fe24b8d47dfe2fb069eacad6c5a76d6e126c44384f65eeef3f0",
+            "updatedAt": "2026-02-24T22:50:22.981Z"
+          },
+          "pl": {
+            "translatedHash": "669fb4852d1040645bc4bc9fb1f22965bd35acc3bd832956d4a8e69a7c07f39d",
+            "updatedAt": "2026-02-24T22:50:23.726Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ff87347c341135915cd4a01ac18c0c7adfe078e9b3644cd7e5a73f929dfd067",
+        "langs": {
+          "es": {
+            "translatedHash": "18473f060bd2b33421d671bfd17d43fde4e06281369f2876bb13113f0ddba0ff",
+            "updatedAt": "2026-02-24T22:50:24.913Z"
+          },
+          "pl": {
+            "translatedHash": "faa33d8f8d573b1e819e6c8027ef36f4b2fa2f3a4f91d07da74a9fb680847cac",
+            "updatedAt": "2026-02-24T22:50:25.693Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Dios, Religioso—Memoria Opcional",
+  "name_pl": "Święty Jan od Boga, zakonnik — wspomnienie dowolne",
+  "feast_es": "El octavo día de marzo",
+  "feast_pl": "Ósmy dzień marca"
+}

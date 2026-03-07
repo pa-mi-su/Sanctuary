@@ -1,0 +1,79 @@
+{
+  "id": "08-10_saint_asteria",
+  "name": "Saint Asteria",
+  "mmdd": "08-10",
+  "feast": "The Tenth Day of August",
+  "summary": "Grata of Bergamo is an Italian saint and martyr, and sister of Asteria of Bergamo. Her parents were Saint Lupo of Bergamo and Saint Adelaide, duke and duchess of Bergamo. According to hagiographer Agnes B.C. Dunbar, Grata's husband was \"a great king in Germany\". She did not become a Christian until after his death, when she converted her parents to Christianity and persuaded them to build the cathedral of Bergamo. She became known as a holy woman in Bergamo, \"especially for her zeal in securing Christian burial for the bodies of martyrs\". She built three churches and a hospital for the poor in Begamo. She and her sister Asteria buried the body of St. Alexander of Rome, after Grata wrapped his head in a napkin. After her parents' death, she governed Bergamo \"with wisdom and benevolence\". Grata was put to death for burying Alexander. Her feast day is September 4.",
+  "biography": "Asterias amurensis, also known as the Northern Pacific seastar and Japanese common starfish, is a seastar found in shallow seas and estuaries, native to the coasts of northern China, Korea, far eastern Russia, Japan, Alaska, the Aleutian Islands and British Columbia in Canada. Two forms are recognised: the nominate and forma robusta from the Strait of Tartary. It mostly preys on large bivalve molluscs, and it is mostly preyed on by other species of starfish. Population booms in Japan can affect the harvest of mariculture operations and are costly to combat.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grata_of_Bergamo",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-10_saint_asteria.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e3a5b89cb0fa3b90ee52ad828e73c35b0a3701bc7afa14c2ee8f1da9267b9d2a",
+        "langs": {
+          "es": {
+            "translatedHash": "14f7b96d8c010d26a51e24243de433150ed29937a0dd9f80620f20f3cef898d0",
+            "updatedAt": "2026-02-25T00:12:35.007Z"
+          },
+          "pl": {
+            "translatedHash": "71b87177149fba1a20c624b29a6c6dcfb24c407847436c0ec13cdf5dad6b0230",
+            "updatedAt": "2026-02-25T00:12:35.670Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "acda854a4398a0ec094c95dee8d6c7d47d7685bfef1f15f1199fc1749bf8f773",
+        "langs": {
+          "es": {
+            "translatedHash": "9706410fe05039350d15ecb54dfe142ba7c0a0340b9d699d7fe2ef08738d7b5c",
+            "updatedAt": "2026-02-25T00:12:36.208Z"
+          },
+          "pl": {
+            "translatedHash": "9478c081102ef1f444da40c8ba3f546032e976ba2c6e40719c4d85300c0f57b6",
+            "updatedAt": "2026-02-25T00:12:36.786Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8628cf4ac9cc33088b73beb386c5e72dd04ef6cae5b89a59569de7efacc7a16f",
+        "langs": {
+          "es": {
+            "translatedHash": "54c24d220d9aa77e1a29438255d7520e0c6e8820b02e1120db0acc3dc2ce2587",
+            "updatedAt": "2026-02-25T00:12:40.786Z"
+          },
+          "pl": {
+            "translatedHash": "d917ae27d78ef5c30edfa2d39fdc23a907d0292298a1eb49f0a4e4cb0083b315",
+            "updatedAt": "2026-02-25T00:12:44.881Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a89b7e2efb17dafe35b8e0afb4c507fd752ae9c0ac84beb3fddac5672bb5e13e",
+        "langs": {
+          "es": {
+            "translatedHash": "778c0059eecc0ec6868ffb14471a9ed4cc1b0cc75369a69d1fea62b0874fb4cc",
+            "updatedAt": "2026-02-25T00:12:47.069Z"
+          },
+          "pl": {
+            "translatedHash": "6e8e6cc709c9315bbd6abfeddd4993d58045dbde2d796e9d213b7f7358633400",
+            "updatedAt": "2026-02-25T00:12:51.096Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Asteria",
+  "name_pl": "Święta Asteria",
+  "feast_es": "El Día Diez de Agosto",
+  "feast_pl": "Dziesiąty dzień sierpnia",
+  "summary_es": "Grata de Bérgamo es una santa y mártir italiana, y hermana de Asteria de Bérgamo. Sus padres fueron San Lupo de Bérgamo y Santa Adelaida, duque y duquesa de Bérgamo. Según la hagiografa Agnes B.C. Dunbar, el esposo de Grata fue \"un gran rey en Alemania\". No se convirtió al cristianismo hasta después de su muerte, cuando convirtió a sus padres al cristianismo y los persuadió para construir la catedral de Bérgamo. Se hizo conocida como una mujer santa en Bérgamo, \"especialmente por su celo en asegurar el entierro cristiano de los cuerpos de los mártires\". Construyó tres iglesias y un hospital para los pobres en Bérgamo. Ella y su hermana Asteria enterraron el cuerpo de San Alejandro de Roma, después de que Grata envolviera su cabeza en una servilleta. Tras la muerte de sus padres, gobernó Bérgamo \"con sabiduría y benevolencia\". Grata fue ejecutada por enterrar a Alejandro. Su fiesta es el 4 de septiembre.",
+  "summary_pl": "Grata z Bergamo jest włoską świętą i męczennicą oraz siostrą Asterii z Bergamo. Jej rodzicami byli św. Lupo z Bergamo i św. Adelajda, książę i księżna Bergamo. Według hagiografki Agnes B.C. Dunbar, mężem Graty był „wielki król w Niemczech”. Nie została chrześcijanką aż do jego śmierci, kiedy to nawróciła swoich rodziców na chrześcijaństwo i namówiła ich do zbudowania katedry w Bergamo. Stała się znana jako święta kobieta w Bergamo, „zwłaszcza ze względu na swój zapał w zapewnianiu chrześcijańskiego pochówku ciałom męczenników”. Zbudowała trzy kościoły i szpital dla ubogich w Bergamo. Ona i jej siostra Asteria pochowały ciało św. Aleksandra z Rzymu, po tym jak Grata owinęła jego głowę serwetką. Po śmierci rodziców rządziła Bergamo „z mądrością i dobrocią”. Grata została stracona za pochowanie Aleksandra. Jej wspomnienie przypada na 4 września.",
+  "biography_es": "Asterias amurensis, también conocida como la estrella de mar del Pacífico Norte y estrella de mar común japonesa, es una estrella de mar que se encuentra en mares poco profundos y estuarios, nativa de las costas del norte de China, Corea, el extremo oriental de Rusia, Japón, Alaska, las Islas Aleutianas y Columbia Británica en Canadá. Se reconocen dos formas: la nominal y la forma robusta del Estrecho de Tartaria. Se alimenta principalmente de moluscos bivalvos grandes, y es principalmente presa de otras especies de estrellas de mar. Los aumentos poblacionales en Japón pueden afectar la cosecha de las operaciones de maricultura y son costosos de combatir.",
+  "biography_pl": "Asterias amurensis, znana również jako północnopacyficzna rozgwiazda i japońska pospolita rozgwiazda, jest rozgwiazdą występującą w płytkich morzach i ujściach rzek, rodzimą dla wybrzeży północnych Chin, Korei, dalekowschodniej Rosji, Japonii, Alaski, Wysp Aleuckich oraz Kolumbii Brytyjskiej w Kanadzie. Rozpoznaje się dwie formy: nominatywną oraz formę robusta z Cieśniny Tartaryjskiej. Żywi się głównie dużymi mięczakami dwuskorupowymi, a jej głównymi drapieżnikami są inne gatunki rozgwiazd. Wzrosty populacji w Japonii mogą wpływać na zbiory w hodowlach morskich i są kosztowne w zwalczaniu."
+}

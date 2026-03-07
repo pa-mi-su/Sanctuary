@@ -1,0 +1,79 @@
+{
+  "id": "07-19_saint_macrina",
+  "name": "Saint Macrina",
+  "mmdd": "07-19",
+  "feast": "The Nineteenth Day of July",
+  "summary": "Macrina the Younger was an early Christian consecrated virgin. Macrina was elder sister of Basil the Great, Gregory of Nyssa, Naucratius and Peter of Sebaste. Gregory of Nyssa wrote a work entitled Life of Macrina in which he describes her sanctity and asceticism throughout her life. Macrina lived a chaste and humble life, devoting her time to prayer and the spiritual education of her younger brother Peter.",
+  "biography": "Macrina the Younger (Greek: Μακρίνα; c. 327 – 19 July 379) was an early Christian consecrated virgin. Macrina was elder sister of Basil the Great, Gregory of Nyssa, Naucratius and Peter of Sebaste. Gregory of Nyssa wrote a work entitled Life of Macrina in which he describes her sanctity and asceticism throughout her life. Macrina lived a chaste and humble life, devoting her time to prayer and the spiritual education of her younger brother Peter. She is regarded as a saint in the Roman Catholic, Eastern Orthodox, Oriental Orthodox and Anglican churches. Family Macrina was born at Caesarea, Cappadocia. Her parents were Basil the Elder and Emmelia, and her grandmother was Macrina the Elder. Among her nine siblings were two of the three Cappadocian Fathers, her younger brothers Basil the Great and Gregory of Nyssa, as well as Peter of Sebaste and the famous Christian jurist Naucratius. Her father arranged for her to marry, but her fiancé died before the wedding. After having been betrothed, Macrina did not believe it was appropriate to marry another man, but saw Christ as her eternal bridegroom. Macrina had a profound influence on her brothers and her mother with her adherence to...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macrina_the_Younger",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-19_saint_macrina.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f74f6413fd4f4b140bdd0aa9d6afd70e430cd28e68d7bf2d85c29e91fb85a821",
+        "langs": {
+          "es": {
+            "translatedHash": "8f0e1ad4130e3ad5ad92a46cb83bc233d43ff89eef1c796f0b871cd15b54ccae",
+            "updatedAt": "2026-02-25T00:00:23.208Z"
+          },
+          "pl": {
+            "translatedHash": "c4337080e3a01df4cabf0c817e5c928f7ff5995f6b689b2db6559043c2b59e8f",
+            "updatedAt": "2026-02-25T00:00:24.952Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "760e210ee6275ba66d89f78920516e2e7464ecf3852dec78a1a78dcdec16407e",
+        "langs": {
+          "es": {
+            "translatedHash": "dfa4feccfbf0ec67e8e03ba678dd8abc97c840723c046383c553a56cb7f73bfa",
+            "updatedAt": "2026-02-25T00:00:25.603Z"
+          },
+          "pl": {
+            "translatedHash": "c8242a7004f747a080b28165c91e289f1f0c9e8a2039953d647f7d429f4c8952",
+            "updatedAt": "2026-02-25T00:00:26.305Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6175e335acf831175ca1c8878b783b268329925948520969e80da3d1d7d1d8a5",
+        "langs": {
+          "es": {
+            "translatedHash": "ea82d816bb85f459aea72832203de12adae9b91cd89e1e88aad5f7e8934b76a2",
+            "updatedAt": "2026-02-25T00:00:28.312Z"
+          },
+          "pl": {
+            "translatedHash": "edef6ce57d12d0dc23c7ee46258ba297fef38a494041748923420acccedc2109",
+            "updatedAt": "2026-02-25T00:00:31.954Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "93a1645f3b6b1bf91217b8a283b6e05f10bee50fc680989c7fcfae1b0324f668",
+        "langs": {
+          "es": {
+            "translatedHash": "8621e32717c372c89dbf6a2ad14b4e8938f5702e8e526dbacda5400d9e28022c",
+            "updatedAt": "2026-02-25T00:00:36.872Z"
+          },
+          "pl": {
+            "translatedHash": "24f997f176db477a426deb869920bd031792bc3a43355fb1678d88deb6cfa93e",
+            "updatedAt": "2026-02-25T00:00:42.453Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Macrina",
+  "name_pl": "Święta Makryna",
+  "feast_es": "El Día Diecinueve de Julio",
+  "feast_pl": "Dziewiętnasty Dzień Lipca",
+  "summary_es": "Macrina la Joven fue una virgen consagrada cristiana de los primeros tiempos. Macrina fue hermana mayor de Basilio el Grande, Gregorio de Nisa, Naucracio y Pedro de Sebaste. Gregorio de Nisa escribió una obra titulada Vida de Macrina en la que describe su santidad y ascetismo a lo largo de su vida. Macrina vivió una vida casta y humilde, dedicando su tiempo a la oración y a la educación espiritual de su hermano menor Pedro.",
+  "summary_pl": "Makryna Młodsza była wczesnochrześcijańską dziewicą konsekrowaną. Makryna była starszą siostrą Bazylego Wielkiego, Grzegorza z Nyssy, Naukrajcjusza i Piotra z Sebasty. Grzegorz z Nyssy napisał dzieło zatytułowane Życie Makryny, w którym opisuje jej świętość i ascezę przez całe jej życie. Makryna prowadziła czyste i pokorne życie, poświęcając swój czas modlitwie oraz duchowemu wychowaniu młodszego brata Piotra.",
+  "biography_es": "Macrina la Joven (griego: Μακρίνα; c. 327 – 19 de julio de 379) fue una virgen consagrada cristiana primitiva. Macrina fue la hermana mayor de Basilio el Grande, Gregorio de Nisa, Naucracio y Pedro de Sebaste. Gregorio de Nisa escribió una obra titulada Vida de Macrina en la que describe su santidad y ascetismo a lo largo de su vida. Macrina vivió una vida casta y humilde, dedicando su tiempo a la oración y a la educación espiritual de su hermano menor Pedro. Es considerada santa en las iglesias católica romana, ortodoxa oriental, ortodoxa oriental y anglicana.\n\nFamilia  \nMacrina nació en Cesarea, Capadocia. Sus padres fueron Basilio el Anciano y Emelia, y su abuela fue Macrina la Anciana. Entre sus nueve hermanos se encontraban dos de los tres Padres Capadocios, sus hermanos menores Basilio el Grande y Gregorio de Nisa, así como Pedro de Sebaste y el famoso jurista cristiano Naucracio. Su padre arregló su matrimonio, pero su prometido murió antes de la boda. Después de haber estado comprometida, Macrina no creyó apropiado casarse con otro hombre, sino que vio a Cristo como su eterno esposo. Macrina tuvo una profunda influencia en sus hermanos y en su madre con su adhesión a...",
+  "biography_pl": "Makryna Młodsza (grecki: Μακρίνα; ok. 327 – 19 lipca 379) była wczesnochrześcijańską dziewicą konsekrowaną. Makryna była starszą siostrą Bazylego Wielkiego, Grzegorza z Nyssy, Naukrajcjusza i Piotra z Sebasty. Grzegorz z Nyssy napisał dzieło zatytułowane Życie Makryny, w którym opisuje jej świętość i ascezę przez całe jej życie. Makryna prowadziła czyste i pokorne życie, poświęcając swój czas modlitwie oraz duchowemu wychowaniu młodszego brata Piotra. Jest uważana za świętą w Kościele rzymskokatolickim, prawosławnym wschodnim, prawosławnym orientalnym oraz anglikańskim.\n\nRodzina  \nMakryna urodziła się w Cezarei Kapadockiej. Jej rodzicami byli Bazyl Starszy i Emmelia, a babką Makryna Starsza. Spośród jej dziewięciorga rodzeństwa dwóch było spośród trzech Ojców Kapadockich: jej młodsi bracia Bazyl Wielki i Grzegorz z Nyssy, a także Piotr z Sebasty oraz słynny chrześcijański prawnik Naukrajcjusz. Jej ojciec zaaranżował jej małżeństwo, lecz narzeczony zmarł przed ślubem. Po zaręczynach Makryna nie uważała za stosowne poślubić innego mężczyzny, lecz widziała w Chrystusie swojego wiecznego Oblubieńca. Makryna wywarła głęboki wpływ na swoich braci i matkę poprzez swoje przywiązanie do..."
+}

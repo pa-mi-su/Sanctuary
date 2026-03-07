@@ -1,0 +1,79 @@
+{
+  "id": "02-23_saint_polycarp",
+  "name": "Saint Polycarp",
+  "mmdd": "02-23",
+  "feast": "The Twenty-Third Day of February",
+  "summary": "Polycarp was a Christian bishop of Smyrna. According to the Martyrdom of Polycarp, he died a martyr, bound and burned at the stake, then stabbed when the fire failed to consume his body. Polycarp is regarded as a saint and Church Father in the Eastern Orthodox Church, the Catholic Church, Oriental Orthodox Churches, Lutheranism, and Anglicanism.",
+  "biography": "Polycarp (; Greek: Πολύκαρπος, Polýkarpos; Latin: Polycarpus; AD 69 – 155) was a Christian bishop of Smyrna. According to the Martyrdom of Polycarp, he died a martyr, bound and burned at the stake, then stabbed when the fire failed to consume his body. Polycarp is regarded as a saint and Church Father in the Eastern Orthodox Church, the Catholic Church, Oriental Orthodox Churches, Lutheranism, and Anglicanism. Both Irenaeus and Tertullian say that Polycarp had been a disciple of John the Apostle, one of Jesus's disciples. In On Illustrious Men, Jerome similarly writes that Polycarp was a disciple of John the Apostle, who had ordained him as a bishop of Smyrna. Polycarp is regarded as one of three chief Apostolic Fathers, along with Clement of Rome and Ignatius of Antioch. Surviving writings and early accounts The sole surviving work attributed to him is the Epistle of Polycarp to the Philippians, a mosaic of references to the Septuagint, which, along with an account of the Martyrdom of Polycarp, forms part of the collection of writings called Apostolic Fathers. After the Acts of the Apostles, which describes the death of Stephen, the Martyrdom is considered one of the earliest...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycarp",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-23_saint_polycarp.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bc07a9c78470ba5ac6c7d30627bf9ecd6c3edc2488c3fccf6e3874b4cb3f8049",
+        "langs": {
+          "es": {
+            "translatedHash": "f157a2ce98810013ded5cc839372b9088be6ac8224c03678529c86dc03ea8e4d",
+            "updatedAt": "2026-02-24T22:41:17.951Z"
+          },
+          "pl": {
+            "translatedHash": "75c7b232bb905c26aad7edcaaaa21ff8561ce4c92713e94e4b7580772bfa002a",
+            "updatedAt": "2026-02-24T22:41:19.360Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1242443854af535055c872a05c99934ea4df0e47fa59924e0e430abba63ef242",
+        "langs": {
+          "es": {
+            "translatedHash": "b1771f63179a3d1006fb29680b1e564d4eb7ad08da355f46237ca59b82c1f641",
+            "updatedAt": "2026-02-24T22:41:19.946Z"
+          },
+          "pl": {
+            "translatedHash": "34dc6c6745d9dd460390bb4356fa5ec2c54a62abd1ca296dbb62688da36eeb14",
+            "updatedAt": "2026-02-24T22:41:20.516Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ef25c8fdff68b13c6cff9885d73c932f0fb8b77126d1326c6ccc9dd34d169165",
+        "langs": {
+          "es": {
+            "translatedHash": "2901595ae39d227495f7266641c552e07b577b4f8d49a0da9d55b1b503824d25",
+            "updatedAt": "2026-02-24T22:41:23.515Z"
+          },
+          "pl": {
+            "translatedHash": "444d2a5b5ccb38ea8b99cddcbc37ff079faf84f1f216ef5255480058590f9829",
+            "updatedAt": "2026-02-24T22:41:26.176Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "892e0ae74b33b56cf9c60e116349d4d6b95db817d1ed2f68c786cca797ee9ddc",
+        "langs": {
+          "es": {
+            "translatedHash": "e27a17ab69e2df3bd1e769dfe23cf5bfb565045d80e528dab685af1c99d99aa6",
+            "updatedAt": "2026-02-24T22:41:30.884Z"
+          },
+          "pl": {
+            "translatedHash": "ce94ec40baaf9e47f18a8f73a8b1ecc506ad2f608a0a49f3fc6e72bf2468c3f1",
+            "updatedAt": "2026-02-24T22:41:40.114Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Policarpo",
+  "name_pl": "Święty Polikarp",
+  "feast_es": "El vigésimo tercer día de febrero",
+  "feast_pl": "Dwudziesty trzeci dzień lutego",
+  "summary_es": "Policarpo fue un obispo cristiano de Esmirna. Según el Martirio de Policarpo, murió como mártir, atado y quemado en la hoguera, y luego apuñalado cuando el fuego no consumió su cuerpo. Policarpo es considerado santo y Padre de la Iglesia en la Iglesia Ortodoxa Oriental, la Iglesia Católica, las Iglesias Ortodoxas Orientales, el luteranismo y el anglicanismo.",
+  "summary_pl": "Polikarp był chrześcijańskim biskupem Smyrny. Według Męczeństwa Polikarpa, zginął jako męczennik, związany i spalony na stosie, a następnie dźgnięty, gdy ogień nie spalił jego ciała. Polikarp jest uważany za świętego i Ojca Kościoła w Kościele Wschodnioprawosławnym, Kościele Katolickim, Kościołach Ortodoksyjnych Wschodnich, luteranizmie oraz anglikanizmie.",
+  "biography_es": "Policarpo (; griego: Πολύκαρπος, Polýkarpos; latín: Polycarpus; 69 – 155 d.C.) fue un obispo cristiano de Esmirna. Según el Martirio de Policarpo, murió como mártir, atado y quemado en la hoguera, y luego apuñalado cuando el fuego no consumió su cuerpo. Policarpo es considerado santo y Padre de la Iglesia en la Iglesia Ortodoxa Oriental, la Iglesia Católica, las Iglesias Ortodoxas Orientales, el luteranismo y el anglicanismo. Tanto Ireneo como Tertuliano afirman que Policarpo había sido discípulo de Juan el Apóstol, uno de los discípulos de Jesús. En Sobre los hombres ilustres, Jerónimo escribe de manera similar que Policarpo fue discípulo de Juan el Apóstol, quien lo ordenó obispo de Esmirna. Policarpo es considerado uno de los tres principales Padres Apostólicos, junto con Clemente de Roma e Ignacio de Antioquía.\n\nEscritos y relatos tempranos que han sobrevivido\n\nLa única obra que se le atribuye y que ha sobrevivido es la Epístola de Policarpo a los Filipenses, un mosaico de referencias a la Septuaginta que, junto con un relato del Martirio de Policarpo, forma parte de la colección de escritos llamada Padres Apostólicos. Después de los Hechos de los Apóstoles, que describe la muerte de Esteban, el Martirio es considerado uno de los primeros...",
+  "biography_pl": "Polikarp (; grecki: Πολύκαρπος, Polýkarpos; łacina: Polycarpus; 69–155 n.e.) był chrześcijańskim biskupem Smyrny. Według Męczeństwa Polikarpa, zmarł jako męczennik, związany i spalony na stosie, a następnie dźgnięty, gdy ogień nie zdołał spalić jego ciała. Polikarp jest uważany za świętego i Ojca Kościoła w Kościele prawosławnym, Kościele katolickim, Kościołach orientalnych, luteranizmie oraz anglikanizmie. Zarówno Ireneusz, jak i Tertulian twierdzą, że Polikarp był uczniem Jana Apostoła, jednego z uczniów Jezusa. W dziele O sławnych mężach Hieronim podobnie pisze, że Polikarp był uczniem Jana Apostoła, który wyświęcił go na biskupa Smyrny. Polikarp jest uważany za jednego z trzech głównych Ojców Apostolskich, obok Klemensa Rzymskiego i Ignacego Antiocheńskiego.\n\nZachowane pisma i wczesne relacje  \nJedynym zachowanym dziełem przypisywanym Polikarpowi jest List Polikarpa do Filipian, mozaika odniesień do Septuaginty, który wraz z relacją Męczeństwa Polikarpa stanowi część zbioru pism zwanego Ojców Apostolskich. Po Dziejach Apostolskich, które opisują śmierć Szczepana, Męczeństwo jest uważane za jedno z najwcześniejszych..."
+}

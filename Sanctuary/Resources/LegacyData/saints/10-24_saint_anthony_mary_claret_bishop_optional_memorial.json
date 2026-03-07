@@ -1,0 +1,48 @@
+{
+  "id": "10-24_saint_anthony_mary_claret_bishop_optional_memorial",
+  "name": "Saint Anthony Mary Claret, Bishop—Optional Memorial",
+  "mmdd": "10-24",
+  "feast": "The Twenty-Fourth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eucharistic_adoration"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-24_saint_anthony_mary_claret_bishop_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8a42dd1d517e0cb977c66aeaa2a7132d79f2cb8908c0bc1e2fd0fed860921bb0",
+        "langs": {
+          "es": {
+            "translatedHash": "9e8eca9b189658bb4c5afb4c4f14c9044f7bc604cb008a0923442f752ab917fc",
+            "updatedAt": "2026-02-25T00:55:55.323Z"
+          },
+          "pl": {
+            "translatedHash": "25f2630664c4cc693ac900bcda323771814b20b9afb79a156f72f4b0aa8e81fa",
+            "updatedAt": "2026-02-25T00:55:56.030Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7d7555c70de0ffe67b4ae81bf630761eba6224a27239eb891a0b25188d80a3f7",
+        "langs": {
+          "es": {
+            "translatedHash": "faf25934c39d9a8ea7d4fe0f623276ccbc8d581a3d8f4076c16bb27c2ae3e266",
+            "updatedAt": "2026-02-25T00:55:57.020Z"
+          },
+          "pl": {
+            "translatedHash": "cf6032c353eb51a1cceec5f8d242f787d41ee5e0dfa2605b1ed3eb72f42f73d6",
+            "updatedAt": "2026-02-25T00:55:57.644Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Antonio María Claret, Obispo—Memoria Opcional",
+  "name_pl": "Święty Antoni Maria Klaret, biskup — wspomnienie dowolne",
+  "feast_es": "El Veinticuatro de Octubre",
+  "feast_pl": "Dwudziesty czwarty dzień października"
+}

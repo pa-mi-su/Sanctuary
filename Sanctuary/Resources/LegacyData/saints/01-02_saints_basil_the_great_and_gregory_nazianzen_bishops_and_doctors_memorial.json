@@ -1,0 +1,48 @@
+{
+  "id": "01-02_saints_basil_the_great_and_gregory_nazianzen_bishops_and_doctors_memorial",
+  "name": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors—Memorial",
+  "mmdd": "01-02",
+  "feast": "The Second Day of January",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-02_saints_basil_the_great_and_gregory_nazianzen_bishops_and_doctors_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "92478de5ebc438c10d958426a083e1d2838ad8a008643c34d29eb55ec5fd0440",
+        "langs": {
+          "es": {
+            "translatedHash": "1a5ab7c44d024baa54f474bc287a24ef7f048045c6a531687409619d2b093a85",
+            "updatedAt": "2026-02-24T22:04:51.574Z"
+          },
+          "pl": {
+            "translatedHash": "2e496539b06fac27a40ad65f9c2cf35028e052894907603d91fd2a5f75474841",
+            "updatedAt": "2026-02-24T22:04:52.650Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b9a14b7ba62d41cfca03eada83f5b56b3f98eea199631f3448cf52f55ce0410d",
+        "langs": {
+          "es": {
+            "translatedHash": "8f4e5531cc618d4ad162db05082c098fd70e67463839c7c6928e5302690f74e5",
+            "updatedAt": "2026-02-24T22:04:53.316Z"
+          },
+          "pl": {
+            "translatedHash": "ec4b5fdb2510837d0f94e8dc5aad3d5cd5af2fcda8aff69f986f1a59434e315c",
+            "updatedAt": "2026-02-24T22:04:53.986Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Basilio Magno y Gregorio Nacianceno, Obispos y Doctores—Memoria",
+  "name_pl": "Święci Bazyli Wielki i Grzegorz z Nazjanzu, Biskupi i Doktorzy Kościoła — Wspomnienie",
+  "feast_es": "El Segundo Día de Enero",
+  "feast_pl": "Drugi dzień stycznia"
+}

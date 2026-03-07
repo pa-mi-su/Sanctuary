@@ -1,0 +1,79 @@
+{
+  "id": "10-12_saint_evagrius",
+  "name": "Saint Evagrius",
+  "mmdd": "10-12",
+  "feast": "The Twelfth Day of October",
+  "summary": "Evagrius Ponticus, also called Evagrius the Solitary, was a Christian monk and ascetic from Heraclea, a city on the coast of Bithynia in Asia Minor. One of the most influential theologians in the late fourth-century church, he was well known as a thinker, polished speaker, and gifted writer.",
+  "biography": "Evagrius Ponticus, also called Evagrius the Solitary, was a Christian monk and ascetic from Heraclea, a city on the coast of Bithynia in Asia Minor. One of the most influential theologians in the late fourth-century church, he was well known as a thinker, polished speaker, and gifted writer. He left a promising ecclesiastical career in Constantinople and traveled to Jerusalem, where in 383 AD he became a monk at the monastery of Rufinus and Melania the Elder. He then went to Egypt and spent the remaining years of his life in Nitria and Kellia, marked by years of asceticism and writing. He was a disciple of several influential contemporary church leaders, including Basil of Caesarea, Gregory of Nazianzus, and Macarius of Egypt. He was a teacher of others, including John Cassian and Palladius of Galatia.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Evagrius_Ponticus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-12_saint_evagrius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ce727c8756da9cae4bdba72a981e2c44038dc31d1ee8e529d29ed7280a41638d",
+        "langs": {
+          "es": {
+            "translatedHash": "496174bca978c9a68d4a753383ea0a9fe7c10e7ae4e69ba46ecce84015d6d4dc",
+            "updatedAt": "2026-02-25T00:48:20.317Z"
+          },
+          "pl": {
+            "translatedHash": "d26d3aa9aba5be2c8a21394506c0c64c433585e3f40451ad12d3fde5e539e410",
+            "updatedAt": "2026-02-25T00:48:20.872Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6136094aa6fae54ed3e4ded671a89021f08ad3dc471ac3d2bc76e86b965aa906",
+        "langs": {
+          "es": {
+            "translatedHash": "ae8e2dddb2e48144bb6194de02ce7df77103c9ec98036db5cdfe58fe0fa5dfdc",
+            "updatedAt": "2026-02-25T00:48:21.529Z"
+          },
+          "pl": {
+            "translatedHash": "95d95ff7bb971a9f275459c76bc5d9677f301806c53157e907795e070b96e82c",
+            "updatedAt": "2026-02-25T00:48:22.156Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a6759b9330fbdd5f4a85d5d06aa146c04dc04603be9b6c00d43117c5f0f7a0f2",
+        "langs": {
+          "es": {
+            "translatedHash": "bc0a3ba15b217ba729b899d3e4663c3c527ea0f17c04f988a5798f02ad95914f",
+            "updatedAt": "2026-02-25T00:48:23.736Z"
+          },
+          "pl": {
+            "translatedHash": "ca7f955fa3b925bc7de7db718b1e066b39f7391a9d120d8247c5c7849cff9dcc",
+            "updatedAt": "2026-02-25T00:48:25.658Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "137a5bb9e16416299fc035e87a2f943bcb13a08a578966e159cea89ccad3576c",
+        "langs": {
+          "es": {
+            "translatedHash": "d0b0dcc683a10d5f4eb59535f8d0b5197d50bbf2ac10765f159a15342c961d51",
+            "updatedAt": "2026-02-25T00:48:28.185Z"
+          },
+          "pl": {
+            "translatedHash": "1a3ff6c5c7d54d4662679575b1be6f6a6651ff45db3d726555f9c1fef8d02f0a",
+            "updatedAt": "2026-02-25T00:48:30.948Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Evagrio",
+  "name_pl": "Święty Ewagriusz",
+  "feast_es": "El Duodécimo Día de Octubre",
+  "feast_pl": "Dwunasty Dzień Października",
+  "summary_es": "Evagrio Póntico, también llamado Evagrio el Solitario, fue un monje y asceta cristiano de Heraclea, una ciudad en la costa de Bitinia en Asia Menor. Uno de los teólogos más influyentes de la iglesia a finales del siglo IV, fue conocido como un pensador, orador pulido y escritor dotado.",
+  "summary_pl": "Ewagriusz z Pontu, zwany także Ewagriuszem Pustelnikiem, był chrześcijańskim mnichem i ascetą z Heraklei, miasta na wybrzeżu Bitynii w Azji Mniejszej. Jeden z najbardziej wpływowych teologów w kościele późnego IV wieku, był znany jako myśliciel, wyrafinowany mówca i utalentowany pisarz.",
+  "biography_es": "Evagrio Póntico, también llamado Evagrio el Solitario, fue un monje y asceta cristiano de Heraclea, una ciudad en la costa de Bitinia en Asia Menor. Uno de los teólogos más influyentes de la iglesia a finales del siglo IV, fue conocido como un pensador, orador pulido y escritor dotado. Dejó una prometedora carrera eclesiástica en Constantinopla y viajó a Jerusalén, donde en el año 383 d.C. se hizo monje en el monasterio de Rufino y Melania la Mayor. Luego se trasladó a Egipto y pasó los años restantes de su vida en Nitria y Kellia, marcados por años de ascetismo y escritura. Fue discípulo de varios líderes eclesiásticos contemporáneos influyentes, incluyendo a Basilio de Cesarea, Gregorio de Nacianzo y Macario de Egipto. Fue maestro de otros, entre ellos Juan Casiano y Palladio de Galacia.",
+  "biography_pl": "Evagriusz Poncjusz, zwany także Evagriuszem Pustelnikiem, był chrześcijańskim mnichem i ascetą z Heraklei, miasta na wybrzeżu Bitynii w Azji Mniejszej. Jeden z najbardziej wpływowych teologów w kościele późnego IV wieku, był znany jako myśliciel, wyrafinowany mówca i utalentowany pisarz. Porzucił obiecującą karierę kościelną w Konstantynopolu i udał się do Jerozolimy, gdzie w 383 roku został mnichem w klasztorze Rufinusa i Melanii Starszej. Następnie wyjechał do Egiptu i spędził pozostałe lata życia w Nitrze i Kellii, naznaczone latami ascezy i pisarstwa. Był uczniem kilku wpływowych współczesnych przywódców kościelnych, w tym Bazylego z Cezarei, Grzegorza z Nazjanzu i Makarego z Egiptu. Był nauczycielem innych, w tym Jana Kasjana i Palladiusza z Galacji."
+}

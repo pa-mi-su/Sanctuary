@@ -1,0 +1,79 @@
+{
+  "id": "05-30_saint_felix",
+  "name": "Saint Felix",
+  "mmdd": "05-30",
+  "feast": "The Thirtieth Day of May",
+  "summary": "Felix is a masculine given name that originates from the Latin word felix, meaning \"happy\", \"lucky\", \"fortunate\", \"successful\", or \"fruitful\". Its original meaning was \"fruit-bearing\", in reference to fruitful trees, arbor felix. The feminine forms are Felicia or Felicity. The name was popularized by Roman emperors and early Christian saints.",
+  "biography": "Felix is a masculine given name that originates from the Latin word felix [ˈfeːliːks] (genitive felicis [feːˈliːkɪs]), meaning \"happy\", \"lucky\", \"fortunate\", \"successful\", or \"fruitful\". Its original meaning was \"fruit-bearing\", in reference to fruitful trees, arbor felix. The feminine forms are Felicia or Felicity. The name was popularized by Roman emperors and early Christian saints. \nIn Roman mythology, Felix was one of four sons of the god Saturn and Roman mortal Entoria. The name was used as an agnomen, or nickname, by the Roman general Lucius Cornelius Sulla (138-78 BC) to denote his good fortune in war. It was also bestowed upon the Legio IV Flavia, a legion of the Imperial Roman army founded in 70 AD by the emperor Vespasian. It was used later as an imperial title, beginning with Commodus (161-192), who adopted it around 184 AD after military successes in Britain and Sarmatia. It would continue to be used by later emperors, including Aurelian (214-275).\nIn modern usage, Felix has maintained its popularity in various cultures, especially in English, German, and Scandinavian-speaking countries. In Romance languages such as French, Portuguese, and Spanish, the acute accent form...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_(name)",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-14_saint_felix.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "55b280a839ea4289584480ff1aabf39da39355798801eecb4bf5a7e9be5e1350",
+        "langs": {
+          "es": {
+            "translatedHash": "3e7c332fbfef345b43318fe1e97134259653a5386832f5f4edbdfe22ab8b0c60",
+            "updatedAt": "2026-02-24T23:33:42.279Z"
+          },
+          "pl": {
+            "translatedHash": "95c66afccab5cac216039b8223de86b987b661d8dabb1c30211f14b2aa81b33a",
+            "updatedAt": "2026-02-24T23:33:42.846Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7f14e927d7ad81d01b78e85e6db0e3bfee2ef9062cd5889fd5a74b883d5268e4",
+        "langs": {
+          "es": {
+            "translatedHash": "bc62568ff576935d808c886aa4f7619d02355b07b7dc4ee6876b1c3c9c44bb26",
+            "updatedAt": "2026-02-24T23:33:43.725Z"
+          },
+          "pl": {
+            "translatedHash": "99750c5b55cb9e4afcf407267beca35aca402abc8f31a8d363426de11361d9ea",
+            "updatedAt": "2026-02-24T23:33:44.277Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "92317e62fd430542e1d9e2d3759adaa605362ec292b1690c4ae11e4dae5c2b89",
+        "langs": {
+          "es": {
+            "translatedHash": "8d1f7df1438b3e47225a148b827ac8870fa679cf4402494d51d709bd7da0beee",
+            "updatedAt": "2026-02-24T23:33:46.603Z"
+          },
+          "pl": {
+            "translatedHash": "6e0592d12aaafdfda2e5fa44b833bdfa966dfb0b5c99b8dec9006a24be7bacc6",
+            "updatedAt": "2026-02-24T23:33:48.891Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "09b61747d0a0e9e4c8b23c6045f4629034ed61a98975f671c195ec9b4e31b034",
+        "langs": {
+          "es": {
+            "translatedHash": "5fa90ade5c2ff494fb0c1a918142d646f1c389ea43f1331c7ab366c9b0a16180",
+            "updatedAt": "2026-02-24T23:33:55.206Z"
+          },
+          "pl": {
+            "translatedHash": "591021f5dac40f68fb3de65114432c614179d1cace25a1bad68709db096a8897",
+            "updatedAt": "2026-02-24T23:34:01.571Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Félix",
+  "name_pl": "Święty Feliks",
+  "feast_es": "El Trigésimo Día de Mayo",
+  "feast_pl": "Trzydziesty dzień maja",
+  "summary_es": "Félix es un nombre masculino que proviene de la palabra latina felix, que significa \"feliz\", \"afortunado\", \"próspero\", \"exitoso\" o \"fructífero\". Su significado original era \"que da fruto\", en referencia a los árboles fructíferos, arbor felix. Las formas femeninas son Felicia o Felicidad. El nombre fue popularizado por emperadores romanos y santos cristianos primitivos.",
+  "summary_pl": "Felix to męskie imię pochodzące od łacińskiego słowa felix, oznaczającego „szczęśliwy”, „pomyślny”, „szczęśliwy”, „powodzenia” lub „owocny”. Jego pierwotne znaczenie to „owocujący”, w odniesieniu do owocujących drzew, arbor felix. Formy żeńskie to Felicia lub Felicity. Imię to zostało spopularyzowane przez cesarzy rzymskich i wczesnych świętych chrześcijańskich.",
+  "biography_es": "Felix es un nombre masculino que proviene de la palabra latina felix [ˈfeːliːks] (genitivo felicis [feːˈliːkɪs]), que significa \"feliz\", \"afortunado\", \"próspero\", \"exitoso\" o \"fructífero\". Su significado original era \"que da fruto\", en referencia a los árboles fructíferos, arbor felix. Las formas femeninas son Felicia o Felicidad. El nombre fue popularizado por emperadores romanos y santos cristianos primitivos.  \nEn la mitología romana, Felix fue uno de los cuatro hijos del dios Saturno y la mortal romana Entoria. El nombre fue utilizado como un agnomen, o apodo, por el general romano Lucio Cornelio Sila (138-78 a.C.) para denotar su buena fortuna en la guerra. También fue otorgado a la Legio IV Flavia, una legión del ejército imperial romano fundada en el año 70 d.C. por el emperador Vespasiano. Más tarde se usó como título imperial, comenzando con Cómodo (161-192), quien lo adoptó alrededor del año 184 d.C. tras éxitos militares en Bretaña y Sarmacia. Continuó siendo utilizado por emperadores posteriores, incluyendo a Aureliano (214-275).  \nEn el uso moderno, Felix ha mantenido su popularidad en diversas culturas, especialmente en países de habla inglesa, alemana y escandinava. En lenguas romances como el francés, portugués y español, la forma con acento agudo...",
+  "biography_pl": "Felix to męskie imię pochodzące od łacińskiego słowa felix [ˈfeːliːks] (dopełniacz felicis [feːˈliːkɪs]), oznaczającego „szczęśliwy”, „pomyślny”, „fortunny”, „odnoszący sukces” lub „owocny”. Jego pierwotne znaczenie to „owocujący”, w odniesieniu do owocujących drzew, arbor felix. Formy żeńskie to Felicia lub Felicity. Imię to zostało spopularyzowane przez cesarzy rzymskich oraz wczesnych świętych chrześcijańskich.  \nW mitologii rzymskiej Felix był jednym z czterech synów boga Saturna i rzymskiej śmiertelniczki Entorii. Imię to było używane jako agnomen, czyli przydomek, przez rzymskiego wodza Lucjusza Korneliusza Sullę (138-78 p.n.e.), aby podkreślić jego szczęście w wojnie. Nadano je także Legio IV Flavia, legionowi cesarskiej armii rzymskiej założonemu w 70 roku n.e. przez cesarza Wespazjana. Później było używane jako tytuł cesarski, począwszy od Kommodusa (161-192), który przyjął je około 184 roku n.e. po sukcesach militarnych w Brytanii i Sarmacji. Tytuł ten był używany także przez późniejszych cesarzy, w tym Aureliana (214-275).  \nWe współczesnym użyciu Felix zachował swoją popularność w różnych kulturach, szczególnie w krajach anglojęzycznych, niemieckojęzycznych oraz skandynawskich. W językach romańskich, takich jak francuski, portugalski i hiszpański, forma z akcentem ostrym..."
+}

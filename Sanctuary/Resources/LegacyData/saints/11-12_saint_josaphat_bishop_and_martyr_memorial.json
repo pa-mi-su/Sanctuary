@@ -1,0 +1,48 @@
+{
+  "id": "11-12_saint_josaphat_bishop_and_martyr_memorial",
+  "name": "Saint Josaphat, Bishop and Martyr—Memorial",
+  "mmdd": "11-12",
+  "feast": "The Twelfth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Josaphat_Church%2C_Lviv_(3).jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-12_saint_josaphat_bishop_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6f2479145358453005dad18a7fe128b0f12ac4b592ca2658a33b50fed027da3b",
+        "langs": {
+          "es": {
+            "translatedHash": "5756f5b5abc795ec58afbb6085bfa64e9ab613d3ddd2460dc18dfc1f7b962027",
+            "updatedAt": "2026-02-25T01:06:31.937Z"
+          },
+          "pl": {
+            "translatedHash": "180d56effc4e6643eb5776d845c69ea39880848964bba1f2671300b9f1848ef3",
+            "updatedAt": "2026-02-25T01:06:34.028Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c9d9b5941043f35c8d11d2256af03f8de3493656e9b729fb1e4bd196e716d925",
+        "langs": {
+          "es": {
+            "translatedHash": "1594677929a10bc0aeb56d8ea9ae3b9beaa513bc861c45bc8bf0eb2aef42aedb",
+            "updatedAt": "2026-02-25T01:06:34.637Z"
+          },
+          "pl": {
+            "translatedHash": "086a2d688f25651e133b31c3434474323c7457796592dea10c36806407166bfc",
+            "updatedAt": "2026-02-25T01:06:35.155Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Josafat, Obispo y Mártir—Memorial",
+  "name_pl": "Święty Jozafat, Biskup i Męczennik — Wspomnienie",
+  "feast_es": "El duodécimo día de noviembre",
+  "feast_pl": "Dwunasty Dzień Listopada"
+}

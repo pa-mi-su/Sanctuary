@@ -1,0 +1,79 @@
+{
+  "id": "10-27_saint_florentius",
+  "name": "Saint Florentius",
+  "mmdd": "10-27",
+  "feast": "The Twenty-Seventh Day of October",
+  "summary": "Florentius is a saint of the Roman Catholic Church and a bishop of Vienne from the late 4th century, dated by his attendance at the Council of Valence in 374.",
+  "biography": "Florentius is a saint of the Roman Catholic Church and a bishop of Vienne from the late 4th century, dated by his attendance at the Council of Valence in 374.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florentius_of_Vienne",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-27_saint_florentius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "198e0e94420ff43e3124e5df227ce0ecf7fff987b9fbd20fc1bb53df740ed234",
+        "langs": {
+          "es": {
+            "translatedHash": "a9d3ca50c32b857897c51bcc82ac7f00e2614edda51d317efcfb1376b99f646a",
+            "updatedAt": "2026-02-25T00:57:18.704Z"
+          },
+          "pl": {
+            "translatedHash": "88e18cf939209b7945857aa3167f3191e9b2bf2a62c0dca1f9b0c626b12b9af6",
+            "updatedAt": "2026-02-25T00:57:19.447Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bf3cab05f05f3a3ed8359c4edcaa2346101873d79e1da14a1b9cd33b28e3d756",
+        "langs": {
+          "es": {
+            "translatedHash": "880585fca23db854b18c8ebad2336aeb8013130d73bb2fcb308f590328d61632",
+            "updatedAt": "2026-02-25T00:57:19.993Z"
+          },
+          "pl": {
+            "translatedHash": "ea01a2d1373365a9cf98e0d013172d00b2e052c17a7f0f7b2e8f9e19b4f28f2b",
+            "updatedAt": "2026-02-25T00:57:20.836Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "01bfbd72ba2079d20dd1841e100cecc32aa2b35d5d17d7d04b8d925a6ff59579",
+        "langs": {
+          "es": {
+            "translatedHash": "3b74585257e0ea1cc75e79fe89298949b9fd539b24696c9ce96fea5076ccbe1b",
+            "updatedAt": "2026-02-25T00:57:21.750Z"
+          },
+          "pl": {
+            "translatedHash": "f490f66e27fe14dbc2f75e4f23e71c981f5debd2f7dc053d045cf4d6878b2cfa",
+            "updatedAt": "2026-02-25T00:57:22.857Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "01bfbd72ba2079d20dd1841e100cecc32aa2b35d5d17d7d04b8d925a6ff59579",
+        "langs": {
+          "es": {
+            "translatedHash": "047b9088d8887adba970649c626138a7da557840c9e9c26983676c8c37466b84",
+            "updatedAt": "2026-02-25T00:57:23.843Z"
+          },
+          "pl": {
+            "translatedHash": "642a99fb9a6543f339a6e10119cd7c81d116dd1939dde9f50c7434f8e2505ec0",
+            "updatedAt": "2026-02-25T00:57:25.050Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Florencio",
+  "name_pl": "Święty Florencjusz",
+  "feast_es": "El Vigésimo Séptimo Día de Octubre",
+  "feast_pl": "Dwudziesty siódmy dzień października",
+  "summary_es": "Florencio es un santo de la Iglesia Católica Romana y obispo de Vienne a finales del siglo IV, fechado por su asistencia al Concilio de Valence en 374.",
+  "summary_pl": "Florentyn jest świętym Kościoła rzymskokatolickiego i biskupem Vienne z końca IV wieku, datowanym na podstawie jego uczestnictwa w Soborze w Walencji w 374 roku.",
+  "biography_es": "Florencio es un santo de la Iglesia Católica Romana y obispo de Vienne desde finales del siglo IV, fechado por su asistencia al Concilio de Valence en 374.",
+  "biography_pl": "Florencjusz jest świętym Kościoła rzymskokatolickiego i biskupem Vienne z końca IV wieku, datowanym na podstawie jego uczestnictwa w Soborze w Walencji w 374 roku."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-21_saint_matthew_the_evangelist_apostle_evangelist_feast",
+  "name": "Saint Matthew the Evangelist, Apostle, Evangelist—Feast",
+  "mmdd": "09-21",
+  "feast": "The Twenty-First Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-21_saint_matthew_the_evangelist_apostle_evangelist_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "934cd2ac21471b54ad9825d2638b51a6596b5e732c87a2924030c2846dd66944",
+        "langs": {
+          "es": {
+            "translatedHash": "9050efc2ba0e6cebbd59b763f786bd3d4bda1e6cfa9abd72111c19d0a0e921ba",
+            "updatedAt": "2026-02-25T00:35:12.232Z"
+          },
+          "pl": {
+            "translatedHash": "d204b2e4fb191fc326f5839652841aae91c98de245bbef58eefa83ffa8e518df",
+            "updatedAt": "2026-02-25T00:35:13.003Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3aa82970b8b19a1cf512dc6d1c7f6a4779a025384f13b4f2decee93e3286022b",
+        "langs": {
+          "es": {
+            "translatedHash": "fa6f01136b522f684df5b4e4855ca5882feab3712f10267c843e4abd4dcb0a15",
+            "updatedAt": "2026-02-25T00:35:13.702Z"
+          },
+          "pl": {
+            "translatedHash": "299a5b3ec4793f68d7d456b1556417818c3325c2712c4f72966816c64800ed8a",
+            "updatedAt": "2026-02-25T00:35:14.429Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Mateo Evangelista, Apóstol, Evangelista—Fiesta",
+  "name_pl": "Święty Mateusz Ewangelista, Apostoł, Ewangelista — Uroczystość",
+  "feast_es": "El Vigésimo Primer Día de Septiembre",
+  "feast_pl": "Dwudziesty pierwszy dzień września"
+}

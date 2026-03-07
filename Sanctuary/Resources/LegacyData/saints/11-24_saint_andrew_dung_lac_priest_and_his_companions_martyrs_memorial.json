@@ -1,0 +1,48 @@
+{
+  "id": "11-24_saint_andrew_dung_lac_priest_and_his_companions_martyrs_memorial",
+  "name": "Saint Andrew Dung-Lac, Priest and his Companions, Martyrs—Memorial",
+  "mmdd": "11-24",
+  "feast": "The Twenty-Fourth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vietnamese_Martyrs"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-24_saint_andrew_dung_lac_priest_and_his_companions_martyrs_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "04dbfd634b44c39c7ea5eb48b4b58a1c5e8dcfd00317131b5e3211f62c519261",
+        "langs": {
+          "es": {
+            "translatedHash": "af69b322763ed137fdcb10c0150a79c083eed849c60bed1ccc3ba93f18f4c625",
+            "updatedAt": "2026-02-25T01:13:29.514Z"
+          },
+          "pl": {
+            "translatedHash": "a9e2fe37dd804cd64c4c990bf61a5ae29929e2eddc3742b22b49fcc4b24fd240",
+            "updatedAt": "2026-02-25T01:13:30.400Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9cd2d03ccb6414b1173f1b44848d04dd1d4fea6861f4b0137fb7d644fa283064",
+        "langs": {
+          "es": {
+            "translatedHash": "b0a07801f1a677dc7acee0f47dabb8c77ad6acae949615f9924cfeec15200fb2",
+            "updatedAt": "2026-02-25T01:13:31.041Z"
+          },
+          "pl": {
+            "translatedHash": "e7e9722722fc9ea2db038b79fb259762a8ad710aa0ff5c1d77612b70b149b96c",
+            "updatedAt": "2026-02-25T01:13:31.716Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Andrés Dung-Lac, sacerdote, y sus compañeros, mártires—Memoria",
+  "name_pl": "Święty Andrzej Dung-Lac, kapłan, i towarzysze, męczennicy — wspomnienie",
+  "feast_es": "El vigésimo cuarto día de noviembre",
+  "feast_pl": "Dwudziesty czwarty dzień listopada"
+}

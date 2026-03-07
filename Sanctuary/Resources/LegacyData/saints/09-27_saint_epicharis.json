@@ -1,0 +1,78 @@
+{
+  "id": "09-27_saint_epicharis",
+  "name": "Saint Epicharis",
+  "mmdd": "09-27",
+  "feast": "The Twenty Seventh Day of September",
+  "summary": "Epicharis is the name of two Christian martyrs.",
+  "biography": "Epicharis is the name of two Christian martyrs.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epicharis_(martyr)"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-27_saint_epicharis.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3080ac801b1997765959514a852b7cd26ca695766b0740f1d4f160d0f0cbe75a",
+        "langs": {
+          "es": {
+            "translatedHash": "7b389313917ca9c40f896d52d45360438ab1782a04d07b32ee24c27f92cd24a5",
+            "updatedAt": "2026-02-25T00:38:37.708Z"
+          },
+          "pl": {
+            "translatedHash": "5a5238eca413e449d3abb1c813ab8218229a38baff6b12e485691dc45b801016",
+            "updatedAt": "2026-02-25T00:38:38.331Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f70e710ee6645d4c16999cc78931c4006010bb15e5138abfff9f78660437dcd2",
+        "langs": {
+          "es": {
+            "translatedHash": "8642af1793e677012bfe4b71834c429523d29f6d9965a55b50de3f2fde64e4de",
+            "updatedAt": "2026-02-25T00:38:38.938Z"
+          },
+          "pl": {
+            "translatedHash": "e6707493f8f5ca9e98a615bc36aa0d90c7e9fb6b4e8583260c877b7d63fb9649",
+            "updatedAt": "2026-02-25T00:38:39.784Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e34f0486ef6f1e782f7c45754d29870375eeca45f0e95680cef8fd85d5ba94ae",
+        "langs": {
+          "es": {
+            "translatedHash": "ea32dfd188906125f279e7e23642c20bb93f0201ffbe5ac2dcb3673176cd12b0",
+            "updatedAt": "2026-02-25T00:38:40.420Z"
+          },
+          "pl": {
+            "translatedHash": "b5ef07826595fa13d1ab40dac13cac278144442ba18f90cb451ad3e76da64f08",
+            "updatedAt": "2026-02-25T00:38:41.447Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "e34f0486ef6f1e782f7c45754d29870375eeca45f0e95680cef8fd85d5ba94ae",
+        "langs": {
+          "es": {
+            "translatedHash": "0a36c49b048da4ac60854839e7b3869ac5827321bb0ac0fbaaeaca6bfe324ca8",
+            "updatedAt": "2026-02-25T00:38:42.169Z"
+          },
+          "pl": {
+            "translatedHash": "b5ef07826595fa13d1ab40dac13cac278144442ba18f90cb451ad3e76da64f08",
+            "updatedAt": "2026-02-25T00:38:42.893Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Epicaris",
+  "name_pl": "Święta Epicharis",
+  "feast_es": "El Vigésimo Séptimo Día de Septiembre",
+  "feast_pl": "Dwudziesty siódmy dzień września",
+  "summary_es": "Epicharis es el nombre de dos mártires cristianos.",
+  "summary_pl": "Epicharis to imię dwóch chrześcijańskich męczennic.",
+  "biography_es": "Epícaris es el nombre de dos mártires cristianos.",
+  "biography_pl": "Epicharis to imię dwóch chrześcijańskich męczennic."
+}

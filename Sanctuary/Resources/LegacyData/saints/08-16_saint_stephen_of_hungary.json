@@ -1,0 +1,79 @@
+{
+  "id": "08-16_saint_stephen_of_hungary",
+  "name": "Saint Stephen of Hungary",
+  "mmdd": "08-16",
+  "feast": "The Sixteenth Day of August",
+  "summary": "Stephen I, also known as King Saint Stephen, was the last grand prince of the Hungarians between 997 and 1000 or 1001, and the first king of Hungary from 1000 or 1001 until his death in 1038. The year of his birth is uncertain, but many details of his life suggest that he was born in, or after, 975, in Esztergom. He was given the pagan name Vajk at birth, but the date of his baptism is unknown. He was the only son of Grand Prince Géza and his wife, Sarolt, who was descended from a prominent family of gyulas. Although both of his parents were baptized, Stephen was the first member of his family to become a devout Christian. He married Gisela of Bavaria, a scion of the imperial Ottonian dynasty.",
+  "biography": "Stephen I, also known as King Saint Stephen (Hungarian: Szent István király [ˌsɛnt ˈiʃtvaːn kiraːj]; Latin: Sanctus Stephanus; Slovak: Štefan I. or Štefan Veľký; c. 975 – 15 August 1038), was the last grand prince of the Hungarians between 997 and 1000 or 1001, and the first king of Hungary from 1000 or 1001 until his death in 1038. The year of his birth is uncertain, but many details of his life suggest that he was born in, or after, 975, in Esztergom. He was given the pagan name Vajk at birth, but the date of his baptism is unknown. He was the only son of Grand Prince Géza and his wife, Sarolt, who was descended from a prominent family of gyulas. Although both of his parents were baptized, Stephen was the first member of his family to become a devout Christian. He married Gisela of Bavaria, a scion of the imperial Ottonian dynasty. After succeeding his father in 997, Stephen had to fight for the throne against his relative, Koppány, who was supported by large numbers of pagan warriors. He defeated Koppány with the assistance of foreign knights including Vecelin, Hont and Pázmány, and native lords. He was crowned on 25 December 1000 or 1 January 1001 with a crown sent by Pope Sylvester...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-16_saint_stephen_of_hungary.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2e1f419c4f8003e21e2a7b8201a5834343f5474cffde9576b98eeecdcd31d07d",
+        "langs": {
+          "es": {
+            "translatedHash": "371e88cbf90fb8d70aadb79afad3ae98960238302cffb01173686c85df696fa4",
+            "updatedAt": "2026-02-25T00:16:02.791Z"
+          },
+          "pl": {
+            "translatedHash": "b866b4f89298080e21ec213c8fb4c37a43640406e0ff3ff06f41bf441ce34bf6",
+            "updatedAt": "2026-02-25T00:16:03.457Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a1b0062b871a99a880e522a533cbd524eb6013d96e56d9d114c0b39fa73b8118",
+        "langs": {
+          "es": {
+            "translatedHash": "510ac5263889b97edcf528e892eb5d97af87e3941d87f67762019105f8621efa",
+            "updatedAt": "2026-02-25T00:16:04.027Z"
+          },
+          "pl": {
+            "translatedHash": "a368be79b664946f474c6bd2f9d2ca1ae5dec5ab1e7785a047502cc64f688421",
+            "updatedAt": "2026-02-25T00:16:04.910Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0566bdcdc8c705fa0f255fd85fc1566ffb87eaf33b2beda46c897042cdb05ea0",
+        "langs": {
+          "es": {
+            "translatedHash": "3e174f7922ccf46f4aeca4b2181b788d4421f4400ca4bb23350675aa38f9d83c",
+            "updatedAt": "2026-02-25T00:16:08.337Z"
+          },
+          "pl": {
+            "translatedHash": "75af0500fed386f0437f09eb454f808f44eb57d6c933b022c9d75c02c199bffa",
+            "updatedAt": "2026-02-25T00:16:12.063Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "cfe8340fd17609defc210fd3f204a93657803ee67a9f0c50c9ef34d9f7d5857f",
+        "langs": {
+          "es": {
+            "translatedHash": "66b146e97df0961f9d15eca3126cc32ca76bae4e68d694af632f0b86f9998066",
+            "updatedAt": "2026-02-25T00:16:18.005Z"
+          },
+          "pl": {
+            "translatedHash": "e018d9ed391c0693eb684262f1864119ce57fb8be110f8e1350b3e4538ac3f78",
+            "updatedAt": "2026-02-25T00:16:24.984Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Esteban de Hungría",
+  "name_pl": "Święty Stefan Węgier",
+  "feast_es": "El Dieciséis de Agosto",
+  "feast_pl": "Szesnasty dzień sierpnia",
+  "summary_es": "Esteban I, también conocido como el Rey Santo Esteban, fue el último gran príncipe de los húngaros entre 997 y 1000 o 1001, y el primer rey de Hungría desde 1000 o 1001 hasta su muerte en 1038. El año de su nacimiento es incierto, pero muchos detalles de su vida sugieren que nació en, o después de, 975, en Esztergom. Al nacer se le dio el nombre pagano Vajk, pero se desconoce la fecha de su bautismo. Fue el único hijo del Gran Príncipe Géza y su esposa, Sarolt, quien descendía de una familia prominente de gyulas. Aunque ambos padres fueron bautizados, Esteban fue el primer miembro de su familia en convertirse en un cristiano devoto. Se casó con Gisela de Baviera, una descendiente de la dinastía imperial otoniana.",
+  "summary_pl": "Stefan I, znany również jako król święty Stefan, był ostatnim wielkim księciem Węgrów w latach 997–1000 lub 1001 oraz pierwszym królem Węgier od 1000 lub 1001 roku aż do swojej śmierci w 1038 roku. Rok jego urodzenia jest niepewny, lecz wiele szczegółów z jego życia sugeruje, że urodził się w Esztergom lub po roku 975. Przy urodzeniu nadano mu pogańskie imię Vajk, jednak data jego chrztu jest nieznana. Był jedynym synem wielkiego księcia Gézy i jego żony Sarolt, która pochodziła z wybitnej rodziny gyulów. Chociaż oboje jego rodzice byli ochrzczeni, Stefan był pierwszym członkiem swojej rodziny, który stał się gorliwym chrześcijaninem. Poślubił Gizelę Bawarską, potomkinię cesarskiej dynastii Ottonów.",
+  "biography_es": "Esteban I, también conocido como el Rey Santo Esteban (húngaro: Szent István király [ˌsɛnt ˈiʃtvaːn kiraːj]; latín: Sanctus Stephanus; eslovaco: Štefan I. o Štefan Veľký; c. 975 – 15 de agosto de 1038), fue el último gran príncipe de los húngaros entre 997 y 1000 o 1001, y el primer rey de Hungría desde 1000 o 1001 hasta su muerte en 1038. El año de su nacimiento es incierto, pero muchos detalles de su vida sugieren que nació en, o después de, 975, en Esztergom. Recibió el nombre pagano Vajk al nacer, pero se desconoce la fecha de su bautismo. Fue el único hijo del Gran Príncipe Géza y su esposa, Sarolt, quien descendía de una familia prominente de gyulas. Aunque ambos padres fueron bautizados, Esteban fue el primer miembro de su familia en convertirse en un cristiano devoto. Se casó con Gisela de Baviera, una descendiente de la dinastía imperial otoniana. Tras suceder a su padre en 997, Esteban tuvo que luchar por el trono contra su pariente, Koppány, quien contaba con el apoyo de numerosos guerreros paganos. Derrotó a Koppány con la ayuda de caballeros extranjeros, entre ellos Vecelin, Hont y Pázmány, y señores nativos. Fue coronado el 25 de diciembre de 1000 o el 1 de enero de 1001 con una corona enviada por el Papa Silvestre...",
+  "biography_pl": "Stefan I, znany również jako król święty Stefan (węgierski: Szent István király [ˌsɛnt ˈiʃtvaːn kiraːj]; łacina: Sanctus Stephanus; słowacki: Štefan I. lub Štefan Veľký; ok. 975 – 15 sierpnia 1038), był ostatnim wielkim księciem Węgrów w latach 997–1000 lub 1001 oraz pierwszym królem Węgier od 1000 lub 1001 aż do swojej śmierci w 1038 roku. Rok jego urodzenia jest niepewny, lecz wiele szczegółów z jego życia wskazuje, że urodził się w lub po roku 975, w Esztergom. Przy narodzinach nadano mu pogańskie imię Vajk, jednak data jego chrztu jest nieznana. Był jedynym synem wielkiego księcia Gézy i jego żony Sarolt, która pochodziła z wybitnej rodziny gyulów. Chociaż oboje jego rodzice byli ochrzczeni, Stefan był pierwszym członkiem swojej rodziny, który stał się gorliwym chrześcijaninem. Poślubił Gizelę Bawarską, potomkinię cesarskiej dynastii Ottonów. Po objęciu tronu po ojcu w 997 roku, Stefan musiał walczyć o koronę z krewnym, Koppánym, który miał poparcie licznych pogańskich wojowników. Pokonał Koppányego przy pomocy zagranicznych rycerzy, w tym Vecelina, Honta i Pázmányego, oraz rodzimych panów. Został koronowany 25 grudnia 1000 lub 1 stycznia 1001 koroną przesłaną przez papieża Sylwestra..."
+}

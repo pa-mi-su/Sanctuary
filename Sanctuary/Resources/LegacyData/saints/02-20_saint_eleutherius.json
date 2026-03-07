@@ -1,0 +1,81 @@
+{
+  "id": "02-20_saint_eleutherius",
+  "name": "Saint Eleutherius",
+  "mmdd": "02-20",
+  "feast": "The Twentieth Day of February",
+  "summary": "Saint Eleutherius of Tournai is venerated as a saint and considered the first bishop of Tournai. The Catholic Encyclopedia writes that \"historically there is very little known about St. Eleutherius, but he was without doubt the first Bishop of Tournai.\"",
+  "biography": "Martyrdom\nEleutherius is venerated as a martyr although this legend is considered an invention of the canon priest Henri of Tournai, who wrote a vita of Eleutherius in 1141. At the end of the 11th century the Church of Tournai had been trying to become independent from the diocese of Noyon, and Henri had been motivated by the need to prove the antiquity of the Church of Tournai.  Catholic Online repeats the legend that a \"group of Arians enraged by his preaching beat him severely He died some weeks later...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eleutherius_of_Tournai",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-20_saint_eleutherius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "8a34c3394e3f521a69f5d36eaff38459cf513963d4accec292948ff81b107236",
+        "langs": {
+          "es": {
+            "translatedHash": "bb682b6a35c7af8a65cd123cda9b39a8b3ad84e93d6c716aa81e17ed225d84a2",
+            "updatedAt": "2026-02-24T22:38:56.452Z"
+          },
+          "pl": {
+            "translatedHash": "c6da9a9be0584807de784f50e62ac8df69014110cfe35c3a7629936ae22a4d65",
+            "updatedAt": "2026-02-24T22:38:57.136Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "dbf30927d38df7546f148ef8dd6f77cd042b1f76a8c5484621879b2a821c3b3a",
+        "langs": {
+          "es": {
+            "translatedHash": "00c00d704884f04f253ef374547cda3add1f0177eb09bb531a98109552e49768",
+            "updatedAt": "2026-02-24T22:38:57.833Z"
+          },
+          "pl": {
+            "translatedHash": "49bc666551d2c928106bf369cadc7cb10a81bf398e3301d7995e25164fb44ef5",
+            "updatedAt": "2026-02-24T22:38:58.547Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ed4d29514ef9b61935bd99b8b370bca006e07ff421892f89ace5a95af1953aff",
+        "langs": {
+          "es": {
+            "translatedHash": "97b258a7c82e9bffeb4b7f270667272eebf2e49d7a4edcd2cf2702952ff6d8e6",
+            "updatedAt": "2026-02-24T22:39:00.598Z"
+          },
+          "pl": {
+            "translatedHash": "8d2fc714fce0f68cd6e91cf2fc97f38ab1a98c0a31de22c6f8ea3349c0cb8e44",
+            "updatedAt": "2026-02-24T22:39:02.747Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9fa7bf4305c644e890816810a40c356e5551c6f77d981fe64fcf7b7fbe70afe5",
+        "langs": {
+          "es": {
+            "translatedHash": "d84cba78b8e488b898f94296311272e9912930868b02c6f966175da7cadb6dd1",
+            "updatedAt": "2026-02-24T22:39:06.167Z"
+          },
+          "pl": {
+            "translatedHash": "e31780c64eeb81e72657a3d67fd1384506c7169e4bd886efce6714717bbde91d",
+            "updatedAt": "2026-02-24T22:39:08.693Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Eleuterio",
+  "name_pl": "Święty Eleuteriusz",
+  "feast_es": "El vigésimo día de febrero",
+  "feast_pl": "Dwudziesty dzień lutego",
+  "summary_es": "San Eleuterio de Tournai es venerado como santo y considerado el primer obispo de Tournai. La Enciclopedia Católica escribe que \"históricamente se sabe muy poco sobre San Eleuterio, pero sin duda fue el primer obispo de Tournai.\"",
+  "summary_pl": "Święty Eleuteriusz z Tournai jest czczony jako święty i uważany za pierwszego biskupa Tournai. Encyklopedia Katolicka pisze, że „historycznie wiadomo o św. Eleuteriuszu bardzo niewiele, ale bez wątpienia był pierwszym biskupem Tournai.”",
+  "biography_es": "Martirio  \nEleuterio es venerado como mártir aunque esta leyenda se considera una invención del canónigo Henri de Tournai, quien escribió una vita de Eleuterio en 1141. A finales del siglo XI, la Iglesia de Tournai había estado intentando independizarse de la diócesis de Noyon, y Henri se había visto motivado por la necesidad de probar la antigüedad de la Iglesia de Tournai. Catholic Online repite la leyenda de que un \"grupo de arrianos, enfurecidos por su predicación, lo golpearon severamente. Murió algunas semanas después...",
+  "biography_pl": "Męczeństwo  \nEleuter jest czczony jako męczennik, chociaż ta legenda uważana jest za wymysł kanonika Henriego z Tournai, który napisał żywot Eleutera w 1141 roku. Pod koniec XI wieku Kościół w Tournai próbował uniezależnić się od diecezji Noyon, a Henri był zmotywowany potrzebą udowodnienia starożytności Kościoła w Tournai. Catholic Online powtarza legendę, że „grupa arian, rozgniewana jego kazaniami, ciężko go pobiła. Zmarł kilka tygodni później..."
+}

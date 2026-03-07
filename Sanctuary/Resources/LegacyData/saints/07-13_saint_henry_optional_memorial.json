@@ -1,0 +1,48 @@
+{
+  "id": "07-13_saint_henry_optional_memorial",
+  "name": "Saint Henry—Optional Memorial",
+  "mmdd": "07-13",
+  "feast": "The Thirteenth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_the_Chair_of_Saint_Peter"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-13_saint_henry_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f4d8d1b8c4a26a8c92c963e24db13da1b241a99cc8e0cf7c42a4da440d933bcd",
+        "langs": {
+          "es": {
+            "translatedHash": "e1d92672e1460913d0e6f570ea9fc0fb2543c0849e8c6383bf17b3990d9395eb",
+            "updatedAt": "2026-02-24T23:57:36.409Z"
+          },
+          "pl": {
+            "translatedHash": "15e26c2fd7de091c0ac69a188f9b5f6e9235624083d667476f0151d1f467d280",
+            "updatedAt": "2026-02-24T23:57:37.297Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "09c61a0844365e71ee1737f234e7daaa00890442aefad12b33167925922e8fb0",
+        "langs": {
+          "es": {
+            "translatedHash": "137821da2119d4cc7faa95a860edaeba8c6bebe85e7a1fe82cca02d076b023b1",
+            "updatedAt": "2026-02-24T23:57:38.179Z"
+          },
+          "pl": {
+            "translatedHash": "8f934adcaa0f19e27aa0284b6f28449e89aaf456a9b73ec93450c0dfaf654bb0",
+            "updatedAt": "2026-02-24T23:57:38.720Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Enrique—Memoria Opcional",
+  "name_pl": "Święty Henryk — Wspomnienie dowolne",
+  "feast_es": "El decimotercer día de julio",
+  "feast_pl": "Trzynasty dzień lipca"
+}

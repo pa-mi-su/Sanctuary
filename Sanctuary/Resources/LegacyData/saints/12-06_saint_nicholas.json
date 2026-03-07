@@ -1,0 +1,79 @@
+{
+  "id": "12-06_saint_nicholas",
+  "name": "Saint Nicholas",
+  "mmdd": "12-06",
+  "feast": "The Sixth Day of December",
+  "summary": "Saint Nicholas of Myra, also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker. Saint Nicholas is the patron saint of sailors, merchants, archers, repentant thieves, children, brewers, pawnbrokers, toymakers, unmarried people, and students in various cities and countries around Europe. His reputation evolved among the pious, as was common for early Christian saints, and his legendary habit of secret gift-giving gave rise to the folklore of Santa Claus through Sinterklaas.",
+  "biography": "Saint Nicholas of Myra (traditionally 15 March 270 – 6 December 343), also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia (in modern-day Antalya Province, Turkey) during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker. Saint Nicholas is the patron saint of sailors, merchants, archers, repentant thieves, children, brewers, pawnbrokers, toymakers, unmarried people, and students in various cities and countries around Europe. His reputation evolved among the pious, as was common for early Christian saints, and his legendary habit of secret gift-giving gave rise to the folklore of Santa Claus (\"Saint Nick\") through Sinterklaas. Little is known about the historical Saint Nicholas. The earliest accounts of his life were written centuries after his death and probably contain legendary elaborations. He is said to have been born in the Anatolian seaport of Patara, Lycia, in Asia Minor to wealthy Christian parents. In one of the earliest attested and most famous incidents from his life, he is said to have rescued three girls from being...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Nicholas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-06_saint_nicholas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f5410e9f76afb8d268c04a7ac472acc06301e1e132cc371adf50c513c3f19ad6",
+        "langs": {
+          "es": {
+            "translatedHash": "58b9a07ba8d01c3b6447f97c7295dc01d430259f5bf206fbf7f071e527b16a93",
+            "updatedAt": "2026-02-25T01:20:35.791Z"
+          },
+          "pl": {
+            "translatedHash": "1a4af0ccd550e363f924973132f4b0827cfd63a7377a5ae5d5af9f89349ad27d",
+            "updatedAt": "2026-02-25T01:20:36.353Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a1688672c2f39c27337302bb69b4f77346aeabe7ce47fbc2eee839a97a4c6742",
+        "langs": {
+          "es": {
+            "translatedHash": "a85f7768c346c8c2a39841372a22c7a359da6137141fa688fdd9162688a4d929",
+            "updatedAt": "2026-02-25T01:20:36.954Z"
+          },
+          "pl": {
+            "translatedHash": "31e9b8dfe5c5cc4f575801a387e2c19a843bf53e4b01baa468999e855ccbcde7",
+            "updatedAt": "2026-02-25T01:20:37.663Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "43e7f9140c98c31326c192efe35a28c0829995e7e871a406e9e975960de832a1",
+        "langs": {
+          "es": {
+            "translatedHash": "595d43afe2235da5aa7634a4177808c696bfaa91a46673705a67094f4dad92f5",
+            "updatedAt": "2026-02-25T01:20:40.608Z"
+          },
+          "pl": {
+            "translatedHash": "afeb6c9b4c406f715f787ed8cbec30a4637ad9f8dd14c3174c7ac7886cc816d8",
+            "updatedAt": "2026-02-25T01:20:45.047Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "335e3631f93970d1056b032116b8445899e10df25770a0d67adb4d7de4e262b6",
+        "langs": {
+          "es": {
+            "translatedHash": "bceb17341aae19a3e95e76f430fb300692761adaf96636ab7a622606ff271c2e",
+            "updatedAt": "2026-02-25T01:20:49.440Z"
+          },
+          "pl": {
+            "translatedHash": "faddd45bb8c0921eeb3309f43ee204604f04201809e892216ca0246b3c6057dd",
+            "updatedAt": "2026-02-25T01:20:56.857Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Nicolás",
+  "name_pl": "Święty Mikołaj",
+  "feast_es": "El Sexto Día de Diciembre",
+  "feast_pl": "Szósty dzień grudnia",
+  "summary_es": "San Nicolás de Mira, también conocido como Nicolás de Bari, fue un obispo cristiano primitivo de ascendencia griega de la ciudad marítima de Patara en Anatolia durante la época del Imperio Romano. Debido a los muchos milagros atribuidos a su intercesión, también es conocido como Nicolás el Taumaturgo. San Nicolás es el santo patrón de los marineros, comerciantes, arqueros, ladrones arrepentidos, niños, cerveceros, prestamistas, fabricantes de juguetes, personas solteras y estudiantes en diversas ciudades y países de Europa. Su reputación evolucionó entre los piadosos, como era común en los santos cristianos primitivos, y su legendaria costumbre de dar regalos en secreto dio origen al folclore de Santa Claus a través de Sinterklaas.",
+  "summary_pl": "Święty Mikołaj z Miry, znany również jako Mikołaj z Bari, był wczesnochrześcijańskim biskupem pochodzenia greckiego z nadmorskiego miasta Patara w Azji Mniejszej za czasów Cesarstwa Rzymskiego. Ze względu na liczne cuda przypisywane jego wstawiennictwu, znany jest także jako Mikołaj Cudotwórca. Święty Mikołaj jest patronem żeglarzy, kupców, łuczników, nawróconych złodziei, dzieci, piwowarów, lombardzistów, twórców zabawek, osób niezamężnych oraz studentów w różnych miastach i krajach Europy. Jego reputacja rozwijała się wśród pobożnych, co było typowe dla wczesnych świętych chrześcijańskich, a jego legendarna zwyczaj tajemniczego obdarowywania prezentami dała początek folklorowi Świętego Mikołaja poprzez postać Sinterklaasa.",
+  "biography_es": "San Nicolás de Mira (tradicionalmente 15 de marzo de 270 – 6 de diciembre de 343), también conocido como Nicolás de Bari, fue un obispo cristiano temprano de ascendencia griega de la ciudad marítima de Patara en Anatolia (en la actual provincia de Antalya, Turquía) durante la época del Imperio Romano. Debido a los muchos milagros atribuidos a su intercesión, también es conocido como Nicolás el Taumaturgo. San Nicolás es el santo patrón de los marineros, comerciantes, arqueros, ladrones arrepentidos, niños, cerveceros, prestamistas, fabricantes de juguetes, personas solteras y estudiantes en varias ciudades y países de Europa. Su reputación evolucionó entre los piadosos, como era común en los santos cristianos primitivos, y su legendaria costumbre de dar regalos en secreto dio origen al folclore de Santa Claus (\"San Nick\") a través de Sinterklaas. Se sabe poco sobre el histórico San Nicolás. Los primeros relatos de su vida fueron escritos siglos después de su muerte y probablemente contienen elaboraciones legendarias. Se dice que nació en el puerto anatolio de Patara, Licia, en Asia Menor, de padres cristianos adinerados. En uno de los primeros incidentes atestiguados y más famosos de su vida, se dice que rescató a tres niñas de ser...",
+  "biography_pl": "Święty Mikołaj z Miry (tradycyjnie 15 marca 270 – 6 grudnia 343), znany również jako Mikołaj z Bari, był wczesnochrześcijańskim biskupem pochodzenia greckiego z nadmorskiego miasta Patara w Azji Mniejszej (w dzisiejszej prowincji Antalya w Turcji) za czasów Cesarstwa Rzymskiego. Z powodu wielu cudów przypisywanych jego wstawiennictwu, znany jest również jako Mikołaj Cudotwórca. Święty Mikołaj jest patronem żeglarzy, kupców, łuczników, nawróconych złodziei, dzieci, piwowarów, lombardzistów, twórców zabawek, osób niezamężnych oraz studentów w różnych miastach i krajach Europy. Jego reputacja rozwijała się wśród pobożnych, co było powszechne w przypadku wczesnych świętych chrześcijańskich, a jego legendarna zwyczajowa praktyka tajemniczego obdarowywania prezentami dała początek folklorowi Świętego Mikołaja („Saint Nick”) poprzez postać Sinterklaasa. Niewiele wiadomo o historycznym świętym Mikołaju. Najwcześniejsze relacje o jego życiu zostały spisane wieki po jego śmierci i prawdopodobnie zawierają elementy legendy. Mówi się, że urodził się w azjatyckim porcie Patara, w Licji, w Azji Mniejszej, w zamożnej rodzinie chrześcijańskiej. W jednym z najwcześniej poświadczonych i najsłynniejszych wydarzeń z jego życia, podobno uratował trzy dziewczęta przed..."
+}

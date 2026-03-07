@@ -1,0 +1,79 @@
+{
+  "id": "07-31_saint_ignatius_of_loyola_1491_1556",
+  "name": "Saint Ignatius of Loyola, 1491-1556",
+  "mmdd": "07-31",
+  "feast": "The Thirty-First Day of July",
+  "summary": "Ignatius of Loyola, venerated as Saint Ignatius of Loyola, was a Spanish Catholic priest and theologian, who, with six companions, founded the religious order of the Society of Jesus (Jesuits), and became its first Superior General, in Paris in 1541.",
+  "biography": "Ignatius of Loyola ( ig-NAY-shəs; Basque: Ignazio Loiolakoa; Spanish: Ignacio de Loyola; Latin: Ignatius de Loyola; born Íñigo López de Oñaz y Loyola; c. 23 October 1491 – 31 July 1556), venerated as Saint Ignatius of Loyola, was a Spanish Catholic priest and theologian, who, with six companions, founded the religious order of the Society of Jesus (Jesuits), and became its first Superior General, in Paris in 1541. Ignatius envisioned the purpose of the Society of Jesus to be missionary work and teaching. In addition to the vows of chastity, obedience and poverty of other religious orders in the church, Loyola instituted a fourth vow for Jesuits of obedience to the Pope, to engage in projects ordained by the pontiff. Jesuits were instrumental in leading the Counter-Reformation. As a former soldier, Ignatius paid particular attention to the spiritual formation of his recruits and recorded his method in the Spiritual Exercises (1548). In time, the method has become known as Ignatian spirituality. He was beatified in 1609 and was canonized as a saint on 12 March 1622. His feast day is celebrated on 31 July. He is the patron saint of the Basque provinces of Gipuzkoa and Biscay as well as...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ignatius_of_Loyola",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-31_saint_ignatius_of_loyola_1491_1556.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "fe90131a321f9b1708822328d7143504dfe63506fe6f2d958e7aea22bf7ae4b8",
+        "langs": {
+          "es": {
+            "translatedHash": "200fd0a39dff8934746ac2ce0e1df44fa0f8f250ee29694a744f9b5a9e915eea",
+            "updatedAt": "2026-02-25T00:07:36.438Z"
+          },
+          "pl": {
+            "translatedHash": "2a91e2a705c400bba898eb7f546b61d5c2476c039d95309b65fce356dd05ec94",
+            "updatedAt": "2026-02-25T00:07:37.295Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "25f2c79b81d084e5433aa57afc3f688416af5553164342826b2efab7ce9f2f5c",
+        "langs": {
+          "es": {
+            "translatedHash": "d1d445d39fb918901e0a8a23339ecd19f43c149a310b82c7a5b3ce21b8979506",
+            "updatedAt": "2026-02-25T00:07:37.898Z"
+          },
+          "pl": {
+            "translatedHash": "3cc6cbea9f3170b14456dcb55a98ea53f6a2e47448de57670b75bf6fd80c493a",
+            "updatedAt": "2026-02-25T00:07:38.421Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "29dd39111be434832b09153e9c0b7f9b3d1e41e4126603da0a5e714e53ed787b",
+        "langs": {
+          "es": {
+            "translatedHash": "14a356654d67c49629e927c5b64f610705cd677821fd04e570e1b6fe8615ee4f",
+            "updatedAt": "2026-02-25T00:07:40.667Z"
+          },
+          "pl": {
+            "translatedHash": "6ceb939ce5e121fef85651d39ee60c3ce67a987ff38bda446df1c77879e1f2fc",
+            "updatedAt": "2026-02-25T00:07:42.903Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "0701e0689a8ca15b672f67c4edbbddbc0f751d430e2931f27109c7ec5190046a",
+        "langs": {
+          "es": {
+            "translatedHash": "14a265638aefa102c73a71700d48a14a1512d0e3cf65a2d5bb8836cf4e1331fb",
+            "updatedAt": "2026-02-25T00:07:52.138Z"
+          },
+          "pl": {
+            "translatedHash": "debb85aa2415745c6f0f4b2e4aeeec8ea53dd61e5cbd4057103c88c4457fbc51",
+            "updatedAt": "2026-02-25T00:07:57.588Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ignacio de Loyola, 1491-1556",
+  "name_pl": "Święty Ignacy z Loyoli, 1491-1556",
+  "feast_es": "El Trigésimo Primer Día de Julio",
+  "feast_pl": "Trzydziesty pierwszy dzień lipca",
+  "summary_es": "Ignacio de Loyola, venerado como San Ignacio de Loyola, fue un sacerdote y teólogo católico español, quien, junto con seis compañeros, fundó la orden religiosa de la Compañía de Jesús (jesuitas), y se convirtió en su primer Superior General, en París en 1541.",
+  "summary_pl": "Ignacy Loyola, czczony jako święty Ignacy Loyola, był hiszpańskim księdzem katolickim i teologiem, który wraz z sześcioma towarzyszami założył zakon Towarzystwa Jezusowego (jezuitów) i został jego pierwszym przełożonym generalnym, w Paryżu w 1541 roku.",
+  "biography_es": "Ignacio de Loyola (ig-NAH-syoh; Vasco: Ignazio Loiolakoa; Español: Ignacio de Loyola; Latín: Ignatius de Loyola; nacido Íñigo López de Oñaz y Loyola; c. 23 de octubre de 1491 – 31 de julio de 1556), venerado como San Ignacio de Loyola, fue un sacerdote y teólogo católico español, quien, junto con seis compañeros, fundó la orden religiosa de la Compañía de Jesús (jesuitas), y se convirtió en su primer Superior General, en París en 1541. Ignacio concibió el propósito de la Compañía de Jesús como la labor misionera y la enseñanza. Además de los votos de castidad, obediencia y pobreza de otras órdenes religiosas en la iglesia, Loyola instituyó un cuarto voto para los jesuitas de obediencia al Papa, para participar en proyectos ordenados por el pontífice. Los jesuitas fueron fundamentales en la conducción de la Contrarreforma. Como exsoldado, Ignacio prestó especial atención a la formación espiritual de sus reclutas y registró su método en los Ejercicios Espirituales (1548). Con el tiempo, el método se ha conocido como espiritualidad ignaciana. Fue beatificado en 1609 y canonizado como santo el 12 de marzo de 1622. Su fiesta se celebra el 31 de julio. Es el santo patrón de las provincias vascas de Gipuzkoa y Vizcaya, así como...",
+  "biography_pl": "Ignacy Loyola (wymowa: ig-NAY-shəs; baskijski: Ignazio Loiolakoa; hiszpański: Ignacio de Loyola; łacina: Ignatius de Loyola; urodzony jako Íñigo López de Oñaz y Loyola; ok. 23 października 1491 – 31 lipca 1556), czczony jako święty Ignacy Loyola, był hiszpańskim księdzem katolickim i teologiem, który wraz z sześcioma towarzyszami założył zakon Towarzystwa Jezusowego (jezuitów) i został jego pierwszym generałem w Paryżu w 1541 roku. Ignacy widział cel Towarzystwa Jezusowego w pracy misyjnej i nauczaniu. Oprócz ślubów czystości, posłuszeństwa i ubóstwa, charakterystycznych dla innych zakonów w Kościele, Loyola wprowadził czwarty ślub dla jezuitów – posłuszeństwo papieżowi, polegające na podejmowaniu się zadań wyznaczonych przez pontyfika. Jezuici odegrali kluczową rolę w prowadzeniu kontrreformacji. Jako były żołnierz, Ignacy zwracał szczególną uwagę na duchowe formowanie swoich współbraci i spisał swoją metodę w Ćwiczeniach duchowych (1548). Z czasem metoda ta stała się znana jako duchowość ignacjańska. Został beatyfikowany w 1609 roku, a kanonizowany 12 marca 1622 roku. Jego wspomnienie liturgiczne obchodzone jest 31 lipca. Jest patronem baskijskich prowincji Gipuzkoa i Bizkaia oraz..."
+}

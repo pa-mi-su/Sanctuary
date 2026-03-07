@@ -1,0 +1,48 @@
+{
+  "id": "04-02_saint_francis_of_paola_hermit_optional_memorial",
+  "name": "Saint Francis of Paola, Hermit—Optional Memorial",
+  "mmdd": "04-02",
+  "feast": "The Second Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nonviolence"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-02_saint_francis_of_paola_hermit_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "cdf92bd7f5cc2f99c24d68cf1b96dc2c336ae7a046a931c3b2279d926a457fb8",
+        "langs": {
+          "es": {
+            "translatedHash": "a5d1d1ff26c6d511cca4a38cc218d3bf2a55ba3a03b14ae1dc5b728a50cff839",
+            "updatedAt": "2026-02-24T23:03:21.112Z"
+          },
+          "pl": {
+            "translatedHash": "e953f181e62790cda94d40a4f30729a576bebf24197a9b336c1c50ad3f9e6b30",
+            "updatedAt": "2026-02-24T23:03:22.000Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1e95dcb3d9cb015bc0cad4a0402f49ca951599fd373faa439d60271d0d25d777",
+        "langs": {
+          "es": {
+            "translatedHash": "4decb41548e19ce1d213a001fef3b8fb9c01c2def37c282c8885492ea1108daa",
+            "updatedAt": "2026-02-24T23:03:22.694Z"
+          },
+          "pl": {
+            "translatedHash": "b1d365f57c6b7c9752a8397c8696e48abdab9cd7fb97fd5bd483b9342bbdb4aa",
+            "updatedAt": "2026-02-24T23:03:23.532Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Francisco de Paula, Ermitaño—Memoria Opcional",
+  "name_pl": "Święty Franciszek z Paoli, Pustelnik — Wspomnienie dowolne",
+  "feast_es": "El Segundo Día de Abril",
+  "feast_pl": "Drugi dzień kwietnia"
+}

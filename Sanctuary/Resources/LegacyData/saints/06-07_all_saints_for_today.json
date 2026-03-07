@@ -1,0 +1,46 @@
+{
+  "id": "06-07_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "06-07",
+  "feast": "The Seventh Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:38:40.883Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:38:41.731Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d290f51d79149e4ec372098f5e3d0ba64ffe37c527d09fbb617d77f58e31325e",
+        "langs": {
+          "es": {
+            "translatedHash": "987749c36c3cd66a38a5ec4cf079041ef360074ba4762ceab43cdb763632c320",
+            "updatedAt": "2026-02-24T23:38:42.248Z"
+          },
+          "pl": {
+            "translatedHash": "e69510dffff95d5d023da64b85384a060680da7508d3ecb41de1c400e9dc551b",
+            "updatedAt": "2026-02-24T23:38:42.900Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El séptimo día de junio",
+  "feast_pl": "Siódmy dzień czerwca"
+}

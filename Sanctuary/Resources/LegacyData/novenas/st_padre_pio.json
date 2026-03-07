@@ -1,0 +1,274 @@
+{
+  "id": "st_padre_pio",
+  "title": "St Padre Pio Novena",
+  "description": "St. Pio of Pietrelcina, or Padre Pio as he is affectionately known by millions, was a Franciscan priest gifted by God in amazing ways.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St Padre Pio"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 14
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/padre-pio-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, Tú has bendecido generosamente a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia y profunda devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza tres veces el Gloria.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożnością i głębokim oddaniem podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do głębszej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Trzy razy Chwała Ojcu.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, generosamente has bendecido a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario para la salvación de las almas. Con reverencia e intensa devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza el Gloria tres veces.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożeństwem i głębokim oddaniem podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Chwała Ojcu trzy razy.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, Tú has bendecido generosamente a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario para la salvación de las almas. Con reverencia y profunda devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza tres veces el Gloria.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożnością i głębokim oddaniem podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Trzy razy Chwała Ojcu.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, generosamente has bendecido a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia e intensa devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza el Gloria tres veces.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha Świętego. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożnością i głębokim oddaniem podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie proszę Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Chwała Ojcu trzy razy.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, Tú has bendecido generosamente a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia y profunda devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza tres veces el Gloria.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio nieustannie pracował w konfesjonale dla zbawienia dusz. Z nabożeństwem i głęboką pobożnością podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Chwała Ojcu trzy razy.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, generosamente has bendecido a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia e intensa devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza el Gloria tres veces.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożeństwem i głębokim oddaniem podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Chwała Ojcu trzy razy.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, Tú has bendecido generosamente a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia y profunda devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza tres veces el Gloria.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożeństwem i głęboką pobożnością podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie proszę Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Trzy razy Chwała Ojcu.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, generosamente has bendecido a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia y profunda devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Santa Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza tres veces el Gloria.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożeństwem i głęboką pobożnością podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów Chwała Ojcu trzy razy.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nDear God, Thou hast generously blessed Thy servant, St. Pio of Pietrelcina, with the gifts of the Spirit. Thou hast marked his body with the five wounds of Christ Crucified, as a powerful witness to the saving Passion and Death of Thy Son. Endowed with the gift of discernment, St. Pio labored endlessly in the confessional for the salvation of souls. With reverence and intense devotion in the celebration of Mass, he invited countless men and women to a greater union with Jesus Christ in the Sacrament of the Holy Eucharist.\n\nThrough the intercession of St. Pio of Pietrelcina, I confidently beseech Thee to grant me the grace of (mention request here…) Amen. Pray the Glory Be three times.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nPraise be to Almighty God. I am not yet even through with the Novena, my son and his wife have made peace and re-united.Thank You Jesus Praise You Jesus.\n\nfrom C.O.\n\nThank you Padre Pio for listening to my prayers and helping my daughter. Thank you God.\n\nfrom S.K.\n\nMy adult daughter has been in an abusive relationship for several years. I have been praying for her to take steps to leave this man. On the 8th day of the novena, she finally left him and is moving forward with her life. I will keep praying for her and all my intentions.\n\nGod is good.\n\nfrom P.B.\n\nMy granddaughter was always nervous and scared in school especially in her assembly when she was to receive an award, and she would cry to go to school every Thursday.\n\nBut I prayed fervently to St Padre Pio to give my granddaughter the strength, courage and confidence, and she did last week in the assembly go up to the Principal and got her award.\n\nThat was great and it made her mum and us, so proud and happy with joyful tears. We all thank you St Padre Pio for this miracle.\n\nI prayed this novena to Padre Pio for my daughter to pass her medical exams.\n\nShe got her results today, and passed them all!\n\nShe can now start training as a doctor in the U.K. God is awesome!",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nQuerido Dios, Tú has bendecido generosamente a Tu siervo, San Pío de Pietrelcina, con los dones del Espíritu. Has marcado su cuerpo con las cinco llagas de Cristo Crucificado, como un poderoso testimonio de la salvadora Pasión y Muerte de Tu Hijo. Dotado con el don del discernimiento, San Pío trabajó incansablemente en el confesionario por la salvación de las almas. Con reverencia e intensa devoción en la celebración de la Misa, invitó a innumerables hombres y mujeres a una mayor unión con Jesucristo en el Sacramento de la Sagrada Eucaristía.\n\nPor la intercesión de San Pío de Pietrelcina, te suplico confiadamente que me concedas la gracia de (mencionar la petición aquí…) Amén. Reza tres veces el Gloria.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nDrogi Boże, hojnie obdarzyłeś swojego sługę, św. Pio z Pietrelciny, darami Ducha. Oznaczyłeś jego ciało pięcioma ranami Chrystusa Ukrzyżowanego, jako potężne świadectwo zbawczej Męki i Śmierci Twojego Syna. Obdarzony darem rozeznania, św. Pio niestrudzenie pracował w konfesjonale dla zbawienia dusz. Z nabożeństwem i głęboką pobożnością podczas sprawowania Mszy Świętej zapraszał niezliczonych mężczyzn i kobiety do większej jedności z Jezusem Chrystusem w Sakramencie Najświętszej Eucharystii.\n\nPrzez wstawiennictwo św. Pio z Pietrelciny ufnie błagam Cię o łaskę (wymień prośbę tutaj…) Amen. Odmów trzy razy Chwała Ojcu.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "September 14Feastday:September 23Patron saint of Civil defense volunteers, Adolescents, Pietrelcina, Stress relief, January blues 📱",
+    "feast": "September 23Patron saint of Civil defense volunteers, Adolescents, Pietrelcina, Stress relief, January blues 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_padre_pio.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "9b4a35a5a05b92c979249450eef818c41b7d1ba2545e256f433e688a25b4fc8a",
+        "langs": {
+          "es": {
+            "translatedHash": "a879d637b6986a633c9a8ce27cbd7ccb30495e92d9a57892d508286e23e8bc90",
+            "updatedAt": "2026-02-25T17:22:09.414Z"
+          },
+          "pl": {
+            "translatedHash": "54dfb1011a0a05eb66c86ac8cf743b3f709f76f4fe591f1d4febe6f5a1d07c31",
+            "updatedAt": "2026-02-25T17:22:11.359Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "271a844104a28af2acfbb944f44e029a744d320cf6b91c2606e1eebd2f52a6b7",
+        "langs": {
+          "es": {
+            "translatedHash": "5ecf54178edf02c7dcb44cc0bc37d8f91c90e309137f2a439093e50052bb8e2d",
+            "updatedAt": "2026-02-25T17:22:12.341Z"
+          },
+          "pl": {
+            "translatedHash": "963ac2c97c273b95c01bb1d06892fe008312a511a0cee93d5259e1db7224de18",
+            "updatedAt": "2026-02-25T17:22:13.243Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "fead36aea0644555093a1fc7c8b073a81d485f7c52a1f1a26ba9225d83febe8e",
+        "langs": {
+          "es": {
+            "translatedHash": "d055a8d3330aee222e116b10b0a5ec762992f9b87c8287a3e42be0e036324e88",
+            "updatedAt": "2026-02-25T17:22:16.516Z"
+          },
+          "pl": {
+            "translatedHash": "edef994b0c5ed522a59a02c97d7b271f83af3c1b193e5966749a7475f0b27aff",
+            "updatedAt": "2026-02-25T17:22:22.346Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "0ae8028e3484600ea87c501f5512e81670b432da41afd64099485d207cc52428",
+        "langs": {
+          "es": {
+            "translatedHash": "9991f563f9d83eb0892eb3ac6579554235939a1f30a7ffcdf0b6eaa633c633cb",
+            "updatedAt": "2026-02-25T17:22:25.847Z"
+          },
+          "pl": {
+            "translatedHash": "4fe4752cf0020a1d739c2d1b0f3e1eb88058489b6cf1fad2706e29d40f491d3c",
+            "updatedAt": "2026-02-25T17:22:29.791Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "056ed1e04357d747128e23d7cdcddef3202e19f07d418d59a4dcf87d21d5a9c7",
+        "langs": {
+          "es": {
+            "translatedHash": "19607481df7012b98d20e4c34b77884bf1fbefaa0d7c6cca24d53bd4026d2190",
+            "updatedAt": "2026-02-25T17:22:32.998Z"
+          },
+          "pl": {
+            "translatedHash": "04211149b1099f6ef76ac07a3801ce57aeac391042c6a38550a16f4debcf39f2",
+            "updatedAt": "2026-02-25T17:22:36.720Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "994b524a8826bd903b60e933119314f2377b1830606379f5ee83c5db29099c6b",
+        "langs": {
+          "es": {
+            "translatedHash": "3d726eb1d1c93172af02d38d9b1b8e0f0ec656d6221962fa958b0ad81ff597c1",
+            "updatedAt": "2026-02-25T17:22:40.173Z"
+          },
+          "pl": {
+            "translatedHash": "ad378c9c8cbc9a4c658b763c7c32afe1968688234d53e8ebf8c0a41f1c8805dd",
+            "updatedAt": "2026-02-25T17:22:44.547Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "88b8660e15c7f89f46d38ddb5298857d99a19f133ca4270ee42488f1ad540918",
+        "langs": {
+          "es": {
+            "translatedHash": "d055a8d3330aee222e116b10b0a5ec762992f9b87c8287a3e42be0e036324e88",
+            "updatedAt": "2026-02-25T17:22:50.632Z"
+          },
+          "pl": {
+            "translatedHash": "29f266d00b7f2a3102f9a75d80c6f3a72d25ab61153fa5bfd7bb52d795737063",
+            "updatedAt": "2026-02-25T17:22:54.038Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "71ba483475d5916f7bf5f590f49407a5c108f9c2b915cc35f9c9b5eada1dcc31",
+        "langs": {
+          "es": {
+            "translatedHash": "3d726eb1d1c93172af02d38d9b1b8e0f0ec656d6221962fa958b0ad81ff597c1",
+            "updatedAt": "2026-02-25T17:22:57.302Z"
+          },
+          "pl": {
+            "translatedHash": "4fe4752cf0020a1d739c2d1b0f3e1eb88058489b6cf1fad2706e29d40f491d3c",
+            "updatedAt": "2026-02-25T17:23:01.785Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "f003b3d8ccaf01ad53bb26f39db65df2afb1420c835038009a07885e4b90eef4",
+        "langs": {
+          "es": {
+            "translatedHash": "d055a8d3330aee222e116b10b0a5ec762992f9b87c8287a3e42be0e036324e88",
+            "updatedAt": "2026-02-25T17:23:08.233Z"
+          },
+          "pl": {
+            "translatedHash": "d8e139523a43caf475b0ddb558ec488f0f19372c84d8fc954c9b1671917fe62f",
+            "updatedAt": "2026-02-25T17:23:13.572Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "200fb1400b8b1a28395c3a04c04f6e0f40aafbdc68130289dbe754164ae75caa",
+        "langs": {
+          "es": {
+            "translatedHash": "3763a9f723fe9fc7c44a8475d55bb9741209531b30fbcfe74cf071aaa2176e2e",
+            "updatedAt": "2026-02-25T17:23:17.197Z"
+          },
+          "pl": {
+            "translatedHash": "6e52171fc24db09d57f9e61d1a3f94799ea94cd0231d64bc2d2f9a679bbef785",
+            "updatedAt": "2026-02-25T17:23:21.558Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "c078f1cdd6d4fe94c3068853c9e30fcd6ac6943d72e2d07dcd96b59cbce8fb24",
+        "langs": {
+          "es": {
+            "translatedHash": "b327f27ee2bc61a4105e958bcf0abfed4b5d6a6a98be924ba32caf7c5281d43d",
+            "updatedAt": "2026-02-25T17:23:24.824Z"
+          },
+          "pl": {
+            "translatedHash": "c235868bbe3d90897b2845d805a92c4f8c8e1e1de514208ec2a2089c5fe1b516",
+            "updatedAt": "2026-02-25T17:23:29.314Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena al Santo Padre Pío",
+  "title_pl": "Nowenna do Św. Ojca Pio",
+  "description_es": "San Pío de Pietrelcina, o Padre Pío como es cariñosamente conocido por millones, fue un sacerdote franciscano dotado por Dios de maneras asombrosas.",
+  "description_pl": "Św. Pio z Pietrelciny, zwany pieszczotliwie przez miliony Padre Pio, był franciszkańskim kapłanem obdarzonym przez Boga w niezwykły sposób.",
+  "intentions": [
+    "civil defense volunteers"
+  ],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/st-padre-pio-novena/"
+  ]
+}

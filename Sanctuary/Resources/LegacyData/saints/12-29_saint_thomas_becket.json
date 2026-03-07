@@ -1,0 +1,79 @@
+{
+  "id": "12-29_saint_thomas_becket",
+  "name": "Saint Thomas Becket",
+  "mmdd": "12-29",
+  "feast": "The Twenty-Ninth Day of December",
+  "summary": "Thomas Becket, also known as Saint Thomas of Canterbury, Thomas of London and later Thomas à Becket, was an English cleric and statesman who served as Lord Chancellor from 1155 to 1162, and then as Archbishop of Canterbury from 1162 until his death in 1170. He is known for his conflict with King Henry II over the rights and privileges of the Church and was murdered by followers of the king in Canterbury Cathedral. He was canonised by Pope Alexander III two years after his death. He is venerated as a saint and martyr by the Catholic Church and the Anglican Communion.",
+  "biography": "Thomas Becket, also known as Saint Thomas of Canterbury, Thomas of London and later Thomas à Becket, was an English cleric and statesman who served as Lord Chancellor from 1155 to 1162, and then as Archbishop of Canterbury from 1162 until his death in 1170. He is known for his conflict with King Henry II over the rights and privileges of the Church and was murdered by followers of the king in Canterbury Cathedral. He was canonised by Pope Alexander III two years after his death. He is venerated as a saint and martyr by the Catholic Church and the Anglican Communion.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Becket",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-29_saint_thomas_becket.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "fc153450f142ebb31f24a4bdcf3376204274b717667dfd15760357ada2d97394",
+        "langs": {
+          "es": {
+            "translatedHash": "3434a64fcaf211860aa9fe6604c965c8965c489b8c0238042b0b483700cc279f",
+            "updatedAt": "2026-02-25T01:34:53.942Z"
+          },
+          "pl": {
+            "translatedHash": "c3d2b45850d7c873e7147d4a6fd94f43b52d554021db6cdb4a21287488ffd9e5",
+            "updatedAt": "2026-02-25T01:34:54.542Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e2d154ac24d4f428488b75f07f96250e90c8418988b71fc6687422367d8b3746",
+        "langs": {
+          "es": {
+            "translatedHash": "df1ba3af73ea7b9c6ba508b6467c5630e0ad7d02770a673dc9351a8b47c7d8c9",
+            "updatedAt": "2026-02-25T01:34:55.195Z"
+          },
+          "pl": {
+            "translatedHash": "89ee6b7fe94c3ca6fbab481bdb0952739331bf76cbd4f4dc3b32c2ffcbd2f2d0",
+            "updatedAt": "2026-02-25T01:34:55.760Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7760c1d452f63512666bd7ad66c37ecce5425a47ddfc0e23d056baa828366d24",
+        "langs": {
+          "es": {
+            "translatedHash": "f16e3ffbee16c549139e4f6115686755271ca9cf26b1479016ecd84fbe5ca64c",
+            "updatedAt": "2026-02-25T01:34:57.964Z"
+          },
+          "pl": {
+            "translatedHash": "e6359c0fa75d96170e0f5502b77a304e138c1e1af06b8e40279467cd0a431456",
+            "updatedAt": "2026-02-25T01:35:01.551Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7760c1d452f63512666bd7ad66c37ecce5425a47ddfc0e23d056baa828366d24",
+        "langs": {
+          "es": {
+            "translatedHash": "f16e3ffbee16c549139e4f6115686755271ca9cf26b1479016ecd84fbe5ca64c",
+            "updatedAt": "2026-02-25T01:35:03.725Z"
+          },
+          "pl": {
+            "translatedHash": "f8b6e20a837db36cbb020c0cf295a25f80ee999e882cdf3517c4ed9d09bbb413",
+            "updatedAt": "2026-02-25T01:35:06.528Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás Becket",
+  "name_pl": "Święty Tomasz Becket",
+  "feast_es": "El Vigésimo Noveno Día de Diciembre",
+  "feast_pl": "Dwudziesty dziewiąty dzień grudnia",
+  "summary_es": "Tomás Becket, también conocido como San Tomás de Canterbury, Tomás de Londres y más tarde Tomás à Becket, fue un clérigo y estadista inglés que sirvió como Lord Canciller desde 1155 hasta 1162, y luego como Arzobispo de Canterbury desde 1162 hasta su muerte en 1170. Es conocido por su conflicto con el rey Enrique II sobre los derechos y privilegios de la Iglesia y fue asesinado por seguidores del rey en la Catedral de Canterbury. Fue canonizado por el Papa Alejandro III dos años después de su muerte. Es venerado como santo y mártir por la Iglesia Católica y la Comunión Anglicana.",
+  "summary_pl": "Tomasz Becket, znany również jako święty Tomasz z Canterbury, Tomasz z Londynu, a później Tomasz à Becket, był angielskim duchownym i politykiem, który pełnił funkcję Lorda Kanclerza od 1155 do 1162 roku, a następnie arcybiskupa Canterbury od 1162 aż do swojej śmierci w 1170 roku. Znany jest z konfliktu z królem Henrykiem II dotyczącego praw i przywilejów Kościoła, został zamordowany przez zwolenników króla w katedrze w Canterbury. Został kanonizowany przez papieża Aleksandra III dwa lata po swojej śmierci. Jest czczony jako święty i męczennik przez Kościół katolicki oraz Komunię anglikańską.",
+  "biography_es": "Tomás Becket, también conocido como San Tomás de Canterbury, Tomás de Londres y más tarde Tomás à Becket, fue un clérigo y estadista inglés que sirvió como Lord Canciller desde 1155 hasta 1162, y luego como Arzobispo de Canterbury desde 1162 hasta su muerte en 1170. Es conocido por su conflicto con el rey Enrique II sobre los derechos y privilegios de la Iglesia y fue asesinado por seguidores del rey en la Catedral de Canterbury. Fue canonizado por el Papa Alejandro III dos años después de su muerte. Es venerado como santo y mártir por la Iglesia Católica y la Comunión Anglicana.",
+  "biography_pl": "Tomasz Becket, znany również jako święty Tomasz z Canterbury, Tomasz z Londynu, a później Tomasz à Becket, był angielskim duchownym i mężem stanu, który pełnił funkcję Lorda Kanclerza w latach 1155–1162, a następnie arcybiskupa Canterbury od 1162 aż do swojej śmierci w 1170 roku. Znany jest z konfliktu z królem Henrykiem II dotyczącego praw i przywilejów Kościoła, został zamordowany przez zwolenników króla w katedrze w Canterbury. Został kanonizowany przez papieża Aleksandra III dwa lata po swojej śmierci. Jest czczony jako święty i męczennik przez Kościół katolicki oraz Comunio anglikańską."
+}

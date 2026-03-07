@@ -1,0 +1,48 @@
+{
+  "id": "04-23_saint_adalbert_bishop_and_martyr_optional_memorial",
+  "name": "Saint Adalbert, Bishop and Martyr—Optional Memorial",
+  "mmdd": "04-23",
+  "feast": "The Twenty-Third Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-23_saint_adalbert_bishop_and_martyr_optional_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ba2f9161f8ca4c265bbaadb79ab936633fce5ebc62440310b89bff170380594d",
+        "langs": {
+          "es": {
+            "translatedHash": "6e4c848e14799ffae53cdbdd78369a696b589f0f8011fe11bd7b0f481f218a54",
+            "updatedAt": "2026-02-24T23:13:11.889Z"
+          },
+          "pl": {
+            "translatedHash": "58cfd567601832151f7e300a54a94e12f9cb32b348853b13df7ad6048ff3f236",
+            "updatedAt": "2026-02-24T23:13:12.697Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "eb479051c94005835659d05e3ddcd8f7e65664be8eb0a61144b3c2aa7e783cf4",
+        "langs": {
+          "es": {
+            "translatedHash": "098e577cb0c3ab6a1b1bf08f6d83b2fcf9cf05c8661287e691f726ce649d3f38",
+            "updatedAt": "2026-02-24T23:13:13.296Z"
+          },
+          "pl": {
+            "translatedHash": "954c982273d35b1f25788339f3c62d98fccf4c72b12657a31d6607c2bcd6d285",
+            "updatedAt": "2026-02-24T23:13:14.259Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Adalberto, Obispo y Mártir—Memoria Opcional",
+  "name_pl": "Święty Wojciech, Biskup i Męczennik — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Tercer Día de Abril",
+  "feast_pl": "Dwudziesty Trzeci Dzień Kwietnia"
+}

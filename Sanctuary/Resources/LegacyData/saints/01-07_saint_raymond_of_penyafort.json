@@ -1,0 +1,79 @@
+{
+  "id": "01-07_saint_raymond_of_penyafort",
+  "name": "Saint Raymond of Penyafort",
+  "mmdd": "01-07",
+  "feast": "The Seventh Day of January",
+  "summary": "Raymond of Penyafort was a Catalan friar with the Dominicans who was a canon lawyer. He compiled the Decretals of Gregory IX, a collection of canonical laws that remained a major part of Church law until the 1917 Code of Canon Law abrogated it. He was canonized by Pope Clement VIII in 1601 and is the patron saint of canon lawyers.",
+  "biography": "Raymond of Penyafort (Catalan: Sant Ramon de Penyafort, IPA: [ˈsan rəˈmon də ˌpɛɲəˈfɔɾ]; c. 1175 – 6 January 1275) was a Catalan friar with the Dominicans who was a canon lawyer. He compiled the Decretals of Gregory IX, a collection of canonical laws that remained a major part of Church law until the 1917 Code of Canon Law abrogated it. He was canonized by Pope Clement VIII in 1601 and is the patron saint of canon lawyers. He wrote one of the first manuals for user of the inquisitors, the Directorium inquisitoriale (1242). Life Raymond of Penyafort was born in Santa Margarida i els Monjos, a small town near Barcelona, Principality of Catalonia, c. 1175. Descended from a noble family with ties to the royal house of Aragon, he was educated in Barcelona and at the University of Bologna, where he received doctorates in both civil and canon law. From 1195 to 1210, he taught canon law. In 1210, he moved to Bologna, where he remained until 1222, including three years occupying the Chair of canon law at the university. He came to know the newly founded Dominican Order there. Raymond was attracted to the Dominican Order by the preaching of Blessed Reginald, prior of the Dominicans of...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Raymond_of_Pe%C3%B1afort",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-07_saint_raymond_of_penyafort.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "53584f08f4b875de9caf3e0c7b3bc938637d33e6d65cb18c0560609144194e65",
+        "langs": {
+          "es": {
+            "translatedHash": "76525bfbb9798ff78eceecd5a0e611ae20494e91f2ae406f8b38ceb07b865238",
+            "updatedAt": "2026-02-24T22:09:09.617Z"
+          },
+          "pl": {
+            "translatedHash": "c7c94a2b5d43be93ad427851f512a576956aa3e8e530afa939eb7a0e99bee976",
+            "updatedAt": "2026-02-24T22:09:10.518Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7119f31811ada4289dcfa4760f4f334f81f389bf32372df5699c94b159143598",
+        "langs": {
+          "es": {
+            "translatedHash": "a62cbc87e1406330d863de7369014474ec24208b8c29aea1eac2512d8d71e530",
+            "updatedAt": "2026-02-24T22:09:11.211Z"
+          },
+          "pl": {
+            "translatedHash": "e1aac62c322e516d1bac6a64bed19d171859276a3d80fd6e5b89c60bd39552c0",
+            "updatedAt": "2026-02-24T22:09:11.847Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bbb9007bc2509db810b714c4c9a6653aba62e8a7e1a446a96b09d46297bf38a6",
+        "langs": {
+          "es": {
+            "translatedHash": "9194767434c59b143b1ea0344a2c5f928265eab479bc560e36dd97f54245f3e8",
+            "updatedAt": "2026-02-24T22:09:14.133Z"
+          },
+          "pl": {
+            "translatedHash": "d7aef5f84d978182e9f615ca9a5109ad051feb2c5310dd7a079e82db5be7efa7",
+            "updatedAt": "2026-02-24T22:09:16.306Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b2c15847a92534edbf80d36614a0593e962259f0749ffeb1f11d29d47a4b0ae9",
+        "langs": {
+          "es": {
+            "translatedHash": "d0fd97993e50187e3ad671494c4bf416d907e2e00de77b665b5cfde8f73d4bd2",
+            "updatedAt": "2026-02-24T22:09:22.740Z"
+          },
+          "pl": {
+            "translatedHash": "0e2851925ce75c20d23f982801ca4b392713252f7e6218e1a98092804e54136f",
+            "updatedAt": "2026-02-24T22:09:29.093Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Raimundo de Peñafort",
+  "name_pl": "Święty Rajmund z Penyafort",
+  "feast_es": "El séptimo día de enero",
+  "feast_pl": "Siódmy dzień stycznia",
+  "summary_es": "Ramón de Penyafort fue un fraile catalán de la orden de los dominicos que fue canonista. Compiló las Decretales de Gregorio IX, una colección de leyes canónicas que permaneció como una parte importante del derecho de la Iglesia hasta que el Código de Derecho Canónico de 1917 las derogó. Fue canonizado por el Papa Clemente VIII en 1601 y es el santo patrón de los canonistas.",
+  "summary_pl": "Rajmund z Penyafort był katalońskim zakonnikiem dominikańskim, który był kanonistą. Skompilował Dekretale Grzegorza IX, zbiór praw kanonicznych, który pozostał ważną częścią prawa kościelnego aż do uchylenia go przez Kodeks Prawa Kanonicznego z 1917 roku. Został kanonizowany przez papieża Klemensa VIII w 1601 roku i jest patronem kanonistów.",
+  "biography_es": "Ramón de Penyafort (catalán: Sant Ramon de Penyafort, IPA: [ˈsan rəˈmon də ˌpɛɲəˈfɔɾ]; c. 1175 – 6 de enero de 1275) fue un fraile catalán de la orden de los dominicos que fue canonista. Compiló las Decretales de Gregorio IX, una colección de leyes canónicas que permaneció como una parte importante del derecho eclesiástico hasta que el Código de Derecho Canónico de 1917 las derogó. Fue canonizado por el Papa Clemente VIII en 1601 y es el santo patrón de los canonistas. Escribió uno de los primeros manuales para el uso de los inquisidores, el Directorium inquisitoriale (1242).\n\nVida  \nRamón de Penyafort nació en Santa Margarida i els Monjos, un pequeño pueblo cerca de Barcelona, Principado de Cataluña, alrededor de 1175. Descendiente de una familia noble con vínculos con la casa real de Aragón, fue educado en Barcelona y en la Universidad de Bolonia, donde recibió doctorados en derecho civil y derecho canónico. Desde 1195 hasta 1210, enseñó derecho canónico. En 1210, se trasladó a Bolonia, donde permaneció hasta 1222, incluyendo tres años ocupando la cátedra de derecho canónico en la universidad. Allí conoció la recién fundada Orden de los Dominicos. Ramón fue atraído hacia la Orden de los Dominicos por la predicación del Beato Reginaldo, prior de los dominicos de...",
+  "biography_pl": "Rajmund z Penyafortu (kataloński: Sant Ramon de Penyafort, IPA: [ˈsan rəˈmon də ˌpɛɲəˈfɔɾ]; ok. 1175 – 6 stycznia 1275) był katalońskim zakonnikiem dominikańskim i kanonistą. Sporządził Dekretale Grzegorza IX, zbiór prawa kanonicznego, który pozostał główną częścią prawa kościelnego aż do uchylenia go przez Kodeks Prawa Kanonicznego z 1917 roku. Został kanonizowany przez papieża Klemensa VIII w 1601 roku i jest patronem prawników kanonistów. Napisał jeden z pierwszych podręczników dla inkwizytorów, Directorium inquisitoriale (1242).\n\nŻycie  \nRajmund z Penyafortu urodził się w Santa Margarida i els Monjos, małym miasteczku niedaleko Barcelony, w Księstwie Katalonii, około 1175 roku. Pochodził z szlacheckiej rodziny powiązanej z królewskim domem Aragonii. Kształcił się w Barcelonie oraz na Uniwersytecie w Bolonii, gdzie uzyskał doktoraty zarówno z prawa cywilnego, jak i kanonicznego. Od 1195 do 1210 roku wykładał prawo kanoniczne. W 1210 roku przeniósł się do Bolonii, gdzie pozostał do 1222 roku, w tym przez trzy lata zajmował katedrę prawa kanonicznego na uniwersytecie. Tam poznał nowo powstały zakon dominikanów. Rajmund został przyciągnięty do zakonu dominikanów przez kazania błogosławionego Reginalda, przeora dominikanów z..."
+}

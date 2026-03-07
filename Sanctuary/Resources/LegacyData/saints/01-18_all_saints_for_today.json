@@ -1,0 +1,79 @@
+{
+  "id": "01-18_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "01-18",
+  "feast": "The Eighteenth Day of January",
+  "summary": "All Saints' Day is a Christian holy day celebrated in honour of all the saints of the Church, whether they are known or unknown.",
+  "biography": "All Saints' Day is a Christian holy day celebrated in honour of all the saints of the Church, whether they are known or unknown. From the 4th century, feasts commemorating all Christian martyrs were held in various places, on various dates near Easter and Pentecost. In the 9th century, some churches in the British Isles began holding the commemoration of all saints on November 1st, and in the 9th century this was extended to the whole Catholic Church by Pope Gregory IV. In Western Christianity, it is celebrated on November 1st by the Roman Catholic Church as well as by many Protestant Churches, such as the Lutheran, Anglican, and Methodist traditions. With respect to its festal ranking, All Saints' Day is a solemnity in Catholicism and a festival in Lutheranism. The Eastern Orthodox Church and associated Eastern Catholic and Eastern Lutheran churches celebrate it on the first Sunday after Pentecost. The Syro-Malabar Church and the Chaldean Catholic Church, both of which are in communion with Rome, as well as the Church of the East, celebrate All Saints' Day on the first Friday after Easter Sunday. In the Coptic Orthodox tradition, All Saints' Day is on Nayrouz, celebrated on September...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/All_Saints'_Day",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-18_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:16:25.563Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:16:26.342Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f764adbd213553f1731bc79216e2d5572d06f6489a404bb4a3153c1250fb7799",
+        "langs": {
+          "es": {
+            "translatedHash": "5f5d498c04151e3b7e6b342a5adbec5ed658117ff4e72018ac2a97fd3a3e26df",
+            "updatedAt": "2026-02-24T22:16:27.037Z"
+          },
+          "pl": {
+            "translatedHash": "a000f09147cd05ea48f5616f5e621c090e8ee859d677ffbeb8a48850e86cb527",
+            "updatedAt": "2026-02-24T22:16:27.710Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "19db34e216d0aac578829cc1487f871e99e81409bf92795213d30e807cbeede9",
+        "langs": {
+          "es": {
+            "translatedHash": "9575afd4e0c8b19c9b283ed408da0e1e27fba2efa37c6e6186407b67bd99e9da",
+            "updatedAt": "2026-02-24T22:16:28.627Z"
+          },
+          "pl": {
+            "translatedHash": "339122a7907e11843ba54279085fd1337801419ea8a6428bb6c8b9667a8123c4",
+            "updatedAt": "2026-02-24T22:16:29.650Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9f4cfb504db9d7fe20413e82b2ae2034fbdab6e269abd910ee7f1d8957343646",
+        "langs": {
+          "es": {
+            "translatedHash": "baba703aa8b0500b088c407947e9df373acf56d262e70d5f6a04df32594b7d26",
+            "updatedAt": "2026-02-24T22:16:35.021Z"
+          },
+          "pl": {
+            "translatedHash": "b486a608063d66dea7b98aebecd4ef257d7f2cdbcbd97e5756fcbe538951efa4",
+            "updatedAt": "2026-02-24T22:16:41.404Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El día dieciocho de enero",
+  "feast_pl": "Osiemnasty dzień stycznia",
+  "summary_es": "El Día de Todos los Santos es una fiesta cristiana celebrada en honor a todos los santos de la Iglesia, ya sean conocidos o desconocidos.",
+  "summary_pl": "Wszystkich Świętych to chrześcijańskie święto obchodzone na cześć wszystkich świętych Kościoła, zarówno tych znanych, jak i nieznanych.",
+  "biography_es": "El Día de Todos los Santos es una fiesta cristiana celebrada en honor a todos los santos de la Iglesia, ya sean conocidos o desconocidos. Desde el siglo IV, se realizaban fiestas en conmemoración de todos los mártires cristianos en varios lugares, en diferentes fechas cercanas a la Pascua y Pentecostés. En el siglo IX, algunas iglesias en las Islas Británicas comenzaron a celebrar la conmemoración de todos los santos el 1 de noviembre, y en el mismo siglo esto fue extendido a toda la Iglesia Católica por el Papa Gregorio IV. En el cristianismo occidental, se celebra el 1 de noviembre por la Iglesia Católica Romana así como por muchas iglesias protestantes, como las tradiciones luterana, anglicana y metodista. En cuanto a su rango festivo, el Día de Todos los Santos es una solemnidad en el catolicismo y un festival en el luteranismo. La Iglesia Ortodoxa Oriental y las iglesias católicas orientales y luteranas orientales asociadas lo celebran el primer domingo después de Pentecostés. La Iglesia Siro-Malabar y la Iglesia Católica Caldea, ambas en comunión con Roma, así como la Iglesia del Oriente, celebran el Día de Todos los Santos el primer viernes después del Domingo de Pascua. En la tradición ortodoxa copta, el Día de Todos los Santos es en Nayrouz, celebrado en septiembre...",
+  "biography_pl": "Wszystkich Świętych to chrześcijańskie święto obchodzone na cześć wszystkich świętych Kościoła, zarówno znanych, jak i nieznanych. Od IV wieku obchodzono w różnych miejscach i w różnych terminach, blisko Wielkanocy i Zielonych Świątek, uroczystości upamiętniające wszystkich chrześcijańskich męczenników. W IX wieku niektóre kościoły na Wyspach Brytyjskich zaczęły obchodzić wspomnienie wszystkich świętych 1 listopada, a w IX wieku papież Grzegorz IV rozszerzył to święto na cały Kościół katolicki. W chrześcijaństwie zachodnim obchodzone jest 1 listopada przez Kościół rzymskokatolicki oraz wiele kościołów protestanckich, takich jak tradycje luterańska, anglikańska i metodystyczna. Pod względem rangi liturgicznej Wszystkich Świętych jest uroczystością w katolicyzmie oraz świętem w luteraństwie. Kościół prawosławny oraz związane z nim Kościoły katolickie wschodnie i luterańskie wschodnie obchodzą je w pierwszą niedzielę po Zielonych Świątkach. Kościół Syro-Malabarski i Kościół katolicki chaldejski, oba w komunii z Rzymem, a także Kościół Wschodni, obchodzą Wszystkich Świętych w pierwszy piątek po Niedzieli Wielkanocnej. W tradycji koptyjskiej prawosławnej Wszystkich Świętych obchodzone jest w Nayrouz, święto przypadające na wrzesień..."
+}

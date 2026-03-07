@@ -1,0 +1,46 @@
+{
+  "id": "11-28_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-28",
+  "feast": "The Twenty-Eighth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:15:54.543Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:15:55.205Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e4ab397e8f39fb8ac6e898809bab9e11c2b773fe5c85c98a05932ed17a19f0f4",
+        "langs": {
+          "es": {
+            "translatedHash": "51163c2aff7ff031057470be2c1d38bb7da94e31d1e0f9c4ed0987cf33d32ea7",
+            "updatedAt": "2026-02-25T01:15:56.034Z"
+          },
+          "pl": {
+            "translatedHash": "4cbc23e140c7815b723d86aa330a19b99ef4bbbdf6ca0b6edc4893bbf800a550",
+            "updatedAt": "2026-02-25T01:15:56.756Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Vigésimo Octavo Día de Noviembre",
+  "feast_pl": "Dwudziesty ósmy dzień listopada"
+}

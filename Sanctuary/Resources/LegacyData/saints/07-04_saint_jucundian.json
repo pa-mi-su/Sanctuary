@@ -1,0 +1,63 @@
+{
+  "id": "07-04_saint_jucundian",
+  "name": "Saint Jucundian",
+  "mmdd": "07-04",
+  "feast": "The Fourth Day of July",
+  "summary": "Jucundus or Jucunda (feminine) is a given name of several Christian saints:Jucundus, martyr in Africa. His feast is celebrated on 9 January\nJucundus of Troyes, martyr in Troyes. His feast is celebrated on 21 July\nJucundus of Sirmium, martyr in Pannonia. His feast is celebrated on 6 January\nJucundus of Aosta, bishop of Aosta. His feast day is celebrated on 30 December.\nJucundus of Rheims, lector of Nicasius of Rheims\nJucunda. Her feast is celebrated on 25 November\nJucundus of Bologna, bishop of Bologna. His feast day is celebrated on 14 November\nJucundus, 5th-century bishop of Sufetula \nJucunda, martyr in Nicomedia. Her feast is celebrated on 27 July",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jucundus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-04_saint_jucundian.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3e713a24d9f6543775a67d9f8b66ba880eae079e5eb9615ab7da5cad2c3331fd",
+        "langs": {
+          "es": {
+            "translatedHash": "36c52cadcba24244cc586b888ebb6b6baa3caf88af5ed51d141e9c7c15416c5c",
+            "updatedAt": "2026-02-24T23:52:53.017Z"
+          },
+          "pl": {
+            "translatedHash": "500805942a292b954d36cb8bd3e9e1d6f42b661bfe61964b1d701591dcf9b873",
+            "updatedAt": "2026-02-24T23:52:53.626Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "532f0099ad806c763ee9f4a274f88bace36b8886995f4ee3038c30459f7d6b97",
+        "langs": {
+          "es": {
+            "translatedHash": "0a633a04cd957d7472574db75cb013e11df26c79a552cb2960a48341ef973b3d",
+            "updatedAt": "2026-02-24T23:52:54.258Z"
+          },
+          "pl": {
+            "translatedHash": "f48c001b631e840adf5a88dcf7e1a0dbc710daa579d939173e83350312de2b5d",
+            "updatedAt": "2026-02-24T23:52:54.866Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "bd2749de2d9120ef8cb1618f0a01c26932ac520bcd162467d51a31d70f4bb166",
+        "langs": {
+          "es": {
+            "translatedHash": "4cdd2de5555be3b614041f3237a309938a818468fb6f0586f529ccf809f56676",
+            "updatedAt": "2026-02-24T23:52:59.360Z"
+          },
+          "pl": {
+            "translatedHash": "0cacfe8b354b9eefba875ed76e63ae3eb01092013d8754e6a5953c7a49554dd1",
+            "updatedAt": "2026-02-24T23:53:04.240Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Jucundiano",
+  "name_pl": "Święty Jukundian",
+  "feast_es": "El Cuarto Día de Julio",
+  "feast_pl": "Czwarty dzień lipca",
+  "summary_es": "Jucundus o Jucunda (femenino) es un nombre dado a varios santos cristianos:  \nJucundus, mártir en África. Su fiesta se celebra el 9 de enero  \nJucundus de Troyes, mártir en Troyes. Su fiesta se celebra el 21 de julio  \nJucundus de Sirmio, mártir en Panonia. Su fiesta se celebra el 6 de enero  \nJucundus de Aosta, obispo de Aosta. Su día de fiesta se celebra el 30 de diciembre.  \nJucundus de Reims, lector de Nicasius de Reims  \nJucunda. Su fiesta se celebra el 25 de noviembre  \nJucundus de Bolonia, obispo de Bolonia. Su día de fiesta se celebra el 14 de noviembre  \nJucundus, obispo del siglo V de Sufetula  \nJucunda, mártir en Nicomedia. Su fiesta se celebra el 27 de julio",
+  "summary_pl": "Jucundus lub Jucunda (forma żeńska) to imię kilku świętych chrześcijańskich:  \nJucundus, męczennik w Afryce. Jego wspomnienie obchodzone jest 9 stycznia  \nJucundus z Troyes, męczennik w Troyes. Jego wspomnienie obchodzone jest 21 lipca  \nJucundus z Sirmium, męczennik w Panonii. Jego wspomnienie obchodzone jest 6 stycznia  \nJucundus z Aosty, biskup Aosty. Jego dzień wspomnienia obchodzony jest 30 grudnia.  \nJucundus z Reims, lektor Nykazjusza z Reims  \nJucunda. Jej wspomnienie obchodzone jest 25 listopada  \nJucundus z Bolonii, biskup Bolonii. Jego dzień wspomnienia obchodzony jest 14 listopada  \nJucundus, biskup Sufetuli w V wieku  \nJucunda, męczennica w Nikomedii. Jej wspomnienie obchodzone jest 27 lipca"
+}

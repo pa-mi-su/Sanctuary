@@ -1,0 +1,79 @@
+{
+  "id": "07-06_saint_maria_goretti",
+  "name": "Saint Maria Goretti",
+  "mmdd": "07-06",
+  "feast": "The Sixth Day of July",
+  "summary": "Maria Goretti is a 2003 Italian television movie directed by Giulio Base and starring Martina Pinto in the title role. The film is based on real life events of Catholic virgin martyr and saint Maria Goretti.",
+  "biography": "Maria Goretti is a 2003 Italian television movie directed by Giulio Base and starring Martina Pinto in the title role. The film is based on real life events of Catholic virgin martyr and saint Maria Goretti.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maria_Goretti_(film)",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-06_saint_maria_goretti.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5f22ae13140ff36ada9ae65127d499b48f651b56854b55a3139b3eda3109becb",
+        "langs": {
+          "es": {
+            "translatedHash": "7142d015de74caf275fc30212e7bd345b19a91385c950c86d9f25c3020cf1dd6",
+            "updatedAt": "2026-02-24T23:53:36.523Z"
+          },
+          "pl": {
+            "translatedHash": "0a2bcddbd86b41e64de98e160f1d384a530ca320c4e045128fa3bd71c1d435bf",
+            "updatedAt": "2026-02-24T23:53:37.007Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "3e375dc34c6b792ffaf75fb278866cafa48ce3d1526146221f0c9c46f1062ed8",
+        "langs": {
+          "es": {
+            "translatedHash": "a9ece704af8d32a660aeaf96fb6fda1dd6352ab0fd8d7d640fc2f2e3271e59ce",
+            "updatedAt": "2026-02-24T23:53:37.735Z"
+          },
+          "pl": {
+            "translatedHash": "8053517278b8debd14928979428183d3f5ff0c5dfeb486946ceee9ff1ccd3e4d",
+            "updatedAt": "2026-02-24T23:53:38.848Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "dadc8de9593c7b4f19fea2e5c6eb0ba8744d934b5a5a7e408b983ecd046bd333",
+        "langs": {
+          "es": {
+            "translatedHash": "77ae176d19778a6d53b3e611e5c2a974a66e9e30db35242432497e63ce257b8f",
+            "updatedAt": "2026-02-24T23:53:40.004Z"
+          },
+          "pl": {
+            "translatedHash": "0930871f00b2a4ff6c7a528430a6555fccb8ca9e4762148c8876292293eb34b1",
+            "updatedAt": "2026-02-24T23:53:41.655Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "dadc8de9593c7b4f19fea2e5c6eb0ba8744d934b5a5a7e408b983ecd046bd333",
+        "langs": {
+          "es": {
+            "translatedHash": "02bb67784ceb03be2c7b2ea5c69ca959701c06aa41811b110f47c1d9ce010760",
+            "updatedAt": "2026-02-24T23:53:43.080Z"
+          },
+          "pl": {
+            "translatedHash": "0930871f00b2a4ff6c7a528430a6555fccb8ca9e4762148c8876292293eb34b1",
+            "updatedAt": "2026-02-24T23:53:44.560Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Goretti",
+  "name_pl": "Święta Maria Goretti",
+  "feast_es": "El Sexto Día de Julio",
+  "feast_pl": "Szósty dzień lipca",
+  "summary_es": "María Goretti es una película italiana para televisión de 2003 dirigida por Giulio Base y protagonizada por Martina Pinto en el papel principal. La película está basada en hechos reales de la virgen mártir católica y santa María Goretti.",
+  "summary_pl": "Maria Goretti to włoski film telewizyjny z 2003 roku w reżyserii Giulio Base, z Martiną Pinto w roli tytułowej. Film oparty jest na prawdziwych wydarzeniach z życia katolickiej dziewicy męczennicy i świętej Marii Goretti.",
+  "biography_es": "Maria Goretti es una película italiana para televisión de 2003 dirigida por Giulio Base y protagonizada por Martina Pinto en el papel principal. La película está basada en hechos reales de la virgen mártir católica y santa María Goretti.",
+  "biography_pl": "Maria Goretti to włoski film telewizyjny z 2003 roku w reżyserii Giulio Base, z Martiną Pinto w roli tytułowej. Film oparty jest na prawdziwych wydarzeniach z życia katolickiej dziewicy męczennicy i świętej Marii Goretti."
+}

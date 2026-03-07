@@ -1,0 +1,78 @@
+{
+  "id": "05-13_saint_glyceria",
+  "name": "Saint Glyceria",
+  "mmdd": "05-13",
+  "feast": "The Thirteenth Day of May",
+  "summary": "Saint Glyceria was a Roman virgin of the early church.",
+  "biography": "References\n\n\nExternal links\nhttps://web.archive.org/web/20081006123136/http://saints.sqpn.com/saintg6e.htm\nhttp://www.catholic.org/saints/saint.php?saint_id=3578\nhttp://www...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Glyceria"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-13_saint_glyceria.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "cea87213ba9e1f7eb648c97aecde3119ba64a82549e50265c73a1ff7f3e1713d",
+        "langs": {
+          "es": {
+            "translatedHash": "86677e065aa09be9b7e7960a274d153ee618d9bc4ea931524c36fd3693631d42",
+            "updatedAt": "2026-02-24T23:24:07.680Z"
+          },
+          "pl": {
+            "translatedHash": "1e6cf1a9da1058f3a91efc801418285d59327a5d8a41a62779f2c64f948a990d",
+            "updatedAt": "2026-02-24T23:24:08.429Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "275a40254552a0b6d764a69a2069c744f18e43e5af447b01a2e1c5205be1f4f6",
+        "langs": {
+          "es": {
+            "translatedHash": "7d6f3910611b6df59916b514a973fed10388d1c8f26968d6cc6592477dc45eaa",
+            "updatedAt": "2026-02-24T23:24:09.060Z"
+          },
+          "pl": {
+            "translatedHash": "ad21f4a9b2bf6b221bf3a8a0665fbe39a8af231e92e76b7e5072583c8099d58f",
+            "updatedAt": "2026-02-24T23:24:09.723Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "faa7c9dac07ee195c2e953971e10baac0c78b09e42b0731b5d13e811d1f0ab36",
+        "langs": {
+          "es": {
+            "translatedHash": "d53af7756043ea6d850ca5fdd7e8dd1a0c4c20e2f5e631c97b034e2504e03b48",
+            "updatedAt": "2026-02-24T23:24:11.005Z"
+          },
+          "pl": {
+            "translatedHash": "68c5d2ae53c565dc77f079ff83a2b5b402cc8e42386c496688be5fd5370e149e",
+            "updatedAt": "2026-02-24T23:24:11.777Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "701cef49860b7ea4ca1cca4025d6abb09eb9a3762d144b4b53689b4f365b5a3d",
+        "langs": {
+          "es": {
+            "translatedHash": "493b545bdd95a4d285e4b13a0c353de7abc082e4afa6a15737c5e73ec8887e23",
+            "updatedAt": "2026-02-24T23:24:13.481Z"
+          },
+          "pl": {
+            "translatedHash": "57738556ece0ab5f7b74ad9baf9ff03b73d81793cfcec6c0b6a3aaff500525af",
+            "updatedAt": "2026-02-24T23:24:14.968Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Gliceria",
+  "name_pl": "Święta Glyceria",
+  "feast_es": "El Decimotercer Día de Mayo",
+  "feast_pl": "Trzynasty Dzień Maja",
+  "summary_es": "Santa Glicerina fue una virgen romana de la iglesia primitiva.",
+  "summary_pl": "Święta Glyceria była rzymską dziewicą wczesnego Kościoła.",
+  "biography_es": "Referencias\n\n\nEnlaces externos\nhttps://web.archive.org/web/20081006123136/http://saints.sqpn.com/saintg6e.htm\nhttp://www.catholic.org/saints/saint.php?saint_id=3578\nhttp://www...",
+  "biography_pl": "Bibliografia\n\n\nLinki zewnętrzne\nhttps://web.archive.org/web/20081006123136/http://saints.sqpn.com/saintg6e.htm\nhttp://www.catholic.org/saints/saint.php?saint_id=3578\nhttp://www..."
+}

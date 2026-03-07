@@ -1,0 +1,81 @@
+{
+  "id": "11-24_saint_chrysogonus",
+  "name": "Saint Chrysogonus",
+  "mmdd": "11-24",
+  "feast": "The Twenty-Fourth Day of November",
+  "summary": "Saint Chrysogonus was an early Christian martyr. According to holy tradition, he was a knight in the Roman army. In exchange for abandoning Christianity, Roman emperor Diocletian offered him the position of prefect of a province.",
+  "biography": "Saint Chrysogonus was an early Christian martyr. According to holy tradition, he was a knight in the Roman army. In exchange for abandoning Christianity, Roman emperor Diocletian offered him the position of prefect of a province. Chrysogonus declined the offer and was executed as part of the persecution.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_of_Saint_Chrysogonus%2C_Zadar",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Chrysogonus",
+    "https://en.wikipedia.org/wiki/Saint_Chrysogonus"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-24_saint_chrysogonus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "20569db732aac8578d9a78d497a17ea93e17e1eb655a25924f3c38e5a9359b6a",
+        "langs": {
+          "es": {
+            "translatedHash": "68182b087e007b2f9c234aa26392b0bd20389396c4dbd9f549efc7426aa3cadb",
+            "updatedAt": "2026-02-25T01:13:32.293Z"
+          },
+          "pl": {
+            "translatedHash": "9422a93215a593d081da355235d82bb309e913a4a07dc92551c85121a9fe7aac",
+            "updatedAt": "2026-02-25T01:13:32.956Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "9cd2d03ccb6414b1173f1b44848d04dd1d4fea6861f4b0137fb7d644fa283064",
+        "langs": {
+          "es": {
+            "translatedHash": "b0a07801f1a677dc7acee0f47dabb8c77ad6acae949615f9924cfeec15200fb2",
+            "updatedAt": "2026-02-25T01:13:33.624Z"
+          },
+          "pl": {
+            "translatedHash": "e7e9722722fc9ea2db038b79fb259762a8ad710aa0ff5c1d77612b70b149b96c",
+            "updatedAt": "2026-02-25T01:13:34.216Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "ba221f3d3d717afa6158e5db1f98d918d3e6a4fff9c7674fe01d768b21ced95c",
+        "langs": {
+          "es": {
+            "translatedHash": "aed7a721836148d90314e96532ca1667c2905be49ed2f563e69109999351ef02",
+            "updatedAt": "2026-02-25T01:13:35.560Z"
+          },
+          "pl": {
+            "translatedHash": "97c585aca02820a805c2dbd609d80e1636fe1557785ea357ca075c07eb7ec884",
+            "updatedAt": "2026-02-25T01:13:36.892Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bb49f6cf63f78519606d0ef5087d49249ad32184730bf9a551fbcc47504d306a",
+        "langs": {
+          "es": {
+            "translatedHash": "44135f5411d1dafcef0abfe3b19ebec0fd8f4351e32c011c4ea74756ed9b62e5",
+            "updatedAt": "2026-02-25T01:13:38.287Z"
+          },
+          "pl": {
+            "translatedHash": "b51203a3ae1eff7aabf7e6f6d6b9290a1269a67e8652276ab32b6457a93917af",
+            "updatedAt": "2026-02-25T01:13:40.220Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Crisógono",
+  "name_pl": "Święty Chryzogon",
+  "feast_es": "El vigésimo cuarto día de noviembre",
+  "feast_pl": "Dwudziesty czwarty dzień listopada",
+  "summary_es": "San Crisógono fue un mártir cristiano temprano. Según la santa tradición, fue un caballero en el ejército romano. A cambio de abandonar el cristianismo, el emperador romano Diocleciano le ofreció el cargo de prefecto de una provincia.",
+  "summary_pl": "Święty Chryzogon był wczesnym chrześcijańskim męczennikiem. Według świętej tradycji był rycerzem w armii rzymskiej. W zamian za porzucenie chrześcijaństwa, cesarz rzymski Dioklecjan zaoferował mu stanowisko prefekta prowincji.",
+  "biography_es": "San Crisógono fue un mártir cristiano temprano. Según la santa tradición, fue un caballero del ejército romano. A cambio de abandonar el cristianismo, el emperador romano Diocleciano le ofreció el cargo de prefecto de una provincia. Crisógono rechazó la oferta y fue ejecutado como parte de la persecución.",
+  "biography_pl": "Święty Chryzogon był wczesnochrześcijańskim męczennikiem. Według świętej tradycji był rycerzem w armii rzymskiej. W zamian za porzucenie chrześcijaństwa cesarz rzymski Dioklecjan zaoferował mu stanowisko prefekta prowincji. Chryzogon odmówił przyjęcia oferty i został stracony w ramach prześladowań."
+}

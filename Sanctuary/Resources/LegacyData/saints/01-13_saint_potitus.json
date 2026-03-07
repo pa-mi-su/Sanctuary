@@ -1,0 +1,80 @@
+{
+  "id": "01-13_saint_potitus",
+  "name": "Saint Potitus",
+  "mmdd": "01-13",
+  "feast": "The Thirteenth Day of January",
+  "summary": "Potitus was an early Christian martyr, venerated as a saint by the Roman Catholic Church and the Eastern Orthodox Church on 14 January.",
+  "biography": "Life\nHe was born in Sardica (now Sofia, capital of Bulgaria) in the Roman province of Thracia (established in 107 after the Second Dacian War and later renamed Dacia Inferior). He converted to Christianity and was martyred while still a teenager during the reign of Antoninus Pius. His hagiography states that he came from a very rich pagan family and attributes many miracles to him, especially the curing of the madness of Antoninus Pius' daughter Agnes, which is described in a 9th-century Passio Sancti Potiti. He refused to renounce Christianity and so was thrown to the lions, but they refused to attack and so he was instead thrown into boiling oil, but emerged unharmed. He was therefore pierced with a sword.\n\n\nVeneration\nHe is the main patron saint of Tricarico and its diocese and his main relics are sited in its cathedral. His cult spread widely during the Middle Ages, reaching Capua, Naples and Benevento. He is thus also the main patron saint of the town of Ascoli Satriano...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Potitus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-13_saint_potitus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eaa80954b24dc59d4bbb63319bae7f8c8e5643b50efa2019362fe74a704b2a04",
+        "langs": {
+          "es": {
+            "translatedHash": "cacb188a535ca79fd1bd1523e23db48043429b9efb82632be06cf2eb818a462b",
+            "updatedAt": "2026-02-24T22:13:20.446Z"
+          },
+          "pl": {
+            "translatedHash": "640e87d9d9cac4f7bcf8fbd7013ea3d07117f3f0ff8f351fbc712dadaf21a886",
+            "updatedAt": "2026-02-24T22:13:20.999Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c8e1d1684a55f2f1cb8c18fa942adec4f3d14bb4fcdcbf7a12a2bf3550e78c84",
+        "langs": {
+          "es": {
+            "translatedHash": "08b92d32744d83a07ea8f24ddcbcd97943de9e7c205ae8d1d92bddab3c370560",
+            "updatedAt": "2026-02-24T22:13:21.574Z"
+          },
+          "pl": {
+            "translatedHash": "08f281af9fbaeb74c4318ecae71303d01c4ddd6f8618116f8ca6dfb72d006211",
+            "updatedAt": "2026-02-24T22:13:22.208Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3927d23cf5b3eb5b36c0513a8410d3e04cdfe6e6abb5ed5b62d2f0904d1dde7e",
+        "langs": {
+          "es": {
+            "translatedHash": "83658ea3748f7a6bd4267a725d04b98a0eea8f36792512304e2d55f76e11cd39",
+            "updatedAt": "2026-02-24T22:13:23.134Z"
+          },
+          "pl": {
+            "translatedHash": "028647d6b5d885d2fdf06367a798cf0a374c09eca739372daab9f58b3dde8233",
+            "updatedAt": "2026-02-24T22:13:24.334Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "40e8cb5821ad6223268ab554cd52b446f3067698e77e07157ea4b4cc2c780507",
+        "langs": {
+          "es": {
+            "translatedHash": "8083f4f643e5393e71921b26065dd33f24479b9f939b713280e9b11917f4e24f",
+            "updatedAt": "2026-02-24T22:13:28.430Z"
+          },
+          "pl": {
+            "translatedHash": "2e8a90ddf679ee322234ef427f1dfb5c7571a43be785621481d53b3faaa483ed",
+            "updatedAt": "2026-02-24T22:13:33.569Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Potito",
+  "name_pl": "Święty Potit",
+  "feast_es": "El Día Trece de Enero",
+  "feast_pl": "Trzynasty dzień stycznia",
+  "summary_es": "Potito fue un mártir cristiano temprano, venerado como santo por la Iglesia Católica Romana y la Iglesia Ortodoxa Oriental el 14 de enero.",
+  "summary_pl": "Potitus był wczesnochrześcijańskim męczennikiem, czczonym jako święty przez Kościół rzymskokatolicki oraz Kościół prawosławny 14 stycznia.",
+  "biography_es": "Vida  \nNació en Sardica (actual Sofía, capital de Bulgaria) en la provincia romana de Tracia (establecida en el año 107 después de la Segunda Guerra Dacia y posteriormente renombrada Dacia Inferior). Se convirtió al cristianismo y fue martirizado siendo aún un adolescente durante el reinado de Antonino Pío. Su hagiografía afirma que provenía de una familia pagana muy rica y le atribuye muchos milagros, especialmente la curación de la locura de la hija de Antonino Pío, Inés, que se describe en una Passio Sancti Potiti del siglo IX. Se negó a renunciar al cristianismo y por ello fue arrojado a los leones, pero estos se negaron a atacarlo, por lo que fue lanzado en aceite hirviendo, del cual salió ileso. Por ello, fue finalmente atravesado con una espada.\n\nVeneración  \nEs el principal santo patrón de Tricarico y su diócesis, y sus principales reliquias se encuentran en su catedral. Su culto se difundió ampliamente durante la Edad Media, llegando a Capua, Nápoles y Benevento. Por ello, también es el principal santo patrón de la ciudad de Ascoli Satriano...",
+  "biography_pl": "Życie  \nUrodził się w Sardice (obecnie Sofia, stolica Bułgarii) w rzymskiej prowincji Tracja (ustanowionej w 107 roku po Drugiej Wojnie Dakijskiej, później przemianowanej na Dację Niższą). Przyjął chrześcijaństwo i został zamęczony na śmierć, będąc jeszcze nastolatkiem, za panowania Antoninusa Piusa. Jego hagiografia podaje, że pochodził z bardzo bogatej pogańskiej rodziny i przypisuje mu wiele cudów, zwłaszcza uzdrowienie z szaleństwa Agnieszki, córki Antoninusa Piusa, co opisane jest w Passio Sancti Potiti z IX wieku. Odmówił wyrzeczenia się chrześcijaństwa, dlatego wrzucono go na pożarcie lwom, ale one odmówiły ataku, więc zamiast tego wrzucono go do wrzącego oleju, z którego wyszedł bez szwanku. W końcu został przebity mieczem.\n\nCześć  \nJest głównym patronem Tricarico i jego diecezji, a jego główne relikwie znajdują się w tamtejszej katedrze. Jego kult rozprzestrzenił się szeroko w średniowieczu, docierając do Kapui, Neapolu i Benevento. Jest zatem także głównym patronem miasta Ascoli Satriano..."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "11-07_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-07",
+  "feast": "The Seventh Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:03:18.176Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:03:19.056Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ce65948a6c9e074491a134b4ebd314bf4bea362f905d3b8904ac9a0edb54bbed",
+        "langs": {
+          "es": {
+            "translatedHash": "fef9adbf540972b75826446a6d1b29bd45aefc031455f892bc4c07875761a26d",
+            "updatedAt": "2026-02-25T01:03:19.927Z"
+          },
+          "pl": {
+            "translatedHash": "ce1c1c28a6930d1892b05dfe4a21922c2aceedb6f8962de4f6487226c79ad0bc",
+            "updatedAt": "2026-02-25T01:03:20.946Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Séptimo Día de Noviembre",
+  "feast_pl": "Siódmy dzień listopada"
+}

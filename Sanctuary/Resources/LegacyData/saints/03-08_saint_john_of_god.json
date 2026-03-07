@@ -1,0 +1,79 @@
+{
+  "id": "03-08_saint_john_of_god",
+  "name": "Saint John of God",
+  "mmdd": "03-08",
+  "feast": "The Eighth day of March",
+  "summary": "John of God, O.H. was a Portuguese soldier turned healthcare worker in Spain, whose followers later formed the Brothers Hospitallers of Saint John of God, a Catholic religious institute dedicated to the care of the poor, sick and those with mental disorders.",
+  "biography": "John of God, O.H. (Portuguese: João de Deus; Spanish: Juan de Dios; born João Duarte Cidade [ˈʒwɐ̃w̃ duˈwaɾ.t siˈða.ðɨ]; March 8, 1495 – March 8, 1550) was a Portuguese soldier turned healthcare worker in Spain, whose followers later formed the Brothers Hospitallers of Saint John of God, a Catholic religious institute dedicated to the care of the poor, sick and those with mental disorders. Cidade was canonized by Pope Alexander VIII and is considered one of the leading religious figures in the history of the Iberian Peninsula. Biography The first biography of John of God was written by Francisco de Castro, the chaplain at St. John of God's hospital in Granada, Spain. He drew from his personal knowledge of John as a young man and also used material gathered from eyewitnesses and contemporaries of his subject. It was published at the express wish of the Archbishop of Granada who gave financial backing to its publication. Castro began writing in 1579, 29 years after John of God's death, but he did not live to see it published, for he died soon after completing the work. His mother, Catalina de Castro, had the book published in 1585. Shortly after the publication of Castro's Historia...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_God",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-08_saint_john_of_god.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "487246972c435ea0f0ff5ae80a5cb0d933ef524e1d6f0e4194b280dab01396ae",
+        "langs": {
+          "es": {
+            "translatedHash": "23114de2aeea5e1b8466f0346b482093cf07436ef749ef648f21b4ed035d549a",
+            "updatedAt": "2026-02-24T22:50:09.651Z"
+          },
+          "pl": {
+            "translatedHash": "5531b218ab5a54e19214a6ea5f0f2f93ca2265748b9cfa4ea9788da383e1d1a0",
+            "updatedAt": "2026-02-24T22:50:10.201Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7ff87347c341135915cd4a01ac18c0c7adfe078e9b3644cd7e5a73f929dfd067",
+        "langs": {
+          "es": {
+            "translatedHash": "18473f060bd2b33421d671bfd17d43fde4e06281369f2876bb13113f0ddba0ff",
+            "updatedAt": "2026-02-24T22:50:10.821Z"
+          },
+          "pl": {
+            "translatedHash": "faa33d8f8d573b1e819e6c8027ef36f4b2fa2f3a4f91d07da74a9fb680847cac",
+            "updatedAt": "2026-02-24T22:50:11.482Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7c521fa5b9265b791e9f3ad518f3a53d44d0936c437075927120f1d2936cc0c2",
+        "langs": {
+          "es": {
+            "translatedHash": "7d506cc353393c26d27f8f9d4c1b67aba3214b9455750718fbb12a798213b170",
+            "updatedAt": "2026-02-24T22:50:12.710Z"
+          },
+          "pl": {
+            "translatedHash": "80a1f0ba6f2f4bd8d0d5d417eaea87067df6477898f8f1c738006053d4f7fc72",
+            "updatedAt": "2026-02-24T22:50:14.405Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3cfc223724bed4ea84459cba299a8152f3f6aee74e93ab54fb12f95bf792b9d3",
+        "langs": {
+          "es": {
+            "translatedHash": "e9f2bd944b497c44e7ece9ab172cf56656a8f064c58ae2f438676125bb14b838",
+            "updatedAt": "2026-02-24T22:50:19.286Z"
+          },
+          "pl": {
+            "translatedHash": "461ff21ab9e91fdaf6c17fb79477ae62e7a7079530dea9b77e569c7e88f93d65",
+            "updatedAt": "2026-02-24T22:50:22.330Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Dios",
+  "name_pl": "Święty Jan od Boga",
+  "feast_es": "El octavo día de marzo",
+  "feast_pl": "Ósmy dzień marca",
+  "summary_es": "Juan de Dios, O.H. fue un soldado portugués que se convirtió en trabajador de la salud en España, cuyos seguidores posteriormente formaron a los Hermanos Hospitalarios de San Juan de Dios, un instituto religioso católico dedicado al cuidado de los pobres, los enfermos y aquellos con trastornos mentales.",
+  "summary_pl": "Jan od Boga, O.H. był portugalskim żołnierzem, który został pracownikiem służby zdrowia w Hiszpanii, a jego naśladowcy później założyli Zakon Braci Szpitalników św. Jana od Boga, katolicką wspólnotę zakonną poświęconą opiece nad ubogimi, chorymi oraz osobami z zaburzeniami psychicznymi.",
+  "biography_es": "Juan de Dios, O.H. (portugués: João de Deus; español: Juan de Dios; nacido João Duarte Cidade [ˈʒwɐ̃w̃ duˈwaɾ.t siˈða.ðɨ]; 8 de marzo de 1495 – 8 de marzo de 1550) fue un soldado portugués que se convirtió en trabajador sanitario en España, cuyos seguidores más tarde formaron los Hermanos Hospitalarios de San Juan de Dios, un instituto religioso católico dedicado al cuidado de los pobres, enfermos y personas con trastornos mentales. Cidade fue canonizado por el Papa Alejandro VIII y es considerado una de las figuras religiosas más importantes en la historia de la Península Ibérica.\n\nBiografía\n\nLa primera biografía de Juan de Dios fue escrita por Francisco de Castro, capellán del hospital de San Juan de Dios en Granada, España. Se basó en su conocimiento personal de Juan cuando era joven y también utilizó material recopilado de testigos presenciales y contemporáneos de su sujeto. Fue publicada por expresa voluntad del Arzobispo de Granada, quien financió su publicación. Castro comenzó a escribir en 1579, 29 años después de la muerte de Juan de Dios, pero no vivió para verla publicada, ya que murió poco después de completar la obra. Su madre, Catalina de Castro, hizo publicar el libro en 1585. Poco después de la publicación de la Historia de Castro...",
+  "biography_pl": "Jan od Boga, O.H. (portugalski: João de Deus; hiszpański: Juan de Dios; urodzony jako João Duarte Cidade [ˈʒwɐ̃w̃ duˈwaɾ.t siˈða.ðɨ]; 8 marca 1495 – 8 marca 1550) był portugalskim żołnierzem, który został pracownikiem służby zdrowia w Hiszpanii, a jego naśladowcy później założyli Zakon Braci Szpitalnych św. Jana od Boga, katolicką instytucję zakonną poświęconą opiece nad ubogimi, chorymi oraz osobami z zaburzeniami psychicznymi. Cidade został kanonizowany przez papieża Aleksandra VIII i jest uważany za jedną z czołowych postaci religijnych w historii Półwyspu Iberyjskiego.\n\nBiografia\n\nPierwszą biografię Jana od Boga napisał Francisco de Castro, kapelan szpitala św. Jana od Boga w Granadzie w Hiszpanii. Czerpał on z osobistej wiedzy o Janie jako młodym człowieku, a także korzystał z materiałów zebranych od świadków i współczesnych jego bohaterowi. Została ona opublikowana na wyraźne życzenie arcybiskupa Granady, który udzielił wsparcia finansowego na jej wydanie. Castro rozpoczął pisanie w 1579 roku, 29 lat po śmierci Jana od Boga, lecz nie doczekał publikacji, gdyż zmarł wkrótce po ukończeniu pracy. Jego matka, Catalina de Castro, wydała książkę w 1585 roku. Niedługo po publikacji Historii Castro..."
+}

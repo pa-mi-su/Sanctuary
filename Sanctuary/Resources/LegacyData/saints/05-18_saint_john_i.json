@@ -1,0 +1,79 @@
+{
+  "id": "05-18_saint_john_i",
+  "name": "Saint John I",
+  "mmdd": "05-18",
+  "feast": "The Eighteenth Day of May",
+  "summary": "Pope John I was the bishop of Rome from 13 August 523 to his death on 18 May 526. He was a native of Siena, in Italy. He was sent on a diplomatic mission to Constantinople by the Ostrogoth King Theoderic to negotiate better treatment for Arians. Although John was relatively successful, upon his return to Ravenna, Theoderic had him imprisoned for allegedly conspiring with Constantinople. The frail pope died of neglect and ill-treatment.",
+  "biography": "Pope John I was the bishop of Rome from 13 August 523 to his death on 18 May 526. He was a native of Siena, in Italy. He was sent on a diplomatic mission to Constantinople by the Ostrogoth King Theoderic to negotiate better treatment for Arians. Although John was relatively successful, upon his return to Ravenna, Theoderic had him imprisoned for allegedly conspiring with Constantinople. The frail pope died of neglect and ill-treatment.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_I",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-18_saint_john_i.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "359719dccad9d9c73c49ca669c719418efe724257ef45f59d8e22ab5156ce314",
+        "langs": {
+          "es": {
+            "translatedHash": "522254fee12d6b1c737ac97ccb7b07155e612c6522beee047b3df35fcc92f536",
+            "updatedAt": "2026-02-24T23:27:07.196Z"
+          },
+          "pl": {
+            "translatedHash": "216e0bd7bf024147d9e1cdab7246b100859566daa1c8f0c47ba0c16788549c12",
+            "updatedAt": "2026-02-24T23:27:07.716Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d471d3803992b7bb232006a3c67e258da19d46483006d1a81e96967e2b545a2a",
+        "langs": {
+          "es": {
+            "translatedHash": "ba26536df0650798d4c268e0f37350f98eb7e540fbc8a59b2c18df178971ce71",
+            "updatedAt": "2026-02-24T23:27:08.494Z"
+          },
+          "pl": {
+            "translatedHash": "7b8470a4d44cde28175d4f6573f3ed6db48f3ec8e3196269d4e73a06c31e96ba",
+            "updatedAt": "2026-02-24T23:27:09.211Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "c983b51416f295155296aa828a01913a18f0fe0f63b6708348c9fe013f3a8c17",
+        "langs": {
+          "es": {
+            "translatedHash": "8522f3ba911680dd1800ad60c44175d5e149c425f96790e8c86c2ec5c12d5e4c",
+            "updatedAt": "2026-02-24T23:27:11.194Z"
+          },
+          "pl": {
+            "translatedHash": "84fc81ddde9df675c6982e57e3b4e27cf6f78db4658f8a472772db141374616c",
+            "updatedAt": "2026-02-24T23:27:13.744Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c983b51416f295155296aa828a01913a18f0fe0f63b6708348c9fe013f3a8c17",
+        "langs": {
+          "es": {
+            "translatedHash": "8522f3ba911680dd1800ad60c44175d5e149c425f96790e8c86c2ec5c12d5e4c",
+            "updatedAt": "2026-02-24T23:27:16.267Z"
+          },
+          "pl": {
+            "translatedHash": "84fc81ddde9df675c6982e57e3b4e27cf6f78db4658f8a472772db141374616c",
+            "updatedAt": "2026-02-24T23:27:18.555Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan I",
+  "name_pl": "Święty Jan I",
+  "feast_es": "El Dieciocho de Mayo",
+  "feast_pl": "Osiemnasty dzień maja",
+  "summary_es": "El Papa Juan I fue el obispo de Roma desde el 13 de agosto de 523 hasta su muerte el 18 de mayo de 526. Era originario de Siena, en Italia. Fue enviado en una misión diplomática a Constantinopla por el rey ostrogodo Teodorico para negociar un mejor trato para los arrianos. Aunque Juan tuvo un éxito relativo, al regresar a Rávena, Teodorico lo hizo encarcelar por supuestamente conspirar con Constantinopla. El frágil papa murió por negligencia y maltrato.",
+  "summary_pl": "Papież Jan I był biskupem Rzymu od 13 sierpnia 523 do swojej śmierci 18 maja 526. Był rodowitym mieszkańcem Sieny we Włoszech. Został wysłany na misję dyplomatyczną do Konstantynopola przez króla Ostrogotów Teodoryka, aby negocjować lepsze traktowanie ariańskich heretyków. Chociaż Jan odniósł stosunkowo sukces, po powrocie do Rawenny Teodoryk uwięził go pod zarzutem spisku z Konstantynopolem. Słaby papież zmarł z powodu zaniedbania i złego traktowania.",
+  "biography_es": "El Papa Juan I fue el obispo de Roma desde el 13 de agosto de 523 hasta su muerte el 18 de mayo de 526. Era originario de Siena, en Italia. Fue enviado en una misión diplomática a Constantinopla por el rey ostrogodo Teodorico para negociar un mejor trato para los arrianos. Aunque Juan tuvo un éxito relativo, al regresar a Rávena, Teodorico lo hizo encarcelar por supuestamente conspirar con Constantinopla. El frágil papa murió por negligencia y maltrato.",
+  "biography_pl": "Papież Jan I był biskupem Rzymu od 13 sierpnia 523 do swojej śmierci 18 maja 526. Był rodowitym mieszkańcem Sieny we Włoszech. Został wysłany na misję dyplomatyczną do Konstantynopola przez króla Ostrogotów Teodoryka, aby negocjować lepsze traktowanie ariańskich heretyków. Chociaż Jan odniósł stosunkowo sukces, po powrocie do Rawenny Teodoryk uwięził go pod zarzutem spisku z Konstantynopolem. Słaby papież zmarł z powodu zaniedbania i złego traktowania."
+}

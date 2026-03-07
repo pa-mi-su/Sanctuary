@@ -1,0 +1,79 @@
+{
+  "id": "11-26_saint_peter",
+  "name": "Saint Peter",
+  "mmdd": "11-26",
+  "feast": "The Twenty-Sixth Day of November",
+  "summary": "Peter of Alexandria may refer to:Pope Peter of Alexandria (disambiguation), seven Coptic popes from the year 300 to 1852\nPatriarch Peter of Alexandria (disambiguation), seven Greek Orthodox patriarchs from the year 300 to 2004\nPeter of Alexandria (chronicler)\n",
+  "biography": "Pope Peter of Alexandria (disambiguation), seven Coptic popes from the year 300 to 1852\nPatriarch Peter of Alexandria (disambiguation), seven Greek Orthodox patriarchs from the year 300 to 2004\nPeter of Alexandria (chronicler)",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_of_Alexandria",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-26_saint_peter.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "235eea79c2febcd6b622f45cab810a163276de20ecc7ed48d460088c03aaaafd",
+        "langs": {
+          "es": {
+            "translatedHash": "c930a1881cbeba213ac0187ca84b090e63a3b7a2fb413c223f22930ef1de268a",
+            "updatedAt": "2026-02-25T01:14:53.205Z"
+          },
+          "pl": {
+            "translatedHash": "20127b1e0f81262b22f1c756f15dc7094e41384097f42bad07ee33b90d852a9c",
+            "updatedAt": "2026-02-25T01:14:53.891Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "303d8a64af0901e42caf4b207be5408766a283adbe6205b974b792b8c4a998c2",
+        "langs": {
+          "es": {
+            "translatedHash": "57e92424bf012e6f59a6ee78d66e6c74e3f9a7819c6dafe4bd2de9849796cda9",
+            "updatedAt": "2026-02-25T01:14:54.445Z"
+          },
+          "pl": {
+            "translatedHash": "28e53348d0000d0fe83b214aeca6e12b19c0ce4833e88c5f2352cd8080e5f8cd",
+            "updatedAt": "2026-02-25T01:14:55.116Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b27434eb6b406fce914a70c344f62c8093ed05e59ccfea4a02ae29f4395f1f88",
+        "langs": {
+          "es": {
+            "translatedHash": "f67501f43c72d1075fb4016e0e6cd78a175cfe391f648dbaebbd0c682f5b814d",
+            "updatedAt": "2026-02-25T01:14:57.015Z"
+          },
+          "pl": {
+            "translatedHash": "89bdec6d5d171923dbe789b1d313c0b0cde0646fa513c1f8299fa5d6c31dd47d",
+            "updatedAt": "2026-02-25T01:14:59.131Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "ef3b9eb1c761a813fc0994adb6e73f3b58a2bdd7ec700b3d05414c2a5780e7d6",
+        "langs": {
+          "es": {
+            "translatedHash": "55a58b013aeeae973d80f67a8f72d5432166c3fe7cc74773c5840408d10ee57e",
+            "updatedAt": "2026-02-25T01:15:00.820Z"
+          },
+          "pl": {
+            "translatedHash": "96ed99110a1d20798d7263fd8ba295a89fe843cff77cde1c779f7fedeb29990a",
+            "updatedAt": "2026-02-25T01:15:02.283Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pedro",
+  "name_pl": "Święty Piotr",
+  "feast_es": "El Vigésimo Sexto Día de Noviembre",
+  "feast_pl": "Dwudziesty szósty dzień listopada",
+  "summary_es": "Pedro de Alejandría puede referirse a:  \nPapa Pedro de Alejandría (desambiguación), siete papas coptos desde el año 300 hasta 1852  \nPatriarca Pedro de Alejandría (desambiguación), siete patriarcas griegos ortodoxos desde el año 300 hasta 2004  \nPedro de Alejandría (cronista)",
+  "summary_pl": "Piotr z Aleksandrii może odnosić się do:  \nPapież Piotr z Aleksandrii (ujednoznacznienie), siedmiu koptyjskich papieży od roku 300 do 1852  \nPatriarcha Piotr z Aleksandrii (ujednoznacznienie), siedmiu patriarchów greckich prawosławnych od roku 300 do 2004  \nPiotr z Aleksandrii (kronikarz)",
+  "biography_es": "Papa Pedro de Alejandría (desambiguación), siete papas coptos desde el año 300 hasta 1852  \nPatriarca Pedro de Alejandría (desambiguación), siete patriarcas griegos ortodoxos desde el año 300 hasta 2004  \nPedro de Alejandría (cronista)",
+  "biography_pl": "Papież Piotr z Aleksandrii (ujednoznacznienie), siedmiu koptyjskich papieży od roku 300 do 1852  \nPatriarcha Piotr z Aleksandrii (ujednoznacznienie), siedmiu greckich patriarchów prawosławnych od roku 300 do 2004  \nPiotr z Aleksandrii (kronikarz)"
+}

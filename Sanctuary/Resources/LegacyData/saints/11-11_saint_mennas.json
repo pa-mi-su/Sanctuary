@@ -1,0 +1,79 @@
+{
+  "id": "11-11_saint_mennas",
+  "name": "Saint Mennas",
+  "mmdd": "11-11",
+  "feast": "The Eleventh Day of November",
+  "summary": "Menas of Egypt, a martyr and wonder-worker, is one of the most well-known Coptic saints in the East and the West, due to the many miracles that are attributed to his intercession and prayers. Menas was a Coptic soldier in the Roman army martyred because he refused to recant his Christian faith. The common date of his commemoration is November 11, which occurs 13 days later on the Julian calendar.",
+  "biography": "Origin of his name\nMenas was his original name, according to the story his mother called him \"Mēna\" because she heard a voice saying amēn. Minas (Μηνᾶς) is how he is known in Greek and Armenian, while in Coptic he is known as \"Mīna\" (مينا). The name also...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menas_of_Egypt",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-11_saint_mennas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ef61f54f0754b9af5df8d2ff1a201c6d1bba79960ea8f94ba3efc06c94f9fb0e",
+        "langs": {
+          "es": {
+            "translatedHash": "eeebdd452c837a743e2fdf0a46f6f7b68ab66d8c782012658ff4479b8baa8883",
+            "updatedAt": "2026-02-25T01:05:59.744Z"
+          },
+          "pl": {
+            "translatedHash": "1c1629614141675ac862ef59308a34c2451938c55e7dd94289a64756b5e04dc7",
+            "updatedAt": "2026-02-25T01:06:00.415Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b8dcab48ff314bc1fcc981edb24454f4b9de5eb329ce4e88358137c9fff9de45",
+        "langs": {
+          "es": {
+            "translatedHash": "237d40fd8d7304d08b4ce268710ac1ac9d77cd3da9761a3775dfcf8caf44e64e",
+            "updatedAt": "2026-02-25T01:06:01.003Z"
+          },
+          "pl": {
+            "translatedHash": "c987c7cc03b4b45700ee9ec643e1dbb397524f7b2c87cac3a197a59eeda9a773",
+            "updatedAt": "2026-02-25T01:06:01.610Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f4a9c071f3b983762d6d1c06f12db80307e47567d79e8aec41892691e422e968",
+        "langs": {
+          "es": {
+            "translatedHash": "53728ae3b902e32b314b7556e4c2a0b1bfba172e3aa0c2da19ff37827ee90960",
+            "updatedAt": "2026-02-25T01:06:03.654Z"
+          },
+          "pl": {
+            "translatedHash": "a4efabaf6dfbf436fbd6286526d4223587a882ef5a0501db49800320319b2c87",
+            "updatedAt": "2026-02-25T01:06:05.919Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "caf923d55039d708f457efa5bd2a56213273786561cc6e2d8d3409c213d1d501",
+        "langs": {
+          "es": {
+            "translatedHash": "504780c57c5ac2a86e6ffb5b860b029e57407081b8a1bcaf246efa28076a1483",
+            "updatedAt": "2026-02-25T01:06:07.568Z"
+          },
+          "pl": {
+            "translatedHash": "904c52b7b7551ebef10850d31f84fba4bc162b67400d908c74a13bcaee6dca7b",
+            "updatedAt": "2026-02-25T01:06:09.315Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Menas",
+  "name_pl": "Święty Menas",
+  "feast_es": "El día once de noviembre",
+  "feast_pl": "Jedenasty dzień listopada",
+  "summary_es": "Menas de Egipto, mártir y hacedor de milagros, es uno de los santos coptos más conocidos en Oriente y Occidente, debido a los muchos milagros que se le atribuyen por su intercesión y oraciones. Menas fue un soldado copto en el ejército romano, martirizado porque se negó a renunciar a su fe cristiana. La fecha común de su conmemoración es el 11 de noviembre, que ocurre 13 días después en el calendario juliano.",
+  "summary_pl": "Menas z Egiptu, męczennik i cudotwórca, jest jednym z najbardziej znanych świętych koptyjskich na Wschodzie i Zachodzie, ze względu na liczne cuda przypisywane jego wstawiennictwu i modlitwom. Menas był koptyjskim żołnierzem w armii rzymskiej, męczennikiem, ponieważ odmówił wyrzeczenia się swojej chrześcijańskiej wiary. Powszechną datą jego wspomnienia jest 11 listopada, która przypada 13 dni później według kalendarza juliańskiego.",
+  "biography_es": "Origen de su nombre  \nMenas fue su nombre original, según la historia su madre lo llamó \"Mēna\" porque escuchó una voz que decía amén. Minas (Μηνᾶς) es como se le conoce en griego y armenio, mientras que en copto es conocido como \"Mīna\" (مينا). El nombre también...",
+  "biography_pl": "Pochodzenie jego imienia  \nMenas było jego pierwotnym imieniem, według opowieści jego matka nazwała go „Mēna”, ponieważ usłyszała głos mówiący amēn. Minas (Μηνᾶς) to, jak jest znany po grecku i ormiańsku, natomiast po koptyjsku znany jest jako „Mīna” (مينا). Imię to również..."
+}

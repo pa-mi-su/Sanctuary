@@ -1,0 +1,79 @@
+{
+  "id": "03-10_saint_caius",
+  "name": "Saint Caius",
+  "mmdd": "03-10",
+  "feast": "The Tenth Day of March",
+  "summary": "Pope Caius, also called Gaius, was the bishop of Rome from 17 December 283 to his death in 296. Little information on Caius is available except that given by the Liber Pontificalis, which relies on a legendary account of the martyrdom of Susanna of Rome for its information. According to legend, Caius baptized the men and women who had been converted by Tiburtius and Castulus. His legend states that Caius took refuge in the catacombs of Rome and died a martyr.",
+  "biography": "Pontificate\n\nChristian tradition makes Caius a native of the Dalmatian city of Salona, the son of a man also named Caius or Gaius, and a member of a noble family related to the Emperor Diocletian. About 280, an early Christian house of worship was established on the site of Santa Susanna, which, like many of the earliest Christian meeting places, was in a house (domus ecclesiae). The domus belonged, according to the sixth-century acta, to brothers named Caius and Gabinus, prominent Christians. Caius may be this pope, or Caius the Presbyter. Gabinus is the name given to the father of Susanna. Thus, sources state that Caius was the uncle of Susanna.\nAs pope, Caius decreed...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Caius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-10_saint_caius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "69678b3cb01fb44390d996ccd53d5f78c9333040eef86186de5d631ca23d5886",
+        "langs": {
+          "es": {
+            "translatedHash": "a0b003016a9010ea8ccad19c93c6eb3bb01e8d3fdd51391ad25c8c87017c97c6",
+            "updatedAt": "2026-02-24T22:51:11.259Z"
+          },
+          "pl": {
+            "translatedHash": "e71b2cf6a734bd6c92119a8205a4487c0f4928ccdfe30e871c49ef80d6c33127",
+            "updatedAt": "2026-02-24T22:51:11.723Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1e799f7b154232fd4ebc5645dd82cb0d8b33b96b83b1b947b8cc74dbb26ccb05",
+        "langs": {
+          "es": {
+            "translatedHash": "396fd38c6f1c0fc10ef6a08a7ae27dd4f72f7c5d11cd638df99176afe05f0ccd",
+            "updatedAt": "2026-02-24T22:51:12.276Z"
+          },
+          "pl": {
+            "translatedHash": "a2114efc03c8e095c7759260d37dded37fd018a26e284641050da0f02ce522ef",
+            "updatedAt": "2026-02-24T22:51:13.434Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8227a678f3a3944f61d863b7770c9dfd20670f23ed8bdf45c431e10e98ed2006",
+        "langs": {
+          "es": {
+            "translatedHash": "82f3117d336e9a84af178d8e7490f58fc0d961b1ee39ff95bf7f7311e6d31df4",
+            "updatedAt": "2026-02-24T22:51:16.001Z"
+          },
+          "pl": {
+            "translatedHash": "eb501d00393cf5d9cd3363b91e4a7d345b955869fa38dfc89ac88b202c2a78c2",
+            "updatedAt": "2026-02-24T22:51:18.958Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3f33a81460a4c7c89ba7e62473466de8a68a57e72ae792003be60197408bc1ca",
+        "langs": {
+          "es": {
+            "translatedHash": "68ad56da53faed0a799bc52223848de775db5e353d3e41d3f4a315e4d7bb62e7",
+            "updatedAt": "2026-02-24T22:51:21.738Z"
+          },
+          "pl": {
+            "translatedHash": "e91af53920317ab7f51dc05f64b27e16e95152e18f53cbb25a3b2e2e79c83437",
+            "updatedAt": "2026-02-24T22:51:25.770Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cayo",
+  "name_pl": "Święty Kajus",
+  "feast_es": "El Décimo Día de Marzo",
+  "feast_pl": "Dziesiąty Dzień Marca",
+  "summary_es": "El Papa Cayo, también llamado Gayo, fue el obispo de Roma desde el 17 de diciembre del 283 hasta su muerte en el 296. Se dispone de poca información sobre Cayo, excepto la que ofrece el Liber Pontificalis, que se basa en un relato legendario del martirio de Susana de Roma para su información. Según la leyenda, Cayo bautizó a los hombres y mujeres que habían sido convertidos por Tiburcio y Cástulo. Su leyenda afirma que Cayo se refugió en las catacumbas de Roma y murió como mártir.",
+  "summary_pl": "Papież Kajus, zwany także Gajuszem, był biskupem Rzymu od 17 grudnia 283 roku aż do swojej śmierci w 296 roku. Niewiele informacji o Kajuszu jest dostępnych, poza tymi zawartymi w Liber Pontificalis, który opiera się na legendarnym opisie męczeństwa św. Zuzanny z Rzymu. Według legendy, Kajus ochrzcił mężczyzn i kobiety, którzy nawrócili się za sprawą Tyburcjusza i Kastulusa. Jego legenda głosi, że Kajus schronił się w katakumbach Rzymu i zmarł jako męczennik.",
+  "biography_es": "Pontificado\n\nLa tradición cristiana hace de Cayo un nativo de la ciudad dálmata de Salona, hijo de un hombre también llamado Cayo o Gayo, y miembro de una familia noble relacionada con el emperador Diocleciano. Alrededor del año 280, se estableció una de las primeras casas de culto cristiano en el sitio de Santa Susana, que, como muchos de los primeros lugares de reunión cristianos, estaba en una casa (domus ecclesiae). La domus pertenecía, según los acta del siglo VI, a los hermanos llamados Cayo y Gabino, cristianos prominentes. Cayo puede ser este papa, o Cayo el presbítero. Gabino es el nombre dado al padre de Susana. Así, las fuentes afirman que Cayo era el tío de Susana.  \nComo papa, Cayo decretó...",
+  "biography_pl": "Pontyfikat\n\nTradycja chrześcijańska podaje, że Kajus był rodowitym mieszkańcem dalmatyńskiego miasta Salona, synem człowieka również o imieniu Kajus lub Gajusz, oraz członkiem szlachetnej rodziny spokrewnionej z cesarzem Dioklecjanem. Około roku 280 na miejscu Santa Susanna powstało wczesne chrześcijańskie miejsce kultu, które, podobnie jak wiele najwcześniejszych miejsc spotkań chrześcijan, mieściło się w domu (domus ecclesiae). Dom ten należał, według akt z VI wieku, do braci o imionach Kajus i Gabinus, wybitnych chrześcijan. Kajus może być tym papieżem lub Kajusem Prezbiterem. Gabinus to imię ojca Zuzanny. Tak więc źródła podają, że Kajus był wujem Zuzanny.  \nJako papież Kajus zarządził..."
+}

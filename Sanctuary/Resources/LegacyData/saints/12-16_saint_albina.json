@@ -1,0 +1,48 @@
+{
+  "id": "12-16_saint_albina",
+  "name": "Saint Albina",
+  "mmdd": "12-16",
+  "feast": "The Sixteenth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antonio_Sicurezza-Saint_Albina.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-16_saint_albina.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4bf3f134c7325076848a421117ff791c83dd3566708dfe109db2f8711a08388a",
+        "langs": {
+          "es": {
+            "translatedHash": "9b6140ecc7a88cb56bbb866d2f4bef25c9ae1e289c5b800e8e377249c8e669ba",
+            "updatedAt": "2026-02-25T01:27:02.494Z"
+          },
+          "pl": {
+            "translatedHash": "f8fd7d4776730d4328d8fe7899e0d879422f176efc65cde2b9aea06a55efad04",
+            "updatedAt": "2026-02-25T01:27:03.055Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a1cdad1462f21d45e4a192359f6ce6419bc92d81972484e0fe4bcdd5da77a761",
+        "langs": {
+          "es": {
+            "translatedHash": "c4e305cb61e4fb204b73dd63a218de03fb28dfd0beca027aa018295f29bffbba",
+            "updatedAt": "2026-02-25T01:27:03.544Z"
+          },
+          "pl": {
+            "translatedHash": "b1a6c7f2cc22be9e1db3c25d7413cbbad9e3e82673abaa1117e6d3581db2acd8",
+            "updatedAt": "2026-02-25T01:27:04.153Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Albina",
+  "name_pl": "Święta Albina",
+  "feast_es": "El día dieciséis de diciembre",
+  "feast_pl": "Szesnasty Dzień Grudnia"
+}

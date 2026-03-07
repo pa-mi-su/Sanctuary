@@ -1,0 +1,79 @@
+{
+  "id": "10-01_saint_remigius",
+  "name": "Saint Remigius",
+  "mmdd": "10-01",
+  "feast": "The First Day of October",
+  "summary": "Remigius was the Bishop of Reims and \"Apostle of the Franks\". On 25 December 496, he baptised Clovis I, King of the Franks. The baptism, leading to about 3000 additional converts, was an important event in the Christianization of the Franks. Because of Clovis's efforts, a large number of churches were established in the formerly pagan lands of the Frankish empire, establishing a Nicene Christianity for the first time in Germanic lands, most of whom had been converted to Arian Christianity.",
+  "biography": "Life\nRemigius was born, traditionally, at Cerny-en-Laonnois, near Laon, Picardy, into the highest levels of Gallo-Roman society. He is said to have been son of Emilius, count of Laon (who is not otherwise attested) and of Saint Celine, and brother of the Bishop of Soissons, which Clovis conquered in 487. He studied at Reims and soon became so noted for his learning and sanctity, and his high status, that he was elected Bishop of Reims at age 21, though still a layman.\nThe story of the return of the sacred vessels (most notably the Vase of Soissons), which had been stolen from the church of Soissons, testifies to the friendly relations existing...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Remigius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-01_saint_remigius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eb72c0a04e5f14a690248e10cf5617dfcdb617de5c7aeeba36fe74893fb3f9f5",
+        "langs": {
+          "es": {
+            "translatedHash": "65bdd226c854c23d31b1365f34f248ad90faacf46d10122542d9db057997b592",
+            "updatedAt": "2026-02-25T00:41:20.223Z"
+          },
+          "pl": {
+            "translatedHash": "1be2ec3ae381549b753893bc4ecac84ccd878192b9e40caaacc2211911d02b2d",
+            "updatedAt": "2026-02-25T00:41:20.752Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f7898b186597b82eae8255f92cc8561468a5060d1964d3408390e33f0f50e627",
+        "langs": {
+          "es": {
+            "translatedHash": "982a751bcb90b90160a6fbc061420946f528090c3d107025ac4ea90300892075",
+            "updatedAt": "2026-02-25T00:41:21.400Z"
+          },
+          "pl": {
+            "translatedHash": "dbb77791d22f28a338842b9efb531271d92dca7e1f2227c604edd4755fcfee41",
+            "updatedAt": "2026-02-25T00:41:21.995Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "3c646051963554ed3fb4f30eb11e031d5ff01bad988f5fe4a4f838f9863a07f1",
+        "langs": {
+          "es": {
+            "translatedHash": "28ac9759ddd5027bcec5f7e9850fb4e710f35cd38581f1bd6ee770d6b4f589ce",
+            "updatedAt": "2026-02-25T00:41:24.049Z"
+          },
+          "pl": {
+            "translatedHash": "83b6f85995097a8a73bc53645b25830d0e99a822c0fab8654f6e0d077d48af20",
+            "updatedAt": "2026-02-25T00:41:26.327Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "638a5d93912d87549cebce618bdd2ddf3b39db9b450103d93ee59f6030302b22",
+        "langs": {
+          "es": {
+            "translatedHash": "839b5981005e687abfc8d88696d16c33ef7d111480385aeec67cc49ebc64bdba",
+            "updatedAt": "2026-02-25T00:41:29.866Z"
+          },
+          "pl": {
+            "translatedHash": "2099676d30d0997ef4942076eef15114bf33720e637d7ae6fb351b31295a99a6",
+            "updatedAt": "2026-02-25T00:41:33.435Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Remigio",
+  "name_pl": "Święty Remigiusz",
+  "feast_es": "El Primer Día de Octubre",
+  "feast_pl": "Pierwszy dzień października",
+  "summary_es": "Remigio fue el Obispo de Reims y \"Apóstol de los francos\". El 25 de diciembre de 496, bautizó a Clodoveo I, Rey de los francos. El bautismo, que llevó a unos 3000 conversos adicionales, fue un evento importante en la cristianización de los francos. Gracias a los esfuerzos de Clodoveo, se establecieron numerosas iglesias en las tierras anteriormente paganas del imperio franco, estableciendo por primera vez un cristianismo niceno en tierras germánicas, la mayoría de las cuales habían sido convertidas al cristianismo arriano.",
+  "summary_pl": "Remigiusz był biskupem Reims i „Apostołem Franków”. 25 grudnia 496 roku ochrzcił Chlodwiga I, króla Franków. Chrzest, który doprowadził do nawrócenia około 3000 osób, był ważnym wydarzeniem w chrystianizacji Franków. Dzięki staraniom Chlodwiga powstała duża liczba kościołów na dawnych pogańskich ziemiach imperium frankijskiego, ustanawiając po raz pierwszy w ziemiach germańskich chrześcijaństwo nicejskie, podczas gdy większość z nich była wcześniej nawrócona na chrześcijaństwo ariańskie.",
+  "biography_es": "Vida  \nRemigio nació, tradicionalmente, en Cerny-en-Laonnois, cerca de Laon, en Picardía, en los más altos niveles de la sociedad galo-romana. Se dice que fue hijo de Emilio, conde de Laon (quien no está documentado por otras fuentes) y de Santa Celina, y hermano del obispo de Soissons, que Clodoveo conquistó en 487. Estudió en Reims y pronto se destacó por su erudición y santidad, así como por su alto estatus, de modo que fue elegido obispo de Reims a los 21 años, aunque aún era laico.  \nLa historia del regreso de los vasos sagrados (más notablemente el Vaso de Soissons), que habían sido robados de la iglesia de Soissons, da testimonio de las relaciones amistosas existentes...",
+  "biography_pl": "Życie  \nRemigiusz urodził się, według tradycji, w Cerny-en-Laonnois, niedaleko Laon, w Pikardii, w najwyższych warstwach społeczeństwa gallo-rzymskiego. Mówi się, że był synem Emiliusza, hrabiego Laon (który nie jest inaczej potwierdzony) i świętej Celine, oraz bratem biskupa Soissons, które Chlodwig zdobył w 487 roku. Studiował w Reims i wkrótce stał się tak znany ze swojej nauki i świętości, a także wysokiego statusu, że został wybrany biskupem Reims w wieku 21 lat, choć wciąż był świeckim.  \nOpowieść o zwrocie świętych naczyń (najbardziej znanym jest Waza z Soissons), które zostały skradzione z kościoła w Soissons, świadczy o przyjaznych stosunkach istniejących..."
+}

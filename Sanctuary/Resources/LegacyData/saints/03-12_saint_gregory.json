@@ -1,0 +1,80 @@
+{
+  "id": "03-12_saint_gregory",
+  "name": "Saint Gregory",
+  "mmdd": "03-12",
+  "feast": "The Twelfth Day of March",
+  "summary": "Pope Gregory I, commonly known as Saint Gregory the Great, was the 64th Bishop of Rome from 3 September 590 until his death on 12 March 604. He is known for instituting the first recorded large-scale mission from Rome, the Gregorian mission, to convert the then largely pagan Anglo-Saxons to Christianity. Gregory is also well known for his writings, which were more prolific than those of any of the previous popes. The epithet Saint Gregory the Dialogist has been attached to him in Eastern Christianity because of his Dialogues. English translations of Eastern texts sometimes list him as Gregory \"Dialogos\" from the Greek διάλογος, or the Anglo-Latinate equivalent \"Dialogus\". He is the second of the three Popes listed in the Annuario Pontificio with the title \"the Great\", alongside Popes Leo I and Nicholas I.",
+  "biography": "Pope Gregory I (Latin: Gregorius I; Gregorio I; c. 540 – 12 March 604), commonly known as Saint Gregory the Great (Latin: Sanctus Gregorius Magnus; Italian: San Gregorio Magno), was the 64th Bishop of Rome from 3 September 590 until his death on 12 March 604. He is known for instituting the first recorded large-scale mission from Rome, the Gregorian mission, to convert the then largely pagan Anglo-Saxons to Christianity. Gregory is also well known for his writings, which were more prolific than those of any of the previous popes. The epithet Saint Gregory the Dialogist has been attached to him in Eastern Christianity because of his Dialogues. English translations of Eastern texts sometimes list him as Gregory \"Dialogos\" from the Greek διάλογος (dialogos, conversation), or the Anglo-Latinate equivalent \"Dialogus\". He is the second of the three Popes listed in the Annuario Pontificio with the title \"the Great\", alongside Popes Leo I and Nicholas I.\nA Roman senator's son, and himself the prefect of Rome at 30, Gregory lived in a monastery that he established on his family estate before becoming a papal ambassador and then pope. Before becoming Pope, he challenged the theological views...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-12_saint_gregory.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "2d4aa8513446b3ef68a9d1300516792dd332e6c6aea2d3cd7977011c30588276",
+        "langs": {
+          "es": {
+            "translatedHash": "af48e8077cb15de91225f83cc3256e06d8c40647b5b6857778fe7118e369458c",
+            "updatedAt": "2026-02-24T22:52:39.831Z"
+          },
+          "pl": {
+            "translatedHash": "5aa1be30f51578c61d1eb0dd7bf78f595bb58493dd82d6f60bd7603613c3ab32",
+            "updatedAt": "2026-02-24T22:52:40.435Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "28006b51e73482deec12af072a59380b94586877cbd66114219779016db3f191",
+        "langs": {
+          "es": {
+            "translatedHash": "4e975e9f48d2eb74af29783dd0ed57bbcae0c07a5286356af147291b0bfb36af",
+            "updatedAt": "2026-02-24T22:52:41.106Z"
+          },
+          "pl": {
+            "translatedHash": "493660cd64b6d635849064f4904d9f58f6446dfa56f21a0e2d29ae3d559f806e",
+            "updatedAt": "2026-02-24T22:52:41.654Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a564e5ba140bd9c0ce3bd308cba639a0c222258d511c0c6bdf7729ba085d2863",
+        "langs": {
+          "es": {
+            "translatedHash": "f3a83763b31f3c5daa30b227764c728d5c1a9d2daff2abb0c9059160e3e802ec",
+            "updatedAt": "2026-02-24T22:52:44.535Z"
+          },
+          "pl": {
+            "translatedHash": "4d92cb732b71bd5c04e57cdf98dce64db6b52eae56bb34281a07269e595dd481",
+            "updatedAt": "2026-02-24T22:52:48.435Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "06a051656fcac31723b788825d86fd3d50e374f7b5b6652bfca898cbb574c43b",
+        "langs": {
+          "es": {
+            "translatedHash": "734046792c756077fbabae1d9f30ba3d0b982d56e4592c155e4c6d56f75eae88",
+            "updatedAt": "2026-02-24T22:52:52.982Z"
+          },
+          "pl": {
+            "translatedHash": "5a5575f4ba017643ac7e339565ba1e5e31962cbeaa6e6102197492660df96322",
+            "updatedAt": "2026-02-24T22:52:58.726Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gregorio",
+  "name_pl": "Święty Grzegorz",
+  "feast_es": "El duodécimo día de marzo",
+  "feast_pl": "Dwunasty Dzień Marca",
+  "summary_es": "El Papa Gregorio I, comúnmente conocido como San Gregorio Magno, fue el 64º Obispo de Roma desde el 3 de septiembre de 590 hasta su muerte el 12 de marzo de 604. Es conocido por instituir la primera misión a gran escala registrada desde Roma, la misión gregoriana, para convertir a los entonces mayormente paganos anglosajones al cristianismo. Gregorio también es muy conocido por sus escritos, que fueron más prolíficos que los de cualquiera de los papas anteriores. El epíteto San Gregorio el Dialogante se le ha atribuido en la cristianidad oriental debido a sus Diálogos. Las traducciones al inglés de textos orientales a veces lo nombran como Gregorio \"Dialogos\" del griego διάλογος, o el equivalente anglo-latín \"Dialogus\". Es el segundo de los tres papas listados en el Anuario Pontificio con el título de \"el Grande\", junto con los papas León I y Nicolás I.",
+  "summary_pl": "Papież Grzegorz I, powszechnie znany jako św. Grzegorz Wielki, był 64. biskupem Rzymu od 3 września 590 roku aż do swojej śmierci 12 marca 604 roku. Jest znany z ustanowienia pierwszej odnotowanej na dużą skalę misji z Rzymu, misji gregoriańskiej, mającej na celu nawrócenie wówczas w dużej mierze pogańskich Anglosasów na chrześcijaństwo. Grzegorz jest również dobrze znany ze swoich pism, które były bardziej obfite niż pisma jakiegokolwiek z poprzednich papieży. Przydomek św. Grzegorz Dialogista został mu nadany w chrześcijaństwie wschodnim ze względu na jego Dialogi. Angielskie tłumaczenia tekstów wschodnich czasami wymieniają go jako Grzegorza „Dialogosa” od greckiego διάλογος, lub anglo-łacińskiego odpowiednika „Dialogus”. Jest drugim z trzech papieży wymienionych w Annuario Pontificio z tytułem „Wielki”, obok papieży Leona I i Mikołaja I.",
+  "biography_es": "El Papa Gregorio I (latín: Gregorius I; Gregorio I; c. 540 – 12 de marzo de 604), comúnmente conocido como San Gregorio Magno (latín: Sanctus Gregorius Magnus; italiano: San Gregorio Magno), fue el 64º Obispo de Roma desde el 3 de septiembre de 590 hasta su muerte el 12 de marzo de 604. Es conocido por instituir la primera misión a gran escala registrada desde Roma, la misión gregoriana, para convertir a los entonces mayormente paganos anglosajones al cristianismo. Gregorio también es muy conocido por sus escritos, que fueron más prolíficos que los de cualquiera de los papas anteriores. El epíteto San Gregorio el Dialogista se le ha atribuido en la cristianidad oriental debido a sus Diálogos. Las traducciones al inglés de textos orientales a veces lo nombran como Gregorio \"Dialogos\" del griego διάλογος (dialogos, conversación), o el equivalente anglo-latín \"Dialogus\". Es el segundo de los tres papas listados en el Annuario Pontificio con el título de \"el Grande\", junto a los papas León I y Nicolás I.\n\nHijo de un senador romano, y él mismo prefecto de Roma a los 30 años, Gregorio vivió en un monasterio que estableció en su finca familiar antes de convertirse en embajador papal y luego papa. Antes de ser Papa, desafió las opiniones teológicas...",
+  "biography_pl": "Papież Grzegorz I (łac. Gregorius I; Gregorio I; ok. 540 – 12 marca 604), powszechnie znany jako św. Grzegorz Wielki (łac. Sanctus Gregorius Magnus; wł. San Gregorio Magno), był 64. biskupem Rzymu od 3 września 590 aż do swojej śmierci 12 marca 604 roku. Znany jest z ustanowienia pierwszej odnotowanej na dużą skalę misji z Rzymu, tzw. misji gregoriańskiej, mającej na celu nawrócenie ówcześnie w dużej mierze pogańskich Anglosasów na chrześcijaństwo. Grzegorz jest również znany ze swoich pism, które były bardziej obfite niż dzieła jakiegokolwiek z poprzednich papieży. Przydomek św. Grzegorz Dialogista został mu nadany w chrześcijaństwie wschodnim ze względu na jego Dialogi. Angielskie tłumaczenia tekstów wschodnich czasami wymieniają go jako Grzegorza „Dialogosa” od greckiego διάλογος (dialogos, rozmowa), lub anglo-łaciński odpowiednik „Dialogus”. Jest drugim z trzech papieży wymienionych w Annuario Pontificio z tytułem „Wielki”, obok papieży Leona I i Mikołaja I.\n\nSyn rzymskiego senatora, a sam prefekt Rzymu w wieku 30 lat, Grzegorz mieszkał w klasztorze, który założył na swojej rodzinnej posiadłości, zanim został papieskim ambasadorem, a następnie papieżem. Przed objęciem urzędu papieża kwestionował poglądy teologiczne..."
+}

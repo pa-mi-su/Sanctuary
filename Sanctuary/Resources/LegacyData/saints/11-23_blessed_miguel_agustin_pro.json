@@ -1,0 +1,79 @@
+{
+  "id": "11-23_blessed_miguel_agustin_pro",
+  "name": "Blessed Miguel Agustín Pro",
+  "mmdd": "11-23",
+  "feast": "The Twenty-Third Day of November",
+  "summary": "José Ramón Miguel Agustín Pro Juárez, also known as Blessed Miguel Pro, SJ was a Mexican Jesuit priest executed under the presidency of Plutarco Elías Calles on the false charges of bombing and attempted assassination of former Mexican President Álvaro Obregón.",
+  "biography": "José Ramón Miguel Agustín Pro Juárez, also known as Blessed Miguel Pro, SJ was a Mexican Jesuit priest executed under the presidency of Plutarco Elías Calles on the false charges of bombing and attempted assassination of former Mexican President Álvaro Obregón.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miguel_Pro",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-23_blessed_miguel_agustin_pro.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "61ff8eaafa7a9ec8a6ade61ecf473355f7549238849d8b1678e91ecc5fe5d213",
+        "langs": {
+          "es": {
+            "translatedHash": "fe0af0c8c2707f2c6bb0574009b901cd120ae923f76e04841a98a057d5947053",
+            "updatedAt": "2026-02-25T01:12:56.144Z"
+          },
+          "pl": {
+            "translatedHash": "2edbca85f63c3df1d021fb1a2e350b73e50818e26a84ca962977dbdda448ac89",
+            "updatedAt": "2026-02-25T01:12:56.841Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c33a06249b0654b57df6b61e79b10e662e1fb41e2ee309ffb835f628b807df70",
+        "langs": {
+          "es": {
+            "translatedHash": "8c85d9663c6fd241880e4512c9df8782fa1708525a0542836a735dc372cb5e9b",
+            "updatedAt": "2026-02-25T01:12:57.476Z"
+          },
+          "pl": {
+            "translatedHash": "bdf4b1c16250f18bf8e6f92b1cfe3f68d4773fc951cd82bd771335c1d6bbdec3",
+            "updatedAt": "2026-02-25T01:12:58.230Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "70361aa69cd67c0494a367b17658507890d738ff01a7faf5de8127b1a8e6ce1b",
+        "langs": {
+          "es": {
+            "translatedHash": "6404770eb47537427c6e6985318570a011561214eea6480885f680f916616fe0",
+            "updatedAt": "2026-02-25T01:12:59.670Z"
+          },
+          "pl": {
+            "translatedHash": "0012308301cb251be7901bda603fdc6e045fb212f03ef209f8e87cbaa13602f5",
+            "updatedAt": "2026-02-25T01:13:01.702Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "70361aa69cd67c0494a367b17658507890d738ff01a7faf5de8127b1a8e6ce1b",
+        "langs": {
+          "es": {
+            "translatedHash": "6404770eb47537427c6e6985318570a011561214eea6480885f680f916616fe0",
+            "updatedAt": "2026-02-25T01:13:03.999Z"
+          },
+          "pl": {
+            "translatedHash": "0012308301cb251be7901bda603fdc6e045fb212f03ef209f8e87cbaa13602f5",
+            "updatedAt": "2026-02-25T01:13:05.700Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Bendito Miguel Agustín Pro",
+  "name_pl": "Błogosławiony Miguel Agustín Pro",
+  "feast_es": "El vigésimo tercer día de noviembre",
+  "feast_pl": "Dwudziesty Trzeci Dzień Listopada",
+  "summary_es": "José Ramón Miguel Agustín Pro Juárez, también conocido como el Beato Miguel Pro, SJ, fue un sacerdote jesuita mexicano ejecutado durante la presidencia de Plutarco Elías Calles bajo falsas acusaciones de bombardeo e intento de asesinato del expresidente mexicano Álvaro Obregón.",
+  "summary_pl": "José Ramón Miguel Agustín Pro Juárez, znany również jako Błogosławiony Miguel Pro, SJ, był meksykańskim jezuitą, który został stracony za prezydentury Plutarco Elíasa Callesa na podstawie fałszywych zarzutów o podłożenie bomby i próbę zamachu na byłego prezydenta Meksyku Álvara Obregóna.",
+  "biography_es": "José Ramón Miguel Agustín Pro Juárez, también conocido como el Beato Miguel Pro, SJ, fue un sacerdote jesuita mexicano ejecutado durante la presidencia de Plutarco Elías Calles bajo falsas acusaciones de bombardeo e intento de asesinato del expresidente mexicano Álvaro Obregón.",
+  "biography_pl": "José Ramón Miguel Agustín Pro Juárez, znany również jako Błogosławiony Miguel Pro, SJ, był meksykańskim jezuitą, który został stracony za prezydentury Plutarco Elíasa Callesa na podstawie fałszywych zarzutów o podłożenie bomby i próbę zamachu na byłego prezydenta Meksyku Álvara Obregóna."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "11-18_saint_rose_philippine_duchesne_virgin_usa_optional_memorial",
+  "name": "Saint Rose Philippine Duchesne, Virgin—USA Optional Memorial",
+  "mmdd": "11-18",
+  "feast": "The Eighteenth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Rose_Philippine_Duchesne.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-18_saint_rose_philippine_duchesne_virgin_usa_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4156743690baf53428bca5543ea11ce5d2354535a2a3922e085d4899b1296d5b",
+        "langs": {
+          "es": {
+            "translatedHash": "f0569db969f5e6a408e2360182e6839f6aac0ac0e245d32181fa160e5edf4a87",
+            "updatedAt": "2026-02-25T01:10:40.573Z"
+          },
+          "pl": {
+            "translatedHash": "2131737d5553bdcc7c22ccba2b2d358913b6307c05af9e6790af059a7b55843f",
+            "updatedAt": "2026-02-25T01:10:41.457Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a705f847e0a980ef121761330bbf3fbbc6ec0dc53204ab16d6b42f4a375ea437",
+        "langs": {
+          "es": {
+            "translatedHash": "037431f90cc075c2e800b1cc2f7b70513c4256eb984b636dfce3121b61a09615",
+            "updatedAt": "2026-02-25T01:10:41.907Z"
+          },
+          "pl": {
+            "translatedHash": "d66886fee16a8225afe0eb64fc7dfa84a743d8ac444bd217864f3a09bdf3ac43",
+            "updatedAt": "2026-02-25T01:10:42.965Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Rosa Filipina Duchesne, Virgen—Memoria Opcional de Estados Unidos",
+  "name_pl": "Święta Róża Filipina Duchesne, Dziewica — wspomnienie dowolne w USA",
+  "feast_es": "El Dieciocho de Noviembre",
+  "feast_pl": "Osiemnasty dzień listopada"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "06-25_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "06-25",
+  "feast": "The Twenty-Fifth day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:47:54.093Z"
+          },
+          "pl": {
+            "translatedHash": "54a9a905fe0f6061a2a2ee3960e1cde149800e6acc8c737c78778b5cd3e15c66",
+            "updatedAt": "2026-02-24T23:47:54.751Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "314586a65946cccd78ff6674ba4ad6e85db8bc1e1612add8fe0949f5900098ce",
+        "langs": {
+          "es": {
+            "translatedHash": "d7878bfb846a2cae7502d33c00b8714657709b6380c881fbebbb6461ba4f1670",
+            "updatedAt": "2026-02-24T23:47:55.439Z"
+          },
+          "pl": {
+            "translatedHash": "7f6eecc9f1c574c49d6c3843c7a3e1160b067eea15cfc8ca73127b2a17579eb1",
+            "updatedAt": "2026-02-24T23:47:56.358Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na dziś",
+  "feast_es": "El vigésimo quinto día de junio",
+  "feast_pl": "Dwudziesty piąty dzień czerwca"
+}

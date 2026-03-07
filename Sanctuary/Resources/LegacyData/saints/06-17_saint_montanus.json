@@ -1,0 +1,79 @@
+{
+  "id": "06-17_saint_montanus",
+  "name": "Saint Montanus",
+  "mmdd": "06-17",
+  "feast": "The Seventeenth Day of June",
+  "summary": "The Martyrs of Carthage under Valerian were a group of Christians including Montanus, Lucius, Flavian, Julian, Victoricus, Primolus, Rhenus, and Donatian. All were executed during the persecutions of the Roman Emperor Valerian in 259 AD. Their feast day is 24 February.",
+  "biography": "The Martyrs of Carthage under Valerian were a group of Christians including Montanus, Lucius, Flavian, Julian, Victoricus, Primolus, Rhenus, and Donatian. All were executed during the persecutions of the Roman Emperor Valerian in 259 AD. Their feast day is 24 February.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyrs_of_Carthage_under_Valerian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-17_saint_montanus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "0dbe187c2386774bcd3619ad9f32ecb17377388951f5146f47755f502e594112",
+        "langs": {
+          "es": {
+            "translatedHash": "f14d77b8899149dd2517f5754988287b41e6d93435e23a846433e5cf6d7f1fca",
+            "updatedAt": "2026-02-24T23:43:43.101Z"
+          },
+          "pl": {
+            "translatedHash": "fa75b0616475f3855d85c10ad7aeaa54c974e628608e1712f912cee55557a948",
+            "updatedAt": "2026-02-24T23:43:43.712Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0accb1ab1b5d027803b83eaf9e1479dccebcbbb0b0463b6c63c37a0eca93c596",
+        "langs": {
+          "es": {
+            "translatedHash": "19891ba412a296ec3a2178ca4862f670d31888bc1e1d0aa7baef098954eb9a72",
+            "updatedAt": "2026-02-24T23:43:44.325Z"
+          },
+          "pl": {
+            "translatedHash": "bf66ba06bf6445ea48811bf24bbf94eb850db4d99493e29325a583864662a17f",
+            "updatedAt": "2026-02-24T23:43:44.878Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "91e0621bcb25df3e0c9116e4fb1f982fb612c7b32b254c21aeae2d3d4e671c04",
+        "langs": {
+          "es": {
+            "translatedHash": "27f760d557b77cd62fb2cbc4938974f96501c712416218ad8cc57c193adeb3f2",
+            "updatedAt": "2026-02-24T23:43:46.793Z"
+          },
+          "pl": {
+            "translatedHash": "8e0c08f3a25afe764b0b82d5758390bf066f84c629b69f06b90fb3afdba97704",
+            "updatedAt": "2026-02-24T23:43:48.426Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "91e0621bcb25df3e0c9116e4fb1f982fb612c7b32b254c21aeae2d3d4e671c04",
+        "langs": {
+          "es": {
+            "translatedHash": "27f760d557b77cd62fb2cbc4938974f96501c712416218ad8cc57c193adeb3f2",
+            "updatedAt": "2026-02-24T23:43:50.546Z"
+          },
+          "pl": {
+            "translatedHash": "3997bd2739a6917948b9832a7c8e41c46db6559298136a49639e03b0b4baffc3",
+            "updatedAt": "2026-02-24T23:43:53.205Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Montano",
+  "name_pl": "Święty Montanus",
+  "feast_es": "El Diecisiete de Junio",
+  "feast_pl": "Siedemnasty Dzień Czerwca",
+  "summary_es": "Los Mártires de Cartago bajo Valeriano fueron un grupo de cristianos que incluía a Montano, Lucio, Flaviano, Julián, Victorico, Primolo, Rheno y Donaciano. Todos fueron ejecutados durante las persecuciones del emperador romano Valeriano en el año 259 d.C. Su fiesta se celebra el 24 de febrero.",
+  "summary_pl": "Męczennicy Kartaginy za panowania Waleriusza byli grupą chrześcijan, wśród których byli Montanus, Lucjusz, Flawian, Julian, Wiktorykus, Primolus, Renus i Donacjan. Wszyscy zostali straceni podczas prześladowań cesarza rzymskiego Waleriusza w 259 roku. Ich wspomnienie liturgiczne obchodzone jest 24 lutego.",
+  "biography_es": "Los Mártires de Cartago bajo Valeriano fueron un grupo de cristianos que incluía a Montano, Lucio, Flaviano, Julián, Victorico, Primolo, Rheno y Donaciano. Todos fueron ejecutados durante las persecuciones del emperador romano Valeriano en el año 259 d.C. Su fiesta se celebra el 24 de febrero.",
+  "biography_pl": "Męczennicy Kartaginy za panowania Waleriusza byli grupą chrześcijan, wśród których byli Montanus, Lucjusz, Flawian, Julian, Wiktorykus, Primolus, Rhenus i Donacjan. Wszyscy zostali straceni podczas prześladowań cesarza rzymskiego Waleriusza w 259 roku. Ich wspomnienie liturgiczne przypada na 24 lutego."
+}

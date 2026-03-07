@@ -1,0 +1,79 @@
+{
+  "id": "05-10_saint_gordian",
+  "name": "Saint Gordian",
+  "mmdd": "05-10",
+  "feast": "The Tenth Day of May",
+  "summary": "Saint Gordianus and Saint Epimachus of Alexandria were jointly venerated in the Catholic Church on 10 May until 1969.",
+  "biography": "References",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gordianus_and_Epimachus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-10_saint_gordian.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "45bdc7147c7b5c37518dc73a5b42a42866c8db449f94ebe863ea8e92be68b473",
+        "langs": {
+          "es": {
+            "translatedHash": "f508f5ead482a7ab9acd73a3fac18412deaa9fbc47c7c451a835c9c80017a40b",
+            "updatedAt": "2026-02-24T23:22:45.053Z"
+          },
+          "pl": {
+            "translatedHash": "6837f37fad77ccb8805553ddc882b2ba30b771d52b2a2c07813798310acc5823",
+            "updatedAt": "2026-02-24T23:22:46.090Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ac8cba13266de72496d8f1252ca2e669ad57f250ef20f2b01b3830a94a5e44c5",
+        "langs": {
+          "es": {
+            "translatedHash": "a9dfdd01e57133249e55c8d697a3083e954dfe75bb2df623009c6f2efd76fece",
+            "updatedAt": "2026-02-24T23:22:46.732Z"
+          },
+          "pl": {
+            "translatedHash": "698e7b1bea78840098a6ce9f84f808dfe6e22d9f3610730c795a9fb81746fcbb",
+            "updatedAt": "2026-02-24T23:22:47.409Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "b0c9d6532bf931a972d573dad5d83cd86bb44e42054d6068072622e49e91bfcd",
+        "langs": {
+          "es": {
+            "translatedHash": "7a26092d7bded4b854d40775eca2dc022e2ca9342d4119b352e13f700f08f3f8",
+            "updatedAt": "2026-02-24T23:22:48.568Z"
+          },
+          "pl": {
+            "translatedHash": "0f686a78fa7d702fc0b822636c42891f36910f3a229697f4f55bb6fc89668eba",
+            "updatedAt": "2026-02-24T23:22:49.644Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "69824d3b0e70ca6aaa0da1613b65fd914c442bf1f7ad1bb22bcdfbdfe1a05e39",
+        "langs": {
+          "es": {
+            "translatedHash": "eba6fcd016a0b802bff50a7d8e9c4d4c5f7cad8ec113a656fd7e2f30e161bd1d",
+            "updatedAt": "2026-02-24T23:22:50.181Z"
+          },
+          "pl": {
+            "translatedHash": "f5d253d48596b6edc54d8a888dfc936bca4ef653602f74c100bb4ea14dd7ccf7",
+            "updatedAt": "2026-02-24T23:22:50.700Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Gordiano",
+  "name_pl": "Święty Gordian",
+  "feast_es": "El Décimo Día de Mayo",
+  "feast_pl": "Dziesiąty Dzień Maja",
+  "summary_es": "Los santos Gordiano y Epímaco de Alejandría fueron venerados conjuntamente en la Iglesia Católica el 10 de mayo hasta 1969.",
+  "summary_pl": "Święty Gordian i święty Epimach z Aleksandrii byli wspólnie czczeni w Kościele katolickim 10 maja aż do 1969 roku.",
+  "biography_es": "Referencias",
+  "biography_pl": "Odwołania"
+}

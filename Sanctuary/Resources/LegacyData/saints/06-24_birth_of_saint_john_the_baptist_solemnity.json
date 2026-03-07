@@ -1,0 +1,48 @@
+{
+  "id": "06-24_birth_of_saint_john_the_baptist_solemnity",
+  "name": "Birth of Saint John the Baptist—Solemnity",
+  "mmdd": "06-24",
+  "feast": "The Twenty-Fourth day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemnity"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-24_birth_of_saint_john_the_baptist_solemnity.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3813462c7f313344ce53c1b3dacea10c1c9abc4382e4e0fa338396934f18f788",
+        "langs": {
+          "es": {
+            "translatedHash": "25075d9014c0d23a789298967a7ceff70e837b1ac56e1ff0fbb069052adf0035",
+            "updatedAt": "2026-02-24T23:47:18.215Z"
+          },
+          "pl": {
+            "translatedHash": "e0d67fef7f7acd7900f4cae2626e58d3b7cf9b485fc666bcee1b4bccc4ecc90a",
+            "updatedAt": "2026-02-24T23:47:19.395Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e02971616d419826e4f6c51686798b47fbd33ac405216e0d61e26e514126b7ba",
+        "langs": {
+          "es": {
+            "translatedHash": "ca0bef2c070da659246b1c9c066bec0c92ceeac65189e77d9f5b09777aa36b82",
+            "updatedAt": "2026-02-24T23:47:20.518Z"
+          },
+          "pl": {
+            "translatedHash": "e3eb66593e62f8e73806bd1c31db29d298f32910ed39d63b7e72910358b84b14",
+            "updatedAt": "2026-02-24T23:47:21.436Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nacimiento de San Juan Bautista—Solemnidad",
+  "name_pl": "Narodziny św. Jana Chrzciciela — Uroczystość",
+  "feast_es": "El vigésimo cuarto día de junio",
+  "feast_pl": "Dwudziesty czwarty dzień czerwca"
+}

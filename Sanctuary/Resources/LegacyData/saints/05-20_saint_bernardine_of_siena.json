@@ -1,0 +1,79 @@
+{
+  "id": "05-20_saint_bernardine_of_siena",
+  "name": "Saint Bernardine of Siena",
+  "mmdd": "05-20",
+  "feast": "The Twentieth Day of May",
+  "summary": "Bernardino of Siena, OFM, was an Italian Catholic priest and Franciscan missionary preacher in Italy. He was a systematizer of scholastic economics.",
+  "biography": "Sources\nTwo hagiographies of Bernardino of Siena were written by two of his friends; the one the same year in which he died, by Barnaba of Siena; the other by the humanist Maffeo Vegio. Another important contemporary biographical source is that written by the Sienese diplomat Leonardo Benvoglienti, who was another personal acquaintance of Bernardino's. The historian Franco Mormando notes that \"[t]he first works to be produced about Bernardine right after his death [in 1444] were biographical: by the year 1480,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernardino_of_Siena",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-20_saint_bernardine_of_siena.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1457a676a7a49e070602e04a3bde33309a240c5ac0b96a24b372066a79840d7d",
+        "langs": {
+          "es": {
+            "translatedHash": "a4cb48a350e3f80cb4ff3aefef833766a30fb627e187a07e2ced6567264c023d",
+            "updatedAt": "2026-02-24T23:28:29.992Z"
+          },
+          "pl": {
+            "translatedHash": "c9fba13fa78232e87d2d05d5bea0b4b4f5258879a5d0fe36dd6e05d0766c11c0",
+            "updatedAt": "2026-02-24T23:28:30.598Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "71af8ff965c25a1d2c6e130e64db6858965c6e41c753e228be54129ef3d1bf62",
+        "langs": {
+          "es": {
+            "translatedHash": "178fbbdf9d16d6ec40e926121633f0c717b19c9df28ad0db77a413ddac274486",
+            "updatedAt": "2026-02-24T23:28:31.259Z"
+          },
+          "pl": {
+            "translatedHash": "e5cbefd974f88477c64ccd149f80b3c8f0839c9c0c699636c361f63f0919eadc",
+            "updatedAt": "2026-02-24T23:28:31.832Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "27725247db519bdbde2ef454bf7b7e1caba730c76264a01f6dad9fa431b0208c",
+        "langs": {
+          "es": {
+            "translatedHash": "c890c7f0bd3e48104770b487d84682f69fe80a8fdecee507fa1b50abad365799",
+            "updatedAt": "2026-02-24T23:28:32.837Z"
+          },
+          "pl": {
+            "translatedHash": "4638d16c05b003e756fbdbdc0234090fb8edc7da3b6a87e627c421ff8b5481a6",
+            "updatedAt": "2026-02-24T23:28:33.872Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a1e3f014aa6b6d6c55736c0a78e861190fcf6f211d354f5bdef7b885b304bd00",
+        "langs": {
+          "es": {
+            "translatedHash": "4572ac7db83f6abc1e479510245bfe72a8fdaa3901bdcd92917222d79dbc091b",
+            "updatedAt": "2026-02-24T23:28:36.106Z"
+          },
+          "pl": {
+            "translatedHash": "0b0bb2b61df7445530b3f56a11b428513b1ca2bd7a4fc58cbba4cef403c29020",
+            "updatedAt": "2026-02-24T23:28:40.142Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bernardino de Siena",
+  "name_pl": "Święty Bernardyn ze Sieny",
+  "feast_es": "El vigésimo día de mayo",
+  "feast_pl": "Dwudziesty dzień maja",
+  "summary_es": "Bernardino de Siena, OFM, fue un sacerdote católico italiano y predicador misionero franciscano en Italia. Fue un sistematizador de la economía escolástica.",
+  "summary_pl": "Bernardyn ze Sieny, OFM, był włoskim katolickim księdzem i franciszkańskim misjonarzem oraz kaznodzieją we Włoszech. Był systematyzatorem scholastycznej ekonomii.",
+  "biography_es": "Fuentes  \nDos hagiografías de Bernardino de Siena fueron escritas por dos de sus amigos; una el mismo año en que murió, por Barnaba de Siena; la otra por el humanista Maffeo Vegio. Otra fuente biográfica contemporánea importante es la escrita por el diplomático sienés Leonardo Benvoglienti, quien fue otro conocido personal de Bernardino. El historiador Franco Mormando señala que «[l]as primeras obras producidas sobre Bernardino justo después de su muerte [en 1444] fueron biográficas: para el año 1480,...",
+  "biography_pl": "Źródła  \nDwie hagiografie Bernardino z Sieny zostały napisane przez dwóch jego przyjaciół; jedna w tym samym roku, w którym zmarł, przez Barnabę z Sieny; druga przez humanistę Maffeo Vegio. Innym ważnym współczesnym źródłem biograficznym jest dzieło napisane przez sieneskiego dyplomatę Leonardo Benvoglientiego, który również był osobistym znajomym Bernardino. Historyk Franco Mormando zauważa, że „[p]ierwsze prace powstałe o Bernardynie zaraz po jego śmierci [w 1444 roku] miały charakter biograficzny: do roku 1480,..."
+}

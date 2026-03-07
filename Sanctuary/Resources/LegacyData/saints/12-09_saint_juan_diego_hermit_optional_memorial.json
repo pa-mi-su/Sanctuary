@@ -1,0 +1,48 @@
+{
+  "id": "12-09_saint_juan_diego_hermit_optional_memorial",
+  "name": "Saint Juan Diego, Hermit—Optional Memorial",
+  "mmdd": "12-09",
+  "feast": "The Ninth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simon_Stock"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-09_saint_juan_diego_hermit_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a1952001f883fe99d836a72e54735e9d2819e53911a48c7ae1022043a56b78a9",
+        "langs": {
+          "es": {
+            "translatedHash": "171c6c1b3346e59fa0f4b499fa7b72d46a025ee0eafc7a48728730257b1dd7f2",
+            "updatedAt": "2026-02-25T01:22:58.096Z"
+          },
+          "pl": {
+            "translatedHash": "cdd90c398ebd75db658e8af51e57c4d4ffda185021b256e82bc03536785fd8e1",
+            "updatedAt": "2026-02-25T01:22:58.955Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "85d067fc15f61e7bba606d9d1be29f63c0ce53a61af029b7e93391a56a704142",
+        "langs": {
+          "es": {
+            "translatedHash": "122ac9ad10e2768b01deeeacf9dddb1b608fbf2027b34e22f9a34001e6b55589",
+            "updatedAt": "2026-02-25T01:23:00.191Z"
+          },
+          "pl": {
+            "translatedHash": "0aa4ebce92a8ebf5f9d032c8322d4c1d5a93fcfadb4b1230a685581873da24df",
+            "updatedAt": "2026-02-25T01:23:00.850Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Diego, Ermitaño—Memoria Opcional",
+  "name_pl": "Święty Juan Diego, Pustelnik — Wspomnienie dowolne",
+  "feast_es": "El Noveno Día de Diciembre",
+  "feast_pl": "Dziewiąty dzień grudnia"
+}

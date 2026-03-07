@@ -1,0 +1,79 @@
+{
+  "id": "09-20_saint_matthew",
+  "name": "Saint Matthew",
+  "mmdd": "09-20",
+  "feast": "The Twentieth Day of September",
+  "summary": "The Calling of Saint Matthew is an oil painting by the Italian Baroque master Caravaggio that depicts the moment Jesus Christ calls on the tax collector Matthew to follow him. It was completed in 1599–1600 for the Contarelli Chapel in the church of the French congregation, San Luigi dei Francesi in Rome, where it remains. It hangs alongside two other paintings of Matthew by Caravaggio: The Martyrdom of Saint Matthew and The Inspiration of Saint Matthew (1602).",
+  "biography": "Commission\nMore than a decade earlier, Cardinal Matthieu Cointerel had left funds and specific instructions in his will for the decoration of a chapel based on themes related to his namesake, Saint Matthew. The dome of the chapel was decorated with frescoes by the late Mannerist artist Giuseppe Cesari, Caravaggio's former employer and one of the most popular painters in Rome at the time. But as Cesari became busy with royal and papal patronage, Cardinal Francesco Maria del Monte, Caravaggio's patron and also the prefect of the Fabbrica of St Peter's (the Vatican office for Church property), intervened to obtain for Caravaggio his first major church commission and his first painting...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-20_saint_matthew.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "5a1edbdf03148c8987277f6f7b5e17683d83520e5d9c4684ffb950f231b013d9",
+        "langs": {
+          "es": {
+            "translatedHash": "3a9e62ce02f38782d012604741e62cbb43298adc311a04299333a05551bb01c3",
+            "updatedAt": "2026-02-25T00:34:26.240Z"
+          },
+          "pl": {
+            "translatedHash": "9355795de8779b71a3f940d0521d2027a074e9d7a89a557f6c7338b0b84657a9",
+            "updatedAt": "2026-02-25T00:34:27.221Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a4923c35cd840790234bd14f8df23e1bbe7a6b62e7c661678c6379da6569f7af",
+        "langs": {
+          "es": {
+            "translatedHash": "a36bbab8251b5f47704adf6f2d4dadd5e821d4fd32be8f11e9f06275fc03f120",
+            "updatedAt": "2026-02-25T00:34:27.806Z"
+          },
+          "pl": {
+            "translatedHash": "2a8c52b6f1f55662798723f76d429fb33035247955589e6bc9592370cc9de63e",
+            "updatedAt": "2026-02-25T00:34:28.440Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "0ac9e7973d2544d91e2994bb6e888518c71f10c31c70c0ae7697c9f93245fb9e",
+        "langs": {
+          "es": {
+            "translatedHash": "2a221c592ce6bfa5bc4ad2bdc6effc4e19c31d9099cb389bf4ff157506fd6bda",
+            "updatedAt": "2026-02-25T00:34:31.608Z"
+          },
+          "pl": {
+            "translatedHash": "20c5769b086099bd551633826c8d9091fb2cefe2adcc98b17ef43595757a5076",
+            "updatedAt": "2026-02-25T00:34:34.053Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "85fd55ad53aadd3b263246196748714f543c1fc955a6303acbcaf093e44a994f",
+        "langs": {
+          "es": {
+            "translatedHash": "32d6186c80b2d0e9c5f961c47f8241d28eba05368c679b29d0ac88392d96ca76",
+            "updatedAt": "2026-02-25T00:34:36.669Z"
+          },
+          "pl": {
+            "translatedHash": "5d84220acfee2c2d4777b393731cfa7a7a57e0e18a8099b9ee1e0f2e26b5439b",
+            "updatedAt": "2026-02-25T00:34:40.447Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Mateo",
+  "name_pl": "Święty Mateusz",
+  "feast_es": "El vigésimo día de septiembre",
+  "feast_pl": "Dwudziesty dzień września",
+  "summary_es": "La Vocación de San Mateo es una pintura al óleo del maestro barroco italiano Caravaggio que representa el momento en que Jesucristo llama al recaudador de impuestos Mateo a seguirlo. Fue completada en 1599–1600 para la Capilla Contarelli en la iglesia de la congregación francesa, San Luigi dei Francesi en Roma, donde permanece. Cuelga junto a otras dos pinturas de Mateo de Caravaggio: El martirio de San Mateo y La inspiración de San Mateo (1602).",
+  "summary_pl": "Powołanie św. Mateusza to obraz olejny włoskiego mistrza baroku Caravaggia, który przedstawia moment, gdy Jezus Chrystus wzywa poborcę podatkowego Mateusza, aby poszedł za Nim. Został ukończony w latach 1599–1600 dla kaplicy Contarelli w kościele francuskiej kongregacji San Luigi dei Francesi w Rzymie, gdzie nadal się znajduje. Obraz wisi obok dwóch innych dzieł Caravaggia przedstawiających Mateusza: Męczeństwo św. Mateusza oraz Natchnienie św. Mateusza (1602).",
+  "biography_es": "Comisión  \nMás de una década antes, el cardenal Matthieu Cointerel había dejado fondos e instrucciones específicas en su testamento para la decoración de una capilla basada en temas relacionados con su santo homónimo, San Mateo. La cúpula de la capilla fue decorada con frescos del fallecido artista manierista Giuseppe Cesari, antiguo empleador de Caravaggio y uno de los pintores más populares en Roma en ese momento. Pero, a medida que Cesari se ocupaba de encargos reales y papales, el cardenal Francesco Maria del Monte, patrón de Caravaggio y también prefecto de la Fabbrica de San Pedro (la oficina vaticana para los bienes de la Iglesia), intervino para conseguir para Caravaggio su primer gran encargo eclesiástico y su primera pintura...",
+  "biography_pl": "Zlecenie  \nPonad dekadę wcześniej kardynał Matthieu Cointerel pozostawił w swoim testamencie fundusze oraz szczegółowe instrukcje dotyczące dekoracji kaplicy opartej na tematach związanych z jego patronem, św. Mateuszem. Kopuła kaplicy została ozdobiona freskami autorstwa zmarłego manierycznego artysty Giuseppe Cesari, byłego pracodawcy Caravaggia i jednego z najpopularniejszych malarzy w Rzymie w tamtym czasie. Jednak gdy Cesari zajął się zamówieniami królewskimi i papieskimi, kardynał Francesco Maria del Monte, patron Caravaggia, a także prefekt Fabbriki św. Piotra (watykańskiego urzędu ds. majątku Kościoła), interweniował, aby zapewnić Caravaggiowi jego pierwsze ważne zlecenie kościelne oraz jego pierwszy obraz..."
+}

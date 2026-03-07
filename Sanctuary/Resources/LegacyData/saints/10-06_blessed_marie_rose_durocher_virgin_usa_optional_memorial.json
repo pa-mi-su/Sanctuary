@@ -1,0 +1,46 @@
+{
+  "id": "10-06_blessed_marie_rose_durocher_virgin_usa_optional_memorial",
+  "name": "Blessed Marie Rose Durocher, Virgin—USA Optional Memorial",
+  "mmdd": "10-06",
+  "feast": "The Sixth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-06_blessed_marie_rose_durocher.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f670e9c2393635331c4601acd8a9d60b28168516b07564223ebdca641f245b9d",
+        "langs": {
+          "es": {
+            "translatedHash": "c850308d8575b09660d3f5bbbaa9148ed0bfbba01fa6a23850f5f059ce2938de",
+            "updatedAt": "2026-02-25T00:45:06.653Z"
+          },
+          "pl": {
+            "translatedHash": "43ba669f1ebdb217a4f5693b6ebcbbaccc9b5720d4a69655d9573ae3e5911e35",
+            "updatedAt": "2026-02-25T00:45:07.661Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "2aa921d292c4d32dbf4b83320ab5185e8d1cb1a02f49727948c5ce3b3dd7a0d2",
+        "langs": {
+          "es": {
+            "translatedHash": "1512aede4c2e5c54eead52982e29cf51d0fa142979b6072237c1001ed1224da7",
+            "updatedAt": "2026-02-25T00:45:08.223Z"
+          },
+          "pl": {
+            "translatedHash": "067b6b1290e56da8629bc11b82338f2c7675796544a193593e58e19bcd7857b3",
+            "updatedAt": "2026-02-25T00:45:08.841Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Beata Marie Rose Durocher, Virgen—Memoria Opcional de Estados Unidos",
+  "name_pl": "Błogosławiona Maria Róża Durocher, Dziewica — USA Wspomnienie dowolne",
+  "feast_es": "El Sexto Día de Octubre",
+  "feast_pl": "Szósty dzień października"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "10-27_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "10-27",
+  "feast": "The Twenty-Seventh Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:57:16.073Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:57:16.771Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bf3cab05f05f3a3ed8359c4edcaa2346101873d79e1da14a1b9cd33b28e3d756",
+        "langs": {
+          "es": {
+            "translatedHash": "816104086cd30a43dc78f453855da3a26b55b5f87c617930add3854a1f2c58ce",
+            "updatedAt": "2026-02-25T00:57:17.434Z"
+          },
+          "pl": {
+            "translatedHash": "ea01a2d1373365a9cf98e0d013172d00b2e052c17a7f0f7b2e8f9e19b4f28f2b",
+            "updatedAt": "2026-02-25T00:57:18.151Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo séptimo día de octubre",
+  "feast_pl": "Dwudziesty siódmy dzień października"
+}

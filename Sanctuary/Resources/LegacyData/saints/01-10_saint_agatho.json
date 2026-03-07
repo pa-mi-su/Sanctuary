@@ -1,0 +1,79 @@
+{
+  "id": "01-10_saint_agatho",
+  "name": "Saint Agatho",
+  "mmdd": "01-10",
+  "feast": "The Tenth Day of January",
+  "summary": "Agatho may refer to:Pope Agatho (577–681), a pope of the Catholic Church\nPope Agatho of Alexandria, Pope of Alexandria and Patriarch of the See of St. Mark\nAgatho, the martyred son of Hor and Susia",
+  "biography": "Agatho may refer to: Pope Agatho (577–681), a pope of the Catholic Church Pope Agatho of Alexandria (died 680), Pope of Alexandria and Patriarch of the See of St. Mark Agatho, the martyred son of Hor and Susia See also Agathon (name) Agathos, Greek language for \"good\"",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agatho",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-10_saint_agatho.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "215c3baeaed6e3ecf2bd1755b33d663d2dead6de66309ca7774b4a5d3b6456b6",
+        "langs": {
+          "es": {
+            "translatedHash": "f244ca6460d059b350d41d0dc8fc79e3a4904787d1dfffc629210ec498e14dfc",
+            "updatedAt": "2026-02-24T22:11:10.698Z"
+          },
+          "pl": {
+            "translatedHash": "f11dd888814b925f51cf71b2fce4d00d4d05347c2e818a5ec88312bafef1e070",
+            "updatedAt": "2026-02-24T22:11:11.300Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "015f71868afdc3bb66bff51df7a41ebd548b043c9f066fa142cdeebd9bd7a503",
+        "langs": {
+          "es": {
+            "translatedHash": "6523e4a69c4edf684396b5fdba5f3c313e156bec895a7fdc6b8d030cf9a96080",
+            "updatedAt": "2026-02-24T22:11:11.972Z"
+          },
+          "pl": {
+            "translatedHash": "87637ab31a8160e758c727bdef5b14db84fb4efd388333234f86e488fb685a82",
+            "updatedAt": "2026-02-24T22:11:12.639Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6fb69d9fef2e6f1240aa986e0fdc19ac8094dfac7a2385146297d85a7be33738",
+        "langs": {
+          "es": {
+            "translatedHash": "e279da0a7060051b8e3f3ebec63b9a2a0e049b3dc5877c928e073d76a8786862",
+            "updatedAt": "2026-02-24T22:11:14.040Z"
+          },
+          "pl": {
+            "translatedHash": "7c9d6848da34f2b7dee091cf62d6f72236e50784075dea76325e2dbeda6d1a1f",
+            "updatedAt": "2026-02-24T22:11:15.439Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "eabb95dfb2b6968d3a9298c791f3eb5b7d985a76e90dc40f71f60ec4f0b98fcc",
+        "langs": {
+          "es": {
+            "translatedHash": "fdd79941c45ee201789ec919f67afb76503fbd54fa3e9637c43947c85c339093",
+            "updatedAt": "2026-02-24T22:11:17.873Z"
+          },
+          "pl": {
+            "translatedHash": "bde2517aee25b7d26c91227a1cbcd49a42e67afc91f3e2cf9f3f85e6bbabf45d",
+            "updatedAt": "2026-02-24T22:11:19.916Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Agatón",
+  "name_pl": "Święty Agatoniusz",
+  "feast_es": "El décimo día de enero",
+  "feast_pl": "Dziesiąty dzień stycznia",
+  "summary_es": "Agatho puede referirse a:  \nEl Papa Agatho (577–681), un papa de la Iglesia Católica  \nEl Papa Agatho de Alejandría, Papa de Alejandría y Patriarca de la Sede de San Marcos  \nAgatho, el hijo mártir de Hor y Susia",
+  "summary_pl": "Agatho może odnosić się do:  \nPapież Agatho (577–681), papież Kościoła katolickiego  \nPapież Agatho z Aleksandrii, papież Aleksandrii i patriarcha Stolicy św. Marka  \nAgatho, męczennik, syn Hora i Susii",
+  "biography_es": "Agatho puede referirse a:  \nPapa Agatho (577–681), un papa de la Iglesia Católica  \nPapa Agatho de Alejandría (fallecido en 680), Papa de Alejandría y Patriarca de la Sede de San Marcos  \nAgatho, el hijo mártir de Hor y Susia  \n\nVéase también Agathon (nombre)  \nAgathos, palabra griega que significa \"bueno\"",
+  "biography_pl": "Agatho może odnosić się do: Papież Agatho (577–681), papież Kościoła katolickiego Papież Agatho z Aleksandrii (zm. 680), papież Aleksandrii i patriarcha Stolicy św. Marka Agatho, męczenniczy syn Hora i Susii Zobacz także Agathon (imię) Agathos, greckie słowo oznaczające „dobry”"
+}

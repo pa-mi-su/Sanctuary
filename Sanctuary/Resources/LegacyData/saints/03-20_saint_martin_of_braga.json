@@ -1,0 +1,79 @@
+{
+  "id": "03-20_saint_martin_of_braga",
+  "name": "Saint Martin of Braga",
+  "mmdd": "03-20",
+  "feast": "The Twentieth Day of March",
+  "summary": "Saint Martin of Braga, also known as Saint Martin of Dumio, was an archbishop of Bracara Augusta in Gallaecia, a missionary, a monastic founder, and an ecclesiastical author. According to his contemporary, the historian Gregory of Tours, Martin was plenus virtutibus and in tantum se litteris imbuit ut nulli secundus sui temporis haberetur. He was later canonized by the Catholic Church for his work in converting the inhabitants of Gallaecia to Chalcedonian Christianity, being granted the cognomen of \"Apostle to the Suevi\". His feast day is 20 March.",
+  "biography": "Saint Martin of Braga (in Latin Martinus Bracarensis, in Portuguese, known as Martinho de Dume c. 520–580 AD), also known as Saint Martin of Dumio, was an archbishop of Bracara Augusta in Gallaecia (now Braga in Portugal), a missionary, a monastic founder, and an ecclesiastical author. According to his contemporary, the historian Gregory of Tours, Martin was plenus virtutibus (\"full of virtue\") and in tantum se litteris imbuit ut nulli secundus sui temporis haberetur (\"he so instructed himself in learning that he was considered second to none in his lifetime\"). He was later canonized by the Catholic Church for his work in converting the inhabitants of Gallaecia to Chalcedonian Christianity, being granted the cognomen of \"Apostle to the Suevi\". His feast day is 20 March. Life Born in Pannonia, in Central Europe, Martin made a pilgrimage to the Holy Land, where he became a monk. Around 550, he travelled by sea to Hispania and settled in Gallaecia. \"His intentions in going to a place so remote by the standards of his own day are unknown,\" writes Roger Collins. Though some scholars have suggested that he was an agent of Byzantine diplomacy (owing to the coincidence between his date...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_of_Braga",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-20_saint_martin_of_braga.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "994c9efc41b473ce8196add804ae8f5c07450c07140e57930eda523e1739147d",
+        "langs": {
+          "es": {
+            "translatedHash": "d05b5f019a317fcec876dac39fcfa87a0386f6af140b731fef0b8b6aaebe0797",
+            "updatedAt": "2026-02-24T22:56:24.404Z"
+          },
+          "pl": {
+            "translatedHash": "c0fb68612e05c18975e762537e6a222f330b4521cd19f108bc92df99a229bd1b",
+            "updatedAt": "2026-02-24T22:56:25.171Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f5c6331cc590ca58846c22bb7a90f5926a3838205d946d96bacdb700102eac98",
+        "langs": {
+          "es": {
+            "translatedHash": "3c61f4c01d0a1b33487938fb5b2446072bdde9c4aa0849fef66d2e209cd58af5",
+            "updatedAt": "2026-02-24T22:56:25.797Z"
+          },
+          "pl": {
+            "translatedHash": "920c962c07106f17f54500f762cc3839c27cbf0c94bfabaa6a9505964518d671",
+            "updatedAt": "2026-02-24T22:56:26.459Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "74ce06fb8835befcac2f29f6707b0d5c071977e463984f67d7291775a2614009",
+        "langs": {
+          "es": {
+            "translatedHash": "33d072a7caea31652e04261e945b01f401ab7c6f61b3ff1c1295d24751f40789",
+            "updatedAt": "2026-02-24T22:56:28.621Z"
+          },
+          "pl": {
+            "translatedHash": "9b32798bcadc2c1631ad2e503d0e041cef849c34d1f0729ed1c1410c7b3d22d9",
+            "updatedAt": "2026-02-24T22:56:33.530Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "888f48c5bdd904a0f5b135cfe176222504b9bc44bfbb18f2bb927ee93d4a3408",
+        "langs": {
+          "es": {
+            "translatedHash": "94fc8ffbe824314fff25f2be649ff5187e4d4e3e57a2c48ff826f806cd92829c",
+            "updatedAt": "2026-02-24T22:56:39.274Z"
+          },
+          "pl": {
+            "translatedHash": "8fd5b23014dfc0ad2bab10b1cf02023efc31048d6b893ddee5478afba291da39",
+            "updatedAt": "2026-02-24T22:56:44.199Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Martín de Braga",
+  "name_pl": "Święty Marcin z Bragi",
+  "feast_es": "El Vigésimo Día de Marzo",
+  "feast_pl": "Dwudziesty dzień marca",
+  "summary_es": "San Martín de Braga, también conocido como San Martín de Dumio, fue arzobispo de Bracara Augusta en Gallaecia, misionero, fundador monástico y autor eclesiástico. Según su contemporáneo, el historiador Gregorio de Tours, Martín era plenus virtutibus y se impregnó tanto de las letras que no tenía igual en su tiempo. Más tarde fue canonizado por la Iglesia Católica por su labor en la conversión de los habitantes de Gallaecia al cristianismo calcedonio, recibiendo el sobrenombre de \"Apóstol de los suevos\". Su fiesta se celebra el 20 de marzo.",
+  "summary_pl": "Święty Marcin z Bragi, znany również jako Święty Marcin z Dumio, był arcybiskupem Bracara Augusta w Gallaecii, misjonarzem, założycielem klasztoru oraz autorem kościelnym. Według jego współczesnego, historyka Grzegorza z Tours, Marcin był plenus virtutibus i tak bardzo zgłębiał literaturę, że uważano go za drugiego po nikim w swoim czasie. Został później kanonizowany przez Kościół katolicki za swoją pracę na rzecz nawracania mieszkańców Gallaecii na chrześcijaństwo chalcedońskie, otrzymując przydomek „Apostoł Suewów”. Jego dzień wspomnienia przypada na 20 marca.",
+  "biography_es": "San Martín de Braga (en latín Martinus Bracarensis, en portugués conocido como Martinho de Dume c. 520–580 d.C.), también conocido como San Martín de Dumio, fue arzobispo de Bracara Augusta en Gallaecia (actual Braga en Portugal), misionero, fundador monástico y autor eclesiástico. Según su contemporáneo, el historiador Gregorio de Tours, Martín era plenus virtutibus (\"lleno de virtud\") y in tantum se litteris imbuit ut nulli secundus sui temporis haberetur (\"se instruyó tanto en las letras que no se consideraba segundo a nadie en su tiempo\"). Posteriormente fue canonizado por la Iglesia Católica por su labor en la conversión de los habitantes de Gallaecia al cristianismo calcedonio, recibiendo el sobrenombre de \"Apóstol de los Suevos\". Su fiesta se celebra el 20 de marzo.\n\nVida\n\nNacido en Panonia, en Europa Central, Martín realizó una peregrinación a Tierra Santa, donde se convirtió en monje. Alrededor del año 550, viajó por mar a Hispania y se estableció en Gallaecia. \"Se desconocen sus intenciones al dirigirse a un lugar tan remoto según los estándares de su época\", escribe Roger Collins. Aunque algunos estudiosos han sugerido que fue un agente de la diplomacia bizantina (debido a la coincidencia entre su fecha...",
+  "biography_pl": "Święty Marcin z Bragi (łac. Martinus Bracarensis, portugalski znany jako Martinho de Dume, ok. 520–580 n.e.), znany również jako Święty Marcin z Dumio, był arcybiskupem Bracara Augusta w Gallaecji (obecnie Braga w Portugalii), misjonarzem, założycielem klasztoru oraz autorem kościelnym. Według jego współczesnego, historyka Grzegorza z Tours, Marcin był plenus virtutibus („pełen cnót”) i in tantum se litteris imbuit ut nulli secundus sui temporis haberetur („tak bardzo zgłębiał naukę, że uważano go za nie mającego sobie równych za jego życia”). Został później kanonizowany przez Kościół katolicki za swoją pracę na rzecz nawracania mieszkańców Gallaecji na chrześcijaństwo chalcedońskie, otrzymując przydomek „Apostoł Swebów”. Jego dzień wspomnienia przypada na 20 marca.\n\nŻycie  \nUrodzony w Panonii, w Europie Środkowej, Marcin odbył pielgrzymkę do Ziemi Świętej, gdzie został mnichem. Około roku 550 podróżował drogą morską do Hispanii i osiedlił się w Gallaecji. „Jego intencje udania się do miejsca tak odległego według ówczesnych standardów są nieznane,” pisze Roger Collins. Choć niektórzy uczeni sugerowali, że był agentem bizantyjskiej dyplomacji (ze względu na zbieżność dat...),"
+}

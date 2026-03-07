@@ -1,0 +1,79 @@
+{
+  "id": "05-13_saint_john_the_silent",
+  "name": "Saint John the Silent",
+  "mmdd": "05-13",
+  "feast": "The Thirteenth Day of May",
+  "summary": "John the Silent, also known as \"John the Hesychast\", was a Christian saint known for living alone for seventy-six years. He was given the surname because of his affinity for recollection and silence. St. John's feast day is May 13 in the General Roman Calendar of the Catholic Church, and December 3 in Eastern Orthodox and Eastern Catholic Churches.",
+  "biography": "John the Silent, also known as \"John the Hesychast\", was a Christian saint known for living alone for seventy-six years. He was given the surname because of his affinity for recollection and silence. St. John's feast day is May 13 in the General Roman Calendar of the Catholic Church, and December 3 in Eastern Orthodox and Eastern Catholic Churches.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Silent",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-13_saint_john_the_silent.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1fd4b0f9ab09365161498686d7eb04fd94584c7e4dffb7422dceb05e6d6ff4e8",
+        "langs": {
+          "es": {
+            "translatedHash": "00c0c5669abecc87c8a1e822bb28c2f3e0cbffb5c7d7f1f7c04b5c1048df2047",
+            "updatedAt": "2026-02-24T23:24:15.673Z"
+          },
+          "pl": {
+            "translatedHash": "7f5178cb1e54157e16960028e4e1169c5a3f38f644229f1778973365866d0e38",
+            "updatedAt": "2026-02-24T23:24:16.286Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "275a40254552a0b6d764a69a2069c744f18e43e5af447b01a2e1c5205be1f4f6",
+        "langs": {
+          "es": {
+            "translatedHash": "7d6f3910611b6df59916b514a973fed10388d1c8f26968d6cc6592477dc45eaa",
+            "updatedAt": "2026-02-24T23:24:16.993Z"
+          },
+          "pl": {
+            "translatedHash": "ad21f4a9b2bf6b221bf3a8a0665fbe39a8af231e92e76b7e5072583c8099d58f",
+            "updatedAt": "2026-02-24T23:24:17.850Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8f29c92977b10a8dd785ec1e764669585c94d37e67c335f7ef1013857940d28e",
+        "langs": {
+          "es": {
+            "translatedHash": "d7b113240fe7d473c53407dfcf7685b954fedad7a17a17c79f8402e393e45edb",
+            "updatedAt": "2026-02-24T23:24:19.834Z"
+          },
+          "pl": {
+            "translatedHash": "70b5d5046938c43990c1e2ee945dec19ec1342be53fc593d2b2a8054543b2aba",
+            "updatedAt": "2026-02-24T23:24:22.063Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8f29c92977b10a8dd785ec1e764669585c94d37e67c335f7ef1013857940d28e",
+        "langs": {
+          "es": {
+            "translatedHash": "a7cf640fab4d915a7f717afc687d73f210b7f51c048fa2af86d62523bba5958b",
+            "updatedAt": "2026-02-24T23:24:23.992Z"
+          },
+          "pl": {
+            "translatedHash": "8457c1478bba16b59cfef8d2712ad5d6c241901d6fbf4f18adf28bbe47ac348e",
+            "updatedAt": "2026-02-24T23:24:26.494Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan el Silencioso",
+  "name_pl": "Święty Jan Milczący",
+  "feast_es": "El Decimotercer Día de Mayo",
+  "feast_pl": "Trzynasty Dzień Maja",
+  "summary_es": "Juan el Silencioso, también conocido como \"Juan el Hesicasta\", fue un santo cristiano conocido por vivir solo durante setenta y seis años. Recibió este apellido debido a su afinidad por la recogimiento y el silencio. La fiesta de San Juan se celebra el 13 de mayo en el Calendario Romano General de la Iglesia Católica, y el 3 de diciembre en las Iglesias Ortodoxas Orientales y Católicas Orientales.",
+  "summary_pl": "Jan Milczący, znany również jako „Jan Hesychasta”, był świętym chrześcijańskim znanym z życia w samotności przez siedemdziesiąt sześć lat. Otrzymał to nazwisko ze względu na swoją skłonność do skupienia i milczenia. Uroczystość św. Jana obchodzona jest 13 maja w Ogólnym Rzymskim Kalendarzu Kościoła Katolickiego oraz 3 grudnia w Kościołach Wschodnich Prawosławnych i Wschodnich Katolickich.",
+  "biography_es": "Juan el Silencioso, también conocido como \"Juan el Hesicasta\", fue un santo cristiano conocido por vivir solo durante setenta y seis años. Recibió este apellido debido a su afinidad por la recolocación y el silencio. La fiesta de San Juan se celebra el 13 de mayo en el Calendario Romano General de la Iglesia Católica, y el 3 de diciembre en las Iglesias Ortodoxas Orientales y Católicas Orientales.",
+  "biography_pl": "Jan Milczący, znany również jako „Jan Hesychasta”, był świętym chrześcijańskim znanym z życia w samotności przez siedemdziesiąt sześć lat. Otrzymał to nazwisko ze względu na swoje zamiłowanie do skupienia i milczenia. Uroczystość św. Jana obchodzona jest 13 maja w Ogólnym Rzymskim Kalendarzu Kościoła Katolickiego oraz 3 grudnia w Kościołach Wschodnich Prawosławnych i Wschodnich Katolickich."
+}

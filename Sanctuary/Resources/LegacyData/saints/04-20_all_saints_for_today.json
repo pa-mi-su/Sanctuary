@@ -1,0 +1,46 @@
+{
+  "id": "04-20_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-20",
+  "feast": "The Twentieth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:12:05.758Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:12:06.418Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4fe563fc90c8b78d68497cff52dd619e41e04f9c2efeef3511e06417aceb4b02",
+        "langs": {
+          "es": {
+            "translatedHash": "11922cd80820ab7772b57569d6f4b3fbe51d50058226185ba9c750eba6c5196c",
+            "updatedAt": "2026-02-24T23:12:06.898Z"
+          },
+          "pl": {
+            "translatedHash": "ec2d73774e9f7547285dad167567698ea4c927029ad8cee870a62f3911619e20",
+            "updatedAt": "2026-02-24T23:12:07.653Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo día de abril",
+  "feast_pl": "Dwudziesty dzień kwietnia"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "06-09_saint_ephrem_deacon_and_doctor_optional_memorial",
+  "name": "Saint Ephrem, Deacon and Doctor—Optional Memorial",
+  "mmdd": "06-09",
+  "feast": "The Nineth Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_Fathers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-09_saint_ephrem_deacon_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "de40b97bef3207f66c583c97410089519ecda3f83ed115722de659f61e5f9156",
+        "langs": {
+          "es": {
+            "translatedHash": "a8dc03c7f0a823ba346faf75c0f78e6ab259bb1e46e0978c4441213a06f0cbf8",
+            "updatedAt": "2026-02-24T23:40:01.144Z"
+          },
+          "pl": {
+            "translatedHash": "c5618a20215642c16d714e22490a30f21c1764d1520c5189790bd03bf4e734a7",
+            "updatedAt": "2026-02-24T23:40:01.951Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "05b00ca6d3573ebeae1406b4f1fe00db648920d035e3fc46a16ff678d3c36b40",
+        "langs": {
+          "es": {
+            "translatedHash": "ae2ddf043fb717bc4ce77b435c031fd43763c4ac11d2d25de1cdde036c1ef7af",
+            "updatedAt": "2026-02-24T23:40:02.484Z"
+          },
+          "pl": {
+            "translatedHash": "bd50a264063f2bc6fba6d1c70cc5b2ab0b087093ac7ab4ac3a49cfebc6cb6149",
+            "updatedAt": "2026-02-24T23:40:02.972Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Efrén, Diácono y Doctor—Memoria Opcional",
+  "name_pl": "Święty Efrema, diakona i doktora Kościoła — wspomnienie dowolne",
+  "feast_es": "El Noveno Día de Junio",
+  "feast_pl": "Dziewiąty dzień czerwca"
+}

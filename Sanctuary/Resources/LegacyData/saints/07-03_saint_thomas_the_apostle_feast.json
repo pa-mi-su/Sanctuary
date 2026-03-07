@@ -1,0 +1,48 @@
+{
+  "id": "07-03_saint_thomas_the_apostle_feast",
+  "name": "Saint Thomas the Apostle—Feast",
+  "mmdd": "07-03",
+  "feast": "The Third Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-03_saint_thomas_the_apostle_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "fe3a590043c0498b2860ce99bbf0057ed0e27b7e8869ada4f6f978858c42c834",
+        "langs": {
+          "es": {
+            "translatedHash": "f3255bd36c3efaf412c7433ea6f63d79120f783c6e0bf831fb602b45a2006aa7",
+            "updatedAt": "2026-02-24T23:52:22.859Z"
+          },
+          "pl": {
+            "translatedHash": "5918384ad41981b9cf5db574da4786e90aa81447ecce72dd9b4637105df8cd6a",
+            "updatedAt": "2026-02-24T23:52:23.428Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "46fda93527599ec07fa2aa7639fd54c4115936d1390d58f57958ba8cb429c8be",
+        "langs": {
+          "es": {
+            "translatedHash": "5783c10778f9d55acd0e6cd83724539f3cf3ad2eb541ba9d33ab33ac02b5861e",
+            "updatedAt": "2026-02-24T23:52:23.931Z"
+          },
+          "pl": {
+            "translatedHash": "7290a55f629d27656b67c5e314afa14f8607c76597c28b3b10c414c381aa97a2",
+            "updatedAt": "2026-02-24T23:52:24.407Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Tomás Apóstol—Fiesta",
+  "name_pl": "Święty Tomasz Apostoł — Uroczystość",
+  "feast_es": "El Tercer Día de Julio",
+  "feast_pl": "Trzeci dzień lipca"
+}

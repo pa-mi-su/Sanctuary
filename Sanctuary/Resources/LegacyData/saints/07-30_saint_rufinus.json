@@ -1,0 +1,78 @@
+{
+  "id": "07-30_saint_rufinus",
+  "name": "Saint Rufinus",
+  "mmdd": "07-30",
+  "feast": "The Thirtieth Day of July",
+  "summary": "According to legend, Rufinus of Assisi, was the first bishop of this city and a martyr.",
+  "biography": "Legend\nRufinus was responsible for converting Assisi to Christianity, but at what date is disputed. He and his son came from Anatolia to preach the Gospel. At some point, the Roman proconsul, Aspasius, had him arrested, tortured, and drowned in the Chiascio River near Costano. His body was recovered and buried near where he was found. A church was built on that spot from whence, according to Petrus Damiani, his relics were translated to Assisi in the 8th century. \nHis remains were put to rest in a Roman sarcophagus. The front is sculpted in low relief with the myth of Selene and Endymion. It is now located under the main altar of the Cathedral of San Rufino, which is the third church to have been erected over his remains...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rufinus_of_Assisi"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-30_saint_rufinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d728d335fda7c0908e669223be9aad37e68b4b917ff655645fa91ff1a092ea33",
+        "langs": {
+          "es": {
+            "translatedHash": "5d178b249c0ed700ec0cffa57b94f0597c79d1b06219418503e72efae65059ac",
+            "updatedAt": "2026-02-25T00:07:05.659Z"
+          },
+          "pl": {
+            "translatedHash": "d5ed46f6e26e920a51b018fb1153329e9a8cf2a099aa382c32bd4bad5b6db3e8",
+            "updatedAt": "2026-02-25T00:07:06.265Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54249ce7c9acdb362a3bc0b2aef5b1119451eb4d601a52b917311baaf4e7e300",
+        "langs": {
+          "es": {
+            "translatedHash": "c11a0d62e039b6ff1767f9bd1e703da342df0b1605df8b0c65b2fc466b6c8a6f",
+            "updatedAt": "2026-02-25T00:07:06.842Z"
+          },
+          "pl": {
+            "translatedHash": "aac70162e4ed6b460a4c4082a5f1688571e356033ea276118454934ceeb9655b",
+            "updatedAt": "2026-02-25T00:07:07.628Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a156e0c22568df5c1e99d5f7e4c6c4e8715957eae3bece75e3acad99eb07b9f0",
+        "langs": {
+          "es": {
+            "translatedHash": "79ce0e3e9f9fd399f0b115066f1db60fa2e75f0de42a90d435d1581fb0ab08d6",
+            "updatedAt": "2026-02-25T00:07:09.635Z"
+          },
+          "pl": {
+            "translatedHash": "11a21da4fb0d239d7f5903ecf1c0ec19d462718c4e93a698aebf6cbf73ffa24d",
+            "updatedAt": "2026-02-25T00:07:11.210Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3a16e231d2bee2b780df22c3f43db13f3da892bb96badc448c59f42b319b921e",
+        "langs": {
+          "es": {
+            "translatedHash": "71cf3bce24b0b45eae2fa6c75c8bc910f5b95118b7346cbbfb3ad528376818ed",
+            "updatedAt": "2026-02-25T00:07:14.958Z"
+          },
+          "pl": {
+            "translatedHash": "1a7f922fb9866d2d43f3c95af9171ee539c55fb4b2547c92a13b53f6bfbae576",
+            "updatedAt": "2026-02-25T00:07:18.386Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Rufino",
+  "name_pl": "Święty Rufin",
+  "feast_es": "El Trigésimo Día de Julio",
+  "feast_pl": "Trzydziesty dzień lipca",
+  "summary_es": "Según la leyenda, Rufino de Asís fue el primer obispo de esta ciudad y un mártir.",
+  "summary_pl": "Według legendy, Rufin z Asyżu był pierwszym biskupem tego miasta i męczennikiem.",
+  "biography_es": "Leyenda  \nRufino fue responsable de convertir Asís al cristianismo, pero la fecha es objeto de debate. Él y su hijo vinieron de Anatolia para predicar el Evangelio. En algún momento, el procónsul romano, Aspasio, lo mandó arrestar, torturar y ahogar en el río Chiascio cerca de Costano. Su cuerpo fue recuperado y enterrado cerca del lugar donde fue encontrado. Se construyó una iglesia en ese sitio desde donde, según Petrus Damiani, sus reliquias fueron trasladadas a Asís en el siglo VIII.  \nSus restos fueron depositados en un sarcófago romano. El frente está esculpido en bajo relieve con el mito de Selene y Endimión. Actualmente se encuentra bajo el altar mayor de la Catedral de San Rufino, que es la tercera iglesia que se ha erigido sobre sus restos...",
+  "biography_pl": "Legenda  \nRufin był odpowiedzialny za nawrócenie Asyżu na chrześcijaństwo, jednak data tego wydarzenia jest sporna. On i jego syn przybyli z Anatolii, aby głosić Ewangelię. W pewnym momencie rzymski prokonsul Aspazjusz kazał go aresztować, torturować i utopić w rzece Chiascio niedaleko Costano. Jego ciało zostało odnalezione i pochowane w pobliżu miejsca znalezienia. Na tym miejscu wzniesiono kościół, z którego, według Piotra Damiana, jego relikwie zostały przeniesione do Asyżu w VIII wieku.  \nJego szczątki spoczęły w rzymskim sarkofagu. Przód jest rzeźbiony w niskim reliefie z mitem o Selene i Endymionie. Obecnie znajduje się on pod głównym ołtarzem katedry San Rufino, która jest trzecim kościołem wzniesionym nad jego szczątkami..."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "10-10_saint_francis_borgia",
+  "name": "Saint Francis Borgia",
+  "mmdd": "10-10",
+  "feast": "The Tenth Day of October",
+  "summary": "Francis Borgia, was a Spanish Jesuit priest. The great-grandson of both Pope Alexander VI and King Ferdinand II of Aragon, he was Duke of Gandía and a grandee of Spain. After the death of his wife, Borgia renounced his titles and became a priest in the Society of Jesus, later serving as its third superior general. He was canonized on 20 June 1670 by Pope Clement X.",
+  "biography": "Francis Borgia, (Valencian: Francesc de Borja; Spanish: Francisco de Borja; 28 October 1510 – 30 September 1572) was a Spanish Jesuit priest. The great-grandson of both Pope Alexander VI and King Ferdinand II of Aragon, he was Duke of Gandía and a grandee of Spain. After the death of his wife, Borgia renounced his titles and became a priest in the Society of Jesus, later serving as its third superior general. He was canonized on 20 June 1670 by Pope Clement X. Early life He was born in the Duchy of Gandía in the Kingdom of Valencia (part of Crown of Aragon), on 28 October 1510. His father was Juan Borgia, 3rd Duke of Gandía, the son of Giovanni Borgia, the son of Pope Alexander VI (Rodrigo Borgia). His mother was Juana, daughter of Alonso de Aragón, Archbishop of Zaragoza, who, in turn, was the illegitimate son of King Ferdinand II of Aragon. His brother, Tomás de Borja y Castro, also entered the Church, becoming Bishop of Málaga, and later Archbishop of Zaragoza. As a child he was very pious and wished to become a monk, but his family sent him instead to serve in the court of his second cousin Charles V, Holy Roman Emperor (who was also King Charles I of Spain), where he was...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francis_Borgia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-10_saint_francis_borgia.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c8e38de7288af199f3dbec4471738c0e83e5b6f4af419d4f4386715e2701efad",
+        "langs": {
+          "es": {
+            "translatedHash": "9d741bf1c0081384367787eb8ac419df369d39d8c190de313ed0ffe789cc577b",
+            "updatedAt": "2026-02-25T00:47:08.609Z"
+          },
+          "pl": {
+            "translatedHash": "552ff24590e69b723e291b13be5175a8a30eb4467af51d4447125ad3a55a86ea",
+            "updatedAt": "2026-02-25T00:47:09.151Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4ece6141130b0804fb6b712613b62a73f681cabaa1e971bbf54b5fa25fe2ca9e",
+        "langs": {
+          "es": {
+            "translatedHash": "a620412ee99b4c9a97c7da2534df9a8e374c2c1201c0711f77268725254de8c0",
+            "updatedAt": "2026-02-25T00:47:10.122Z"
+          },
+          "pl": {
+            "translatedHash": "547050cb6d330c0c8c2ce1cf458a848df265b96412ab92fe1419d0160304ed3a",
+            "updatedAt": "2026-02-25T00:47:10.757Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e95beddb4e8c4a9023b6d10cf7695b0432cd9b89deb30ec6000c8a034395b27f",
+        "langs": {
+          "es": {
+            "translatedHash": "b076999675ff687538651259486cc039665777769d858427a20eb42772f28b18",
+            "updatedAt": "2026-02-25T00:47:12.497Z"
+          },
+          "pl": {
+            "translatedHash": "9ebca79fa30b55d97800132e304c1ba938739db58847c65d13f4b169f763303a",
+            "updatedAt": "2026-02-25T00:47:14.770Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "b11772aa61667f004c7857722802de08b60b12fdcc2a7dec36d3f768d4c1d0b3",
+        "langs": {
+          "es": {
+            "translatedHash": "5ea14da174aac4f71c04cdfbcc8cb6a44d6351bb146b927517a55815675ddac8",
+            "updatedAt": "2026-02-25T00:47:19.832Z"
+          },
+          "pl": {
+            "translatedHash": "c59c363c5f2be79e7f0ae0138d0039470b11276d4ce930b9901e05fe0edd56b6",
+            "updatedAt": "2026-02-25T00:47:24.777Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Francisco de Borja",
+  "name_pl": "Święty Franciszek Borgia",
+  "feast_es": "El Décimo Día de Octubre",
+  "feast_pl": "Dziesiąty dzień października",
+  "summary_es": "Francisco de Borja, fue un sacerdote jesuita español. Bisnieto tanto del Papa Alejandro VI como del Rey Fernando II de Aragón, fue Duque de Gandía y un grande de España. Tras la muerte de su esposa, Borja renunció a sus títulos y se convirtió en sacerdote de la Compañía de Jesús, sirviendo más tarde como su tercer superior general. Fue canonizado el 20 de junio de 1670 por el Papa Clemente X.",
+  "summary_pl": "Franciszek Borgia był hiszpańskim jezuitą. Praprawnuk zarówno papieża Aleksandra VI, jak i króla Ferdynanda II Aragońskiego, był księciem Gandii i wielkim dostojnikiem Hiszpanii. Po śmierci żony Borgia zrzekł się swoich tytułów i został księdzem w Towarzystwie Jezusowym, później pełniąc funkcję jego trzeciego generała zakonu. Został kanonizowany 20 czerwca 1670 roku przez papieża Klemensa X.",
+  "biography_es": "Francisco de Borja, (valenciano: Francesc de Borja; español: Francisco de Borja; 28 de octubre de 1510 – 30 de septiembre de 1572) fue un sacerdote jesuita español. Bisnieto tanto del Papa Alejandro VI como del rey Fernando II de Aragón, fue duque de Gandía y un grande de España. Tras la muerte de su esposa, Borja renunció a sus títulos y se hizo sacerdote en la Compañía de Jesús, sirviendo luego como su tercer superior general. Fue canonizado el 20 de junio de 1670 por el Papa Clemente X.\n\nPrimeros años  \nNació en el Ducado de Gandía en el Reino de Valencia (parte de la Corona de Aragón), el 28 de octubre de 1510. Su padre fue Juan Borgia, III duque de Gandía, hijo de Giovanni Borgia, hijo del Papa Alejandro VI (Rodrigo Borgia). Su madre fue Juana, hija de Alonso de Aragón, arzobispo de Zaragoza, quien, a su vez, era hijo ilegítimo del rey Fernando II de Aragón. Su hermano, Tomás de Borja y Castro, también ingresó en la Iglesia, llegando a ser obispo de Málaga y luego arzobispo de Zaragoza. De niño fue muy piadoso y deseaba hacerse monje, pero su familia lo envió en cambio a servir en la corte de su segundo primo Carlos V, emperador del Sacro Imperio Romano Germánico (quien también era el rey Carlos I de España), donde fue...",
+  "biography_pl": "Franciszek Borgia, (walencjański: Francesc de Borja; hiszpański: Francisco de Borja; 28 października 1510 – 30 września 1572) był hiszpańskim księdzem jezuitą. Praprawnuk zarówno papieża Aleksandra VI, jak i króla Ferdynanda II Aragońskiego, był księciem Gandii i wielkim dostojnikiem Hiszpanii. Po śmierci żony Borgia zrzekł się swoich tytułów i został księdzem w Towarzystwie Jezusowym, później pełniąc funkcję jego trzeciego generała zakonnego. Został kanonizowany 20 czerwca 1670 roku przez papieża Klemensa X.\n\nWczesne życie  \nUrodził się w Księstwie Gandii w Królestwie Walencji (część Korony Aragonii) 28 października 1510 roku. Jego ojcem był Juan Borgia, 3. książę Gandii, syn Giovanni Borgia, syn papieża Aleksandra VI (Rodrigo Borgia). Jego matką była Juana, córka Alonso de Aragón, arcybiskupa Saragossy, który z kolei był nieślubnym synem króla Ferdynanda II Aragońskiego. Jego brat, Tomás de Borja y Castro, również wstąpił do Kościoła, zostając biskupem Malagi, a później arcybiskupem Saragossy. Jako dziecko był bardzo pobożny i pragnął zostać mnichem, ale jego rodzina wysłała go zamiast tego na dwór jego drugiego kuzyna Karola V, cesarza Świętego Cesarstwa Rzymskiego (który był także królem Hiszpanii jako Karol I), gdzie..."
+}

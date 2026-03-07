@@ -1,0 +1,48 @@
+{
+  "id": "06-01_saint_justin_martyr_memorial",
+  "name": "Saint Justin Martyr—Memorial",
+  "mmdd": "06-01",
+  "feast": "The First Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-01_saint_justin_martyr_memorial.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a5ac400dd0e290c22925c53fa18a398d1dc7f3f0af0a6254230715a2bc8fdee4",
+        "langs": {
+          "es": {
+            "translatedHash": "96e773b2dd413130e63e2bc14e4b6e48f279db8d052521317d396039fc5d435e",
+            "updatedAt": "2026-02-24T23:35:14.888Z"
+          },
+          "pl": {
+            "translatedHash": "34e18fcb441293e2eae0798b5603cce053b3f847512ad1637cc1c9ff6452fe8a",
+            "updatedAt": "2026-02-24T23:35:16.154Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5900f1b9e8f0747da45c44f40136fdd1a0d8b30591f9fbe0a2715b703da61cbd",
+        "langs": {
+          "es": {
+            "translatedHash": "d59de63fcfade12118deb3bbc9b3f8b612011ee9b0285207a3d68bb2a3fbb078",
+            "updatedAt": "2026-02-24T23:35:16.800Z"
+          },
+          "pl": {
+            "translatedHash": "beb7c3748237ccfd576026294a19471444c767123daf076220b0ce5aa13c55f3",
+            "updatedAt": "2026-02-24T23:35:17.377Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Justino Mártir—Memorial",
+  "name_pl": "Święty Justyn Męczennik — Wspomnienie",
+  "feast_es": "El Primer Día de Junio",
+  "feast_pl": "Pierwszy dzień czerwca"
+}

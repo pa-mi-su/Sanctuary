@@ -1,0 +1,46 @@
+{
+  "id": "11-06_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "11-06",
+  "feast": "The Sixth Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T01:02:43.053Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T01:02:43.805Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cf8a2674e2014e51193c7519ebaa9b95626b76c4928c7968a29b8cc2af9d3b8d",
+        "langs": {
+          "es": {
+            "translatedHash": "0806083cb599c10816f4641e297af0a18d5e47969dc7b09c76f5113d240f0812",
+            "updatedAt": "2026-02-25T01:02:44.386Z"
+          },
+          "pl": {
+            "translatedHash": "eb13f3efe96c2f3e53aca7fb8c9ceae55078afdd4b6088b3c57d939b0f21c089",
+            "updatedAt": "2026-02-25T01:02:44.912Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Sexto Día de Noviembre",
+  "feast_pl": "Szósty dzień listopada"
+}

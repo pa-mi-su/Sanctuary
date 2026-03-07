@@ -1,0 +1,48 @@
+{
+  "id": "04-21_saint_anselm_of_canterbury_bishop_and_doctor_of_the_church_optional_memorial",
+  "name": "Saint Anselm of Canterbury, Bishop and Doctor of the Church—Optional Memorial",
+  "mmdd": "04-21",
+  "feast": "The Twenty-First Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calendar_of_saints_(Anglican_Church_of_Canada)"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-21_saint_anselm_of_canterbury_bishop_and_doctor_of_the_church_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a0b5be87e6f8d0bca3a4611bf4bba4b5f9dcae433274bf0735e47cfdbb4ea163",
+        "langs": {
+          "es": {
+            "translatedHash": "684bee4b8c86f41d008048faa3ab1dfb3bf7aed8a4658c431f63ec73029c41d0",
+            "updatedAt": "2026-02-24T23:12:27.668Z"
+          },
+          "pl": {
+            "translatedHash": "176d1efb4a3323082d43bac7fe713e53bb24c0fa2cb3b44fb235897957dd3501",
+            "updatedAt": "2026-02-24T23:12:29.009Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b568cbc4dca9fd61331311f6e3baa14a33ce9c5ef21af072ada8f0cf3eca7370",
+        "langs": {
+          "es": {
+            "translatedHash": "af1bc1c69cedd711957f699fcb219f18f9fe22b36cd98e35720a558ac440ccf2",
+            "updatedAt": "2026-02-24T23:12:29.593Z"
+          },
+          "pl": {
+            "translatedHash": "b227b6e13804f83a8d842d901be530a78e934eb9bbaf649546124639f9e47f1e",
+            "updatedAt": "2026-02-24T23:12:30.185Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Anselmo de Canterbury, Obispo y Doctor de la Iglesia—Memoria Opcional",
+  "name_pl": "Święty Anzelm z Canterbury, biskup i doktor Kościoła — wspomnienie dowolne",
+  "feast_es": "El vigésimo primer día de abril",
+  "feast_pl": "Dwudziesty pierwszy dzień kwietnia"
+}

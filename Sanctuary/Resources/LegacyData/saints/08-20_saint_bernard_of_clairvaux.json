@@ -1,0 +1,79 @@
+{
+  "id": "08-20_saint_bernard_of_clairvaux",
+  "name": "Saint Bernard (of Clairvaux)",
+  "mmdd": "08-20",
+  "feast": "The Twentieth Day of August",
+  "summary": "Bernard of Clairvaux, O.Cist., venerated as Saint Bernard, was an abbot, mystic, co-founder of the Knights Templar, and a major leader in the reform of the Benedictines through the nascent Cistercian Order.",
+  "biography": "Bernard of Clairvaux, O.Cist. (Latin: Bernardus Claraevallensis; 1090 – 20 August 1153), venerated as Saint Bernard, was an abbot, mystic, co-founder of the Knights Templar, and a major leader in the reform of the Benedictines through the nascent Cistercian Order. Bernard was sent to found Clairvaux Abbey only a few years after becoming a monk at Cîteaux. In 1128, Bernard attended the Council of Troyes, at which he traced the outlines of the Rule of the Knights Templar, which soon became an ideal of Christian nobility. On the death of Pope Honorius II in 1130, a schism arose in the church. Bernard was a major proponent of Pope Innocent II, arguing effectively for his legitimacy over the Antipope Anacletus II. The abbot advocated crusades in general and convinced many to participate in the unsuccessful Second Crusade, notably through a famous sermon at Vézelay (1146). Bernard was canonized just 21 years after his death by Pope Alexander III. In 1830, Pope Pius VIII declared him a Doctor of the Church. Early life (1090–1113) Bernard's parents were Tescelin de Fontaine, lord of Fontaine-lès-Dijon, and Alèthe de Montbard, both members of the highest nobility of Burgundy. Bernard was...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-20_saint_bernard_of_clairvaux.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d4417fe06216b9f4690c03a8c16785b19a994e717a698ae0f7370a7693a21be6",
+        "langs": {
+          "es": {
+            "translatedHash": "c462757cfe326b38190ef276ff6778c4156fa57286964c64cffbf4c7509f73b2",
+            "updatedAt": "2026-02-25T00:18:33.103Z"
+          },
+          "pl": {
+            "translatedHash": "e87ef7312726a494a7edff876f81f5596efa84c965f45175dfe16ae491cf078b",
+            "updatedAt": "2026-02-25T00:18:34.085Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "137c3375f3a16e3806bc5413995d852d3638ceae697464cba9be668cafd568a1",
+        "langs": {
+          "es": {
+            "translatedHash": "b1af302ef56c41ee832b7aca7925854f2a9ff97340260e84c94f0d1958936996",
+            "updatedAt": "2026-02-25T00:18:34.893Z"
+          },
+          "pl": {
+            "translatedHash": "bb46b72f17b7118482f982474fc2d6cf6de588c9fc6ae4c8102abc782a356d0c",
+            "updatedAt": "2026-02-25T00:18:36.390Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "79a2c5426b76107ba0cdb733595f4fd915e509b625e3684115dfe5aae2ececa2",
+        "langs": {
+          "es": {
+            "translatedHash": "1cd1fb00606ce028f233ea68b6417d4c00b3a3052a31c7a514790e620f134ae2",
+            "updatedAt": "2026-02-25T00:18:37.506Z"
+          },
+          "pl": {
+            "translatedHash": "4ed3d0ded40871f18cf005add5f2e9c46d1383cd9dcceaf81a97870a228d2181",
+            "updatedAt": "2026-02-25T00:18:39.714Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "dab4920060b6a2d20cd11015954416a070f8f1dd56a69e0da1023d5ebabaec9f",
+        "langs": {
+          "es": {
+            "translatedHash": "d2c7bbb533c21533668ea343dd57cb0b052760d639038fd8f03609d45685a0c4",
+            "updatedAt": "2026-02-25T00:18:43.925Z"
+          },
+          "pl": {
+            "translatedHash": "7df1f4cbcd49f88163100358058a32fea102aef41c912ef5968b1a84a8ccc8c9",
+            "updatedAt": "2026-02-25T00:18:49.803Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Bernardo (de Claraval)",
+  "name_pl": "Święty Bernard (z Clairvaux)",
+  "feast_es": "El vigésimo día de agosto",
+  "feast_pl": "Dwudziesty dzień sierpnia",
+  "summary_es": "Bernardo de Claraval, O.Cist., venerado como San Bernardo, fue un abad, místico, cofundador de los Caballeros Templarios y un líder importante en la reforma de los benedictinos a través de la naciente Orden Cisterciense.",
+  "summary_pl": "Bernard z Clairvaux, O.Cist., czczony jako święty Bernard, był opatem, mistykiem, współzałożycielem Zakonu Templariuszy oraz głównym przywódcą reformy benedyktynów poprzez powstający Zakon Cystersów.",
+  "biography_es": "Bernardo de Claraval, O.Cist. (latín: Bernardus Claraevallensis; 1090 – 20 de agosto de 1153), venerado como San Bernardo, fue un abad, místico, cofundador de los Caballeros Templarios y un líder principal en la reforma de los benedictinos a través de la naciente Orden Cisterciense. Bernardo fue enviado para fundar la Abadía de Claraval solo unos años después de convertirse en monje en Císter. En 1128, Bernardo asistió al Concilio de Troyes, en el cual delineó los contornos de la Regla de los Caballeros Templarios, que pronto se convirtió en un ideal de la nobleza cristiana. A la muerte del Papa Honorio II en 1130, surgió un cisma en la iglesia. Bernardo fue un gran defensor del Papa Inocencio II, argumentando eficazmente por su legitimidad sobre el antipapa Anacleto II. El abad abogó por las cruzadas en general y convenció a muchos para participar en la fallida Segunda Cruzada, notablemente a través de un famoso sermón en Vézelay (1146). Bernardo fue canonizado apenas 21 años después de su muerte por el Papa Alejandro III. En 1830, el Papa Pío VIII lo declaró Doctor de la Iglesia.\n\nVida temprana (1090–1113)\n\nLos padres de Bernardo fueron Tescelino de Fontaine, señor de Fontaine-lès-Dijon, y Alèthe de Montbard, ambos miembros de la más alta nobleza de Borgoña. Bernardo fue...",
+  "biography_pl": "Bernard z Clairvaux, O.Cist. (łac. Bernardus Claraevallensis; 1090 – 20 sierpnia 1153), czczony jako święty Bernard, był opatem, mistykiem, współzałożycielem Zakonu Templariuszy oraz głównym przywódcą reformy benedyktynów poprzez powstający Zakon Cystersów. Bernard został wysłany do założenia opactwa Clairvaux zaledwie kilka lat po wstąpieniu do zakonu w Cîteaux. W 1128 roku Bernard uczestniczył w Soborze w Troyes, na którym nakreślił zasady Reguły Zakonu Templariuszy, który wkrótce stał się ideałem chrześcijańskiej szlachetności. Po śmierci papieża Honoriusza II w 1130 roku w Kościele wybuchł rozłam. Bernard był głównym zwolennikiem papieża Innocentego II, skutecznie argumentując za jego legalnością w przeciwieństwie do antypapieża Anakleta II. Opatem opowiadał się za krucjatami w ogóle i przekonał wielu do udziału w nieudanej Drugiej Krucjacie, między innymi poprzez słynne kazanie w Vézelay (1146). Bernard został kanonizowany zaledwie 21 lat po swojej śmierci przez papieża Aleksandra III. W 1830 roku papież Pius VIII ogłosił go Doktorem Kościoła.  \nWczesne życie (1090–1113)  \nRodzicami Bernarda byli Tescelin de Fontaine, pan Fontaine-lès-Dijon, oraz Alèthe de Montbard, oboje należący do najwyższej szlachty Burgundii. Bernard był..."
+}

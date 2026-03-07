@@ -1,0 +1,272 @@
+{
+  "id": "precious_blood",
+  "title": "Precious Blood Novena",
+  "description": "The Blood of Jesus, shed for our salvation, has long been a focal point of the Church’s devotion. Pray this novena to grow in devotion to Christ and His Precious Blood.",
+  "category": "Devotion",
+  "tags": [
+    "Novena",
+    "Devotion",
+    "Precious Blood"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 22
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 1
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/precious-blood-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te suplico y te pido fervientemente que escuches mi oración: (mencione aquí la petición…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en alegría y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria sea Jesús, Crucificado, ten piedad de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tej chwili mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca moich dni. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle słabości, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak gorąco pragnę. O Jezu, przyspiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś razem ze mną szukała pomocy. Boże, Ojcze nasz w niebie: niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido fervientemente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en gozo y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria sea Jesús, Crucificado, ten piedad de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tej chwili mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie aż do końca mojego czasu. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia, i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień tutaj prośbę…) O Jezu, który przez wszystkie dni Twego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tylu chorych, tak często podnosiłeś upadające serca; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak gorąco pragnę. O Jezu, przyspiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w niebie: niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido encarecidamente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en gozo y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria sea a Ti Jesús, Crucificado, ten misericordia de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca mojego czasu. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle słabości, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak żarliwie pragnę. O Jezu, przyspiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w Niebie: niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido fervientemente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en gozo y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria sea Jesús, Crucificado, ten piedad de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, o Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie usłyszał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca moich dni. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle słabości, tak często podnosiłeś zgasłą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak żarliwie pragnę. O Jezu, przyspiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w Niebie: Niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, Te busco, Te pido y Te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mi tiempo. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, Te ruego y te pido encarecidamente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en alegría y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Jesús, Crucificado, ten piedad de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca mojego czasu. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle słabości, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak gorąco pragnę. O Jezu, przyspiesz moment, gdy zmienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w niebie: Niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu, Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido encarecidamente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en gozo y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Jesús, Crucificado, ten misericordia de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, o Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca mojego czasu. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle słabości, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak żarliwie pragnę. O Jezu, przyspiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w Niebie: Niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido encarecidamente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en gozo y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Jesús, Crucificado, ten piedad de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca moich dni. Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle słabości, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. Jezu, z ran Twojego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak żarliwie pragnę. Jezu, przyspiesz moment, gdy zmienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś razem ze mną szukała pomocy. Boże, Ojcze nasz w niebie: niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido encarecidamente que escuches mi oración: (mencionar la petición aquí…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, levantaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en gozo y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Jesús, Crucificado, ten misericordia de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, o Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca mojego czasu. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tylu chorych, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak żarliwie pragnę. O Jezu, przyspiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w Niebie: Niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu, Ukrzyżowany, zmiłuj się nade mną.\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nBy the Voice of Thy Blood, O Jesus, I seek Thee, ask Thee and beg Thee, to help me at this time of my need. O Jesus, I kneel at Thy bleeding feet pleading that you will hear me. Many graces and many mercies have come from Thy Blood. My hope lives in you, until the end of my time. O Jesus, by Thy Precious Blood which you shed for our souls, by each drop that you shed for our redemption and by the tears of Thy Immaculate Mother, I beseech Thee and earnestly ask You to listen to my prayer: (mention request here…) O Jesus, who during all the days of Thy mortal life, You consoled so many sufferers, You healed so many infirmities, You raised so often a sinking courage; have pity on my soul who cries to Thee from the depths of my anguish. O Jesus, from the wounds of Thy heart, may a wave of Thy merciful blood flow and grant to me the grace that I so ardently desire. O Jesus, hasten the moment when You will change my tears to joy and my sighs to thanksgivings. Holy Mary, I ask you to join with me in seeking help. God our Father in Heaven: May Thy will be done. Amen.\n\nOur Father Hail Mary Glory be Jesus, Crucified, have mercy on me.\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nMy son and his wife have struggled in their marriage, but, thank you Jesus, they have just celebrated their 14 year Anniversary.\n\nfrom B.R.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nPor la Voz de Tu Sangre, oh Jesús, te busco, te pido y te suplico que me ayudes en este momento de mi necesidad. Oh Jesús, me arrodillo a Tus pies sangrantes suplicando que me escuches. Muchas gracias y muchas misericordias han venido de Tu Sangre. Mi esperanza vive en Ti, hasta el fin de mis días. Oh Jesús, por Tu Preciosa Sangre que derramaste por nuestras almas, por cada gota que derramaste por nuestra redención y por las lágrimas de Tu Inmaculada Madre, te ruego y te pido encarecidamente que escuches mi oración: (mencione aquí la petición…) Oh Jesús, que durante todos los días de Tu vida mortal consolaste a tantos sufrientes, sanaste tantas enfermedades, elevaste tan a menudo un ánimo decaído; ten piedad de mi alma que clama a Ti desde lo profundo de mi angustia. Oh Jesús, de las heridas de Tu corazón, que fluya una ola de Tu misericordiosa sangre y concédeme la gracia que tan ardientemente deseo. Oh Jesús, apresura el momento en que cambiarás mis lágrimas en alegría y mis suspiros en acciones de gracias. Santa María, te pido que te unas a mí en la búsqueda de ayuda. Dios nuestro Padre en el Cielo: Que se haga Tu voluntad. Amén.\n\nPadre Nuestro Ave María Gloria al Padre Jesús, Crucificado, ten piedad de mí.\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca i Syna, i Ducha Świętego. Amen.\n\nGłosem Twojej Krwi, o Jezu, szukam Cię, proszę Cię i błagam, abyś pomógł mi w tym czasie mojej potrzeby. O Jezu, klękam u Twoich krwawiących stóp, błagając, abyś mnie wysłuchał. Wiele łask i wiele miłosierdzia przyszło z Twojej Krwi. Moja nadzieja żyje w Tobie, aż do końca mojego czasu. O Jezu, przez Twoją Przenajdroższą Krew, którą wylałeś za nasze dusze, przez każdą kroplę, którą wylałeś dla naszego odkupienia i przez łzy Twojej Niepokalanej Matki, błagam Cię i usilnie proszę, abyś wysłuchał mojej modlitwy: (wymień prośbę tutaj…) O Jezu, który przez wszystkie dni swojego ziemskiego życia pocieszałeś tylu cierpiących, uzdrawiałeś tyle chorób, tak często podnosiłeś upadającą odwagę; zmiłuj się nade mną, duszą, która woła do Ciebie z głębi mojego cierpienia. O Jezu, z ran Twojego serca niech popłynie fala Twojej miłosiernej krwi i udziel mi łaski, której tak żarliwie pragnę. O Jezu, pośpiesz moment, gdy przemienisz moje łzy w radość, a moje westchnienia w dziękczynienie. Święta Maryjo, proszę Cię, abyś dołączyła do mnie w szukaniu pomocy. Boże, Ojcze nasz w niebie: niech się stanie Twoja wola. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu Jezu Ukrzyżowany, zmiłuj się nade mną.\n\nW imię Ojca i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "June 22Feastday:July 1Birth:1Death:33Patron saint of Salvation 📱",
+    "feast": "July 1Birth:1Death:33Patron saint of Salvation 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/precious_blood.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "90df34fa80e8ae51a2c862dce5f58be89aa834e94a47ef12b6db948caf51f02e",
+        "langs": {
+          "es": {
+            "translatedHash": "e11e5b42d6e75214f86ed9f29057caedaa7e82e8fd0be6daad4dc3563968bde6",
+            "updatedAt": "2026-02-25T11:11:52.443Z"
+          },
+          "pl": {
+            "translatedHash": "d1fc1e59ea20dbcfd67f2b7fa1792563961dda399ed252b2b22685ac41188d62",
+            "updatedAt": "2026-02-25T11:11:53.066Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "018de6f4ad26c55dfbdbee8c9b6db673664c0501620950536255d9d852f985f4",
+        "langs": {
+          "es": {
+            "translatedHash": "dde38c62386153ab5eb2ad992fe6c4997b1f82774d2f187486cf905c9dd74f9e",
+            "updatedAt": "2026-02-25T11:11:54.680Z"
+          },
+          "pl": {
+            "translatedHash": "fb140c94f964774e1da5a3595e15c25b1d601a029bbdc65a6bc7aeaf5ea3dcab",
+            "updatedAt": "2026-02-25T11:11:55.991Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "bc5820b00eea66408a5af78e36f25daf956cf31fdf08aba79e824d15532a68b6",
+        "langs": {
+          "es": {
+            "translatedHash": "5fc5d656a909696ee2e99da2b79a37160ef010231644c765c3d0ea1ce7dc6842",
+            "updatedAt": "2026-02-25T11:12:02.217Z"
+          },
+          "pl": {
+            "translatedHash": "42ea3c1f66009f7100998e641cd295eeb5dbe8132c2b81b4c771dab6c3b81d88",
+            "updatedAt": "2026-02-25T11:12:09.395Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "584ff9c49876fcaed811301cc18f9bb1fd0fdfae51d600ffd4d0ad12c7954f79",
+        "langs": {
+          "es": {
+            "translatedHash": "bcaf4267d9f6d1830d79c93a463942b0b19dfa8a4e6e15ab7ce330442af779f6",
+            "updatedAt": "2026-02-25T11:12:14.930Z"
+          },
+          "pl": {
+            "translatedHash": "2bcb629d57ed157b5bb01d7f28a6026ec30c73acd1c714c9500ec2cfb01d44db",
+            "updatedAt": "2026-02-25T11:12:20.938Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "b57c971f5945c593807ff0fac89afeedb0b0426f4c3214d99d0b581768e5e373",
+        "langs": {
+          "es": {
+            "translatedHash": "b94d3e94f365d71b2b2bb7c2fade33b1b10f4f495a24c03f0bb17992fbce1cec",
+            "updatedAt": "2026-02-25T11:12:25.581Z"
+          },
+          "pl": {
+            "translatedHash": "f1236acb69be86d67d70e0078d8179592fdb87a2af1da130768b3eca856b9e70",
+            "updatedAt": "2026-02-25T11:12:31.154Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "23f4aa8cc20da0b972901a996076c2da9a05ff19754b04cf026f20db64b7aa3c",
+        "langs": {
+          "es": {
+            "translatedHash": "bcaf4267d9f6d1830d79c93a463942b0b19dfa8a4e6e15ab7ce330442af779f6",
+            "updatedAt": "2026-02-25T11:12:35.298Z"
+          },
+          "pl": {
+            "translatedHash": "d0bfe8258720ad576654f7ad16562e811a0e48e839e5cd05169493ca513e717a",
+            "updatedAt": "2026-02-25T11:12:43.565Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "b338fed8c11dbfaaa69d27fdd44bb54c742e2eca4f226f98e9c94d98e53c1c10",
+        "langs": {
+          "es": {
+            "translatedHash": "0ca7afe0c356776a44f1730ea5283f4b0bad54e9c150cd4228d2ae334585f696",
+            "updatedAt": "2026-02-25T11:12:49.139Z"
+          },
+          "pl": {
+            "translatedHash": "2c8bd01a262ab0c1e19cec3fdd424e2b2c6f1f928d884d11e272ff86fa2bef6e",
+            "updatedAt": "2026-02-25T11:12:56.193Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "68a8da0d0586b3f7f32f50e4438e9305cf542d126675206b1bf03fcd88a1c7e5",
+        "langs": {
+          "es": {
+            "translatedHash": "bfb6b716bc4969e0596909b82b8dd41f7447c74b21cfaa1b969436d968cd8aed",
+            "updatedAt": "2026-02-25T11:13:01.489Z"
+          },
+          "pl": {
+            "translatedHash": "4fe73068092991eb67a76fab5ec6f2d903d5832bc5add5c0d4c76c99bc10fc1d",
+            "updatedAt": "2026-02-25T11:13:08.708Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "da945a65a415480f40291dfef5fc9125a4e79f205341ac89eedf80845fe87709",
+        "langs": {
+          "es": {
+            "translatedHash": "991ba83fac88fc5b4dabfc0ceda4673aa49173e023df1272dae290c3f22d9812",
+            "updatedAt": "2026-02-25T11:13:13.330Z"
+          },
+          "pl": {
+            "translatedHash": "31ec73b5a6a4fd64a60223b99b9bb4fe80aefd0536167842b2a24dfb4b8f8ef7",
+            "updatedAt": "2026-02-25T11:13:20.892Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "f0bbdade13e80c699791ac856b07f04c07c4ec0f8720e80ef7968d78b156f229",
+        "langs": {
+          "es": {
+            "translatedHash": "bfb6b716bc4969e0596909b82b8dd41f7447c74b21cfaa1b969436d968cd8aed",
+            "updatedAt": "2026-02-25T11:13:25.291Z"
+          },
+          "pl": {
+            "translatedHash": "e6a512c2f272094857731bb6f2c1ad909efbee2c68b47d1696ab5176f3826893",
+            "updatedAt": "2026-02-25T11:13:31.864Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "116202e534d3797fcfdef2e8be9d9cc5036bb5cccee0eb17b27966233d41d390",
+        "langs": {
+          "es": {
+            "translatedHash": "dd8a2dccbb156ec9e03def3f9ab2f1bcb1923a399ec7a0e8dc0ad1d525046911",
+            "updatedAt": "2026-02-25T11:13:36.381Z"
+          },
+          "pl": {
+            "translatedHash": "207560c9325662f0cb5dc8dd5beef325ec9f490586ca3d57f63ca691111a16a2",
+            "updatedAt": "2026-02-25T11:13:43.153Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de la Preciosa Sangre",
+  "title_pl": "Nowenna do Przenajdroższej Krwi",
+  "description_es": "La Sangre de Jesús, derramada por nuestra salvación, ha sido durante mucho tiempo un punto central de la devoción de la Iglesia. Reza esta novena para crecer en devoción a Cristo y a Su Preciosa Sangre.",
+  "description_pl": "Krew Jezusa, przelana dla naszego zbawienia, od dawna jest centralnym punktem nabożeństwa Kościoła. Módl się tę nowennę, aby wzrastać w oddaniu Chrystusowi i Jego Przenajdroższej Krwi.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-to-the-precious-blood-of-jesus/"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "05-03_saint_juvenal",
+  "name": "Saint Juvenal",
+  "mmdd": "05-03",
+  "feast": "The Third Day of May",
+  "summary": "Saint Juvenal may refer to:Juvenal of Benevento \nJuvenal of Narni, Bishop of Narni\nJuvenal of Jerusalem, Bishop of Jerusalem\nGiovenale Ancina, beatus\nJuvenaly of Alaska (1761-1795), first martyr of the Russian Orthodox church in the Americas",
+  "biography": "Juvenal of Benevento (died 132 A.D.)\nJuvenal of Narni (d. 369), Bishop of Narni\nJuvenal of Jerusalem (d. 458), Bishop of Jerusalem\nGiovenale Ancina (d. 1604), beatus\nJuvenaly of Alaska (1761-1795), first martyr of the Russian Orthodox church in the Americas",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Juvenal"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-03_saint_juvenal.gif",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4adcbdfe420f4fc1a78150d3db02d4f53e3dbf0643e8aeea5c75a6bd4935c5cc",
+        "langs": {
+          "es": {
+            "translatedHash": "35193d14c2877146478cf4ad2037bfbd1b3095582fb4ba97725eb5e4774881ba",
+            "updatedAt": "2026-02-24T23:19:21.244Z"
+          },
+          "pl": {
+            "translatedHash": "cba87952d0af2e2f8bee12ebb1988558bcac973b5dbfba1fbcd509df01bf1e82",
+            "updatedAt": "2026-02-24T23:19:22.140Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ac230ffbe3c47d910eed24e649408d56aa4fa91c6623d4d5cec086a5941357b5",
+        "langs": {
+          "es": {
+            "translatedHash": "eb29110de8bf941fea65f80120418c5e355481d8513fb2d9568bc3ff9e8cf323",
+            "updatedAt": "2026-02-24T23:19:22.741Z"
+          },
+          "pl": {
+            "translatedHash": "21903ffdec17d975fb588a9a624ee1cc53e6d3124acf293061deccac518924af",
+            "updatedAt": "2026-02-24T23:19:23.378Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "e340ec7154f3262fc256f6bff0f0459156f03b06e2ed48d969f548f0f1bfcd5a",
+        "langs": {
+          "es": {
+            "translatedHash": "2710fddfd718988a585f545f61824bd32cfcb89b996cf61ceff5718098c4942e",
+            "updatedAt": "2026-02-24T23:19:24.766Z"
+          },
+          "pl": {
+            "translatedHash": "cd52e8bed792093cb53bbdbe67d75efe0416b23b4baedccb3dc3666fa21ec776",
+            "updatedAt": "2026-02-24T23:19:26.800Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a4cf37172b70094c3f3099133d5d3050b49fe605ee4253ebb58a7a5393388b86",
+        "langs": {
+          "es": {
+            "translatedHash": "4c4a448f03c62f4d61a57eb8bc85c26eb79516f1e591ba945df08e96b154eca7",
+            "updatedAt": "2026-02-24T23:19:28.510Z"
+          },
+          "pl": {
+            "translatedHash": "7050983df337ee4e0f75459a3110c737d75410eb62f120760117a1cfb429993f",
+            "updatedAt": "2026-02-24T23:19:31.729Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juvenal",
+  "name_pl": "Święty Juvenal",
+  "feast_es": "El Tercer Día de Mayo",
+  "feast_pl": "Trzeci Dzień Maja",
+  "summary_es": "San Juvenal puede referirse a:  \nJuvenal de Benevento  \nJuvenal de Narni, Obispo de Narni  \nJuvenal de Jerusalén, Obispo de Jerusalén  \nGiovenale Ancina, beato  \nJuvenaly de Alaska (1761-1795), primer mártir de la iglesia ortodoxa rusa en las Américas",
+  "summary_pl": "Święty Juvenal może odnosić się do:  \nJuvenal z Benevento  \nJuvenal z Narni, biskup Narni  \nJuvenal z Jerozolimy, biskup Jerozolimy  \nGiovenale Ancina, błogosławiony  \nJuvenaly z Alaski (1761-1795), pierwszy męczennik rosyjskiego Kościoła prawosławnego w Amerykach",
+  "biography_es": "Juvenal de Benevento (fallecido en 132 d.C.)  \nJuvenal de Narni (f. 369), Obispo de Narni  \nJuvenal de Jerusalén (f. 458), Obispo de Jerusalén  \nGiovenale Ancina (f. 1604), beato  \nJuvenaly de Alaska (1761-1795), primer mártir de la iglesia ortodoxa rusa en las Américas",
+  "biography_pl": "Juwenal z Benevento (zm. 132 n.e.)  \nJuwenal z Narni (zm. 369), biskup Narni  \nJuwenal z Jerozolimy (zm. 458), biskup Jerozolimy  \nGiovenale Ancina (zm. 1604), błogosławiony  \nJuwenal z Alaski (1761-1795), pierwszy męczennik rosyjskiego Kościoła prawosławnego w Amerykach"
+}

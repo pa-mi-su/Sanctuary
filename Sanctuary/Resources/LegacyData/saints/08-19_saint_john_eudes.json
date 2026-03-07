@@ -1,0 +1,79 @@
+{
+  "id": "08-19_saint_john_eudes",
+  "name": "Saint John Eudes",
+  "mmdd": "08-19",
+  "feast": "The Nineteenth Day of August",
+  "summary": "John Eudes, CIM was a French Catholic priest and the founder of both the Order of Our Lady of Charity in 1641 and Congregation of Jesus and Mary, also known as the Eudists, in 1643. He was also a professed member of the Oratory of Jesus until 1643.",
+  "biography": "John Eudes, CIM (French: Jean Eudes; 14 November 1601 – 19 August 1680) was a French Catholic priest and the founder of both the Order of Our Lady of Charity in 1641 and Congregation of Jesus and Mary, also known as the Eudists, in 1643. He was also a professed member of the Oratory of Jesus until 1643. Eudes was the author of the propers for the Mass and Divine Office of the Sacred Heart of Jesus and the Immaculate Heart of Mary. He was an ardent proponent of the two devotions and dedicated himself to their promotion and celebration. The Masses he compiled for both Sacred Hearts were both first celebrated within his lifetime. He preached missions across France, including Paris and Versailles, while earning recognition as a popular evangelist and confessor. Eudes was also a prolific writer and wrote on the Sacred Hearts despite opposition from the Jansenists. Eudes was canonised in 1925 and his supporters are now petitioning to have him named a Doctor of the Church. Life Education Jean Eudes was born on 14 November 1601 on a farm close to the village of Ri to Isaac Eudes (born circa 1566), a surgeon, and Martha Corbin; he had four sisters and two brothers, including the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Eudes",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-19_saint_john_eudes.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ca315d8ad3a947bae423cfb474e9b698d6e73eed4949d2f345d54ad3b1088443",
+        "langs": {
+          "es": {
+            "translatedHash": "b5b5a2b4d6f978578b33ffec81f7373fe13634786e1dfb2f8ef000b70fea1fc2",
+            "updatedAt": "2026-02-25T00:17:42.084Z"
+          },
+          "pl": {
+            "translatedHash": "6731c1e412a7dd89b752086ae15d17b967df56921a29a7d0be1d606d2589be33",
+            "updatedAt": "2026-02-25T00:17:42.573Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c6a4e2e3645f64fe97da876ea94d621f4f0f7fb958da3aaa47d80859eb8b4af0",
+        "langs": {
+          "es": {
+            "translatedHash": "9ebdbd5ba55f931b91d7a9324167ec4ede4eb8f84fd38fece5386705149ce9f7",
+            "updatedAt": "2026-02-25T00:17:43.167Z"
+          },
+          "pl": {
+            "translatedHash": "1a1d335ffce2e1a8bdf2601e63ba50f3528da9afb05512aa03cf1476c72b349d",
+            "updatedAt": "2026-02-25T00:17:43.674Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "cca719f7977f17d6dd9b26e388e0b82a97ccac8e7a7dcf23a7966b2e55fedde7",
+        "langs": {
+          "es": {
+            "translatedHash": "62b8095474559661f232fc8997e4eb5e7b47d37f9b1417a08023b8da21ef64ef",
+            "updatedAt": "2026-02-25T00:17:45.029Z"
+          },
+          "pl": {
+            "translatedHash": "301083a52e5f7a1dbc518336c37a3e435f1d8771b623c611cec66625da6b57c7",
+            "updatedAt": "2026-02-25T00:17:46.290Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "0ae628d6aec1725336185524f48e961968a1486883fe79adae89443603d503cd",
+        "langs": {
+          "es": {
+            "translatedHash": "7f6f8a5b3db68fbb2fa8e3d57eb0c9dd40a85e67ac5c3785b0bf3b8d19fc9fb2",
+            "updatedAt": "2026-02-25T00:17:50.520Z"
+          },
+          "pl": {
+            "translatedHash": "739d9426b6b38893d73176a692ea4c4d976cf53286cbab9c7542725ce09f8260",
+            "updatedAt": "2026-02-25T00:17:57.396Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan Eudes",
+  "name_pl": "Święty Jan Eudes",
+  "feast_es": "El día diecinueve de agosto",
+  "feast_pl": "Dziewiętnasty dzień sierpnia",
+  "summary_es": "Juan Eudes, CIM, fue un sacerdote católico francés y fundador tanto de la Orden de Nuestra Señora de la Caridad en 1641 como de la Congregación de Jesús y María, también conocida como los Eudistas, en 1643. También fue miembro profeso del Oratorio de Jesús hasta 1643.",
+  "summary_pl": "Jan Eudes, CIM, był francuskim księdzem katolickim oraz założycielem zarówno Zakonu Matki Bożej Miłosierdzia w 1641 roku, jak i Kongregacji Jezusa i Maryi, znanej również jako Eudyści, w 1643 roku. Był także profesjonowanym członkiem Oratorium Jezusa aż do 1643 roku.",
+  "biography_es": "Juan Eudes, CIM (francés: Jean Eudes; 14 de noviembre de 1601 – 19 de agosto de 1680) fue un sacerdote católico francés y fundador tanto de la Orden de Nuestra Señora de la Caridad en 1641 como de la Congregación de Jesús y María, también conocida como los Eudistas, en 1643. También fue miembro profeso del Oratorio de Jesús hasta 1643. Eudes fue autor de las oraciones propias para la Misa y el Oficio Divino del Sagrado Corazón de Jesús y del Inmaculado Corazón de María. Fue un ardiente defensor de ambas devociones y se dedicó a su promoción y celebración. Las misas que compiló para ambos Sagrados Corazones fueron celebradas por primera vez durante su vida. Predicó misiones por toda Francia, incluyendo París y Versalles, ganándose reconocimiento como un evangelista y confesor popular. Eudes también fue un prolífico escritor y escribió sobre los Sagrados Corazones a pesar de la oposición de los jansenistas. Eudes fue canonizado en 1925 y sus seguidores ahora están solicitando que sea nombrado Doctor de la Iglesia.\n\nVida\n\nEducación\n\nJuan Eudes nació el 14 de noviembre de 1601 en una granja cerca del pueblo de Ri, hijo de Isaac Eudes (nacido alrededor de 1566), un cirujano, y Martha Corbin; tuvo cuatro hermanas y dos hermanos, incluyendo...",
+  "biography_pl": "Jan Eudes, CIM (francuski: Jean Eudes; 14 listopada 1601 – 19 sierpnia 1680) był francuskim księdzem katolickim oraz założycielem zarówno Zakonu Matki Bożej Miłosierdzia w 1641 roku, jak i Kongregacji Jezusa i Maryi, znanej również jako Eudyści, w 1643 roku. Był również profesjonowanym członkiem Oratorium Jezusa aż do 1643 roku. Eudes był autorem formularzy mszalnych i brewiarzowych dla Mszy i Liturgii Godzin Najświętszego Serca Jezusowego oraz Niepokalanego Serca Maryi. Był gorliwym orędownikiem tych dwóch nabożeństw i poświęcił się ich propagowaniu oraz obchodzeniu. Msze, które skomponował dla obu Najświętszych Serc, zostały odprawione po raz pierwszy jeszcze za jego życia. Głosił misje po całej Francji, w tym w Paryżu i Wersalu, zdobywając uznanie jako popularny ewangelizator i spowiednik. Eudes był także płodnym pisarzem i pisał o Najświętszych Sercach pomimo sprzeciwu ze strony jansenistów. Został kanonizowany w 1925 roku, a jego zwolennicy obecnie starają się o nadanie mu tytułu Doktora Kościoła.\n\nŻycie\n\nEdukacja\n\nJan Eudes urodził się 14 listopada 1601 roku na farmie niedaleko wioski Ri, jako syn Izaaka Eudesa (urodzonego około 1566 roku), chirurga, oraz Marty Corbin; miał cztery siostry i dwóch braci, w tym..."
+}

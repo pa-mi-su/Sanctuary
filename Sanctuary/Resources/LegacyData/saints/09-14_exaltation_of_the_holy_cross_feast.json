@@ -1,0 +1,48 @@
+{
+  "id": "09-14_exaltation_of_the_holy_cross_feast",
+  "name": "Exaltation of the Holy Cross—Feast",
+  "mmdd": "09-14",
+  "feast": "The Fourteenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_the_Ascension"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-14_exaltation_of_the_holy_cross_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "bb33b8081e0d8dea4f95aa7b37afb0fa25fbe6207458ab0fda9f82b4bee7e291",
+        "langs": {
+          "es": {
+            "translatedHash": "336c17f0c8ae5bd01611de35f7945d88fbc9c5bca6435a1424a79b6c5e6bdfe2",
+            "updatedAt": "2026-02-25T00:30:35.100Z"
+          },
+          "pl": {
+            "translatedHash": "cd16a725dc4c9ace57950397cd380b67883fd3d534b8334bcc3aaadbc828ca31",
+            "updatedAt": "2026-02-25T00:30:35.948Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "bae09a3bcdaa61870cf1d9bcf3b49e414bbc93dcd53e4e9933861c43aba44145",
+        "langs": {
+          "es": {
+            "translatedHash": "9abb045a36f0a8556b228a33f9c2a679f64aaa9ca46cf66d0a1d656a16b5db1d",
+            "updatedAt": "2026-02-25T00:30:36.582Z"
+          },
+          "pl": {
+            "translatedHash": "7690f373265a82fd6e2cfa0c4150c7f4042c99b078d0928e07ca88a326b5d772",
+            "updatedAt": "2026-02-25T00:30:37.234Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Exaltación de la Santa Cruz—Fiesta",
+  "name_pl": "Wniebowzięcie Świętego Krzyża — Uroczystość",
+  "feast_es": "El día catorce de septiembre",
+  "feast_pl": "Czternasty dzień września"
+}

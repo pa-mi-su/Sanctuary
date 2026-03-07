@@ -1,0 +1,48 @@
+{
+  "id": "02-14_saints_cyril_monk_and_methodius_bishop_memorial_optional_memorial_if_lenten_week",
+  "name": "Saints Cyril, Monk, and Methodius, Bishop—Memorial (Optional Memorial if Lenten weekday)",
+  "mmdd": "02-14",
+  "feast": "The Fourteenth Day of February",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-14_saints_cyril_monk_and_methodius_bishop_memorial_optional_memorial_if_lenten_week.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "4600dbdbf1b44c03168719af092f5576857947614326dd55fcd24980ecf1703b",
+        "langs": {
+          "es": {
+            "translatedHash": "d33fda4cbd103a9cfed14a1032fede479cd0745846d83c103bd51d437fe35dc6",
+            "updatedAt": "2026-02-24T22:35:53.240Z"
+          },
+          "pl": {
+            "translatedHash": "19620857b912d9ae4db02f434992684d5c6fe4d3324fa87378dca977f898310e",
+            "updatedAt": "2026-02-24T22:35:54.999Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d0f4a1807bb720bdf5bdc4b181573fd9e4611de4f132fa94abaa93b0db5bee7a",
+        "langs": {
+          "es": {
+            "translatedHash": "c72df861520715d146e30a9a830c9475260af1b107678527d6a2973517ed370e",
+            "updatedAt": "2026-02-24T22:35:55.613Z"
+          },
+          "pl": {
+            "translatedHash": "1a0308988d9e98425f5db4a610950bcde42d94f446ef3301f88f68554e6c3b58",
+            "updatedAt": "2026-02-24T22:35:56.395Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Cirilo, monje, y Metodio, obispo—Memoria (Memoria opcional si es día laborable de Cuaresma)",
+  "name_pl": "Święci Cyryl, Mnich, i Metody, Biskup — Wspomnienie (Wspomnienie dowolne w dni powszednie Wielkiego Postu)",
+  "feast_es": "El catorce de febrero",
+  "feast_pl": "Czternasty Dzień Lutego"
+}

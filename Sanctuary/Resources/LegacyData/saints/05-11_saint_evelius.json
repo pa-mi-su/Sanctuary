@@ -1,0 +1,79 @@
+{
+  "id": "05-11_saint_evelius",
+  "name": "Saint Evelius",
+  "mmdd": "05-11",
+  "feast": "The Eleventh Day of May",
+  "summary": "Saint Eulogius of Córdoba was one of the Martyrs of Córdoba. He lived during the reigns of the Cordovan emirs Abd ar-Rahman II and Muhammad I.",
+  "biography": "Saint Eulogius of Córdoba (Spanish: San Eulogio de Córdoba (died 11 March 859)) was one of the Martyrs of Córdoba. He lived during the reigns of the Cordovan emirs Abd ar-Rahman II and Muhammad I (mid-9th century). Background In the ninth century, the Moorish conquerors of the southern half of the Iberian Peninsula made Córdoba their capital. Christians were accorded a subaltern status, and subject to a monthly tax. Though restricted, they were permitted to worship. Some, like Eulogius's younger brother, rose to high positions in the government. In the large cities like Toledo and Córdoba, Christians in some cases observed the civil laws that applied during the time of Visigothic rule. The government was exercised by the comes (count), president of the council of senators. During this time, the faithful could, it is true, worship freely, and retained their churches and property on condition of paying a tribute for every parish, cathedral, and monastery; frequently such tribute was increased at the will of the conqueror, and often the living had to pay for the dead. Many of the faithful then fled to Northern Spain; others took refuge in the monasteries of Sierras, and thus the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-11_saint_evelius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "74c14ab65463e30dae45ec0fdbd325fae8a985d3b59ce0adcc0d2c6e8aad411b",
+        "langs": {
+          "es": {
+            "translatedHash": "1bafb5056e78a15aed5425d35711be86e2cca6f3b5207f5d329059a1339e4b0f",
+            "updatedAt": "2026-02-24T23:22:57.686Z"
+          },
+          "pl": {
+            "translatedHash": "0f4de20a16e4b90385f18bde62ab076bf2a2b99a1c3032468d4a1fa0660bbf37",
+            "updatedAt": "2026-02-24T23:22:58.214Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c0686ad35d0fc9afc30b596795226c8bbaf73f33148293187578fcc4cb0b6b0e",
+        "langs": {
+          "es": {
+            "translatedHash": "ff6e745aa81d9c513b2333d9cbd4967d9a03c3215bcccc7a1880e83a8f2d1d2d",
+            "updatedAt": "2026-02-24T23:22:59.044Z"
+          },
+          "pl": {
+            "translatedHash": "681fae11a33d0e58e80f629413eb6319a66c09c6df182b788a597853738dbead",
+            "updatedAt": "2026-02-24T23:22:59.508Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "85cdf8443032374d6fbfe84da7f1af06421537f70fd58899ed189a516b553420",
+        "langs": {
+          "es": {
+            "translatedHash": "713b71beeb02d2631e1bcebd95fe5b00164d8278b37fbbcd4cdf4a08b79b03cb",
+            "updatedAt": "2026-02-24T23:23:00.496Z"
+          },
+          "pl": {
+            "translatedHash": "5f07d41ca77c29a6a09a85c72def9d5b4ad587715c7770a2c4d06f4b1e08660e",
+            "updatedAt": "2026-02-24T23:23:01.602Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "91874b3982dd1659ffb783588b27b24c4d425abf47270d12e9ff7e1c45d7dbe5",
+        "langs": {
+          "es": {
+            "translatedHash": "63804222683f595ed59d78391b0e8862a8f52b833c917020d6d031ad426de7e8",
+            "updatedAt": "2026-02-24T23:23:08.426Z"
+          },
+          "pl": {
+            "translatedHash": "fa713e8d4c29d07558a9463a81e1fd3c64a1594f30044c584ded6e92114035d2",
+            "updatedAt": "2026-02-24T23:23:14.090Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Evelio",
+  "name_pl": "Święty Ewelii",
+  "feast_es": "El Día Once de Mayo",
+  "feast_pl": "Jedenasty Dzień Maja",
+  "summary_es": "San Eulogio de Córdoba fue uno de los Mártires de Córdoba. Vivió durante los reinados de los emires cordobeses Abd ar-Rahman II y Muhammad I.",
+  "summary_pl": "Święty Eulogiusz z Kordoby był jednym z Męczenników z Kordoby. Żył za panowania kordobańskich emirów Abd ar-Rahmana II i Muhammada I.",
+  "biography_es": "San Eulogio de Córdoba (español: San Eulogio de Córdoba (fallecido el 11 de marzo de 859)) fue uno de los Mártires de Córdoba. Vivió durante los reinados de los emires cordobeses Abd ar-Rahman II y Muhammad I (mediados del siglo IX).\n\nAntecedentes\n\nEn el siglo IX, los conquistadores moros de la mitad sur de la península ibérica hicieron de Córdoba su capital. A los cristianos se les otorgó un estatus subordinado y estaban sujetos a un impuesto mensual. Aunque restringidos, se les permitía adorar. Algunos, como el hermano menor de Eulogio, alcanzaron altos cargos en el gobierno. En las grandes ciudades como Toledo y Córdoba, en algunos casos los cristianos observaban las leyes civiles que aplicaban durante la época del dominio visigodo.\n\nEl gobierno era ejercido por el comes (conde), presidente del consejo de senadores. Durante este tiempo, los fieles podían, es cierto, adorar libremente, y conservaban sus iglesias y propiedades con la condición de pagar un tributo por cada parroquia, catedral y monasterio; frecuentemente dicho tributo se aumentaba a voluntad del conquistador, y a menudo los vivos tenían que pagar por los muertos. Muchos de los fieles entonces huyeron al norte de España; otros buscaron refugio en los monasterios de las Sierras, y así...",
+  "biography_pl": "Święty Eulogiusz z Kordoby (hiszpański: San Eulogio de Córdoba, zmarł 11 marca 859) był jednym z Męczenników z Kordoby. Żył za panowania emirów kordobańskich Abd ar-Rahmana II i Muhammada I (połowa IX wieku).\n\nTło historyczne  \nW IX wieku mauretańscy zdobywcy południowej połowy Półwyspu Iberyjskiego uczynili Kordobę swoją stolicą. Chrześcijanie mieli status podrzędny i byli obciążeni miesięcznym podatkiem. Mimo ograniczeń, pozwalano im na kult religijny. Niektórzy, jak młodszy brat Eulogiusza, zajmowali wysokie stanowiska w rządzie. W dużych miastach, takich jak Toledo i Kordoba, chrześcijanie w niektórych przypadkach przestrzegali praw cywilnych obowiązujących za czasów panowania Wizygotów. Władzę sprawował comes (hrabia), przewodniczący rady senatorów.\n\nW tym czasie wierni mogli, co prawda, swobodnie oddawać cześć Bogu i zachowali swoje kościoły oraz majątki pod warunkiem płacenia daniny za każdą parafię, katedrę i klasztor; często taka danina była zwiększana według woli zdobywcy, a żyjący często musieli płacić za zmarłych. Wielu wiernych wtedy uciekło na północ Hiszpanii; inni schronili się w klasztorach w górach Sierras, i tak..."
+}

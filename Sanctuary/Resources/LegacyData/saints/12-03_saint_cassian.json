@@ -1,0 +1,78 @@
+{
+  "id": "12-03_saint_cassian",
+  "name": "Saint Cassian",
+  "mmdd": "12-03",
+  "feast": "The Third Day of December",
+  "summary": "John Cassian, also known as John the Ascetic and John Cassian the Roman,, was a Christian monk and theologian celebrated in both the Western and Eastern churches for his mystical writings. Cassian is noted for his role in bringing the ideas and practices of early Christian monasticism to the medieval West.",
+  "biography": "Biography\nCassian was born around 360, most likely in the region of Scythia Minor (now Dobruja, a historical region shared today by Romania and Bulgaria), although some scholars assume a Gallic origin. The son of wealthy parents, he received a good education: his writings show the influence of Cicero and Persius. He was bilingual in Latin and Greek.\nCassian mentions having a sister in his first work, the Institutes, with whom he corresponded in his monastic life; she may have ended up with him in Marseille.\nAs a young adult he traveled to Palestine with an older friend Germanus, with whom he would spend much of the next twenty-five years. There they entered a hermitage near Bethlehem. After remaining in that community for about three years, they journeyed to the desert of Scete in Egypt, which was rent by Christian struggles. There they visited a number...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Cassian"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-03_saint_cassian.jpeg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "57affb74a2379d74b6c11f2a789eeeffc2cd96586b9c574bd561d9fecfb6b9c2",
+        "langs": {
+          "es": {
+            "translatedHash": "80bd590035c893685476cd709c9e74c58ea0f941b6ac1302b2c00ba2d98a2f73",
+            "updatedAt": "2026-02-25T01:18:44.217Z"
+          },
+          "pl": {
+            "translatedHash": "f18b9451bd15e992db21830c5b87322f510be7ad39e8f336a730491a3c72833c",
+            "updatedAt": "2026-02-25T01:18:44.817Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "95388c3b9cb696a80d098132045a0d92c41c2eb543a09e538a9547e78d6fe07b",
+        "langs": {
+          "es": {
+            "translatedHash": "4249a583abd9b99c0a90926883e9901c9a66013f207248dea790d6314c66761f",
+            "updatedAt": "2026-02-25T01:18:45.578Z"
+          },
+          "pl": {
+            "translatedHash": "c201655a2a339e8dcc1c4c10c5fcf25cfbd783caea060289b87f89ee75aeab85",
+            "updatedAt": "2026-02-25T01:18:46.180Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "714a5155537d8337afe7b844f899610bb47c9ca64ec37ca907ccb9a7429c90d0",
+        "langs": {
+          "es": {
+            "translatedHash": "2606bd6d0c51b885fc434351f19b8598e98ccf755bd5e69d88e0c2c45bb512e7",
+            "updatedAt": "2026-02-25T01:18:48.042Z"
+          },
+          "pl": {
+            "translatedHash": "87b6cc4daf91777207d243fe9cb9bfed77bdae86e9592e35f37f466dbe5cf014",
+            "updatedAt": "2026-02-25T01:18:50.145Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "9c0333f55b927e5a7c411941133dc0c8d285121569668e5e148f3d1863359685",
+        "langs": {
+          "es": {
+            "translatedHash": "52154c2195371c107316672ccf80163ae4ae02c19aa8ba831f3aba714f3f2263",
+            "updatedAt": "2026-02-25T01:18:54.100Z"
+          },
+          "pl": {
+            "translatedHash": "9f48e954559246c4832370b748bef86e91604c4567a9e7174ba01faea8ef45eb",
+            "updatedAt": "2026-02-25T01:18:59.678Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Casiano",
+  "name_pl": "Święty Kacjan",
+  "feast_es": "El Tercer Día de Diciembre",
+  "feast_pl": "Trzeci dzień grudnia",
+  "summary_es": "Juan Casiano, también conocido como Juan el Asceta y Juan Casiano el Romano, fue un monje y teólogo cristiano celebrado tanto en las iglesias de Occidente como de Oriente por sus escritos místicos. Casiano es reconocido por su papel en la transmisión de las ideas y prácticas del monacato cristiano primitivo al Occidente medieval.",
+  "summary_pl": "Jan Kasjan, znany również jako Jan Asceeta i Jan Kasjan Rzymski, był chrześcijańskim mnichem i teologiem cenionym zarówno w Kościołach Zachodnim, jak i Wschodnim za swoje mistyczne pisma. Kasjan jest znany z roli, jaką odegrał w przekazywaniu idei i praktyk wczesnego chrześcijańskiego monastycyzmu do średniowiecznego Zachodu.",
+  "biography_es": "Biografía  \nCasiano nació alrededor del año 360, probablemente en la región de la Escitia Menor (actual Dobruja, una región histórica compartida hoy por Rumania y Bulgaria), aunque algunos estudiosos suponen un origen galo. Hijo de padres acomodados, recibió una buena educación: sus escritos muestran la influencia de Cicerón y Persio. Era bilingüe en latín y griego.  \nCasiano menciona tener una hermana en su primera obra, las Instituciones, con quien se correspondía en su vida monástica; es posible que ella terminara acompañándolo en Marsella.  \nDe joven adulto viajó a Palestina con un amigo mayor, Germanus, con quien pasaría gran parte de los siguientes veinticinco años. Allí entraron en una ermita cerca de Belén. Después de permanecer en esa comunidad alrededor de tres años, se dirigieron al desierto de Scete en Egipto, que estaba marcado por luchas cristianas. Allí visitaron un número...",
+  "biography_pl": "Biografia  \nKacjan urodził się około 360 roku, najprawdopodobniej w regionie Scytii Mniejszej (obecnie Dobruża, historyczny region dzielony dziś przez Rumunię i Bułgarię), chociaż niektórzy uczeni zakładają pochodzenie galijskie. Syn zamożnych rodziców, otrzymał dobre wykształcenie: jego pisma wykazują wpływ Cycerona i Persjusza. Był dwujęzyczny, znał łacinę i grekę.  \nKacjan wspomina o posiadaniu siostry w swoim pierwszym dziele, Instytutach, z którą korespondował w swoim życiu zakonnym; mogła ona ostatecznie zamieszkać z nim w Marsylii.  \nJako młody dorosły podróżował do Palestyny z starszym przyjacielem Germanusem, z którym spędził większość następnych dwudziestu pięciu lat. Tam wstąpili do eremu niedaleko Betlejem. Po pozostaniu w tej wspólnocie przez około trzy lata, udali się na pustynię Sketis w Egipcie, która była miejscem chrześcijańskich zmagań. Tam odwiedzili wielu..."
+}

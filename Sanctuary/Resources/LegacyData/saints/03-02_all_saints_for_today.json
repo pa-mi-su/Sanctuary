@@ -1,0 +1,46 @@
+{
+  "id": "03-02_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-02",
+  "feast": "The Second day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:46:37.706Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:46:38.196Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6c725872857aacc9409664071985a8ae7869ba068dda603f1c1ccdbfda4f192b",
+        "langs": {
+          "es": {
+            "translatedHash": "ee4a2b6e664b07d7b5e72194ff9aa1bacb3fedb8262269c5d1973dd890621512",
+            "updatedAt": "2026-02-24T22:46:38.691Z"
+          },
+          "pl": {
+            "translatedHash": "9dfcdb312b94ac7f81cd3c8934e14ee7972bd22024fcc45e9ec70b3c8af11b47",
+            "updatedAt": "2026-02-24T22:46:39.168Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El segundo día de marzo",
+  "feast_pl": "Drugi dzień marca"
+}

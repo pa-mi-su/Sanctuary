@@ -8,17 +8,15 @@
 import SwiftUI
 
 struct ContentView: View {
+    let environment: AppEnvironment
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        AppShellView(environment: environment)
     }
 }
 
-#Preview {
-    ContentView()
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView(environment: .local())
+    }
 }

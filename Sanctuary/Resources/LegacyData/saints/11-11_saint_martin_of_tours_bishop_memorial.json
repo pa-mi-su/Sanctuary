@@ -1,0 +1,48 @@
+{
+  "id": "11-11_saint_martin_of_tours_bishop_memorial",
+  "name": "Saint Martin of Tours, Bishop—Memorial",
+  "mmdd": "11-11",
+  "feast": "The Eleventh Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tours"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-11_saint_martin_of_tours_bishop_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a36a3a04ea49f18d3ab149fc9e950960e4771474c261b7e17b33f776e790bb7a",
+        "langs": {
+          "es": {
+            "translatedHash": "3c130d9c61d0c4d5ef0f333b47b5dc272924cabc4fac7e90c2f0c0ca79117625",
+            "updatedAt": "2026-02-25T01:05:57.164Z"
+          },
+          "pl": {
+            "translatedHash": "8c1034b93bf526fa0b50c5ff8399c9d9deafc3ddbb7130a769be2395bf3feea3",
+            "updatedAt": "2026-02-25T01:05:58.022Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b8dcab48ff314bc1fcc981edb24454f4b9de5eb329ce4e88358137c9fff9de45",
+        "langs": {
+          "es": {
+            "translatedHash": "132cb795f90d8554dc601741f4820f1a8d3763142cf915d67230cedfa1f317fa",
+            "updatedAt": "2026-02-25T01:05:58.604Z"
+          },
+          "pl": {
+            "translatedHash": "c987c7cc03b4b45700ee9ec643e1dbb397524f7b2c87cac3a197a59eeda9a773",
+            "updatedAt": "2026-02-25T01:05:59.166Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Martín de Tours, Obispo—Memorial",
+  "name_pl": "Święty Marcin z Tours, biskup — wspomnienie",
+  "feast_es": "El Día Once de Noviembre",
+  "feast_pl": "Jedenasty dzień listopada"
+}

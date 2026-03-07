@@ -1,0 +1,48 @@
+{
+  "id": "10-17_saint_ignatius_of_antioch_bishop_and_martyr_memorial",
+  "name": "Saint Ignatius of Antioch, Bishop and Martyr—Memorial",
+  "mmdd": "10-17",
+  "feast": "The Seventeenth Day of October",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Church_Fathers"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-17_saint_ignatius_of_antioch_bishop_and_martyr_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c8e2654538cd23d26fdc969fac525b6fc7d24de9212482e9f379430777c326bd",
+        "langs": {
+          "es": {
+            "translatedHash": "a933c892dd51da7b4256e4568145a94d56b02c0685e30c421221330c1d6d81a4",
+            "updatedAt": "2026-02-25T00:51:38.784Z"
+          },
+          "pl": {
+            "translatedHash": "9b9eb05492429fa7b321d5dc5d195af8e2808be143337db842c6823e18c6640f",
+            "updatedAt": "2026-02-25T00:51:40.070Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e4e1019ed232343c8cb7def58aa476c181f1e06e5e0f07ceb2a2a7b079a72000",
+        "langs": {
+          "es": {
+            "translatedHash": "c4a1434428c66295ab993454154dfa204121a1229c55a863f49b8fee037af3f6",
+            "updatedAt": "2026-02-25T00:51:40.782Z"
+          },
+          "pl": {
+            "translatedHash": "06aded7618d3eede8e85681fd417ed9c4b74644355f1bedc9eadbf3ae838db06",
+            "updatedAt": "2026-02-25T00:51:41.517Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Ignacio de Antioquía, Obispo y Mártir—Memoria",
+  "name_pl": "Święty Ignacy Antiocheński, Biskup i Męczennik — Wspomnienie",
+  "feast_es": "El Decimoséptimo Día de Octubre",
+  "feast_pl": "Siedemnasty Dzień Października"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "08-21_saint_pius_x",
+  "name": "Saint Pius X",
+  "mmdd": "08-21",
+  "feast": "The Twenty-First Day of August",
+  "summary": "Pope Pius X was head of the Catholic Church from 4 August 1903 until his death in August 1914. Pius X is known for opposing modernist interpretations of Catholic doctrine, and for promoting liturgical reforms and Thomist scholastic theology. He initiated the preparation of the 1917 Code of Canon Law, the first comprehensive and systemic work of its kind, which was ultimately promulgated by his successor. He is venerated as a saint in the Catholic Church.",
+  "biography": "Pope Pius X (Italian: Pio X; born Giuseppe Melchiorre Sarto; 2 June 1835 – 20 August 1914) was head of the Catholic Church from 4 August 1903 until his death in August 1914. Pius X is known for opposing modernist interpretations of Catholic doctrine, and for promoting liturgical reforms and Thomist scholastic theology. He initiated the preparation of the 1917 Code of Canon Law, the first comprehensive and systemic work of its kind, which was ultimately promulgated by his successor. He is venerated as a saint in the Catholic Church. Born in the Austrian Empire, Pius X was devoted to the Blessed Virgin Mary under the title of Our Lady of Confidence; while his papal encyclical Ad diem illum took on a sense of renewal that was reflected in the motto of his pontificate. He advanced the Liturgical Movement by formulating the principle of participatio actuosa (active participation of the faithful) in his motu proprio, Tra le sollecitudini (1903). He encouraged the frequent reception of Holy Communion, and he lowered the age for First Communion, which would become a lasting innovation of his papacy. Like his predecessors, Pius X promoted Thomism as the principal philosophical method to be taught...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Pius_X",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-21_saint_pius_x.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "20fe7340bceb68c78782749c97249d2ee00d93aa8f9b1066ccd1a2a6a2ce3691",
+        "langs": {
+          "es": {
+            "translatedHash": "3edb1c88eb2d787a18af7f9383a5208b0449bc4bf619f66b641f2ae7eb3cbdd0",
+            "updatedAt": "2026-02-25T00:19:05.449Z"
+          },
+          "pl": {
+            "translatedHash": "774f1085f8cf5eb238647d714623b706b8f8cb9e102a2a32ef137b41e622c61f",
+            "updatedAt": "2026-02-25T00:19:06.133Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4b195cda3a95fab1e76faa6539a64b8bb37acf5769c11d356f7f2fe2bda5ff27",
+        "langs": {
+          "es": {
+            "translatedHash": "845d9a1a583dc3ef2da3b35370f3b83fe45b72161e3c97928c4b06c99123c7bb",
+            "updatedAt": "2026-02-25T00:19:06.836Z"
+          },
+          "pl": {
+            "translatedHash": "e3fd73a43c75cb626d7275f3cf853efdd8eada1d5e81b30fcd528e5f02a0176f",
+            "updatedAt": "2026-02-25T00:19:07.428Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "da6639e89f8c582c7a1e37e3d05888aaf42b4768c10dedfa8798fa898e44ee79",
+        "langs": {
+          "es": {
+            "translatedHash": "52cc409f91199cd8299c83065f93ed32d10f1c7d86a00a655ed483983ca51417",
+            "updatedAt": "2026-02-25T00:19:09.026Z"
+          },
+          "pl": {
+            "translatedHash": "439d7ec11c1908479067532c62815fd334361adc788c4ff79f13ab8a6b86656e",
+            "updatedAt": "2026-02-25T00:19:11.967Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "062e26df4a9428fbcb92253a64c4c9ab2fbce5859d087fa46d95c998002594f7",
+        "langs": {
+          "es": {
+            "translatedHash": "c0a74487ce5ecf413bd74e629fa24662d127ab39aab9f61f458ab6d03559f073",
+            "updatedAt": "2026-02-25T00:19:17.841Z"
+          },
+          "pl": {
+            "translatedHash": "57c8e3857c665fac4de94a109990f381b41288de5e95da4df3b41915b1a9313b",
+            "updatedAt": "2026-02-25T00:19:22.180Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Pío X",
+  "name_pl": "Święty Pius X",
+  "feast_es": "El Vigésimo Primer Día de Agosto",
+  "feast_pl": "Dwudziesty pierwszy dzień sierpnia",
+  "summary_es": "El Papa Pío X fue cabeza de la Iglesia Católica desde el 4 de agosto de 1903 hasta su muerte en agosto de 1914. Pío X es conocido por oponerse a las interpretaciones modernistas de la doctrina católica y por promover reformas litúrgicas y la teología escolástica tomista. Inició la preparación del Código de Derecho Canónico de 1917, la primera obra integral y sistemática de su tipo, que fue promulgada finalmente por su sucesor. Es venerado como santo en la Iglesia Católica.",
+  "summary_pl": "Papież Pius X był głową Kościoła katolickiego od 4 sierpnia 1903 roku aż do swojej śmierci w sierpniu 1914 roku. Pius X jest znany z przeciwstawiania się modernistycznym interpretacjom doktryny katolickiej oraz z promowania reform liturgicznych i tomistycznej teologii scholastycznej. Zainicjował przygotowanie Kodeksu Prawa Kanonicznego z 1917 roku, pierwszego kompleksowego i systematycznego dzieła tego rodzaju, który ostatecznie został promulgowany przez jego następcę. Jest czczony jako święty w Kościele katolickim.",
+  "biography_es": "El Papa Pío X (italiano: Pio X; nacido Giuseppe Melchiorre Sarto; 2 de junio de 1835 – 20 de agosto de 1914) fue el jefe de la Iglesia Católica desde el 4 de agosto de 1903 hasta su muerte en agosto de 1914. Pío X es conocido por oponerse a las interpretaciones modernistas de la doctrina católica y por promover reformas litúrgicas y la teología escolástica tomista. Inició la preparación del Código de Derecho Canónico de 1917, la primera obra integral y sistemática de su tipo, que fue promulgada finalmente por su sucesor. Es venerado como santo en la Iglesia Católica. Nacido en el Imperio Austriaco, Pío X estuvo dedicado a la Santísima Virgen María bajo el título de Nuestra Señora de la Confianza; mientras que su encíclica papal Ad diem illum asumió un sentido de renovación que se reflejó en el lema de su pontificado. Impulsó el Movimiento Litúrgico formulando el principio de participatio actuosa (participación activa de los fieles) en su motu proprio, Tra le sollecitudini (1903). Fomentó la frecuente recepción de la Sagrada Comunión y bajó la edad para la Primera Comunión, lo que se convertiría en una innovación duradera de su pontificado. Como sus predecesores, Pío X promovió el tomismo como el principal método filosófico que debía enseñarse...",
+  "biography_pl": "Papież Pius X (wł. Pio X; ur. Giuseppe Melchiorre Sarto; 2 czerwca 1835 – 20 sierpnia 1914) był głową Kościoła katolickiego od 4 sierpnia 1903 aż do swojej śmierci w sierpniu 1914 roku. Pius X jest znany z przeciwstawiania się modernistycznym interpretacjom doktryny katolickiej oraz z promowania reform liturgicznych i tomistycznej teologii scholastycznej. Zainicjował przygotowanie Kodeksu Prawa Kanonicznego z 1917 roku, pierwszego kompleksowego i systematycznego dzieła tego rodzaju, który ostatecznie został promulgowany przez jego następcę. Jest czczony jako święty w Kościele katolickim. Urodzony w Cesarstwie Austriackim, Pius X był oddany Najświętszej Maryi Pannie pod tytułem Matki Bożej Zaufania; jego encyklika papieska Ad diem illum niosła ze sobą poczucie odnowy, które znalazło odzwierciedlenie w motcie jego pontyfikatu. Rozwijał Ruch Liturgiczny, formułując zasadę participatio actuosa (czynnego udziału wiernych) w swoim motu proprio Tra le sollecitudini (1903). Zachęcał do częstego przyjmowania Komunii Świętej i obniżył wiek Pierwszej Komunii, co stało się trwałą innowacją jego pontyfikatu. Podobnie jak jego poprzednicy, Pius X promował tomizm jako główną metodę filozoficzną do nauczania..."
+}

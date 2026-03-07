@@ -1,0 +1,79 @@
+{
+  "id": "01-22_saint_vincent",
+  "name": "Saint Vincent",
+  "mmdd": "01-22",
+  "feast": "The Twenty-Second Day of January",
+  "summary": "Saint Vincent and the Grenadines, sometimes known simply as Saint Vincent or SVG, is an island country in the eastern Caribbean. It is located in the southeast Windward Islands of the Lesser Antilles, which lie in the West Indies, at the southern end of the eastern border between the Caribbean Sea and the Atlantic Ocean. To the north lies Saint Lucia, to the east is Barbados and Grenada lies to the south.",
+  "biography": "Saint Vincent and the Grenadines, sometimes known simply as Saint Vincent or SVG, is an island country in the eastern Caribbean. It is located in the southeast Windward Islands of the Lesser Antilles, which lie in the West Indies, at the southern end of the eastern border between the Caribbean Sea and the Atlantic Ocean. To the north lies Saint Lucia, to the east is Barbados and Grenada lies to the south.\nSpanning a land area of 389 km2 (150 sq mi), most of its territory consists of the northernmost island of Saint Vincent, which includes the capital and largest city, Kingstown. To the south lie the northern two-thirds of the Grenadines, a chain of 32 smaller islands; the remaining southern third make up Grenada. Seven of the islands are inhabited, of which the largest and most populous are Bequia, Mustique, Canouan and Union Island.\nWith an estimated population of around 110,872, Saint Vincent and the Grenadines has a population density of over 300 inhabitants/km2 (700 per sq mi). The majority of its people are descendants of enslaved Africans  brought by France and then later Great Britain, which contested the islands during the 18th century. SVG remained a colony of the British Empire...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-22_saint_vincent.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ca8c4c95d04f5b44c7c8976173db6f552e68e27e230c44d599a9a941b6e38661",
+        "langs": {
+          "es": {
+            "translatedHash": "dbbe68f64a0817ba9855600f6ca6f8c39bd4470369fd6e0625be88e82b53dd95",
+            "updatedAt": "2026-02-24T22:19:38.443Z"
+          },
+          "pl": {
+            "translatedHash": "41d80f06c366ae4d7fdd35192d5295b1becace06e4347229b39f0560b9fd62a5",
+            "updatedAt": "2026-02-24T22:19:38.908Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b85463831f6ce858804c2d9eca72ba34047b76d6a07584440cc63e51e6ac8f5e",
+        "langs": {
+          "es": {
+            "translatedHash": "c71cce044481b6026acf83624e4f48613e2cad6eda88d534d11ba603e84e8cdb",
+            "updatedAt": "2026-02-24T22:19:39.722Z"
+          },
+          "pl": {
+            "translatedHash": "da0bc69039a96ec76bca5c744a19774b94a202cb96aeda7a3eee5b94f05f0643",
+            "updatedAt": "2026-02-24T22:19:40.326Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "5e55bcfd8b006d70e4627ed5191764bfbe430e455c4343694bc49bc79d86a2a9",
+        "langs": {
+          "es": {
+            "translatedHash": "ee3ed7e397e9b5b4313165e07d986d8bc2d0f5ed733a2da70b06b25f49302b2c",
+            "updatedAt": "2026-02-24T22:19:42.060Z"
+          },
+          "pl": {
+            "translatedHash": "e708ea66ca0c57a108fbc49b593d65061515762cf373e5092aabef05e4533e0b",
+            "updatedAt": "2026-02-24T22:19:44.620Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "06e4ba4666dc1545b322df2ffd95e9d2600245b7d7d66a3752a1ba5ccc914dcc",
+        "langs": {
+          "es": {
+            "translatedHash": "efd82c1e2662222dde99e88709f6a0f1a2121b7edfcd8ddaa3da716bd4d81992",
+            "updatedAt": "2026-02-24T22:19:49.374Z"
+          },
+          "pl": {
+            "translatedHash": "68edc61c2759be785e2d4db436e206f1e4e9d0b77c6a95bfbc6f31ac82a2f85c",
+            "updatedAt": "2026-02-24T22:19:55.402Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Vicente",
+  "name_pl": "Święty Wincenty",
+  "feast_es": "El Veintidós de Enero",
+  "feast_pl": "Dwudziesty drugi dzień stycznia",
+  "summary_es": "San Vicente y las Granadinas, a veces conocido simplemente como San Vicente o SVG, es un país insular en el Caribe oriental. Está ubicado en las islas de Barlovento del sureste de las Antillas Menores, que se encuentran en las Indias Occidentales, en el extremo sur de la frontera oriental entre el Mar Caribe y el Océano Atlántico. Al norte se encuentra Santa Lucía, al este Barbados y al sur está Granada.",
+  "summary_pl": "Saint Vincent i Grenadyny, czasami nazywane po prostu Saint Vincent lub SVG, to wyspiarski kraj na wschodnich Karaibach. Znajduje się na południowo-wschodnich Wyspach Wiatracznych Małych Antyli, które leżą na Karaibach, na południowym końcu wschodniej granicy między Morzem Karaibskim a Oceanem Atlantyckim. Na północ od niego leży Saint Lucia, na wschód Barbados, a na południe Grenada.",
+  "biography_es": "San Vicente y las Granadinas, a veces conocido simplemente como San Vicente o SVG, es un país insular en el Caribe oriental. Está ubicado en las islas de Sotavento del sureste de las Antillas Menores, que se encuentran en las Indias Occidentales, en el extremo sur de la frontera oriental entre el Mar Caribe y el Océano Atlántico. Al norte se encuentra Santa Lucía, al este Barbados y al sur Granada.\n\nCon una superficie terrestre de 389 km² (150 millas cuadradas), la mayor parte de su territorio consiste en la isla más septentrional de San Vicente, que incluye la capital y ciudad más grande, Kingstown. Al sur se encuentran los dos tercios norteños de las Granadinas, una cadena de 32 islas más pequeñas; el tercio sur restante forma parte de Granada. Siete de las islas están habitadas, siendo las más grandes y pobladas Bequia, Mustique, Canouan y Union Island.\n\nCon una población estimada de alrededor de 110,872 habitantes, San Vicente y las Granadinas tiene una densidad poblacional de más de 300 habitantes/km² (700 por milla cuadrada). La mayoría de su gente son descendientes de africanos esclavizados traídos por Francia y luego por Gran Bretaña, que disputó las islas durante el siglo XVIII. SVG permaneció como colonia del Imperio Británico...",
+  "biography_pl": "Saint Vincent i Grenadyny, czasami nazywane po prostu Saint Vincent lub SVG, to państwo wyspiarskie na wschodnich Karaibach. Znajduje się na południowo-wschodnich Wyspach Wiatracznych Małych Antyli, które leżą na Wyspach Zachodnich, na południowym końcu wschodniej granicy między Morzem Karaibskim a Oceanem Atlantyckim. Na północy leży Saint Lucia, na wschodzie Barbados, a na południu Grenada.\n\nZajmując powierzchnię lądową 389 km² (150 mil kwadratowych), większość jego terytorium stanowi najbardziej na północ wysunięta wyspa Saint Vincent, na której znajduje się stolica i największe miasto, Kingstown. Na południe leżą północne dwie trzecie Grenadyn, łańcucha 32 mniejszych wysp; pozostała południowa trzecia część tworzy Grenadę. Siedem z tych wysp jest zamieszkanych, z których największe i najbardziej zaludnione to Bequia, Mustique, Canouan i Union Island.\n\nZ szacowaną populacją około 110 872 osób, Saint Vincent i Grenadyny mają gęstość zaludnienia ponad 300 mieszkańców/km² (700 na milę kwadratową). Większość jego mieszkańców to potomkowie zniewolonych Afrykanów przywiezionych przez Francję, a następnie później przez Wielką Brytanię, która rywalizowała o wyspy w XVIII wieku. SVG pozostało kolonią Imperium Brytyjskiego..."
+}

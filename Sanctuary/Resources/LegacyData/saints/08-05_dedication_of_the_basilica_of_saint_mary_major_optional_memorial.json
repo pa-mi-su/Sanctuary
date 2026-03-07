@@ -1,0 +1,48 @@
+{
+  "id": "08-05_dedication_of_the_basilica_of_saint_mary_major_optional_memorial",
+  "name": "Dedication of the Basilica of Saint Mary Major—Optional Memorial",
+  "mmdd": "08-05",
+  "feast": "The Fifth Day of August",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_Saint_Agatha"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-05_dedication_of_the_basilica_of_saint_mary_major_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "388649c9c1a200c2657aab8b17cd9bf3ace9ba21a7c0a41e6fc8a3291b7a9655",
+        "langs": {
+          "es": {
+            "translatedHash": "b33f06616f8afb4de7e74822655f820d596b8337c0158b0057203c5579e3fab1",
+            "updatedAt": "2026-02-25T00:10:06.898Z"
+          },
+          "pl": {
+            "translatedHash": "357d710d5fcbc1d14b98b934ec1d79d60dff542584e396dda7ef786092b7fb9b",
+            "updatedAt": "2026-02-25T00:10:07.926Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b60078e8a2f5aa137f7d5ed0a899b2250b708b4a559d2f9af9f1ef766e29d443",
+        "langs": {
+          "es": {
+            "translatedHash": "c325c45d87ec7e1165633262e5de73710a621993e0e84305954aca6f97d5c34d",
+            "updatedAt": "2026-02-25T00:10:08.520Z"
+          },
+          "pl": {
+            "translatedHash": "2784cba2e406a39d11a111366bd539f45c2da81670c64477091951bb3f7b23ea",
+            "updatedAt": "2026-02-25T00:10:09.118Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Dedicación de la Basílica de Santa María la Mayor—Memoria Opcional",
+  "name_pl": "Poświęcenie Bazyliki Matki Bożej Większej — Wspomnienie dowolne",
+  "feast_es": "El Quinto Día de Agosto",
+  "feast_pl": "Piąty dzień sierpnia"
+}

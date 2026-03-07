@@ -1,0 +1,79 @@
+{
+  "id": "06-12_saint_john_of_sahagun",
+  "name": "Saint John of Sahagun",
+  "mmdd": "06-12",
+  "feast": "The Twelfth Day of June",
+  "summary": "Saint John of Sahagun was a Spanish Augustinian friar and preacher known for his call to repentance, peacemaking, and care for the poor.",
+  "biography": "Saint John of Sahagun (c. 1430-1479), also known as John of St. Facundus, entered the Augustinian order in Salamanca and became known for fearless preaching against injustice and violence. He worked to reconcile feuding families, encouraged reform of morals and public life, and served the poor with pastoral charity. He is commemorated on June 12.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Sahag%C3%BAn",
+    "https://www.newadvent.org/cathen/08460a.htm"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-12_saint_john_of_st.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f058ae5404e263040e1ac707b6bff5223458570252b973922e82c057cec8948c",
+        "langs": {
+          "es": {
+            "translatedHash": "e60d917cdda02e0648c3c6469f71d0dacac94ed273b59026d2ea6603a6dc0c09",
+            "updatedAt": "2026-02-24T23:41:32.833Z"
+          },
+          "pl": {
+            "translatedHash": "50bd9434e9cd1d2869ec5a17427328f83d13fabebd36cc50d8096c9b35cd0510",
+            "updatedAt": "2026-02-24T23:41:35.650Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "93b604016e665ebfb90bd2cade88cf5b7ff5279f0dfeac2c76cead12c81a6bda",
+        "langs": {
+          "es": {
+            "translatedHash": "047c7066a1489c2e2b25b3aa947b75d775ca1f707c49836d07e37dbdf402db0f",
+            "updatedAt": "2026-02-24T23:41:37.125Z"
+          },
+          "pl": {
+            "translatedHash": "d90e767df3b439487529eb2236b7bd309226a30d4b2d89551cf9067ad68ed4ce",
+            "updatedAt": "2026-02-24T23:41:37.906Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9777a12c319aa0d887c5955d49ceba06766cb587854361eb97dedaa3509dbc77",
+        "langs": {
+          "es": {
+            "translatedHash": "043f103d48b45d1f950361c232d2fded1f18a911ced9ada9257d03f05f1252b5",
+            "updatedAt": "2026-02-24T23:41:38.860Z"
+          },
+          "pl": {
+            "translatedHash": "8cbf04266cc619299be1953d121811ffc0e70c538e2480556427f9430db541b4",
+            "updatedAt": "2026-02-24T23:41:39.958Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1317ce448bcdb445b4f450b53d2f66f0154800940c0b8a3d40a434fd60503288",
+        "langs": {
+          "es": {
+            "translatedHash": "b8c67f47841f1b62fa138f01440ef3151684ffd935c2189e123c1b41b5ec2451",
+            "updatedAt": "2026-02-24T23:41:41.725Z"
+          },
+          "pl": {
+            "translatedHash": "480abd386711f2859ecb33e7094d46aaf4c46f8acc29e4807de87a6ccb9b1a82",
+            "updatedAt": "2026-02-24T23:41:43.636Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Juan de Sahagún",
+  "name_pl": "Święty Jan z Sahagún",
+  "feast_es": "El Duodécimo Día de Junio",
+  "feast_pl": "Dwunasty dzień czerwca",
+  "summary_es": "San Juan de Sahagún fue un fraile agustino español y predicador conocido por su llamado al arrepentimiento, la pacificación y el cuidado de los pobres.",
+  "summary_pl": "Święty Jan z Sahagunu był hiszpańskim augustiańskim zakonnikiem i kaznodzieją, znanym ze swojego wezwania do nawrócenia, działania na rzecz pokoju oraz troski o ubogich.",
+  "biography_es": "San Juan de Sahagún (c. 1430-1479), también conocido como Juan de San Facundo, ingresó en la orden agustiniana en Salamanca y se hizo conocido por su predicación valiente contra la injusticia y la violencia. Trabajó para reconciliar familias enemistadas, fomentó la reforma de las costumbres y la vida pública, y sirvió a los pobres con caridad pastoral. Se le conmemora el 12 de junio.",
+  "biography_pl": "Święty Jan z Sahagunu (ok. 1430–1479), znany także jako Jan ze św. Facunda, wstąpił do zakonu augustianów w Salamance i zasłynął z nieustraszonego głoszenia przeciwko niesprawiedliwości i przemocy. Pracował na rzecz pojednania zwaśnionych rodzin, zachęcał do reformy moralności i życia publicznego oraz służył ubogim z pasterską miłością. Jego wspomnienie obchodzone jest 12 czerwca."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "03-24_saint_epigmenius",
+  "name": "Saint Epigmenius",
+  "mmdd": "03-24",
+  "feast": "The Twenty-Fourth Day of March",
+  "summary": "Crescentius of Rome is venerated as a child martyr by the Roman Catholic Church.",
+  "biography": "Crescentius of Rome is venerated as a child martyr by the Roman Catholic Church.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crescentius_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-24_saint_epigmenius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "b44a4291333541c24e4cdb2871379ea712f191e49efc1fea129393c7610d7015",
+        "langs": {
+          "es": {
+            "translatedHash": "f70af6d25ae50f96cfde0ea7b51120670df82c9cdda35ea85518e0664bf40fdd",
+            "updatedAt": "2026-02-24T22:58:41.922Z"
+          },
+          "pl": {
+            "translatedHash": "caa6c60f385cda060c6703dbf6c71511319a215777a0b5ac14b9a30bc6325522",
+            "updatedAt": "2026-02-24T22:58:42.529Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7bb8c8eea334c0024ec61c6510586583d939a244270c26e2c27b0a31a6cdff61",
+        "langs": {
+          "es": {
+            "translatedHash": "dd912823891b810ed07692b5f913ae7a6398f27881cf2ccdfdb5d2c40cf0d91c",
+            "updatedAt": "2026-02-24T22:58:43.005Z"
+          },
+          "pl": {
+            "translatedHash": "6852f1cb54cd8881d9c9798d13734fd25e6d3e2907f6c30a68f41313c129ffbf",
+            "updatedAt": "2026-02-24T22:58:43.709Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6f7ea27fcca64843a45d0aa42488022458cc40fd8fda7140f09652e1e33bff8b",
+        "langs": {
+          "es": {
+            "translatedHash": "9411d009d4a285048b8f24b63a5737b404f5a3ae13face3f43a2f7a87497beb2",
+            "updatedAt": "2026-02-24T22:58:44.528Z"
+          },
+          "pl": {
+            "translatedHash": "dc66c7424704b57e1daa4d69a6025e6e97647b9266428cd041b93c186bfe9d95",
+            "updatedAt": "2026-02-24T22:58:45.922Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6f7ea27fcca64843a45d0aa42488022458cc40fd8fda7140f09652e1e33bff8b",
+        "langs": {
+          "es": {
+            "translatedHash": "9411d009d4a285048b8f24b63a5737b404f5a3ae13face3f43a2f7a87497beb2",
+            "updatedAt": "2026-02-24T22:58:46.697Z"
+          },
+          "pl": {
+            "translatedHash": "fd670ece1a11964eb2f78dc2484cd9f7febcffb7903a8f1bc6ef3ed26e5d0f0c",
+            "updatedAt": "2026-02-24T22:58:47.852Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Epigmenio",
+  "name_pl": "Święty Epigmeniusz",
+  "feast_es": "El vigésimo cuarto día de marzo",
+  "feast_pl": "Dwudziesty czwarty dzień marca",
+  "summary_es": "Crescentio de Roma es venerado como un niño mártir por la Iglesia Católica Romana.",
+  "summary_pl": "Krezencjusz Rzymski jest czczony jako męczennik dziecięcy przez Kościół rzymskokatolicki.",
+  "biography_es": "Crescentio de Roma es venerado como un niño mártir por la Iglesia Católica Romana.",
+  "biography_pl": "Krezencjusz z Rzymu jest czczony jako męczennik dziecięcy przez Kościół rzymskokatolicki."
+}

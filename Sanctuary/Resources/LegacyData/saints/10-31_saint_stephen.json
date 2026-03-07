@@ -1,0 +1,79 @@
+{
+  "id": "10-31_saint_stephen",
+  "name": "Saint Stephen",
+  "mmdd": "10-31",
+  "feast": "The Thirty-First Day of October",
+  "summary": "Stephen or Steven is an English first name. It is particularly significant to Christians, as it belonged to Saint Stephen, an early disciple and deacon who, according to the Book of Acts, was stoned to death; he is widely regarded as the first martyr of the Christian Church.",
+  "biography": "Stephen or Steven is an English first name. It is particularly significant to Christians, as it belonged to Saint Stephen (Ancient Greek: Στέφανος, romanized: Stéphanos, lit. 'wreath, crown'), an early disciple and deacon who, according to the Book of Acts, was stoned to death; he is widely regarded as the first martyr (or \"protomartyr\") of the Christian Church. The name, in both the forms Stephen and Steven, is often shortened to Steve or Stevie. In English, the female version of the name is Stephanie. Many surnames are derived from the first name, including Stephens, Stevens, Stephenson, and Stevenson, all of which mean \"Stephen's (son)\". In modern times the name has sometimes been given with intentionally non-standard spelling, such as Stevan or Stevon. A common variant of the name used in English is Stephan ( STEF-ən); related names that have found some currency or significance in English include Stefan (pronounced STEF-ən or stə-FAHN in English), Esteban (often pronounced EST-ib-an), and the Shakespearean Stephano ( STEF-ən-oh). Origins The name \"Stephen\" (and its common variant \"Steven\") is derived from Greek Στέφανος (Stéphanos), a first name from the Greek word στέφανος...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/10-31_saint_stephen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "402a07f13ec30b7d293ba3f5c2e1b9a186bddabf16f74a8be3d26c937d9a0083",
+        "langs": {
+          "es": {
+            "translatedHash": "1e99ade6b2a9de0bee3fccf460742a0da5d75aed26f9525d32294d94ff956830",
+            "updatedAt": "2026-02-25T00:59:15.672Z"
+          },
+          "pl": {
+            "translatedHash": "03bb3263dfa0e761d127e3fbdd364a741bd49b0684ce8f4394d7d57a1c5136d1",
+            "updatedAt": "2026-02-25T00:59:16.770Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "64c02c79ff5ef6ab3faff61acf62e56ebb35a472a2ae6422ad4c32e69c491a2a",
+        "langs": {
+          "es": {
+            "translatedHash": "1d34fa2d09316b3b10c4b8bc2498ed10a70d31dcd897fbc27681088053d75289",
+            "updatedAt": "2026-02-25T00:59:17.459Z"
+          },
+          "pl": {
+            "translatedHash": "173669071f27d893d8468bb1fe98cf993a5804acdf54a96b7fd13df112aabf7e",
+            "updatedAt": "2026-02-25T00:59:19.842Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "d1ae5331d122625564b9c048f59ca48b54a9b1ff06ceb5109b19abd1ed884703",
+        "langs": {
+          "es": {
+            "translatedHash": "8a3df9196396e2876c936c44297bd22f18afef4b1fc0a542de0a997c1cfa07c2",
+            "updatedAt": "2026-02-25T00:59:22.562Z"
+          },
+          "pl": {
+            "translatedHash": "240575ddd92b0f9c56b363db9ec7398f7c6e524c83d96be50a2dcce4323b78de",
+            "updatedAt": "2026-02-25T00:59:24.386Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8ec1e06ac7e88f795bf4eb9584eb82703a1ff280b923befcec8973610ad7f732",
+        "langs": {
+          "es": {
+            "translatedHash": "7e6593559826bae7e4230ae2db5df82fd0431f68fc049d94cc4a1742126c8043",
+            "updatedAt": "2026-02-25T00:59:30.506Z"
+          },
+          "pl": {
+            "translatedHash": "5e31f863b83114f4aadb81d6f2933cb39ce3e456eafddc264cbad639f868ccd4",
+            "updatedAt": "2026-02-25T00:59:37.103Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Esteban",
+  "name_pl": "Święty Szczepan",
+  "feast_es": "El Trigésimo Primer Día de Octubre",
+  "feast_pl": "Trzydziesty pierwszy dzień października",
+  "summary_es": "Esteban o Steven es un nombre propio en inglés. Es particularmente significativo para los cristianos, ya que perteneció a San Esteban, un primer discípulo y diácono que, según el Libro de los Hechos, fue apedreado hasta la muerte; es ampliamente considerado como el primer mártir de la Iglesia cristiana.",
+  "summary_pl": "Stefan lub Steven to angielskie imię pierwsze. Ma szczególne znaczenie dla chrześcijan, ponieważ należało do św. Szczepana, wczesnego ucznia i diakona, który według Dziejów Apostolskich został ukamienowany na śmierć; jest powszechnie uważany za pierwszego męczennika Kościoła Chrześcijańskiego.",
+  "biography_es": "Esteban o Steven es un nombre propio inglés. Es particularmente significativo para los cristianos, ya que perteneció a San Esteban (griego antiguo: Στέφανος, romanizado: Stéphanos, lit. 'corona, guirnalda'), un discípulo y diácono temprano que, según el Libro de los Hechos, fue apedreado hasta la muerte; es ampliamente considerado como el primer mártir (o \"protomártir\") de la Iglesia Cristiana. El nombre, en ambas formas Stephen y Steven, a menudo se acorta a Steve o Stevie. En inglés, la versión femenina del nombre es Stephanie. Muchos apellidos derivan del nombre propio, incluyendo Stephens, Stevens, Stephenson y Stevenson, todos los cuales significan \"hijo de Esteban\". En tiempos modernos, el nombre a veces se ha dado con una ortografía intencionalmente no estándar, como Stevan o Stevon. Una variante común del nombre usada en inglés es Stephan (STEF-ən); nombres relacionados que han tenido cierta circulación o importancia en inglés incluyen Stefan (pronunciado STEF-ən o stə-FAHN en inglés), Esteban (a menudo pronunciado EST-ib-an), y el Shakespeareano Stephano (STEF-ən-oh).\n\nOrígenes  \nEl nombre \"Stephen\" (y su variante común \"Steven\") se deriva del griego Στέφανος (Stéphanos), un nombre propio proveniente de la palabra griega στέφανος...",
+  "biography_pl": "Stefan lub Steven to angielskie imię pierwsze. Ma szczególne znaczenie dla chrześcijan, ponieważ należało do św. Szczepana (starożytna greka: Στέφανος, romanizacja: Stéphanos, dosł. „wieniec, korona”), wczesnego ucznia i diakona, który według Dziejów Apostolskich został ukamienowany na śmierć; jest powszechnie uważany za pierwszego męczennika (lub „protomaęczennika”) Kościoła Chrześcijańskiego. Imię, w obu formach Stephen i Steven, jest często skracane do Steve lub Stevie. W języku angielskim żeńska wersja imienia to Stephanie. Wiele nazwisk pochodzi od tego imienia, w tym Stephens, Stevens, Stephenson i Stevenson, które wszystkie oznaczają „syn Stephena”. W czasach współczesnych imię to bywa czasem nadawane z celowo niestandardową pisownią, taką jak Stevan lub Stevon. Popularnym wariantem imienia używanym w języku angielskim jest Stephan (STEF-ən); pokrewne imiona, które zyskały pewną popularność lub znaczenie w języku angielskim, to Stefan (wymawiane STEF-ən lub stə-FAHN po angielsku), Esteban (często wymawiane EST-ib-an) oraz szekspirowskie Stephano (STEF-ən-oh).  \nPochodzenie  \nImię „Stephen” (oraz jego popularny wariant „Steven”) pochodzi od greckiego Στέφανος (Stéphanos), imienia pochodzącego od greckiego słowa στέφανος..."
+}

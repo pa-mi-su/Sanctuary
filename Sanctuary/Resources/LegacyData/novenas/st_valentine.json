@@ -1,0 +1,269 @@
+{
+  "id": "st_valentine",
+  "title": "St. Valentine Novena",
+  "description": "St Valentine was a priest or bishop who lived in the third century, comforted persecuted Christians, and gave his life in martyrdom. He is the patron saint of engaged couples and marriages.",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Valentine"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 14
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-valentine-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras peticiones, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y estemos unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencionar petición aquí…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo w nieszczęściach, które nas dręczą, i wyproś dla nas Boskie błogosławieństwo, abyśmy byli godni dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu objawi nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udziel, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali wybawieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walentynie, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencione aquí la petición…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo nieszczęściom, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy zostali uznani za godnych, by dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu objawi nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i zostali z Tobą na wieki złączeni w niebie. Módlmy się: Udzieł nam, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, mogli przez jego wstawiennictwo zostać uwolnieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que son tan perseverantes en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la derecha del Gran Juez, y estemos unidos a ti eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencionar petición aquí…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo w nieszczęściach, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy zostali uznani za godnych dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu objawi nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udzieł nam, prosimy Cię, Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali uwolnieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras peticiones, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que son tan perseverantes en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencionar la petición aquí…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria Patri",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo nieszczęściom, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy byli godni dołączyć do Ciebie w chwale Wszechmocnego na wieki; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu ukaże nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udzieł nam, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali uwolnieni od wszelkich złych rzeczy, które nas zagrażają. Przez Chrystusa, Pana naszego. Amen. (wymień prośbę tutaj…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y estemos unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencionar petición aquí…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, przyjmij nasze modlitwy, ulżyj przez swoje wstawiennictwo w nieszczęściach, które nas dręczą, i wyproś dla nas Boskie błogosławieństwo, abyśmy byli godni dołączyć do Ciebie w chwale Wszechmocnego na wieki; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu ukaże nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udzieł nam, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali uwolnieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walentynie, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales laboramos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencione aquí la petición…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo nieszczęściom, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy byli godni dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu ukaże nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i byli z Tobą na wieki złączeni w niebie. Módlmy się: Udzieł nam, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali wybawieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y estemos unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencione aquí la petición…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, przyjmij nasze modlitwy, ulżyj przez swoje wstawiennictwo nieszczęściom, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy byli godni dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu objawi nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udzieł nam, prosimy Cię, Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali wybawieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales laboramos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la derecha del Gran Juez, y unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, podamos, por su intercesión, ser librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencionar la petición aquí…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo nieszczęściom, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy zostali uznani za godnych, by dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu objawi nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udzieł nam, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali wybawieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień tutaj prośbę…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO glorious advocate and protector, Saint Valentine, look with pity upon our wants, hear our requests, attend to our prayers, relieve by your intercession the miseries under which we labor, and obtain for us the Divine blessing, that we may be found worthy to join thee in praising the Almighty for all eternity; through the merits of Our Lord Jesus Christ. Pray, then, O holy Martyr, for the faithful, who are so persevering in celebrating thy memory. The day of Judgment will reveal to us all thy glorious merits. Oh! intercede for us, that we may then be made thy companions at the right hand of the Great Judge, and be united with thee eternally in heaven. Let us pray: Grant, we beseech thee, O Almighty God, that we who solemnize the festival of blessed Valentine, Thy Martyr, may, by his intercession, be delivered from all the evils that threaten us. Through Christ our Lord. Amen. (mention request here…) Saint Valentine, advocate and protector, pray for us.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nI’ve been praying this novena for a while now and I haven’t realized that no one shared there answered prayers here so I want to testify. St. Valentine helped me so many times that I couldn’t even count. Last week I felt so hopeless and sad because this one problem bothered me so much, I asked for his intercession and after 7 days I was answered. I want to say thank you St. Valentine for always being here for me, along with St. Jude, St. Raphael, St. Rita, St. Expedite, St. Anthony, St. Francis, Mother Mary, Sr. Sto. Niño, and along with the other Saints. Above all, thank you so much God!\n\nfrom D.Z.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh glorioso abogado y protector, San Valentín, mira con compasión nuestras necesidades, escucha nuestras súplicas, atiende nuestras oraciones, alivia por tu intercesión las miserias bajo las cuales trabajamos, y obtén para nosotros la bendición Divina, para que seamos hallados dignos de unirnos a ti en alabar al Todopoderoso por toda la eternidad; por los méritos de Nuestro Señor Jesucristo. Ruega, pues, oh santo Mártir, por los fieles, que perseveran tanto en celebrar tu memoria. El día del Juicio nos revelará todos tus gloriosos méritos. ¡Oh! intercede por nosotros, para que entonces seamos hechos tus compañeros a la diestra del Gran Juez, y estemos unidos contigo eternamente en el cielo. Oremos: Concédenos, te suplicamos, oh Dios Todopoderoso, que nosotros que solemnizamos la fiesta del bienaventurado Valentín, Tu Mártir, seamos, por su intercesión, librados de todos los males que nos amenazan. Por Cristo nuestro Señor. Amén. (mencionar petición aquí…) San Valentín, abogado y protector, ruega por nosotros.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO chwalebny orędowniku i obrońco, święty Walentynie, spójrz z litością na nasze potrzeby, wysłuchaj naszych próśb, zwróć uwagę na nasze modlitwy, ulżyj przez swoje wstawiennictwo nieszczęściom, pod którymi cierpimy, i wyproś dla nas Boskie błogosławieństwo, abyśmy zostali uznani za godnych dołączyć do Ciebie w chwale Wszechmocnego na wieki wieków; przez zasługi Pana naszego Jezusa Chrystusa. Módl się więc, o święty Męczenniku, za wiernych, którzy tak wytrwale obchodzą Twoją pamięć. Dzień Sądu Ostatecznego ukaże nam wszystkie Twoje chwalebne zasługi. Och! wstawiaj się za nami, abyśmy wtedy zostali Twoimi towarzyszami po prawicy Wielkiego Sędziego i na wieki zjednoczeni z Tobą w niebie. Módlmy się: Udziel, prosimy Cię, o Wszechmogący Boże, abyśmy my, którzy uroczyście obchodzimy święto błogosławionego Walentego, Twojego Męczennika, przez jego wstawiennictwo zostali wybawieni od wszelkiego zła, które nas zagraża. Przez Chrystusa, Pana naszego. Amen. (wymień prośbę tutaj…) Święty Walenty, orędowniku i obrońco, módl się za nami.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "sourceFacts": {
+    "starts": "February 5Feastday:February 14Birth:3rd century ADDeath:270 ADPatron saint of courtship, engagement, marriage 📱",
+    "feast": "February 14Birth:3rd century ADDeath:270 ADPatron saint of courtship, engagement, marriage 📱"
+  },
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_valentine.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "47cdd4e2cd1ca94ff728c431d0780290915306c8c0736bcc08eeb781303536c2",
+        "langs": {
+          "es": {
+            "translatedHash": "7a0a662efd384500ca4154466403da98bdba7c921f1e035954f6cefef1263b27",
+            "updatedAt": "2026-02-25T18:23:10.225Z"
+          },
+          "pl": {
+            "translatedHash": "e019a9981ee71612ff09bbd8da6486934cf7c029c33e1ce04e8d04e1911f1f85",
+            "updatedAt": "2026-02-25T18:23:10.805Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "a7eefa8fa873b90cc9f5509c940b9efc926f581ca98f18dd1696fbf67f7b7ea1",
+        "langs": {
+          "es": {
+            "translatedHash": "cb772336a944384cf54982e0982e156a28c1ce9e38e3efd1b0a9976b761bbb48",
+            "updatedAt": "2026-02-25T18:23:11.882Z"
+          },
+          "pl": {
+            "translatedHash": "f559ee0e2d1e7f08dc1476a4b9906aa132cbc7d731b3361a5bef4c535502b13b",
+            "updatedAt": "2026-02-25T18:23:13.437Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "f9b65f72d090d33f071c25f1e51e6a6c1b3edf617a9317e1f436b56673d2624b",
+        "langs": {
+          "es": {
+            "translatedHash": "1672269e22b8474dc0de0eca2b7ac868f59099c06a591bf8dfc5251c63a23424",
+            "updatedAt": "2026-02-25T18:23:17.792Z"
+          },
+          "pl": {
+            "translatedHash": "e6bfb1533bdd853dbb33e8f8fd2606d91d3ed2029873d666aa96046292b73f45",
+            "updatedAt": "2026-02-25T18:23:24.485Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "41a80498da1099e8ae4a99f4b5733692709c221e65a52524e6c29120829fc703",
+        "langs": {
+          "es": {
+            "translatedHash": "9e49403fe2205799b7f38a98183b8676b60a404aad666b1374906e4cbefe6efe",
+            "updatedAt": "2026-02-25T18:23:29.395Z"
+          },
+          "pl": {
+            "translatedHash": "7b48d46b96fd2b33a62c2f6b2bf4c1557d0bddff9075e87335b3750e91b38b56",
+            "updatedAt": "2026-02-25T18:23:36.052Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "41b013271a350d5c2a2a3038bb2e191750f56dbecdaaad572e8d67f6fd834616",
+        "langs": {
+          "es": {
+            "translatedHash": "3fee60b26b674f1525a71eb88191906fce3f4b91648365e40dd10f5b2e06c5b7",
+            "updatedAt": "2026-02-25T18:23:40.339Z"
+          },
+          "pl": {
+            "translatedHash": "31e6e8483af8ecbb7948747591137790bd5722b44971290d1911f73964e77c94",
+            "updatedAt": "2026-02-25T18:23:47.463Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "a7a76c694c02cd7dd4f647aa362b75b3778a4f66e01df207d664bb42b126d6dd",
+        "langs": {
+          "es": {
+            "translatedHash": "9101b285d83967431663f65f4e27972c9f24ce01bf4d08f7b71d337274e6f1d6",
+            "updatedAt": "2026-02-25T18:23:52.228Z"
+          },
+          "pl": {
+            "translatedHash": "ddf14b0c0fa0c777c183a45d3b5f37f29e97dcde634c32108b47f9bfdbfc7053",
+            "updatedAt": "2026-02-25T18:23:57.300Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "b72a3806414cf8d1f231e4160ea1da47be79ec7a64f31fba51c7ac587bd7b9a2",
+        "langs": {
+          "es": {
+            "translatedHash": "6d3619c67bf456572ac1ffc1cffb0d88968351e7f799266465bbfdf6a0e6492b",
+            "updatedAt": "2026-02-25T18:24:01.265Z"
+          },
+          "pl": {
+            "translatedHash": "a04e9bd34bbb66945c70cae0cd7aea7e93d61da3f1d6b44ba8b4938e69c5a45f",
+            "updatedAt": "2026-02-25T18:24:07.957Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "04bac58a5a6119f8a8b8998a7ce655207358c6de8819b1f432a43c5cf2a15b14",
+        "langs": {
+          "es": {
+            "translatedHash": "08a6bf492a12d12110cd2a00a2df3098d88932a372079feea89cfd5df0eafe04",
+            "updatedAt": "2026-02-25T18:24:11.807Z"
+          },
+          "pl": {
+            "translatedHash": "8cb992171ec16272c89e4df4e4f974023830dc6ea14b047f09c9e1dcff5d322e",
+            "updatedAt": "2026-02-25T18:24:17.772Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "320f97ff3e327da36eadb1985f18e27bdfae88b2e625fbdb0e06580a08373f7d",
+        "langs": {
+          "es": {
+            "translatedHash": "6e8c03cca806ac88a245939a4211efe19457fad28d1c889243552c47edee238a",
+            "updatedAt": "2026-02-25T18:24:23.257Z"
+          },
+          "pl": {
+            "translatedHash": "5dc52139becc03f726ed1ffac230cb7c1b603e67a0928d950f7ba85bd616db78",
+            "updatedAt": "2026-02-25T18:24:28.596Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "60311a971f3104afb0f7ecaecc8afb2f50a20451dad9992da5b2e596dee8806c",
+        "langs": {
+          "es": {
+            "translatedHash": "4593771971783e32118d5ca977bcb0bd38e21a5d8bda0143cd2dc29a925da002",
+            "updatedAt": "2026-02-25T18:24:33.476Z"
+          },
+          "pl": {
+            "translatedHash": "24742474de5359798a9affb8c493cccdd7cb50a72a99684d22368ff1803e6729",
+            "updatedAt": "2026-02-25T18:24:40.182Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "b59c3dc9e1ceb36ef7372897048d3b983f54e459d57afa67d571095206345385",
+        "langs": {
+          "es": {
+            "translatedHash": "774947f8a67e77da22ebda20c510b4ec03d9013093600ed4f12ae69a5a35b35c",
+            "updatedAt": "2026-02-25T18:24:44.840Z"
+          },
+          "pl": {
+            "translatedHash": "4f6e0f349cde82d0bbfa08519226950ca3fccd28f07e426083a5316de18c5fd4",
+            "updatedAt": "2026-02-25T18:24:51.693Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena a San Valentín",
+  "title_pl": "Nowenna do św. Walentego",
+  "description_es": "San Valentín fue un sacerdote o obispo que vivió en el siglo III, consoló a los cristianos perseguidos y dio su vida en el martirio. Es el santo patrón de las parejas comprometidas y los matrimonios.",
+  "description_pl": "Święty Walenty był kapłanem lub biskupem, który żył w III wieku, pocieszał prześladowanych chrześcijan i oddał życie jako męczennik.  \nJest patronem narzeczonych i małżeństw.",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": []
+}

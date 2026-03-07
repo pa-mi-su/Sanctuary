@@ -1,0 +1,79 @@
+{
+  "id": "06-10_saint_margaret",
+  "name": "Saint Margaret",
+  "mmdd": "06-10",
+  "feast": "The Tenth Day of June",
+  "summary": "Margaret, known as Margaret of Antioch in the West, and as Saint Marina the Great Martyr in the East, is celebrated as a saint on 20 July in Western Christianity, on 30th of July by the Eastern Orthodox Church, and on Epip 23 and Hathor 23 in the Coptic Orthodox Church. The teenage Margaret is said to have been tortured and beheaded when she refused to renounce Christianity and give her virginity to a Roman official in the 4th century. She was reputed to have promised very powerful indulgences to those who wrote or read her life or invoked her intercessions; these no doubt helped the spread of her following. Margaret is one of the Fourteen Holy Helpers in Roman Catholic tradition.",
+  "biography": "Margaret, known as Margaret of Antioch in the West, and as Saint Marina the Great Martyr (Ancient Greek: Ἁγία Μαρίνα) in the East, is celebrated as a saint on 20 July in Western Christianity, on 30th of July (Julian calendar) by the Eastern Orthodox Church, and on Epip 23 and Hathor 23 in the Coptic Orthodox Church. The teenage Margaret is said to have been tortured and beheaded when she refused to renounce Christianity and give her virginity to a Roman official in the 4th century. She was reputed to have promised very powerful indulgences to those who wrote or read her life or invoked her intercessions; these no doubt helped the spread of her following. Margaret is one of the Fourteen Holy Helpers in Roman Catholic tradition. Hagiography According to a 9th-century martyrology of Rabanus Maurus, Margaret suffered at Antioch in Pisidia (in what is now Turkey) in c. 304, during the Diocletianic Persecution. She was the daughter of a pagan priest named Aedesius. Her mother having died soon after her birth, Margaret was nursed by a Christian woman five or six leagues (15 to 18 miles (24 to 29 km)) from Antioch. Having embraced Christianity and consecrated her virginity to God, Margaret...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Margaret_the_Virgin",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-10_saint_margaret.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "81766383750f4b402ff13281ff2c0174925b152455a292770908456ddcd07e57",
+        "langs": {
+          "es": {
+            "translatedHash": "dc103536217a52680014c07e334205ad4e4e39e91394728558726b156f8c6894",
+            "updatedAt": "2026-02-24T23:40:39.599Z"
+          },
+          "pl": {
+            "translatedHash": "61d89ab205b4a8e65a9c3f2fe18a6b288fc060229d5fd8843584530216746755",
+            "updatedAt": "2026-02-24T23:40:40.289Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b3364c48ebbbbf73b311828dc86a254513babbb2ed3fca20293c27c34233a98f",
+        "langs": {
+          "es": {
+            "translatedHash": "b0f18d09f1aef2e4b0234db9b3d93d751d6fe185e67c92ceb70f92abf2740040",
+            "updatedAt": "2026-02-24T23:40:41.328Z"
+          },
+          "pl": {
+            "translatedHash": "d0e7821a0168ff0b30c5e968ed697f9f6a2bd183762434e816094e8b49a512db",
+            "updatedAt": "2026-02-24T23:40:44.025Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "acba12d0c9c313c629c2f6c5e301d3404b3b1ca6fa2fd73ecbdf54ab483e55f0",
+        "langs": {
+          "es": {
+            "translatedHash": "cba7e26cd73a395a31974b9bc2234354b646f88076b07f40638e7403cab48980",
+            "updatedAt": "2026-02-24T23:40:46.717Z"
+          },
+          "pl": {
+            "translatedHash": "aa6f6820fdb5ff376724e351d95308f73000eddb9096da779f84ed3f1e2ed853",
+            "updatedAt": "2026-02-24T23:40:50.151Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "1cba095a8aa5ce6961298c38d082aed53496b4dc16c258a93cc89cd7a933c8ae",
+        "langs": {
+          "es": {
+            "translatedHash": "e20d4fff340ce9b457060699f04d0d765063b1f7337c4701716428681762f3ce",
+            "updatedAt": "2026-02-24T23:40:56.382Z"
+          },
+          "pl": {
+            "translatedHash": "500d5cf29cbe7c19b5fedd563f36d7650d9fc935b78e2c0a59fac06ade76d22f",
+            "updatedAt": "2026-02-24T23:41:03.405Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Margarita",
+  "name_pl": "Święta Małgorzata",
+  "feast_es": "El Día Diez de Junio",
+  "feast_pl": "Dziesiąty dzień czerwca",
+  "summary_es": "Margarita, conocida como Margarita de Antioquía en Occidente, y como Santa Marina la Gran Mártir en Oriente, es celebrada como santa el 20 de julio en el cristianismo occidental, el 30 de julio por la Iglesia Ortodoxa Oriental, y en Epip 23 y Hathor 23 en la Iglesia Ortodoxa Copta. \n\nSe dice que la adolescente Margarita fue torturada y decapitada cuando se negó a renunciar al cristianismo y a entregar su virginidad a un funcionario romano en el siglo IV. Se le atribuye la promesa de indulgencias muy poderosas a quienes escribieran o leyeran su vida o invocaran sus intercesiones; sin duda, estas ayudaron a la difusión de su devoción. \n\nMargarita es una de las Catorce Auxiliadoras en la tradición católica romana.",
+  "summary_pl": "Małgorzata, znana na Zachodzie jako Małgorzata Antiochijska, a na Wschodzie jako święta Marina Wielka Męczennica, jest czczona jako święta 20 lipca w chrześcijaństwie zachodnim, 30 lipca przez Kościół prawosławny oraz 23 Epip i 23 Hathor w Kościele koptyjskim. Nastolatka Małgorzata miała zostać torturowana i ścięta, gdy odmówiła wyrzeczenia się chrześcijaństwa i oddania swojej dziewictwa rzymskiemu urzędnikowi w IV wieku. Przypisywano jej obietnicę bardzo potężnych odpustów tym, którzy napisali lub czytali jej żywot albo wzywali jej wstawiennictwa; bez wątpienia przyczyniło się to do rozprzestrzenienia jej kultu. Małgorzata jest jedną z Czternastu Świętych Wspomożycieli w tradycji rzymskokatolickiej.",
+  "biography_es": "Margarita, conocida como Margarita de Antioquía en Occidente, y como Santa Marina la Gran Mártir (griego antiguo: Ἁγία Μαρίνα) en Oriente, es celebrada como santa el 20 de julio en el cristianismo occidental, el 30 de julio (calendario juliano) por la Iglesia Ortodoxa Oriental, y el 23 de Epip y 23 de Hathor en la Iglesia Ortodoxa Copta. Se dice que la adolescente Margarita fue torturada y decapitada cuando se negó a renunciar al cristianismo y a entregar su virginidad a un funcionario romano en el siglo IV. Se le atribuye la promesa de indulgencias muy poderosas a quienes escribieran o leyeran su vida o invocaran sus intercesiones; sin duda, estas ayudaron a la difusión de su devoción. Margarita es una de las Catorce Auxiliadoras en la tradición católica romana.\n\nHagiografía  \nSegún un martirologio del siglo IX de Rabanus Maurus, Margarita sufrió en Antioquía de Pisidia (en lo que hoy es Turquía) alrededor del año 304, durante la persecución de Diocleciano. Era hija de un sacerdote pagano llamado Edesio. Su madre murió poco después de su nacimiento, y Margarita fue amamantada por una mujer cristiana a cinco o seis leguas (15 a 18 millas (24 a 29 km)) de Antioquía. Habiendo abrazado el cristianismo y consagrado su virginidad a Dios, Margarita...",
+  "biography_pl": "Małgorzata, znana na Zachodzie jako Małgorzata Antiochijska, a na Wschodzie jako Święta Marina Wielka Męczennica (starogrecki: Ἁγία Μαρίνα), jest czczona jako święta 20 lipca w chrześcijaństwie zachodnim, 30 lipca (według kalendarza juliańskiego) przez Kościół prawosławny oraz 23 Epip i 23 Hathor w Kościele koptyjskim. Nastolatka Małgorzata miała zostać torturowana i ścięta, gdy odmówiła wyrzeczenia się chrześcijaństwa i oddania swojej dziewictwa rzymskiemu urzędnikowi w IV wieku. Przypisywano jej obietnicę bardzo potężnych odpustów tym, którzy napisali lub czytali jej żywot lub wzywali jej wstawiennictwa; bez wątpienia pomogło to w rozprzestrzenianiu się jej kultu. Małgorzata jest jedną z Czternastu Świętych Wspomożycieli w tradycji rzymskokatolickiej.\n\nHagiografia  \nWedług martyrologium z IX wieku autorstwa Rabana Maurusa, Małgorzata poniosła męczeństwo w Antiochii w Pizydii (na terenie dzisiejszej Turcji) około roku 304, podczas prześladowań Dioklecjana. Była córką pogańskiego kapłana o imieniu Aedesjusz. Jej matka zmarła wkrótce po jej narodzinach, a Małgorzata była karmiona przez chrześcijańską kobietę oddaloną o pięć lub sześć lig (15 do 18 mil, 24 do 29 km) od Antiochii. Przyjęwszy chrześcijaństwo i poświęcając swoje dziewictwo Bogu, Małgorzata..."
+}

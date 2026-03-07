@@ -1,0 +1,80 @@
+{
+  "id": "03-30_saint_alexander",
+  "name": "Saint Alexander",
+  "mmdd": "03-30",
+  "feast": "The Thirtieth Day of March",
+  "summary": "Alexander Schmorell, also sometimes referred to as Saint Alexander of Munich, was a Russian-German student at Munich University who, with five others, formed a resistance group known as White Rose which was active against the Nazi German regime from June 1942 to February 1943.",
+  "biography": "Early life\nAlexander Schmorell was born in Orenburg, Russia, on 16 September [O.S. 3 September] 1917 (Russia still used the Julian calendar when he was born). Schmorell's father was Hugo Schmorell, a German-born physician who was raised in the Russian Empire. Schmorell's mother was Natalia Vedenskaya, a Russian and the daughter of a Russian Orthodox priest. Schmorell was baptised in the Russian Orthodox Church. His mother died of typhus during the Russian Civil War when he was two years old. In 1920, his widowed father married a German woman, Elisabeth Hoffman, who, like him, was raised in Russia. In 1921 the family fled from Russia and moved...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_Schmorell",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-30_saint_alexander.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "39cd4f8bd5ff069f214f4f577127e2119ff4eeff1236c00dfa29523fd4e551d2",
+        "langs": {
+          "es": {
+            "translatedHash": "c8b5a908cbb9ad1ed564b00b7edf7e036f359e568615bb2312320a676a319b88",
+            "updatedAt": "2026-02-24T23:01:14.399Z"
+          },
+          "pl": {
+            "translatedHash": "9324361b30facf8a48aa3d17ec4c6a6ab80cef0bd63f2e0b5375485074c65a66",
+            "updatedAt": "2026-02-24T23:01:15.054Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "b39466fd8d777f9261770b63d61ba22dc7cb8f32cdbbf8ca426d6c40fec1db0d",
+        "langs": {
+          "es": {
+            "translatedHash": "9733762f12c4b6eed7629b7194dd5d608d7c5cd98fc0ce59fbc1fb5d1f35b007",
+            "updatedAt": "2026-02-24T23:01:16.426Z"
+          },
+          "pl": {
+            "translatedHash": "9c1a2f2cd8dfc4afd80d3708f754c2a1c66f9c5ae310408460025676f26fe236",
+            "updatedAt": "2026-02-24T23:01:17.093Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "9d0cc8145efc27a04d5719e60e15fb00666c2af59ff7ee85e247588c9edcfd37",
+        "langs": {
+          "es": {
+            "translatedHash": "6297addd25b59dc5b8b8a03096c72d2a81dc7473564e79a5f52ed68fc0bdcab2",
+            "updatedAt": "2026-02-24T23:01:18.397Z"
+          },
+          "pl": {
+            "translatedHash": "67a4d927e4c788178c1f2dcb2e4c7954fd146d6255f57f985e4582ce54729716",
+            "updatedAt": "2026-02-24T23:01:21.119Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "a2603ab548e49e6bf45ca8c28cd0eb1574bab8f5aa9743674858cbbd6bbf1cfb",
+        "langs": {
+          "es": {
+            "translatedHash": "5c6f8de4e9da279247ecfc96ab4fd5fac63f2b607dd41c49b05a081af0db679e",
+            "updatedAt": "2026-02-24T23:01:24.227Z"
+          },
+          "pl": {
+            "translatedHash": "f6e20af2c613f78a96bf18d7d8797d4174f65663c7285a6f076875fc19bb20ae",
+            "updatedAt": "2026-02-24T23:01:28.081Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Alejandro",
+  "name_pl": "Święty Aleksander",
+  "feast_es": "El Trigésimo Día de Marzo",
+  "feast_pl": "Trzydziesty dzień marca",
+  "summary_es": "Alexander Schmorell, también a veces referido como San Alexander de Múnich, fue un estudiante ruso-alemán en la Universidad de Múnich que, junto con otros cinco, formó un grupo de resistencia conocido como Rosa Blanca, activo contra el régimen nazi alemán desde junio de 1942 hasta febrero de 1943.",
+  "summary_pl": "Alexander Schmorell, czasami nazywany również świętym Aleksandrem z Monachium, był rosyjsko-niemieckim studentem Uniwersytetu Monachijskiego, który wraz z pięcioma innymi utworzył grupę oporu znaną jako Biała Róża, działającą przeciwko nazistowskiemu reżimowi niemieckiemu od czerwca 1942 do lutego 1943.",
+  "biography_es": "Primera juventud  \nAlexander Schmorell nació en Orenburg, Rusia, el 16 de septiembre [O.S. 3 de septiembre] de 1917 (Rusia aún usaba el calendario juliano cuando él nació). El padre de Schmorell fue Hugo Schmorell, un médico nacido en Alemania que se crió en el Imperio ruso. La madre de Schmorell fue Natalia Vedenskaya, rusa y hija de un sacerdote ortodoxo ruso. Schmorell fue bautizado en la Iglesia Ortodoxa Rusa. Su madre murió de tifus durante la Guerra Civil Rusa cuando él tenía dos años. En 1920, su padre viudo se casó con una mujer alemana, Elisabeth Hoffman, quien, al igual que él, se crió en Rusia. En 1921 la familia huyó de Rusia y se mudó...",
+  "biography_pl": "Wczesne życie  \nAlexander Schmorell urodził się w Orenburgu w Rosji, 16 września [stary styl 3 września] 1917 roku (Rosja wciąż używała kalendarza juliańskiego, gdy się urodził). Ojcem Schmorella był Hugo Schmorell, lekarz urodzony w Niemczech, wychowany w Imperium Rosyjskim. Matką Schmorella była Natalia Vedenskaya, Rosjanka i córka rosyjskiego duchownego prawosławnego. Schmorell został ochrzczony w Kościele prawosławnym. Jego matka zmarła na tyfus podczas wojny domowej w Rosji, gdy miał dwa lata. W 1920 roku jego owdowiały ojciec poślubił Niemkę, Elisabeth Hoffman, która podobnie jak on wychowała się w Rosji. W 1921 roku rodzina uciekła z Rosji i przeprowadziła się..."
+}

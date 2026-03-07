@@ -1,0 +1,79 @@
+{
+  "id": "03-15_saint_longinus",
+  "name": "Saint Longinus",
+  "mmdd": "03-15",
+  "feast": "The Fifteenth Day of March",
+  "summary": "Longinus is the name of the Roman soldier who pierced the side of Jesus with a lance, who in apostolic and some modern Christian traditions is described as a convert to Christianity. His name first appeared in the apocryphal Gospel of Nicodemus. The lance is called in Catholic Christianity the \"Holy Lance\" (lancea) and the story is related in the Gospel of John during the Crucifixion. This act is said to have created the last of the Five Holy Wounds of Christ.",
+  "biography": "Origins\nNo name for this soldier is given in the canonical Gospels; the name Longinus is instead found in the apocryphal Gospel of Nicodemus. Longinus was not originally a saint in Christian tradition....",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longinus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-15_saint_longinus.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "eefa84a5033c46d664f5ba27f64a011d4baf03de57b830eb3e9edc587d6fd6ca",
+        "langs": {
+          "es": {
+            "translatedHash": "b2cf9332abc9ebd2e4548f7d63cc156c5b4e302ff79c83050b1f4220bc5707b6",
+            "updatedAt": "2026-02-24T22:53:56.568Z"
+          },
+          "pl": {
+            "translatedHash": "171535a54165527e6a94add43ef6b0b3826c51e15759cca1d5943f47f3651dc1",
+            "updatedAt": "2026-02-24T22:53:57.070Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c0049843dceed96f94591b95661bbfbb5eca573d79205af9170cc9df1482d984",
+        "langs": {
+          "es": {
+            "translatedHash": "7abbb9c57a0f9379aa4cba016816d8b29e8ba858e88cf1a2695bb76914083dc4",
+            "updatedAt": "2026-02-24T22:53:58.290Z"
+          },
+          "pl": {
+            "translatedHash": "56abb141da42654440903d90931750c6df2a1e5a5fdde7829e79fab95ecb5559",
+            "updatedAt": "2026-02-24T22:53:59.176Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "72d81f3b0bb5702be220ea589f8cdd2f838001bf2c6bc50c88dd8704b2dca90b",
+        "langs": {
+          "es": {
+            "translatedHash": "eea381cf0ff93cc8eaf0b00c15c2129f24c3c113f4c42f285eb5eb7edc6d56ea",
+            "updatedAt": "2026-02-24T22:54:01.071Z"
+          },
+          "pl": {
+            "translatedHash": "4b5ecf831b0396b93a2aff33a9d08ca67bf28a10f6a6dab9be2df813f6016c8d",
+            "updatedAt": "2026-02-24T22:54:04.386Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6435b3b35ea55c56330a44b2909c122d949b4604b92bf36017e4d3034ba995cf",
+        "langs": {
+          "es": {
+            "translatedHash": "29b0a54e0b12a89cafcdc5790151ea7873465252ac8bcf9a22141d5baafc08d1",
+            "updatedAt": "2026-02-24T22:54:05.570Z"
+          },
+          "pl": {
+            "translatedHash": "2cc7fb8a6f8c24ea53e440cfc3afb4c954a4f1ffe194543944e86746430c17e1",
+            "updatedAt": "2026-02-24T22:54:07.139Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Longino",
+  "name_pl": "Święty Longinus",
+  "feast_es": "El Quince de Marzo",
+  "feast_pl": "Piętnasty Dzień Marca",
+  "summary_es": "Longino es el nombre del soldado romano que atravesó el costado de Jesús con una lanza, quien en las tradiciones apostólicas y algunas tradiciones cristianas modernas es descrito como un converso al cristianismo. Su nombre apareció por primera vez en el Evangelio apócrifo de Nicodemo. La lanza es llamada en el cristianismo católico la \"Lanza Santa\" (lancea) y la historia se relata en el Evangelio de Juan durante la Crucifixión. Se dice que este acto creó la última de las Cinco Llagas Santas de Cristo.",
+  "summary_pl": "Longin to imię rzymskiego żołnierza, który przebił bok Jezusa włócznią, a który w tradycjach apostolskich i niektórych współczesnych tradycjach chrześcijańskich jest opisywany jako nawrócony na chrześcijaństwo. Jego imię pojawiło się po raz pierwszy w apokryficznym Ewangelii Nikodema. Włócznia nazywana jest w katolickim chrześcijaństwie „Świętą Włócznią” (lancea), a historia ta jest opowiedziana w Ewangelii św. Jana podczas Ukrzyżowania. Mówi się, że ten czyn stworzył ostatnią z Pięciu Świętych Ran Chrystusa.",
+  "biography_es": "Orígenes  \nNo se da ningún nombre para este soldado en los Evangelios canónicos; el nombre Longino se encuentra en cambio en el Evangelio apócrifo de Nicodemo. Longino no fue originalmente un santo en la tradición cristiana....",
+  "biography_pl": "Pochodzenie  \nW kanonicznych Ewangeliach nie podano imienia tego żołnierza; imię Longinus pojawia się natomiast w apokryficznej Ewangelii Nikodema. Longinus nie był pierwotnie świętym w tradycji chrześcijańskiej...."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-26_saints_cosmas_and_damian_martyrs_optional_memorial",
+  "name": "Saints Cosmas and Damian, Martyrs—Optional Memorial",
+  "mmdd": "09-26",
+  "feast": "The Twenty-Sixth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Cosmas_and_St._Damian%2C_Martyrs_Met_DP891135.jpg"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-26_saints_cosmas_and_damian_martyrs_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "e4a3fdc602397bcab5aef3bb2bbaaafddfb142eb4ef3ae6e4c8f128bad8147dd",
+        "langs": {
+          "es": {
+            "translatedHash": "e08fc4bd3a58c391bd90407137e91625a5154df2f6fa73cb807e193ea6ed2d52",
+            "updatedAt": "2026-02-25T00:38:33.877Z"
+          },
+          "pl": {
+            "translatedHash": "94e5d022ace32852492eed3346304f0476279dd6034c10b0a1a0e0fbe5dc334c",
+            "updatedAt": "2026-02-25T00:38:35.547Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "c505822439f07b88b311f6e57d726aec835711e737bb9a5c8c9e35a39bfa3fbc",
+        "langs": {
+          "es": {
+            "translatedHash": "1cc37ccdd82b1b28e96d8b8465367b3d6123fa298732806b3cc01698ffd3d081",
+            "updatedAt": "2026-02-25T00:38:36.328Z"
+          },
+          "pl": {
+            "translatedHash": "7581dffaba8aab036162ebb3d935d8f79d853e4d2a78ab47f6dfaa064cb91f65",
+            "updatedAt": "2026-02-25T00:38:37.040Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Cosme y Damián, Mártires—Memoria Opcional",
+  "name_pl": "Święci Kozma i Damian, Męczennicy — Wspomnienie dowolne",
+  "feast_es": "El Vigésimo Sexto Día de Septiembre",
+  "feast_pl": "Dwudziesty szósty dzień września"
+}

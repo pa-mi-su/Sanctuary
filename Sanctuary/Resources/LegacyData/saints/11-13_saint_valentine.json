@@ -1,0 +1,79 @@
+{
+  "id": "11-13_saint_valentine",
+  "name": "Saint Valentine",
+  "mmdd": "11-13",
+  "feast": "The Thirteenth Day of November",
+  "summary": "Saint Valentine was a 3rd-century Roman saint, commemorated in Western Christianity on February 14 and in Eastern Orthodoxy on July 6. From the High Middle Ages, his feast day has been associated with a tradition of courtly love. He is also a patron saint of Terni, epilepsy, and beekeepers. Saint Valentine was a clergyman – either a priest or a bishop – in the Roman Empire who ministered to persecuted Christians. He was martyred and his body buried on the Via Flaminia on February 14, which has been observed as the Feast of Saint Valentine since at least the eighth century.",
+  "biography": "Saint Valentine (Italian: Valentino; Latin: Valentinus) was a 3rd-century Roman saint, commemorated in Western Christianity on February 14 and in Eastern Orthodoxy on July 6. From the High Middle Ages, his feast day has been associated with a tradition of courtly love. He is also a patron saint of Terni, epilepsy, and beekeepers. Saint Valentine was a clergyman – either a priest or a bishop – in the Roman Empire who ministered to persecuted Christians. He was martyred and his body buried on the Via Flaminia on February 14, which has been observed as the Feast of Saint Valentine (Saint Valentine's Day) since at least the eighth century.\nRelics of him were kept in the Church and Catacombs of San Valentino in Rome, which \"remained an important pilgrim site throughout the Middle Ages until the relics of St. Valentine were transferred to the church of Santa Prassede during the pontificate of Nicholas IV\". His skull, crowned with flowers, is exhibited in the Basilica of Santa Maria in Cosmedin, Rome. Other relics of him are in Whitefriar Street Carmelite Church, Dublin, Ireland, a popular place of pilgrimage, especially on Saint Valentine's Day, for those seeking love. At least two different...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Valentine",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-13_saint_valentine.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "6b573e742fe457bd02d1ed1fa3e3262da943e3e7c82fd13912af7d3e70607be3",
+        "langs": {
+          "es": {
+            "translatedHash": "4190d42004eefe19e644647cef092ab60ab5e48eebe79940bcf0dfaba6e791a3",
+            "updatedAt": "2026-02-25T01:07:15.135Z"
+          },
+          "pl": {
+            "translatedHash": "c6fd594c5a728cc38c6907ec8093c9710330bb904cf71a0900c73c3a10f8c4a3",
+            "updatedAt": "2026-02-25T01:07:15.973Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "54861fc5f0610f947c96f1f5fcf481a218eaab57dc53d7886c5778226bf0891a",
+        "langs": {
+          "es": {
+            "translatedHash": "64640f2bd18da0e551900f85dd94a99e4fa120a8a45ca9155c61f573741c8fbd",
+            "updatedAt": "2026-02-25T01:07:17.047Z"
+          },
+          "pl": {
+            "translatedHash": "9509626f6ab2388b814a2de0cdee9fdaf25fceba83dd82c3876b359213a0f08c",
+            "updatedAt": "2026-02-25T01:07:18.090Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "8117f6d48a2648b6c83dc56e3acd60b65b302b65cebcadd2a8a880d10fb3ad4e",
+        "langs": {
+          "es": {
+            "translatedHash": "d5a16a986e2e56f65ecdafaad33ac8657ca1c794a89fa5c63c84546d7f302728",
+            "updatedAt": "2026-02-25T01:07:20.447Z"
+          },
+          "pl": {
+            "translatedHash": "c82769fb193f6242264454e52baeec7f3107444b0ecc0540fcfa35a6d3bef0b7",
+            "updatedAt": "2026-02-25T01:07:23.127Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "73d1e5d9b4fcadfefa3cc432c8df24fbf47aa5f2e45645466182fe9846fa5fef",
+        "langs": {
+          "es": {
+            "translatedHash": "ceea3e0d74f4b28fe2dcbb7dd14198a65d4c71f087df33c38a67124495f0151f",
+            "updatedAt": "2026-02-25T01:07:28.074Z"
+          },
+          "pl": {
+            "translatedHash": "16fb3688c2e4111c5a9923bf9af0cb6926c4e8d7417488cdc0956fd61a57c64d",
+            "updatedAt": "2026-02-25T01:07:38.650Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Valentín",
+  "name_pl": "Święty Walenty",
+  "feast_es": "El Decimotercer Día de Noviembre",
+  "feast_pl": "Trzynasty dzień listopada",
+  "summary_es": "San Valentín fue un santo romano del siglo III, conmemorado en la cristiandad occidental el 14 de febrero y en la ortodoxia oriental el 6 de julio. Desde la Alta Edad Media, su día festivo se ha asociado con una tradición de amor cortés. También es santo patrón de Terni, de la epilepsia y de los apicultores. San Valentín fue un clérigo —ya sea sacerdote o obispo— en el Imperio Romano que ministraba a los cristianos perseguidos. Fue martirizado y su cuerpo enterrado en la Vía Flaminia el 14 de febrero, fecha que se ha observado como la Fiesta de San Valentín desde al menos el siglo VIII.",
+  "summary_pl": "Święty Walenty był rzymskim świętym III wieku, wspominanym w chrześcijaństwie zachodnim 14 lutego, a w prawosławiu wschodnim 6 lipca. Od wysokiego średniowiecza jego dzień obchodów związany jest z tradycją miłości dworskiej. Jest także patronem Terni, osób chorych na epilepsję oraz pszczelarzy. Święty Walenty był duchownym – kapłanem lub biskupem – w Cesarstwie Rzymskim, który posługiwał prześladowanym chrześcijanom. Został zamęczony na śmierć, a jego ciało pochowano przy Via Flaminia 14 lutego, co od co najmniej VIII wieku obchodzone jest jako święto św. Walentego.",
+  "biography_es": "San Valentín (italiano: Valentino; latín: Valentinus) fue un santo romano del siglo III, conmemorado en la cristiandad occidental el 14 de febrero y en la ortodoxia oriental el 6 de julio. Desde la Alta Edad Media, su día festivo se ha asociado con una tradición de amor cortés. También es santo patrón de Terni, de la epilepsia y de los apicultores. San Valentín fue un clérigo —ya sea sacerdote o obispo— en el Imperio Romano que ministraba a cristianos perseguidos. Fue martirizado y su cuerpo enterrado en la Vía Flaminia el 14 de febrero, día que se ha observado como la Fiesta de San Valentín (Día de San Valentín) desde al menos el siglo VIII.\n\nSus reliquias se conservaron en la Iglesia y Catacumbas de San Valentino en Roma, que \"permanecieron un importante lugar de peregrinación durante toda la Edad Media hasta que las reliquias de San Valentín fueron trasladadas a la iglesia de Santa Práxedes durante el pontificado de Nicolás IV\". Su cráneo, coronado con flores, se exhibe en la Basílica de Santa María en Cosmedin, Roma. Otras reliquias suyas se encuentran en la Iglesia Carmelita de Whitefriar Street, Dublín, Irlanda, un lugar popular de peregrinación, especialmente en el Día de San Valentín, para quienes buscan el amor. Al menos dos diferentes...",
+  "biography_pl": "Święty Walenty (włoski: Valentino; łacina: Valentinus) był rzymskim świętym z III wieku, wspominanym w Kościele Zachodnim 14 lutego, a w Kościele Wschodnim 6 lipca. Od wysokiego średniowiecza jego dzień obchodów związany jest z tradycją miłości dworskiej. Jest również patronem miasta Terni, osób cierpiących na epilepsję oraz pszczelarzy. Święty Walenty był duchownym – kapłanem lub biskupem – w Cesarstwie Rzymskim, który posługiwał prześladowanym chrześcijanom. Został zamęczony na śmierć, a jego ciało pochowano przy Via Flaminia 14 lutego, co od co najmniej VIII wieku obchodzone jest jako Uroczystość św. Walentego (Dzień św. Walentego).\n\nJego relikwie przechowywano w Kościele i Katakumbach San Valentino w Rzymie, które „pozostały ważnym miejscem pielgrzymek przez całe średniowiecze, aż do przeniesienia relikwii św. Walentego do kościoła Santa Prassede za pontyfikatu Mikołaja IV”. Jego czaszka, ozdobiona kwiatami, jest wystawiona w Bazylice Santa Maria in Cosmedin w Rzymie. Inne jego relikwie znajdują się w Kościele Karmelitów na Whitefriar Street w Dublinie w Irlandii, popularnym miejscu pielgrzymek, zwłaszcza w Dzień św. Walentego, dla osób poszukujących miłości. Co najmniej dwie różne..."
+}

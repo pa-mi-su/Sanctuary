@@ -1,0 +1,80 @@
+{
+  "id": "12-12_saint_synesius",
+  "name": "Saint Synesius",
+  "mmdd": "12-12",
+  "feast": "The Twelfth Day of December",
+  "summary": "Year 373 (CCCLXXIII) was a common year starting on Tuesday of the Julian calendar. At the time, it was known as the Year of the Consulship of Augustus and Valens.",
+  "biography": "Year 373 (CCCLXXIII) was a common year starting on Tuesday of the Julian calendar. At the time, it was known as the Year of the Consulship of Augustus and Valens. The denomination 373 for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/L%C3%A9once_Fabre_des_Essarts",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/373"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-12_saint_synesius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "9625a92487774037b859645de9fbea871afce82f5f2514accb59350911f4ac81",
+        "langs": {
+          "es": {
+            "translatedHash": "275b9ea5721490ec76c11da73f499a73ab893222d96dac4aa3b34a503c0bd056",
+            "updatedAt": "2026-02-25T01:24:56.320Z"
+          },
+          "pl": {
+            "translatedHash": "845e7296e49e056633472ab4617ae0cc40460cc841d8dbd86db9108af27ecf44",
+            "updatedAt": "2026-02-25T01:24:56.965Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "435353312e1e249425021a38573de85e2fb8aef929b3c552b25a787dad8d0439",
+        "langs": {
+          "es": {
+            "translatedHash": "ce2782bd43fa90ac5010de276cba4b3196a3bf291c52f5a96ccebc969ef73251",
+            "updatedAt": "2026-02-25T01:24:57.659Z"
+          },
+          "pl": {
+            "translatedHash": "0bd55adca1bbd1c66ea19e4016ee29c0f1b7cc83f4a2e86b5a9500b566f16406",
+            "updatedAt": "2026-02-25T01:24:59.370Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "569b787f9fa5f0df74c343037bb3eaccd75de1ab9951fe6a10736695c0088039",
+        "langs": {
+          "es": {
+            "translatedHash": "1d0751a399c94a9cee4a31e4b5d1b5291662c124d081f08f27a276caa9ce85a3",
+            "updatedAt": "2026-02-25T01:25:00.594Z"
+          },
+          "pl": {
+            "translatedHash": "baa612ef26c65619290c2c29d3b26e01197fd29540e418870a825da733b6c690",
+            "updatedAt": "2026-02-25T01:25:02.154Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "bf76a0536495f61608a6b69c69e5a1a82c292fef1d0ffd4a7bc3ebe5487f75ff",
+        "langs": {
+          "es": {
+            "translatedHash": "04279652c3e0ebcbee8234170fc310708e40b2dd6b2c74e8ccde8430fbce742f",
+            "updatedAt": "2026-02-25T01:25:04.006Z"
+          },
+          "pl": {
+            "translatedHash": "7b143292468bdce8b91d85ae0b8f70db2f02afe1422d32ad94fbd2ec4bdf7e62",
+            "updatedAt": "2026-02-25T01:25:06.154Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Sinésio",
+  "name_pl": "Święty Synesjusz",
+  "feast_es": "El Duodécimo Día de Diciembre",
+  "feast_pl": "Dwunasty Dzień Grudnia",
+  "summary_es": "El año 373 (CCCLXXIII) fue un año común que comenzó en martes según el calendario juliano. En ese tiempo, se conocía como el Año del Consulado de Augusto y Valente.",
+  "summary_pl": "Rok 373 (CCCLXXIII) był rokiem zwykłym, rozpoczynającym się we wtorek według kalendarza juliańskiego. Wówczas znany był jako Rok Konsulatu Augusta i Walensa.",
+  "biography_es": "El año 373 (CCCLXXIII) fue un año común que comenzó en martes según el calendario juliano. En ese tiempo, se conocía como el Año del Consulado de Augusto y Valente. La denominación 373 para este año se ha utilizado desde la temprana Edad Media, cuando la era del calendario Anno Domini se convirtió en el método predominante en Europa para nombrar los años.",
+  "biography_pl": "Rok 373 (CCCLXXIII) był rokiem zwykłym, który rozpoczął się we wtorek według kalendarza juliańskiego. Wówczas znany był jako Rok Konsulatu Augusta i Walensa. Oznaczenie roku 373 jest używane od wczesnego średniowiecza, kiedy to era Anno Domini stała się powszechną metodą nazywania lat w Europie."
+}

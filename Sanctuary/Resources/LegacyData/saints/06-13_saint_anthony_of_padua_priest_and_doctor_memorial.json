@@ -1,0 +1,48 @@
+{
+  "id": "06-13_saint_anthony_of_padua_priest_and_doctor_memorial",
+  "name": "Saint Anthony of Padua, Priest and Doctor—Memorial",
+  "mmdd": "06-13",
+  "feast": "The Thirteenth Day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-13_saint_anthony_of_padua_priest_and_doctor_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "36433076bc9a2e42ddd053b81fee3982e7d4e9260c64e650aaef383a8379fd97",
+        "langs": {
+          "es": {
+            "translatedHash": "b90815bbecaa98d437057055b92f29e74e964967d3464b0b0ba16ec97637f50e",
+            "updatedAt": "2026-02-24T23:42:11.055Z"
+          },
+          "pl": {
+            "translatedHash": "90e574cd90812b85025c47a55bd26509c909b1c341437a7ae0c457e2c4427024",
+            "updatedAt": "2026-02-24T23:42:11.766Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "6cec39b593ebfe64bcacdcb18607c7000ca4615a47c5a7b1550ffc4723bb65f2",
+        "langs": {
+          "es": {
+            "translatedHash": "50a6b64b5052a3f1e210cbfaf9ed91130a315dbd69dccd2286c640e11a4bcac2",
+            "updatedAt": "2026-02-24T23:42:12.611Z"
+          },
+          "pl": {
+            "translatedHash": "35e27afa2f923da318152a410504e1a2c71096e4c3b52b736119d3550b8aaf9d",
+            "updatedAt": "2026-02-24T23:42:13.446Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Antonio de Padua, Presbítero y Doctor—Memorial",
+  "name_pl": "Święty Antoni z Padwy, kapłan i doktor Kościoła — wspomnienie",
+  "feast_es": "El Decimotercer Día de Junio",
+  "feast_pl": "Trzynasty dzień czerwca"
+}

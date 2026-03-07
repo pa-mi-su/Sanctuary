@@ -1,0 +1,48 @@
+{
+  "id": "06-27_saint_cyril_of_alexandria_bishop_and_doctor_optional_memorial",
+  "name": "Saint Cyril of Alexandria, Bishop and Doctor—Optional Memorial",
+  "mmdd": "06-27",
+  "feast": "The Twenty-Seventh day of June",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-27_saint_cyril_of_alexandria_bishop_and_doctor_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "66df6d3eae22f89b34ca863dda15d6e3128912192b61d289989dde2a83a51dcf",
+        "langs": {
+          "es": {
+            "translatedHash": "fcd3bbbe0bca731ddf6a2aa39a36b0f910ca3f682e5492078eabb95bdfe3af90",
+            "updatedAt": "2026-02-24T23:49:39.513Z"
+          },
+          "pl": {
+            "translatedHash": "5ad54eeca17e3f24211c1ce67290b2a9a4150fa5a106cffee01d351c16bdffbb",
+            "updatedAt": "2026-02-24T23:49:40.517Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "ff1bdbf303387cdd1751a70e3a2fc29383113cafa221d426331dab116990bbe6",
+        "langs": {
+          "es": {
+            "translatedHash": "a98fb70f2e8d4715cdbd7b66da7b3eccd8c7eeecc0f8bd82d01410a7167a804c",
+            "updatedAt": "2026-02-24T23:49:41.060Z"
+          },
+          "pl": {
+            "translatedHash": "f0ee2c0e5f74d09e029739ceb0db4a422d3d74f0b2d066925af88e3368539b6a",
+            "updatedAt": "2026-02-24T23:49:41.969Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Cirilo de Alejandría, Obispo y Doctor—Memoria Opcional",
+  "name_pl": "Święty Cyryl Aleksandryjski, Biskup i Doktor Kościoła — Wspomnienie dowolne",
+  "feast_es": "El vigésimo séptimo día de junio",
+  "feast_pl": "Dwudziesty siódmy dzień czerwca"
+}

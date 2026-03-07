@@ -1,0 +1,79 @@
+{
+  "id": "09-15_saint_catherine_of_genoa",
+  "name": "Saint Catherine of Genoa",
+  "mmdd": "09-15",
+  "feast": "The Fifteenth Day of September",
+  "summary": "Catherine of Genoa was an Italian Catholic saint and mystic, known for her work among the sick and the poor and remembered because of various writings describing both these actions and her mystical experiences. She was a member of the noble Fieschi family, and spent most of her life and her means serving the sick, especially during the plague which ravaged Genoa in 1497 and 1501. She died in that city in 1510.",
+  "biography": "Catherine of Genoa was an Italian Catholic saint and mystic, known for her work among the sick and the poor and remembered because of various writings describing both these actions and her mystical experiences. She was a member of the noble Fieschi family, and spent most of her life and her means serving the sick, especially during the plague which ravaged Genoa in 1497 and 1501. She died in that city in 1510.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_of_Genoa",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-15_saint_catherine_of_genoa.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "48ee9dec8ab07fee9e53dc73c6c7d6b53d284e768cb8939e6ff442531c848296",
+        "langs": {
+          "es": {
+            "translatedHash": "5310f3ff459418d5322f402be2f55150ae950d60fe2f5e4e9ecfafeea78f2534",
+            "updatedAt": "2026-02-25T00:31:22.303Z"
+          },
+          "pl": {
+            "translatedHash": "f98eefe988b42fa24762ef2db31c54a38fe7122748600edd4b9f418518e5001f",
+            "updatedAt": "2026-02-25T00:31:22.926Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "07e8fc315add980aef9f3b6cc09abc5d00ac552b83834a7c2f94b15f24359f9d",
+        "langs": {
+          "es": {
+            "translatedHash": "d9abc2eeb501f432b9e9c8a7a8fb36b2d5e866d25c29208f31ce85ba1c0131ca",
+            "updatedAt": "2026-02-25T00:31:24.657Z"
+          },
+          "pl": {
+            "translatedHash": "f5896a93c7c6b0a3bcd775d5245c0fd37e660840fc999449941ab7471996b72a",
+            "updatedAt": "2026-02-25T00:31:34.065Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "862fa8c7ea90d838cfad2f9184042035cc9748dd8339a246e13a07462811b094",
+        "langs": {
+          "es": {
+            "translatedHash": "cd5e5e27ceaca7b3743840bfbae8b60fa2287ec4a069576bd042e4c8bbc5817a",
+            "updatedAt": "2026-02-25T00:31:35.974Z"
+          },
+          "pl": {
+            "translatedHash": "62fdc456f55a9c452b93a77a592c1ff0f99ddd229d3252c164f98a82875dd7da",
+            "updatedAt": "2026-02-25T00:31:38.166Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "862fa8c7ea90d838cfad2f9184042035cc9748dd8339a246e13a07462811b094",
+        "langs": {
+          "es": {
+            "translatedHash": "cd5e5e27ceaca7b3743840bfbae8b60fa2287ec4a069576bd042e4c8bbc5817a",
+            "updatedAt": "2026-02-25T00:31:40.384Z"
+          },
+          "pl": {
+            "translatedHash": "f728cedb2841bdaeb1599f83337e3dfa82b3d028f34fe06ba6484826c9bc8ea2",
+            "updatedAt": "2026-02-25T00:31:44.244Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Catalina de Génova",
+  "name_pl": "Święta Katarzyna z Genui",
+  "feast_es": "El Quince de Septiembre",
+  "feast_pl": "Piętnasty Dzień Września",
+  "summary_es": "Catalina de Génova fue una santa y mística católica italiana, conocida por su trabajo entre los enfermos y los pobres, y recordada por varios escritos que describen tanto estas acciones como sus experiencias místicas. Pertenecía a la noble familia Fieschi, y dedicó la mayor parte de su vida y sus recursos al servicio de los enfermos, especialmente durante la peste que asoló Génova en 1497 y 1501. Murió en esa ciudad en 1510.",
+  "summary_pl": "Katarzyna z Genui była włoską świętą katolicką i mistyczką, znaną ze swojej pracy wśród chorych i ubogich oraz zapamiętaną dzięki różnym pismom opisującym zarówno te działania, jak i jej doświadczenia mistyczne. Była członkinią szlachetnej rodziny Fieschi i większość swojego życia oraz środków poświęciła służbie chorym, zwłaszcza podczas zarazy, która nawiedziła Genuę w latach 1497 i 1501. Zmarła w tym mieście w 1510 roku.",
+  "biography_es": "Catalina de Génova fue una santa y mística católica italiana, conocida por su trabajo entre los enfermos y los pobres, y recordada por varios escritos que describen tanto estas acciones como sus experiencias místicas. Pertenecía a la noble familia Fieschi, y dedicó la mayor parte de su vida y sus recursos al servicio de los enfermos, especialmente durante la peste que asoló Génova en 1497 y 1501. Murió en esa ciudad en 1510.",
+  "biography_pl": "Katarzyna z Genui była włoską świętą katolicką i mistyczką, znaną ze swojej pracy wśród chorych i ubogich oraz zapamiętaną dzięki różnym pismom opisującym zarówno te działania, jak i jej doświadczenia mistyczne.  \nByła członkinią szlachetnej rodziny Fieschi i większość swojego życia oraz środków poświęciła służbie chorym, zwłaszcza podczas zarazy, która nawiedziła Genuę w latach 1497 i 1501.  \nZmarła w tym mieście w 1510 roku."
+}

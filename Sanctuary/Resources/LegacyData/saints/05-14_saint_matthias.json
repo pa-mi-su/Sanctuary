@@ -1,0 +1,79 @@
+{
+  "id": "05-14_saint_matthias",
+  "name": "Saint Matthias",
+  "mmdd": "05-14",
+  "feast": "The Fourteenth Day of May",
+  "summary": "Matthias was, according to the Acts of the Apostles, chosen by God through the apostles to replace Judas Iscariot following the latter's betrayal of Jesus and his subsequent death. His calling as an apostle is unique, in that he was selected via the casting of lots following Jesus' Ascension into Heaven, though Matthias knew Jesus throughout his earthly ministry.",
+  "biography": "Matthias was, according to the Acts of the Apostles, chosen by God through the apostles to replace Judas Iscariot following the latter's betrayal of Jesus and his subsequent death. His calling as an apostle is unique, in that he was selected via the casting of lots following Jesus' Ascension into Heaven, though Matthias knew Jesus throughout his earthly ministry.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthias_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/05-14_saint_matthias.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3ca3e94b99c8706a034d304e44fb4287d123c9fc2f113187c9e194f608eff029",
+        "langs": {
+          "es": {
+            "translatedHash": "8d5f972f9cfe53998341b8e6b126ee925c4a44bdc6a41708d3c4406a1c5d449e",
+            "updatedAt": "2026-02-24T23:25:03.684Z"
+          },
+          "pl": {
+            "translatedHash": "3d2c4665de8c05fc8fc3f5df2b61d1f8b74e993800a8409cf566c5407fb958ae",
+            "updatedAt": "2026-02-24T23:25:04.259Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4403a12d5ced2d2672858f4a7708d1c3ab9a66903b4304e72dbd69886cea7526",
+        "langs": {
+          "es": {
+            "translatedHash": "04fa5db9d508b06cd15a49a043cc23787282bb7f6786af31d99c28d36491584a",
+            "updatedAt": "2026-02-24T23:25:04.948Z"
+          },
+          "pl": {
+            "translatedHash": "8178238fb3b9eadda2a6f3a16b0486fa3e88f870937466d903895435929491fe",
+            "updatedAt": "2026-02-24T23:25:05.698Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "29ba287a129f05a4ecdd217ae1ed71e137af7a7ab6751743a16e2cbdc4c1bab8",
+        "langs": {
+          "es": {
+            "translatedHash": "207c25e173a6146dec6ccf531524bd9bc6be8420923e416be117b1089dca7b66",
+            "updatedAt": "2026-02-24T23:25:07.912Z"
+          },
+          "pl": {
+            "translatedHash": "b49ea1d86a091c21226d76c104d54b7f8052ce6217708e30450b03e1cbccd9aa",
+            "updatedAt": "2026-02-24T23:25:09.751Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "29ba287a129f05a4ecdd217ae1ed71e137af7a7ab6751743a16e2cbdc4c1bab8",
+        "langs": {
+          "es": {
+            "translatedHash": "4f83bb757347fdbe07a97cf2de63ee1e60dc523c806d207b429f0d0d12b2e64b",
+            "updatedAt": "2026-02-24T23:25:11.900Z"
+          },
+          "pl": {
+            "translatedHash": "2a4e0e3609a0bc49552d061846d52cb9fb78891914b4e98e0884939c4bddbe5c",
+            "updatedAt": "2026-02-24T23:25:13.671Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Matías",
+  "name_pl": "Święty Maciej",
+  "feast_es": "El día catorce de mayo",
+  "feast_pl": "Czternasty Dzień Maja",
+  "summary_es": "Matías fue, según los Hechos de los Apóstoles, elegido por Dios a través de los apóstoles para reemplazar a Judas Iscariote tras la traición de este último a Jesús y su posterior muerte. Su llamado como apóstol es único, ya que fue seleccionado mediante el sorteo después de la Ascensión de Jesús al Cielo, aunque Matías conoció a Jesús durante todo su ministerio terrenal.",
+  "summary_pl": "Mateusz, według Dziejów Apostolskich, został wybrany przez Boga za pośrednictwem apostołów, aby zastąpić Judasza Iskarioty po zdradzie Jezusa i jego późniejszej śmierci. Jego powołanie na apostoła jest wyjątkowe, ponieważ został wybrany przez losowanie po Wniebowstąpieniu Jezusa, choć znał Jezusa przez cały Jego ziemski posługę.",
+  "biography_es": "Matías fue, según los Hechos de los Apóstoles, elegido por Dios a través de los apóstoles para reemplazar a Judas Iscariote tras la traición de este a Jesús y su posterior muerte. Su llamado como apóstol es único, ya que fue seleccionado mediante el sorteo después de la Ascensión de Jesús al Cielo, aunque Matías conoció a Jesús durante todo su ministerio terrenal.",
+  "biography_pl": "Mateusz, według Dziejów Apostolskich, został wybrany przez Boga za pośrednictwem apostołów na miejsce Judasza Iskarioty po zdradzie Jezusa i jego późniejszej śmierci. Jego powołanie na apostoła jest wyjątkowe, ponieważ został wybrany przez losowanie po Wniebowstąpieniu Jezusa, choć znał Jezusa przez cały Jego ziemski posługę."
+}

@@ -1,0 +1,79 @@
+{
+  "id": "07-13_saint_henry",
+  "name": "Saint Henry",
+  "mmdd": "07-13",
+  "feast": "The Thirteenth Day of July",
+  "summary": "John Henry Newman was an English Catholic theologian, academic, philosopher, historian, writer, and poet. He was previously an Anglican priest, and after his conversion to Catholicism, became a cardinal. He was an important figure in the religious history of England in the 19th century, and was known nationally by the mid-1830s. He was a member of the Oratory of St. Philip Neri and founded the first house of that congregation in England.",
+  "biography": "John Henry Newman (21 February 1801 – 11 August 1890) was an English Catholic theologian, academic, philosopher, historian, writer, and poet. He was previously an Anglican priest, and after his conversion to Catholicism, became a cardinal. He was an important figure in the religious history of England in the 19th century, and was known nationally by the mid-1830s. He was a member of the Oratory of St. Philip Neri and founded the first house of that congregation in England. Originally an evangelical academic at the University of Oxford and priest in the Church of England, Newman was drawn to the high church tradition of Anglicanism. He became one of the more notable leaders of the Oxford Movement, an influential grouping of Anglicans who wished to restore to the Church of England many Catholic beliefs and liturgical rituals from before the English Reformation. In this, the movement had some success. After publishing his Tract 90 in 1841, Newman later wrote: \"I was on my death-bed, as regards my membership with the Anglican Church.\" In 1845, Newman resigned his teaching post at Oxford University, and, joined by some but not all of his followers, officially left the Church of England...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Henry_Newman",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-13_saint_henry.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "629afd08e595b1cb7b7977841f345112bff1d9bff7cc0d9a975390c505fc1b01",
+        "langs": {
+          "es": {
+            "translatedHash": "3ba582251e5a8766432ceda6e01312d360ff494b2c07e6920d6959338e63f948",
+            "updatedAt": "2026-02-24T23:57:17.748Z"
+          },
+          "pl": {
+            "translatedHash": "feec45f0b0e2c64154821e94457cd68fdc78bbc00d39350531c5a5c012ee3b92",
+            "updatedAt": "2026-02-24T23:57:18.276Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "09c61a0844365e71ee1737f234e7daaa00890442aefad12b33167925922e8fb0",
+        "langs": {
+          "es": {
+            "translatedHash": "f4fd7eb0c5e307a4a5e76c83224518dcb6804f564bf9c234ee1a9cb3f7bb6cec",
+            "updatedAt": "2026-02-24T23:57:18.897Z"
+          },
+          "pl": {
+            "translatedHash": "253e9081d16701f1e7c38e86ee4ff19d5a9d08fc958a08de6b540e69a51e7a27",
+            "updatedAt": "2026-02-24T23:57:19.506Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a1e7433772f8983a497de1c9dca921cd4fc81fae1e285fa78106dd84651a8a73",
+        "langs": {
+          "es": {
+            "translatedHash": "33a2f12aac683c6afdfec859a31848323b00db0a118b18b05b17d90c67f2b4ca",
+            "updatedAt": "2026-02-24T23:57:21.533Z"
+          },
+          "pl": {
+            "translatedHash": "96a311f26bb59dfac9b30c06de84dfcfd66958d1950d12f8a947d75051d44b04",
+            "updatedAt": "2026-02-24T23:57:23.802Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2290cde614cef8f8230f1992f94aedb7d6f0c1dcc925183178cbe04235601dbe",
+        "langs": {
+          "es": {
+            "translatedHash": "c68981f02d8c41ef91d9e6d2684c7b67f90806d169a57470ff7900355822f7d0",
+            "updatedAt": "2026-02-24T23:57:28.117Z"
+          },
+          "pl": {
+            "translatedHash": "14bc5372521bab149c461189f2d2f46a585e3e0e57dce21795d79b070ebde77c",
+            "updatedAt": "2026-02-24T23:57:35.546Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Enrique",
+  "name_pl": "Święty Henryk",
+  "feast_es": "El Decimotercer Día de Julio",
+  "feast_pl": "Trzynasty Dzień Lipca",
+  "summary_es": "Juan Enrique Newman fue un teólogo católico inglés, académico, filósofo, historiador, escritor y poeta. Anteriormente fue sacerdote anglicano y, tras su conversión al catolicismo, se convirtió en cardenal. Fue una figura importante en la historia religiosa de Inglaterra en el siglo XIX, y era conocido a nivel nacional a mediados de la década de 1830. Fue miembro del Oratorio de San Felipe Neri y fundó la primera casa de esa congregación en Inglaterra.",
+  "summary_pl": "John Henry Newman był angielskim katolickim teologiem, akademikiem, filozofem, historykiem, pisarzem i poetą. Wcześniej był anglikańskim księdzem, a po nawróceniu na katolicyzm został kardynałem. Był ważną postacią w historii religijnej Anglii w XIX wieku i był znany w całym kraju już w połowie lat 30. XIX wieku. Był członkiem Oratorium św. Filipa Neri i założył pierwszy dom tego zgromadzenia w Anglii.",
+  "biography_es": "John Henry Newman (21 de febrero de 1801 – 11 de agosto de 1890) fue un teólogo católico inglés, académico, filósofo, historiador, escritor y poeta. Anteriormente fue sacerdote anglicano y, tras su conversión al catolicismo, se convirtió en cardenal. Fue una figura importante en la historia religiosa de Inglaterra en el siglo XIX, y era conocido a nivel nacional desde mediados de la década de 1830. Fue miembro del Oratorio de San Felipe Neri y fundó la primera casa de esa congregación en Inglaterra. Originalmente un académico evangélico en la Universidad de Oxford y sacerdote en la Iglesia de Inglaterra, Newman se sintió atraído por la tradición de la alta iglesia del anglicanismo. Se convirtió en uno de los líderes más notables del Movimiento de Oxford, un grupo influyente de anglicanos que deseaban restaurar en la Iglesia de Inglaterra muchas creencias católicas y rituales litúrgicos anteriores a la Reforma inglesa. En esto, el movimiento tuvo cierto éxito. Después de publicar su Tract 90 en 1841, Newman escribió más tarde: \"Estaba en mi lecho de muerte, en cuanto a mi pertenencia a la Iglesia Anglicana.\" En 1845, Newman renunció a su puesto de enseñanza en la Universidad de Oxford y, acompañado por algunos pero no todos sus seguidores, abandonó oficialmente la Iglesia de Inglaterra...",
+  "biography_pl": "John Henry Newman (21 lutego 1801 – 11 sierpnia 1890) był angielskim katolickim teologiem, akademikiem, filozofem, historykiem, pisarzem i poetą. Wcześniej był duchownym anglikańskim, a po nawróceniu na katolicyzm został kardynałem. Był ważną postacią w historii religijnej Anglii w XIX wieku i był znany na skalę krajową już w połowie lat 30. XIX wieku. Był członkiem Oratorium św. Filipa Neri i założył pierwszy dom tej kongregacji w Anglii. Początkowo był ewangelickim akademikiem na Uniwersytecie Oksfordzkim oraz księdzem w Kościele Anglii, Newman został przyciągnięty do tradycji wysokiego kościoła anglikańskiego. Stał się jednym z bardziej znanych przywódców Ruchu oksfordzkiego, wpływowej grupy anglikańskiej, która pragnęła przywrócić Kościołowi Anglii wiele katolickich wierzeń i rytuałów liturgicznych sprzed reformacji angielskiej. W tym ruch odniósł pewne sukcesy. Po opublikowaniu swojego Traktu 90 w 1841 roku, Newman później napisał: „Byłem na łożu śmierci, jeśli chodzi o moje członkostwo w Kościele anglikańskim.” W 1845 roku Newman zrezygnował ze stanowiska wykładowcy na Uniwersytecie Oksfordzkim i, wraz z niektórymi, ale nie wszystkimi swoimi zwolennikami, oficjalnie opuścił Kościół Anglii..."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "04-09_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-09",
+  "feast": "The Ninth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:06:27.729Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:06:28.405Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a0c8e0fd9cd97833a32b7c839834263f18caa372c79dda613a8d2f915da9241e",
+        "langs": {
+          "es": {
+            "translatedHash": "ed476bf7d0f0034d7a8c2826657aa7aa20c14d4d4f761ab60dc0b853451b7a91",
+            "updatedAt": "2026-02-24T23:06:29.057Z"
+          },
+          "pl": {
+            "translatedHash": "61aac28efbe2ea120167198cbdac3b581ae29e684c6939c73a6a73d793ba8ae7",
+            "updatedAt": "2026-02-24T23:06:29.693Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Noveno Día de Abril",
+  "feast_pl": "Dziewiąty dzień kwietnia"
+}

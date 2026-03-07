@@ -1,0 +1,272 @@
+{
+  "id": "st_francis_xavier",
+  "title": "St. Francis Xavier Novena of Grace",
+  "description": "This is the Miraculous Novena of Grace to St. Francis Xavier, the great Jesuit missionary to Asia",
+  "category": "Saint",
+  "tags": [
+    "Novena",
+    "Saint",
+    "St. Francis Xavier"
+  ],
+  "startRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "feastRule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "source": {
+    "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
+    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-francis-xavier-novena/",
+    "importedFrom": "intercede"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy de todo corazón gracias por ello; te suplico con toda la devoción de mi corazón que te plazca obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czczo adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski udzielonych Tobie za życia, oraz z darów chwały po śmierci, składam Mu z serca podziękowanie; błagam Cię z całą gorliwością serca, abyś raczył wyprosić mi, przez Twoją skuteczną wstawienniczą modlitwę, nade wszystko łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił mi (wymień prośbę tutaj…) Ale jeśli to, o co Cię tak usilnie proszę, nie prowadzi do chwały Bożej i większego dobra mojej duszy, proszę Cię, abyś wyprosił mi to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 2,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy de todo corazón gracias por ello; te suplico con toda la devoción de mi corazón que te complazcas en obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una feliz muerte. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czcigodnie adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski udzielonych Tobie za życia, oraz z darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całego serca, abyś raczył wyprosić dla mnie, przez swoją skuteczną wstawiennictwo, przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił dla mnie (tu wymień prośbę…) Ale jeśli to, o co Ci tak usilnie proszę, nie prowadzi do chwały Bożej i większego dobra mojej duszy, proszę Cię, wyproś dla mnie to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 3,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy sinceras gracias por ello; te suplico con toda la devoción de mi corazón que te plazca obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czcigodnie adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski udzielonych Tobie za życia, oraz z darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całą gorliwością serca, abyś raczył wyprosić mi przez Twoją skuteczną wstawienniczą modlitwę przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił mi (tu wymień prośbę…) Ale jeśli to, o co Ci tak usilnie proszę, nie zmierza ku chwale Bożej i większemu dobru mojej duszy, proszę Cię, wyproś mi to, co będzie bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 4,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy sinceras gracias por ello; te suplico con toda la devoción de mi corazón que te complazcas en obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czczę z nabożnością Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski udzielonych Tobie za życia oraz z darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całego serca, abyś raczył wyprosić dla mnie, przez Twoją skuteczną wstawienniczą modlitwę, przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił dla mnie (tu wymień prośbę…) Ale jeśli to, o co Ci tak usilnie proszę, nie prowadzi do chwały Boga i większego dobra mojej duszy, proszę Cię, wyproś dla mnie to, co będzie korzystniejsze dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 5,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy gracias de todo corazón por ello; te suplico con toda la devoción de mi corazón que te plazca obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czcigodnie adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski udzielonych Tobie za życia, oraz darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całego serca, abyś raczył wyprosić dla mnie, przez Twoją skuteczną wstawienniczą modlitwę, przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił dla mnie (wymień prośbę tutaj…) Ale jeśli to, o co Cię tak usilnie proszę, nie prowadzi do chwały Bożej i większego dobra mojej duszy, proszę Cię, wyproś dla mnie to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 6,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy de todo corazón gracias por ello; te suplico con toda la devoción de mi corazón que te plazca obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una feliz muerte. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria Patri",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czczo adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski, które zostały Ci udzielone za życia, oraz z darów chwały po śmierci, szczerze Mu za to dziękuję; błagam Cię z całego serca, abyś raczył wyprosić mi, przez swoją skuteczną wstawienniczą modlitwę, przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił mi (tu wymień prośbę…) Ale jeśli to, o co Ci tak usilnie proszę, nie zmierza do chwały Bożej i większego dobra mojej duszy, proszę Cię, wyproś mi to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 7,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy gracias de todo corazón por ello; te suplico con toda la devoción de mi corazón que te plazca obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czczo adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski udzielonych Tobie za życia, oraz z darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całego serca, abyś raczył wyprosić mi, przez Twoją skuteczną wstawiennictwo, przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił mi (wymień prośbę tutaj…) Ale jeśli to, o co Ci tak usilnie proszę, nie prowadzi do chwały Bożej i większego dobra mojej duszy, proszę Cię, abyś wyprosił mi to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 8,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy gracias de todo corazón por ello; te suplico con toda la devoción de mi corazón que te plazca obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria Patri\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawery, miłowany i pełen miłości, w jedności z Tobą czcigodnie adoruję Majestat Boga; i ponieważ raduję się z wielką radością z wyjątkowych darów łaski, które zostały Ci udzielone za życia, oraz z darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całego serca, abyś raczył wyprosić dla mnie, przez Twoją skuteczną wstawiennictwo, przede wszystkim łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił dla mnie (wymień tutaj prośbę…) Ale jeśli to, o co Ci tak gorąco proszę, nie prowadzi do chwały Bożej i większego dobra mojej duszy, proszę Cię, wyproś dla mnie to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
+    },
+    {
+      "day": 9,
+      "title": null,
+      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nO St. Francis Xavier, well beloved and full of charity, in union with thee, I reverently adore the Majesty of God; and since I rejoice with exceeding joy in the singular gifts of grace bestowed upon thee during thy life, and thy gifts of glory after death, I give Him hearty thanks therefore; I beseech thee with all my heart’s devotion to be pleased to obtain for me, by thy effectual intercession, above all things, the grace of a holy life and a happy death. Moreover, I beg of thee to obtain for me (mention request here…) But if what I ask of thee so earnestly doth not tend to the glory of God and the greater good of my soul, do thou, I pray, obtain for me what is more profitable to both these ends. Amen.\n\nOur Father Hail Mary Glory Be\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nAnswered Prayers From This Novena\n\nThank you St Francis Xavier!\n\nMy son’s skin pigmentation cleared; he now has normal skin and also then found his future wife.\n\nAll my children’s food allergies cleared as well. They’re all in unity and in love. Also Jesus has given me a spouse.",
+      "scripture": null,
+      "reflection": null,
+      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nOh San Francisco Javier, bien amado y lleno de caridad, en unión contigo, adoro reverentemente la Majestad de Dios; y puesto que me regocijo con inmensa alegría en los singulares dones de gracia que te fueron concedidos durante tu vida, y en tus dones de gloria después de la muerte, le doy gracias de todo corazón por ello; te suplico con toda la devoción de mi corazón que te complazcas en obtener para mí, por tu eficaz intercesión, sobre todas las cosas, la gracia de una vida santa y una muerte feliz. Además, te ruego que obtengas para mí (mencionar la petición aquí…) Pero si lo que te pido con tanto empeño no tiende a la gloria de Dios y al mayor bien de mi alma, te ruego que obtengas para mí lo que sea más provechoso para ambos fines. Amén.\n\nPadre Nuestro Ave María Gloria\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+      "prayer_pl": "W imię Ojca i Syna, i Ducha Świętego. Amen.\n\nO św. Franciszku Ksawerze, miłowany i pełen miłości, w jedności z Tobą czcigodnie adoruję Majestat Boga; i ponieważ raduję się ogromną radością z wyjątkowych darów łaski udzielonych Tobie za życia oraz z darów chwały po śmierci, składam Mu serdeczne dzięki; błagam Cię z całego serca, abyś zechciał wyprosić mi przez Twoją skuteczną wstawiennictwo, ponad wszystko, łaskę świętego życia i szczęśliwej śmierci. Ponadto proszę Cię, abyś wyprosił mi (wymień prośbę tutaj…) Ale jeśli to, o co Cię tak gorąco proszę, nie prowadzi do chwały Bożej i większego dobra mojej duszy, proszę Cię, wyproś mi to, co jest bardziej pożyteczne dla obu tych celów. Amen.\n\nOjcze nasz Zdrowaś Maryjo Chwała Ojcu\n\nW imię Ojca i Syna, i Ducha Świętego. Amen."
+    }
+  ],
+  "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_francis_xavier.jpg",
+  "sourceFacts": {
+    "starts": "March 3Feastday:March 12Birth:April 7th, 1506Death:December 2nd, 1552Patron saint of African missions, Kottar, India, Agartala, Ahmedabad, Alexandria, Louisiana, Apostleship of Prayer, Australia, Bengaluru, Bombay, Borneo, Cape Town, South Africa, China, Dinajpur, Bangladesh, Far East, Fathers of the Precious Blood, foreign missions, Freising, Goa, Fiji, Green Bay, Indianapolis, Indiana, Japan, Key West, Sophia University, Tokyo, University of Saint Francis Xavier, Sucre, Joliet, Kabankalan, Kollam, Nasugbu, Batangas, Abuyog, Leyte, Alegria, Cebu, Palompon, Leyte, Hong Kong, Macau, Diocese of Malindi, Kenya missionaries, Missioners of the Precious Blood, Navarre, navigators, New Zealand, parish missions, plague epidemics, Propagation of the Faith, Zagreb, Croatia, Indonesia, Malacca, Malaysia, Brunei, Pakistan, Singapore, Sri Lanka 📱",
+    "feast": "March 12Birth:April 7th, 1506Death:December 2nd, 1552Patron saint of African missions, Kottar, India, Agartala, Ahmedabad, Alexandria, Louisiana, Apostleship of Prayer, Australia, Bengaluru, Bombay, Borneo, Cape Town, South Africa, China, Dinajpur, Bangladesh, Far East, Fathers of the Precious Blood, foreign missions, Freising, Goa, Fiji, Green Bay, Indianapolis, Indiana, Japan, Key West, Sophia University, Tokyo, University of Saint Francis Xavier, Sucre, Joliet, Kabankalan, Kollam, Nasugbu, Batangas, Abuyog, Leyte, Alegria, Cebu, Palompon, Leyte, Hong Kong, Macau, Diocese of Malindi, Kenya missionaries, Missioners of the Precious Blood, Navarre, navigators, New Zealand, parish missions, plague epidemics, Propagation of the Faith, Zagreb, Croatia, Indonesia, Malacca, Malaysia, Brunei, Pakistan, Singapore, Sri Lanka 📱"
+  },
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "title": {
+        "sourceHash": "e124eac88dc6ee320391016915c8769fb627a8af27453f2c74b2c3194a2271e3",
+        "langs": {
+          "es": {
+            "translatedHash": "198e7cf87c67585fee2dde682da62f12509b3d1deb0feaf9bc9faee29d421d82",
+            "updatedAt": "2026-02-25T13:48:10.553Z"
+          },
+          "pl": {
+            "translatedHash": "80ec843990cb7521fc24cf9691551530dc177b575a8873f237c03cc3cc22ce90",
+            "updatedAt": "2026-02-25T13:48:11.191Z"
+          }
+        }
+      },
+      "description": {
+        "sourceHash": "a5db76e811fff90c29416438607c54aa6d6ff83fc65667710a5c1922738bd37d",
+        "langs": {
+          "es": {
+            "translatedHash": "ee7146dd5a0cf85f80006dafd20160ede9f4ad8942e8b447a11df4b045011ef9",
+            "updatedAt": "2026-02-25T13:48:11.958Z"
+          },
+          "pl": {
+            "translatedHash": "6d9f81a17fe0904a512f164324e498c3e3757984024d7f54bc713e6bf7a3f8be",
+            "updatedAt": "2026-02-25T13:48:12.921Z"
+          }
+        }
+      },
+      "days.0.prayer": {
+        "sourceHash": "4c080abb8e2f4277e0c652bf2f218d29779e0c34950bbcf007e90db62a0a2aac",
+        "langs": {
+          "es": {
+            "translatedHash": "5b3c27672f3a5fa1a901cefbdb38725a767e9cf55b295724ceeae2cf2f75a04d",
+            "updatedAt": "2026-02-25T13:48:16.662Z"
+          },
+          "pl": {
+            "translatedHash": "93d7c44e8b22c49ef323bc283a0766655c155ec07f1180d6d3d500384c427429",
+            "updatedAt": "2026-02-25T13:48:20.278Z"
+          }
+        }
+      },
+      "days.1.prayer": {
+        "sourceHash": "082a83551ccc61fee0a97ee22a9bcebd89808443cc25b0b67afaf5be04d2f22b",
+        "langs": {
+          "es": {
+            "translatedHash": "ba03460a015dd5944497a487e2a1dc8d927fabf18dbbc2398c0b3750c6c966d6",
+            "updatedAt": "2026-02-25T13:48:23.420Z"
+          },
+          "pl": {
+            "translatedHash": "75ef6c09a5e398f43fc1bf9478503223e4915ee3fd5f24e321641d1c45a69308",
+            "updatedAt": "2026-02-25T13:48:27.456Z"
+          }
+        }
+      },
+      "days.2.prayer": {
+        "sourceHash": "d113dc1d715097b83bf026cdb6ba11d7b9d50396d73e5d8fcd695b868d00924a",
+        "langs": {
+          "es": {
+            "translatedHash": "e6c5e246ab29ed6f5782f5890778d247b1e2c8e54bbf016741930a8aefb47f70",
+            "updatedAt": "2026-02-25T13:48:31.132Z"
+          },
+          "pl": {
+            "translatedHash": "68abec220bb33e34d4b4b01c968f70d42e417c2be7f2797f9ae80253d455d7c4",
+            "updatedAt": "2026-02-25T13:48:35.418Z"
+          }
+        }
+      },
+      "days.3.prayer": {
+        "sourceHash": "4a6a5c5f778a38d2f80a150e1a4dec405d55e28bb485eedb532952fac67c6151",
+        "langs": {
+          "es": {
+            "translatedHash": "dc4e2ce9e2317d00e88e7d7fb99dc6103608939026317573605e70da512b49f9",
+            "updatedAt": "2026-02-25T13:48:39.295Z"
+          },
+          "pl": {
+            "translatedHash": "26f51041a208f972d0c29741cb63de196e9f084b945ea2c46f812fd35b415874",
+            "updatedAt": "2026-02-25T13:48:43.492Z"
+          }
+        }
+      },
+      "days.4.prayer": {
+        "sourceHash": "3face12994ab74cb2f0fafe7a698873386b65ae0561cba1506e20ad37b0b9db0",
+        "langs": {
+          "es": {
+            "translatedHash": "ffe3587d237a5767014e61e1e79c15443601b9556483631f34a2fd47b95a47e9",
+            "updatedAt": "2026-02-25T13:48:47.263Z"
+          },
+          "pl": {
+            "translatedHash": "54f79e0938305be7e05434eddfddb47fc84d98d0b4db1a3c0e14af04f686f5a7",
+            "updatedAt": "2026-02-25T13:48:50.539Z"
+          }
+        }
+      },
+      "days.5.prayer": {
+        "sourceHash": "53552b11a76b511f3a4b92691088d7662fe7c1d32bef534a14c6f40d47756aaf",
+        "langs": {
+          "es": {
+            "translatedHash": "1f77ceecd070889f4d6fd90ce7b1cd286cbf7c199a1baf821fe0685a879f45d4",
+            "updatedAt": "2026-02-25T13:48:54.380Z"
+          },
+          "pl": {
+            "translatedHash": "41cc5b0da8455db36c5c2fd80ed99052108a7e78a259942777f9d5a163f06137",
+            "updatedAt": "2026-02-25T13:48:58.416Z"
+          }
+        }
+      },
+      "days.6.prayer": {
+        "sourceHash": "8b42ad917858bfedba8cf6b686e846d3033318deba7f063970e64678e278458b",
+        "langs": {
+          "es": {
+            "translatedHash": "ffe3587d237a5767014e61e1e79c15443601b9556483631f34a2fd47b95a47e9",
+            "updatedAt": "2026-02-25T13:49:01.969Z"
+          },
+          "pl": {
+            "translatedHash": "99e6a801005edb0a9e2732a8c056a93d2bc72c8bd3a7ad0dbaa9f40dceb1f493",
+            "updatedAt": "2026-02-25T13:49:05.980Z"
+          }
+        }
+      },
+      "days.7.prayer": {
+        "sourceHash": "b7c88f10790b5029391e99e2af3549048126eb33e4ec565adadf39e431e23f0f",
+        "langs": {
+          "es": {
+            "translatedHash": "ffe3587d237a5767014e61e1e79c15443601b9556483631f34a2fd47b95a47e9",
+            "updatedAt": "2026-02-25T13:49:09.808Z"
+          },
+          "pl": {
+            "translatedHash": "043a43279133f0c999e41b10bf6bde0bcb6e738c6ef6bede8a4cfd5b8690b905",
+            "updatedAt": "2026-02-25T13:49:13.800Z"
+          }
+        }
+      },
+      "days.8.prayer": {
+        "sourceHash": "7633b2f1cfb38ba5c2d63678cddfd8dda626bbc157751cf3fa85e9fdb40be403",
+        "langs": {
+          "es": {
+            "translatedHash": "8ab88bd1160f28ebb7cfc125914f1fcf88dd7d48e91b6d2fd3269c45d19b51f2",
+            "updatedAt": "2026-02-25T13:49:18.152Z"
+          },
+          "pl": {
+            "translatedHash": "828e413d84357f1fabd07e98d44c9f4588809f4f778f7e1e6b0f6938d67542da",
+            "updatedAt": "2026-02-25T13:49:22.571Z"
+          }
+        }
+      }
+    }
+  },
+  "title_es": "Novena de la Gracia de San Francisco Javier",
+  "title_pl": "Nowenna do św. Franciszka Ksawerego o Łaskę",
+  "description_es": "Esta es la Novena Milagrosa de la Gracia a San Francisco Javier, el gran misionero jesuita en Asia",
+  "description_pl": "To jest Cudowna Nowenna Łaski do św. Franciszka Ksawerego, wielkiego jezuickiego misjonarza w Azji",
+  "intentions": [],
+  "intentions_es": [],
+  "intentions_pl": [],
+  "sources": [
+    "https://novenaprayer.com/novena-of-grace/"
+  ]
+}

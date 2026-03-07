@@ -1,0 +1,79 @@
+{
+  "id": "09-10_saint_nicholas",
+  "name": "Saint Nicholas",
+  "mmdd": "09-10",
+  "feast": "The Tenth Day of September",
+  "summary": "Saint Nicholas of Myra, also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker. Saint Nicholas is the patron saint of sailors, merchants, archers, repentant thieves, children, brewers, pawnbrokers, toymakers, unmarried people, and students in various cities and countries around Europe. His reputation evolved among the pious, as was common for early Christian saints, and his legendary habit of secret gift-giving gave rise to the folklore of Santa Claus through Sinterklaas.",
+  "biography": "Saint Nicholas of Myra, also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker. Saint Nicholas is the patron saint of sailors, merchants, archers, repentant thieves, children, brewers, pawnbrokers, toymakers, unmarried people, and students in various cities and countries around Europe. His reputation evolved among the pious, as was common for early Christian saints, and his legendary habit of secret gift-giving gave rise to the folklore of Santa Claus through Sinterklaas.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Nicholas",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-10_saint_nicholas.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f5410e9f76afb8d268c04a7ac472acc06301e1e132cc371adf50c513c3f19ad6",
+        "langs": {
+          "es": {
+            "translatedHash": "58b9a07ba8d01c3b6447f97c7295dc01d430259f5bf206fbf7f071e527b16a93",
+            "updatedAt": "2026-02-25T00:28:19.315Z"
+          },
+          "pl": {
+            "translatedHash": "1a4af0ccd550e363f924973132f4b0827cfd63a7377a5ae5d5af9f89349ad27d",
+            "updatedAt": "2026-02-25T00:28:20.070Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "f29c46449bec5298cb7cb236de112e71246c32a4bd70993ddd0d5b13c0549d0d",
+        "langs": {
+          "es": {
+            "translatedHash": "5c08eb407ba52b9493dca4bab95900721c75347891f243ef8382a9596b47a2dd",
+            "updatedAt": "2026-02-25T00:28:21.198Z"
+          },
+          "pl": {
+            "translatedHash": "691c1339fcefb4e5b393074f16a5470e2e1b7d4a69e3c4a2928d5cc142665f9a",
+            "updatedAt": "2026-02-25T00:28:21.954Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "43e7f9140c98c31326c192efe35a28c0829995e7e871a406e9e975960de832a1",
+        "langs": {
+          "es": {
+            "translatedHash": "3763496d6a4777702072b0f5128de2828e7ee0b39119cc5109034f93ca8dfe47",
+            "updatedAt": "2026-02-25T00:28:24.737Z"
+          },
+          "pl": {
+            "translatedHash": "101e821305566344665f59e68dcb7fcb1639edda25473b4e2e253050f69eb4af",
+            "updatedAt": "2026-02-25T00:28:28.721Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "43e7f9140c98c31326c192efe35a28c0829995e7e871a406e9e975960de832a1",
+        "langs": {
+          "es": {
+            "translatedHash": "595d43afe2235da5aa7634a4177808c696bfaa91a46673705a67094f4dad92f5",
+            "updatedAt": "2026-02-25T00:28:31.981Z"
+          },
+          "pl": {
+            "translatedHash": "d7f3eb2dd18d1bee2f3dce38e57ac4127011fa0e1486e47d4ba05bc71428cb90",
+            "updatedAt": "2026-02-25T00:28:36.124Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Nicolás",
+  "name_pl": "Święty Mikołaj",
+  "feast_es": "El Día Diez de Septiembre",
+  "feast_pl": "Dziesiąty dzień września",
+  "summary_es": "San Nicolás de Mira, también conocido como Nicolás de Bari, fue un obispo cristiano primitivo de ascendencia griega de la ciudad marítima de Patara en Anatolia durante la época del Imperio Romano. Debido a los muchos milagros atribuidos a su intercesión, también es conocido como Nicolás el Taumaturgo. San Nicolás es el santo patrón de los marineros, comerciantes, arqueros, ladrones arrepentidos, niños, cerveceros, prestamistas, fabricantes de juguetes, personas solteras y estudiantes en diversas ciudades y países de Europa. Su reputación evolucionó entre los piadosos, como era común en los primeros santos cristianos, y su legendaria costumbre de dar regalos en secreto dio origen al folclore de Santa Claus a través de Sinterklaas.",
+  "summary_pl": "Święty Mikołaj z Miry, znany również jako Mikołaj z Bari, był wczesnochrześcijańskim biskupem pochodzenia greckiego z nadmorskiego miasta Patara w Azji Mniejszej za czasów Cesarstwa Rzymskiego. Ze względu na liczne cuda przypisywane jego wstawiennictwu, znany jest także jako Mikołaj Cudotwórca. Święty Mikołaj jest patronem żeglarzy, kupców, łuczników, nawróconych złodziei, dzieci, piwowarów, lombardzistów, twórców zabawek, osób niezamężnych oraz studentów w różnych miastach i krajach Europy. Jego sława rozwijała się wśród pobożnych, co było typowe dla wczesnych świętych chrześcijańskich, a jego legendarna zwyczaj tajemniczego obdarowywania dała początek folklorowi Świętego Mikołaja poprzez postać Sinterklaasa.",
+  "biography_es": "San Nicolás de Mira, también conocido como Nicolás de Bari, fue un obispo cristiano primitivo de ascendencia griega de la ciudad marítima de Patara en Anatolia durante la época del Imperio Romano. Debido a los muchos milagros atribuidos a su intercesión, también es conocido como Nicolás el Taumaturgo. San Nicolás es el santo patrón de los marineros, comerciantes, arqueros, ladrones arrepentidos, niños, cerveceros, prestamistas, fabricantes de juguetes, personas solteras y estudiantes en diversas ciudades y países de Europa. Su reputación evolucionó entre los piadosos, como era común en los santos cristianos primitivos, y su legendaria costumbre de dar regalos en secreto dio origen al folclore de Santa Claus a través de Sinterklaas.",
+  "biography_pl": "Święty Mikołaj z Miry, znany również jako Mikołaj z Bari, był wczesnochrześcijańskim biskupem pochodzenia greckiego z nadmorskiego miasta Patara w Azji Mniejszej za czasów Cesarstwa Rzymskiego. Ze względu na liczne cuda przypisywane jego wstawiennictwu, znany jest także jako Mikołaj Cudotwórca. Święty Mikołaj jest patronem żeglarzy, kupców, łuczników, nawróconych złodziei, dzieci, piwowarów, lombardzistów, twórców zabawek, osób niezamężnych oraz studentów w różnych miastach i krajach Europy. Jego sława rozwijała się wśród pobożnych, co było typowe dla wczesnych świętych chrześcijańskich, a jego legendarny zwyczaj tajemniczego obdarowywania prezentami dał początek folklorowi Świętego Mikołaja poprzez postać Sinterklaasa."
+}

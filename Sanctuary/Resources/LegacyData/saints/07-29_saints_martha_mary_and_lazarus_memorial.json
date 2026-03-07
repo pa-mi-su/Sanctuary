@@ -1,0 +1,48 @@
+{
+  "id": "07-29_saints_martha_mary_and_lazarus_memorial",
+  "name": "Saints Martha, Mary, and Lazarus—Memorial",
+  "mmdd": "07-29",
+  "feast": "The Twenty-Ninth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mary_Magdalene"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-29_saints_martha_mary_and_lazarus_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d681dc2abc5b81a96e42dd9500e9cc714697d8019d7a8f0be68b58270b3011ab",
+        "langs": {
+          "es": {
+            "translatedHash": "76d7b9ba720d3c64a72a84ec9e2e5dc69d6f6a9fae6d8791ea9fb027ebc43ca4",
+            "updatedAt": "2026-02-25T00:06:19.365Z"
+          },
+          "pl": {
+            "translatedHash": "986c276225e023ed11510e3cb162e94d2e2edcdc5a362a31ad6c4742f35c6217",
+            "updatedAt": "2026-02-25T00:06:20.074Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "8038401e91a08b6317d54c7f9f304e20cad61c68ca8034b1de229ffcea26b1ad",
+        "langs": {
+          "es": {
+            "translatedHash": "f185b0d15198ae372875654a4a33e1f9860125949310580df3754b78cbc0c9fd",
+            "updatedAt": "2026-02-25T00:06:22.481Z"
+          },
+          "pl": {
+            "translatedHash": "76793e025602a406af5e21342fac41c8edcf072990592ea725377d0a14321703",
+            "updatedAt": "2026-02-25T00:06:23.173Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santos Marta, María y Lázaro—Memoria",
+  "name_pl": "Święci Marta, Maria i Łazarz — Wspomnienie",
+  "feast_es": "El Vigésimo Noveno Día de Julio",
+  "feast_pl": "Dwudziesty dziewiąty dzień lipca"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "07-22_saint_mary_magdalen",
+  "name": "Saint Mary Magdalen",
+  "mmdd": "07-22",
+  "feast": "The Twenty-Second Day of July",
+  "summary": "St. Mary Magdalen Church is a historic Roman Catholic church at in Abbeville, Louisiana. In 1988 the church, along with the associated rectory and cemetery, was listed on the National Register of Historic Places.",
+  "biography": "History\nSt. Mary Magdalen Parish was established in 1842 by Pere Antoine Desire Megret. The first church, the remodeled home of Joseph LeBlanc, was built and dedicated in the spring of 1844. From the beginning it was placed under the invocation of Saint Mary Magdalen, a favorite saint among the descendants of the Acadian exiles all through South Louisiana. The name was always retained, except for a short time during Father Laforest's administration, when after the 1907 fire, the church was temporarily called Saint Ann's, at least in the reports.\nIn September 1847, Reverend Nicholas Francais was...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Mary_Magdalen_Church",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-22_saint_mary_magdalen.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "600448199d0b6230c15264ffe7132b69b228f9fdd27171ff7a450a20ff1ebabb",
+        "langs": {
+          "es": {
+            "translatedHash": "6c68814acff95de29fbb45cb0f70fe63f9fe6a04ba124c0ba901a1b0827c3094",
+            "updatedAt": "2026-02-25T00:01:46.854Z"
+          },
+          "pl": {
+            "translatedHash": "2b8d45d0a0ddfa4cb0d8465944f8c789dd0dbc13afa5c3b040e87a014e01e910",
+            "updatedAt": "2026-02-25T00:01:47.407Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a2f21501a7b698e835597fca75762348a5206c58ff7d39494e4f3be59798bb8f",
+        "langs": {
+          "es": {
+            "translatedHash": "8d189b4f1f7b0b21c3d56ec277a6232aa0e75507398a417faedf3e6d1257fdc7",
+            "updatedAt": "2026-02-25T00:01:48.041Z"
+          },
+          "pl": {
+            "translatedHash": "86126e3b5d8a21dc222a06d3921dd8326f7ab6ee5862cad35ef0768ff9763a02",
+            "updatedAt": "2026-02-25T00:01:48.745Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "a4ee1d90dd60323af81c239144147c28c37e9814e6fd4126aec694b12224ed9e",
+        "langs": {
+          "es": {
+            "translatedHash": "c16083a8842b9d7527d5930877c8ebb45e7128630fe80ae939cb94b132bfad24",
+            "updatedAt": "2026-02-25T00:01:50.344Z"
+          },
+          "pl": {
+            "translatedHash": "0a962aa7d45e2662aa5a27933edd3f54a7bbf1f09cb81cebdc7473cd7efcf35b",
+            "updatedAt": "2026-02-25T00:01:53.024Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "69fa80024f1f955534cd6a127a4f93b15434718211c2107db4291fcbe2dcbf27",
+        "langs": {
+          "es": {
+            "translatedHash": "6b50931e02abb43d70b8d7fddbd6123f5f8891026e545163fcf5204ca40880bb",
+            "updatedAt": "2026-02-25T00:01:56.062Z"
+          },
+          "pl": {
+            "translatedHash": "6d9241d586b6ed0f91d622eaf14a73b5983a817cf5aa4af0003949998ebd529d",
+            "updatedAt": "2026-02-25T00:02:01.116Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa María Magdalena",
+  "name_pl": "Święta Maria Magdalena",
+  "feast_es": "El Veintidós de Julio",
+  "feast_pl": "Dwudziesty drugi dzień lipca",
+  "summary_es": "La Iglesia de Santa María Magdalena es una histórica iglesia católica romana en Abbeville, Luisiana. En 1988, la iglesia, junto con la rectoría y el cementerio asociados, fue incluida en el Registro Nacional de Lugares Históricos.",
+  "summary_pl": "Kościół św. Marii Magdaleny jest historycznym kościołem rzymskokatolickim w Abbeville, Luizjana. W 1988 roku kościół, wraz z przyległą plebanią i cmentarzem, został wpisany do Krajowego Rejestru Miejsc Historycznych.",
+  "biography_es": "Historia  \nLa parroquia de Santa María Magdalena fue establecida en 1842 por el Padre Antoine Desire Megret. La primera iglesia, la casa remodelada de Joseph LeBlanc, fue construida y dedicada en la primavera de 1844. Desde el principio fue puesta bajo la advocación de Santa María Magdalena, una santa muy querida entre los descendientes de los exiliados acadianos en toda el sur de Luisiana. El nombre siempre se mantuvo, excepto por un corto tiempo durante la administración del Padre Laforest, cuando después del incendio de 1907, la iglesia fue llamada temporalmente Santa Ana, al menos en los informes.  \nEn septiembre de 1847, el Reverendo Nicholas Francais fue...",
+  "biography_pl": "Historia  \nParafia św. Marii Magdaleny została założona w 1842 roku przez ojca Antoine Desire Megret. Pierwszy kościół, przerobiony dom Josepha LeBlanca, został zbudowany i poświęcony wiosną 1844 roku. Od samego początku został podniesiony pod wezwaniem św. Marii Magdaleny, ulubionej świętej wśród potomków wygnańców akadyjskich na całym południu Luizjany. Nazwa ta była zawsze zachowywana, z wyjątkiem krótkiego okresu podczas administracji ojca Laforesta, kiedy to po pożarze w 1907 roku kościół tymczasowo nazywano św. Anną, przynajmniej w raportach.  \nWe wrześniu 1847 roku, Reverend Nicholas Francais był..."
+}

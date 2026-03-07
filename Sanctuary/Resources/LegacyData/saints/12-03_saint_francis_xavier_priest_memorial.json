@@ -1,0 +1,48 @@
+{
+  "id": "12-03_saint_francis_xavier_priest_memorial",
+  "name": "Saint Francis Xavier, Priest—Memorial",
+  "mmdd": "12-03",
+  "feast": "The Third Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/St_Francis_Xavier_1.JPG"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-03_saint_francis_xavier_priest_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "ad81c27a42ad9ed1f06f1d3d09d215fd8a773f31dd0d5352ddac536b9818e0f8",
+        "langs": {
+          "es": {
+            "translatedHash": "e85954d30fc41b22478ba26653723fb11924599e5cfeca196ec1a8e53a53ddb2",
+            "updatedAt": "2026-02-25T01:19:37.507Z"
+          },
+          "pl": {
+            "translatedHash": "60dea78ad6298cd9fa93a69f3f792615be5ba0f1ebef3ee647d523bb347e1900",
+            "updatedAt": "2026-02-25T01:19:38.237Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "95388c3b9cb696a80d098132045a0d92c41c2eb543a09e538a9547e78d6fe07b",
+        "langs": {
+          "es": {
+            "translatedHash": "4249a583abd9b99c0a90926883e9901c9a66013f207248dea790d6314c66761f",
+            "updatedAt": "2026-02-25T01:19:38.882Z"
+          },
+          "pl": {
+            "translatedHash": "c201655a2a339e8dcc1c4c10c5fcf25cfbd783caea060289b87f89ee75aeab85",
+            "updatedAt": "2026-02-25T01:19:39.423Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Francisco Javier, Presbítero—Memorial",
+  "name_pl": "Święty Franciszek Ksawery, kapłan — wspomnienie",
+  "feast_es": "El Tercer Día de Diciembre",
+  "feast_pl": "Trzeci dzień grudnia"
+}

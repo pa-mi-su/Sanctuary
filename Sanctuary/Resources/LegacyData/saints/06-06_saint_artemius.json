@@ -1,0 +1,79 @@
+{
+  "id": "06-06_saint_artemius",
+  "name": "Saint Artemius",
+  "mmdd": "06-06",
+  "feast": "The Sixth Day of June",
+  "summary": "Artemius of Verkola is a Russian child saint venerated in the Russian Orthodox Church.",
+  "biography": "Life\nArtemius was born in 1532 in the village of Verkola in the Russian North (now Pinezhsky District, Arkhangelsk Oblast). His family were peasants. His father's name was Kosma, nicknamed Maly (lit. 'the small [one]'); his mother was named Apollinaria. In addition, according to legend, the sister of Artemius was the righteous maiden Paraskeva of Pirinem, who was also famous for posthumous miracles.  Nothing is known about Artemius' life, except for his rejection of children's games, meekness, good faith, obedience to his parents, and diligence, as noted in his Life.\nOn 23 June 1545, when Artemius was 12 years old, the boy was harrowing a field with his father. At that time, a strong thunderstorm began, lightning struck and Artemius fell dead. The superstitious villagers of Verkola considered the unexpected death of the boy a punishment for some secret sins, so they left his body in the forest without funeral service and burial, barely covered with brushwood and birch bark and fenced. According to folk belief, the...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Artemius_of_Verkola",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-06_saint_artemius.jpeg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "474760e37d5f11b91c59565cd40e485b1b1d8ef59df6be0e207f67c67f4b4957",
+        "langs": {
+          "es": {
+            "translatedHash": "c197b5945108ec9c85bd022cd32ce658d0783f68f25352a9eae3e516b5faf10f",
+            "updatedAt": "2026-02-24T23:38:07.693Z"
+          },
+          "pl": {
+            "translatedHash": "7ce70bc2d4625fee156aefc0e56d9dc433f2ae0feaf3f772eb925f8b14f03265",
+            "updatedAt": "2026-02-24T23:38:08.300Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7bc139eccdd09f1322c5dbaf59a8d7f6f36bb1d31cd53ea494cf81c4553acf8e",
+        "langs": {
+          "es": {
+            "translatedHash": "8f4d37b1ba1be71be96865c5b786b134bedc2dd3db9f9cb949a82d56c60b678f",
+            "updatedAt": "2026-02-24T23:38:08.850Z"
+          },
+          "pl": {
+            "translatedHash": "277f98c03dd8cba0047e219479eb8043332be5c6e6b238a97fda7fe9a9cbe425",
+            "updatedAt": "2026-02-24T23:38:09.470Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "11a14ee94f6f59c9ebe95691e013872d88fc5d12b25d8ef3e04eaf3379c08c26",
+        "langs": {
+          "es": {
+            "translatedHash": "7f242b49fc8b95692dabc88ed4a8fdae56203bd278727f39f9cbbe2a8a0d7c08",
+            "updatedAt": "2026-02-24T23:38:10.205Z"
+          },
+          "pl": {
+            "translatedHash": "e08f2330516c668365549870a235c95c308c53aa34290d148b5eae3af4375a50",
+            "updatedAt": "2026-02-24T23:38:11.434Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "d59b1e4b4b213366d63242cfc41f1a2a7a97bd21d18871695fb2cc89a097bdb2",
+        "langs": {
+          "es": {
+            "translatedHash": "6867290f92b85a8e01217d4c69b317fba800d0cd48dcf3d5b1b10b4d46e0b5e1",
+            "updatedAt": "2026-02-24T23:38:15.101Z"
+          },
+          "pl": {
+            "translatedHash": "e9f1ffcf334117700613983e332df2981b1ecca05b9ae7de2c167fdd0e25a84b",
+            "updatedAt": "2026-02-24T23:38:20.957Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Artemio",
+  "name_pl": "Święty Artemiusz",
+  "feast_es": "El Sexto Día de Junio",
+  "feast_pl": "Szósty dzień czerwca",
+  "summary_es": "Artemio de Verkola es un santo niño ruso venerado en la Iglesia Ortodoxa Rusa.",
+  "summary_pl": "Artemiusz z Verkoli jest rosyjskim świętym dziecięcym czczonym w Rosyjskim Kościele Prawosławnym.",
+  "biography_es": "Vida  \nArtemio nació en 1532 en el pueblo de Verkola, en el Norte ruso (actualmente Distrito de Pinezhsky, Óblast de Arcángel). Su familia era campesina. El nombre de su padre era Cosma, apodado Maly (literalmente, 'el pequeño'); su madre se llamaba Apolinaria. Además, según la leyenda, la hermana de Artemio fue la justa doncella Paraskeva de Pirinem, quien también fue famosa por milagros póstumos. No se sabe nada sobre la vida de Artemio, excepto su rechazo a los juegos infantiles, su mansedumbre, buena fe, obediencia a sus padres y diligencia, como se señala en su Vida.  \nEl 23 de junio de 1545, cuando Artemio tenía 12 años, el niño estaba arando un campo con su padre. En ese momento, comenzó una fuerte tormenta, cayó un rayo y Artemio murió al instante. Los supersticiosos habitantes de Verkola consideraron la muerte inesperada del niño como un castigo por algunos pecados secretos, por lo que dejaron su cuerpo en el bosque sin servicio funerario ni entierro, apenas cubierto con ramaje y corteza de abedul y cercado. Según la creencia popular, el...",
+  "biography_pl": "Życie  \nArtemiusz urodził się w 1532 roku w wiosce Verkola na Północy Rosji (obecnie rejon Pineżski, obwód archangielski). Jego rodzina była chłopska. Imię jego ojca brzmiało Kosma, przezwany Maly (dosł. „mały”); matka nazywała się Apollinaria. Ponadto, według legendy, siostrą Artemiusza była sprawiedliwa dziewica Paraskewa z Pirinem, znana również z cudów pośmiertnych. O życiu Artemiusza nie wiadomo nic więcej, poza tym, że odrzucał dziecięce zabawy, cechował się łagodnością, dobrą wiarą, posłuszeństwem wobec rodziców oraz pilnością, jak zanotowano w jego Żywocie.  \n23 czerwca 1545 roku, gdy Artemiusz miał 12 lat, chłopiec orał pole z ojcem. W tym czasie rozpoczęła się gwałtowna burza, uderzył piorun i Artemiusz padł martwy. Zabobonni mieszkańcy Verkoli uznali nagłą śmierć chłopca za karę za jakieś tajemne grzechy, dlatego pozostawili jego ciało w lesie bez nabożeństwa pogrzebowego i pochówku, ledwie przykryte gałęziami i brzozową korą oraz ogrodzone. Według wierzeń ludowych..."
+}

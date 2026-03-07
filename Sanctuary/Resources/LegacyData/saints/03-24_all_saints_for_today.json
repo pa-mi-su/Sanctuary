@@ -1,0 +1,46 @@
+{
+  "id": "03-24_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "03-24",
+  "feast": "The Twenty-Fourth Day of March",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T22:58:14.156Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T22:58:14.746Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "7bb8c8eea334c0024ec61c6510586583d939a244270c26e2c27b0a31a6cdff61",
+        "langs": {
+          "es": {
+            "translatedHash": "dd912823891b810ed07692b5f913ae7a6398f27881cf2ccdfdb5d2c40cf0d91c",
+            "updatedAt": "2026-02-24T22:58:15.462Z"
+          },
+          "pl": {
+            "translatedHash": "6852f1cb54cd8881d9c9798d13734fd25e6d3e2907f6c30a68f41313c129ffbf",
+            "updatedAt": "2026-02-24T22:58:16.184Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo cuarto día de marzo",
+  "feast_pl": "Dwudziesty czwarty dzień marca"
+}

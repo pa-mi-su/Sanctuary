@@ -1,0 +1,46 @@
+{
+  "id": "11-03_saint_martin_de_porres_religious_optional_memorial",
+  "name": "Saint Martin de Porres, Religious—Optional Memorial",
+  "mmdd": "11-03",
+  "feast": "The Third Day of November",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-03_saint_martin_de_porres_1579_1639.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "508c8e2ddf6f1216f987266c848cf07a4091e87bfa2c969aba841687a9e9f892",
+        "langs": {
+          "es": {
+            "translatedHash": "a7d7f2a2dd41b70ac2524d4cd1278540fefd289b88d303fbf24ae1c4ddfe6d25",
+            "updatedAt": "2026-02-25T01:01:23.170Z"
+          },
+          "pl": {
+            "translatedHash": "cd9d6d8365dab12950cac126b42ce55bf5b3749d45d4d9f5cc5d62351218c7d9",
+            "updatedAt": "2026-02-25T01:01:24.005Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "0ede6e85eea7ba626d1561d6f76eae8f7e4bbf28148067943860c12341e5a9ae",
+        "langs": {
+          "es": {
+            "translatedHash": "bb3fa1ce8ee18b7e1e4f95b3f5c4ec8e367819a19cd59cb699dfef7ab3281f51",
+            "updatedAt": "2026-02-25T01:01:24.676Z"
+          },
+          "pl": {
+            "translatedHash": "8b723c3ea4cf0d666e74167e62ae570caaca42377b3bc15e2df30501321968ee",
+            "updatedAt": "2026-02-25T01:01:25.214Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Martín de Porres, Religioso—Memoria Opcional",
+  "name_pl": "Święty Marcin de Porres, zakonnik — wspomnienie dowolne",
+  "feast_es": "El Tercer Día de Noviembre",
+  "feast_pl": "Trzeci dzień listopada"
+}

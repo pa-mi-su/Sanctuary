@@ -1,0 +1,48 @@
+{
+  "id": "09-17_saint_hildegard_of_bingen_virgin_and_doctor_of_the_church_optional_memorial",
+  "name": "Saint Hildegard of Bingen, Virgin and Doctor of the Church—Optional Memorial",
+  "mmdd": "09-17",
+  "feast": "The Seventeenth Day of September",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/09-17_saint_hildegard_of_bingen_virgin_and_doctor_of_the_church_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "a295b692709c4547029a04ae887c7462a1bbb078dce71cb3b139669df98b25a5",
+        "langs": {
+          "es": {
+            "translatedHash": "b12b1b90e0fcd61baa0d12368ec71cadacce41d0a0bddda768876629b181ef63",
+            "updatedAt": "2026-02-25T00:32:38.386Z"
+          },
+          "pl": {
+            "translatedHash": "cc11fa6697710352182e7db1b76d0b387e31aa00ad10ba11fbdd3df8bb5d1338",
+            "updatedAt": "2026-02-25T00:32:39.430Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5c0e294af02f66c769f66a349117460b86c3b3de549ef0c7674f0aee3d5ca4c1",
+        "langs": {
+          "es": {
+            "translatedHash": "831d26cb2aa34aaa8b3bffb48e24c26fd3998428ab274a9b141af7ca6c5c0649",
+            "updatedAt": "2026-02-25T00:32:40.214Z"
+          },
+          "pl": {
+            "translatedHash": "9501a35e67c74bba3a0ec2c69acb88bb264d818e534d7ead2119f092a28c0fae",
+            "updatedAt": "2026-02-25T00:32:40.809Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Hildegarda de Bingen, Virgen y Doctora de la Iglesia—Memoria Opcional",
+  "name_pl": "Święta Hildegarda z Bingen, Dziewica i Doktor Kościoła — Wspomnienie dowolne",
+  "feast_es": "El Decimoséptimo Día de Septiembre",
+  "feast_pl": "Siedemnasty Dzień Września"
+}

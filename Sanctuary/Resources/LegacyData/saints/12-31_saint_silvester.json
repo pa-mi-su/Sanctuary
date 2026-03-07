@@ -1,0 +1,79 @@
+{
+  "id": "12-31_saint_silvester",
+  "name": "Saint Silvester",
+  "mmdd": "12-31",
+  "feast": "The Thirty-First Day of December",
+  "summary": "Pope Sylvester I was the bishop of Rome from 31 January 314 until his death on 31 December 335. He filled the See of Rome at an important era in the history of the Western Church, though very little is known of his life.",
+  "biography": "Personal biography\nThe accounts of his pontificate preserved in the seventh- or eighth-century Liber Pontificalis contain little more than a record of the gifts said to have been conferred on the church by Constantine I, although it does say that he was the son of a Roman named...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Sylvester_I",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-31_saint_silvester.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "14d6708b464c1d5c44b69ec3a9bdccbf9bc20926c332b2b5abeac80f7ba420ec",
+        "langs": {
+          "es": {
+            "translatedHash": "d3b528b63d1c5282b63a994c1d064018b62c886f54fdb82e99a91702be1dba4d",
+            "updatedAt": "2026-02-25T01:35:52.218Z"
+          },
+          "pl": {
+            "translatedHash": "5c41e67a4b18915ee0e6bebbca8d1a9916e321b4c79f85348f74bedd3a14c0a4",
+            "updatedAt": "2026-02-25T01:35:54.165Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "51fa7c915ef6dd6a806e260c463803728e49ca141053861c9429f6da16bbee73",
+        "langs": {
+          "es": {
+            "translatedHash": "f9bcedeedddcfeb49ff454e01eb0e2b5cb4c17d9bdc760c92c7a6d2d709019bd",
+            "updatedAt": "2026-02-25T01:35:54.876Z"
+          },
+          "pl": {
+            "translatedHash": "8d1cf557987286a9fad018eded555e9181f81225f58bc7e5ed60e099f45f1aa1",
+            "updatedAt": "2026-02-25T01:35:55.517Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "6280a7a05510ee6c4f66f91ff99809f8fa8be8a5673a4ae2ca230a0f6c15680e",
+        "langs": {
+          "es": {
+            "translatedHash": "2f149204c90af69f574514c7c12129eed835a87a9f2a6806a29b792a45bf977d",
+            "updatedAt": "2026-02-25T01:35:57.044Z"
+          },
+          "pl": {
+            "translatedHash": "7074ca0c08e027429a0c0aefb5d2472c1f80076b8349c4c44ce4c5a76879f92d",
+            "updatedAt": "2026-02-25T01:35:58.483Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "8407d65d5566787f3a0112a49881e7c48d3338ad02a68b6bd72cffacde1ff1c5",
+        "langs": {
+          "es": {
+            "translatedHash": "0bb68fe2a4bf7fe28d0c522eeec3947c1c4b89fd3af16da527be686cbc9804d7",
+            "updatedAt": "2026-02-25T01:35:59.828Z"
+          },
+          "pl": {
+            "translatedHash": "cc879cd8315b5ad2fe3ea7d53855695a9ab42bc33baae5ee77cb1ecaa46bfd84",
+            "updatedAt": "2026-02-25T01:36:01.541Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Silvestre",
+  "name_pl": "Święty Sylwester",
+  "feast_es": "El Trigésimo Primer Día de Diciembre",
+  "feast_pl": "Trzydziesty pierwszy dzień grudnia",
+  "summary_es": "El Papa Silvestre I fue obispo de Roma desde el 31 de enero del año 314 hasta su muerte el 31 de diciembre del año 335. Ocupó la Sede de Roma en una época importante en la historia de la Iglesia Occidental, aunque se sabe muy poco acerca de su vida.",
+  "summary_pl": "Papież Sylwester I był biskupem Rzymu od 31 stycznia 314 roku aż do swojej śmierci 31 grudnia 335 roku. Sprawował urząd biskupa Rzymu w ważnym okresie w historii Kościoła Zachodniego, choć o jego życiu wiadomo bardzo niewiele.",
+  "biography_es": "Biografía personal  \nLos relatos de su pontificado conservados en el Liber Pontificalis del siglo VII u VIII contienen poco más que un registro de los dones que se dice que Constantino I concedió a la iglesia, aunque se menciona que fue hijo de un romano llamado...",
+  "biography_pl": "Biografia osobista  \nRelacje o jego pontyfikacie zachowane w Liber Pontificalis z VII lub VIII wieku zawierają niewiele więcej niż zapis darów, które podobno zostały przekazane Kościołowi przez Konstantyna I, chociaż jest tam napisane, że był synem Rzymianina o imieniu..."
+}

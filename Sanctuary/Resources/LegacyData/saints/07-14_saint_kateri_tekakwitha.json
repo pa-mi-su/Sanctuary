@@ -1,0 +1,79 @@
+{
+  "id": "07-14_saint_kateri_tekakwitha",
+  "name": "Saint Kateri Tekakwitha",
+  "mmdd": "07-14",
+  "feast": "The Fourteenth Day of July",
+  "summary": "Kateri Tekakwitha, given the name Tekakwitha (Tekaouïta, baptized as Catherine, known as Lily of the Mohawks and Protectress of Canada, also as Geneviève of New France/ Geneviève of Canada, was a Mohawk/Algonquin young woman when she converted to Catholicism. Committing to live as a virgin, she became known for her devotion to Jesus Christ, diligent work ethic, and dedicated prayers for her fellow Native people. She was canonized in 2012, the first Native American saint.",
+  "biography": "Kateri Tekakwitha (pronounced [ˈɡaderi deɡaˈɡwita] in Mohawk), given the name Tekakwitha (Tekaouïta, baptized as Catherine (\"Kateri\" in Mohawk), known as Lily of the Mohawks (1656 – April 17, 1680) and Protectress of Canada, also as Geneviève of New France/ Geneviève of Canada, was a Mohawk/Algonquin young woman when she converted to Catholicism. Committing to live as a virgin, she became known for her devotion to Jesus Christ, diligent work ethic, and dedicated prayers for her fellow Native people. She was canonized in 2012, the first Native American saint. Born in the Mohawk village of Ossernenon, in present-day New York, she and her family contracted smallpox in an epidemic; she was the only one of the family to survive, but had scarring on her face. She was influenced by French Jesuit missionaries and converted to Catholicism at age 19. After taking a vow of perpetual virginity, she left her village, and moved to the Jesuit mission village of Kahnawake, just south of Montreal. There she died five years later, respected for her piety and good works. She was beatified in 1980 by Pope John Paul II, and canonized by Pope Benedict XVI at Saint Peter's Basilica on 21 October 2012,...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kateri_Tekakwitha",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-14_saint_kateri_tekakwitha.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "fd2d9c719a15d3350a1de25c5b8d81b611be0f351e9ad60cecaf341064e25c84",
+        "langs": {
+          "es": {
+            "translatedHash": "a6572c6331b19477176adbfc71a0abb483bf22470d2eed7c647657bd1f37aaa8",
+            "updatedAt": "2026-02-24T23:57:52.675Z"
+          },
+          "pl": {
+            "translatedHash": "cf2bd08e9932fd8cf36f4a7f6a77ca1164ede53dc490e5532cfc5c64d3ff469d",
+            "updatedAt": "2026-02-24T23:57:53.375Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "d2cd2d15c22d28922948c7b9eee50b11468fe5207159aa42e5b5d1ea6a4a3433",
+        "langs": {
+          "es": {
+            "translatedHash": "8913d9777a05d054e7508e321d3dfae70f3cd384c514d4d65093ed8ef9db373c",
+            "updatedAt": "2026-02-24T23:57:53.964Z"
+          },
+          "pl": {
+            "translatedHash": "73b360e1ea1b423a3885e11ae9dbee5273eb6865e8507e11cd5e9c6b63975372",
+            "updatedAt": "2026-02-24T23:57:54.887Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "7f253d3e02700e5da833b642024d42784092593d97a7b3b27fb01f210e5477e6",
+        "langs": {
+          "es": {
+            "translatedHash": "9d0332aa3eeca31d4e59292af30e4701518d8a04a5312e24673374f1ee4b1ef9",
+            "updatedAt": "2026-02-24T23:57:57.551Z"
+          },
+          "pl": {
+            "translatedHash": "69dac6b5318f9c09a6ab236271648824b267794a11eb083165f9a8e77a2637ef",
+            "updatedAt": "2026-02-24T23:58:00.213Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "7ac519fd4fc5c2b0469bbba3e1e6f821ff1d8c3c397c6d1b902d63395b8661c2",
+        "langs": {
+          "es": {
+            "translatedHash": "ca0133cca65de949a21f7f579f4dd70d49fa54b0251bed013cf77b9f9107bb0e",
+            "updatedAt": "2026-02-24T23:58:05.675Z"
+          },
+          "pl": {
+            "translatedHash": "bdd19df19434eaa376840a277cfec3683a6b770efb41cc3a77b84246319f1846",
+            "updatedAt": "2026-02-24T23:58:12.499Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Kateri Tekakwitha",
+  "name_pl": "Święta Kateri Tekakwitha",
+  "feast_es": "El día catorce de julio",
+  "feast_pl": "Czternasty dzień lipca",
+  "summary_es": "Kateri Tekakwitha, llamada Tekakwitha (Tekaouïta, bautizada como Catalina, conocida como el Lirio de los Mohawks y Protectora de Canadá, también como Genoveva de Nueva Francia/Genoveva de Canadá, fue una joven mohawk/algonquina cuando se convirtió al catolicismo. Comprometiéndose a vivir como virgen, se hizo conocida por su devoción a Jesucristo, su ética de trabajo diligente y sus oraciones dedicadas por su pueblo nativo. Fue canonizada en 2012, la primera santa nativa americana.",
+  "summary_pl": "Kateri Tekakwitha, otrzymała imię Tekakwitha (Tekaouïta), ochrzczona jako Katarzyna, znana jako Lilia Mohawków i Opiekunka Kanady, także jako Genowefa Nowej Francji/Genowefa Kanady, była młodą kobietą Mohawk/Algonkinów, gdy nawróciła się na katolicyzm. Zobowiązując się do życia w czystości, stała się znana ze swojej pobożności wobec Jezusa Chrystusa, sumiennej pracy oraz oddanych modlitw za swoich rodaków. Została kanonizowana w 2012 roku, jako pierwsza święta rdzennych Amerykanów.",
+  "biography_es": "Kateri Tekakwitha (pronunciado [ˈɡaderi deɡaˈɡwita] en mohawk), llamada Tekakwitha (Tekaouïta, bautizada como Catalina (\"Kateri\" en mohawk), conocida como el Lirio de los Mohawks (1656 – 17 de abril de 1680) y Protectora de Canadá, también como Geneviève de Nueva Francia / Geneviève de Canadá, fue una joven mohawk/algonquina cuando se convirtió al catolicismo. Comprometida a vivir como virgen, se hizo conocida por su devoción a Jesucristo, su ética de trabajo diligente y sus oraciones dedicadas por su pueblo nativo. Fue canonizada en 2012, la primera santa nativa americana. Nacida en la aldea mohawk de Ossernenon, en el actual estado de Nueva York, ella y su familia contrajeron viruela en una epidemia; ella fue la única de la familia que sobrevivió, pero quedó con cicatrices en el rostro. Fue influenciada por misioneros jesuitas franceses y se convirtió al catolicismo a los 19 años. Después de hacer un voto de virginidad perpetua, dejó su aldea y se mudó a la aldea misionera jesuita de Kahnawake, justo al sur de Montreal. Allí murió cinco años después, respetada por su piedad y buenas obras. Fue beatificada en 1980 por el Papa Juan Pablo II, y canonizada por el Papa Benedicto XVI en la Basílica de San Pedro el 21 de octubre de 2012,...",
+  "biography_pl": "Kateri Tekakwitha (wymawiana [ˈɡaderi deɡaˈɡwita] w języku Mohawk), otrzymała imię Tekakwitha (Tekaouïta, ochrzczona jako Katarzyna („Kateri” w języku Mohawk), znana jako Lilia Mohawków (1656 – 17 kwietnia 1680) i Opiekunka Kanady, także jako Genowefa Nowej Francji/Genowefa Kanady, była młodą kobietą Mohawk/Algonkin, gdy nawróciła się na katolicyzm. Zobowiązując się do życia w czystości, zasłynęła ze swojej pobożności wobec Jezusa Chrystusa, sumiennej pracy oraz oddanych modlitw za swoich rodaków. Została kanonizowana w 2012 roku, jako pierwsza święta rdzennych Amerykanów. Urodzona w wiosce Mohawków Ossernenon, na terenie dzisiejszego stanu Nowy Jork, wraz z rodziną zachorowała na ospę w czasie epidemii; była jedyną, która przeżyła, jednak na jej twarzy pozostały blizny. Pod wpływem francuskich jezuitów misjonarzy nawróciła się na katolicyzm w wieku 19 lat. Po złożeniu ślubu wieczystej dziewictwa opuściła swoją wioskę i przeniosła się do jezuitów w misji Kahnawake, na południe od Montrealu. Tam zmarła pięć lat później, ciesząc się szacunkiem za swoją pobożność i dobre uczynki. Została beatyfikowana w 1980 roku przez papieża Jana Pawła II, a kanonizowana przez papieża Benedykta XVI w Bazylice św. Piotra 21 października 2012 roku,..."
+}

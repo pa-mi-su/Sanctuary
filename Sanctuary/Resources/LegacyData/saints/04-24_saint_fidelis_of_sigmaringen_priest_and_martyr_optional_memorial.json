@@ -1,0 +1,48 @@
+{
+  "id": "04-24_saint_fidelis_of_sigmaringen_priest_and_martyr_optional_memorial",
+  "name": "Saint Fidelis of Sigmaringen, Priest and Martyr—Optional Memorial",
+  "mmdd": "04-24",
+  "feast": "The Twenty-Fourth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sigmaringen"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-24_saint_fidelis_of_sigmaringen_priest_and_martyr_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1f449c55f758c66720274a54481c82ea5b45b7b44905af7f90bc7678e76f328b",
+        "langs": {
+          "es": {
+            "translatedHash": "fc3da51f28f29d0e3f1fdabcdb77190486ac7a2219d8217c1f519bc2f6183cc4",
+            "updatedAt": "2026-02-24T23:13:54.831Z"
+          },
+          "pl": {
+            "translatedHash": "baf9817ad86572b74e6f53df3ac608254b123882a7ab5f62467635fda3b028e3",
+            "updatedAt": "2026-02-24T23:13:55.626Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "5dd0bfd3917a472efdfda7972259cfecb6cb7e0668eca623079095afe444ef7d",
+        "langs": {
+          "es": {
+            "translatedHash": "5baac8e80b756240cee9ed4d3b2023d8d8da11dd6a4d778dac21b00f6483ea64",
+            "updatedAt": "2026-02-24T23:13:56.282Z"
+          },
+          "pl": {
+            "translatedHash": "4d1f6ebc91f2188dc9397446f36fdc6f61cbd977c956e79b1c9bef208d547413",
+            "updatedAt": "2026-02-24T23:13:57.566Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Fidela de Sigmaringa, Presbítero y Mártir—Memoria Opcional",
+  "name_pl": "Święty Fidelis z Sigmaringen, kapłan i męczennik — wspomnienie dowolne",
+  "feast_es": "El vigésimo cuarto día de abril",
+  "feast_pl": "Dwudziesty czwarty dzień kwietnia"
+}

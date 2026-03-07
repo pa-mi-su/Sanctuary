@@ -1,0 +1,79 @@
+{
+  "id": "06-20_saint_alban",
+  "name": "Saint Alban",
+  "mmdd": "06-20",
+  "feast": "The Twentieth day of June",
+  "summary": "Saint Alban is venerated as the first-recorded British Christian martyr, for which reason he is considered to be the protomartyr of Britain. Along with fellow Saints Julius and Aaron, Alban is one of three named martyrs recorded at an early date from Roman Britain. He is traditionally believed to have been beheaded in Verulamium sometime during the 3rd or 4th century, and has been celebrated there since ancient times.",
+  "biography": "Saint Alban is venerated as the first-recorded British Christian martyr, for which reason he is considered to be the protomartyr of Britain. Along with fellow Saints Julius and Aaron, Alban is one of three named martyrs recorded at an early date from Roman Britain. He is traditionally believed to have been beheaded in Verulamium sometime during the 3rd or 4th century, and has been celebrated there since ancient times.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Alban",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-20_saint_alban.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "1c60589d9fc81d9fbfc10f7642c03b080324191fa78ca3dfcba52ab44753a4c8",
+        "langs": {
+          "es": {
+            "translatedHash": "9d459fbd50411f07bf097c3aefa84e829cfef3e173a67bcba72f46ce91b501c0",
+            "updatedAt": "2026-02-24T23:45:18.145Z"
+          },
+          "pl": {
+            "translatedHash": "6852a36f81601f2417c6d7bf321fd07c7423803390ef74938cd2f72a61495d59",
+            "updatedAt": "2026-02-24T23:45:18.713Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "96d5712a880b84619185610f6ceb05c94ed540edff880aae8daf17aea97701cd",
+        "langs": {
+          "es": {
+            "translatedHash": "841b9eb4bc8d9a06d87a9424dd8ee8da2a3aab4db45192989ab29d171ee5edcd",
+            "updatedAt": "2026-02-24T23:45:19.311Z"
+          },
+          "pl": {
+            "translatedHash": "13f9dfed033d7bc38b6d8799e3ca9ba0abdb5bc7ba3ca883141b248bf532318f",
+            "updatedAt": "2026-02-24T23:45:19.986Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "473b92e6b66a6f903f41f86169d82fe4794ee78bf56ffd72622146eaea2d854c",
+        "langs": {
+          "es": {
+            "translatedHash": "ba558a4465054468be25f84a0be8c3d50af47ba9a42484af3980507497e8d997",
+            "updatedAt": "2026-02-24T23:45:21.978Z"
+          },
+          "pl": {
+            "translatedHash": "573c210647e781daa98835b8901025f0e303f4150e70795db3c7e32fa7b0bbb7",
+            "updatedAt": "2026-02-24T23:45:24.180Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "473b92e6b66a6f903f41f86169d82fe4794ee78bf56ffd72622146eaea2d854c",
+        "langs": {
+          "es": {
+            "translatedHash": "ba9ab314a63e417ce81696a7fb7f68f90ae422f329d23c6b8cdd6c3fea2ff57e",
+            "updatedAt": "2026-02-24T23:45:26.096Z"
+          },
+          "pl": {
+            "translatedHash": "573c210647e781daa98835b8901025f0e303f4150e70795db3c7e32fa7b0bbb7",
+            "updatedAt": "2026-02-24T23:45:28.191Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Albano",
+  "name_pl": "Święty Alban",
+  "feast_es": "El vigésimo día de junio",
+  "feast_pl": "Dwudziesty dzień czerwca",
+  "summary_es": "San Albano es venerado como el primer mártir cristiano británico registrado, por lo que se le considera el protomártir de Gran Bretaña. Junto con los santos Julio y Aarón, Albano es uno de los tres mártires nombrados registrados en una fecha temprana de la Britania romana. Tradicionalmente se cree que fue decapitado en Verulamium en algún momento durante el siglo III o IV, y ha sido celebrado allí desde tiempos antiguos.",
+  "summary_pl": "Święty Alban jest czczony jako pierwszy odnotowany brytyjski męczennik chrześcijański, z tego powodu uważany jest za protomęczennika Brytanii. Razem z towarzyszącymi mu świętymi Juliuszem i Aaronem, Alban jest jednym z trzech wymienionych męczenników z wczesnego okresu rzymskiej Brytanii. Tradycyjnie uważa się, że został ścięty w Verulamium gdzieś w III lub IV wieku, i od starożytności jest tam czczony.",
+  "biography_es": "San Albano es venerado como el primer mártir cristiano británico registrado, por lo cual se le considera el protomártir de Gran Bretaña. Junto con los santos Julián y Aarón, Albano es uno de los tres mártires nombrados que se registran en una fecha temprana de la Britania romana. Tradicionalmente se cree que fue decapitado en Verulamium en algún momento durante el siglo III o IV, y ha sido celebrado allí desde tiempos antiguos.",
+  "biography_pl": "Święty Alban jest czczony jako pierwszy odnotowany brytyjski męczennik chrześcijański, z tego powodu uważany jest za protomęczennika Brytanii. Razem z towarzyszącymi mu świętymi Juliuszem i Aaronem, Alban jest jednym z trzech wymienionych męczenników z wczesnego okresu rzymskiej Brytanii. Tradycyjnie uważa się, że został ścięty w Verulamium gdzieś w III lub IV wieku, i od starożytności jest tam czczony."
+}

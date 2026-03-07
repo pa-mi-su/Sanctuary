@@ -1,0 +1,79 @@
+{
+  "id": "03-06_saint_colette",
+  "name": "Saint Colette",
+  "mmdd": "03-06",
+  "feast": "The Sixth day of March",
+  "summary": "Colette Edwidge Hélène Lejeune, who wrote under the pseudonym Colette Vivier, was a French author of children’s literature. In 1972 and 1974, she was highly commended as an author of children's literature by the Hans Christian Andersen Award.",
+  "biography": "Colette Edwidge Hélène Lejeune (4 July 1898 – 9 September 1979), who wrote under the pseudonym Colette Vivier, was a French author of children’s literature. In 1972 and 1974, she was highly commended as an author of children's literature by the Hans Christian Andersen Award. Biography Vivier was born on 4 July 1898 in the 17th arrondissement of Paris, France in a bourgeoisie household. She married an academic named Jean Duval, and was also known by the name Colette Duval-Lejeune. Vivier frequently visited a primary school in the Parisian neighborhood of Batignolles. Inspired by the young girls from working-class families that attended the school, she based her writing off of her observations of their families. She wrote a number of novels focused on childhood, many of which were written in the style of a diary. One of her books, La Maison des Petits Bonheurs (1939), was written from the perspective a young girl writing in her diary. In 1939, the book received the Prix Jeunesse (Youth Prize). During World War II, Vivier and her husband were active in the French Resistance. They were members of the resistance group Friends of Alain-Fournier, along with other academics Claude Aveline...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colette_Vivier",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_colette.png",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "70677d723a23501e53f2b707ae0beaf532c97e3ec829951ca37291396880df39",
+        "langs": {
+          "es": {
+            "translatedHash": "28f8ab61e9abf62e9a570d94aec798516a344d918b83a2878a71762a411bc487",
+            "updatedAt": "2026-02-24T22:48:48.988Z"
+          },
+          "pl": {
+            "translatedHash": "b9134acf9659d3f50e6b9594551599af73914dd77bd71a9e0e33f01664499b05",
+            "updatedAt": "2026-02-24T22:48:49.577Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "a54e0c633c22d098a62b0ace0ad3da709ca68ef7219e86afd92c22896eaecc85",
+        "langs": {
+          "es": {
+            "translatedHash": "f9cde655c8d090d768eceea9eb4d238aee5887269c6d1dd5f3012c3f24efcda7",
+            "updatedAt": "2026-02-24T22:48:50.131Z"
+          },
+          "pl": {
+            "translatedHash": "297dca4a74fc1fd6b968c053e69d9c221827ea709c042efca67e451e7b92b529",
+            "updatedAt": "2026-02-24T22:48:50.718Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "171ef4265e150c74ff6b7a9b418e2aad6c6188d1efdfff240821428d9e84d04a",
+        "langs": {
+          "es": {
+            "translatedHash": "d8ac3eedbf30fa7f7837d811fb7669b810e7a6a1ba54089fc8b006249e7c7cc3",
+            "updatedAt": "2026-02-24T22:48:51.940Z"
+          },
+          "pl": {
+            "translatedHash": "c5aa1fa669d97d291e1d876ed9e1761e6029b3aa0372d44033a1ee885c950dee",
+            "updatedAt": "2026-02-24T22:48:53.535Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "c6d44756e774e309bd9a2083ed99c37a50c3a8947fd96ce7288e0ddc9e90e96a",
+        "langs": {
+          "es": {
+            "translatedHash": "97bf2b5f01bfd1552cf1a6f2e7daa99b5282aa30232840c41c9c9b6048c912c5",
+            "updatedAt": "2026-02-24T22:48:59.280Z"
+          },
+          "pl": {
+            "translatedHash": "d6581930196e84d86c8f8219e5a5aae45c34c08064a8eb12bc03bb23fedde023",
+            "updatedAt": "2026-02-24T22:49:01.751Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Coleta",
+  "name_pl": "Święta Coleta",
+  "feast_es": "El sexto día de marzo",
+  "feast_pl": "Szósty dzień marca",
+  "summary_es": "Colette Edwidge Hélène Lejeune, que escribió bajo el seudónimo de Colette Vivier, fue una autora francesa de literatura infantil. En 1972 y 1974, fue muy elogiada como autora de literatura infantil por el Premio Hans Christian Andersen.",
+  "summary_pl": "Colette Edwidge Hélène Lejeune, która pisała pod pseudonimem Colette Vivier, była francuską autorką literatury dziecięcej. W latach 1972 i 1974 została wysoko wyróżniona jako autorka literatury dziecięcej przez Nagrodę im. Hansa Christiana Andersena.",
+  "biography_es": "Colette Edwidge Hélène Lejeune (4 de julio de 1898 – 9 de septiembre de 1979), que escribió bajo el seudónimo de Colette Vivier, fue una autora francesa de literatura infantil. En 1972 y 1974, fue altamente reconocida como autora de literatura infantil por el Premio Hans Christian Andersen.\n\nBiografía\n\nVivier nació el 4 de julio de 1898 en el distrito 17 de París, Francia, en un hogar de clase burguesa. Se casó con un académico llamado Jean Duval, y también fue conocida por el nombre de Colette Duval-Lejeune. Vivier visitaba frecuentemente una escuela primaria en el barrio parisino de Batignolles. Inspirada por las niñas jóvenes de familias trabajadoras que asistían a la escuela, basó su escritura en sus observaciones sobre sus familias.\n\nEscribió varias novelas centradas en la infancia, muchas de las cuales fueron escritas en estilo de diario. Uno de sus libros, La Maison des Petits Bonheurs (1939), fue escrito desde la perspectiva de una niña que escribe en su diario. En 1939, el libro recibió el Prix Jeunesse (Premio Juventud).\n\nDurante la Segunda Guerra Mundial, Vivier y su esposo estuvieron activos en la Resistencia Francesa. Fueron miembros del grupo de resistencia Amigos de Alain-Fournier, junto con otros académicos como Claude Aveline...",
+  "biography_pl": "Colette Edwidge Hélène Lejeune (4 lipca 1898 – 9 września 1979), która pisała pod pseudonimem Colette Vivier, była francuską autorką literatury dziecięcej. W latach 1972 i 1974 została wysoko wyróżniona jako autorka literatury dziecięcej przez Nagrodę im. Hansa Christiana Andersena.\n\nBiografia\n\nVivier urodziła się 4 lipca 1898 roku w 17. dzielnicy Paryża we Francji, w burżuazyjnej rodzinie. Wyszła za mąż za akademika o imieniu Jean Duval i była również znana pod nazwiskiem Colette Duval-Lejeune. Vivier często odwiedzała szkołę podstawową w paryskiej dzielnicy Batignolles. Zainspirowana młodymi dziewczynkami z rodzin robotniczych uczęszczającymi do tej szkoły, opierała swoje pisarstwo na obserwacjach ich rodzin. Napisała wiele powieści skupiających się na dzieciństwie, z których wiele było napisanych w formie pamiętnika. Jedna z jej książek, La Maison des Petits Bonheurs (1939), została napisana z perspektywy młodej dziewczynki piszącej w swoim dzienniku. W 1939 roku książka otrzymała Prix Jeunesse (Nagrodę Młodzieżową). \n\nPodczas II wojny światowej Vivier i jej mąż byli aktywni w ruchu oporu we Francji. Byli członkami grupy oporu Przyjaciele Alaina-Fourniera, wraz z innymi akademikami, takimi jak Claude Aveline..."
+}

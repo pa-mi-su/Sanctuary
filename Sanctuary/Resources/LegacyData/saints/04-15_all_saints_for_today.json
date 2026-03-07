@@ -1,0 +1,46 @@
+{
+  "id": "04-15_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "04-15",
+  "feast": "The Fifteenth Day of April",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-24T23:09:31.875Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-24T23:09:32.503Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "84359f0a9ae1a629929d45b124c01be949e85ab69793f4a946b4a25073f00018",
+        "langs": {
+          "es": {
+            "translatedHash": "fdc61b83e7139a1dc4bf7b0bb96112933545a2422e7aca98ce8e405a41ee7dec",
+            "updatedAt": "2026-02-24T23:09:33.326Z"
+          },
+          "pl": {
+            "translatedHash": "87f1bb13eac3d958efe4286d096bc66278ae5226fe748ee72f3c1c95e00fa23a",
+            "updatedAt": "2026-02-24T23:09:33.948Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El Quince de Abril",
+  "feast_pl": "Piętnasty Dzień Kwietnia"
+}

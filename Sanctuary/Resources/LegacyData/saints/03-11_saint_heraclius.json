@@ -1,0 +1,79 @@
+{
+  "id": "03-11_saint_heraclius",
+  "name": "Saint Heraclius",
+  "mmdd": "03-11",
+  "feast": "The Eleventh Day of March",
+  "summary": "The Forty Martyrs of Sebaste or the Holy Forty were a group of Roman soldiers in the Legio XII Fulminata whose martyrdom in the year 320 AD for the Christian faith is recounted in traditional martyrologies.",
+  "biography": "Martyrdom\n\nAccording to Basil, forty soldiers who had openly confessed themselves Christians were condemned by the prefect to be exposed naked upon a frozen pond near Sebaste on a bitterly cold night, that they might freeze to death. Among the confessors, one yielded and, leaving his companions, sought the warm baths near the lake which had been prepared for any who might prove inconstant....",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-11_saint_heraclius.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "c854c38cf3565b4139cb4209168d9c0f88c06fc62961857ab9462d762e0c9458",
+        "langs": {
+          "es": {
+            "translatedHash": "d0af74b1643cdfc36e87de9db15c1bf3b3afdbba7288788f6accb680913ba361",
+            "updatedAt": "2026-02-24T22:52:09.342Z"
+          },
+          "pl": {
+            "translatedHash": "60ab105d89a2200b818f76d26ca99a4fc793050e6605d6e2d56dd0146664323b",
+            "updatedAt": "2026-02-24T22:52:10.119Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "e561c4be213f2932cf19c72011f9848a1092ed50224e2b371240a4a8da75a6b8",
+        "langs": {
+          "es": {
+            "translatedHash": "1490e033301ace5ea87ebc47e7b2502b316eb38e22291b2c6e07da09599b33f9",
+            "updatedAt": "2026-02-24T22:52:10.701Z"
+          },
+          "pl": {
+            "translatedHash": "ead39c807f58214a22aed1a629187167f1de60e82b68f1793404a0990ba8457c",
+            "updatedAt": "2026-02-24T22:52:11.257Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2df9ca3739f7e6fd1b39a629078f52a75c8d384db13d5e5d9502cdddf3226734",
+        "langs": {
+          "es": {
+            "translatedHash": "cea460e2d18452c6e4fe060a66d037930081bc543ee2c8669878fa1bce48d14b",
+            "updatedAt": "2026-02-24T22:52:12.581Z"
+          },
+          "pl": {
+            "translatedHash": "a856dbcc26cc47495c3a55db3a5bc59a8a555c0eac3889db331f9465cb4b2797",
+            "updatedAt": "2026-02-24T22:52:14.011Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "66ad4b1716013b5d05145a180fb82dc0acdc1f5f0cd4cecb03c1c796302fd034",
+        "langs": {
+          "es": {
+            "translatedHash": "dee1c0da16734e070b14474814f3c1160e9c9e70b681f860f0d970dce71df98d",
+            "updatedAt": "2026-02-24T22:52:16.173Z"
+          },
+          "pl": {
+            "translatedHash": "39184a932898c670b173430d2024a52e429f37a1bb714583728e4aa07f82e153",
+            "updatedAt": "2026-02-24T22:52:17.908Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Heraclio",
+  "name_pl": "Święty Herakliusz",
+  "feast_es": "El Undécimo Día de Marzo",
+  "feast_pl": "Jedenasty Dzień Marca",
+  "summary_es": "Los Cuarenta Mártires de Sebaste o los Santos Cuarenta fueron un grupo de soldados romanos de la Legio XII Fulminata cuyo martirio en el año 320 d.C. por la fe cristiana es relatado en los martirologios tradicionales.",
+  "summary_pl": "Czterdziestu Męczenników z Sebasty lub Święci Czterdziestu byli grupą rzymskich żołnierzy z Legio XII Fulminata, których męczeństwo w roku 320 n.e. za wiarę chrześcijańską jest opisane w tradycyjnych martyrologiach.",
+  "biography_es": "Martirio\n\nSegún Basilio, cuarenta soldados que se habían confesado abiertamente cristianos fueron condenados por el prefecto a ser expuestos desnudos sobre un estanque congelado cerca de Sebaste en una noche gélida, para que murieran de frío. Entre los confesores, uno cedió y, dejando a sus compañeros, buscó los baños calientes cerca del lago que se habían preparado para cualquiera que pudiera mostrarse inconstante....",
+  "biography_pl": "Męczeństwo\n\nWedług Bazylego, czterdziestu żołnierzy, którzy otwarcie wyznali się jako chrześcijanie, zostało skazanych przez prefekta na wystawienie nago na zamarzniętym stawie niedaleko Sebasty w mroźną, zimną noc, aby zamarzli na śmierć. Wśród wyznawców jeden uległ i, opuszczając towarzyszy, udał się do ciepłych łaźni nad jeziorem, które przygotowano dla tych, którzy mogliby okazać się niewierni...."
+}

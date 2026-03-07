@@ -1,0 +1,48 @@
+{
+  "id": "12-10_our_lady_of_loreto_optional_memorial",
+  "name": "Our Lady of Loreto—Optional Memorial",
+  "mmdd": "12-10",
+  "feast": "The Tenth Day of December",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/12-10_our_lady_of_loreto_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "7b86b793c566526d02282ec54f93da923f236cc72b58a20e050ea4579478b55a",
+        "langs": {
+          "es": {
+            "translatedHash": "3c958b09372bd96e885be77fabd3935e2b2b6d45dbdf71bf25c00d9335e25bc8",
+            "updatedAt": "2026-02-25T01:23:17.710Z"
+          },
+          "pl": {
+            "translatedHash": "4841149d5d447c0737bf90da3735a1106f387b49027343dd6d69d4ecf90098ca",
+            "updatedAt": "2026-02-25T01:23:18.400Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "53a7818ddf6321329244e175db6794373f3cc488365525e42a2371808b4ab34b",
+        "langs": {
+          "es": {
+            "translatedHash": "378054e5d083ec717c38dfcb4466aacb57eac33af4f6e235b23be075e225cc11",
+            "updatedAt": "2026-02-25T01:23:18.940Z"
+          },
+          "pl": {
+            "translatedHash": "6c4b290bc52fdddd3ce07d804243d9cc9797fb641b4fc96194c00bfa86bd36d6",
+            "updatedAt": "2026-02-25T01:23:19.646Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Nuestra Señora de Loreto—Memoria Opcional",
+  "name_pl": "Matka Boża Loretańska — Wspomnienie dowolne",
+  "feast_es": "El Día Diez de Diciembre",
+  "feast_pl": "Dziesiąty dzień grudnia"
+}

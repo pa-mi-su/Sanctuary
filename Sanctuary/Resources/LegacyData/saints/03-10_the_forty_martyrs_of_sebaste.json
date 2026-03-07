@@ -1,0 +1,79 @@
+{
+  "id": "03-10_the_forty_martyrs_of_sebaste",
+  "name": "The Forty Martyrs of Sebaste",
+  "mmdd": "03-10",
+  "feast": "The Tenth Day of March",
+  "summary": "The Forty Martyrs of Sebaste or the Holy Forty were a group of Roman soldiers in the Legio XII Fulminata whose martyrdom in the year 320 AD for the Christian faith is recounted in traditional martyrologies.",
+  "biography": "The Forty Martyrs of Sebaste or the Holy Forty were a group of Roman soldiers in the Legio XII Fulminata whose martyrdom in the year 320 AD for the Christian faith is recounted in traditional martyrologies.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-10_the_forty_martyrs_of_sebaste.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "d3cb362db544929541921dd27fa2a57a00497db063a8353bbaa036b57ac6b6ef",
+        "langs": {
+          "es": {
+            "translatedHash": "af08b50f3e080b2407700bd42060906c2c48de49d4c3f9738a4ad6ff9e1dfcd3",
+            "updatedAt": "2026-02-24T22:51:36.488Z"
+          },
+          "pl": {
+            "translatedHash": "90b36575583bf8c5ad0e8c9f109c4b07bc6d3f0b94c68d5e27ec16cafe545f76",
+            "updatedAt": "2026-02-24T22:51:37.334Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "1e799f7b154232fd4ebc5645dd82cb0d8b33b96b83b1b947b8cc74dbb26ccb05",
+        "langs": {
+          "es": {
+            "translatedHash": "396fd38c6f1c0fc10ef6a08a7ae27dd4f72f7c5d11cd638df99176afe05f0ccd",
+            "updatedAt": "2026-02-24T22:51:38.046Z"
+          },
+          "pl": {
+            "translatedHash": "3b7ab36783ccb9d49526a3512a38b03e2891b002c3486e22c6f04db43b248e43",
+            "updatedAt": "2026-02-24T22:51:38.782Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2df9ca3739f7e6fd1b39a629078f52a75c8d384db13d5e5d9502cdddf3226734",
+        "langs": {
+          "es": {
+            "translatedHash": "90a787a65abab88a4e13b6b23a7df08bb31bb37f64f80a295ec381dd9cafa857",
+            "updatedAt": "2026-02-24T22:51:40.095Z"
+          },
+          "pl": {
+            "translatedHash": "b5cdae09a3cf4c7d417e199d47fbd7fd5addfec27afdd87c8c20843d0ff2f659",
+            "updatedAt": "2026-02-24T22:51:42.265Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "2df9ca3739f7e6fd1b39a629078f52a75c8d384db13d5e5d9502cdddf3226734",
+        "langs": {
+          "es": {
+            "translatedHash": "cea460e2d18452c6e4fe060a66d037930081bc543ee2c8669878fa1bce48d14b",
+            "updatedAt": "2026-02-24T22:51:43.814Z"
+          },
+          "pl": {
+            "translatedHash": "b5cdae09a3cf4c7d417e199d47fbd7fd5addfec27afdd87c8c20843d0ff2f659",
+            "updatedAt": "2026-02-24T22:51:45.762Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Los Cuarenta Mártires de Sebaste",
+  "name_pl": "Czterdziestu Męczenników z Sebasty",
+  "feast_es": "El Décimo Día de Marzo",
+  "feast_pl": "Dziesiąty dzień marca",
+  "summary_es": "Los Cuarenta Mártires de Sebaste o los Santos Cuarenta fueron un grupo de soldados romanos de la Legio XII Fulminata cuyo martirio en el año 320 d.C. por la fe cristiana se relata en los martirologios tradicionales.",
+  "summary_pl": "Czterdziestu Męczenników z Sebasty, zwanych także Świętymi Czterdziestoma, to grupa rzymskich żołnierzy z Legii XII Fulminata, których męczeństwo za wiarę chrześcijańską w roku 320 n.e. jest opisane w tradycyjnych martyrologiach.",
+  "biography_es": "Los Cuarenta Mártires de Sebaste o los Santos Cuarenta fueron un grupo de soldados romanos de la Legio XII Fulminata cuyo martirio en el año 320 d.C. por la fe cristiana es relatado en los martirologios tradicionales.",
+  "biography_pl": "Czterdziestu Męczenników z Sebasty, zwanych także Świętymi Czterdziestoma, to grupa rzymskich żołnierzy z Legii XII Fulminata, których męczeństwo za wiarę chrześcijańską w roku 320 n.e. jest opisane w tradycyjnych martyrologiach."
+}

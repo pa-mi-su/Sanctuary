@@ -1,0 +1,64 @@
+{
+  "id": "01-23_saint_marianne_cope_virgin_usa_optional_memorial",
+  "name": "Saint Marianne Cope, Virgin—USA Optional Memorial",
+  "mmdd": "01-23",
+  "feast": "The Twenty-Third Day of January",
+  "summary": "Marianne Cope, OSF, also known as Marianne of Molokaʻi, was a German-born American member of the Sisters of St. Francis of Syracuse. She was founding director of St. Joseph's Hospital in the city, among the first general hospitals in the country. In 1883, she led a group of six other sisters to the Kingdom of Hawaii to care for lepers in Molokaʻi and aid in developing the kingdom's medical infrastructure. Despite direct contact with patients over many years, Cope did not contract the disease. In 2005, she was beatified by Pope Benedict XVI. She was canonized in 2012.",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marianne_Cope",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-23_saint_marianne_cope_virgin_usa_optional_memorial.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "043caa9a66731dd52c49846cab85eb9c2eda34e877d31c436398653215200e4e",
+        "langs": {
+          "es": {
+            "translatedHash": "5635d5c4648c2ccc22a8d71bbadaefc207c54c21a6215305186df557db96fc07",
+            "updatedAt": "2026-02-24T22:20:12.533Z"
+          },
+          "pl": {
+            "translatedHash": "ef7b1b247e85e7c8fd32137e43870e3ead35cfdc1435568319063a81562112e7",
+            "updatedAt": "2026-02-24T22:20:13.327Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "158d848445c7b1c485086a34944c1a3ac9e6d66a8adb46f1c15401c88529a848",
+        "langs": {
+          "es": {
+            "translatedHash": "df329e8d050e6defcf20bdcaa3fe6946408fc4823c280f555e66d2960d72bede",
+            "updatedAt": "2026-02-24T22:20:13.968Z"
+          },
+          "pl": {
+            "translatedHash": "6a5a3dfa46e8363427670d2fa121e1a482afbb928e2bbaacc939f891b9627204",
+            "updatedAt": "2026-02-24T22:20:14.649Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "f874485c71ada8730d7a7650987cc13ed2d19347f2bf7e5cd86a750fedc88e2f",
+        "langs": {
+          "es": {
+            "translatedHash": "242c83f77d38fe5ef34582ef19e63106b848a104dd60767c92fdc62c135a80fb",
+            "updatedAt": "2026-02-24T22:20:17.034Z"
+          },
+          "pl": {
+            "translatedHash": "7eca489d45239d661024e094ecd1bd1b3c5b306201a4addaf0f79021e4658450",
+            "updatedAt": "2026-02-24T22:20:20.463Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santa Marianne Cope, Virgen—Memoria Opcional de Estados Unidos",
+  "name_pl": "Święta Marianne Cope, Dziewica — wspomnienie dowolne w USA",
+  "feast_es": "El Veintitrés de Enero",
+  "feast_pl": "Dwudziesty trzeci dzień stycznia",
+  "summary_es": "Marianne Cope, OSF, también conocida como Marianne de Molokaʻi, fue una estadounidense nacida en Alemania y miembro de las Hermanas de San Francisco de Syracuse. Fue directora fundadora del Hospital San José en la ciudad, uno de los primeros hospitales generales del país. En 1883, lideró un grupo de otras seis hermanas al Reino de Hawái para cuidar a los leprosos en Molokaʻi y ayudar en el desarrollo de la infraestructura médica del reino. A pesar del contacto directo con los pacientes durante muchos años, Cope no contrajo la enfermedad. En 2005, fue beatificada por el Papa Benedicto XVI. Fue canonizada en 2012.",
+  "summary_pl": "Marianne Cope, OSF, znana również jako Marianne z Molokaʻi, była niemiecko-amerykańską członkinią Sióstr św. Franciszka z Syracuse. Była założycielką i dyrektorką Szpitala św. Józefa w tym mieście, jednego z pierwszych szpitali ogólnych w kraju. W 1883 roku poprowadziła grupę sześciu innych sióstr do Królestwa Hawajów, aby opiekować się trędowatymi na Molokaʻi oraz pomagać w rozwoju infrastruktury medycznej królestwa. Pomimo bezpośredniego kontaktu z pacjentami przez wiele lat, Cope nie zaraziła się chorobą. W 2005 roku została beatyfikowana przez papieża Benedykta XVI. Kanonizowano ją w 2012 roku."
+}

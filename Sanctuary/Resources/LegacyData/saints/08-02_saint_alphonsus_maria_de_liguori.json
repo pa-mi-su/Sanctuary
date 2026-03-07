@@ -1,0 +1,79 @@
+{
+  "id": "08-02_saint_alphonsus_maria_de_liguori",
+  "name": "Saint Alphonsus Maria de Liguori",
+  "mmdd": "08-02",
+  "feast": "The Second Day of August",
+  "summary": "Alphonsus Maria de Liguori was an Italian Catholic bishop and saint, as well as a spiritual writer, composer, musician, artist, poet, lawyer, scholastic philosopher, and theologian. He founded the Congregation of the Most Holy Redeemer, known as the Redemptorists, in November 1732.",
+  "biography": "Saint Pantaleon, counted in Western Christianity as among the Fourteen Holy Helpers of the Late Middle Ages, and in Eastern Christianity as one of the Holy Unmercenary Healers, was a martyr of Nicomedia in Bithynia during the Diocletianic Persecution of 305 AD.",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alphonsus_Liguori",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/08-02_saint_alphonsus_maria_de_liguori.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "122cb5d8b830304afbd61ff0ae9d7b791c895fe7ee688dc10e1925044d87ccfa",
+        "langs": {
+          "es": {
+            "translatedHash": "8490d357bc55c2f4f2e3b236d99bae29098147d7e1c78b63a3a4aaa60989f0fe",
+            "updatedAt": "2026-02-25T00:08:43.240Z"
+          },
+          "pl": {
+            "translatedHash": "31c56892dc84b6676500af4347a39ea647359c32b746bb69c1545c9955f45fce",
+            "updatedAt": "2026-02-25T00:08:43.922Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "52ae4ca2761c5f9a8fbe65b138d17ceb9f3d9e2b6c87e9148a241a7bd92eff27",
+        "langs": {
+          "es": {
+            "translatedHash": "6c17c77ae86aae92875cc9fd01567037237b6b6bc489a668860294fdaaa5facd",
+            "updatedAt": "2026-02-25T00:08:44.581Z"
+          },
+          "pl": {
+            "translatedHash": "b2b8a507a726726a8aa6cc333c67facd286dc629dea0c74e6d0bff7246b9d9ea",
+            "updatedAt": "2026-02-25T00:08:45.054Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "5365ae4883c06bbbbfa0f7296023cd5eb5f13e6fd14597eb6eee07e538e586d5",
+        "langs": {
+          "es": {
+            "translatedHash": "1a5fa211464b680d304015a54e535624eadba9543538a2d6f2eb1f2fca99c8e6",
+            "updatedAt": "2026-02-25T00:08:46.597Z"
+          },
+          "pl": {
+            "translatedHash": "3567e0ee4ee35aa5d0df4b60aae721a490703cfb5a6ea49d8c5eac4105c389df",
+            "updatedAt": "2026-02-25T00:08:48.485Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "3562e55c0324a46ac56b81ea2f256bd6a192604d9bea1a2e27bfaa2c2ea55b5a",
+        "langs": {
+          "es": {
+            "translatedHash": "e4e1f99645b0dd4aad322e538b94bfcf0504c077e20c8af7d13a7a0d19a60f36",
+            "updatedAt": "2026-02-25T00:08:49.910Z"
+          },
+          "pl": {
+            "translatedHash": "d28f35062df93a56625a8b0cf6b67e2b423faf5396f452917804baef26ac23ea",
+            "updatedAt": "2026-02-25T00:08:51.701Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Alfonso María de Ligorio",
+  "name_pl": "Święty Alfons Maria de Liguori",
+  "feast_es": "El Segundo Día de Agosto",
+  "feast_pl": "Drugi dzień sierpnia",
+  "summary_es": "Alfonso María de Ligorio fue un obispo y santo católico italiano, así como un escritor espiritual, compositor, músico, artista, poeta, abogado, filósofo escolástico y teólogo. Fundó la Congregación del Santísimo Redentor, conocida como los Redentoristas, en noviembre de 1732.",
+  "summary_pl": "Alfons Maria de Liguori był włoskim katolickim biskupem i świętym, a także pisarzem duchowym, kompozytorem, muzykiem, artystą, poetą, prawnikiem, filozofem scholastycznym i teologiem. Założył Zgromadzenie Najświętszego Odkupiciela, znane jako Redemptoryści, w listopadzie 1732 roku.",
+  "biography_es": "San Pantaleón, contado en el cristianismo occidental entre los Catorce Santos Auxiliadores de la Baja Edad Media, y en el cristianismo oriental como uno de los Santos Incurables, fue un mártir de Nicomedia en Bitinia durante la persecución de Diocleciano en el año 305 d.C.",
+  "biography_pl": "Święty Pantaleon, zaliczany w chrześcijaństwie zachodnim do Czternastu Świętych Wspomożycieli późnego średniowiecza, a w chrześcijaństwie wschodnim do Świętych Niezłomnych Lekarzy, był męczennikiem z Nikomedii w Bitynii podczas prześladowań Dioklecjana w 305 roku n.e."
+}

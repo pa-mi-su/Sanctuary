@@ -1,0 +1,79 @@
+{
+  "id": "04-04_saint_isidore_of_seville",
+  "name": "Saint Isidore (of Seville)",
+  "mmdd": "04-04",
+  "feast": "The Fourth Day of April",
+  "summary": "Isidore of Seville was a Hispano-Roman scholar, theologian and archbishop of Seville. He is widely regarded, in the words of the 19th-century historian Charles Forbes René de Montalembert, as \"the last scholar of the ancient world\".",
+  "biography": "Isidore of Seville (Latin: Isidorus Hispalensis; c. 560 – 4 April 636) was a Hispano-Roman scholar, theologian and archbishop of Seville. He is widely regarded, in the words of the 19th-century historian Charles Forbes René de Montalembert, as \"the last scholar of the ancient world\". At a time of disintegration of classical culture, aristocratic violence, and widespread illiteracy, Isidore was involved in the conversion of the Arian Visigothic kings to Catholicism, both assisting his brother Leander of Seville and continuing after Leander's death. He was influential in the inner circle of Sisebut, Visigothic king of Hispania. Like Leander, he played a prominent role in the Councils of Toledo and Seville. His fame after his death was based on his Etymologiae, an etymological encyclopedia that assembled extracts of many books from classical antiquity that would otherwise have been lost. This work also helped to standardise the use of the full stop, comma and colon. Since the Early Middle Ages, Isidore has sometimes been called Isidore the Younger or Isidore Junior (Latin: Isidorus iunior), because of the earlier history purportedly written by Isidore of Córdoba. Childhood and education...",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isidore_of_Seville",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/04-04_saint_isidore_of_seville.jpeg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "14a1f9d972c5083bbb903e5ca8a8df494ac6d82851926f7c20b7b8afb74c7d27",
+        "langs": {
+          "es": {
+            "translatedHash": "186db209efc579a8ac3cff650c0303be5006ed2e0decfa0b53cdc984fca4a670",
+            "updatedAt": "2026-02-24T23:03:56.659Z"
+          },
+          "pl": {
+            "translatedHash": "bd6acdbab211387968e78e386354cea9620602c1a1b190d7bc751bb72c3a7341",
+            "updatedAt": "2026-02-24T23:03:57.347Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "4049a731d1a30652c95e3e4c00b328ab7596a703bea310c82512aa0f130fb787",
+        "langs": {
+          "es": {
+            "translatedHash": "0ec4657fce6d3e5bed3fa17ca0a41166a089b8bcc440a3358a8aa1d04a303f1c",
+            "updatedAt": "2026-02-24T23:03:57.967Z"
+          },
+          "pl": {
+            "translatedHash": "9163c9926d2bc9e7eac6503573ff7b9a0c20fddfd2a20e32151db693f94a74a2",
+            "updatedAt": "2026-02-24T23:03:59.450Z"
+          }
+        }
+      },
+      "summary": {
+        "sourceHash": "2effc12d5c1b6bf52f71ffd649c1900ccfc7212094ca3aa3e2bd76cd98bc6c27",
+        "langs": {
+          "es": {
+            "translatedHash": "08e072dedd822dbd6013d8daba53ae08ce48159b41befde41d9b3d5be5ea05d7",
+            "updatedAt": "2026-02-24T23:04:00.634Z"
+          },
+          "pl": {
+            "translatedHash": "ce84c7d2bd7450a67e3a30b3a60ff60223f2913fcb9b9a4ab7eb8a56e359eb38",
+            "updatedAt": "2026-02-24T23:04:02.287Z"
+          }
+        }
+      },
+      "biography": {
+        "sourceHash": "6c1468ec872408eabc438eeb629e8299a2d68811cf853dff6be6ee2a3f0e90d1",
+        "langs": {
+          "es": {
+            "translatedHash": "9b8a6f45488164f3a2f6c4dd0d740aff5179b5d67bb1413669b6ec3cc5227866",
+            "updatedAt": "2026-02-24T23:04:08.337Z"
+          },
+          "pl": {
+            "translatedHash": "cfcb889f0170f9f8765c42ff5df1cc00ec925fbbac6c417ebbce8d70354fe8f3",
+            "updatedAt": "2026-02-24T23:04:14.524Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "San Isidro (de Sevilla)",
+  "name_pl": "Święty Izydor (z Sewilli)",
+  "feast_es": "El Cuarto Día de Abril",
+  "feast_pl": "Czwarty dzień kwietnia",
+  "summary_es": "Isidoro de Sevilla fue un erudito hispanorromano, teólogo y arzobispo de Sevilla. Es ampliamente considerado, en palabras del historiador del siglo XIX Charles Forbes René de Montalembert, como \"el último erudito del mundo antiguo\".",
+  "summary_pl": "Izydor z Sewilli był hiszpańsko-rzymskim uczonym, teologiem i arcybiskupem Sewilli. Jest powszechnie uważany, słowami historyka XIX wieku Charlesa Forbesa René de Montalemberta, za „ostatniego uczonego starożytnego świata”.",
+  "biography_es": "Isidro de Sevilla (latín: Isidorus Hispalensis; c. 560 – 4 de abril de 636) fue un erudito hispano-romano, teólogo y arzobispo de Sevilla. Es ampliamente considerado, en palabras del historiador del siglo XIX Charles Forbes René de Montalembert, como \"el último erudito del mundo antiguo\". En una época de desintegración de la cultura clásica, violencia aristocrática y analfabetismo generalizado, Isidro participó en la conversión de los reyes visigodos arrianos al catolicismo, asistiendo tanto a su hermano Leandro de Sevilla como continuando después de la muerte de Leandro. Fue influyente en el círculo íntimo de Sisebuto, rey visigodo de Hispania. Al igual que Leandro, desempeñó un papel destacado en los Concilios de Toledo y Sevilla. Su fama tras su muerte se basó en sus Etymologiae, una enciclopedia etimológica que reunió extractos de muchos libros de la antigüedad clásica que de otro modo se habrían perdido. Esta obra también ayudó a estandarizar el uso del punto, la coma y los dos puntos. Desde la Alta Edad Media, a Isidro a veces se le ha llamado Isidro el Joven o Isidro Junior (latín: Isidorus iunior), debido a la historia anterior supuestamente escrita por Isidro de Córdoba.  \nInfancia y educación...",
+  "biography_pl": "Izydor z Sewilli (łac. Isidorus Hispalensis; ok. 560 – 4 kwietnia 636) był hispano-rzymskim uczonym, teologiem i arcybiskupem Sewilli. Jest powszechnie uważany, słowami historyka XIX wieku Charlesa Forbesa René de Montalemberta, za „ostatniego uczonego starożytnego świata”. W czasach rozpadu kultury klasycznej, arystokratycznej przemocy i powszechnej analfabetyzmu, Izydor uczestniczył w nawracaniu arianizujących wizygockich królów na katolicyzm, zarówno wspierając swojego brata Leandra z Sewilli, jak i kontynuując tę działalność po jego śmierci. Miał wpływ w najbliższym otoczeniu Sisebuta, wizygockiego króla Hispanii. Podobnie jak Leander, odegrał znaczącą rolę na soborach w Toledo i Sewilli. Jego sława po śmierci opierała się na dziele Etymologiae, etymologicznym encyklopedii, która zebrała fragmenty wielu książek z antyku, które inaczej zostałyby utracone. To dzieło pomogło także w standaryzacji użycia kropki, przecinka i dwukropka. Od wczesnego średniowiecza Izydor bywa czasem nazywany Izydorem Młodszym lub Izydorem Juniorem (łac. Isidorus iunior), ze względu na wcześniejszą historię rzekomo napisaną przez Izydora z Kordoby. Dzieciństwo i edukacja..."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "07-25_saint_james_apostle_feast",
+  "name": "Saint James, Apostle—Feast",
+  "mmdd": "07-25",
+  "feast": "The Twenty-Fifth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+  ],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/07-25_saint_james_apostle_feast.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "f1e1ec8d88c2e9d9044ff37c958c1db62af96111f1efe29399b97d8c294e5122",
+        "langs": {
+          "es": {
+            "translatedHash": "3c30f7ef21bcf6704a31c041992860b2319601e46f6f6e9c5a299804cfadf8cc",
+            "updatedAt": "2026-02-25T00:04:08.481Z"
+          },
+          "pl": {
+            "translatedHash": "1d0217f432a93c434a67f1ae7ad53a7a3cb859819b0b546690d89b501ac48b2e",
+            "updatedAt": "2026-02-25T00:04:09.388Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "cbeb4a4ec2511c61007c61abe6da854eed6620dc6e3c3478212dd650b553cb4b",
+        "langs": {
+          "es": {
+            "translatedHash": "d0c08089626fb73b1abf7dce4bf31cd3d38cbfa3e0a531b7bc3d67c3d34729f4",
+            "updatedAt": "2026-02-25T00:04:10.002Z"
+          },
+          "pl": {
+            "translatedHash": "f5edb0d23581c07c286d5e1058412a26cc49401d39144d9e39c8d2a704029ba4",
+            "updatedAt": "2026-02-25T00:04:10.590Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Santo Santiago, Apóstol—Fiesta",
+  "name_pl": "Święty Jakub, Apostoł — Uroczystość",
+  "feast_es": "El vigésimo quinto día de julio",
+  "feast_pl": "Dwudziesty piąty dzień lipca"
+}

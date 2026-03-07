@@ -1,0 +1,46 @@
+{
+  "id": "07-28_all_saints_for_today",
+  "name": "All Saints for Today",
+  "mmdd": "07-28",
+  "feast": "The Twenty-Eighth Day of July",
+  "summary": "",
+  "biography": "",
+  "prayers": [],
+  "sources": [],
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/01-08_all_saints_for_today.jpg",
+  "_translationMeta": {
+    "version": 1,
+    "fields": {
+      "name": {
+        "sourceHash": "3494bd2ff6993ec4d5d62234660c46dae2a4635e7efbde62cc12671aa6d5a47d",
+        "langs": {
+          "es": {
+            "translatedHash": "f9dde6911002984348687883515764b5de2d0d4ea2eecb3de177e16f13b085be",
+            "updatedAt": "2026-02-25T00:05:26.528Z"
+          },
+          "pl": {
+            "translatedHash": "c7f5e59ed27f4efd25e9b29d124f1d7e51c29914f6e1f0c74796fcc203328d58",
+            "updatedAt": "2026-02-25T00:05:27.459Z"
+          }
+        }
+      },
+      "feast": {
+        "sourceHash": "df2c59adc88c9e61296c1e0ec1f4911b6549892a91b07d8ee35d18adda626a88",
+        "langs": {
+          "es": {
+            "translatedHash": "0da4fa6edb66a12e0294b8138aeca7679815def9b169d46b010bc6ae2a3e2c56",
+            "updatedAt": "2026-02-25T00:05:28.220Z"
+          },
+          "pl": {
+            "translatedHash": "c14c9540caf46bd40004aa53483d12756d71192ee4c275768a7c6d83cbe7aba3",
+            "updatedAt": "2026-02-25T00:05:28.872Z"
+          }
+        }
+      }
+    }
+  },
+  "name_es": "Todos los Santos para Hoy",
+  "name_pl": "Wszyscy Święci na Dziś",
+  "feast_es": "El vigésimo octavo día de julio",
+  "feast_pl": "Dwudziesty ósmy dzień lipca"
+}
