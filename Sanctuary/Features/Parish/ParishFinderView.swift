@@ -8,6 +8,7 @@ private enum OSMParishSearch {
         URL(string: "https://overpass-api.de/api/interpreter")!,
         URL(string: "https://overpass.kumi.systems/api/interpreter")!
     ]
+    static let timeoutNanoseconds: UInt64 = 2_500_000_000
 
     struct Response: Decodable {
         let elements: [Element]
@@ -325,11 +326,21 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     }
 
     private func rankedParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
-        if let osmResults = try? await rankedOSMParishResults(from: location), !osmResults.isEmpty {
+        let mapKitResults = try await rankedMapKitParishResults(from: location)
+        if !mapKitResults.isEmpty {
+            return mapKitResults
+        }
+
+        // Maps is the primary path because it is much more reliable on-device.
+        // Public Overpass instances are only used as a short backup when Maps finds nothing.
+        let osmResults = try? await timeoutAfter(OSMParishSearch.timeoutNanoseconds) {
+            try await self.rankedOSMParishResults(from: location)
+        }
+        if let osmResults, !osmResults.isEmpty {
             return osmResults
         }
 
-        return try await rankedMapKitParishResults(from: location)
+        return []
     }
 
     private func rankedOSMParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
@@ -353,18 +364,16 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
             if !collected.isEmpty { break }
         }
 
-        return collected.sorted { lhs, rhs in
-            if lhs.rankingScore != rhs.rankingScore { return lhs.rankingScore > rhs.rankingScore }
-            return lhs.distanceMeters < rhs.distanceMeters
-        }
+        return collected.sorted(by: parishResultSort)
     }
 
     private func rankedMapKitParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
         let localityHint = await locationHint(for: location)
         let queries = buildQueries(localityHint: localityHint)
         let regions = [
+            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.06, longitudeDelta: 0.06)),
             MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.12, longitudeDelta: 0.12)),
-            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.35, longitudeDelta: 0.35)),
+            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.25, longitudeDelta: 0.25)),
             MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.7, longitudeDelta: 0.7))
         ]
 
@@ -392,10 +401,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
             }
         }
 
-        return bestByKey.values.sorted { lhs, rhs in
-            if lhs.rankingScore != rhs.rankingScore { return lhs.rankingScore > rhs.rankingScore }
-            return lhs.distanceMeters < rhs.distanceMeters
-        }
+        return bestByKey.values.sorted(by: parishResultSort)
     }
 
     private func buildOverpassQuery(from coordinate: CLLocationCoordinate2D) -> String {
@@ -416,11 +422,14 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         var queries = [
             "Catholic parish",
             "Roman Catholic church",
-            "Catholic church"
+            "Catholic church",
+            "Roman Catholic parish",
+            "church catholic"
         ]
         if let localityHint, !localityHint.isEmpty {
             queries.append("Catholic parish near \(localityHint)")
             queries.append("Roman Catholic church near \(localityHint)")
+            queries.append("Roman Catholic parish near \(localityHint)")
         }
         return queries
     }
@@ -454,9 +463,11 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         var rankingScore = 0
         if explicitCatholic { rankingScore += 500 }
         rankingScore += catholicStyleHits * 80
+        if name.lowercased().contains("parish") { rankingScore += 120 }
+        if name.lowercased().contains("roman catholic") { rankingScore += 100 }
 
         let distanceMeters = parishLocation.distance(from: userLocation)
-        rankingScore -= Int(distanceMeters / 250.0)
+        rankingScore -= Int(distanceMeters / 1_500.0)
 
         return ParishSearchResult(
             name: name,
@@ -505,7 +516,9 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         if tags["amenity"] == "place_of_worship" { rankingScore += 150 }
         if tags["building"]?.lowercased().contains("church") == true { rankingScore += 100 }
         rankingScore += catholicStyleHits * 80
-        rankingScore -= Int(distanceMeters / 250.0)
+        if name.lowercased().contains("parish") { rankingScore += 120 }
+        if name.lowercased().contains("roman catholic") { rankingScore += 100 }
+        rankingScore -= Int(distanceMeters / 1_500.0)
 
         let placemark = MKPlacemark(coordinate: coordinate)
         let mapItem = MKMapItem(placemark: placemark)
@@ -544,9 +557,41 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     }
 
     private func isBetterCandidate(_ lhs: ParishSearchResult, than rhs: ParishSearchResult) -> Bool {
+        if abs(lhs.distanceMeters - rhs.distanceMeters) > 160.0 {
+            return lhs.distanceMeters < rhs.distanceMeters
+        }
         if lhs.rankingScore != rhs.rankingScore {
             return lhs.rankingScore > rhs.rankingScore
         }
         return lhs.distanceMeters < rhs.distanceMeters
+    }
+
+    private func parishResultSort(_ lhs: ParishSearchResult, _ rhs: ParishSearchResult) -> Bool {
+        if abs(lhs.distanceMeters - rhs.distanceMeters) > 160.0 {
+            return lhs.distanceMeters < rhs.distanceMeters
+        }
+        if lhs.rankingScore != rhs.rankingScore {
+            return lhs.rankingScore > rhs.rankingScore
+        }
+        return lhs.distanceMeters < rhs.distanceMeters
+    }
+
+    private func timeoutAfter<T>(
+        _ nanoseconds: UInt64,
+        operation: @escaping @Sendable () async throws -> T
+    ) async throws -> T {
+        try await withThrowingTaskGroup(of: T.self) { group in
+            group.addTask {
+                try await operation()
+            }
+            group.addTask {
+                try await Task.sleep(nanoseconds: nanoseconds)
+                throw CancellationError()
+            }
+
+            let result = try await group.next()!
+            group.cancelAll()
+            return result
+        }
     }
 }
