@@ -901,8 +901,18 @@ private struct MonthGrid: View {
     let labelForDay: (Int) -> String
     let onDayTap: (Int) -> Void
 
+    private enum MonthGridCell: Hashable {
+        case empty(Int)
+        case day(Int)
+    }
+
     private let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 7)
     private var leadingEmptyCells: Int { firstWeekdayOffset(year: year, month: month) }
+    private var cells: [MonthGridCell] {
+        let empties = (0..<leadingEmptyCells).map(MonthGridCell.empty)
+        let days = (1...daysInMonth).map(MonthGridCell.day)
+        return empties + days
+    }
     private var todayComponents: DateComponents {
         currentLiturgicalDateComponents()
     }
@@ -912,11 +922,13 @@ private struct MonthGrid: View {
             weekHeaderRow
 
             LazyVGrid(columns: columns, spacing: 10) {
-                ForEach(0 ..< leadingEmptyCells, id: \.self) { _ in
-                    Color.clear.frame(height: 72)
-                }
-                ForEach(1...daysInMonth, id: \.self) { day in
-                    dayCell(day: day, label: labelForDay(day))
+                ForEach(cells, id: \.self) { cell in
+                    switch cell {
+                    case .empty:
+                        Color.clear.frame(height: 72)
+                    case .day(let day):
+                        dayCell(day: day, label: labelForDay(day))
+                    }
                 }
             }
         }

@@ -3,6 +3,39 @@ import Combine
 import CoreLocation
 import MapKit
 
+private enum OSMParishSearch {
+    static let endpoints = [
+        URL(string: "https://overpass-api.de/api/interpreter")!,
+        URL(string: "https://overpass.kumi.systems/api/interpreter")!
+    ]
+
+    struct Response: Decodable {
+        let elements: [Element]
+    }
+
+    struct Element: Decodable {
+        struct Center: Decodable {
+            let lat: Double
+            let lon: Double
+        }
+
+        let lat: Double?
+        let lon: Double?
+        let center: Center?
+        let tags: [String: String]?
+
+        var coordinate: CLLocationCoordinate2D? {
+            if let lat, let lon {
+                return CLLocationCoordinate2D(latitude: lat, longitude: lon)
+            }
+            if let center {
+                return CLLocationCoordinate2D(latitude: center.lat, longitude: center.lon)
+            }
+            return nil
+        }
+    }
+}
+
 private enum ParishSearchHeuristics {
     static let explicitCatholicTokens = [
         "catholic",
@@ -14,6 +47,8 @@ private enum ParishSearchHeuristics {
     ]
 
     static let catholicStyleTokens = [
+        "catholic",
+        "roman catholic",
         "parish",
         "cathedral",
         "basilica",
@@ -290,6 +325,41 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     }
 
     private func rankedParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
+        if let osmResults = try? await rankedOSMParishResults(from: location), !osmResults.isEmpty {
+            return osmResults
+        }
+
+        return try await rankedMapKitParishResults(from: location)
+    }
+
+    private func rankedOSMParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
+        let query = buildOverpassQuery(from: location.coordinate)
+        let body = "data=\(query.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? query)"
+        var collected: [ParishSearchResult] = []
+
+        for endpoint in OSMParishSearch.endpoints {
+            var request = URLRequest(url: endpoint)
+            request.httpMethod = "POST"
+            request.setValue("application/x-www-form-urlencoded; charset=utf-8", forHTTPHeaderField: "Content-Type")
+            request.httpBody = body.data(using: .utf8)
+
+            let (data, response) = try await URLSession.shared.data(for: request)
+            guard let http = response as? HTTPURLResponse, (200..<300).contains(http.statusCode) else {
+                continue
+            }
+
+            let decoded = try JSONDecoder().decode(OSMParishSearch.Response.self, from: data)
+            collected = decoded.elements.compactMap { makeOSMCandidate(from: $0, userLocation: location) }
+            if !collected.isEmpty { break }
+        }
+
+        return collected.sorted { lhs, rhs in
+            if lhs.rankingScore != rhs.rankingScore { return lhs.rankingScore > rhs.rankingScore }
+            return lhs.distanceMeters < rhs.distanceMeters
+        }
+    }
+
+    private func rankedMapKitParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
         let localityHint = await locationHint(for: location)
         let queries = buildQueries(localityHint: localityHint)
         let regions = [
@@ -326,6 +396,20 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
             if lhs.rankingScore != rhs.rankingScore { return lhs.rankingScore > rhs.rankingScore }
             return lhs.distanceMeters < rhs.distanceMeters
         }
+    }
+
+    private func buildOverpassQuery(from coordinate: CLLocationCoordinate2D) -> String {
+        let lat = String(format: "%.6f", coordinate.latitude)
+        let lon = String(format: "%.6f", coordinate.longitude)
+        return """
+        [out:json][timeout:15];
+        (
+          nwr(around:30000,\(lat),\(lon))["amenity"="place_of_worship"]["religion"~"^(christian|roman_catholic|catholic)$",i]["denomination"~"(roman_)?catholic",i];
+          nwr(around:30000,\(lat),\(lon))["amenity"="place_of_worship"]["name"~"Catholic|Parish|Our Lady|Sacred Heart|Immaculate|Holy Family|Saint |St\\.",i];
+          nwr(around:30000,\(lat),\(lon))["building"~"church|cathedral|chapel|basilica",i]["name"~"Catholic|Parish|Our Lady|Sacred Heart|Immaculate|Holy Family|Saint |St\\.",i];
+        );
+        out center tags;
+        """
     }
 
     private func buildQueries(localityHint: String?) -> [String] {
@@ -384,11 +468,79 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         )
     }
 
+    private func makeOSMCandidate(from element: OSMParishSearch.Element, userLocation: CLLocation) -> ParishSearchResult? {
+        guard let coordinate = element.coordinate else { return nil }
+        let tags = element.tags ?? [:]
+        let name = tags["name"]?.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard let name, !name.isEmpty else { return nil }
+
+        let haystack = [
+            name,
+            tags["operator"],
+            tags["denomination"],
+            tags["religion"],
+            tags["addr:city"],
+            tags["addr:state"]
+        ]
+        .compactMap { $0?.lowercased() }
+        .joined(separator: " ")
+
+        if ParishSearchHeuristics.exclusionTokens.contains(where: { haystack.contains($0) }) {
+            return nil
+        }
+
+        let catholicStyleHits = ParishSearchHeuristics.catholicStyleTokens.filter { haystack.contains($0) }.count
+        let explicitCatholic =
+            (tags["denomination"]?.lowercased().contains("catholic") == true) ||
+            (tags["religion"]?.lowercased().contains("catholic") == true) ||
+            (haystack.contains("catholic"))
+
+        guard explicitCatholic || catholicStyleHits > 0 else { return nil }
+
+        let parishLocation = CLLocation(latitude: coordinate.latitude, longitude: coordinate.longitude)
+        let distanceMeters = parishLocation.distance(from: userLocation)
+
+        var rankingScore = 0
+        if explicitCatholic { rankingScore += 1000 }
+        if tags["amenity"] == "place_of_worship" { rankingScore += 150 }
+        if tags["building"]?.lowercased().contains("church") == true { rankingScore += 100 }
+        rankingScore += catholicStyleHits * 80
+        rankingScore -= Int(distanceMeters / 250.0)
+
+        let placemark = MKPlacemark(coordinate: coordinate)
+        let mapItem = MKMapItem(placemark: placemark)
+        mapItem.name = name
+        let websiteURL = URL(string: tags["website"] ?? tags["contact:website"] ?? "")
+
+        return ParishSearchResult(
+            name: name,
+            address: formattedAddress(from: tags),
+            websiteURL: websiteURL,
+            distanceMeters: distanceMeters,
+            mapItem: mapItem,
+            rankingScore: rankingScore
+        )
+    }
+
     private func dedupeKey(for item: MKMapItem) -> String {
         let name = (item.name ?? "").lowercased()
         let lat = item.placemark.coordinate.latitude
         let lon = item.placemark.coordinate.longitude
         return "\(name)|\(String(format: "%.4f", lat))|\(String(format: "%.4f", lon))"
+    }
+
+    private func formattedAddress(from tags: [String: String]) -> String {
+        let parts = [
+            tags["addr:housenumber"],
+            tags["addr:street"],
+            tags["addr:city"],
+            tags["addr:state"],
+            tags["addr:postcode"]
+        ]
+        .compactMap { $0?.trimmingCharacters(in: .whitespacesAndNewlines) }
+        .filter { !$0.isEmpty }
+
+        return parts.isEmpty ? "Address unavailable" : parts.joined(separator: ", ")
     }
 
     private func isBetterCandidate(_ lhs: ParishSearchResult, than rhs: ParishSearchResult) -> Bool {
