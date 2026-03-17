@@ -227,10 +227,14 @@ enum LiturgicalCalendarEngine {
         let christTheKing = addDays(advent1, -7)
         let baptism = baptismOfTheLord(year: year)
         let ordinaryPart1Start = addDays(baptism, 1)
+        let saintJoseph = transferredSaintJoseph(year: year, palmSunday: palmSunday)
+        let annunciation = transferredAnnunciation(year: year, palmSunday: palmSunday, easter: easter)
 
         addEntry(to: &entries, date: makeDate(year: year, month: 1, day: 1), rank: "Mary, the Holy Mother of God", season: .christmas, rankType: "Solemnity")
         addEntry(to: &entries, date: makeDate(year: year, month: 1, day: 6), rank: "Epiphany of the Lord", season: .christmas, rankType: "Solemnity")
         addEntry(to: &entries, date: baptism, rank: "Baptism of the Lord", season: .christmas, rankType: "Feast")
+        addEntry(to: &entries, date: saintJoseph, rank: "Saint Joseph, Spouse of the Blessed Virgin Mary", season: .lent, rankType: "Solemnity")
+        addEntry(to: &entries, date: annunciation, rank: "Annunciation of the Lord", season: .lent, rankType: "Solemnity")
 
         addEntry(to: &entries, date: ashWednesday, rank: "Ash Wednesday", season: .lent, rankType: "Weekday")
         let lent1 = addDays(ashWednesday, 4)
@@ -411,6 +415,30 @@ enum LiturgicalCalendarEngine {
 
     private static func baptismOfTheLord(year: Int) -> Date {
         nextWeekday(makeDate(year: year, month: 1, day: 6), weekday: 1, includeSameDay: false)
+    }
+
+    private static func transferredSaintJoseph(year: Int, palmSunday: Date) -> Date {
+        let base = makeDate(year: year, month: 3, day: 19)
+        let holyWeekEnd = addDays(palmSunday, 6)
+        if base >= palmSunday, base <= holyWeekEnd {
+            return addDays(palmSunday, -1)
+        }
+        if calendar.component(.weekday, from: base) == 1 {
+            return addDays(base, 1)
+        }
+        return base
+    }
+
+    private static func transferredAnnunciation(year: Int, palmSunday: Date, easter: Date) -> Date {
+        let base = makeDate(year: year, month: 3, day: 25)
+        let easterOctaveEnd = addDays(easter, 7)
+        if base >= palmSunday, base <= easterOctaveEnd {
+            return addDays(easter, 8)
+        }
+        if calendar.component(.weekday, from: base) == 1 {
+            return addDays(base, 1)
+        }
+        return base
     }
 
     // Central seasonal boundaries used by the liturgical engine.

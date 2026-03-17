@@ -98,6 +98,23 @@ struct NovenaRuleTestMain {
             assertOrExit(false, "st_joseph 2026 window missing")
         }
 
+        // Transferred solemnity cases should move feast-tied novenas too.
+        if let w = ContentStore.novenaServingWindow(id: "st_joseph", year: 2008) {
+            assertOrExit(yyyyMMdd(w.start) == "2008-03-06", "st_joseph 2008 start expected 2008-03-06, got \(yyyyMMdd(w.start))")
+            assertOrExit(yyyyMMdd(w.end) == "2008-03-14", "st_joseph 2008 end expected 2008-03-14, got \(yyyyMMdd(w.end))")
+            assertOrExit(yyyyMMdd(w.feast) == "2008-03-15", "st_joseph 2008 feast expected 2008-03-15, got \(yyyyMMdd(w.feast))")
+        } else {
+            assertOrExit(false, "st_joseph 2008 window missing")
+        }
+
+        if let w = ContentStore.novenaServingWindow(id: "annunciation", year: 2024) {
+            assertOrExit(yyyyMMdd(w.start) == "2024-03-31", "annunciation 2024 start expected 2024-03-31, got \(yyyyMMdd(w.start))")
+            assertOrExit(yyyyMMdd(w.end) == "2024-04-08", "annunciation 2024 end expected 2024-04-08, got \(yyyyMMdd(w.end))")
+            assertOrExit(yyyyMMdd(w.feast) == "2024-04-09", "annunciation 2024 feast expected 2024-04-09, got \(yyyyMMdd(w.feast))")
+        } else {
+            assertOrExit(false, "annunciation 2024 window missing")
+        }
+
         print("PASS: novena serving rule checks")
     }
 }
