@@ -213,7 +213,7 @@ struct NovenasCalendarView: View {
 
     private func selectedDate() -> Date {
         let clampedDay = min(selectedDay, daysInMonth(year: selectedYear, month: selectedMonth))
-        LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
+        return LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
     }
 
     private func apply(date: Date) {
@@ -376,7 +376,7 @@ struct LiturgicalCalendarView: View {
 
     private func selectedDate() -> Date {
         let clampedDay = min(selectedDay, daysInMonth(year: selectedYear, month: selectedMonth))
-        LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
+        return LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
     }
 
     private func apply(date: Date) {
