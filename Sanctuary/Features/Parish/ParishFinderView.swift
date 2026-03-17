@@ -333,9 +333,10 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
 
         // Maps is the primary path because it is much more reliable on-device.
         // Public Overpass instances are only used as a short backup when Maps finds nothing.
-        if let osmResults = try? await timeoutAfter(OSMParishSearch.timeoutNanoseconds) {
+        let osmResults = try? await timeoutAfter(OSMParishSearch.timeoutNanoseconds) {
             try await rankedOSMParishResults(from: location)
-        }, !osmResults.isEmpty {
+        }
+        if let osmResults, !osmResults.isEmpty {
             return osmResults
         }
 
