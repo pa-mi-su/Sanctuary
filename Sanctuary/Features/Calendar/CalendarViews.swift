@@ -7,14 +7,24 @@ enum CalendarMode: String, CaseIterable {
     case month = "Month"
 }
 
+private let liturgicalUICalendar: Calendar = {
+    var calendar = Calendar(identifier: .gregorian)
+    calendar.timeZone = TimeZone(secondsFromGMT: 0) ?? TimeZone.current
+    return calendar
+}()
+
+private func currentLiturgicalDateComponents() -> DateComponents {
+    liturgicalUICalendar.dateComponents([.year, .month, .day], from: Date())
+}
+
 struct NovenasCalendarView: View {
     let environment: AppEnvironment
     var openIntentionsToken: Int = 0
     @EnvironmentObject private var localization: LocalizationManager
     @State private var mode: CalendarMode = .month
-    @State private var selectedDay = Calendar.current.component(.day, from: Date())
-    @State private var selectedMonth = Calendar.current.component(.month, from: Date())
-    @State private var selectedYear = Calendar.current.component(.year, from: Date())
+    @State private var selectedDay = currentLiturgicalDateComponents().day ?? 1
+    @State private var selectedMonth = currentLiturgicalDateComponents().month ?? 1
+    @State private var selectedYear = currentLiturgicalDateComponents().year ?? 2000
     @State private var showSearch = false
     @State private var showIntentionsSearch = false
     @State private var selectedNovenaSelection: CalendarSelection?
@@ -56,9 +66,10 @@ struct NovenasCalendarView: View {
             onPrev: { goPrevious() },
             onNext: { goNext() },
             onToday: {
-                selectedDay = Calendar.current.component(.day, from: Date())
-                selectedMonth = Calendar.current.component(.month, from: Date())
-                selectedYear = Calendar.current.component(.year, from: Date())
+                let today = currentLiturgicalDateComponents()
+                selectedDay = today.day ?? selectedDay
+                selectedMonth = today.month ?? selectedMonth
+                selectedYear = today.year ?? selectedYear
                 mode = .day
             },
             onModeChanged: { suppressDayTapUntil = Date().addingTimeInterval(0.35) },
@@ -202,24 +213,23 @@ struct NovenasCalendarView: View {
 
     private func selectedDate() -> Date {
         let clampedDay = min(selectedDay, daysInMonth(year: selectedYear, month: selectedMonth))
-        let components = DateComponents(year: selectedYear, month: selectedMonth, day: clampedDay)
-        return Calendar.current.date(from: components) ?? Date()
+        LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
     }
 
     private func apply(date: Date) {
-        let cal = Calendar.current
+        let cal = liturgicalUICalendar
         selectedYear = cal.component(.year, from: date)
         selectedMonth = cal.component(.month, from: date)
         selectedDay = cal.component(.day, from: date)
     }
 
     private func shift(days: Int) {
-        guard let next = Calendar.current.date(byAdding: .day, value: days, to: selectedDate()) else { return }
+        guard let next = liturgicalUICalendar.date(byAdding: .day, value: days, to: selectedDate()) else { return }
         apply(date: next)
     }
 
     private func shift(months: Int) {
-        guard let next = Calendar.current.date(byAdding: .month, value: months, to: selectedDate()) else { return }
+        guard let next = liturgicalUICalendar.date(byAdding: .month, value: months, to: selectedDate()) else { return }
         apply(date: next)
     }
 
@@ -244,9 +254,9 @@ struct LiturgicalCalendarView: View {
     let environment: AppEnvironment
     @EnvironmentObject private var localization: LocalizationManager
     @State private var mode: CalendarMode = .month
-    @State private var selectedDay = Calendar.current.component(.day, from: Date())
-    @State private var selectedMonth = Calendar.current.component(.month, from: Date())
-    @State private var selectedYear = Calendar.current.component(.year, from: Date())
+    @State private var selectedDay = currentLiturgicalDateComponents().day ?? 1
+    @State private var selectedMonth = currentLiturgicalDateComponents().month ?? 1
+    @State private var selectedYear = currentLiturgicalDateComponents().year ?? 2000
     @State private var showSearch = false
     @State private var suppressDayTapUntil: Date = .distantPast
     @State private var selectedReadingSelection: ReadingSelection?
@@ -283,9 +293,10 @@ struct LiturgicalCalendarView: View {
             onPrev: { goPrevious() },
             onNext: { goNext() },
             onToday: {
-                selectedDay = Calendar.current.component(.day, from: Date())
-                selectedMonth = Calendar.current.component(.month, from: Date())
-                selectedYear = Calendar.current.component(.year, from: Date())
+                let today = currentLiturgicalDateComponents()
+                selectedDay = today.day ?? selectedDay
+                selectedMonth = today.month ?? selectedMonth
+                selectedYear = today.year ?? selectedYear
                 mode = .day
             },
             onModeChanged: { suppressDayTapUntil = Date().addingTimeInterval(0.35) },
@@ -365,24 +376,23 @@ struct LiturgicalCalendarView: View {
 
     private func selectedDate() -> Date {
         let clampedDay = min(selectedDay, daysInMonth(year: selectedYear, month: selectedMonth))
-        let components = DateComponents(year: selectedYear, month: selectedMonth, day: clampedDay)
-        return Calendar.current.date(from: components) ?? Date()
+        LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
     }
 
     private func apply(date: Date) {
-        let cal = Calendar.current
+        let cal = liturgicalUICalendar
         selectedYear = cal.component(.year, from: date)
         selectedMonth = cal.component(.month, from: date)
         selectedDay = cal.component(.day, from: date)
     }
 
     private func shift(days: Int) {
-        guard let next = Calendar.current.date(byAdding: .day, value: days, to: selectedDate()) else { return }
+        guard let next = liturgicalUICalendar.date(byAdding: .day, value: days, to: selectedDate()) else { return }
         apply(date: next)
     }
 
     private func shift(months: Int) {
-        guard let next = Calendar.current.date(byAdding: .month, value: months, to: selectedDate()) else { return }
+        guard let next = liturgicalUICalendar.date(byAdding: .month, value: months, to: selectedDate()) else { return }
         apply(date: next)
     }
 
@@ -407,9 +417,9 @@ struct SaintsCalendarView: View {
     let environment: AppEnvironment
     @EnvironmentObject private var localization: LocalizationManager
     @State private var mode: CalendarMode = .day
-    @State private var selectedDay = Calendar.current.component(.day, from: Date())
-    @State private var selectedMonth = Calendar.current.component(.month, from: Date())
-    @State private var selectedYear = Calendar.current.component(.year, from: Date())
+    @State private var selectedDay = currentLiturgicalDateComponents().day ?? 1
+    @State private var selectedMonth = currentLiturgicalDateComponents().month ?? 1
+    @State private var selectedYear = currentLiturgicalDateComponents().year ?? 2000
     @State private var showSearch = false
     @State private var selectedSaintSelection: CalendarSelection?
     @State private var tapFeedbackMessage: String?
@@ -450,9 +460,10 @@ struct SaintsCalendarView: View {
             onPrev: { goPrevious() },
             onNext: { goNext() },
             onToday: {
-                selectedDay = Calendar.current.component(.day, from: Date())
-                selectedMonth = Calendar.current.component(.month, from: Date())
-                selectedYear = Calendar.current.component(.year, from: Date())
+                let today = currentLiturgicalDateComponents()
+                selectedDay = today.day ?? selectedDay
+                selectedMonth = today.month ?? selectedMonth
+                selectedYear = today.year ?? selectedYear
                 mode = .day
             },
             onModeChanged: { suppressDayTapUntil = Date().addingTimeInterval(0.35) },
@@ -591,24 +602,23 @@ struct SaintsCalendarView: View {
 
     private func selectedDate() -> Date {
         let clampedDay = min(selectedDay, daysInMonth(year: selectedYear, month: selectedMonth))
-        let components = DateComponents(year: selectedYear, month: selectedMonth, day: clampedDay)
-        return Calendar.current.date(from: components) ?? Date()
+        LiturgicalCalendarEngine.makeDate(year: selectedYear, month: selectedMonth, day: clampedDay)
     }
 
     private func apply(date: Date) {
-        let cal = Calendar.current
+        let cal = liturgicalUICalendar
         selectedYear = cal.component(.year, from: date)
         selectedMonth = cal.component(.month, from: date)
         selectedDay = cal.component(.day, from: date)
     }
 
     private func shift(days: Int) {
-        guard let next = Calendar.current.date(byAdding: .day, value: days, to: selectedDate()) else { return }
+        guard let next = liturgicalUICalendar.date(byAdding: .day, value: days, to: selectedDate()) else { return }
         apply(date: next)
     }
 
     private func shift(months: Int) {
-        guard let next = Calendar.current.date(byAdding: .month, value: months, to: selectedDate()) else { return }
+        guard let next = liturgicalUICalendar.date(byAdding: .month, value: months, to: selectedDate()) else { return }
         apply(date: next)
     }
 
@@ -894,7 +904,7 @@ private struct MonthGrid: View {
     private let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 7)
     private var leadingEmptyCells: Int { firstWeekdayOffset(year: year, month: month) }
     private var todayComponents: DateComponents {
-        Calendar.current.dateComponents([.year, .month, .day], from: Date())
+        currentLiturgicalDateComponents()
     }
 
     var body: some View {
@@ -968,7 +978,7 @@ private struct WeekGrid: View {
         return selectedDay - (weekday - 1)
     }
     private var todayComponents: DateComponents {
-        Calendar.current.dateComponents([.year, .month, .day], from: Date())
+        currentLiturgicalDateComponents()
     }
     private var weekDays: [Int?] {
         (0...6).map { offset in
@@ -1034,11 +1044,9 @@ private func firstWeekdayOffset(year: Int, month: Int) -> Int {
 }
 
 private func weekdayForDate(year: Int, month: Int, day: Int) -> Int {
-    var cal = Calendar(identifier: .gregorian)
-    cal.timeZone = TimeZone(secondsFromGMT: 0) ?? TimeZone.current
     let components = DateComponents(year: year, month: month, day: day, hour: 12)
-    guard let date = cal.date(from: components) else { return 1 }
-    return cal.component(.weekday, from: date)
+    guard let date = liturgicalUICalendar.date(from: components) else { return 1 }
+    return liturgicalUICalendar.component(.weekday, from: date)
 }
 
 private func mapSourceSaint(_ doc: SaintDocument) -> Saint {
@@ -1163,9 +1171,8 @@ private func daysInMonth(year: Int, month: Int) -> Int {
     var components = DateComponents()
     components.year = year
     components.month = month
-    let calendar = Calendar(identifier: .gregorian)
-    guard let date = calendar.date(from: components),
-          let range = calendar.range(of: .day, in: .month, for: date)
+    guard let date = liturgicalUICalendar.date(from: components),
+          let range = liturgicalUICalendar.range(of: .day, in: .month, for: date)
     else {
         return 31
     }

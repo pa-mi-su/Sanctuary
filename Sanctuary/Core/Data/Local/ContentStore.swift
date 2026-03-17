@@ -103,6 +103,11 @@ enum ContentStore {
     private static var novenaCalendarByYearCache: [Int: [String: NovenaIndexEntry]] = [:]
     private static var resourceURLByFilenameCache: [String: URL]?
     private static let cacheLock = NSLock()
+    private static let liturgicalCalendar: Calendar = {
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = TimeZone(secondsFromGMT: 0) ?? TimeZone.current
+        return calendar
+    }()
 
     static func prewarm(bundle: Bundle = .main) {
         // Build index/lookup caches once off the UI path.
@@ -113,7 +118,7 @@ enum ContentStore {
 
         // Touch today's entries so first open on calendar/detail is instant.
         let today = Date()
-        let cal = Calendar(identifier: .gregorian)
+        let cal = liturgicalCalendar
         let month = cal.component(.month, from: today)
         let day = cal.component(.day, from: today)
         if let saintID = firstSaintID(onMonth: month, day: day, bundle: bundle) {
@@ -127,7 +132,7 @@ enum ContentStore {
     static func prewarmSaintsTab(bundle: Bundle = .main) {
         buildSaintLookupsIfNeeded(bundle: bundle)
         let today = Date()
-        let cal = Calendar(identifier: .gregorian)
+        let cal = liturgicalCalendar
         let month = cal.component(.month, from: today)
         let day = cal.component(.day, from: today)
         if let id = firstSaintID(onMonth: month, day: day, bundle: bundle) {
@@ -138,7 +143,7 @@ enum ContentStore {
     static func prewarmNovenasTab(bundle: Bundle = .main) {
         buildNovenaLookupsIfNeeded(bundle: bundle)
         let today = Date()
-        let cal = Calendar(identifier: .gregorian)
+        let cal = liturgicalCalendar
         let month = cal.component(.month, from: today)
         let day = cal.component(.day, from: today)
         if let id = firstNovenaIDForCalendarDay(onMonth: month, day: day, bundle: bundle) {
@@ -231,12 +236,12 @@ enum ContentStore {
     }
 
     static func firstNovenaIDForCalendarDay(onMonth month: Int, day: Int, bundle: Bundle = .main) -> String? {
-        let currentYear = Calendar.current.component(.year, from: Date())
+        let currentYear = liturgicalCalendar.component(.year, from: Date())
         return firstNovenaIDForCalendarDay(onYear: currentYear, month: month, day: day, bundle: bundle)
     }
 
     static func firstNovenaTitleForCalendarDay(onMonth month: Int, day: Int, bundle: Bundle = .main) -> String? {
-        let currentYear = Calendar.current.component(.year, from: Date())
+        let currentYear = liturgicalCalendar.component(.year, from: Date())
         return firstNovenaTitleForCalendarDay(onYear: currentYear, month: month, day: day, bundle: bundle)
     }
 
@@ -272,7 +277,7 @@ enum ContentStore {
     }
 
     static func novenaServingStatus(id: String, on date: Date = Date(), bundle: Bundle = .main) -> NovenaServingStatus? {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         let year = calendar.component(.year, from: date)
         guard let window = novenaServingWindow(id: id, year: year, bundle: bundle)
             ?? novenaServingWindow(id: id, year: year - 1, bundle: bundle)
@@ -413,7 +418,7 @@ enum ContentStore {
     }
 
     private static func novenaCalendarMap(forYear year: Int, bundle: Bundle) -> [String: NovenaIndexEntry] {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         cacheLock.lock()
         if let cached = novenaCalendarByYearCache[year] {
             cacheLock.unlock()
@@ -442,7 +447,7 @@ enum ContentStore {
         year: Int,
         bundle: Bundle
     ) -> NovenaServingWindow? {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         guard let feastRule = entry.feastRule,
               let feast = resolveNovenaRule(feastRule, year: year, fallbackFeastRule: nil)
         else {
@@ -450,6 +455,10 @@ enum ContentStore {
         }
 
         var start = entry.startRule.flatMap { resolveNovenaRule($0, year: year, fallbackFeastRule: entry.feastRule) } ?? feast
+
+        if ["st_joseph", "annunciation"].contains(entry.id) {
+            start = calendar.date(byAdding: .day, value: -9, to: feast) ?? start
+        }
 
         // Fixed starts that naturally belong to prior year for a next-year feast (e.g., Advent spans).
         if entry.startRule?.type == "fixed", start > feast {
@@ -486,12 +495,18 @@ enum ContentStore {
         year: Int,
         fallbackFeastRule: NovenaIndexEntry.Rule?
     ) -> Date? {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         let anchors = novenaAnchors(forYear: year)
 
         switch rule.type {
         case "fixed":
             guard let month = rule.month, let day = rule.day else { return nil }
+            if month == 3, day == 19, let transferred = anchors["st_joseph"] {
+                return transferred
+            }
+            if month == 3, day == 25, let transferred = anchors["annunciation"] {
+                return transferred
+            }
             return calendar.date(from: DateComponents(year: year, month: month, day: day))
 
         case "anchor":
@@ -535,7 +550,7 @@ enum ContentStore {
     }
 
     private static func novenaAnchors(forYear year: Int) -> [String: Date] {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         let easter = computeEasterSunday(year: year)
         let ashWednesday = calendar.date(byAdding: .day, value: -46, to: easter) ?? easter
         let shroveTuesday = calendar.date(byAdding: .day, value: -1, to: ashWednesday) ?? ashWednesday
@@ -562,7 +577,28 @@ enum ContentStore {
         let holyFamily = holyFamilyDate(year: year)
         let advent1 = firstSundayOfAdvent(year: year)
         let christKing = calendar.date(byAdding: .day, value: -7, to: advent1) ?? advent1
-        let annunciation = calendar.date(from: DateComponents(year: year, month: 3, day: 25)) ?? easter
+        let annunciationBase = calendar.date(from: DateComponents(year: year, month: 3, day: 25)) ?? easter
+        let saintJosephBase = calendar.date(from: DateComponents(year: year, month: 3, day: 19)) ?? easter
+        let holyWeekEnd = calendar.date(byAdding: .day, value: 6, to: palmSunday) ?? palmSunday
+        let easterOctaveEnd = calendar.date(byAdding: .day, value: 7, to: easter) ?? easter
+        let annunciation: Date = {
+            if annunciationBase >= palmSunday, annunciationBase <= easterOctaveEnd {
+                return calendar.date(byAdding: .day, value: 8, to: easter) ?? annunciationBase
+            }
+            if calendar.component(.weekday, from: annunciationBase) == 1 {
+                return calendar.date(byAdding: .day, value: 1, to: annunciationBase) ?? annunciationBase
+            }
+            return annunciationBase
+        }()
+        let saintJoseph: Date = {
+            if saintJosephBase >= palmSunday, saintJosephBase <= holyWeekEnd {
+                return calendar.date(byAdding: .day, value: -1, to: palmSunday) ?? saintJosephBase
+            }
+            if calendar.component(.weekday, from: saintJosephBase) == 1 {
+                return calendar.date(byAdding: .day, value: 1, to: saintJosephBase) ?? saintJosephBase
+            }
+            return saintJosephBase
+        }()
         let assumption = calendar.date(from: DateComponents(year: year, month: 8, day: 15)) ?? easter
         let allSaints = calendar.date(from: DateComponents(year: year, month: 11, day: 1)) ?? easter
         let immaculateConception = calendar.date(from: DateComponents(year: year, month: 12, day: 8)) ?? easter
@@ -594,6 +630,7 @@ enum ContentStore {
             "advent_1": advent1,
             "christ_king": christKing,
             "annunciation": annunciation,
+            "st_joseph": saintJoseph,
             "assumption": assumption,
             "all_saints": allSaints,
             "immaculate_conception": immaculateConception,
@@ -616,11 +653,11 @@ enum ContentStore {
         let m = (a + 11 * h + 22 * l) / 451
         let month = (h + l - 7 * m + 114) / 31
         let day = ((h + l - 7 * m + 114) % 31) + 1
-        return Calendar(identifier: .gregorian).date(from: DateComponents(year: year, month: month, day: day)) ?? Date()
+        return liturgicalCalendar.date(from: DateComponents(year: year, month: month, day: day)) ?? Date()
     }
 
     private static func nextWeekday(onOrAfter date: Date, weekday: Int) -> Date {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         var candidate = date
         while calendar.component(.weekday, from: candidate) != weekday {
             candidate = calendar.date(byAdding: .day, value: 1, to: candidate) ?? candidate
@@ -629,13 +666,13 @@ enum ContentStore {
     }
 
     private static func firstSundayOfAdvent(year: Int) -> Date {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         let nov27 = calendar.date(from: DateComponents(year: year, month: 11, day: 27)) ?? Date()
         return nextWeekday(onOrAfter: nov27, weekday: 1)
     }
 
     private static func holyFamilyDate(year: Int) -> Date {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         let dec26 = calendar.date(from: DateComponents(year: year, month: 12, day: 26)) ?? Date()
         for i in 0...5 {
             if let d = calendar.date(byAdding: .day, value: i, to: dec26),
@@ -647,7 +684,7 @@ enum ContentStore {
     }
 
     private static func alignToWeekday(base: Date, targetWeekday: Int, policy: String) -> Date {
-        let calendar = Calendar(identifier: .gregorian)
+        let calendar = liturgicalCalendar
         var candidate = base
         let target = targetWeekday + 1 // json uses 0..6, Calendar uses 1..7
         switch policy {
