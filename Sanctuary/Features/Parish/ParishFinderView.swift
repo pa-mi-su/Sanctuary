@@ -200,9 +200,9 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     @Published var errorMessageKey: String?
 
     private let manager = CLLocationManager()
+    private let geocoder = CLGeocoder()
     private var pendingSearch = false
     private var lastLocation: CLLocation?
-    private let geocoder = CLGeocoder()
 
     override init() {
         super.init()
@@ -365,13 +365,11 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
 
         let explicitCatholic = ParishSearchHeuristics.explicitCatholicTokens.contains { haystack.contains($0) }
         let catholicStyleHits = ParishSearchHeuristics.catholicStyleTokens.filter { haystack.contains($0) }.count
-        let likelyCatholic = explicitCatholic || catholicStyleHits > 0
-        guard likelyCatholic else { return nil }
+        guard explicitCatholic || catholicStyleHits > 0 else { return nil }
 
         var rankingScore = 0
         if explicitCatholic { rankingScore += 500 }
         rankingScore += catholicStyleHits * 80
-        if item.pointOfInterestCategory == .placeOfWorship { rankingScore += 40 }
 
         let distanceMeters = parishLocation.distance(from: userLocation)
         rankingScore -= Int(distanceMeters / 250.0)
