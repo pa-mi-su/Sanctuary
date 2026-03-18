@@ -364,6 +364,11 @@ struct NovenaDetailView: View {
                     id: selection.id,
                     slug: selection.id,
                     name: relatedSaints.first(where: { $0.id == selection.id })?.name ?? selection.id,
+                    nameByLocale: [
+                        .en: relatedSaints.first(where: { $0.id == selection.id })?.name ?? selection.id,
+                        .es: relatedSaints.first(where: { $0.id == selection.id })?.name ?? selection.id,
+                        .pl: relatedSaints.first(where: { $0.id == selection.id })?.name ?? selection.id
+                    ],
                     feastMonth: 1,
                     feastDay: 1,
                     imageURL: nil,
@@ -461,10 +466,16 @@ struct NovenaDetailView: View {
         let parts = mmdd.split(separator: "-")
         let month = parts.count == 2 ? Int(parts[0]) ?? 1 : 1
         let day = parts.count == 2 ? Int(parts[1]) ?? 1 : 1
+        let nameByLocale: [ContentLocale: String] = [
+            .en: doc.name ?? doc.id,
+            .es: doc.name_es ?? doc.name ?? doc.id,
+            .pl: doc.name_pl ?? doc.name ?? doc.id
+        ]
         return Saint(
             id: doc.id,
             slug: doc.id,
-            name: doc.name ?? doc.id,
+            name: nameByLocale[.en] ?? doc.id,
+            nameByLocale: nameByLocale,
             feastMonth: month,
             feastDay: day,
             imageURL: urlFromString(doc.photoUrl),

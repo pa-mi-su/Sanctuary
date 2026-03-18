@@ -62,6 +62,10 @@ final class SaintsListViewModel: ObservableObject {
         saint.summaryByLocale[locale] ?? saint.summaryByLocale[.en] ?? ""
     }
 
+    func displayName(for saint: Saint) -> String {
+        saint.displayName(locale: locale)
+    }
+
     private func scheduleFilter(immediate: Bool = false) {
         filterTask?.cancel()
         let q = normalized(query)
@@ -94,7 +98,7 @@ final class SaintsListViewModel: ObservableObject {
         indexedSaints = allSaints.map { saint in
             let summary = saint.summaryByLocale[locale] ?? saint.summaryByLocale[.en] ?? ""
             let bio = saint.biographyByLocale[locale] ?? saint.biographyByLocale[.en] ?? ""
-            let blob = "\(saint.name) \(saint.slug) \(summary) \(bio)"
+            let blob = "\(saint.displayName(locale: locale)) \(saint.slug) \(summary) \(bio)"
             return IndexedSaint(saint: saint, searchableText: normalized(blob))
         }
     }

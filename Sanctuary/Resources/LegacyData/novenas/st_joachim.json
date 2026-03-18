@@ -113,8 +113,8 @@
   "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/03-20_saint_joachim.jpg",
   "title_es": "Novena a San Joaquín",
   "title_pl": "Nowenna do św. Joachima",
-  "description_es": "indefinido",
-  "description_pl": "nieokreślony",
+  "description_es": "Honra a san Joaquín, padre de la Santísima Virgen María, y pide su intercesión por los abuelos, los padres y las familias que buscan una fe firme.",
+  "description_pl": "Uczcij świętego Joachima, ojca Najświętszej Maryi Panny, i proś o jego wstawiennictwo za dziadków, rodziców oraz rodziny szukające mocnej wiary.",
   "intentions": [
     "Fathers",
     "Grandparents"
@@ -123,5 +123,6 @@
   "intentions_pl": [],
   "sources": [
     "https://novenaprayer.com/saint-joachim-novena/"
-  ]
+  ],
+  "description": "Honor Saint Joachim, father of the Blessed Virgin Mary, and ask his intercession for grandparents, parents, and families seeking steadfast faith."
 }

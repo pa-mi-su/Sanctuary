@@ -16,7 +16,7 @@ struct SaintDetailView: View {
     private var locale: ContentLocale { localization.language.contentLocale }
 
     private var displayName: String {
-        let baseName = localized(base: sourceDoc?.name, es: sourceDoc?.name_es, pl: sourceDoc?.name_pl) ?? saint.name
+        let baseName = localized(base: sourceDoc?.name, es: sourceDoc?.name_es, pl: sourceDoc?.name_pl) ?? saint.displayName(locale: locale)
         let raw = baseName.replacingOccurrences(of: #",\s*\d{3,4}[–-]\d{2,4}$"#, with: "", options: .regularExpression)
         return raw.trimmingCharacters(in: .whitespacesAndNewlines)
     }

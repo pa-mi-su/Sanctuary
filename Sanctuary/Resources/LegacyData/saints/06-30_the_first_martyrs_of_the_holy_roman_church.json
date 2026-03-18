@@ -3,77 +3,17 @@
   "name": "The First Martyrs of the Holy Roman Church",
   "mmdd": "06-30",
   "feast": "The Thirtieth day of June",
-  "summary": "The camerlengo of the Holy Roman Church is an office of the papal household that administers the property and revenues of the Holy See. Formerly, his responsibilities included the fiscal administration of the Patrimony of Saint Peter. As regulated in the apostolic constitution Pastor bonus of 1988, the camerlengo is always a cardinal, though this was not the case prior to the 15th century. His heraldic arms are ornamented with two keys – one gold, one silver – in saltire, surmounted by an ombrellino, a canopy or umbrella of alternating red and yellow stripes. These also form part of the coat of arms of the Holy See during a papal interregnum. The camerlengo has been Kevin Farrell since his appointment by Pope Francis on 14 February 2019. The vice camerlengo has been Archbishop Ilson de Jesus Montanari since 1 May 2020.",
-  "biography": "The camerlengo of the Holy Roman Church (pl. Camerlenghi) is an office of the papal household that administers the property and revenues of the Holy See. Formerly, his responsibilities included the fiscal administration of the Patrimony of Saint Peter. As regulated in the apostolic constitution Pastor bonus of 1988, the camerlengo is always a cardinal, though this was not the case prior to the 15th century. His heraldic arms are ornamented with two keys – one gold, one silver – in saltire, surmounted by an ombrellino, a canopy or umbrella of alternating red and yellow stripes. These also form part of the coat of arms of the Holy See during a papal interregnum (sede vacante). The camerlengo has been Kevin Farrell since his appointment by Pope Francis on 14 February 2019. The vice camerlengo has been Archbishop Ilson de Jesus Montanari since 1 May 2020. History Until the 11th century, the Archdeacon of Rome was responsible for the administration of the property of the Church (i.e., the Diocese of Rome), but the office's numerous ancient privileges and rights had come to make it a frequent hindrance to independent action on the part of the Pope; as a result, when the last Archdeacon...",
+  "summary": "This memorial honors the Christians put to death in Rome during Nero's persecution after the great fire, the first great outpouring of martyrdom in the capital of the Church.",
+  "biography": "The First Martyrs of the Holy Roman Church were the unnamed Christians who suffered in Rome under Emperor Nero around A.D. 64. Ancient tradition remembers them as victims of brutal punishments after Nero blamed Christians for the fire that devastated the city. Their feast, celebrated the day after Saints Peter and Paul, reminds the Church that the witness of Rome was sealed not only by its great apostles but also by many hidden believers who gave their lives for Christ.",
   "prayers": [],
-  "sources": [
-    "https://en.wikipedia.org/wiki/Camerlengo_of_the_Holy_Roman_Church",
-    "Wikipedia (CC BY-SA) — text attribution required."
-  ],
-  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/06-30_the_first_martyrs_of_the_holy_roman_church.png",
-  "_translationMeta": {
-    "version": 1,
-    "fields": {
-      "name": {
-        "sourceHash": "8b5b4d5668da7b943f8a3d32bab73f528270bd7b16c9251737fd5fcca665cb5e",
-        "langs": {
-          "es": {
-            "translatedHash": "6a77405709c0c1edf11fe1166be4e4ee8a9ae88d8b32131742e09aecfedd0cb5",
-            "updatedAt": "2026-02-24T23:51:08.056Z"
-          },
-          "pl": {
-            "translatedHash": "a2f390ec0b1a4f556259190665e172697221adcad88793ab733d0317469ea916",
-            "updatedAt": "2026-02-24T23:51:08.766Z"
-          }
-        }
-      },
-      "feast": {
-        "sourceHash": "d9cc13f40490602d62e3c18402567ed9926bd9495feb31763faf350038ad49cd",
-        "langs": {
-          "es": {
-            "translatedHash": "383f1b5f89711d7169dc1cbf03a8d99151d6a8843ae6c87873a094877cbeb6d3",
-            "updatedAt": "2026-02-24T23:51:09.363Z"
-          },
-          "pl": {
-            "translatedHash": "ed4e285abf8a4556e067386505f9c1bc05fc0596155c8536f41b6fe31cea4046",
-            "updatedAt": "2026-02-24T23:51:11.581Z"
-          }
-        }
-      },
-      "summary": {
-        "sourceHash": "4f72bd6d4a19a675d77a2e3e651fa2d2aa988e43993bef5d7e8b3bcb56145647",
-        "langs": {
-          "es": {
-            "translatedHash": "cac53dcf96a5fc0bc961159c7385cfb9e1e270957ef9ea0264e8a4a5a678de3e",
-            "updatedAt": "2026-02-24T23:51:14.761Z"
-          },
-          "pl": {
-            "translatedHash": "8d30074171970768b6f228796684ab067c6e280539f0fb97def114d4c61f5450",
-            "updatedAt": "2026-02-24T23:51:18.511Z"
-          }
-        }
-      },
-      "biography": {
-        "sourceHash": "c43b9572e2bc2a22b718f6ca8e479f3af9a0c093a27e387ed3e11c60e770bc0b",
-        "langs": {
-          "es": {
-            "translatedHash": "4db649e6c77c8d6bd7985df399032d7954c8e119be6577c94921f30300febf3e",
-            "updatedAt": "2026-02-24T23:51:22.679Z"
-          },
-          "pl": {
-            "translatedHash": "1d6697bc6a6dfc5fbbc0508a9fea38b3866743987d1739a60f79c5630104ca04",
-            "updatedAt": "2026-02-24T23:51:26.667Z"
-          }
-        }
-      }
-    }
-  },
+  "sources": [],
+  "photoUrl": null,
   "name_es": "Los Primeros Mártires de la Santa Iglesia Romana",
   "name_pl": "Pierwsi Męczennicy Świętego Kościoła Rzymskiego",
   "feast_es": "El día treinta de junio",
   "feast_pl": "Trzydziesty dzień czerwca",
-  "summary_es": "El camarlengo de la Santa Iglesia Romana es un cargo de la casa papal que administra los bienes y los ingresos de la Santa Sede. Anteriormente, sus responsabilidades incluían la administración fiscal del Patrimonio de San Pedro. Según lo regulado en la constitución apostólica Pastor bonus de 1988, el camarlengo es siempre un cardenal, aunque esto no era así antes del siglo XV. Sus armas heráldicas están adornadas con dos llaves – una de oro, una de plata – en aspa, coronadas por un ombrellino, un dosel o paraguas de franjas alternadas rojas y amarillas. Estas también forman parte del escudo de armas de la Santa Sede durante un interregno papal. El camarlengo ha sido Kevin Farrell desde su nombramiento por el Papa Francisco el 14 de febrero de 2019. El vicecamarlengo ha sido el arzobispo Ilson de Jesús Montanari desde el 1 de mayo de 2020.",
-  "summary_pl": "Kamerling Świętego Kościoła Rzymskiego jest urzędem w domu papieskim, który zarządza majątkiem i dochodami Stolicy Apostolskiej. W przeszłości jego obowiązki obejmowały administrację finansową Dziedzictwa Świętego Piotra. Zgodnie z regulacjami konstytucji apostolskiej Pastor bonus z 1988 roku, kamerlingiem zawsze jest kardynał, choć nie było tak przed XV wiekiem. Jego herb heraldyczny zdobią dwa klucze – jeden złoty, drugi srebrny – skrzyżowane w saltire, nad którymi znajduje się ombrellino, baldachim lub parasol w naprzemienne czerwone i żółte pasy. Elementy te stanowią również część herbu Stolicy Apostolskiej podczas okresu sede vacante. Kamerlingiem jest Kevin Farrell od czasu jego mianowania przez papieża Franciszka 14 lutego 2019 roku. Wicekamerlingiem jest arcybiskup Ilson de Jesus Montanari od 1 maja 2020 roku.",
-  "biography_es": "El camarlengo de la Santa Iglesia Romana (pl. Camerlenghi) es un cargo de la casa papal que administra los bienes y los ingresos de la Santa Sede. Anteriormente, sus responsabilidades incluían la administración fiscal del Patrimonio de San Pedro. Según lo regulado en la constitución apostólica Pastor bonus de 1988, el camarlengo es siempre un cardenal, aunque esto no era así antes del siglo XV. Sus armas heráldicas están ornamentadas con dos llaves – una de oro, una de plata – en aspa, coronadas por un ombrellino, un dosel o paraguas de franjas alternadas rojas y amarillas. Estas también forman parte del escudo de armas de la Santa Sede durante un interregno papal (sede vacante). El camarlengo ha sido Kevin Farrell desde su nombramiento por el Papa Francisco el 14 de febrero de 2019. El vicecamarlengo ha sido el arzobispo Ilson de Jesús Montanari desde el 1 de mayo de 2020.\n\nHistoria\n\nHasta el siglo XI, el Arcediano de Roma era responsable de la administración de los bienes de la Iglesia (es decir, la Diócesis de Roma), pero los numerosos privilegios y derechos antiguos del cargo habían llegado a convertirlo en un obstáculo frecuente para la acción independiente por parte del Papa; como resultado, cuando el último Arcediano...",
-  "biography_pl": "Kamerling Świętego Kościoła Rzymskiego (l. mn. Kamerlingowie) jest urzędem w domu papieskim, który zarządza majątkiem i dochodami Stolicy Apostolskiej. W przeszłości jego obowiązki obejmowały administrację finansową Dziedzictwa Świętego Piotra. Zgodnie z konstytucją apostolską Pastor bonus z 1988 roku, kamerlingiem zawsze jest kardynał, choć nie było tak przed XV wiekiem. Jego herb heraldyczny ozdobiony jest dwoma kluczami – jednym złotym, jednym srebrnym – skrzyżowanymi w formie soliery, nad którymi znajduje się ombrellino, baldachim lub parasol w naprzemiennych czerwonych i żółtych pasach. Elementy te stanowią również część herbu Stolicy Apostolskiej podczas okresu bezpapiestwa (sede vacante). Kamerlingiem jest Kevin Farrell od czasu jego mianowania przez papieża Franciszka 14 lutego 2019 roku. Wicekamerlingiem jest arcybiskup Ilson de Jesus Montanari od 1 maja 2020 roku.  \nHistoria  \nDo XI wieku archidiakon Rzymu odpowiadał za zarządzanie majątkiem Kościoła (tj. diecezji rzymskiej), jednak liczne starożytne przywileje i prawa tego urzędu często stanowiły przeszkodę dla niezależnego działania papieża; w rezultacie, gdy ostatni archidiakon..."
+  "summary_es": "Esta conmemoración honra a los cristianos que fueron ejecutados en Roma durante la persecución de Nerón después del gran incendio, la primera gran efusión de martirio en la capital de la Iglesia.",
+  "summary_pl": "To wspomnienie czci chrześcijan zabitych w Rzymie podczas prześladowania Nerona po wielkim pożarze, pierwszego wielkiego rozlewu męczeństwa w stolicy Kościoła.",
+  "biography_es": "Los Primeros Mártires de la Santa Iglesia Romana fueron los cristianos sin nombre que padecieron en Roma bajo el emperador Nerón hacia el año 64 d.C. La antigua tradición los recuerda como víctimas de castigos brutales después de que Nerón culpara a los cristianos del incendio que devastó la ciudad. Su fiesta, celebrada al día siguiente de san Pedro y san Pablo, recuerda a la Iglesia que el testimonio de Roma fue sellado no solo por sus grandes apóstoles, sino también por muchos creyentes ocultos que entregaron su vida por Cristo.",
+  "biography_pl": "Pierwsi Męczennicy Świętego Kościoła Rzymskiego to bezimienni chrześcijanie, którzy cierpieli w Rzymie za cesarza Nerona około 64 roku. Starożytna tradycja wspomina ich jako ofiary okrutnych kar po tym, jak Neron obwinił chrześcijan o pożar, który zniszczył miasto. Ich wspomnienie, obchodzone dzień po świętych Piotrze i Pawle, przypomina Kościołowi, że świadectwo Rzymu zostało przypieczętowane nie tylko przez wielkich apostołów, ale także przez wielu ukrytych wierzących, którzy oddali życie za Chrystusa."
 }
