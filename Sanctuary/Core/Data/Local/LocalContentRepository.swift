@@ -66,11 +66,11 @@ actor LocalContentRepository: ContentRepository {
                 guard matchesDate else { return false }
                 guard let normalized else { return true }
 
-                let name = saint.name.lowercased()
+                let name = saint.displayName(locale: locale).lowercased()
                 let biography = saint.biographyByLocale[locale]?.lowercased() ?? ""
                 return name.contains(normalized) || biography.contains(normalized)
             }
-            .sorted { $0.name < $1.name }
+            .sorted { $0.displayName(locale: locale) < $1.displayName(locale: locale) }
     }
 
     func fetchSaint(slug: String, locale _: ContentLocale) async throws -> Saint? {
@@ -323,6 +323,7 @@ actor LocalContentRepository: ContentRepository {
               let day = Int(pieces[1])
         else { return nil }
 
+        let nameByLocale = localizedMap(base: doc.name, es: doc.name_es, pl: doc.name_pl)
         let summaryByLocale = localizedMap(base: doc.summary, es: doc.summary_es, pl: doc.summary_pl)
         let biographyByLocale = localizedMap(base: doc.biography, es: doc.biography_es, pl: doc.biography_pl)
         let feastByLocale = localizedMap(base: doc.feast, es: doc.feast_es, pl: doc.feast_pl)
@@ -336,7 +337,8 @@ actor LocalContentRepository: ContentRepository {
         return Saint(
             id: doc.id,
             slug: doc.id,
-            name: doc.name ?? doc.id,
+            name: nameByLocale[.en] ?? doc.id,
+            nameByLocale: nameByLocale,
             feastMonth: month,
             feastDay: day,
             imageURL: urlFromString(doc.photoUrl),
@@ -444,6 +446,7 @@ enum LocalSeedData {
             id: "03-19_saint_joseph",
             slug: "saint-joseph",
             name: "Saint Joseph",
+            nameByLocale: [.en: "Saint Joseph", .es: "San José", .pl: "Święty Józef"],
             feastMonth: 3,
             feastDay: 19,
             imageURL: nil,
@@ -471,6 +474,7 @@ enum LocalSeedData {
             id: "10-05_saint_faustina",
             slug: "saint-faustina",
             name: "Saint Faustina",
+            nameByLocale: [.en: "Saint Faustina", .es: "Santa Faustina", .pl: "Święta Faustyna"],
             feastMonth: 10,
             feastDay: 5,
             imageURL: nil,

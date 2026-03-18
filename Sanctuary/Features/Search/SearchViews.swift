@@ -25,7 +25,7 @@ struct SaintsSearchView: View {
                     SaintDetailView(saint: saint)
                 } label: {
                     VStack(alignment: .leading, spacing: 4) {
-                        Text(saint.name).font(.headline)
+                        Text(viewModel.displayName(for: saint)).font(.headline)
                         Text(viewModel.summary(for: saint))
                             .font(.subheadline)
                             .foregroundStyle(.secondary)

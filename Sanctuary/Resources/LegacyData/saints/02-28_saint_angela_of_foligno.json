@@ -3,77 +3,17 @@
   "name": "Saint Angela of Foligno",
   "mmdd": "02-28",
   "feast": "The Twenty-Eighth Day of February",
-  "summary": "Foligno Cathedral is a Catholic cathedral situated on the Piazza della Repubblica in the center of Foligno, Italy. The cathedral, built on the site of an earlier basilica, is dedicated to the patron saint of the city, the martyr Felician of Foligno, who was buried here in 251 AD. It is the seat of the Bishop of Foligno. It contains the cathedra for the Diocese of Foligno.",
-  "biography": "Foligno Cathedral (Italian: Basilica Cattedrale di San Feliciano; Duomo di Foligno) is a Catholic cathedral situated on the Piazza della Repubblica in the center of Foligno, Italy. The cathedral, built on the site of an earlier basilica, is dedicated to the patron saint of the city, the martyr Felician of Foligno (San Feliciano), who was buried here in 251 AD. It is the seat of the Bishop of Foligno. It contains the cathedra for the Diocese of Foligno. History The church was built in Romanesque style in the period 1133–1201. Bishop Marco began the construction in 1133. The renewed church was consecrated in 1149 by Cardinal Giulio di San Marcello. The cathedral has two façades, the principal façade, or west front, facing the Piazza Grande, and the secondary façade facing the Piazza della Repubblica. The north transept and the secondary façade were commissioned in 1204 by Bishop Anselmo degli Atti, as attested by an inscription on the façade. The south transept was opened in 1513, giving the church its present Latin cross configuration. Façade The principal façade was built in 1133, soon after Foligno had become a bishop. The upper tympanum is an addition from the 16th century...",
+  "summary": "Saint Angela of Foligno was an Italian Franciscan tertiary, mystic, and penitent whose conversion led her to a life of poverty, prayer, and deep union with Christ.",
+  "biography": "Saint Angela of Foligno (c. 1248-1309) was a wife and mother who, after the deaths of her family members, embraced a profound conversion of heart. She joined the Secular Franciscan movement and became known for her radical penance, love of the poor, and intense meditations on the Passion of Christ. Her spiritual counsels and mystical experiences made her one of the best-known Franciscan women of the Middle Ages. The Church honors her as a witness to mercy, repentance, and total surrender to God.",
   "prayers": [],
-  "sources": [
-    "https://en.wikipedia.org/wiki/Foligno_Cathedral",
-    "Wikipedia (CC BY-SA) — text attribution required."
-  ],
-  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/02-28_saint_angela_of_foligno.jpg",
-  "_translationMeta": {
-    "version": 1,
-    "fields": {
-      "name": {
-        "sourceHash": "c6944839935ab5d0f1490f37ee256ddd519319b8fbcbec3c3fa4312738252de2",
-        "langs": {
-          "es": {
-            "translatedHash": "91b87b6217a2246f006bde7abe3480dc4b16393256b3edc10d1918a502f74958",
-            "updatedAt": "2026-02-24T22:44:16.186Z"
-          },
-          "pl": {
-            "translatedHash": "cadb9bc6fc648ab6019003ed61ed4242f7559a6dbc8c5351d0fb35fe70c00445",
-            "updatedAt": "2026-02-24T22:44:16.916Z"
-          }
-        }
-      },
-      "feast": {
-        "sourceHash": "a58c88d77841e10add3e6744cfd1f38be0db69958d64770d66eaa244e8e4b2ff",
-        "langs": {
-          "es": {
-            "translatedHash": "2b306724028e901fe20b876ba29b3b7d4285c877ed1d1e3bef6dfbecbaa6aedd",
-            "updatedAt": "2026-02-24T22:44:17.524Z"
-          },
-          "pl": {
-            "translatedHash": "12edf4446be3f9a0d421e9593e0226fead50d9367d55abb0387f6649ca17d5de",
-            "updatedAt": "2026-02-24T22:44:18.452Z"
-          }
-        }
-      },
-      "summary": {
-        "sourceHash": "fc9a43d0317e45b2f82945a99f233d8e0fbd588b98ef2183ddba4ed43ad2d575",
-        "langs": {
-          "es": {
-            "translatedHash": "1724aa53fef02377f2d83f550bc8a254fef002bc46cf35954a9e79a43039dacf",
-            "updatedAt": "2026-02-24T22:44:20.681Z"
-          },
-          "pl": {
-            "translatedHash": "df3fa4f47ff59405c34fb76d5c70d4a9adc0a7c6c3d48d42f391b439451917b2",
-            "updatedAt": "2026-02-24T22:44:22.480Z"
-          }
-        }
-      },
-      "biography": {
-        "sourceHash": "29c3042468b10b4174270a34c9fd95fcae04fd841c615ccb93daa4d2b2f5cbf0",
-        "langs": {
-          "es": {
-            "translatedHash": "920307de10659f5079d1505527e5b21cb264885d87edde7f1709e1b0af7cf2e6",
-            "updatedAt": "2026-02-24T22:44:26.700Z"
-          },
-          "pl": {
-            "translatedHash": "0dfceb8292ac338bd3dd3273e4d9a9c94c0d97b0289decd0460c75c072d1895c",
-            "updatedAt": "2026-02-24T22:44:33.866Z"
-          }
-        }
-      }
-    }
-  },
+  "sources": [],
+  "photoUrl": null,
   "name_es": "Santa Ángela de Foligno",
   "name_pl": "Święta Angela z Foligno",
   "feast_es": "El vigésimo octavo día de febrero",
   "feast_pl": "Dwudziesty ósmy dzień lutego",
-  "summary_es": "La Catedral de Foligno es una catedral católica situada en la Piazza della Repubblica en el centro de Foligno, Italia. La catedral, construida sobre el sitio de una basílica anterior, está dedicada al santo patrón de la ciudad, el mártir Feliciano de Foligno, quien fue enterrado aquí en el año 251 d.C. Es la sede del Obispo de Foligno. Contiene la cátedra de la Diócesis de Foligno.",
-  "summary_pl": "Katedra w Foligno to katolicka katedra położona na Piazza della Repubblica w centrum Foligno we Włoszech. Katedra, zbudowana na miejscu wcześniejszej bazyliki, jest poświęcona patronowi miasta, męczennikowi Felicjanowi z Foligno, który został tu pochowany w 251 roku n.e. Jest siedzibą biskupa Foligno. Zawiera katedrę dla diecezji Foligno.",
-  "biography_es": "La Catedral de Foligno (italiano: Basilica Cattedrale di San Feliciano; Duomo di Foligno) es una catedral católica situada en la Piazza della Repubblica en el centro de Foligno, Italia. La catedral, construida sobre el sitio de una basílica anterior, está dedicada al santo patrón de la ciudad, el mártir Feliciano de Foligno (San Feliciano), quien fue enterrado aquí en el año 251 d.C. Es la sede del Obispo de Foligno. Contiene la cátedra para la Diócesis de Foligno.\n\nHistoria\n\nLa iglesia fue construida en estilo románico en el período 1133–1201. El obispo Marco comenzó la construcción en 1133. La iglesia renovada fue consagrada en 1149 por el cardenal Giulio di San Marcello. La catedral tiene dos fachadas, la fachada principal, o frente oeste, que da a la Piazza Grande, y la fachada secundaria que da a la Piazza della Repubblica. El transepto norte y la fachada secundaria fueron encargados en 1204 por el obispo Anselmo degli Atti, como lo atestigua una inscripción en la fachada. El transepto sur se abrió en 1513, dando a la iglesia su configuración actual de cruz latina.\n\nFachada\n\nLa fachada principal fue construida en 1133, poco después de que Foligno se convirtiera en obispado. El tímpano superior es una adición del siglo XVI...",
-  "biography_pl": "Katedra w Foligno (wł. Basilica Cattedrale di San Feliciano; Duomo di Foligno) to katolicka katedra położona na Piazza della Repubblica w centrum Foligno we Włoszech. Katedra, zbudowana na miejscu wcześniejszej bazyliki, jest poświęcona patronowi miasta, męczennikowi Felicjanowi z Foligno (San Feliciano), który został tu pochowany w 251 roku n.e. Jest siedzibą biskupa Foligno. Zawiera katedrę dla diecezji Foligno.\n\nHistoria  \nKościół został zbudowany w stylu romańskim w latach 1133–1201. Budowę rozpoczął biskup Marco w 1133 roku. Odnowiony kościół został konsekrowany w 1149 roku przez kardynała Giulio di San Marcello. Katedra ma dwie fasady: główną fasadę, czyli front zachodni, zwrócony na Piazza Grande, oraz fasadę boczną zwróconą na Piazza della Repubblica. Północny transept i fasada boczna zostały zlecone w 1204 roku przez biskupa Anselmo degli Atti, o czym świadczy inskrypcja na fasadzie. Południowy transept został otwarty w 1513 roku, nadając kościołowi obecną konfigurację krzyża łacińskiego.\n\nFasada  \nGłówna fasada została zbudowana w 1133 roku, niedługo po tym, jak Foligno stało się biskupstwem. Górny tympanon jest dodatkiem z XVI wieku..."
+  "summary_es": "Santa Ángela de Foligno fue una terciaria franciscana italiana, mística y penitente, cuya conversión la llevó a una vida de pobreza, oración y profunda unión con Cristo.",
+  "summary_pl": "Święta Angela z Foligno była włoską tercjarką franciszkańską, mistyczką i pokutnicą, której nawrócenie poprowadziło ją do życia w ubóstwie, modlitwie i głębokiej jedności z Chrystusem.",
+  "biography_es": "Santa Ángela de Foligno (c. 1248-1309) fue esposa y madre que, tras la muerte de varios miembros de su familia, abrazó una profunda conversión del corazón. Se unió al movimiento franciscano seglar y llegó a ser conocida por su penitencia radical, su amor a los pobres y sus intensas meditaciones sobre la Pasión de Cristo. Sus consejos espirituales y experiencias místicas la convirtieron en una de las mujeres franciscanas más conocidas de la Edad Media. La Iglesia la honra como testigo de la misericordia, la penitencia y la entrega total a Dios.",
+  "biography_pl": "Święta Angela z Foligno (ok. 1248-1309) była żoną i matką, która po śmierci członków swojej rodziny przeszła głębokie nawrócenie serca. Dołączyła do franciszkańskiego ruchu świeckich i zasłynęła z radykalnej pokuty, miłości do ubogich oraz intensywnych rozważań nad Męką Chrystusa. Jej rady duchowe i doświadczenia mistyczne uczyniły ją jedną z najbardziej znanych franciszkanek średniowiecza. Kościół czci ją jako świadka miłosierdzia, pokuty i całkowitego oddania się Bogu."
 }
