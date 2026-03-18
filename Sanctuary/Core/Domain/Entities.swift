@@ -15,6 +15,7 @@ struct Saint: Codable, Identifiable, Hashable, Sendable {
     let id: String
     let slug: String
     let name: String
+    let nameByLocale: [ContentLocale: String]
     let feastMonth: Int
     let feastDay: Int
     let imageURL: URL?
@@ -25,6 +26,11 @@ struct Saint: Codable, Identifiable, Hashable, Sendable {
     let biographyByLocale: [ContentLocale: String]
     let prayersByLocale: [ContentLocale: [String]]
     let sources: [String]
+
+    func displayName(locale: ContentLocale) -> String {
+        let localized = nameByLocale[locale] ?? nameByLocale[.en] ?? name
+        return localized.trimmingCharacters(in: .whitespacesAndNewlines)
+    }
 }
 
 struct NovenaDay: Codable, Hashable, Sendable {

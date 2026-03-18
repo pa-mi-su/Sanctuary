@@ -139,6 +139,11 @@ struct MeView: View {
                         id: id,
                         slug: id,
                         name: saintName(for: id),
+                        nameByLocale: [
+                            .en: saintName(for: id),
+                            .es: saintName(for: id),
+                            .pl: saintName(for: id)
+                        ],
                         feastMonth: 1,
                         feastDay: 1,
                         imageURL: nil,
@@ -179,7 +184,15 @@ struct MeView: View {
     }
 
     private func saintName(for id: String) -> String {
-        ContentStore.saint(id: id)?.name ?? id
+        guard let doc = ContentStore.saint(id: id) else { return id }
+        switch localization.language.contentLocale {
+        case .en:
+            return doc.name ?? id
+        case .es:
+            return doc.name_es ?? doc.name ?? id
+        case .pl:
+            return doc.name_pl ?? doc.name ?? id
+        }
     }
 
     private func novenaTitle(for id: String) -> String {
@@ -191,11 +204,17 @@ struct MeView: View {
         let parts = mmdd.split(separator: "-")
         let month = parts.count == 2 ? Int(parts[0]) ?? 1 : 1
         let day = parts.count == 2 ? Int(parts[1]) ?? 1 : 1
+        let nameByLocale: [ContentLocale: String] = [
+            .en: doc.name ?? doc.id,
+            .es: doc.name_es ?? doc.name ?? doc.id,
+            .pl: doc.name_pl ?? doc.name ?? doc.id
+        ]
 
         return Saint(
             id: doc.id,
             slug: doc.id,
-            name: doc.name ?? doc.id,
+            name: nameByLocale[.en] ?? doc.id,
+            nameByLocale: nameByLocale,
             feastMonth: month,
             feastDay: day,
             imageURL: urlFromString(doc.photoUrl),

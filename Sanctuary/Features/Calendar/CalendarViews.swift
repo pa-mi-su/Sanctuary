@@ -523,6 +523,11 @@ struct SaintsCalendarView: View {
                     id: selection.id,
                     slug: selection.id,
                     name: saintNameByDay[selectedDay] ?? localization.t("tab.saints"),
+                    nameByLocale: [
+                        .en: saintNameByDay[selectedDay] ?? localization.t("tab.saints"),
+                        .es: saintNameByDay[selectedDay] ?? localization.t("tab.saints"),
+                        .pl: saintNameByDay[selectedDay] ?? localization.t("tab.saints")
+                    ],
                     feastMonth: selectedMonth,
                     feastDay: selectedDay,
                     imageURL: nil,
@@ -576,6 +581,7 @@ struct SaintsCalendarView: View {
     private func loadSaintLookups() async {
         let month = selectedMonth
         let days = daysInMonth(year: selectedYear, month: selectedMonth)
+        let locale = localization.language.contentLocale
         let loaded = await Task.detached(priority: .userInitiated) {
             var ids: [Int: String] = [:]
             var names: [Int: String] = [:]
@@ -583,9 +589,16 @@ struct SaintsCalendarView: View {
             for day in 1...days {
                 if let id = ContentStore.firstSaintID(onMonth: month, day: day) {
                     ids[day] = id
-                }
-                if let name = ContentStore.firstSaintName(onMonth: month, day: day) {
-                    names[day] = name
+                    if let doc = ContentStore.saint(id: id) {
+                        switch locale {
+                        case .en:
+                            names[day] = doc.name ?? id
+                        case .es:
+                            names[day] = doc.name_es ?? doc.name ?? id
+                        case .pl:
+                            names[day] = doc.name_pl ?? doc.name ?? id
+                        }
+                    }
                 }
                 if let raw = ContentStore.firstSaintPhotoURLString(onMonth: month, day: day),
                    let url = urlFromString(raw) {
@@ -1066,11 +1079,17 @@ private func mapSourceSaint(_ doc: SaintDocument) -> Saint {
     let parts = mmdd.split(separator: "-")
     let month = parts.count == 2 ? Int(parts[0]) ?? 1 : 1
     let day = parts.count == 2 ? Int(parts[1]) ?? 1 : 1
+    let nameByLocale: [ContentLocale: String] = [
+        .en: doc.name ?? doc.id,
+        .es: doc.name_es ?? doc.name ?? doc.id,
+        .pl: doc.name_pl ?? doc.name ?? doc.id
+    ]
 
     return Saint(
         id: doc.id,
         slug: doc.id,
-        name: doc.name ?? doc.id,
+        name: nameByLocale[.en] ?? doc.id,
+        nameByLocale: nameByLocale,
         feastMonth: month,
         feastDay: day,
         imageURL: urlFromString(doc.photoUrl),

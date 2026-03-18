@@ -21,7 +21,7 @@ struct SaintsListView: View {
                         SaintDetailView(saint: saint)
                     } label: {
                         VStack(alignment: .leading, spacing: 4) {
-                            Text(saint.name)
+                            Text(viewModel.displayName(for: saint))
                                 .font(.headline)
                             Text(viewModel.summary(for: saint))
                                 .font(.subheadline)
