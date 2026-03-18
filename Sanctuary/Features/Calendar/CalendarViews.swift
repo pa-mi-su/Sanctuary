@@ -916,15 +916,19 @@ private struct MonthGrid: View {
 
     private enum MonthGridCell: Hashable {
         case empty(Int)
-        case day(Int)
+        case day(Date)
     }
 
     private let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 7)
-    private var leadingEmptyCells: Int { firstWeekdayOffset(year: year, month: month) }
     private var cells: [MonthGridCell] {
-        let empties = (0..<leadingEmptyCells).map(MonthGridCell.empty)
-        let days = (1...daysInMonth).map(MonthGridCell.day)
-        return empties + days
+        monthGridDates(year: year, month: month, daysInMonth: daysInMonth)
+            .enumerated()
+            .map { index, date in
+                if let date {
+                    return .day(date)
+                }
+                return .empty(index)
+            }
     }
     private var todayComponents: DateComponents {
         currentLiturgicalDateComponents()
@@ -939,7 +943,8 @@ private struct MonthGrid: View {
                     switch cell {
                     case .empty:
                         Color.clear.frame(height: 72)
-                    case .day(let day):
+                    case .day(let date):
+                        let day = liturgicalUICalendar.component(.day, from: date)
                         dayCell(day: day, label: labelForDay(day))
                     }
                 }
@@ -998,18 +1003,11 @@ private struct WeekGrid: View {
     let labelForDay: (Int) -> String
     let onDayTap: (Int) -> Void
 
-    private var weekStartDay: Int {
-        let weekday = weekdayForDate(year: year, month: month, day: selectedDay)
-        return selectedDay - (weekday - 1)
-    }
     private var todayComponents: DateComponents {
         currentLiturgicalDateComponents()
     }
-    private var weekDays: [Int?] {
-        (0...6).map { offset in
-            let value = weekStartDay + offset
-            return (1...daysInMonth).contains(value) ? value : nil
-        }
+    private var weekDays: [Date?] {
+        weekGridDates(year: year, month: month, selectedDay: selectedDay)
     }
 
     var body: some View {
@@ -1024,8 +1022,9 @@ private struct WeekGrid: View {
             }
 
             HStack(spacing: 10) {
-                ForEach(Array(weekDays.enumerated()), id: \.offset) { _, maybeDay in
-                    if let day = maybeDay {
+                ForEach(Array(weekDays.enumerated()), id: \.offset) { _, maybeDate in
+                    if let date = maybeDate {
+                        let day = liturgicalUICalendar.component(.day, from: date)
                         let isToday = todayComponents.year == year && todayComponents.month == month && todayComponents.day == day
                         Button {
                             onDayTap(day)
@@ -1063,15 +1062,40 @@ private struct WeekGrid: View {
     }
 }
 
-private func firstWeekdayOffset(year: Int, month: Int) -> Int {
-    let weekday = weekdayForDate(year: year, month: month, day: 1)
-    return max(0, weekday - 1)
+private func monthGridDates(year: Int, month: Int, daysInMonth: Int) -> [Date?] {
+    let firstDay = LiturgicalCalendarEngine.makeDate(year: year, month: month, day: 1)
+    let weekday = liturgicalUICalendar.component(.weekday, from: firstDay)
+    let leadingEmptyCells = (weekday - liturgicalUICalendar.firstWeekday + 7) % 7
+
+    var cells = Array<Date?>(repeating: nil, count: leadingEmptyCells)
+    cells.reserveCapacity(leadingEmptyCells + daysInMonth)
+
+    for day in 1...daysInMonth {
+        cells.append(LiturgicalCalendarEngine.makeDate(year: year, month: month, day: day))
+    }
+
+    return cells
 }
 
-private func weekdayForDate(year: Int, month: Int, day: Int) -> Int {
-    let components = DateComponents(year: year, month: month, day: day, hour: 12)
-    guard let date = liturgicalUICalendar.date(from: components) else { return 1 }
-    return liturgicalUICalendar.component(.weekday, from: date)
+private func weekGridDates(year: Int, month: Int, selectedDay: Int) -> [Date?] {
+    let selectedDate = LiturgicalCalendarEngine.makeDate(year: year, month: month, day: selectedDay)
+    let weekday = liturgicalUICalendar.component(.weekday, from: selectedDate)
+    let daysFromWeekStart = (weekday - liturgicalUICalendar.firstWeekday + 7) % 7
+    guard let weekStart = liturgicalUICalendar.date(byAdding: .day, value: -daysFromWeekStart, to: selectedDate) else {
+        return Array(repeating: nil, count: 7)
+    }
+
+    return (0..<7).map { offset in
+        guard let date = liturgicalUICalendar.date(byAdding: .day, value: offset, to: weekStart) else {
+            return nil
+        }
+
+        let components = liturgicalUICalendar.dateComponents([.year, .month], from: date)
+        guard components.year == year, components.month == month else {
+            return nil
+        }
+        return date
+    }
 }
 
 private func mapSourceSaint(_ doc: SaintDocument) -> Saint {
