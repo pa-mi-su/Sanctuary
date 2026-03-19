@@ -11,7 +11,6 @@ enum AppTab: Hashable {
 struct AppShellView: View {
     let environment: AppEnvironment
     @State private var selectedTab: AppTab = .home
-    @State private var openIntentionsToken = 0
     @StateObject private var localization: LocalizationManager
     @StateObject private var progressStore: UserProgressStore
 
@@ -25,27 +24,18 @@ struct AppShellView: View {
 
     var body: some View {
         TabView(selection: $selectedTab) {
-            HomeView(
-                environment: environment,
-                selectedTab: $selectedTab,
-                onOpenIntentions: {
-                    openIntentionsToken += 1
-                }
-            )
+            HomeView(environment: environment)
                 .tag(AppTab.home)
                 .tabItem {
                     Label(localization.t("tab.home"), systemImage: "house.fill")
                 }
 
             LazyTabContent(activeTab: $selectedTab, tab: .novenas) {
-                NovenasCalendarView(
-                    environment: environment,
-                    openIntentionsToken: openIntentionsToken
-                )
+                NovenasCalendarView(environment: environment)
             }
                 .tag(AppTab.novenas)
                 .tabItem {
-                    Label(localization.t("tab.novenas"), systemImage: "book.fill")
+                    Label(localization.t("tab.novenas"), systemImage: "book.closed.fill")
                 }
 
             LazyTabContent(activeTab: $selectedTab, tab: .liturgical) {
@@ -53,7 +43,7 @@ struct AppShellView: View {
             }
                 .tag(AppTab.liturgical)
                 .tabItem {
-                    Label(localization.t("tab.liturgical"), systemImage: "calendar")
+                    Label(localization.t("tab.liturgical"), systemImage: "calendar.badge.clock")
                 }
 
             LazyTabContent(activeTab: $selectedTab, tab: .saints) {
@@ -61,7 +51,7 @@ struct AppShellView: View {
             }
                 .tag(AppTab.saints)
                 .tabItem {
-                    Label(localization.t("tab.saints"), systemImage: "person.3.fill")
+                    Label(localization.t("tab.saints"), systemImage: "person.2.crop.square.stack.fill")
                 }
 
             LazyTabContent(activeTab: $selectedTab, tab: .me) {

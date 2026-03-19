@@ -8,7 +8,7 @@ struct MeView: View {
 
     var body: some View {
         ZStack {
-            AppTheme.backgroundGradient.ignoresSafeArea()
+            AppBackdrop()
 
             ScrollView(showsIndicators: false) {
                 VStack(alignment: .leading, spacing: 14) {
@@ -51,8 +51,12 @@ struct MeView: View {
                                         .frame(maxWidth: .infinity, alignment: .leading)
                                         .padding(.vertical, 10)
                                         .padding(.horizontal, 14)
-                                        .background(AppTheme.purpleButton)
-                                        .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                                        .background(AppTheme.cardBackgroundSoft)
+                                        .overlay(
+                                            RoundedRectangle(cornerRadius: 18, style: .continuous)
+                                                .stroke(Color.white.opacity(0.12), lineWidth: 1)
+                                        )
+                                        .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
                                     }
                                     .buttonStyle(.plain)
                                 }
@@ -83,8 +87,12 @@ struct MeView: View {
                                         }
                                         .padding(.vertical, 12)
                                         .padding(.horizontal, 14)
-                                        .background(AppTheme.purpleButton)
-                                        .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                                        .background(AppTheme.cardBackgroundSoft)
+                                        .overlay(
+                                            RoundedRectangle(cornerRadius: 18, style: .continuous)
+                                                .stroke(Color.white.opacity(0.12), lineWidth: 1)
+                                        )
+                                        .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
                                     }
                                     .buttonStyle(.plain)
                                 }
@@ -115,8 +123,12 @@ struct MeView: View {
                                         }
                                         .padding(.vertical, 12)
                                         .padding(.horizontal, 14)
-                                        .background(AppTheme.purpleButton)
-                                        .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                                        .background(AppTheme.cardBackgroundSoft)
+                                        .overlay(
+                                            RoundedRectangle(cornerRadius: 18, style: .continuous)
+                                                .stroke(Color.white.opacity(0.12), lineWidth: 1)
+                                        )
+                                        .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
                                     }
                                     .buttonStyle(.plain)
                                 }
@@ -335,8 +347,7 @@ private struct MeCard<Content: View>: View {
         }
         .padding(16)
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(AppTheme.cardBackground)
-        .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+        .appGlassCard(cornerRadius: 24)
     }
 }
 
