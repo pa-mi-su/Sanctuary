@@ -103,7 +103,7 @@ struct NovenasCalendarView: View {
                     title: "\(selectedDay)",
                     subtitle: selectedNovenaTitleForDay(),
                     imageURL: selectedNovenaImageURLForDay(),
-                    borderColor: displayedSeasonBorderColor,
+                    borderColor: nil,
                     onTap: {
                         guard Date() >= suppressDayTapUntil else { return }
                         let next = novenaIDForSelectedDay()
@@ -470,7 +470,7 @@ struct SaintsCalendarView: View {
                     title: "\(selectedDay)",
                     subtitle: selectedSaintNameForDay(),
                     imageURL: selectedSaintImageURLForDay(),
-                    borderColor: displayedSeasonBorderColor,
+                    borderColor: nil,
                     onTap: {
                         guard Date() >= suppressDayTapUntil else { return }
                         let next = saintIDForSelectedDay()
@@ -823,7 +823,7 @@ private struct DayCard: View {
     let title: String
     let subtitle: String
     let imageURL: URL?
-    var borderColor: Color = AppTheme.lent
+    var borderColor: Color? = AppTheme.lent
     var actionLabel: String? = nil
     let onTap: () -> Void
     private let cardHeight: CGFloat = 142
@@ -831,12 +831,11 @@ private struct DayCard: View {
     var body: some View {
         let outerShape = RoundedRectangle(cornerRadius: 28, style: .continuous)
         let innerShape = RoundedRectangle(cornerRadius: 20, style: .continuous)
-        let borderWidth: CGFloat = 6
-        let innerInset: CGFloat = 8
+        let borderWidth: CGFloat = borderColor == nil ? 0 : 7
         Button(action: onTap) {
             ZStack {
                 outerShape
-                    .fill(AppTheme.cardBackground)
+                    .fill(borderColor ?? AppTheme.cardBackground)
 
                 ZStack {
                     innerShape
@@ -927,10 +926,7 @@ private struct DayCard: View {
                     innerShape
                         .strokeBorder(Color.white.opacity(0.14), lineWidth: 1)
                 }
-                .padding(innerInset)
-
-                outerShape
-                    .strokeBorder(borderColor.opacity(0.98), lineWidth: borderWidth)
+                .padding(borderWidth)
             }
             .frame(maxWidth: .infinity)
             .frame(height: cardHeight)
