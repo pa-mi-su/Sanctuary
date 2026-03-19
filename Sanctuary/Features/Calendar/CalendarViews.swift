@@ -823,114 +823,141 @@ private struct DayCard: View {
     let title: String
     let subtitle: String
     let imageURL: URL?
-    var borderColor: Color = AppTheme.lent
+    var borderColor: Color? = AppTheme.lent
     var actionLabel: String? = nil
     let onTap: () -> Void
     private let cardHeight: CGFloat = 142
 
     var body: some View {
         let outerShape = RoundedRectangle(cornerRadius: 28, style: .continuous)
-        let innerShape = RoundedRectangle(cornerRadius: 20, style: .continuous)
-        let borderWidth: CGFloat = 6
-        let innerInset: CGFloat = 8
+        let innerShape = RoundedRectangle(cornerRadius: 22, style: .continuous)
+        let borderWidth: CGFloat = borderColor == nil ? 0 : 8
         Button(action: onTap) {
             ZStack {
                 outerShape
                     .fill(AppTheme.cardBackground)
-
-                ZStack {
-                    innerShape
-                        .fill(AppTheme.cardBackground)
-
-                    if let imageURL {
-                        GeometryReader { geo in
-                            AsyncImage(url: imageURL) { phase in
-                                switch phase {
-                                case .success(let image):
-                                    ZStack {
+                    .overlay {
+                        if let imageURL {
+                            GeometryReader { geo in
+                                AsyncImage(url: imageURL) { phase in
+                                    switch phase {
+                                    case .success(let image):
                                         image
                                             .resizable()
                                             .scaledToFill()
                                             .frame(width: geo.size.width, height: geo.size.height)
-                                            .blur(radius: 28)
-                                            .saturation(0.65)
-                                            .opacity(0.72)
-
-                                        image
-                                            .resizable()
-                                            .aspectRatio(contentMode: .fit)
-                                            .frame(
-                                                width: max(0, geo.size.width - 18),
-                                                height: max(0, geo.size.height - 18)
-                                            )
-                                            .clipShape(innerShape)
-                                            .overlay(
-                                                innerShape
-                                                    .stroke(Color.white.opacity(0.38), lineWidth: 1)
-                                            )
-                                            .shadow(color: .black.opacity(0.22), radius: 6, x: 0, y: 2)
+                                            .blur(radius: 30)
+                                            .saturation(0.78)
+                                            .opacity(0.5)
+                                    case .empty:
+                                        Color.clear
+                                    case .failure:
+                                        Color.clear
+                                    @unknown default:
+                                        Color.clear
                                     }
-                                case .empty:
-                                    Color.white.opacity(0.08)
-                                case .failure:
-                                    Color.white.opacity(0.08)
-                                @unknown default:
-                                    Color.white.opacity(0.08)
                                 }
                             }
+                            .clipShape(outerShape)
+                        }
+                    }
+
+                innerShape
+                    .fill(AppTheme.cardBackground)
+                    .overlay {
+                        ZStack {
+                            if let imageURL {
+                                GeometryReader { geo in
+                                    AsyncImage(url: imageURL) { phase in
+                                        switch phase {
+                                        case .success(let image):
+                                            ZStack {
+                                                image
+                                                    .resizable()
+                                                    .scaledToFit()
+                                                    .frame(
+                                                        width: max(0, geo.size.width - 18),
+                                                        height: max(0, geo.size.height - 18)
+                                                    )
+                                                    .mask(
+                                                        LinearGradient(
+                                                            stops: [
+                                                                .init(color: .clear, location: 0.0),
+                                                                .init(color: .white.opacity(0.9), location: 0.18),
+                                                                .init(color: .white, location: 0.5),
+                                                                .init(color: .white.opacity(0.9), location: 0.82),
+                                                                .init(color: .clear, location: 1.0)
+                                                            ],
+                                                            startPoint: .leading,
+                                                            endPoint: .trailing
+                                                        )
+                                                    )
+                                                    .shadow(color: .black.opacity(0.22), radius: 6, x: 0, y: 2)
+                                            }
+                                        case .empty:
+                                            Color.white.opacity(0.08)
+                                        case .failure:
+                                            Color.white.opacity(0.08)
+                                        @unknown default:
+                                            Color.white.opacity(0.08)
+                                        }
+                                    }
+                                }
+                            }
+
+                            LinearGradient(
+                                colors: [Color.black.opacity(0.04), Color.black.opacity(0.24)],
+                                startPoint: .top,
+                                endPoint: .bottom
+                            )
+
+                            VStack(alignment: .leading, spacing: 10) {
+                                HStack(alignment: .top) {
+                                    VStack(alignment: .leading, spacing: 4) {
+                                        Text(title)
+                                            .font(AppTheme.rounded(34, weight: .bold))
+                                            .foregroundStyle(.white)
+                                        Text(subtitle)
+                                            .font(AppTheme.rounded(17, weight: .semibold))
+                                            .foregroundStyle(.white.opacity(0.92))
+                                            .multilineTextAlignment(.leading)
+                                            .lineLimit(2)
+                                    }
+
+                                    Spacer()
+
+                                    Image(systemName: "arrow.up.right")
+                                        .font(.system(size: 14, weight: .bold))
+                                        .foregroundStyle(.white.opacity(0.74))
+                                        .padding(10)
+                                        .background(Color.white.opacity(0.10))
+                                        .clipShape(Circle())
+                                }
+
+                                Spacer()
+
+                                Text(actionLabel ?? localization.t("calendar.openDetails"))
+                                    .font(AppTheme.rounded(13, weight: .semibold))
+                                    .foregroundStyle(.white.opacity(0.92))
+                                    .padding(.horizontal, 14)
+                                    .padding(.vertical, 8)
+                                    .background(Color.white.opacity(0.12))
+                                    .clipShape(Capsule())
+                            }
+                            .padding(18)
                         }
                         .clipShape(innerShape)
                     }
-
-                    LinearGradient(
-                        colors: [Color.black.opacity(0.04), Color.black.opacity(0.24)],
-                        startPoint: .top,
-                        endPoint: .bottom
-                    )
-                    .clipShape(innerShape)
-
-                    VStack(alignment: .leading, spacing: 10) {
-                        HStack(alignment: .top) {
-                            VStack(alignment: .leading, spacing: 4) {
-                                Text(title)
-                                    .font(AppTheme.rounded(34, weight: .bold))
-                                    .foregroundStyle(.white)
-                                Text(subtitle)
-                                    .font(AppTheme.rounded(17, weight: .semibold))
-                                    .foregroundStyle(.white.opacity(0.92))
-                                    .multilineTextAlignment(.leading)
-                                    .lineLimit(2)
-                            }
-
-                            Spacer()
-
-                            Image(systemName: "arrow.up.right")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundStyle(.white.opacity(0.74))
-                                .padding(10)
-                                .background(Color.white.opacity(0.10))
-                                .clipShape(Circle())
-                        }
-
-                        Spacer()
-
-                        Text(actionLabel ?? localization.t("calendar.openDetails"))
-                            .font(AppTheme.rounded(13, weight: .semibold))
-                            .foregroundStyle(.white.opacity(0.92))
-                            .padding(.horizontal, 14)
-                            .padding(.vertical, 8)
-                            .background(Color.white.opacity(0.12))
-                            .clipShape(Capsule())
+                    .overlay {
+                        innerShape
+                            .strokeBorder(Color.white.opacity(0.12), lineWidth: 1)
                     }
-                    .padding(18)
+                    .padding(borderWidth)
 
-                    innerShape
-                        .strokeBorder(Color.white.opacity(0.14), lineWidth: 1)
+                if let borderColor {
+                    outerShape
+                        .strokeBorder(borderColor.opacity(0.98), lineWidth: 6)
                 }
-                .padding(innerInset)
-
-                outerShape
-                    .strokeBorder(borderColor.opacity(0.98), lineWidth: borderWidth)
             }
             .frame(maxWidth: .infinity)
             .frame(height: cardHeight)
