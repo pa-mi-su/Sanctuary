@@ -20,21 +20,48 @@ struct SaintsSearchView: View {
 
     var body: some View {
         NavigationStack {
-            List(viewModel.saints) { saint in
-                NavigationLink {
-                    SaintDetailView(saint: saint)
-                } label: {
-                    VStack(alignment: .leading, spacing: 4) {
-                        Text(viewModel.displayName(for: saint)).font(.headline)
-                        Text(viewModel.summary(for: saint))
-                            .font(.subheadline)
-                            .foregroundStyle(.secondary)
-                            .lineLimit(2)
+            ZStack {
+                AppBackdrop()
+
+                VStack(spacing: 14) {
+                    SearchHeader(
+                        title: localization.t("search.saintsTitle"),
+                        dismiss: dismiss.callAsFunction
+                    )
+
+                    SearchField(
+                        prompt: localization.t("search.saintsPrompt"),
+                        text: $viewModel.query
+                    ) {
+                        Task { await viewModel.search() }
+                    }
+
+                    SearchResultsCount(count: viewModel.saints.count)
+
+                    ScrollView(showsIndicators: false) {
+                        LazyVStack(spacing: 10) {
+                            ForEach(viewModel.saints) { saint in
+                                NavigationLink {
+                                    SaintDetailView(saint: saint)
+                                } label: {
+                                    SearchResultCard(
+                                        title: viewModel.displayName(for: saint),
+                                        subtitle: viewModel.summary(for: saint),
+                                        meta: "\(localization.t("saints.feastShort")): \(saint.feastMonth)/\(saint.feastDay)",
+                                        accent: AppTheme.glowGold,
+                                        icon: "person.fill"
+                                    )
+                                }
+                                .buttonStyle(.plain)
+                            }
+                        }
+                        .padding(.bottom, 24)
                     }
                 }
+                .padding(.horizontal, 14)
+                .padding(.bottom, 10)
             }
-            .searchable(text: $viewModel.query, prompt: localization.t("search.saintsPrompt"))
-            .onSubmit(of: .search) { Task { await viewModel.search() } }
+            .toolbar(.hidden, for: .navigationBar)
             .task {
                 viewModel.setLocale(localization.language.contentLocale)
                 await viewModel.load()
@@ -45,11 +72,8 @@ struct SaintsSearchView: View {
                     await viewModel.load()
                 }
             }
-            .navigationTitle(localization.t("search.saintsTitle"))
-            .toolbar {
-                ToolbarItem(placement: .cancellationAction) {
-                    Button(localization.t("common.close")) { dismiss() }
-                }
+            .onChange(of: viewModel.query) { _ in
+                Task { await viewModel.search() }
             }
         }
     }
@@ -74,44 +98,77 @@ struct NovenasSearchView: View {
 
     var body: some View {
         NavigationStack {
-            Group {
-                if mode == .intentions {
-                    List(filteredIntentionItems) { item in
-                        NavigationLink {
-                            NovenaDetailView(novena: item.novena)
-                        } label: {
-                            VStack(alignment: .leading, spacing: 6) {
-                                Text(item.title).font(.headline)
-                                Text(localization.t("search.novenaType"))
-                                    .font(.subheadline)
-                                    .foregroundStyle(.secondary)
-                                Divider()
-                                Text("\(localization.t("search.intentionsLabel")): \(item.intentions.joined(separator: ", "))")
-                                    .font(.subheadline)
-                                    .foregroundStyle(.secondary)
-                                    .lineLimit(3)
+            ZStack {
+                AppBackdrop()
+
+                VStack(spacing: 14) {
+                    SearchHeader(
+                        title: mode == .intentions ? localization.t("calendar.searchIntentions") : localization.t("search.novenasTitle"),
+                        dismiss: dismiss.callAsFunction
+                    )
+
+                    if mode == .intentions {
+                        SearchField(
+                            prompt: localization.t("search.intentionsPrompt"),
+                            text: $intentionsQuery
+                        )
+
+                        SearchResultsCount(count: filteredIntentionItems.count)
+
+                        ScrollView(showsIndicators: false) {
+                            LazyVStack(spacing: 10) {
+                                ForEach(filteredIntentionItems) { item in
+                                    NavigationLink {
+                                        NovenaDetailView(novena: item.novena)
+                                    } label: {
+                                        SearchResultCard(
+                                            title: item.title,
+                                            subtitle: item.intentions.joined(separator: ", "),
+                                            meta: localization.t("search.intentionsLabel"),
+                                            accent: AppTheme.glowRose,
+                                            icon: "heart.text.square.fill"
+                                        )
+                                    }
+                                    .buttonStyle(.plain)
+                                }
                             }
+                            .padding(.bottom, 24)
+                        }
+                    } else {
+                        SearchField(
+                            prompt: localization.t("search.novenasPrompt"),
+                            text: $viewModel.query
+                        ) {
+                            Task { await viewModel.search() }
+                        }
+
+                        SearchResultsCount(count: viewModel.novenas.count)
+
+                        ScrollView(showsIndicators: false) {
+                            LazyVStack(spacing: 10) {
+                                ForEach(viewModel.novenas) { novena in
+                                    NavigationLink {
+                                        NovenaDetailView(novena: novena)
+                                    } label: {
+                                        SearchResultCard(
+                                            title: viewModel.title(for: novena),
+                                            subtitle: viewModel.summary(for: novena),
+                                            meta: viewModel.dayText(for: novena),
+                                            accent: AppTheme.glowBlue,
+                                            icon: "book.closed.fill"
+                                        )
+                                    }
+                                    .buttonStyle(.plain)
+                                }
+                            }
+                            .padding(.bottom, 24)
                         }
                     }
-                    .searchable(text: $intentionsQuery, prompt: localization.t("search.intentionsPrompt"))
-                } else {
-                    List(viewModel.novenas) { novena in
-                        NavigationLink {
-                            NovenaDetailView(novena: novena)
-                        } label: {
-                            VStack(alignment: .leading, spacing: 4) {
-                                Text(viewModel.title(for: novena)).font(.headline)
-                                Text(viewModel.summary(for: novena))
-                                    .font(.subheadline)
-                                    .foregroundStyle(.secondary)
-                                    .lineLimit(2)
-                            }
-                        }
-                    }
-                    .searchable(text: $viewModel.query, prompt: localization.t("search.novenasPrompt"))
-                    .onSubmit(of: .search) { Task { await viewModel.search() } }
                 }
+                .padding(.horizontal, 14)
+                .padding(.bottom, 10)
             }
+            .toolbar(.hidden, for: .navigationBar)
             .task {
                 viewModel.setLocale(localization.language.contentLocale)
                 await viewModel.load()
@@ -128,11 +185,9 @@ struct NovenasSearchView: View {
                     }
                 }
             }
-            .navigationTitle(mode == .intentions ? localization.t("calendar.searchIntentions") : localization.t("search.novenasTitle"))
-            .toolbar {
-                ToolbarItem(placement: .cancellationAction) {
-                    Button(localization.t("common.close")) { dismiss() }
-                }
+            .onChange(of: viewModel.query) { _ in
+                guard mode == .standard else { return }
+                Task { await viewModel.search() }
             }
         }
     }
@@ -327,9 +382,129 @@ struct GlobalSearchView: View {
     var body: some View {
         TabView {
             SaintsSearchView(environment: environment)
-                .tabItem { Label(localization.t("tab.saints"), systemImage: "person.2") }
+                .tabItem { Label(localization.t("tab.saints"), systemImage: "person.2.fill") }
             NovenasSearchView(environment: environment)
-                .tabItem { Label(localization.t("tab.novenas"), systemImage: "book") }
+                .tabItem { Label(localization.t("tab.novenas"), systemImage: "book.closed.fill") }
         }
+        .tint(AppTheme.tabActive)
+    }
+}
+
+private struct SearchHeader: View {
+    let title: String
+    let dismiss: () -> Void
+
+    var body: some View {
+        HStack {
+            Button(action: dismiss) {
+                Image(systemName: "arrow.left")
+                    .font(.system(size: 20, weight: .bold))
+                    .foregroundStyle(.white)
+                    .frame(width: 52, height: 52)
+                    .background(AppTheme.cardBackgroundSoft)
+                    .overlay(Circle().stroke(Color.white.opacity(0.12), lineWidth: 1))
+                    .clipShape(Circle())
+            }
+            .buttonStyle(.plain)
+            .contentShape(Circle())
+
+            Spacer()
+
+            Text(title)
+                .font(.system(size: 24, weight: .heavy))
+                .foregroundStyle(.white)
+
+            Spacer()
+
+            Color.clear.frame(width: 52, height: 52)
+        }
+        .padding(.top, 8)
+    }
+}
+
+private struct SearchField: View {
+    let prompt: String
+    @Binding var text: String
+    var onSubmit: (() -> Void)? = nil
+
+    var body: some View {
+        HStack(spacing: 10) {
+            Image(systemName: "magnifyingglass")
+                .foregroundStyle(AppTheme.cardText.opacity(0.75))
+            TextField(prompt, text: $text)
+                .textInputAutocapitalization(.never)
+                .autocorrectionDisabled()
+                .submitLabel(.search)
+                .onSubmit { onSubmit?() }
+        }
+        .padding(.horizontal, 18)
+        .padding(.vertical, 14)
+        .appGlassCard(cornerRadius: 28)
+    }
+}
+
+private struct SearchResultsCount: View {
+    @EnvironmentObject private var localization: LocalizationManager
+    let count: Int
+
+    var body: some View {
+        HStack {
+            Text("\(count) \(localization.t("search.results"))")
+                .font(AppTheme.rounded(17, weight: .medium))
+                .foregroundStyle(.white.opacity(0.92))
+            Spacer()
+        }
+    }
+}
+
+private struct SearchResultCard: View {
+    let title: String
+    let subtitle: String
+    let meta: String?
+    let accent: Color
+    let icon: String
+
+    var body: some View {
+        HStack(alignment: .top, spacing: 14) {
+            ZStack {
+                Circle()
+                    .fill(accent.opacity(0.18))
+                    .frame(width: 42, height: 42)
+                Image(systemName: icon)
+                    .font(.system(size: 17, weight: .semibold))
+                    .foregroundStyle(accent)
+            }
+
+            VStack(alignment: .leading, spacing: 6) {
+                Text(title)
+                    .font(AppTheme.rounded(20, weight: .bold))
+                    .foregroundStyle(AppTheme.cardText)
+                    .lineLimit(2)
+                Text(subtitle)
+                    .font(AppTheme.rounded(15, weight: .medium))
+                    .foregroundStyle(AppTheme.cardText.opacity(0.78))
+                    .lineLimit(3)
+                if let meta, !meta.isEmpty {
+                    Text(meta)
+                        .font(AppTheme.rounded(12, weight: .semibold))
+                        .foregroundStyle(.white.opacity(0.68))
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 6)
+                        .background(AppTheme.cardBackgroundSoft)
+                        .clipShape(Capsule())
+                }
+            }
+
+            Spacer(minLength: 0)
+
+            Image(systemName: "chevron.right")
+                .font(.system(size: 12, weight: .bold))
+                .foregroundStyle(.white.opacity(0.52))
+                .padding(.top, 3)
+        }
+        .padding(.horizontal, 16)
+        .padding(.vertical, 15)
+        .appGlassCard(cornerRadius: 24)
+        .contentShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
     }
 }

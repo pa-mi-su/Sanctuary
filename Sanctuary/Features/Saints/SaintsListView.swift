@@ -10,34 +10,55 @@ struct SaintsListView: View {
 
     var body: some View {
         NavigationStack {
-            List {
-                if let errorMessage = viewModel.errorMessage {
-                    Text(errorMessage)
-                        .foregroundStyle(.red)
-                }
+            ZStack {
+                AppBackdrop()
 
-                ForEach(viewModel.saints) { saint in
-                    NavigationLink {
-                        SaintDetailView(saint: saint)
-                    } label: {
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text(viewModel.displayName(for: saint))
-                                .font(.headline)
-                            Text(viewModel.summary(for: saint))
-                                .font(.subheadline)
-                                .foregroundStyle(.secondary)
-                                .lineLimit(2)
-                            Text("\(localization.t("saints.feastShort")): \(saint.feastMonth)/\(saint.feastDay)")
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
+                List {
+                    if let errorMessage = viewModel.errorMessage {
+                        Text(errorMessage)
+                            .foregroundStyle(.red)
+                            .listRowBackground(Color.clear)
+                    }
+
+                    ForEach(viewModel.saints) { saint in
+                        NavigationLink {
+                            SaintDetailView(saint: saint)
+                        } label: {
+                            VStack(alignment: .leading, spacing: 6) {
+                                Text(viewModel.displayName(for: saint))
+                                    .font(AppTheme.rounded(20, weight: .bold))
+                                    .foregroundStyle(AppTheme.cardText)
+                                Text(viewModel.summary(for: saint))
+                                    .font(AppTheme.rounded(15, weight: .medium))
+                                    .foregroundStyle(AppTheme.cardText.opacity(0.8))
+                                    .lineLimit(2)
+                                Text("\(localization.t("saints.feastShort")): \(saint.feastMonth)/\(saint.feastDay)")
+                                    .font(AppTheme.rounded(12, weight: .semibold))
+                                    .foregroundStyle(.white.opacity(0.68))
+                                    .padding(.horizontal, 10)
+                                    .padding(.vertical, 6)
+                                    .background(AppTheme.cardBackgroundSoft)
+                                    .clipShape(Capsule())
+                            }
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .padding(.horizontal, 16)
+                            .padding(.vertical, 15)
+                            .appGlassCard(cornerRadius: 24)
+                            .listRowInsets(EdgeInsets(top: 6, leading: 16, bottom: 6, trailing: 16))
                         }
-                        .padding(.vertical, 4)
                     }
                 }
             }
+            .listStyle(.plain)
+            .scrollContentBackground(.hidden)
+            .background(Color.clear)
+            .listRowSpacing(12)
+            .listRowBackground(Color.clear)
+            .listRowSeparator(.hidden)
+            .listSectionSeparator(.hidden)
             .overlay {
                 if viewModel.isLoading {
-                    ProgressView()
+                    ProgressView().tint(.white)
                 }
             }
             .navigationTitle(localization.t("tab.saints"))

@@ -19,9 +19,8 @@ private func currentLiturgicalDateComponents() -> DateComponents {
 
 struct NovenasCalendarView: View {
     let environment: AppEnvironment
-    var openIntentionsToken: Int = 0
     @EnvironmentObject private var localization: LocalizationManager
-    @State private var mode: CalendarMode = .month
+    @State private var mode: CalendarMode = .day
     @State private var selectedDay = currentLiturgicalDateComponents().day ?? 1
     @State private var selectedMonth = currentLiturgicalDateComponents().month ?? 1
     @State private var selectedYear = currentLiturgicalDateComponents().year ?? 2000
@@ -125,9 +124,6 @@ struct NovenasCalendarView: View {
         }
         .sheet(isPresented: $showIntentionsSearch) {
             NovenasSearchView(environment: environment, mode: .intentions)
-        }
-        .onChange(of: openIntentionsToken) { _ in
-            showIntentionsSearch = true
         }
         .sheet(item: $selectedNovenaSelection) { selection in
             NovenaDetailView(
@@ -675,15 +671,18 @@ private struct CalendarScaffold<Content: View>: View {
             let contentWidth = max(0, min(width - 24, 760))
 
             ZStack {
-                AppTheme.backgroundGradient.ignoresSafeArea()
+                AppBackdrop()
 
                 VStack(spacing: 10 * scale) {
-                    VStack(spacing: 4 * scale) {
+                    VStack(spacing: 12 * scale) {
                         HStack {
                             Button(action: onPrev) {
                                 Image(systemName: "chevron.left")
-                                    .font(.system(size: 24 * scale, weight: .bold))
+                                    .font(.system(size: 17 * scale, weight: .bold))
                                     .foregroundStyle(.white)
+                                    .frame(width: 42 * scale, height: 42 * scale)
+                                    .background(Color.white.opacity(0.08))
+                                    .clipShape(Circle())
                             }
                             Spacer()
                             Button {
@@ -706,17 +705,22 @@ private struct CalendarScaffold<Content: View>: View {
                             Spacer()
                             Button(action: onNext) {
                                 Image(systemName: "chevron.right")
-                                    .font(.system(size: 24 * scale, weight: .bold))
+                                    .font(.system(size: 17 * scale, weight: .bold))
                                     .foregroundStyle(.white)
+                                    .frame(width: 42 * scale, height: 42 * scale)
+                                    .background(Color.white.opacity(0.08))
+                                    .clipShape(Circle())
                             }
                         }
-                        .padding(.horizontal, 12 * scale)
-                        .padding(.top, 6 * scale)
+                        .padding(.horizontal, 14 * scale)
+                        .padding(.top, 10 * scale)
 
                         Text(subtitle)
                             .font(AppTheme.rounded(14 * scale, weight: .medium))
                             .foregroundStyle(AppTheme.subtitleText)
                     }
+                    .padding(.bottom, 12 * scale)
+                    .appGlassCard(cornerRadius: 28 * scale)
 
                     HStack(spacing: 8 * scale) {
                         pillModeButton(localization.t("calendar.today"), isActive: false, action: onToday)
@@ -735,6 +739,8 @@ private struct CalendarScaffold<Content: View>: View {
                         }
                     }
                     .padding(.horizontal, 12 * scale)
+                    .padding(.vertical, 8 * scale)
+                    .appGlassCard(cornerRadius: 26 * scale)
 
                     content
                         .padding(.horizontal, 12 * scale)
@@ -760,8 +766,9 @@ private struct CalendarScaffold<Content: View>: View {
                     }
                     .font(AppTheme.rounded(11 * scale, weight: .medium))
                     .foregroundStyle(.white.opacity(0.86))
-                    .padding(.top, 2 * scale)
-                    .padding(.bottom, 8 * scale)
+                    .padding(.horizontal, 14 * scale)
+                    .padding(.vertical, 12 * scale)
+                    .appGlassCard(cornerRadius: 24 * scale)
                 }
                 .frame(maxWidth: contentWidth)
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
@@ -785,18 +792,22 @@ private struct CalendarScaffold<Content: View>: View {
     private func pillModeButton(_ title: String, isActive: Bool, action: @escaping () -> Void) -> some View {
         Button(action: action) {
             Text(title)
-                .font(AppTheme.rounded(17, weight: .semibold))
-                .foregroundStyle(isActive ? Color.white : AppTheme.purpleButton)
+                .font(AppTheme.rounded(15, weight: .semibold))
+                .foregroundStyle(.white)
                 .padding(.horizontal, 16)
                 .padding(.vertical, 11)
-                .background(isActive ? AppTheme.purpleButton : Color.clear)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 20, style: .continuous)
-                        .stroke(AppTheme.purpleOutline, lineWidth: isActive ? 0 : 2)
+                .background(
+                    RoundedRectangle(cornerRadius: 18, style: .continuous)
+                        .fill(isActive ? AnyShapeStyle(AppTheme.primaryButtonGradient) : AnyShapeStyle(AppTheme.cardBackgroundSoft))
                 )
-                .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+                .overlay(
+                    RoundedRectangle(cornerRadius: 18, style: .continuous)
+                        .stroke(isActive ? Color.white.opacity(0.12) : AppTheme.purpleOutline.opacity(0.45), lineWidth: 1)
+                )
+                .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
         }
         .buttonStyle(.plain)
+        .animation(.spring(response: 0.32, dampingFraction: 0.84), value: isActive)
     }
 
     private func seasonDot(color: Color, text: String) -> some View {
@@ -818,80 +829,108 @@ private struct DayCard: View {
     private let cardHeight: CGFloat = 142
 
     var body: some View {
-        let outerShape = RoundedRectangle(cornerRadius: 18, style: .continuous)
-        let innerShape = RoundedRectangle(cornerRadius: 14, style: .continuous)
+        let outerShape = RoundedRectangle(cornerRadius: 28, style: .continuous)
+        let innerShape = RoundedRectangle(cornerRadius: 20, style: .continuous)
+        let borderWidth: CGFloat = 6
+        let innerInset: CGFloat = 8
         Button(action: onTap) {
             ZStack {
                 outerShape
-                    .fill(Color.white.opacity(0.13))
+                    .fill(AppTheme.cardBackground)
 
-                if let imageURL {
-                    GeometryReader { geo in
-                        AsyncImage(url: imageURL) { phase in
-                            switch phase {
-                            case .success(let image):
-                                ZStack {
-                                    // Backdrop fills the card and is intentionally blurred.
-                                    image
-                                        .resizable()
-                                        .scaledToFill()
-                                        .frame(width: geo.size.width, height: geo.size.height)
-                                        .blur(radius: 24)
-                                        .saturation(0.65)
-                                        .opacity(0.8)
+                ZStack {
+                    innerShape
+                        .fill(AppTheme.cardBackground)
 
-                                    // Foreground always shows the full image (no crop/zoom).
-                                    image
-                                        .resizable()
-                                        .aspectRatio(contentMode: .fit)
-                                        .frame(
-                                            width: max(0, geo.size.width - 18),
-                                            height: max(0, geo.size.height - 18)
-                                        )
-                                        .clipShape(innerShape)
-                                        .overlay(
-                                            innerShape
-                                                .stroke(Color.white.opacity(0.38), lineWidth: 1)
-                                        )
-                                        .shadow(color: .black.opacity(0.22), radius: 6, x: 0, y: 2)
+                    if let imageURL {
+                        GeometryReader { geo in
+                            AsyncImage(url: imageURL) { phase in
+                                switch phase {
+                                case .success(let image):
+                                    ZStack {
+                                        image
+                                            .resizable()
+                                            .scaledToFill()
+                                            .frame(width: geo.size.width, height: geo.size.height)
+                                            .blur(radius: 28)
+                                            .saturation(0.65)
+                                            .opacity(0.72)
+
+                                        image
+                                            .resizable()
+                                            .aspectRatio(contentMode: .fit)
+                                            .frame(
+                                                width: max(0, geo.size.width - 18),
+                                                height: max(0, geo.size.height - 18)
+                                            )
+                                            .clipShape(innerShape)
+                                            .overlay(
+                                                innerShape
+                                                    .stroke(Color.white.opacity(0.38), lineWidth: 1)
+                                            )
+                                            .shadow(color: .black.opacity(0.22), radius: 6, x: 0, y: 2)
+                                    }
+                                case .empty:
+                                    Color.white.opacity(0.08)
+                                case .failure:
+                                    Color.white.opacity(0.08)
+                                @unknown default:
+                                    Color.white.opacity(0.08)
                                 }
-                            case .empty:
-                                Color.white.opacity(0.08)
-                            case .failure:
-                                Color.white.opacity(0.08)
-                            @unknown default:
-                                Color.white.opacity(0.08)
                             }
                         }
+                        .clipShape(innerShape)
                     }
-                    .clipShape(outerShape)
 
+                    LinearGradient(
+                        colors: [Color.black.opacity(0.04), Color.black.opacity(0.24)],
+                        startPoint: .top,
+                        endPoint: .bottom
+                    )
+                    .clipShape(innerShape)
+
+                    VStack(alignment: .leading, spacing: 10) {
+                        HStack(alignment: .top) {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text(title)
+                                    .font(AppTheme.rounded(34, weight: .bold))
+                                    .foregroundStyle(.white)
+                                Text(subtitle)
+                                    .font(AppTheme.rounded(17, weight: .semibold))
+                                    .foregroundStyle(.white.opacity(0.92))
+                                    .multilineTextAlignment(.leading)
+                                    .lineLimit(2)
+                            }
+
+                            Spacer()
+
+                            Image(systemName: "arrow.up.right")
+                                .font(.system(size: 14, weight: .bold))
+                                .foregroundStyle(.white.opacity(0.74))
+                                .padding(10)
+                                .background(Color.white.opacity(0.10))
+                                .clipShape(Circle())
+                        }
+
+                        Spacer()
+
+                        Text(actionLabel ?? localization.t("calendar.openDetails"))
+                            .font(AppTheme.rounded(13, weight: .semibold))
+                            .foregroundStyle(.white.opacity(0.92))
+                            .padding(.horizontal, 14)
+                            .padding(.vertical, 8)
+                            .background(Color.white.opacity(0.12))
+                            .clipShape(Capsule())
+                    }
+                    .padding(18)
+
+                    innerShape
+                        .strokeBorder(Color.white.opacity(0.14), lineWidth: 1)
                 }
+                .padding(innerInset)
 
                 outerShape
-                    .strokeBorder(borderColor, lineWidth: 3)
-
-                outerShape
-                    .strokeBorder(Color.white.opacity(0.4), lineWidth: 1)
-
-                VStack(spacing: 8) {
-                    Text(title)
-                        .font(AppTheme.rounded(33, weight: .bold))
-                        .foregroundStyle(.white)
-                    Text(subtitle)
-                        .font(AppTheme.rounded(16, weight: .semibold))
-                        .foregroundStyle(.white)
-                        .multilineTextAlignment(.center)
-                        .lineLimit(2)
-                    Text("\(actionLabel ?? localization.t("calendar.openDetails")) ›")
-                        .font(AppTheme.rounded(13, weight: .semibold))
-                        .foregroundStyle(.white.opacity(0.9))
-                        .padding(.horizontal, 14)
-                        .padding(.vertical, 6)
-                        .background(Color.white.opacity(0.2))
-                        .clipShape(Capsule())
-                }
-                .padding(.vertical, 16)
+                    .strokeBorder(borderColor.opacity(0.98), lineWidth: borderWidth)
             }
             .frame(maxWidth: .infinity)
             .frame(height: cardHeight)
@@ -901,6 +940,7 @@ private struct DayCard: View {
         .frame(maxWidth: .infinity)
         .frame(height: cardHeight)
         .buttonStyle(.plain)
+        .shadow(color: Color.black.opacity(0.2), radius: 18, x: 0, y: 10)
     }
 }
 
@@ -959,10 +999,10 @@ private struct MonthGrid: View {
             onDayTap(day)
         } label: {
             ZStack {
-                RoundedRectangle(cornerRadius: 16, style: .continuous)
-                    .fill(Color.white.opacity(0.14))
-                RoundedRectangle(cornerRadius: 16, style: .continuous)
-                    .stroke(isToday ? AppTheme.todayHighlight : borderColorForDay(day), lineWidth: isToday ? 4 : 2)
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .fill(AppTheme.cardBackgroundSoft)
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .stroke(isToday ? AppTheme.todayHighlight : borderColorForDay(day), lineWidth: isToday ? 3 : 1.6)
 
                 VStack(spacing: 6) {
                     Text("\(day)")
@@ -979,6 +1019,8 @@ private struct MonthGrid: View {
         }
         .frame(height: 72)
         .buttonStyle(.plain)
+        .scaleEffect(day == selectedDay ? 1 : 0.985)
+        .animation(.spring(response: 0.28, dampingFraction: 0.84), value: selectedDay)
     }
 
     private var weekHeaderRow: some View {
@@ -1030,10 +1072,10 @@ private struct WeekGrid: View {
                             onDayTap(day)
                         } label: {
                             ZStack {
-                                RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                    .fill(Color.white.opacity(0.14))
-                                RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                    .stroke(isToday ? AppTheme.todayHighlight : borderColorForDay(day), lineWidth: isToday ? 4 : 2)
+                                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                                    .fill(AppTheme.cardBackgroundSoft)
+                                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                                    .stroke(isToday ? AppTheme.todayHighlight : borderColorForDay(day), lineWidth: isToday ? 3 : 1.6)
 
                                 VStack(spacing: 6) {
                                     Text("\(day)")
@@ -1051,6 +1093,8 @@ private struct WeekGrid: View {
                         .frame(maxWidth: .infinity)
                         .frame(height: 80)
                         .buttonStyle(.plain)
+                        .scaleEffect(day == selectedDay ? 1 : 0.985)
+                        .animation(.spring(response: 0.28, dampingFraction: 0.84), value: selectedDay)
                     } else {
                         Color.clear
                             .frame(maxWidth: .infinity)
