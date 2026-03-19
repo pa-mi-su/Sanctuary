@@ -195,7 +195,9 @@ struct NovenasSearchView: View {
     private var filteredIntentionItems: [IntentionSearchItem] {
         let q = normalized(intentionsQuery)
         guard !q.isEmpty else { return intentionItems }
-        return intentionItems.filter { $0.searchBlob.contains(q) }
+        let rankedIDs = SearchMatcher.rankedIDs(for: q, in: intentionItems) { $0.document }
+        let itemByID = Dictionary(uniqueKeysWithValues: intentionItems.map { ($0.id, $0) })
+        return rankedIDs.compactMap { itemByID[$0] }
     }
 
     private func rebuildIntentionItems() {
@@ -210,17 +212,19 @@ struct NovenasSearchView: View {
                 .filter { !$0.isEmpty }
             guard !rawIntentions.isEmpty else { return nil }
             let intentions = rawIntentions.map(humanizeIntention)
-
             let title = viewModel.title(for: novena)
-            let searchBlob = normalized(
-                "\(title) \(novena.slug) \((novena.tags).joined(separator: " ")) \(baseIntentions.joined(separator: " ")) \(rawIntentions.joined(separator: " ")) \(intentions.joined(separator: " "))"
+            let document = SearchMatcher.Document(
+                itemID: novena.id,
+                primaryText: title,
+                secondaryText: "\(novena.slug) \((novena.tags).joined(separator: " "))",
+                auxiliaryText: "\(baseIntentions.joined(separator: " ")) \(rawIntentions.joined(separator: " ")) \(intentions.joined(separator: " "))"
             )
             return IntentionSearchItem(
                 id: novena.id,
                 novena: novena,
                 title: title,
                 intentions: intentions,
-                searchBlob: searchBlob
+                document: document
             )
         }
     }
@@ -343,14 +347,7 @@ struct NovenasSearchView: View {
     }
 
     private func normalized(_ value: String) -> String {
-        value
-            .replacingOccurrences(of: "_", with: " ")
-            .replacingOccurrences(of: "-", with: " ")
-            .folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current)
-            .components(separatedBy: .whitespacesAndNewlines)
-            .filter { !$0.isEmpty }
-            .joined(separator: " ")
-            .trimmingCharacters(in: .whitespacesAndNewlines)
+        SearchMatcher.normalize(value)
     }
 
     private func humanizeIntention(_ value: String) -> String {
@@ -372,7 +369,7 @@ private struct IntentionSearchItem: Identifiable {
     let novena: Novena
     let title: String
     let intentions: [String]
-    let searchBlob: String
+    let document: SearchMatcher.Document
 }
 
 struct GlobalSearchView: View {
@@ -431,7 +428,13 @@ private struct SearchField: View {
         HStack(spacing: 10) {
             Image(systemName: "magnifyingglass")
                 .foregroundStyle(AppTheme.cardText.opacity(0.75))
-            TextField(prompt, text: $text)
+            TextField(
+                "",
+                text: $text,
+                prompt: Text(prompt)
+                    .foregroundStyle(AppTheme.cardText.opacity(0.58))
+            )
+                .foregroundStyle(AppTheme.cardText)
                 .textInputAutocapitalization(.never)
                 .autocorrectionDisabled()
                 .submitLabel(.search)
