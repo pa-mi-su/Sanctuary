@@ -5,7 +5,7 @@ import Combine
 final class NovenasListViewModel: ObservableObject {
     private struct IndexedNovena: Sendable {
         let novena: Novena
-        let searchableText: String
+        let document: SearchMatcher.Document
     }
 
     @Published private(set) var novenas: [Novena] = []
@@ -83,9 +83,9 @@ final class NovenasListViewModel: ObservableObject {
             guard !Task.isCancelled else { return }
 
             let filtered = await Task.detached(priority: .userInitiated) {
-                snapshot
-                    .filter { $0.searchableText.contains(q) }
-                    .map(\.novena)
+                let rankedIDs = SearchMatcher.rankedIDs(for: q, in: snapshot) { $0.document }
+                let novenaByID = Dictionary(uniqueKeysWithValues: snapshot.map { ($0.novena.id, $0.novena) })
+                return rankedIDs.compactMap { novenaByID[$0] }
             }.value
 
             guard !Task.isCancelled else { return }
@@ -99,14 +99,17 @@ final class NovenasListViewModel: ObservableObject {
             let titleText = title(for: novena)
             let summaryText = summary(for: novena)
             let tags = novena.tags.joined(separator: " ")
-            let blob = "\(titleText) \(summaryText) \(novena.slug) \(tags)"
-            return IndexedNovena(novena: novena, searchableText: normalized(blob))
+            let document = SearchMatcher.Document(
+                itemID: novena.id,
+                primaryText: titleText,
+                secondaryText: "\(novena.slug) \(tags)",
+                auxiliaryText: summaryText
+            )
+            return IndexedNovena(novena: novena, document: document)
         }
     }
 
     private func normalized(_ value: String) -> String {
-        value
-            .folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current)
-            .trimmingCharacters(in: .whitespacesAndNewlines)
+        SearchMatcher.normalize(value)
     }
 }

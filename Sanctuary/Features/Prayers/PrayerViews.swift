@@ -5,7 +5,7 @@ import Combine
 final class PrayersSearchViewModel: ObservableObject {
     private struct IndexedPrayer: Sendable {
         let prayer: Prayer
-        let searchableText: String
+        let document: SearchMatcher.Document
     }
 
     @Published var query: String = ""
@@ -73,9 +73,9 @@ final class PrayersSearchViewModel: ObservableObject {
             guard !Task.isCancelled else { return }
 
             let filtered = await Task.detached(priority: .userInitiated) {
-                snapshot
-                    .filter { $0.searchableText.contains(q) }
-                    .map(\.prayer)
+                let rankedIDs = SearchMatcher.rankedIDs(for: q, in: snapshot) { $0.document }
+                let prayerByID = Dictionary(uniqueKeysWithValues: snapshot.map { ($0.prayer.id, $0.prayer) })
+                return rankedIDs.compactMap { prayerByID[$0] }
             }.value
 
             guard !Task.isCancelled else { return }
@@ -88,15 +88,18 @@ final class PrayersSearchViewModel: ObservableObject {
         indexedPrayers = allPrayers.map { prayer in
             let title = prayer.titleByLocale[locale] ?? prayer.titleByLocale[.en] ?? prayer.slug
             let body = prayer.bodyByLocale[locale] ?? prayer.bodyByLocale[.en] ?? ""
-            let blob = "\(title) \(prayer.slug) \(prayer.category) \(body) \(prayer.tags.joined(separator: " "))"
-            return IndexedPrayer(prayer: prayer, searchableText: normalized(blob))
+            let document = SearchMatcher.Document(
+                itemID: prayer.id,
+                primaryText: title,
+                secondaryText: "\(prayer.category) \(prayer.slug) \(prayer.tags.joined(separator: " "))",
+                auxiliaryText: body
+            )
+            return IndexedPrayer(prayer: prayer, document: document)
         }
     }
 
     private func normalized(_ value: String) -> String {
-        value
-            .folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current)
-            .trimmingCharacters(in: .whitespacesAndNewlines)
+        SearchMatcher.normalize(value)
     }
 }
 
@@ -146,7 +149,13 @@ struct PrayersSearchView: View {
                     HStack(spacing: 10) {
                         Image(systemName: "magnifyingglass")
                             .foregroundStyle(AppTheme.cardText.opacity(0.75))
-                        TextField(localization.t("search.prayersPrompt"), text: $viewModel.query)
+                        TextField(
+                            "",
+                            text: $viewModel.query,
+                            prompt: Text(localization.t("search.prayersPrompt"))
+                                .foregroundStyle(AppTheme.cardText.opacity(0.58))
+                        )
+                            .foregroundStyle(AppTheme.cardText)
                             .textInputAutocapitalization(.never)
                             .autocorrectionDisabled()
                             .submitLabel(.search)

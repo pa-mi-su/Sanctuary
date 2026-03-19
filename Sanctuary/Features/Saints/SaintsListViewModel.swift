@@ -5,7 +5,7 @@ import Combine
 final class SaintsListViewModel: ObservableObject {
     private struct IndexedSaint: Sendable {
         let saint: Saint
-        let searchableText: String
+        let document: SearchMatcher.Document
     }
 
     @Published private(set) var saints: [Saint] = []
@@ -83,9 +83,9 @@ final class SaintsListViewModel: ObservableObject {
             guard !Task.isCancelled else { return }
 
             let filtered = await Task.detached(priority: .userInitiated) {
-                snapshot
-                    .filter { $0.searchableText.contains(q) }
-                    .map(\.saint)
+                let rankedIDs = SearchMatcher.rankedIDs(for: q, in: snapshot) { $0.document }
+                let saintByID = Dictionary(uniqueKeysWithValues: snapshot.map { ($0.saint.id, $0.saint) })
+                return rankedIDs.compactMap { saintByID[$0] }
             }.value
 
             guard !Task.isCancelled else { return }
@@ -98,14 +98,17 @@ final class SaintsListViewModel: ObservableObject {
         indexedSaints = allSaints.map { saint in
             let summary = saint.summaryByLocale[locale] ?? saint.summaryByLocale[.en] ?? ""
             let bio = saint.biographyByLocale[locale] ?? saint.biographyByLocale[.en] ?? ""
-            let blob = "\(saint.displayName(locale: locale)) \(saint.slug) \(summary) \(bio)"
-            return IndexedSaint(saint: saint, searchableText: normalized(blob))
+            let document = SearchMatcher.Document(
+                itemID: saint.id,
+                primaryText: saint.displayName(locale: locale),
+                secondaryText: saint.slug,
+                auxiliaryText: "\(summary) \(bio)"
+            )
+            return IndexedSaint(saint: saint, document: document)
         }
     }
 
     private func normalized(_ value: String) -> String {
-        value
-            .folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current)
-            .trimmingCharacters(in: .whitespacesAndNewlines)
+        SearchMatcher.normalize(value)
     }
 }
