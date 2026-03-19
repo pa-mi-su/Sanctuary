@@ -153,9 +153,9 @@ struct PrayersSearchView: View {
                             "",
                             text: $viewModel.query,
                             prompt: Text(localization.t("search.prayersPrompt"))
-                                .foregroundStyle(AppTheme.cardText.opacity(0.58))
+                                .foregroundColor(AppTheme.cardText.opacity(0.58))
                         )
-                            .foregroundStyle(AppTheme.cardText)
+                            .foregroundColor(AppTheme.cardText)
                             .textInputAutocapitalization(.never)
                             .autocorrectionDisabled()
                             .submitLabel(.search)

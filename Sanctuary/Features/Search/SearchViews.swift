@@ -432,9 +432,9 @@ private struct SearchField: View {
                 "",
                 text: $text,
                 prompt: Text(prompt)
-                    .foregroundStyle(AppTheme.cardText.opacity(0.58))
+                    .foregroundColor(AppTheme.cardText.opacity(0.58))
             )
-                .foregroundStyle(AppTheme.cardText)
+                .foregroundColor(AppTheme.cardText)
                 .textInputAutocapitalization(.never)
                 .autocorrectionDisabled()
                 .submitLabel(.search)
