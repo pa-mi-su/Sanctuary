@@ -17,9 +17,17 @@ struct SanctuaryApp: App {
     init() {
 #if os(iOS)
         let appearance = UITabBarAppearance()
-        appearance.configureWithOpaqueBackground()
+        appearance.configureWithTransparentBackground()
         appearance.backgroundColor = UIColor(AppTheme.tabBackground)
         appearance.shadowColor = UIColor(AppTheme.tabBorder)
+        appearance.stackedLayoutAppearance.selected.iconColor = UIColor(AppTheme.tabActive)
+        appearance.stackedLayoutAppearance.selected.titleTextAttributes = [
+            .foregroundColor: UIColor(AppTheme.tabActive)
+        ]
+        appearance.stackedLayoutAppearance.normal.iconColor = UIColor(AppTheme.tabInactive)
+        appearance.stackedLayoutAppearance.normal.titleTextAttributes = [
+            .foregroundColor: UIColor(AppTheme.tabInactive)
+        ]
 
         UITabBar.appearance().standardAppearance = appearance
         UITabBar.appearance().scrollEdgeAppearance = appearance

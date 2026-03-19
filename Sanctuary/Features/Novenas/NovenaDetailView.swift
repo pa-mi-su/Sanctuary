@@ -119,10 +119,10 @@ struct NovenaDetailView: View {
 
     var body: some View {
         ZStack {
-            AppTheme.backgroundGradient.ignoresSafeArea()
+            AppBackdrop()
 
             ScrollView(showsIndicators: false) {
-                VStack(alignment: .leading, spacing: 12) {
+                VStack(alignment: .leading, spacing: 14) {
                     HStack(spacing: 16) {
                         Button {
                             handleBack()
@@ -131,7 +131,8 @@ struct NovenaDetailView: View {
                                 .font(.system(size: 20, weight: .bold))
                                 .foregroundStyle(.white)
                                 .frame(width: 52, height: 52)
-                                .background(Color.black.opacity(0.15))
+                                .background(AppTheme.cardBackgroundSoft)
+                                .overlay(Circle().stroke(Color.white.opacity(0.12), lineWidth: 1))
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
@@ -149,50 +150,62 @@ struct NovenaDetailView: View {
                         RemoteHeroImage(url: imageURL)
                     }
 
-                    Text(title)
-                        .font(.system(size: 50, weight: .heavy))
-                        .minimumScaleFactor(0.58)
-                        .foregroundStyle(.white)
+                    VStack(alignment: .leading, spacing: 14) {
+                        Text(title)
+                            .font(AppTheme.rounded(48, weight: .bold))
+                            .minimumScaleFactor(0.58)
+                            .foregroundStyle(.white)
 
-                    Button {
-                        Task {
-                            await progressStore.toggleFavorite(itemType: .novena, itemID: effectiveNovena.id)
-                            isFavorite = progressStore.isFavorite(itemType: .novena, itemID: effectiveNovena.id)
-                        }
-                    } label: {
                         HStack(spacing: 10) {
-                            Image(systemName: isFavorite ? "heart.fill" : "heart")
-                            Text(isFavorite ? localization.t("detail.savedFavorites") : localization.t("detail.addFavorites"))
+                            Button {
+                                Task {
+                                    await progressStore.toggleFavorite(itemType: .novena, itemID: effectiveNovena.id)
+                                    isFavorite = progressStore.isFavorite(itemType: .novena, itemID: effectiveNovena.id)
+                                }
+                            } label: {
+                                HStack(spacing: 10) {
+                                    Image(systemName: isFavorite ? "heart.fill" : "heart")
+                                    Text(isFavorite ? localization.t("detail.savedFavorites") : localization.t("detail.addFavorites"))
+                                }
+                                .font(AppTheme.rounded(16, weight: .semibold))
+                                .foregroundStyle(.white)
+                                .padding(.horizontal, 18)
+                                .padding(.vertical, 12)
+                                .background(isFavorite ? AnyShapeStyle(AppTheme.primaryButtonGradient) : AnyShapeStyle(AppTheme.cardBackgroundSoft))
+                                .overlay(
+                                    Capsule()
+                                        .stroke(Color.white.opacity(0.12), lineWidth: 1)
+                                )
+                                .clipShape(Capsule())
+                            }
+                            .buttonStyle(.plain)
+                            .animation(.spring(response: 0.32, dampingFraction: 0.82), value: isFavorite)
+
+                            Spacer()
                         }
-                        .font(.system(size: 18, weight: .semibold))
-                        .foregroundStyle(.white)
-                        .padding(.horizontal, 22)
-                        .padding(.vertical, 14)
-                        .background(isFavorite ? AppTheme.purpleButton : Color.white.opacity(0.2))
-                        .clipShape(Capsule())
-                    }
 
-                    if let novenaStartDateString {
-                        Text("\(localization.t("detail.novenaStartDate")): \(novenaStartDateString)")
-                            .font(.system(size: 18, weight: .medium))
-                            .foregroundStyle(.white.opacity(0.92))
-                    }
+                        VStack(alignment: .leading, spacing: 10) {
+                            if let novenaStartDateString {
+                                detailMetaChip(icon: "calendar.badge.clock", text: "\(localization.t("detail.novenaStartDate")): \(novenaStartDateString)")
+                            }
 
-                    if let novenaEndDateString {
-                        Text("\(localization.t("detail.novenaEndDate")): \(novenaEndDateString)")
-                            .font(.system(size: 18, weight: .medium))
-                            .foregroundStyle(.white.opacity(0.92))
-                    }
+                            if let novenaEndDateString {
+                                detailMetaChip(icon: "calendar", text: "\(localization.t("detail.novenaEndDate")): \(novenaEndDateString)")
+                            }
 
-                    if !description.isEmpty {
-                        Text(description)
-                            .font(.system(size: 18, weight: .medium))
-                            .foregroundStyle(.white.opacity(0.95))
-                            .padding(.top, 4)
+                            if !description.isEmpty {
+                                Text(description)
+                                    .font(AppTheme.rounded(18, weight: .medium))
+                                    .foregroundStyle(.white.opacity(0.95))
+                                    .padding(.top, 2)
+                            }
+                        }
                     }
+                    .padding(20)
+                    .appGlassCard(cornerRadius: 28)
 
                     Text(localization.t("novena.chooseDay"))
-                        .font(.system(size: 42, weight: .heavy))
+                        .font(AppTheme.rounded(40, weight: .bold))
                         .foregroundStyle(.white)
                         .padding(.top, 4)
 
@@ -202,21 +215,30 @@ struct NovenaDetailView: View {
                             Button {
                                 selectedDay = day.dayNumber
                             } label: {
-                                Text("\(localization.t("novena.dayLabel")) \(day.dayNumber)")
-                                    .font(.system(size: 20, weight: .bold))
-                                    .foregroundStyle(.white)
-                                    .frame(maxWidth: .infinity)
-                                    .padding(.vertical, 11)
-                                    .background(active ? Color.white.opacity(0.24) : Color.white.opacity(0.12))
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 26, style: .continuous)
-                                            .stroke(Color.white.opacity(active ? 0.7 : 0.3), lineWidth: active ? 2 : 1)
-                                    )
-                                    .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
+                                VStack(spacing: 4) {
+                                    Text("\(localization.t("novena.dayLabel"))")
+                                        .font(AppTheme.rounded(12, weight: .medium))
+                                        .foregroundStyle(.white.opacity(0.72))
+                                    Text("\(day.dayNumber)")
+                                        .font(AppTheme.rounded(22, weight: .bold))
+                                        .foregroundStyle(.white)
+                                }
+                                .frame(maxWidth: .infinity)
+                                .padding(.vertical, 12)
+                                .background(active ? AnyShapeStyle(AppTheme.primaryButtonGradient) : AnyShapeStyle(AppTheme.cardBackgroundSoft))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 24, style: .continuous)
+                                        .stroke(Color.white.opacity(active ? 0.2 : 0.1), lineWidth: 1)
+                                )
+                                .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
                             }
                             .buttonStyle(.plain)
+                            .scaleEffect(active ? 1 : 0.985)
+                            .animation(.spring(response: 0.28, dampingFraction: 0.84), value: selectedDay)
                         }
                     }
+                    .padding(14)
+                    .appGlassCard(cornerRadius: 28)
 
                     if hasActiveNovena {
                         Button(localization.t("novena.stop")) {
@@ -251,36 +273,36 @@ struct NovenaDetailView: View {
                             VStack(alignment: .leading, spacing: 12) {
                                 if !selectedDayTitle.isEmpty {
                                     Text(selectedDayTitle)
-                                        .font(.system(size: 21, weight: .bold))
+                                        .font(AppTheme.rounded(21, weight: .bold))
                                         .foregroundStyle(AppTheme.cardText)
                                 }
                                 if !selectedDayScripture.isEmpty {
                                     Text(localization.t("novena.scripture"))
-                                        .font(.system(size: 17, weight: .heavy))
+                                        .font(AppTheme.rounded(17, weight: .bold))
                                         .foregroundStyle(AppTheme.cardText)
                                     Text(selectedDayScripture)
-                                        .font(.system(size: 17, weight: .medium))
+                                        .font(AppTheme.rounded(17, weight: .medium))
                                         .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                 }
                                 if !selectedDayPrayer.isEmpty {
                                     Text(localization.t("novena.prayer"))
-                                        .font(.system(size: 17, weight: .heavy))
+                                        .font(AppTheme.rounded(17, weight: .bold))
                                         .foregroundStyle(AppTheme.cardText)
                                     Text(selectedDayPrayer)
-                                        .font(.system(size: 17, weight: .medium))
+                                        .font(AppTheme.rounded(17, weight: .medium))
                                         .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                 }
                                 if !selectedDayReflection.isEmpty {
                                     Text(localization.t("novena.reflection"))
-                                        .font(.system(size: 17, weight: .heavy))
+                                        .font(AppTheme.rounded(17, weight: .bold))
                                         .foregroundStyle(AppTheme.cardText)
                                     Text(selectedDayReflection)
-                                        .font(.system(size: 17, weight: .medium))
+                                        .font(AppTheme.rounded(17, weight: .medium))
                                         .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                 }
                                 if selectedDayScripture.isEmpty && selectedDayPrayer.isEmpty && selectedDayReflection.isEmpty && !selectedDayContent.isEmpty {
                                     Text(selectedDayContent)
-                                        .font(.system(size: 17, weight: .medium))
+                                        .font(AppTheme.rounded(17, weight: .medium))
                                         .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                 }
                             }
@@ -319,15 +341,20 @@ struct NovenaDetailView: View {
                                     Button {
                                         selectedSaintSelection = IDSelection(id: saint.id)
                                     } label: {
-                                        Text(saint.name)
-                                            .font(.system(size: 18, weight: .semibold))
-                                            .foregroundStyle(.white)
-                                            .frame(maxWidth: .infinity)
-                                            .padding(.vertical, 14)
-                                            .background(AppTheme.purpleButton)
-                                            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+                                        HStack {
+                                            Text(saint.name)
+                                                .font(AppTheme.rounded(18, weight: .semibold))
+                                                .foregroundStyle(.white)
+                                                .multilineTextAlignment(.leading)
+                                            Spacer()
+                                            Image(systemName: "arrow.up.right")
+                                                .font(.system(size: 13, weight: .bold))
+                                                .foregroundStyle(.white.opacity(0.7))
+                                        }
+                                        .padding(.horizontal, 16)
+                                        .padding(.vertical, 15)
                                     }
-                                    .buttonStyle(.plain)
+                                    .buttonStyle(RelatedLinkButtonStyle())
                                 }
                             }
                         }
@@ -394,6 +421,25 @@ struct NovenaDetailView: View {
         } message: {
             Text("\(localization.t("novena.completedMessagePrefix")) \(title) \(localization.t("novena.completedMessageSuffix"))")
         }
+    }
+
+    private func detailMetaChip(icon: String, text: String) -> some View {
+        HStack(spacing: 10) {
+            Image(systemName: icon)
+                .font(.system(size: 13, weight: .bold))
+                .foregroundStyle(AppTheme.glowGold)
+            Text(text)
+                .font(AppTheme.rounded(15, weight: .medium))
+                .foregroundStyle(.white.opacity(0.9))
+        }
+        .padding(.horizontal, 14)
+        .padding(.vertical, 10)
+        .background(AppTheme.cardBackgroundSoft)
+        .overlay(
+            Capsule()
+                .stroke(Color.white.opacity(0.1), lineWidth: 1)
+        )
+        .clipShape(Capsule())
     }
 
     private func loadRelatedSaints() async {
@@ -632,6 +678,20 @@ private struct RemoteHeroImage: View {
                 .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
         )
         .allowsHitTesting(false)
+    }
+}
+
+private struct RelatedLinkButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .frame(maxWidth: .infinity)
+            .background(AppTheme.cardBackgroundSoft.opacity(configuration.isPressed ? 0.9 : 1))
+            .overlay(
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .stroke(Color.white.opacity(0.12), lineWidth: 1)
+            )
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+            .scaleEffect(configuration.isPressed ? 0.985 : 1.0)
     }
 }
 

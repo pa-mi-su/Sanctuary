@@ -66,10 +66,10 @@ struct SaintDetailView: View {
 
     var body: some View {
         ZStack {
-            AppTheme.backgroundGradient.ignoresSafeArea()
+            AppBackdrop()
 
             ScrollView(showsIndicators: false) {
-                VStack(alignment: .leading, spacing: 12) {
+                VStack(alignment: .leading, spacing: 14) {
                     HStack(spacing: 16) {
                         Button {
                             handleBack()
@@ -78,7 +78,8 @@ struct SaintDetailView: View {
                                 .font(.system(size: 20, weight: .bold))
                                 .foregroundStyle(.white)
                                 .frame(width: 52, height: 52)
-                                .background(Color.black.opacity(0.15))
+                                .background(AppTheme.cardBackgroundSoft)
+                                .overlay(Circle().stroke(Color.white.opacity(0.12), lineWidth: 1))
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
@@ -96,43 +97,54 @@ struct SaintDetailView: View {
                         RemoteHeroImage(url: imageURL)
                     }
 
-                    Text(displayName)
-                        .font(.system(size: 48, weight: .heavy))
-                        .minimumScaleFactor(0.6)
-                        .foregroundStyle(.white)
+                    VStack(alignment: .leading, spacing: 14) {
+                        Text(displayName)
+                            .font(AppTheme.rounded(46, weight: .bold))
+                            .minimumScaleFactor(0.6)
+                            .foregroundStyle(.white)
 
-                    Button {
-                        Task {
-                            await progressStore.toggleFavorite(itemType: .saint, itemID: saint.id)
-                            isFavorite = progressStore.isFavorite(itemType: .saint, itemID: saint.id)
-                        }
-                    } label: {
                         HStack(spacing: 10) {
-                            Image(systemName: isFavorite ? "heart.fill" : "heart")
-                            Text(isFavorite ? localization.t("detail.savedFavorites") : localization.t("detail.addFavorites"))
+                            Button {
+                                Task {
+                                    await progressStore.toggleFavorite(itemType: .saint, itemID: saint.id)
+                                    isFavorite = progressStore.isFavorite(itemType: .saint, itemID: saint.id)
+                                }
+                            } label: {
+                                HStack(spacing: 10) {
+                                    Image(systemName: isFavorite ? "heart.fill" : "heart")
+                                    Text(isFavorite ? localization.t("detail.savedFavorites") : localization.t("detail.addFavorites"))
+                                }
+                                .font(AppTheme.rounded(16, weight: .semibold))
+                                .foregroundStyle(.white)
+                                .padding(.horizontal, 18)
+                                .padding(.vertical, 12)
+                                .background(isFavorite ? AnyShapeStyle(AppTheme.primaryButtonGradient) : AnyShapeStyle(AppTheme.cardBackgroundSoft))
+                                .overlay(
+                                    Capsule()
+                                        .stroke(Color.white.opacity(0.12), lineWidth: 1)
+                                )
+                                .clipShape(Capsule())
+                            }
+                            .buttonStyle(.plain)
+                            .animation(.spring(response: 0.32, dampingFraction: 0.82), value: isFavorite)
+
+                            Spacer()
                         }
-                        .font(.system(size: 18, weight: .semibold))
-                        .foregroundStyle(.white)
-                        .padding(.horizontal, 22)
-                        .padding(.vertical, 14)
-                        .background(isFavorite ? AppTheme.purpleButton : Color.white.opacity(0.2))
-                        .clipShape(Capsule())
-                    }
 
-                    Text("\(localization.t("detail.feastDate")): \(feastDateString)")
-                        .font(.system(size: 18, weight: .medium))
-                        .foregroundStyle(.white.opacity(0.92))
-
-                    if !feastLabel.isEmpty {
-                        Text(feastLabel)
-                            .font(.system(size: 16, weight: .medium))
-                            .foregroundStyle(.white.opacity(0.85))
+                        VStack(alignment: .leading, spacing: 10) {
+                            detailMetaChip(icon: "calendar", text: "\(localization.t("detail.feastDate")): \(feastDateString)")
+                            if !feastLabel.isEmpty {
+                                detailMetaChip(icon: "sparkles", text: feastLabel)
+                            }
+                        }
                     }
+                    .padding(20)
+                    .appGlassCard(cornerRadius: 28)
 
                     if !summary.isEmpty {
                         DetailCard(title: localization.t("detail.summary")) {
                             Text(summary)
-                                .font(.system(size: 18, weight: .medium))
+                                .font(AppTheme.rounded(18, weight: .medium))
                                 .foregroundStyle(AppTheme.cardText.opacity(0.9))
                         }
                     }
@@ -140,7 +152,7 @@ struct SaintDetailView: View {
                     if !biography.isEmpty {
                         DetailCard(title: localization.t("detail.biography")) {
                             Text(biography)
-                                .font(.system(size: 18, weight: .medium))
+                                .font(AppTheme.rounded(18, weight: .medium))
                                 .foregroundStyle(AppTheme.cardText.opacity(0.9))
                         }
                     }
@@ -150,7 +162,7 @@ struct SaintDetailView: View {
                             VStack(alignment: .leading, spacing: 8) {
                                 ForEach(saint.patronages, id: \.self) { patronage in
                                     Text("• \(patronage)")
-                                        .font(.system(size: 17, weight: .medium))
+                                        .font(AppTheme.rounded(17, weight: .medium))
                                         .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                 }
                             }
@@ -162,7 +174,7 @@ struct SaintDetailView: View {
                             VStack(alignment: .leading, spacing: 8) {
                                 ForEach(prayers, id: \.self) { prayer in
                                     Text("• \(prayer)")
-                                        .font(.system(size: 17, weight: .medium))
+                                        .font(AppTheme.rounded(17, weight: .medium))
                                         .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                 }
                             }
@@ -176,13 +188,13 @@ struct SaintDetailView: View {
                                     if let url = URL(string: source), source.lowercased().hasPrefix("http") {
                                         Link(destination: url) {
                                             Text("• \(source)")
-                                                .font(.system(size: 15, weight: .medium))
+                                                .font(AppTheme.rounded(15, weight: .medium))
                                                 .underline()
                                                 .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                         }
                                     } else {
                                         Text("• \(source)")
-                                            .font(.system(size: 15, weight: .medium))
+                                            .font(AppTheme.rounded(15, weight: .medium))
                                             .foregroundStyle(AppTheme.cardText.opacity(0.9))
                                     }
                                 }
@@ -197,15 +209,20 @@ struct SaintDetailView: View {
                                     Button {
                                         selectedNovenaSelection = IDSelection(id: novena.id)
                                     } label: {
-                                        Text(novena.title)
-                                            .font(.system(size: 18, weight: .semibold))
-                                            .foregroundStyle(.white)
-                                            .frame(maxWidth: .infinity)
-                                            .padding(.vertical, 14)
-                                            .background(AppTheme.purpleButton)
-                                            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+                                        HStack {
+                                            Text(novena.title)
+                                                .font(AppTheme.rounded(18, weight: .semibold))
+                                                .foregroundStyle(.white)
+                                                .multilineTextAlignment(.leading)
+                                            Spacer()
+                                            Image(systemName: "arrow.up.right")
+                                                .font(.system(size: 13, weight: .bold))
+                                                .foregroundStyle(.white.opacity(0.7))
+                                        }
+                                        .padding(.horizontal, 16)
+                                        .padding(.vertical, 15)
                                     }
-                                    .buttonStyle(.plain)
+                                    .buttonStyle(RelatedLinkButtonStyle())
                                 }
                             }
                         }
@@ -244,6 +261,25 @@ struct SaintDetailView: View {
                 onClose: { selectedNovenaSelection = nil }
             )
         }
+    }
+
+    private func detailMetaChip(icon: String, text: String) -> some View {
+        HStack(spacing: 10) {
+            Image(systemName: icon)
+                .font(.system(size: 13, weight: .bold))
+                .foregroundStyle(AppTheme.glowGold)
+            Text(text)
+                .font(AppTheme.rounded(15, weight: .medium))
+                .foregroundStyle(.white.opacity(0.9))
+        }
+        .padding(.horizontal, 14)
+        .padding(.vertical, 10)
+        .background(AppTheme.cardBackgroundSoft)
+        .overlay(
+            Capsule()
+                .stroke(Color.white.opacity(0.1), lineWidth: 1)
+        )
+        .clipShape(Capsule())
     }
 
     private var imageURL: URL? {
@@ -343,7 +379,7 @@ private struct DetailCard<Content: View>: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
             Text(title)
-                .font(.system(size: 22, weight: .heavy))
+                .font(AppTheme.rounded(22, weight: .bold))
                 .foregroundStyle(AppTheme.cardText)
 
             Divider().background(AppTheme.cardText.opacity(0.2))
@@ -352,8 +388,7 @@ private struct DetailCard<Content: View>: View {
         }
         .padding(16)
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(AppTheme.cardBackground)
-        .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
+        .appGlassCard(cornerRadius: 24)
     }
 }
 
@@ -362,8 +397,8 @@ private struct RemoteHeroImage: View {
 
     var body: some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 20, style: .continuous)
-                .fill(Color.white.opacity(0.12))
+            RoundedRectangle(cornerRadius: 28, style: .continuous)
+                .fill(AppTheme.cardBackground)
 
             AsyncImage(url: url) { phase in
                 switch phase {
@@ -375,18 +410,18 @@ private struct RemoteHeroImage: View {
                             .resizable()
                             .scaledToFill()
                             .frame(maxWidth: .infinity, maxHeight: .infinity)
-                            .blur(radius: 22)
+                            .blur(radius: 26)
                             .saturation(0.7)
-                            .opacity(0.82)
+                            .opacity(0.78)
 
                         image
                             .resizable()
                             .aspectRatio(contentMode: .fit)
                             .frame(maxWidth: .infinity, maxHeight: .infinity)
-                            .padding(10)
-                            .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                            .padding(12)
+                            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
                             .overlay(
-                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                RoundedRectangle(cornerRadius: 18, style: .continuous)
                                     .stroke(Color.white.opacity(0.34), lineWidth: 1)
                             )
                             .padding(2)
@@ -399,13 +434,28 @@ private struct RemoteHeroImage: View {
             }
         }
         .frame(maxWidth: .infinity)
-        .frame(height: 260)
-        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+        .frame(height: 280)
+        .clipShape(RoundedRectangle(cornerRadius: 28, style: .continuous))
         .overlay(
-            RoundedRectangle(cornerRadius: 20, style: .continuous)
-                .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
+            RoundedRectangle(cornerRadius: 28, style: .continuous)
+                .stroke(Color.white.opacity(0.16), lineWidth: 1.5)
         )
         .allowsHitTesting(false)
+        .shadow(color: Color.black.opacity(0.22), radius: 18, x: 0, y: 10)
+    }
+}
+
+private struct RelatedLinkButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .frame(maxWidth: .infinity)
+            .background(AppTheme.cardBackgroundSoft.opacity(configuration.isPressed ? 0.9 : 1))
+            .overlay(
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .stroke(Color.white.opacity(0.12), lineWidth: 1)
+            )
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+            .scaleEffect(configuration.isPressed ? 0.985 : 1.0)
     }
 }
 

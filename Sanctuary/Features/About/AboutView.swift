@@ -7,7 +7,7 @@ struct AboutView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                AppTheme.backgroundGradient.ignoresSafeArea()
+                AppBackdrop()
 
                 ScrollView(showsIndicators: false) {
                     VStack(alignment: .leading, spacing: 14) {
@@ -72,7 +72,7 @@ private struct AboutCard<Content: View>: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
             Text(title)
-                .font(.system(size: 24, weight: .heavy))
+                .font(AppTheme.rounded(24, weight: .bold))
                 .foregroundStyle(AppTheme.cardText)
 
             Divider().background(AppTheme.cardText.opacity(0.25))
@@ -80,13 +80,12 @@ private struct AboutCard<Content: View>: View {
             VStack(alignment: .leading, spacing: 6) {
                 content
             }
-            .font(.system(size: 17, weight: .medium))
+            .font(AppTheme.rounded(17, weight: .medium))
             .foregroundStyle(AppTheme.cardText.opacity(0.9))
         }
         .padding(16)
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(AppTheme.cardBackground)
-        .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+        .appGlassCard(cornerRadius: 24)
     }
 }
 
@@ -97,14 +96,12 @@ private struct LinkButton: View {
     var body: some View {
         Link(destination: URL(string: url)!) {
             Text(title)
-                .font(.system(size: 16, weight: .semibold))
+                .font(AppTheme.rounded(16, weight: .semibold))
                 .foregroundStyle(.white)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 14)
-                .background(AppTheme.purpleButton)
-                .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
         }
-        .buttonStyle(.plain)
+        .buttonStyle(PrimaryPillButtonStyle())
     }
 }
 

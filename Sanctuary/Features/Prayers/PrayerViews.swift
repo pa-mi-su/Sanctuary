@@ -116,7 +116,7 @@ struct PrayersSearchView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                AppTheme.backgroundGradient.ignoresSafeArea()
+                AppBackdrop()
 
                 VStack(spacing: 14) {
                     HStack {
@@ -127,7 +127,8 @@ struct PrayersSearchView: View {
                                 .font(.system(size: 20, weight: .bold))
                                 .foregroundStyle(.white)
                                 .frame(width: 52, height: 52)
-                                .background(Color.black.opacity(0.15))
+                                .background(AppTheme.cardBackgroundSoft)
+                                .overlay(Circle().stroke(Color.white.opacity(0.12), lineWidth: 1))
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
@@ -153,12 +154,11 @@ struct PrayersSearchView: View {
                     }
                     .padding(.horizontal, 18)
                     .padding(.vertical, 14)
-                    .background(AppTheme.cardBackground)
-                    .clipShape(Capsule())
+                    .appGlassCard(cornerRadius: 28)
 
                     HStack {
                         Text("\(viewModel.prayers.count) \(localization.t("search.results"))")
-                            .font(.system(size: 17, weight: .medium))
+                            .font(AppTheme.rounded(17, weight: .medium))
                             .foregroundStyle(.white.opacity(0.92))
                         Spacer()
                     }
@@ -171,18 +171,17 @@ struct PrayersSearchView: View {
                                 } label: {
                                     VStack(alignment: .leading, spacing: 4) {
                                         Text(viewModel.title(for: prayer, locale: locale))
-                                            .font(.system(size: 20, weight: .heavy))
+                                            .font(AppTheme.rounded(20, weight: .bold))
                                             .foregroundStyle(AppTheme.cardText)
                                         Text(viewModel.subtitle(for: prayer, locale: locale))
-                                            .font(.system(size: 15, weight: .medium))
+                                            .font(AppTheme.rounded(15, weight: .medium))
                                             .foregroundStyle(AppTheme.cardText.opacity(0.8))
                                             .lineLimit(2)
                                     }
                                     .frame(maxWidth: .infinity, alignment: .leading)
                                     .padding(.horizontal, 16)
                                     .padding(.vertical, 14)
-                                    .background(AppTheme.cardBackground)
-                                    .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+                                    .appGlassCard(cornerRadius: 22)
                                 }
                                 .buttonStyle(.plain)
                             }
@@ -308,17 +307,18 @@ struct PrayerDetailView: View {
 
     var body: some View {
         ZStack {
-            AppTheme.backgroundGradient.ignoresSafeArea()
+            AppBackdrop()
 
             ScrollView(showsIndicators: false) {
-                VStack(alignment: .leading, spacing: 12) {
+                VStack(alignment: .leading, spacing: 14) {
                     HStack(spacing: 16) {
                         Button { handleBack() } label: {
                             Image(systemName: "arrow.left")
                                 .font(.system(size: 20, weight: .bold))
                                 .foregroundStyle(.white)
                                 .frame(width: 52, height: 52)
-                                .background(Color.black.opacity(0.15))
+                                .background(AppTheme.cardBackgroundSoft)
+                                .overlay(Circle().stroke(Color.white.opacity(0.12), lineWidth: 1))
                                 .clipShape(Circle())
                         }
                         .buttonStyle(.plain)
@@ -337,16 +337,18 @@ struct PrayerDetailView: View {
                         PrayerHeroImage(url: imageURL)
                     }
 
-                    Text(title)
-                        .font(.system(size: 56, weight: .heavy))
-                        .minimumScaleFactor(0.62)
-                        .foregroundStyle(.white)
+                    VStack(alignment: .leading, spacing: 12) {
+                        Text(title)
+                            .font(AppTheme.rounded(52, weight: .bold))
+                            .minimumScaleFactor(0.62)
+                            .foregroundStyle(.white)
 
-                    if !alternateTitle.isEmpty {
-                        Text(alternateTitle)
-                            .font(.system(size: 17, weight: .medium))
-                            .foregroundStyle(.white.opacity(0.9))
+                        if !alternateTitle.isEmpty {
+                            detailMetaChip(icon: "quote.bubble", text: alternateTitle)
+                        }
                     }
+                    .padding(20)
+                    .appGlassCard(cornerRadius: 28)
 
                     PrayerSectionCard(title: localization.t("novena.prayer"), bodyText: prayerText)
 
@@ -355,10 +357,7 @@ struct PrayerDetailView: View {
                     }
 
                     if !sourceTitle.isEmpty {
-                        Text(sourceTitle)
-                            .font(.system(size: 14, weight: .medium))
-                            .foregroundStyle(.white.opacity(0.8))
-                            .padding(.horizontal, 6)
+                        detailMetaChip(icon: "book.closed", text: sourceTitle)
                     }
                 }
                 .padding(.horizontal, 16)
@@ -373,6 +372,25 @@ struct PrayerDetailView: View {
             }.value
             bundledPrayer = loaded
         }
+    }
+
+    private func detailMetaChip(icon: String, text: String) -> some View {
+        HStack(spacing: 10) {
+            Image(systemName: icon)
+                .font(.system(size: 13, weight: .bold))
+                .foregroundStyle(AppTheme.glowGold)
+            Text(text)
+                .font(AppTheme.rounded(15, weight: .medium))
+                .foregroundStyle(.white.opacity(0.9))
+        }
+        .padding(.horizontal, 14)
+        .padding(.vertical, 10)
+        .background(AppTheme.cardBackgroundSoft)
+        .overlay(
+            Capsule()
+                .stroke(Color.white.opacity(0.1), lineWidth: 1)
+        )
+        .clipShape(Capsule())
     }
 
     private func localizedFromBundle(base: String?, es: String?, pl: String?) -> String? {
@@ -391,17 +409,16 @@ private struct PrayerSectionCard: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
             Text(title)
-                .font(.system(size: 22, weight: .heavy))
+                .font(AppTheme.rounded(22, weight: .bold))
                 .foregroundStyle(AppTheme.cardText)
             Divider().background(AppTheme.cardText.opacity(0.2))
             Text(bodyText)
-                .font(.system(size: 18, weight: .medium))
+                .font(AppTheme.rounded(18, weight: .medium))
                 .foregroundStyle(AppTheme.cardText.opacity(0.92))
         }
         .padding(16)
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(AppTheme.cardBackground)
-        .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
+        .appGlassCard(cornerRadius: 24)
     }
 }
 
@@ -410,8 +427,8 @@ private struct PrayerHeroImage: View {
 
     var body: some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 20, style: .continuous)
-                .fill(Color.white.opacity(0.12))
+            RoundedRectangle(cornerRadius: 28, style: .continuous)
+                .fill(AppTheme.cardBackground)
 
             AsyncImage(url: url) { phase in
                 switch phase {
@@ -423,18 +440,18 @@ private struct PrayerHeroImage: View {
                             .resizable()
                             .scaledToFill()
                             .frame(maxWidth: .infinity, maxHeight: .infinity)
-                            .blur(radius: 22)
+                            .blur(radius: 26)
                             .saturation(0.7)
-                            .opacity(0.82)
+                            .opacity(0.78)
 
                         image
                             .resizable()
                             .aspectRatio(contentMode: .fit)
                             .frame(maxWidth: .infinity, maxHeight: .infinity)
-                            .padding(10)
-                            .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+                            .padding(12)
+                            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
                             .overlay(
-                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                RoundedRectangle(cornerRadius: 18, style: .continuous)
                                     .stroke(Color.white.opacity(0.34), lineWidth: 1)
                             )
                             .padding(2)
@@ -449,12 +466,13 @@ private struct PrayerHeroImage: View {
             }
         }
         .frame(maxWidth: .infinity)
-        .frame(height: 260)
-        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+        .frame(height: 280)
+        .clipShape(RoundedRectangle(cornerRadius: 28, style: .continuous))
         .overlay(
-            RoundedRectangle(cornerRadius: 20, style: .continuous)
-                .stroke(Color.white.opacity(0.24), lineWidth: 1.5)
+            RoundedRectangle(cornerRadius: 28, style: .continuous)
+                .stroke(Color.white.opacity(0.16), lineWidth: 1.5)
         )
         .allowsHitTesting(false)
+        .shadow(color: Color.black.opacity(0.22), radius: 18, x: 0, y: 10)
     }
 }

@@ -24,7 +24,7 @@ enum RelationResolver {
     }
 
     private static let ambiguousSingle: Set<String> = [
-        "john", "joseph", "mary", "paul", "peter", "thomas", "james", "francis", "elizabeth", "catherine", "anthony", "nicholas", "gregory", "martin"
+        "john", "joseph", "mary", "paul", "peter", "thomas", "james", "francis", "elizabeth", "catherine", "anthony", "nicholas", "gregory", "martin", "vincent"
     ]
 
     private static let saintManualLinks: [String: [String]] = [
@@ -42,6 +42,8 @@ enum RelationResolver {
         "01-28_saint_thomas_aquinas": ["st_thomas_aquinas"],
         "01-25_the_conversion_of_saint_paul_the_apostle": ["st_paul_of_the_cross"],
         "06-21_saint_aloysius_gonzaga": ["st_aloysius_gonzaga"],
+        "04-05_saint_vincent_ferrer": ["st_vincent_ferrer"],
+        "09-27_saint_vincent_de_paul_1581_1660": ["st_vincent_de_paul"],
     ]
 
     private static let saintsIndex: [SaintIndexEntry] = loadJSON(named: "saints_index") ?? []
