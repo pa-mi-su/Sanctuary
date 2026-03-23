@@ -9,7 +9,7 @@ enum CalendarMode: String, CaseIterable {
 
 private let liturgicalUICalendar: Calendar = {
     var calendar = Calendar(identifier: .gregorian)
-    calendar.timeZone = TimeZone(secondsFromGMT: 0) ?? TimeZone.current
+    calendar.timeZone = .autoupdatingCurrent
     return calendar
 }()
 
