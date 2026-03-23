@@ -40,8 +40,7 @@ struct AboutView: View {
 
                         AboutCard(title: localization.t("about.contact")) {
                             Text(localization.t("about.contactBody"))
-                            LinkButton(title: localization.t("about.link.reportBug"), url: "mailto:support@sanctuaryapp.com")
-                            LinkButton(title: localization.t("about.link.feedback"), url: "mailto:info@sanctuaryapp.com")
+                            LinkButton(title: localization.t("about.link.feedback"), url: "mailto:info@mydailysanctuary.com")
                         }
                     }
                     .padding(16)
