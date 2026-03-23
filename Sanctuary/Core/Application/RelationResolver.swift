@@ -148,6 +148,10 @@ enum RelationResolver {
             return RelatedNovena(id: novena.id, title: novena.title, score: 9)
         }
 
+        if !manual.isEmpty {
+            return manual
+        }
+
         let computed = novenasIndex
             .map { novena in
                 RelatedNovena(
