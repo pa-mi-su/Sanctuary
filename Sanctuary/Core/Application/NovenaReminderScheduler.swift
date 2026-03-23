@@ -8,47 +8,61 @@ actor NovenaReminderScheduler {
 
     private let morningIdentifier = "sanctuary.novena.digest.morning"
     private let eveningIdentifier = "sanctuary.novena.digest.evening"
-    private let morningHour = 9
-    private let eveningHour = 18
+    private let morningHour = 8
+    private let eveningHour = 20
 
     func syncDigestReminder(activeCommitmentCount: Int) async {
         #if canImport(UserNotifications)
         let center = UNUserNotificationCenter.current()
         center.removePendingNotificationRequests(withIdentifiers: [morningIdentifier, eveningIdentifier])
+        guard await ensureAuthorizedForNotifications(center: center) else { return }
 
-        guard activeCommitmentCount > 0 else { return }
-        guard await isAuthorizedForNotifications(center: center) else { return }
+        if activeCommitmentCount > 0 {
+            let title = "Continue your novena"
+            let body = activeCommitmentCount == 1
+                ? "You have a novena in progress. Take a calm moment to continue your prayer in Sanctuary."
+                : "You have \(activeCommitmentCount) novenas in progress. Take a calm moment to continue your prayer in Sanctuary."
 
-        let title = "Novena reminder"
-        let body = "You have \(activeCommitmentCount) novena\(activeCommitmentCount == 1 ? "" : "s") in progress. Take a minute to pray."
+            await scheduleDailyDigest(
+                center: center,
+                identifier: morningIdentifier,
+                title: title,
+                body: body,
+                hour: morningHour,
+                activeCommitmentCount: activeCommitmentCount
+            )
+            await scheduleDailyDigest(
+                center: center,
+                identifier: eveningIdentifier,
+                title: title,
+                body: body,
+                hour: eveningHour,
+                activeCommitmentCount: activeCommitmentCount
+            )
+            return
+        }
 
         await scheduleDailyDigest(
             center: center,
             identifier: morningIdentifier,
-            title: title,
-            body: body,
+            title: "Your sanctuary is calling",
+            body: "Spend a peaceful moment exploring saints, prayer, and perhaps beginning a novena today.",
             hour: morningHour,
-            activeCommitmentCount: activeCommitmentCount
-        )
-        await scheduleDailyDigest(
-            center: center,
-            identifier: eveningIdentifier,
-            title: title,
-            body: body,
-            hour: eveningHour,
-            activeCommitmentCount: activeCommitmentCount
+            activeCommitmentCount: 0
         )
         #endif
     }
 
     #if canImport(UserNotifications)
-    private func isAuthorizedForNotifications(center: UNUserNotificationCenter) async -> Bool {
+    private func ensureAuthorizedForNotifications(center: UNUserNotificationCenter) async -> Bool {
         let settings = await notificationSettings(center: center)
         switch settings.authorizationStatus {
         case .authorized, .provisional, .ephemeral:
             return true
-        case .denied, .notDetermined:
+        case .denied:
             return false
+        case .notDetermined:
+            return await requestAuthorization(center: center)
         @unknown default:
             return false
         }
@@ -86,6 +100,14 @@ actor NovenaReminderScheduler {
         await withCheckedContinuation { continuation in
             center.getNotificationSettings { settings in
                 continuation.resume(returning: settings)
+            }
+        }
+    }
+
+    private func requestAuthorization(center: UNUserNotificationCenter) async -> Bool {
+        await withCheckedContinuation { continuation in
+            center.requestAuthorization(options: [.alert, .sound, .badge]) { granted, _ in
+                continuation.resume(returning: granted)
             }
         }
     }
