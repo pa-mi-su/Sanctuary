@@ -3,6 +3,7 @@ import SwiftUI
 struct SaintDetailView: View {
     let saint: Saint
     var displayYear: Int? = nil
+    var allowsRelatedNavigation: Bool = true
     var onClose: (() -> Void)? = nil
 
     @Environment(\.dismiss) private var dismiss
@@ -202,7 +203,7 @@ struct SaintDetailView: View {
                         }
                     }
 
-                    if !relatedNovenas.isEmpty {
+                    if allowsRelatedNavigation && !relatedNovenas.isEmpty {
                         DetailCard(title: localization.t("detail.relatedNovenas")) {
                             VStack(alignment: .leading, spacing: 10) {
                                 ForEach(relatedNovenas) { novena in
@@ -258,6 +259,7 @@ struct SaintDetailView: View {
                     days: []
                 ),
                 displayYear: displayYear,
+                allowsRelatedNavigation: false,
                 onClose: { selectedNovenaSelection = nil }
             )
         }

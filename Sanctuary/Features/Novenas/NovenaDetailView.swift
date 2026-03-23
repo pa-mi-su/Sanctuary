@@ -4,6 +4,7 @@ import SwiftUI
 struct NovenaDetailView: View {
     let novena: Novena
     var displayYear: Int? = nil
+    var allowsRelatedNavigation: Bool = true
     var onClose: (() -> Void)? = nil
 
     @Environment(\.dismiss) private var dismiss
@@ -334,7 +335,7 @@ struct NovenaDetailView: View {
                         .padding(.top, 4)
                     }
 
-                    if !relatedSaints.isEmpty {
+                    if allowsRelatedNavigation && !relatedSaints.isEmpty {
                         DetailCard(title: localization.t("detail.relatedSaints")) {
                             VStack(alignment: .leading, spacing: 10) {
                                 ForEach(relatedSaints) { saint in
@@ -408,6 +409,7 @@ struct NovenaDetailView: View {
                     sources: []
                 ),
                 displayYear: displayYear,
+                allowsRelatedNavigation: false,
                 onClose: { selectedSaintSelection = nil }
             )
         }
