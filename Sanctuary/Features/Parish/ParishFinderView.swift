@@ -89,13 +89,7 @@ struct ParishFinderView: View {
                         .buttonStyle(PrimaryPillButtonStyle())
 
                         if viewModel.isLoading {
-                            HStack(spacing: 10) {
-                                ProgressView().tint(.white)
-                                Text(localization.t("parish.searching"))
-                                    .font(AppTheme.rounded(15, weight: .medium))
-                                    .foregroundStyle(.white.opacity(0.9))
-                            }
-                            .padding(.vertical, 8)
+                            ParishLoadingCard(localization: localization)
                         }
 
                         if let errorKey = viewModel.errorMessageKey {
@@ -136,6 +130,46 @@ struct ParishFinderView: View {
 #endif
             }
         }
+    }
+}
+
+private struct ParishLoadingCard: View {
+    let localization: LocalizationManager
+
+    var body: some View {
+        VStack(spacing: 14) {
+            ZStack {
+                Circle()
+                    .fill(AppTheme.glowBlue.opacity(0.18))
+                    .frame(width: 78, height: 78)
+                    .blur(radius: 10)
+
+                Circle()
+                    .stroke(Color.white.opacity(0.1), lineWidth: 1)
+                    .frame(width: 72, height: 72)
+
+                ProgressView()
+                    .progressViewStyle(.circular)
+                    .tint(.white)
+                    .scaleEffect(1.5)
+            }
+
+            VStack(spacing: 6) {
+                Text(localization.t("parish.searching"))
+                    .font(AppTheme.rounded(18, weight: .bold))
+                    .foregroundStyle(.white)
+                    .multilineTextAlignment(.center)
+
+                Text(localization.t("parish.searchingDetail"))
+                    .font(AppTheme.rounded(15, weight: .medium))
+                    .foregroundStyle(AppTheme.subtitleText)
+                    .multilineTextAlignment(.center)
+            }
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.horizontal, 18)
+        .padding(.vertical, 22)
+        .appGlassCard(cornerRadius: 24)
     }
 }
 
