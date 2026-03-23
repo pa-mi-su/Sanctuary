@@ -28,6 +28,8 @@ enum RelationResolver {
     ]
 
     private static let saintManualLinks: [String: [String]] = [
+        "11-10_saint_andrew_avellino": ["st_andrew_avellino"],
+        "11-30_saint_andrew": ["st_andrew_the_apostle", "st_andrew_christmas"],
         "03-19_saint_joseph": ["st_joseph", "st_joseph_the_worker", "holy_cloak_of_st_joseph"],
         "03-20_saint_joachim": ["st_joachim"],
         "07-26_saints_joachim_and_ann": ["st_joachim", "sts_joachim_and_anne"],
@@ -144,6 +146,10 @@ enum RelationResolver {
         let manual = (saintManualLinks[saintID] ?? []).compactMap { id -> RelatedNovena? in
             guard let novena = novenaByID[id] else { return nil }
             return RelatedNovena(id: novena.id, title: novena.title, score: 9)
+        }
+
+        if !manual.isEmpty {
+            return manual
         }
 
         let computed = novenasIndex

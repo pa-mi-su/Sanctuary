@@ -1884,6 +1884,12 @@
     "feast": "The Ninth Day of November"
   },
   {
+    "id": "11-10_saint_andrew_avellino",
+    "name": "Saint Andrew Avellino",
+    "mmdd": "11-10",
+    "feast": "The Tenth Day of November"
+  },
+  {
     "id": "11-10_saint_leo_the_great",
     "name": "Saint Leo the Great",
     "mmdd": "11-10",
@@ -1996,12 +2002,6 @@
     "name": "Saint Catherine Labouré",
     "mmdd": "11-28",
     "feast": "The Twenty-Eighth Day of November"
-  },
-  {
-    "id": "11-29_saint_andrew",
-    "name": "Saint Andrew",
-    "mmdd": "11-29",
-    "feast": "The Twenty-Ninth Day of November"
   },
   {
     "id": "11-30_saint_andrew",
