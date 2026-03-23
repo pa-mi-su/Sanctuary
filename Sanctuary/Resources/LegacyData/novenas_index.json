@@ -2509,7 +2509,7 @@
     ],
     "description": "Saint Andrew Avellino was an Italian Theatine priest who became a significant figure in the Counter-Reformation against Protestant heresies. Pray this novena for Naples, Sicily, Badalato, and against a sudden death.",
     "patronage": [],
-    "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_andrew_avellino.jpg",
+    "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-10_saint_andrew_avellini.jpg",
     "notes": null,
     "source": {
       "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
@@ -2528,22 +2528,22 @@
     "feastRule": {
       "type": "fixed",
       "month": 12,
-      "day": 26
+      "day": 24
     },
-    "durationDays": 26,
+    "durationDays": 25,
     "category": "Saint",
     "tags": [
       "Novena",
       "Saint",
       "St. Andrew Christmas"
     ],
-    "description": "The St. Andrew Christmas novena is traditionally recited 15 times per day starting on November 30th and going through Christmas Day on December 25th.",
+    "description": "The St. Andrew Christmas novena is traditionally recited 15 times per day starting on November 30th and continuing through December 24th.",
     "patronage": [],
     "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_andrew_christmas.jpg",
     "notes": null,
     "source": {
       "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
-      "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-andrew-christmas-novena/",
+      "pageUrl": "https://ascensionpress.com/pages/st-andrews-christmas-novena",
       "importedFrom": "intercede"
     }
   },

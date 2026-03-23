@@ -1,7 +1,7 @@
 {
   "id": "st_andrew_christmas",
   "title": "St. Andrew Christmas Novena",
-  "description": "The St. Andrew Christmas novena is traditionally recited 15 times per day starting on November 30th and going through Christmas Day on December 25th.",
+  "description": "The St. Andrew Christmas novena is traditionally recited 15 times per day starting on November 30th and continuing through December 24th.",
   "category": "Saint",
   "tags": [
     "Novena",
@@ -16,11 +16,11 @@
   "feastRule": {
     "type": "fixed",
     "month": 12,
-    "day": 26
+    "day": 24
   },
   "source": {
     "url": "https://www.catholicnovenaapp.com/list-of-all-novenas/",
-    "pageUrl": "https://www.catholicnovenaapp.com/novenas/st-andrew-christmas-novena/",
+    "pageUrl": "https://ascensionpress.com/pages/st-andrews-christmas-novena",
     "importedFrom": "intercede"
   },
   "days": [
@@ -248,21 +248,12 @@
       "reflection": null,
       "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo, y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
       "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona bądź godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
-    },
-    {
-      "day": 26,
-      "title": null,
-      "prayer": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n\nHail and blessed be the hour and moment in which the Son of God was born of the most pure Virgin Mary, at midnight, in Bethlehem, in the piercing cold. In that hour vouchsafe, I beseech Thee, O my God, to hear my prayer and grant my desires, (mention request here…) through the merits of Our Savior Jesus Christ, and of His Blessed Mother. Amen. (Note that traditionally this prayer was repeated 15 times per day during Advent.)\n\nIn the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
-      "scripture": null,
-      "reflection": null,
-      "prayer_es": "En el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.\n\nSalve y bendita sea la hora y el momento en que el Hijo de Dios nació de la Virgen purísima María, a medianoche, en Belén, en el frío penetrante. En esa hora concédeme, te lo suplico, oh Dios mío, escuchar mi oración y conceder mis deseos, (mencionar la petición aquí…) por los méritos de Nuestro Salvador Jesucristo y de Su Santísima Madre. Amén. (Cabe señalar que tradicionalmente esta oración se repetía 15 veces al día durante el Adviento.)\n\nEn el Nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
-      "prayer_pl": "W Imię Ojca, i Syna, i Ducha Świętego. Amen.\n\nWitaj i błogosławiona godzino i chwilo, w której Syn Boży narodził się z Najczystszej Dziewicy Maryi, o północy, w Betlejem, w przenikliwym zimnie. W tej godzinie racz, proszę Cię, o mój Boże, wysłuchać mojej modlitwy i spełnić moje prośby, (wymień tutaj swoją prośbę…) przez zasługi naszego Zbawiciela Jezusa Chrystusa i Jego Błogosławionej Matki. Amen. (Tradycyjnie modlitwa ta była powtarzana 15 razy dziennie podczas Adwentu.)\n\nW Imię Ojca, i Syna, i Ducha Świętego. Amen."
     }
   ],
   "image": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/novenas/st_andrew_christmas.jpg",
   "sourceFacts": {
-    "starts": "November 30Feastday:December 26Patron saint of Fishermen, singers, Scotland, Romania, Russia, Ukraine and Patras 📱",
-    "feast": "December 26Patron saint of Fishermen, singers, Scotland, Romania, Russia, Ukraine and Patras 📱"
+    "starts": "November 30Feastday:December 24Patron saint of Fishermen, singers, Scotland, Romania, Russia, Ukraine and Patras 📱",
+    "feast": "December 24Patron saint of Fishermen, singers, Scotland, Romania, Russia, Ukraine and Patras 📱"
   },
   "_translationMeta": {
     "version": 1,
@@ -635,8 +626,8 @@
   },
   "title_es": "Novena de Navidad de San Andrés",
   "title_pl": "Nowenna Bożonarodzeniowa św. Andrzeja",
-  "description_es": "La novena de Navidad de San Andrés se recita tradicionalmente 15 veces al día comenzando el 30 de noviembre y hasta el día de Navidad, el 25 de diciembre.",
-  "description_pl": "Nowenna adwentowa św. Andrzeja tradycyjnie odmawiana jest 15 razy dziennie, zaczynając od 30 listopada aż do dnia Bożego Narodzenia, 25 grudnia.",
+  "description_es": "La novena de Navidad de San Andrés se recita tradicionalmente 15 veces al día comenzando el 30 de noviembre y continuando hasta el 24 de diciembre.",
+  "description_pl": "Nowenna adwentowa św. Andrzeja tradycyjnie odmawiana jest 15 razy dziennie, zaczynając od 30 listopada aż do 24 grudnia.",
   "intentions": [
     "fishermen",
     "singers"

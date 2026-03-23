@@ -12224,6 +12224,45 @@
     ]
   },
   {
+    "id": "11-10_saint_andrew_avellino",
+    "slug": "11-10_saint_andrew_avellino",
+    "name": "Saint Andrew Avellino",
+    "nameByLocale": {
+      "en": "Saint Andrew Avellino",
+      "es": "San Andrés Avellino",
+      "pl": "Święty Andrzej Avellino"
+    },
+    "feastMonth": 11,
+    "feastDay": 10,
+    "imageURL": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-10_saint_andrew_avellini.jpg",
+    "tags": [],
+    "patronages": [],
+    "feastLabelByLocale": {
+      "en": "The Tenth Day of November",
+      "es": "El Día Diez de Noviembre",
+      "pl": "Dziesiąty dzień listopada"
+    },
+    "summaryByLocale": {
+      "en": "Andrew (Andrea) Avellino was an Italian Theatine priest. He is venerated as the patron saint of Naples and Sicily and invoked especially against a sudden death. He led a life busy in preaching, hearing confessions, and visiting the sick, and writing.",
+      "es": "Andrés (Andrea) Avellino fue un sacerdote teatino italiano. Es venerado como el santo patrón de Nápoles y Sicilia, e invocado especialmente contra una muerte súbita. Llevó una vida ocupada en predicar, escuchar confesiones, visitar a los enfermos y escribir.",
+      "pl": "Andrzej (Andrea) Avellino był włoskim księdzem teatynem. Jest czczony jako patron Neapolu i Sycylii oraz szczególnie wzywany przeciw nagłej śmierci. Prowadził życie pełne pracy w głoszeniu kazań, słuchaniu spowiedzi, odwiedzaniu chorych oraz pisaniu."
+    },
+    "biographyByLocale": {
+      "en": "Life Born at Castronuovo (today Castronuovo di Sant'Andrea), a small town in the province of Potenza, in Basilicata, his baptismal name was Lancelotto, which he changed to Andrew when he entered the Order of Theatines. After receiving his elementary training in the school at Castronuovo, he was sent to Venice to pursue a course in the humanities and in philosophy. Being a handsome youth, his chastity was often exposed to danger from female admirers, and to escape their importuning he took ecclesiastical tonsure. He went to Naples to study canon and civil law, obtained the degree of Doctor of Laws and was ordained priest at the age of twenty-six. For some time he held the office of lawyer at the ecclesiastical court of Naples. The archbishop of Naples now commissioned him to reform a convent at Naples, which by the laxity of its discipline had become a source of great scandal. By his own example and his untiring...",
+      "es": "Vida Nacido en Castronuovo (hoy Castronuovo di Sant'Andrea), un pequeño pueblo en la provincia de Potenza, en Basilicata, su nombre bautismal fue Lancelotto, que cambió por Andrés cuando ingresó en la Orden de los Teatinos. Después de recibir su formación elemental en la escuela de Castronuovo, fue enviado a Venecia para cursar estudios en humanidades y filosofía. Siendo un joven apuesto, su castidad estuvo a menudo en peligro por admiradoras femeninas, y para escapar de sus insistencias tomó la tonsura eclesiástica. Se trasladó a Nápoles para estudiar derecho canónico y civil, obtuvo el título de Doctor en Derecho y fue ordenado sacerdote a los veintiséis años. Durante algún tiempo desempeñó el cargo de abogado en el tribunal eclesiástico de Nápoles. El arzobispo de Nápoles le encargó entonces reformar un convento en Nápoles, que debido a la laxitud de su disciplina se había convertido en fuente de gran escándalo. Por su propio ejemplo y su incansable...",
+      "pl": "Życie Urodzony w Castronuovo (dzisiaj Castronuovo di Sant'Andrea), małym miasteczku w prowincji Potenza, w Basilicacie, otrzymał przy chrzcie imię Lancelotto, które zmienił na Andrzej, wstępując do Zakonu Teatynów. Po ukończeniu nauki elementarnej w szkole w Castronuovo, został wysłany do Wenecji, aby kontynuować naukę w zakresie humanistyki i filozofii. Był przystojnym młodzieńcem, dlatego jego czystość często była zagrożona przez kobiece adoratorki, a aby uniknąć ich natarczywości, przyjął tonsurę duchowną. Wyjechał do Neapolu, aby studiować prawo kanoniczne i cywilne, uzyskał stopień doktora praw i został wyświęcony na kapłana w wieku dwudziestu sześciu lat. Przez pewien czas pełnił funkcję adwokata przy sądzie kościelnym w Neapolu. Arcybiskup Neapolu zlecił mu teraz reformę klasztoru w Neapolu, który z powodu luźnej dyscypliny stał się źródłem wielkiego skandalu. Poprzez własny przykład i niestrudzone..."
+    },
+    "prayersByLocale": {
+      "en": [],
+      "es": [],
+      "pl": []
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andrew_Avellino",
+      "Wikipedia (CC BY-SA) — text attribution required."
+    ]
+  },
+  {
     "id": "11-10_saint_leo_the_great",
     "slug": "11-10_saint_leo_the_great",
     "name": "Saint Leo the Great",
@@ -12961,45 +13000,6 @@
     },
     "sources": [
       "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9",
-      "Wikipedia (CC BY-SA) — text attribution required."
-    ]
-  },
-  {
-    "id": "11-29_saint_andrew",
-    "slug": "11-29_saint_andrew",
-    "name": "Saint Andrew",
-    "nameByLocale": {
-      "en": "Saint Andrew",
-      "es": "San Andrés",
-      "pl": "Święty Andrzej"
-    },
-    "feastMonth": 11,
-    "feastDay": 29,
-    "imageURL": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/saints/11-29_saint_andrew.jpg",
-    "tags": [],
-    "patronages": [],
-    "feastLabelByLocale": {
-      "en": "The Twenty-Ninth Day of November",
-      "es": "El Vigésimo Noveno Día de Noviembre",
-      "pl": "Dwudziesty dziewiąty dzień listopada"
-    },
-    "summaryByLocale": {
-      "en": "Andrew the Apostle was an apostle of Jesus. According to the New Testament, he was a fisherman and one of the Twelve Apostles chosen by Jesus.",
-      "es": "Andrés el Apóstol fue un apóstol de Jesús. Según el Nuevo Testamento, fue un pescador y uno de los Doce Apóstoles elegidos por Jesús.",
-      "pl": "Andrzej Apostoł był apostołem Jezusa. Według Nowego Testamentu był rybakiem i jednym z Dwunastu Apostołów wybranych przez Jezusa."
-    },
-    "biographyByLocale": {
-      "en": "Andrew the Apostle was an apostle of Jesus. According to the New Testament, he was a fisherman and one of the Twelve Apostles chosen by Jesus.",
-      "es": "Andrés el Apóstol fue un apóstol de Jesús. Según el Nuevo Testamento, fue pescador y uno de los Doce Apóstoles elegidos por Jesús.",
-      "pl": "Andrzej Apostoł był apostołem Jezusa. Według Nowego Testamentu był rybakiem i jednym z Dwunastu Apostołów wybranych przez Jezusa."
-    },
-    "prayersByLocale": {
-      "en": [],
-      "es": [],
-      "pl": []
-    },
-    "sources": [
-      "https://en.wikipedia.org/wiki/Andrew_the_Apostle",
       "Wikipedia (CC BY-SA) — text attribution required."
     ]
   },
