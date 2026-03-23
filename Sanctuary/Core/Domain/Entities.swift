@@ -146,7 +146,7 @@ enum LiturgicalCalendarEngine {
     private static let cacheStore = CacheStore()
     private static let calendar: Calendar = {
         var value = Calendar(identifier: .gregorian)
-        value.timeZone = TimeZone(secondsFromGMT: 0) ?? TimeZone.current
+        value.timeZone = .autoupdatingCurrent
         return value
     }()
     private static let weekdayNames = [
