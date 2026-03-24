@@ -202,7 +202,6 @@ private struct SanctuaryCrossShape: Shape {
         let verticalWidth = rect.width * 0.3
         let horizontalWidth = rect.width * 0.82
         let horizontalHeight = rect.height * 0.18
-        let topSectionHeight = rect.height * 0.22
         let horizontalY = rect.height * 0.28
 
         var path = Path()
@@ -295,6 +294,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     private let geocoder = CLGeocoder()
     private var pendingSearch = false
     private var lastLocation: CLLocation?
+    private var cachedNearestParish: ParishSearchResult?
 
     override init() {
         super.init()
@@ -303,6 +303,16 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
 
     func findNearestParish() {
         guard !isLoading else { return }
+
+        if let cachedNearestParish,
+           let lastLocation,
+           let currentLocation = manager.location,
+           currentLocation.distance(from: lastLocation) < 250 {
+            nearestParish = cachedNearestParish
+            errorMessageKey = nil
+            return
+        }
+
         nearestParish = nil
         errorMessageKey = nil
         isLoading = true
@@ -354,6 +364,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         do {
             let ranked = try await rankedParishResults(from: location)
             nearestParish = ranked.first
+            cachedNearestParish = ranked.first
             if nearestParish == nil {
                 errorMessageKey = "parish.error.noneFound"
             } else {
@@ -366,7 +377,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         }
     }
 
-    private func formattedAddress(from placemark: MKPlacemark) -> String {
+    nonisolated private static func formattedAddress(from placemark: MKPlacemark) -> String {
         let parts = [
             placemark.subThoroughfare,
             placemark.thoroughfare,
@@ -387,26 +398,24 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     }
 
     private func rankedMapKitParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
-        let localityHint = await locationHint(for: location)
-        let searchPlans: [[(query: String, region: MKCoordinateRegion)]] = [
-            buildPrimarySearchPlan(localityHint: localityHint, location: location),
-            buildFallbackSearchPlan(localityHint: localityHint, location: location)
-        ]
-
         var bestByKey: [String: ParishSearchResult] = [:]
 
-        for plan in searchPlans {
-            try await collectCandidates(for: plan, userLocation: location, bestByKey: &bestByKey)
-            let ranked = bestByKey.values.sorted(by: parishResultSort)
-            if hasStrongNearbyMatch(in: ranked) {
-                return ranked
-            }
+        let primaryPlan = buildPrimarySearchPlan(location: location)
+        try await collectCandidates(for: primaryPlan, userLocation: location, bestByKey: &bestByKey)
+
+        let primaryRanked = bestByKey.values.sorted(by: parishResultSort)
+        if hasStrongNearbyMatch(in: primaryRanked) {
+            return primaryRanked
         }
+
+        let localityHint = await locationHint(for: location)
+        let fallbackPlan = buildFallbackSearchPlan(localityHint: localityHint, location: location)
+        try await collectCandidates(for: fallbackPlan, userLocation: location, bestByKey: &bestByKey)
 
         return bestByKey.values.sorted(by: parishResultSort)
     }
 
-    private func buildPrimarySearchPlan(localityHint: String?, location: CLLocation) -> [(query: String, region: MKCoordinateRegion)] {
+    private func buildPrimarySearchPlan(location: CLLocation) -> [(query: String, region: MKCoordinateRegion)] {
         let nearby = MKCoordinateRegion(
             center: location.coordinate,
             span: MKCoordinateSpan(latitudeDelta: 0.08, longitudeDelta: 0.08)
@@ -416,15 +425,11 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
             span: MKCoordinateSpan(latitudeDelta: 0.18, longitudeDelta: 0.18)
         )
 
-        var queries = [
+        let queries = [
             "Catholic parish",
             "Roman Catholic parish",
             "Catholic church"
         ]
-        if let localityHint, !localityHint.isEmpty {
-            queries.append("Catholic parish near \(localityHint)")
-            queries.append("Roman Catholic church near \(localityHint)")
-        }
 
         return queries.flatMap { query in
             [(query: query, region: nearby), (query: query, region: local)]
@@ -454,22 +459,31 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         userLocation: CLLocation,
         bestByKey: inout [String: ParishSearchResult]
     ) async throws {
-        for step in plan {
-            let request = MKLocalSearch.Request()
-            request.naturalLanguageQuery = step.query
-            request.resultTypes = [.pointOfInterest, .address]
-            request.region = step.region
+        try await withThrowingTaskGroup(of: [ParishSearchResult].self) { group in
+            for step in plan {
+                group.addTask {
+                    let request = MKLocalSearch.Request()
+                    request.naturalLanguageQuery = step.query
+                    request.resultTypes = [.pointOfInterest, .address]
+                    request.region = step.region
 
-            let response = try await MKLocalSearch(request: request).start()
-            for item in response.mapItems {
-                guard let result = makeCandidate(from: item, userLocation: userLocation) else { continue }
-                let key = dedupeKey(for: item)
-                if let existing = bestByKey[key] {
-                    if isBetterCandidate(result, than: existing) {
+                    let response = try await MKLocalSearch(request: request).start()
+                    return response.mapItems.compactMap { item in
+                        Self.makeCandidate(from: item, userLocation: userLocation)
+                    }
+                }
+            }
+
+            for try await results in group {
+                for result in results {
+                    let key = dedupeKey(name: result.name, coordinate: result.mapItem.placemark.coordinate)
+                    if let existing = bestByKey[key] {
+                        if isBetterCandidate(result, than: existing) {
+                            bestByKey[key] = result
+                        }
+                    } else {
                         bestByKey[key] = result
                     }
-                } else {
-                    bestByKey[key] = result
                 }
             }
         }
@@ -490,7 +504,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         }
     }
 
-    private func makeCandidate(from item: MKMapItem, userLocation: CLLocation) -> ParishSearchResult? {
+    nonisolated private static func makeCandidate(from item: MKMapItem, userLocation: CLLocation) -> ParishSearchResult? {
         guard let parishLocation = item.placemark.location else { return nil }
 
         let name = item.name ?? "Catholic Parish"
@@ -525,11 +539,11 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
         )
     }
 
-    private func dedupeKey(for item: MKMapItem) -> String {
-        let name = (item.name ?? "").lowercased()
-        let lat = item.placemark.coordinate.latitude
-        let lon = item.placemark.coordinate.longitude
-        return "\(name)|\(String(format: "%.4f", lat))|\(String(format: "%.4f", lon))"
+    private func dedupeKey(name: String, coordinate: CLLocationCoordinate2D) -> String {
+        let lat = coordinate.latitude
+        let lon = coordinate.longitude
+        let normalizedName = name.lowercased()
+        return "\(normalizedName)|\(String(format: "%.4f", lat))|\(String(format: "%.4f", lon))"
     }
 
     private func isBetterCandidate(_ lhs: ParishSearchResult, than rhs: ParishSearchResult) -> Bool {
