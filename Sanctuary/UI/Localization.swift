@@ -32,6 +32,46 @@ enum AppLanguage: String, CaseIterable, Identifiable {
         case .pl: return Locale(identifier: "pl_PL")
         }
     }
+
+    var dailyReadingsLandingURL: URL {
+        switch self {
+        case .es:
+            return URL(string: "https://bible.usccb.org/es/daily-bible-reading")!
+        case .en, .pl:
+            return URL(string: "https://bible.usccb.org/daily-bible-reading")!
+        }
+    }
+
+    func localizedDailyReadingsURL(from rawURL: String?) -> URL? {
+        guard let rawURL, let url = URL(string: rawURL) else {
+            return dailyReadingsLandingURL
+        }
+
+        guard self == .es else { return url }
+
+        let value = rawURL
+        if value.contains("/es/") {
+            return url
+        }
+
+        if value.hasPrefix("https://bible.usccb.org/bible/readings/") {
+            let translated = value.replacingOccurrences(
+                of: "https://bible.usccb.org/bible/readings/",
+                with: "https://bible.usccb.org/es/bible/lecturas/"
+            )
+            return URL(string: translated) ?? url
+        }
+
+        if value == "https://bible.usccb.org/daily-bible-reading" {
+            return dailyReadingsLandingURL
+        }
+
+        if value == "https://bible.usccb.org/" {
+            return dailyReadingsLandingURL
+        }
+
+        return url
+    }
 }
 
 @MainActor
@@ -83,6 +123,69 @@ final class LocalizationManager: ObservableObject {
         return formatter.string(from: date)
     }
 
+    func monthName(_ month: Int) -> String {
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = .autoupdatingCurrent
+        var components = DateComponents()
+        components.calendar = calendar
+        components.timeZone = calendar.timeZone
+        components.year = 2026
+        components.month = month
+        components.day = 1
+        guard let date = calendar.date(from: components) else {
+            return String(month)
+        }
+
+        let formatter = DateFormatter()
+        formatter.locale = language.locale
+        formatter.timeZone = .autoupdatingCurrent
+        formatter.setLocalizedDateFormatFromTemplate("MMMM")
+        return formatter.string(from: date)
+    }
+
+    func formatMonthYear(month: Int, year: Int) -> String {
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = .autoupdatingCurrent
+        var components = DateComponents()
+        components.calendar = calendar
+        components.timeZone = calendar.timeZone
+        components.year = year
+        components.month = month
+        components.day = 1
+        components.hour = 12
+        guard let date = calendar.date(from: components) else {
+            return "\(monthName(month)) \(year)"
+        }
+
+        let formatter = DateFormatter()
+        formatter.locale = language.locale
+        formatter.timeZone = .autoupdatingCurrent
+        formatter.setLocalizedDateFormatFromTemplate("MMMM y")
+        return formatter.string(from: date)
+    }
+
+    func formatMonthDayYear(month: Int, day: Int, year: Int) -> String {
+        let resolvedYear = year
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = .autoupdatingCurrent
+        var components = DateComponents()
+        components.calendar = calendar
+        components.timeZone = calendar.timeZone
+        components.year = resolvedYear
+        components.month = month
+        components.day = day
+        components.hour = 12
+        guard let date = calendar.date(from: components) else {
+            return "\(monthName(month)) \(day), \(year)"
+        }
+
+        let formatter = DateFormatter()
+        formatter.locale = language.locale
+        formatter.timeZone = .autoupdatingCurrent
+        formatter.setLocalizedDateFormatFromTemplate("MMMM d y")
+        return formatter.string(from: date)
+    }
+
     private static let english: [String: String] = [
         "tab.home": "Home",
         "tab.novenas": "Novenas",
@@ -103,7 +206,7 @@ final class LocalizationManager: ObservableObject {
         "parish.subtitle": "Find the closest Catholic parish near your current location.",
         "parish.findButton": "Find Nearest Catholic Parish",
         "parish.searching": "Searching for the closest parish...",
-        "parish.searchingDetail": "Please be patient. This can take a moment while we check nearby Catholic parishes.",
+        "parish.searchingDetail": "Please be patient. This can take a minute or so while we check nearby Catholic parishes.",
         "parish.distance": "Distance",
         "parish.openMaps": "Open in Maps",
         "parish.website": "Parish Website",
@@ -114,25 +217,18 @@ final class LocalizationManager: ObservableObject {
         "home.chooseLanguage": "Choose language",
         "common.close": "Close",
         "about.title": "Sanctuary",
-        "about.subtitle": "Sanctuary is a Catholic companion for daily prayer, liturgical life, saints, and novenas, with fast access to readings and devotional search.",
+        "about.subtitle": "Sanctuary is a Catholic companion for prayer, daily readings, saints, liturgical living, and novenas.",
         "about.whatsInApp": "What's in the app",
         "about.references": "References",
         "about.contact": "Contact & feedback",
         "about.item.liturgical": "• Liturgical: day, week, and month calendar views with season context and direct daily readings links.",
         "about.item.saints": "• Saints: date-aware saint listings, detailed profiles, and searchable content.",
         "about.item.novenas": "• Novenas: rule-based start dates, end-date tracking, intentions search, and progress management.",
-        "about.refsIntro": "Calendar and devotional data are curated from trusted Catholic references and public-domain materials.",
-        "about.refsDataSources": "Data sources currently used in this app:",
+        "about.refsIntro": "Sanctuary currently references these public sources for readings and saint information.",
         "about.source.usccb": "• USCCB (daily readings)",
-        "about.source.fisheaters": "• Fish Eaters (novena source content)",
-        "about.source.wikipedia": "• Wikipedia (primary saint enrichment source)",
-        "about.source.catholicsaints": "• CatholicSaints.info",
-        "about.source.newadvent": "• New Advent",
-        "about.source.vaticannews": "• Vatican News",
-        "about.source.franciscan": "• Franciscan Media",
+        "about.source.wikipedia": "• Wikipedia",
         "about.link.usccb": "USCCB Daily Bible Reading",
-        "about.link.liturgical": "Liturgical calendar reference",
-        "about.link.novenas": "Novenas reference",
+        "about.link.wikipedia": "Wikipedia",
         "about.contactBody": "To report bugs, request corrections, or send general comments, contact the app team directly.",
         "about.link.reportBug": "Report a bug",
         "about.link.feedback": "Send feedback",
@@ -243,7 +339,7 @@ final class LocalizationManager: ObservableObject {
         "parish.openMaps": "Abrir en Mapas",
         "parish.website": "Sitio web de la parroquia",
         "parish.searching": "Buscando la parroquia más cercana...",
-        "parish.searchingDetail": "Por favor, ten paciencia. Esto puede tardar un momento mientras revisamos las parroquias católicas cercanas.",
+        "parish.searchingDetail": "Por favor, ten paciencia. Esto puede tardar un minuto más o menos mientras revisamos las parroquias católicas cercanas.",
         "parish.error.locationDenied": "Se requiere acceso a la ubicación para encontrar parroquias católicas cercanas. Actívalo en Configuración.",
         "parish.error.noLocation": "No se pudo determinar tu ubicación.",
         "parish.error.noneFound": "No se encontró una parroquia católica cercana.",
@@ -251,23 +347,17 @@ final class LocalizationManager: ObservableObject {
         "home.chooseLanguage": "Elegir idioma",
         "common.close": "Cerrar",
         "about.title": "Sanctuary",
+        "about.subtitle": "Sanctuary es un acompañante católico para la oración, las lecturas diarias, los santos, la vida litúrgica y las novenas.",
         "about.references": "Referencias",
         "about.contact": "Contacto y comentarios",
         "about.item.liturgical": "• Litúrgico: vistas por día, semana y mes con contexto de temporada y acceso directo a lecturas diarias.",
         "about.item.saints": "• Santos: listados por fecha, perfiles detallados y búsqueda de contenido.",
         "about.item.novenas": "• Novenas: fechas de inicio basadas en reglas, seguimiento de fecha de finalización, búsqueda de intenciones y progreso.",
-        "about.refsIntro": "Los datos de calendario y devociones se seleccionan de referencias católicas confiables y materiales de dominio público.",
-        "about.refsDataSources": "Fuentes de datos utilizadas actualmente en esta app:",
+        "about.refsIntro": "Sanctuary utiliza actualmente estas fuentes públicas para lecturas e información de santos.",
         "about.source.usccb": "• USCCB (lecturas diarias)",
-        "about.source.fisheaters": "• Fish Eaters (contenido fuente de novenas)",
-        "about.source.wikipedia": "• Wikipedia (fuente principal de ampliación de santos)",
-        "about.source.catholicsaints": "• CatholicSaints.info",
-        "about.source.newadvent": "• New Advent",
-        "about.source.vaticannews": "• Vatican News",
-        "about.source.franciscan": "• Franciscan Media",
-        "about.link.usccb": "Lectura Bíblica Diaria USCCB",
-        "about.link.liturgical": "Referencia del calendario litúrgico",
-        "about.link.novenas": "Referencia de novenas",
+        "about.source.wikipedia": "• Wikipedia",
+        "about.link.usccb": "Lecturas diarias de la USCCB",
+        "about.link.wikipedia": "Wikipedia",
         "about.contactBody": "Para reportar errores, solicitar correcciones o enviar comentarios generales, contacta directamente al equipo de la app.",
         "about.link.reportBug": "Reportar un error",
         "about.link.feedback": "Enviar comentarios",
@@ -380,29 +470,23 @@ final class LocalizationManager: ObservableObject {
         "parish.error.locationDenied": "Aby znaleźć pobliskie parafie katolickie, wymagany jest dostęp do lokalizacji. Włącz go w Ustawieniach.",
         "parish.error.noLocation": "Nie udało się ustalić Twojej lokalizacji.",
         "parish.searching": "Szukamy najbliższej parafii...",
-        "parish.searchingDetail": "Prosimy o cierpliwość. To może chwilę potrwać, gdy sprawdzamy pobliskie parafie katolickie.",
+        "parish.searchingDetail": "Prosimy o cierpliwość. To może potrwać około minuty, gdy sprawdzamy pobliskie parafie katolickie.",
         "parish.error.noneFound": "Nie znaleziono pobliskiej parafii katolickiej.",
         "parish.error.generic": "Nie można teraz znaleźć pobliskiej parafii.",
         "home.chooseLanguage": "Wybierz język",
         "common.close": "Zamknij",
         "about.title": "Sanctuary",
+        "about.subtitle": "Sanctuary to katolicki towarzysz modlitwy, czytań dnia, świętych, życia liturgicznego i nowenn.",
         "about.references": "Źródła",
         "about.contact": "Kontakt i opinie",
         "about.item.liturgical": "• Liturgia: widoki dnia, tygodnia i miesiąca z kontekstem okresu oraz szybkim przejściem do czytań dnia.",
         "about.item.saints": "• Święci: zestawienia według daty, szczegółowe profile i wyszukiwanie treści.",
         "about.item.novenas": "• Nowenny: daty rozpoczęcia oparte na regułach, data zakończenia, wyszukiwanie intencji i śledzenie postępu.",
-        "about.refsIntro": "Dane kalendarzowe i treści dewocyjne pochodzą z zaufanych źródeł katolickich oraz materiałów domeny publicznej.",
-        "about.refsDataSources": "Źródła danych obecnie używane w tej aplikacji:",
+        "about.refsIntro": "Sanctuary korzysta obecnie z tych publicznych źródeł dla czytań i informacji o świętych.",
         "about.source.usccb": "• USCCB (czytania dnia)",
-        "about.source.fisheaters": "• Fish Eaters (źródło treści nowenn)",
-        "about.source.wikipedia": "• Wikipedia (główne źródło rozszerzeń o świętych)",
-        "about.source.catholicsaints": "• CatholicSaints.info",
-        "about.source.newadvent": "• New Advent",
-        "about.source.vaticannews": "• Vatican News",
-        "about.source.franciscan": "• Franciscan Media",
-        "about.link.usccb": "Codzienne czytania biblijne USCCB",
-        "about.link.liturgical": "Źródło kalendarza liturgicznego",
-        "about.link.novenas": "Źródło nowenn",
+        "about.source.wikipedia": "• Wikipedia",
+        "about.link.usccb": "Codzienne czytania USCCB",
+        "about.link.wikipedia": "Wikipedia",
         "about.contactBody": "Aby zgłosić błąd, poprosić o poprawki lub wysłać ogólne uwagi, skontaktuj się bezpośrednio z zespołem aplikacji.",
         "about.link.reportBug": "Zgłoś błąd",
         "about.link.feedback": "Wyślij opinię",

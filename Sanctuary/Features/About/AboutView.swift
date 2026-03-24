@@ -21,21 +21,12 @@ struct AboutView: View {
 
                         AboutCard(title: localization.t("about.references")) {
                             Text(localization.t("about.refsIntro"))
-                            Text(localization.t("about.refsDataSources"))
-                                .fontWeight(.bold)
-                                .padding(.top, 8)
                             Text(localization.t("about.source.usccb"))
-                            Text(localization.t("about.source.fisheaters"))
                             Text(localization.t("about.source.wikipedia"))
-                            Text(localization.t("about.source.catholicsaints"))
-                            Text(localization.t("about.source.newadvent"))
-                            Text(localization.t("about.source.vaticannews"))
-                            Text(localization.t("about.source.franciscan"))
                                 .padding(.bottom, 8)
 
                             LinkButton(title: localization.t("about.link.usccb"), url: "https://bible.usccb.org/daily-bible-reading")
-                            LinkButton(title: localization.t("about.link.liturgical"), url: "https://mycatholic.life/liturgy/")
-                            LinkButton(title: localization.t("about.link.novenas"), url: "https://www.fisheaters.com/novenas.html")
+                            LinkButton(title: localization.t("about.link.wikipedia"), url: "https://www.wikipedia.org/")
                         }
 
                         AboutCard(title: localization.t("about.contact")) {

@@ -137,6 +137,7 @@ struct ParishFinderView: View {
 
 private struct ParishLoadingCard: View {
     let localization: LocalizationManager
+    @State private var animatePulse = false
 
     var body: some View {
         VStack(spacing: 14) {
@@ -150,16 +151,37 @@ private struct ParishLoadingCard: View {
                     .stroke(Color.white.opacity(0.1), lineWidth: 1)
                     .frame(width: 72, height: 72)
 
-                ProgressView()
-                    .progressViewStyle(.circular)
-                    .tint(.white)
-                    .scaleEffect(1.5)
+                Circle()
+                    .fill(AppTheme.glowGold.opacity(0.16))
+                    .frame(width: animatePulse ? 70 : 46, height: animatePulse ? 70 : 46)
+                    .blur(radius: animatePulse ? 12 : 6)
+                    .scaleEffect(animatePulse ? 1.04 : 0.92)
+
+                SanctuaryCrossShape()
+                    .fill(
+                        LinearGradient(
+                            colors: [AppTheme.glowGold, Color.white.opacity(0.92)],
+                            startPoint: .top,
+                            endPoint: .bottom
+                        )
+                    )
+                    .frame(width: 26, height: 40)
+                    .shadow(color: AppTheme.glowGold.opacity(0.35), radius: 10, x: 0, y: 0)
+                    .scaleEffect(animatePulse ? 1.04 : 0.96)
+            }
+            .frame(width: 72, height: 72)
+            .onAppear {
+                withAnimation(.easeInOut(duration: 1.1).repeatForever(autoreverses: true)) {
+                    animatePulse = true
+                }
             }
 
             VStack(spacing: 6) {
                 Text(localization.t("parish.searching"))
                     .font(AppTheme.rounded(18, weight: .bold))
-                    .foregroundStyle(.white)
+                    .foregroundStyle(
+                        .white
+                    )
                     .multilineTextAlignment(.center)
 
                 Text(localization.t("parish.searchingDetail"))
@@ -172,6 +194,38 @@ private struct ParishLoadingCard: View {
         .padding(.horizontal, 18)
         .padding(.vertical, 22)
         .appGlassCard(cornerRadius: 24)
+    }
+}
+
+private struct SanctuaryCrossShape: Shape {
+    func path(in rect: CGRect) -> Path {
+        let verticalWidth = rect.width * 0.3
+        let horizontalWidth = rect.width * 0.82
+        let horizontalHeight = rect.height * 0.18
+        let topSectionHeight = rect.height * 0.22
+        let horizontalY = rect.height * 0.28
+
+        var path = Path()
+        path.addRoundedRect(
+            in: CGRect(
+                x: (rect.width - verticalWidth) / 2,
+                y: 0,
+                width: verticalWidth,
+                height: rect.height
+            ),
+            cornerSize: CGSize(width: verticalWidth / 2, height: verticalWidth / 2)
+        )
+        path.addRoundedRect(
+            in: CGRect(
+                x: (rect.width - horizontalWidth) / 2,
+                y: horizontalY,
+                width: horizontalWidth,
+                height: horizontalHeight
+            ),
+            cornerSize: CGSize(width: horizontalHeight / 2, height: horizontalHeight / 2)
+        )
+
+        return path
     }
 }
 
@@ -334,57 +388,96 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
 
     private func rankedMapKitParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
         let localityHint = await locationHint(for: location)
-        let queries = buildQueries(localityHint: localityHint)
-        let regions = [
-            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.06, longitudeDelta: 0.06)),
-            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.12, longitudeDelta: 0.12)),
-            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.25, longitudeDelta: 0.25)),
-            MKCoordinateRegion(center: location.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.7, longitudeDelta: 0.7))
+        let searchPlans: [[(query: String, region: MKCoordinateRegion)]] = [
+            buildPrimarySearchPlan(localityHint: localityHint, location: location),
+            buildFallbackSearchPlan(localityHint: localityHint, location: location)
         ]
 
         var bestByKey: [String: ParishSearchResult] = [:]
 
-        for query in queries {
-            for region in regions {
-                let request = MKLocalSearch.Request()
-                request.naturalLanguageQuery = query
-                request.resultTypes = [.pointOfInterest, .address]
-                request.region = region
-
-                let response = try await MKLocalSearch(request: request).start()
-                for item in response.mapItems {
-                    guard let result = makeCandidate(from: item, userLocation: location) else { continue }
-                    let key = dedupeKey(for: item)
-                    if let existing = bestByKey[key] {
-                        if isBetterCandidate(result, than: existing) {
-                            bestByKey[key] = result
-                        }
-                    } else {
-                        bestByKey[key] = result
-                    }
-                }
+        for plan in searchPlans {
+            try await collectCandidates(for: plan, userLocation: location, bestByKey: &bestByKey)
+            let ranked = bestByKey.values.sorted(by: parishResultSort)
+            if hasStrongNearbyMatch(in: ranked) {
+                return ranked
             }
         }
 
         return bestByKey.values.sorted(by: parishResultSort)
     }
 
-    private func buildQueries(localityHint: String?) -> [String] {
+    private func buildPrimarySearchPlan(localityHint: String?, location: CLLocation) -> [(query: String, region: MKCoordinateRegion)] {
+        let nearby = MKCoordinateRegion(
+            center: location.coordinate,
+            span: MKCoordinateSpan(latitudeDelta: 0.08, longitudeDelta: 0.08)
+        )
+        let local = MKCoordinateRegion(
+            center: location.coordinate,
+            span: MKCoordinateSpan(latitudeDelta: 0.18, longitudeDelta: 0.18)
+        )
+
         var queries = [
             "Catholic parish",
-            "Roman Catholic church",
-            "Catholic church",
             "Roman Catholic parish",
-            "church catholic",
-            "Catholic parish near me",
-            "Roman Catholic parish near me"
+            "Catholic church"
         ]
         if let localityHint, !localityHint.isEmpty {
             queries.append("Catholic parish near \(localityHint)")
             queries.append("Roman Catholic church near \(localityHint)")
+        }
+
+        return queries.flatMap { query in
+            [(query: query, region: nearby), (query: query, region: local)]
+        }
+    }
+
+    private func buildFallbackSearchPlan(localityHint: String?, location: CLLocation) -> [(query: String, region: MKCoordinateRegion)] {
+        let regional = MKCoordinateRegion(
+            center: location.coordinate,
+            span: MKCoordinateSpan(latitudeDelta: 0.4, longitudeDelta: 0.4)
+        )
+
+        var queries = [
+            "Roman Catholic church",
+            "Roman Catholic parish",
+            "Catholic parish near me"
+        ]
+        if let localityHint, !localityHint.isEmpty {
             queries.append("Roman Catholic parish near \(localityHint)")
         }
-        return queries
+
+        return queries.map { (query: $0, region: regional) }
+    }
+
+    private func collectCandidates(
+        for plan: [(query: String, region: MKCoordinateRegion)],
+        userLocation: CLLocation,
+        bestByKey: inout [String: ParishSearchResult]
+    ) async throws {
+        for step in plan {
+            let request = MKLocalSearch.Request()
+            request.naturalLanguageQuery = step.query
+            request.resultTypes = [.pointOfInterest, .address]
+            request.region = step.region
+
+            let response = try await MKLocalSearch(request: request).start()
+            for item in response.mapItems {
+                guard let result = makeCandidate(from: item, userLocation: userLocation) else { continue }
+                let key = dedupeKey(for: item)
+                if let existing = bestByKey[key] {
+                    if isBetterCandidate(result, than: existing) {
+                        bestByKey[key] = result
+                    }
+                } else {
+                    bestByKey[key] = result
+                }
+            }
+        }
+    }
+
+    private func hasStrongNearbyMatch(in ranked: [ParishSearchResult]) -> Bool {
+        guard let first = ranked.first else { return false }
+        return first.rankingScore >= 500 && first.distanceMeters <= 25_000
     }
 
     private func locationHint(for location: CLLocation) async -> String? {

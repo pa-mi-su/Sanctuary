@@ -14,6 +14,16 @@ struct HomeView: View {
     @State private var showParishFinder = false
     @State private var showDailyReadings = false
 
+    private var dailyReadingsURL: URL {
+        let today = Date()
+        if let localized = localization.language.localizedDailyReadingsURL(
+            from: LiturgicalCalendarEngine.readingURL(for: today)?.absoluteString
+        ) {
+            return localized
+        }
+        return localization.language.dailyReadingsLandingURL
+    }
+
     private var primaryActions: [HomeAction] {
         [
             HomeAction(title: localization.t("home.saints"), icon: "person.3.fill", tint: AppTheme.glowGold) {
@@ -158,7 +168,7 @@ struct HomeView: View {
                 ParishFinderView()
             }
             .sheet(isPresented: $showDailyReadings) {
-                DailyReadingsView(url: URL(string: "https://bible.usccb.org/daily-bible-reading")!)
+                DailyReadingsView(url: dailyReadingsURL)
             }
             .toolbar(.hidden)
         }
