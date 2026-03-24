@@ -299,6 +299,8 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     override init() {
         super.init()
         manager.delegate = self
+        manager.desiredAccuracy = kCLLocationAccuracyHundredMeters
+        warmLocationIfPossible()
     }
 
     func findNearestParish() {
@@ -313,14 +315,26 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
             return
         }
 
-        nearestParish = nil
-        errorMessageKey = nil
-        isLoading = true
-
         switch manager.authorizationStatus {
         case .authorizedAlways, .authorizedWhenInUse:
+            if let currentLocation = usableLocation(from: manager.location) {
+                nearestParish = nil
+                errorMessageKey = nil
+                isLoading = true
+                lastLocation = currentLocation
+                Task { await searchNearestParish(from: currentLocation) }
+                manager.requestLocation()
+                return
+            }
+
+            nearestParish = nil
+            errorMessageKey = nil
+            isLoading = true
             manager.requestLocation()
         case .notDetermined:
+            nearestParish = nil
+            errorMessageKey = nil
+            isLoading = true
             pendingSearch = true
             manager.requestWhenInUseAuthorization()
         case .denied, .restricted:
@@ -340,6 +354,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     }
 
     func locationManagerDidChangeAuthorization(_ manager: CLLocationManager) {
+        warmLocationIfPossible()
         guard pendingSearch else { return }
         pendingSearch = false
         findNearestParish()
@@ -357,6 +372,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
             return
         }
         lastLocation = location
+        guard isLoading else { return }
         Task { await searchNearestParish(from: location) }
     }
 
@@ -395,6 +411,22 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
 
     private func rankedParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
         try await rankedMapKitParishResults(from: location)
+    }
+
+    private func warmLocationIfPossible() {
+        switch manager.authorizationStatus {
+        case .authorizedAlways, .authorizedWhenInUse:
+            manager.startUpdatingLocation()
+        default:
+            break
+        }
+    }
+
+    private func usableLocation(from location: CLLocation?) -> CLLocation? {
+        guard let location else { return nil }
+        guard location.horizontalAccuracy > 0, location.horizontalAccuracy <= 1000 else { return nil }
+        guard abs(location.timestamp.timeIntervalSinceNow) <= 300 else { return nil }
+        return location
     }
 
     private func rankedMapKitParishResults(from location: CLLocation) async throws -> [ParishSearchResult] {
