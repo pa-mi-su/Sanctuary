@@ -24,6 +24,14 @@ enum AppLanguage: String, CaseIterable, Identifiable {
         case .pl: return .pl
         }
     }
+
+    var locale: Locale {
+        switch self {
+        case .en: return Locale(identifier: "en_US")
+        case .es: return Locale(identifier: "es_ES")
+        case .pl: return Locale(identifier: "pl_PL")
+        }
+    }
 }
 
 @MainActor
@@ -50,6 +58,31 @@ final class LocalizationManager: ObservableObject {
         ]
     }
 
+    func formatMonthDay(month: Int, day: Int, year: Int? = nil) -> String {
+        let resolvedYear = year ?? Calendar.autoupdatingCurrent.component(.year, from: Date())
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = .autoupdatingCurrent
+        var components = DateComponents()
+        components.calendar = calendar
+        components.timeZone = calendar.timeZone
+        components.year = resolvedYear
+        components.month = month
+        components.day = day
+        components.hour = 12
+        guard let date = calendar.date(from: components) else {
+            return String(format: "%02d-%02d", month, day)
+        }
+        return formatMonthDay(date)
+    }
+
+    func formatMonthDay(_ date: Date) -> String {
+        let formatter = DateFormatter()
+        formatter.locale = language.locale
+        formatter.timeZone = .autoupdatingCurrent
+        formatter.setLocalizedDateFormatFromTemplate("MMM d")
+        return formatter.string(from: date)
+    }
+
     private static let english: [String: String] = [
         "tab.home": "Home",
         "tab.novenas": "Novenas",
@@ -60,6 +93,7 @@ final class LocalizationManager: ObservableObject {
         "home.language": "Language",
         "home.welcome": "Welcome to your sanctuary",
         "home.connect": "How do you want to connect with God?",
+        "home.supporting": "Prayer, liturgy, and saints in one calm place.",
         "home.saints": "Saints",
         "home.prayers": "Prayers",
         "home.daily": "Daily Reading",
@@ -196,6 +230,7 @@ final class LocalizationManager: ObservableObject {
         "home.language": "Idioma",
         "home.welcome": "Bienvenido a tu santuario",
         "home.connect": "¿Cómo quieres conectarte con Dios?",
+        "home.supporting": "Oración, liturgia y santos en un lugar sereno.",
         "home.saints": "Santos",
         "home.prayers": "Oraciones",
         "home.daily": "Lectura diaria",
@@ -330,6 +365,7 @@ final class LocalizationManager: ObservableObject {
         "home.language": "Język",
         "home.welcome": "Witamy w twoim sanktuarium",
         "home.connect": "Jak chcesz połączyć się z Bogiem?",
+        "home.supporting": "Modlitwa, liturgia i święci w jednym spokojnym miejscu.",
         "home.saints": "Święci",
         "home.prayers": "Modlitwy",
         "home.daily": "Czytanie dnia",
