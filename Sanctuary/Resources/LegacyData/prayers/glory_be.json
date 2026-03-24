@@ -1,0 +1,20 @@
+{
+  "id": "glory_be",
+  "title": "Glory Be",
+  "title_es": "Gloria",
+  "title_pl": "Chwała Ojcu",
+  "alternateTitle": "Glory Be to the Father",
+  "alternateTitle_es": "Gloria al Padre",
+  "alternateTitle_pl": "Chwała Ojcu i Synowi",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/glory_be.jpg",
+  "prayerText": "Glory be to the Father,\nand to the Son,\nand to the Holy Spirit.\nAs it was in the beginning, is now,\nand ever shall be,\nworld without end.\nAmen.",
+  "prayerText_es": "Gloria al Padre,\ny al Hijo,\ny al Espíritu Santo.\nComo era en el principio, ahora y siempre,\npor los siglos de los siglos.\nAmén.",
+  "prayerText_pl": "Chwała Ojcu\ni Synowi,\ni Duchowi Świętemu.\nJak była na początku,\nteraz i zawsze,\ni na wieki wieków.\nAmen.",
+  "note": "A short doxology honoring the Holy Trinity.",
+  "note_es": "Una breve doxología en honor de la Santísima Trinidad.",
+  "note_pl": "Krótka doksologia oddająca cześć Trójcy Świętej.",
+  "source": {
+    "type": "user_provided",
+    "title": "Glory Be"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "prayer_of_st_dominic",
+  "title": "Prayer of St. Dominic",
+  "title_es": "Oración de Santo Domingo",
+  "title_pl": "Modlitwa św. Dominika",
+  "alternateTitle": "Prayer for Mission and Peace",
+  "alternateTitle_es": "Oración por la misión y la paz",
+  "alternateTitle_pl": "Modlitwa o misję i pokój",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/prayer_of_st_dominic.jpg",
+  "prayerText": "May God the Father who made us bless us.\nMay God the Son send his healing among us.\nMay God the Holy Spirit move within us and\ngive us eyes to see with, ears to hear with,\nand hands that your work might be done.\nMay we walk and preach the word of God to all.\nMay the angel of peace watch over us and\nlead us at last by God's grace to the Kingdom. Amen.",
+  "prayerText_es": "Que Dios Padre, que nos creó, nos bendiga.\nQue Dios Hijo envíe su sanación entre nosotros.\nQue Dios Espíritu Santo se mueva dentro de nosotros y\nnos dé ojos para ver, oídos para escuchar\ny manos para que se haga su obra.\nQue caminemos y prediquemos la palabra de Dios a todos.\nQue el ángel de la paz vele por nosotros y\nnos conduzca finalmente, por la gracia de Dios, al Reino. Amén.",
+  "prayerText_pl": "Niech Bóg Ojciec, który nas stworzył, nam błogosławi.\nNiech Bóg Syn ześle pośród nas swoje uzdrowienie.\nNiech Bóg Duch Święty porusza się w nas i\nda nam oczy do widzenia, uszy do słyszenia\ni ręce, aby mogło dokonać się Twoje dzieło.\nNiech kroczymy i głosimy słowo Boże wszystkim.\nNiech anioł pokoju czuwa nad nami i\nniech prowadzi nas w końcu, dzięki łasce Bożej, do Królestwa. Amen.",
+  "note": "A short prayer asking for healing, mission, and peace, attributed to St. Dominic.",
+  "note_es": "Una breve oración atribuida a Santo Domingo que pide sanación, misión y paz.",
+  "note_pl": "Krótka modlitwa przypisywana św. Dominikowi, prosząca o uzdrowienie, misję i pokój.",
+  "source": {
+    "type": "user_provided",
+    "title": "Prayer of St. Dominic"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "prayer_to_st_michael_the_archangel",
+  "title": "Prayer to St. Michael the Archangel",
+  "title_es": "Oración a San Miguel Arcángel",
+  "title_pl": "Modlitwa do św. Michała Archanioła",
+  "alternateTitle": "Sancte Michael Archangele",
+  "alternateTitle_es": "Sancte Michael Archangele",
+  "alternateTitle_pl": "Sancte Michael Archangele",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/prayer_to_st_michael_the_archangel.jpeg",
+  "prayerText": "St. Michael the Archangel,\ndefend us in battle.\nBe our defense against the wickedness and snares of the Devil.\nMay God rebuke him, we humbly pray,\nand do thou,\nO Prince of the heavenly hosts,\nby the power of God,\nthrust into hell Satan,\nand all the evil spirits,\nwho prowl about the world\nseeking the ruin of souls. Amen.",
+  "prayerText_es": "San Miguel Arcángel,\ndefiéndenos en la batalla.\nSé nuestro amparo contra la perversidad y asechanzas del demonio.\nReprímale Dios, pedimos suplicantes,\ny tú,\nPríncipe de la milicia celestial,\ncon el poder que Dios te ha conferido,\narroja al infierno a Satanás,\ny a los demás espíritus malignos,\nque vagan por el mundo\npara la perdición de las almas. Amén.",
+  "prayerText_pl": "Święty Michale Archaniele,\nwspomagaj nas w walce.\nA przeciw niegodziwości i zasadzkom złego ducha\nbądź naszą obroną.\nOby go Bóg pogromić raczył,\npokornie o to prosimy,\na Ty,\nWodzu niebieskich zastępów,\nSzatana i inne duchy złe,\nktóre na zgubę dusz ludzkich\npo tym świecie krążą,\nMocą Bożą strąć do piekła. Amen.",
+  "note": "A classic Catholic prayer asking St. Michael for protection against evil and spiritual attack.",
+  "note_es": "Una oración católica clásica que pide a San Miguel protección contra el mal y los ataques espirituales.",
+  "note_pl": "Klasyczna modlitwa katolicka prosząca św. Michała o ochronę przed złem i atakami duchowymi.",
+  "source": {
+    "type": "user_provided",
+    "title": "Prayer to St. Michael the Archangel"
+  }
+}

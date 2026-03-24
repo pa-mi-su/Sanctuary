@@ -1,0 +1,20 @@
+{
+  "id": "salve_regina",
+  "title": "Salve Regina (Hail, Holy Queen)",
+  "title_es": "Salve Regina (Dios te salve, Reina y Madre)",
+  "title_pl": "Salve Regina (Witaj, Królowo)",
+  "alternateTitle": "Salve Regina",
+  "alternateTitle_es": "Salve Regina",
+  "alternateTitle_pl": "Salve Regina",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/salve_regina.jpg",
+  "prayerText": "Hail, holy Queen, mother of Mercy.\nHail, our life, our sweetness and our hope.\nTo thee do we cry,\npoor banished children of Eve;\nto thee do we send up our sighs,\nmourning and weeping,\nin this vale of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us;\nand after this our exile, show unto us\nthe blessed fruit of thy womb, Jesus.\nO clement, O loving,\nO sweet virgin Mary.",
+  "prayerText_es": "Dios te salve, Reina y Madre de misericordia,\nvida, dulzura y esperanza nuestra;\nDios te salve.\nA ti llamamos los desterrados hijos de Eva;\na ti suspiramos, gimiendo y llorando\nen este valle de lágrimas.\nEa, pues, Señora, abogada nuestra,\nvuelve a nosotros esos tus ojos misericordiosos,\ny después de este destierro muéstranos a Jesús,\nfruto bendito de tu vientre.\n¡Oh clemente, oh piadosa,\noh dulce Virgen María!",
+  "prayerText_pl": "Witaj, Królowo, Matko Miłosierdzia,\nżycie, słodyczy i nadziejo nasza, witaj.\nDo Ciebie wołamy, wygnańcy, synowie Ewy,\ndo Ciebie wzdychamy,\njęcząc i płacząc\nna tym łez padole.\nPrzeto, Orędowniczko nasza,\none miłosierne oczy Twoje\nna nas zwróć,\na Jezusa,\nbłogosławiony owoc żywota Twojego,\npo tym wygnaniu nam okaż.\nO łaskawa,\nO litościwa,\nO słodka Panno Maryjo.",
+  "note": "Salve Regina is a beloved Marian antiphon traditionally prayed at the end of the Rosary and in the Church's night prayer.",
+  "note_es": "La Salve Regina es una querida antífona mariana que tradicionalmente se reza al final del Rosario y en la oración nocturna de la Iglesia.",
+  "note_pl": "Salve Regina to ukochana antyfona maryjna, tradycyjnie odmawiana na zakończenie Różańca i w modlitwie nocnej Kościoła.",
+  "source": {
+    "type": "user_provided",
+    "title": "Salve Regina"
+  }
+}
