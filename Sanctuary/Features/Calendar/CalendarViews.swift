@@ -52,10 +52,11 @@ struct NovenasCalendarView: View {
     }
 
     var body: some View {
-        let monthName = monthTitle(selectedMonth)
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
         CalendarScaffold(
-            headerTitle: mode == .day ? "\(monthName) \(selectedDay), \(selectedYear)" : "\(monthName) \(selectedYear)",
+            headerTitle: mode == .day
+                ? localization.formatMonthDayYear(month: selectedMonth, day: selectedDay, year: selectedYear)
+                : localization.formatMonthYear(month: selectedMonth, year: selectedYear),
             subtitle: localization.t("calendar.subtitle.novenas"),
             mode: $mode,
             searchTitle: localization.t("calendar.searchNovenas"),
@@ -110,7 +111,7 @@ struct NovenasCalendarView: View {
                         if let next {
                             selectedNovenaSelection = CalendarSelection(id: next)
                         } else {
-                            tapFeedbackMessage = "\(localization.t("calendar.noNovenaMapped")) \(monthName) \(selectedDay)."
+                            tapFeedbackMessage = "\(localization.t("calendar.noNovenaMapped")) \(localization.monthName(selectedMonth)) \(selectedDay)."
                         }
                     }
                 )
@@ -276,10 +277,11 @@ struct LiturgicalCalendarView: View {
     }
 
     var body: some View {
-        let monthName = monthTitle(selectedMonth)
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
         CalendarScaffold(
-            headerTitle: mode == .day ? "\(monthName) \(selectedDay), \(selectedYear)" : "\(monthName) \(selectedYear)",
+            headerTitle: mode == .day
+                ? localization.formatMonthDayYear(month: selectedMonth, day: selectedDay, year: selectedYear)
+                : localization.formatMonthYear(month: selectedMonth, year: selectedYear),
             subtitle: localization.t("calendar.subtitle.liturgical"),
             mode: $mode,
             searchTitle: localization.t("calendar.search"),
@@ -352,22 +354,25 @@ struct LiturgicalCalendarView: View {
     }
 
     private func liturgicalTitleForDay() -> String {
-        LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.rank ?? localization.t("calendar.dailyReadings")
+        if let rank = LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.rank {
+            return localizedLiturgicalRank(rank, localization: localization)
+        }
+        return localization.t("calendar.dailyReadings")
     }
 
     private func liturgicalLabel(for day: Int) -> String {
         if let entry = LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: day) {
-            return shortLabel(entry.rank)
+            return shortLabel(localizedLiturgicalRank(entry.rank, localization: localization))
         }
         return "📖"
     }
 
     private func liturgicalReadingURLForDay() -> URL {
         if let raw = LiturgicalLookup.day(forYear: selectedYear, month: selectedMonth, day: selectedDay)?.readingURL,
-           let url = urlFromString(raw) {
+           let url = localization.language.localizedDailyReadingsURL(from: raw) {
             return url
         }
-        return URL(string: "https://bible.usccb.org/daily-bible-reading")!
+        return localization.language.dailyReadingsLandingURL
     }
 
     private func selectedDate() -> Date {
@@ -443,10 +448,12 @@ struct SaintsCalendarView: View {
     }
 
     var body: some View {
-        let monthName = monthTitle(selectedMonth)
+        let monthName = localization.monthName(selectedMonth)
         let maxDay = daysInMonth(year: selectedYear, month: selectedMonth)
         CalendarScaffold(
-            headerTitle: mode == .day ? "\(monthName) \(selectedDay), \(selectedYear)" : "\(monthName) \(selectedYear)",
+            headerTitle: mode == .day
+                ? localization.formatMonthDayYear(month: selectedMonth, day: selectedDay, year: selectedYear)
+                : localization.formatMonthYear(month: selectedMonth, year: selectedYear),
             subtitle: localization.t("calendar.subtitle.saints"),
             mode: $mode,
             searchTitle: localization.t("calendar.searchSaints"),
@@ -1288,11 +1295,6 @@ private func shortLabel(_ raw: String, max: Int = 14) -> String {
     return String(trimmed.prefix(max - 1)) + "…"
 }
 
-private func monthTitle(_ month: Int) -> String {
-    let formatter = DateFormatter()
-    return formatter.monthSymbols[max(0, min(11, month - 1))]
-}
-
 private func daysInMonth(year: Int, month: Int) -> Int {
     var components = DateComponents()
     components.year = year
@@ -1328,6 +1330,41 @@ private enum LiturgicalLookup {
 private struct ReadingSelection: Identifiable {
     let id = UUID()
     let url: URL
+}
+
+private func localizedLiturgicalRank(_ raw: String, localization: LocalizationManager) -> String {
+    switch localization.language {
+    case .en:
+        return raw
+    case .es:
+        return raw
+            .replacingOccurrences(of: "Sunday", with: "Domingo")
+            .replacingOccurrences(of: "Monday", with: "Lunes")
+            .replacingOccurrences(of: "Tuesday", with: "Martes")
+            .replacingOccurrences(of: "Wednesday", with: "Miércoles")
+            .replacingOccurrences(of: "Thursday", with: "Jueves")
+            .replacingOccurrences(of: "Friday", with: "Viernes")
+            .replacingOccurrences(of: "Saturday", with: "Sábado")
+            .replacingOccurrences(of: " of Lent", with: " de Cuaresma")
+            .replacingOccurrences(of: " of Advent", with: " de Adviento")
+            .replacingOccurrences(of: " of Easter", with: " de Pascua")
+            .replacingOccurrences(of: " of Christmas", with: " de Navidad")
+            .replacingOccurrences(of: " of Ordinary Time", with: " del Tiempo Ordinario")
+    case .pl:
+        return raw
+            .replacingOccurrences(of: "Sunday", with: "Niedziela")
+            .replacingOccurrences(of: "Monday", with: "Poniedziałek")
+            .replacingOccurrences(of: "Tuesday", with: "Wtorek")
+            .replacingOccurrences(of: "Wednesday", with: "Środa")
+            .replacingOccurrences(of: "Thursday", with: "Czwartek")
+            .replacingOccurrences(of: "Friday", with: "Piątek")
+            .replacingOccurrences(of: "Saturday", with: "Sobota")
+            .replacingOccurrences(of: " of Lent", with: " Wielkiego Postu")
+            .replacingOccurrences(of: " of Advent", with: " Adwentu")
+            .replacingOccurrences(of: " of Easter", with: " Okresu Wielkanocnego")
+            .replacingOccurrences(of: " of Christmas", with: " Okresu Bożego Narodzenia")
+            .replacingOccurrences(of: " of Ordinary Time", with: " Okresu Zwykłego")
+    }
 }
 
 private struct CalendarDatePickerSheet: View {
@@ -1369,6 +1406,7 @@ private struct CalendarDatePickerSheet: View {
                 }
             }
         }
+        .environment(\.locale, localization.language.locale)
         .presentationDetents([.medium, .large])
     }
 }
