@@ -95,7 +95,7 @@ struct HomeView: View {
                                         .foregroundStyle(AppTheme.subtitleText)
                                 }
 
-                                Text("Prayer, liturgy, and saints in one calm place.")
+                                Text(localization.t("home.supporting"))
                                     .font(AppTheme.rounded(14 * scale, weight: .medium))
                                     .foregroundStyle(Color.white.opacity(0.65))
                                     .multilineTextAlignment(.center)

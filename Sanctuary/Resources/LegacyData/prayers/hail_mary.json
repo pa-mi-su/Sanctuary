@@ -1,0 +1,20 @@
+{
+  "id": "hail_mary",
+  "title": "Hail Mary",
+  "title_es": "Dios te salve, María",
+  "title_pl": "Zdrowaś Maryjo",
+  "alternateTitle": "Ave Maria",
+  "alternateTitle_es": "Ave María",
+  "alternateTitle_pl": "Ave Maria",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/hail_mary.jpg",
+  "prayerText": "Hail Mary,\nFull of Grace,\nThe Lord is with thee.\nBlessed art thou among women,\nand blessed is the fruit\nof thy womb, Jesus.\nHoly Mary,\nMother of God,\npray for us sinners now,\nand at the hour of our death.\nAmen.",
+  "prayerText_es": "Dios te salve, María,\nllena eres de gracia,\nel Señor es contigo.\nBendita tú eres entre todas las mujeres,\ny bendito es el fruto de tu vientre, Jesús.\nSanta María,\nMadre de Dios,\nruega por nosotros pecadores,\nahora y en la hora de nuestra muerte.\nAmén.",
+  "prayerText_pl": "Zdrowaś Maryjo,\nłaski pełna,\nPan z Tobą,\nbłogosławionaś Ty między niewiastami\ni błogosławiony owoc żywota Twojego, Jezus.\nŚwięta Maryjo,\nMatko Boża,\nmódl się za nami grzesznymi,\nteraz i w godzinę śmierci naszej.\nAmen.",
+  "note": "One of the most beloved Marian prayers of the Church.",
+  "note_es": "Una de las oraciones marianas más queridas de la Iglesia.",
+  "note_pl": "Jedna z najbardziej umiłowanych modlitw maryjnych Kościoła.",
+  "source": {
+    "type": "user_provided",
+    "title": "Hail Mary"
+  }
+}

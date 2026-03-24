@@ -1,0 +1,20 @@
+{
+  "id": "apostles_creed",
+  "title": "Apostles' Creed",
+  "title_es": "Credo de los Apóstoles",
+  "title_pl": "Skład Apostolski",
+  "alternateTitle": "Symbolum Apostolorum",
+  "alternateTitle_es": "Symbolum Apostolorum",
+  "alternateTitle_pl": "Symbolum Apostolorum",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/apostles_creed.png",
+  "prayerText": "I believe in God, the Father Almighty, Creator of Heaven and earth;\nand in Jesus Christ, His only Son Our Lord,\nWho was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried.\nHe descended into Hell; the third day He rose again from the dead;\nHe ascended into Heaven, and sitteth at the right hand of God, the Father almighty; from thence He shall come to judge the living and the dead.\nI believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body and life everlasting. Amen.",
+  "prayerText_es": "Creo en Dios, Padre todopoderoso,\nCreador del cielo y de la tierra.\nCreo en Jesucristo, su único Hijo, nuestro Señor,\nque fue concebido por obra y gracia del Espíritu Santo,\nnació de santa María Virgen,\npadeció bajo el poder de Poncio Pilato,\nfue crucificado, muerto y sepultado,\ndescendió a los infiernos,\nal tercer día resucitó de entre los muertos,\nsubió a los cielos y está sentado a la derecha de Dios, Padre todopoderoso.\nDesde allí ha de venir a juzgar a vivos y muertos.\nCreo en el Espíritu Santo,\nla santa Iglesia católica,\nla comunión de los santos,\nel perdón de los pecados,\nla resurrección de la carne\ny la vida eterna. Amén.",
+  "prayerText_pl": "Wierzę w Boga,\nOjca wszechmogącego,\nStworzyciela nieba i ziemi.\nI w Jezusa Chrystusa,\nSyna Jego jedynego, Pana naszego,\nktóry się począł z Ducha Świętego,\nnarodził się z Maryi Panny,\numęczon pod Ponckim Piłatem,\nukrzyżowan, umarł i pogrzebion.\nZstąpił do piekieł,\ntrzeciego dnia zmartwychwstał.\nWstąpił na niebiosa,\nsiedzi po prawicy Boga Ojca wszechmogącego.\nStamtąd przyjdzie sądzić żywych i umarłych.\nWierzę w Ducha Świętego,\nświęty Kościół powszechny,\nświętych obcowanie,\ngrzechów odpuszczenie,\nciała zmartwychwstanie,\nżywot wieczny. Amen.",
+  "note": "The Apostles' Creed is a concise profession of faith traditionally prayed in the Rosary and in many Catholic devotions.",
+  "note_es": "El Credo de los Apóstoles es una profesión de fe breve que se reza tradicionalmente en el Rosario y en muchas devociones católicas.",
+  "note_pl": "Skład Apostolski to krótkie wyznanie wiary, tradycyjnie odmawiane w Różańcu i wielu nabożeństwach katolickich.",
+  "source": {
+    "type": "user_provided",
+    "title": "Apostles' Creed"
+  }
+}

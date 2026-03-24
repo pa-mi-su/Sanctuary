@@ -66,11 +66,7 @@ struct NovenaDetailView: View {
         guard let window = ContentStore.novenaServingWindow(id: effectiveNovena.id, year: year) else {
             return nil
         }
-        let calendar = Calendar(identifier: .gregorian)
-        let startYear = calendar.component(.year, from: window.start)
-        let month = calendar.component(.month, from: window.start)
-        let day = calendar.component(.day, from: window.start)
-        return String(format: "%04d-%02d-%02d", startYear, month, day)
+        return localization.formatMonthDay(window.start)
     }
 
     private var novenaEndDateString: String? {
@@ -78,10 +74,7 @@ struct NovenaDetailView: View {
         guard let date = ContentStore.novenaFeastDate(id: effectiveNovena.id, year: year) else {
             return nil
         }
-        let calendar = Calendar(identifier: .gregorian)
-        let month = calendar.component(.month, from: date)
-        let day = calendar.component(.day, from: date)
-        return String(format: "%04d-%02d-%02d", year, month, day)
+        return localization.formatMonthDay(date)
     }
 
     private var currentCommitment: UserNovenaCommitment? {
