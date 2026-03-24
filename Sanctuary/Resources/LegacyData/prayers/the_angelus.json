@@ -1,0 +1,20 @@
+{
+  "id": "the_angelus",
+  "title": "The Angelus",
+  "title_es": "El Ángelus",
+  "title_pl": "Anioł Pański",
+  "alternateTitle": "Angelus Domini",
+  "alternateTitle_es": "Angelus Domini",
+  "alternateTitle_pl": "Angelus Domini",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/the_angelus.png",
+  "prayerText": "The Angel of the Lord declared to Mary:\nAnd she conceived of the Holy Spirit.\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou among women and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\n\nBehold the handmaid of the Lord:\nBe it done unto me according to Thy word.\n\nHail Mary . . .\n\nAnd the Word was made Flesh:\nAnd dwelt among us.\n\nHail Mary . . .\n\nPray for us, O Holy Mother of God,\nthat we may be made worthy of the promises of Christ.\n\nLet us pray:\n\nPour forth, we beseech Thee, O Lord, Thy grace into our hearts; that we, to whom the incarnation of Christ, Thy Son, was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ Our Lord. Amen.",
+  "prayerText_es": "El Ángel del Señor anunció a María.\nY concibió por obra del Espíritu Santo.\n\nDios te salve, María, llena eres de gracia; el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.\n\nHe aquí la esclava del Señor.\nHágase en mí según tu palabra.\n\nDios te salve, María . . .\n\nY el Verbo se hizo carne.\nY habitó entre nosotros.\n\nDios te salve, María . . .\n\nRuega por nosotros, Santa Madre de Dios,\npara que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo.\n\nOremos:\n\nDerrama, Señor, tu gracia en nuestros corazones, para que cuantos hemos conocido por el anuncio del ángel la encarnación de tu Hijo Jesucristo, por su Pasión y su Cruz lleguemos a la gloria de la Resurrección. Por el mismo Jesucristo, nuestro Señor. Amén.",
+  "prayerText_pl": "Anioł Pański zwiastował Pannie Maryi.\nI poczęła z Ducha Świętego.\n\nZdrowaś Maryjo, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej. Amen.\n\nOto ja służebnica Pańska.\nNiech mi się stanie według słowa twego.\n\nZdrowaś Maryjo . . .\n\nA Słowo stało się ciałem.\nI zamieszkało między nami.\n\nZdrowaś Maryjo . . .\n\nMódl się za nami, święta Boża Rodzicielko,\nabyśmy się stali godnymi obietnic Chrystusowych.\n\nMódlmy się:\n\nŁaskę Twoją, prosimy Cię, Panie, racz wlać w serca nasze, abyśmy, którzy za zwiastowaniem anielskim wcielenie Chrystusa, Syna Twego, poznali, przez Jego mękę i krzyż do chwały zmartwychwstania byli doprowadzeni. Przez tegoż Chrystusa, Pana naszego. Amen.",
+  "note": "The Angelus is a traditional Catholic devotion commemorating the Incarnation, often prayed morning, noon, and evening.",
+  "note_es": "El Ángelus es una devoción católica tradicional que conmemora la Encarnación y suele rezarse por la mañana, al mediodía y por la tarde.",
+  "note_pl": "Anioł Pański to tradycyjne nabożeństwo katolickie upamiętniające Wcielenie, zwykle odmawiane rano, w południe i wieczorem.",
+  "source": {
+    "type": "user_provided",
+    "title": "The Angelus / Angelus Domini"
+  }
+}

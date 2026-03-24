@@ -2,5 +2,57 @@
   {
     "id": "prayer_to_st_joseph",
     "title": "Prayer to St. Joseph"
+  },
+  {
+    "id": "prayer_to_st_michael_the_archangel",
+    "title": "Prayer to St. Michael the Archangel"
+  },
+  {
+    "id": "magnificat",
+    "title": "The Magnificat"
+  },
+  {
+    "id": "the_angelus",
+    "title": "The Angelus"
+  },
+  {
+    "id": "nicene_creed",
+    "title": "Nicene Creed"
+  },
+  {
+    "id": "apostles_creed",
+    "title": "Apostles' Creed"
+  },
+  {
+    "id": "salve_regina",
+    "title": "Salve Regina (Hail, Holy Queen)"
+  },
+  {
+    "id": "prayer_of_st_thomas_aquinas",
+    "title": "Prayer of St. Thomas Aquinas"
+  },
+  {
+    "id": "prayer_of_st_dominic",
+    "title": "Prayer of St. Dominic"
+  },
+  {
+    "id": "prayer_in_honor_of_st_peter_julian_eymard",
+    "title": "Prayer in Honor of St. Peter Julian Eymard"
+  },
+  {
+    "id": "prayer_to_our_lady_guadalupe_apostolate",
+    "title": "Prayer to Our Lady Guadalupe Apostolate"
+  },
+  {
+    "id": "hail_mary",
+    "title": "Hail Mary"
+  },
+  {
+    "id": "our_father",
+    "title": "Our Father"
+  },
+  {
+    "id": "glory_be",
+    "title": "Glory Be"
   }
 ]

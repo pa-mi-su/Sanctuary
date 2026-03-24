@@ -57,7 +57,7 @@ struct SaintDetailView: View {
         }()
         let month = parsedMonthDay?.0 ?? saint.feastMonth
         let day = parsedMonthDay?.1 ?? saint.feastDay
-        return String(format: "%04d-%02d-%02d", year, month, day)
+        return localization.formatMonthDay(month: month, day: day, year: year)
     }
 
     private func handleBack() {

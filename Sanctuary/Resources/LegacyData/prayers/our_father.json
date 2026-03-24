@@ -1,0 +1,20 @@
+{
+  "id": "our_father",
+  "title": "Our Father",
+  "title_es": "Padre Nuestro",
+  "title_pl": "Ojcze nasz",
+  "alternateTitle": "The Lord's Prayer",
+  "alternateTitle_es": "La Oración del Señor",
+  "alternateTitle_pl": "Modlitwa Pańska",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/our_father.jpg",
+  "prayerText": "Our Father,\nwho art in heaven,\nhallowed be thy name.\nThy kingdom come,\nthy will be done,\non earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil.\nAmen.",
+  "prayerText_es": "Padre nuestro,\nque estás en el cielo,\nsantificado sea tu Nombre;\nvenga a nosotros tu reino;\nhágase tu voluntad\nen la tierra como en el cielo.\nDanos hoy nuestro pan de cada día;\nperdona nuestras ofensas,\ncomo también nosotros perdonamos\na los que nos ofenden;\nno nos dejes caer en la tentación,\ny líbranos del mal.\nAmén.",
+  "prayerText_pl": "Ojcze nasz,\nktóryś jest w niebie,\nświęć się imię Twoje;\nprzyjdź królestwo Twoje;\nbądź wola Twoja,\njako w niebie, tak i na ziemi.\nChleba naszego powszedniego daj nam dzisiaj;\ni odpuść nam nasze winy,\njako i my odpuszczamy naszym winowajcom;\ni nie wódź nas na pokuszenie,\nale nas zbaw ode złego.\nAmen.",
+  "note": "The prayer Jesus taught his disciples.",
+  "note_es": "La oración que Jesús enseñó a sus discípulos.",
+  "note_pl": "Modlitwa, której Jezus nauczył swoich uczniów.",
+  "source": {
+    "type": "user_provided",
+    "title": "Our Father"
+  }
+}

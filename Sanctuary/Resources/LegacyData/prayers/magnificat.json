@@ -1,0 +1,20 @@
+{
+  "id": "magnificat",
+  "title": "The Magnificat",
+  "title_es": "El Magníficat",
+  "title_pl": "Magnificat",
+  "alternateTitle": "Canticle of Mary",
+  "alternateTitle_es": "Cántico de María",
+  "alternateTitle_pl": "Pieśń Maryi",
+  "photoUrl": "https://sanctuaryapp-media-prod.s3.us-east-1.amazonaws.com/prayers/magnificat.jpg",
+  "prayerText": "My soul proclaims the greatness of the Lord,\nmy spirit rejoices in God my Savior\nfor he has looked with favor on his lowly servant.\nFrom this day all generations will call me blessed:\nthe Almighty has done great things for me,\nand holy is his Name.\n\nHe has mercy on those who fear him\nin every generation.\nHe has shown the strength of his arm,\nhe has scattered the proud in their conceit.\n\nHe has cast down the mighty from their thrones,\nand has lifted up the lowly.\nHe has filled the hungry with good things,\nand the rich he has sent away empty.\n\nHe has come to the help of his servant Israel\nfor he remembered his promise of mercy,\nthe promise he made to our fathers,\nto Abraham and his children forever.",
+  "prayerText_es": "Proclama mi alma la grandeza del Señor,\nse alegra mi espíritu en Dios mi salvador,\nporque ha mirado la humildad de su esclava.\nDesde ahora me felicitarán todas las generaciones,\nporque el Poderoso ha hecho obras grandes por mí:\nsu nombre es santo.\n\nY su misericordia llega a sus fieles\nde generación en generación.\nÉl hace proezas con su brazo,\ndispersa a los soberbios de corazón.\n\nDerriba del trono a los poderosos\ny enaltece a los humildes.\nA los hambrientos los colma de bienes\ny a los ricos los despide vacíos.\n\nAuxilia a Israel, su siervo,\nacordándose de su misericordia,\ncomo lo había prometido a nuestros padres,\nen favor de Abraham y su descendencia por siempre.",
+  "prayerText_pl": "Wielbi dusza moja Pana,\ni raduje się duch mój w Bogu, Zbawcy moim,\nbo wejrzał na uniżenie swojej Służebnicy.\nOto bowiem odtąd błogosławić mnie będą wszystkie pokolenia,\ngdyż wielkie rzeczy uczynił mi Wszechmocny.\nŚwięte jest Jego imię.\n\nA Jego miłosierdzie z pokolenia na pokolenie\nnad tymi, którzy się Go boją.\nOkazał moc swego ramienia,\nrozproszył pyszniących się zamysłami serc swoich.\n\nStrącił władców z tronu,\na wywyższył pokornych.\nGłodnych nasycił dobrami,\na bogatych z niczym odprawił.\n\nUjął się za swoim sługą, Izraelem,\npomny na swe miłosierdzie,\njak przyobiecał naszym ojcom,\nAbrahamowi i jego potomstwu na wieki.",
+  "note": "The Magnificat is the Canticle of Mary from Luke 1:46-55, prayed daily in the Church's Evening Prayer.",
+  "note_es": "El Magníficat es el Cántico de María de Lucas 1, 46-55, rezado diariamente en las Vísperas de la Iglesia.",
+  "note_pl": "Magnificat to Pieśń Maryi z Ewangelii według św. Łukasza 1,46-55, odmawiana codziennie w Nieszporach Kościoła.",
+  "source": {
+    "type": "user_provided",
+    "title": "Luke 1:46-55"
+  }
+}

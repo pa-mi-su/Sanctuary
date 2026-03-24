@@ -87,6 +87,8 @@ struct ParishFinderView: View {
                             viewModel.findNearestParish()
                         }
                         .buttonStyle(PrimaryPillButtonStyle())
+                        .disabled(viewModel.isLoading)
+                        .opacity(viewModel.isLoading ? 0.72 : 1)
 
                         if viewModel.isLoading {
                             ParishLoadingCard(localization: localization)
@@ -246,6 +248,7 @@ final class ParishFinderViewModel: NSObject, ObservableObject, CLLocationManager
     }
 
     func findNearestParish() {
+        guard !isLoading else { return }
         nearestParish = nil
         errorMessageKey = nil
         isLoading = true
