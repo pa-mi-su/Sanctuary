@@ -3,8 +3,8 @@
   "name": "Saint Pontius",
   "mmdd": "05-14",
   "feast": "The Fourteenth Day of May",
-  "summary": "Saint Pontius may refer to a number of Catholic saints:Pontius of Carthage, Christian saint and Latin author from Carthage\nPontius of Cimiez, Roman saint\nEbontius, also known as Pontius, Bishop of Barbastro, Spain\n",
-  "biography": "Pontius of Carthage (mid-third century), Christian saint and Latin author from Carthage\nPontius of Cimiez (died 257), Roman saint\nEbontius (died 1104), also known as Pontius, Bishop of Barbastro, Spain",
+  "summary": "Saint Pontius may refer to a number of Catholic saints:Pontius of Carthage, Christian saint and Latin author from Carthage Pontius of Cimiez, Roman saint Ebontius, also known as Pontius, Bishop of Barbastro, Spain",
+  "biography": "Pontius of Carthage (mid-third century), Christian saint and Latin author from Carthage Pontius of Cimiez (died 257), Roman saint Ebontius (died 1104), also known as Pontius, Bishop of Barbastro, Spain",
   "prayers": [],
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Pontius"
@@ -71,8 +71,8 @@
   "name_pl": "Święty Pontiusz",
   "feast_es": "El día catorce de mayo",
   "feast_pl": "Czternasty Dzień Maja",
-  "summary_es": "San Pontio puede referirse a varios santos católicos:  \nPontio de Cartago, santo cristiano y autor latino de Cartago  \nPontio de Cimiez, santo romano  \nEbontio, también conocido como Pontio, obispo de Barbastro, España",
-  "summary_pl": "Święty Pontius może odnosić się do kilku katolickich świętych:  \nPontius z Kartaginy, święty chrześcijański i autor łaciński z Kartaginy  \nPontius z Cimiez, święty rzymski  \nEbontius, znany również jako Pontius, biskup Barbastro w Hiszpanii",
-  "biography_es": "Ponciano de Cartago (mediados del siglo III), santo cristiano y autor latino de Cartago  \nPonciano de Cimiez (fallecido en 257), santo romano  \nEbontio (fallecido en 1104), también conocido como Ponciano, obispo de Barbastro, España",
-  "biography_pl": "Pontius z Kartaginy (połowa III wieku), święty chrześcijański i autor łaciński z Kartaginy  \nPontius z Cimiez (zm. 257), święty rzymski  \nEbontius (zm. 1104), znany również jako Pontius, biskup Barbastro w Hiszpanii"
+  "summary_es": "San Pontio puede referirse a varios santos católicos: Pontio de Cartago, santo cristiano y autor latino de Cartago Pontio de Cimiez, santo romano Ebontio, también conocido como Pontio, obispo de Barbastro, España",
+  "summary_pl": "Święty Pontius może odnosić się do kilku katolickich świętych: Pontius z Kartaginy, święty chrześcijański i autor łaciński z Kartaginy Pontius z Cimiez, święty rzymski Ebontius, znany również jako Pontius, biskup Barbastro w Hiszpanii",
+  "biography_es": "Ponciano de Cartago (mediados del siglo III), santo cristiano y autor latino de Cartago Ponciano de Cimiez (fallecido en 257), santo romano Ebontio (fallecido en 1104), también conocido como Ponciano, obispo de Barbastro, España",
+  "biography_pl": "Pontius z Kartaginy (połowa III wieku), święty chrześcijański i autor łaciński z Kartaginy Pontius z Cimiez (zm. 257), święty rzymski Ebontius (zm. 1104), znany również jako Pontius, biskup Barbastro w Hiszpanii"
 }
