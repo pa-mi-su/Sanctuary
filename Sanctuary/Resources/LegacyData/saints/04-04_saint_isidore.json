@@ -4,7 +4,7 @@
   "mmdd": "04-04",
   "feast": "The Fourth Day of April",
   "summary": "Isidore of Seville was a Hispano-Roman scholar, theologian and archbishop of Seville. He is widely regarded, in the words of the 19th-century historian Charles Forbes René de Montalembert, as \"the last scholar of the ancient world\".",
-  "biography": "Childhood and education...",
+  "biography": "Childhood and education",
   "prayers": [],
   "sources": [
     "https://en.wikipedia.org/wiki/Isidore_of_Seville",
@@ -75,6 +75,6 @@
   "feast_pl": "Czwarty dzień kwietnia",
   "summary_es": "Isidoro de Sevilla fue un erudito hispano-romano, teólogo y arzobispo de Sevilla. Es ampliamente considerado, en palabras del historiador del siglo XIX Charles Forbes René de Montalembert, como \"el último erudito del mundo antiguo\".",
   "summary_pl": "Izydor z Sewilli był hiszpańsko-rzymskim uczonym, teologiem i arcybiskupem Sewilli. Jest powszechnie uważany, słowami historyka XIX wieku Charlesa Forbesa René de Montalemberta, za „ostatniego uczonego starożytnego świata”.",
-  "biography_es": "Infancia y educación...",
-  "biography_pl": "Dzieciństwo i wychowanie..."
+  "biography_es": "Infancia y educación",
+  "biography_pl": "Dzieciństwo i wychowanie"
 }
